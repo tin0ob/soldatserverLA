@@ -1,0 +1,413 @@
+19-07-28 02:28:19    Log Started
+19-07-28 02:28:19 Opened /home/tino/gathers/servers/gather18/soldat.ini
+19-07-28 02:29:14 TCP/IP File Server started
+19-07-28 02:59:14 TCP/IP File Server started
+19-07-28 03:29:14 TCP/IP File Server started
+19-07-28 03:59:14 TCP/IP File Server started
+19-07-28 04:29:14 TCP/IP File Server started
+19-07-28 04:59:14 TCP/IP File Server started
+19-07-28 05:29:14 TCP/IP File Server started
+19-07-28 05:59:14 TCP/IP File Server started
+19-07-28 06:29:14 TCP/IP File Server started
+19-07-28 06:59:14 TCP/IP File Server started
+19-07-28 07:29:14 TCP/IP File Server started
+19-07-28 07:59:14 TCP/IP File Server started
+19-07-28 08:29:14 TCP/IP File Server started
+19-07-28 08:59:14 TCP/IP File Server started
+19-07-28 09:29:14 TCP/IP File Server started
+19-07-28 09:59:14 TCP/IP File Server started
+19-07-28 10:29:14 TCP/IP File Server started
+19-07-28 10:59:14 TCP/IP File Server started
+19-07-28 11:29:14 TCP/IP File Server started
+19-07-28 11:59:14 TCP/IP File Server started
+19-07-28 12:29:14 TCP/IP File Server started
+19-07-28 12:59:14 TCP/IP File Server started
+19-07-28 13:29:14 TCP/IP File Server started
+19-07-28 13:59:14 TCP/IP File Server started
+19-07-28 14:29:14 TCP/IP File Server started
+19-07-28 14:59:14 TCP/IP File Server started
+19-07-28 15:29:14 TCP/IP File Server started
+19-07-28 15:59:14 TCP/IP File Server started
+19-07-28 16:29:14 TCP/IP File Server started
+19-07-28 16:59:14 TCP/IP File Server started
+19-07-28 17:29:14 TCP/IP File Server started
+19-07-28 17:59:14 TCP/IP File Server started
+19-07-28 18:29:14 TCP/IP File Server started
+19-07-28 18:59:14 TCP/IP File Server started
+19-07-28 19:29:14 TCP/IP File Server started
+19-07-28 19:59:14 TCP/IP File Server started
+19-07-28 20:29:14 TCP/IP File Server started
+19-07-28 20:59:14 TCP/IP File Server started
+19-07-28 21:29:14 TCP/IP File Server started
+19-07-28 21:59:14 TCP/IP File Server started
+19-07-28 22:29:14 TCP/IP File Server started
+19-07-28 22:59:14 TCP/IP File Server started
+19-07-28 23:29:14 TCP/IP File Server started
+19-07-28 23:59:14 TCP/IP File Server started
+19-07-29 00:29:14 TCP/IP File Server started
+19-07-29 00:59:14 TCP/IP File Server started
+19-07-29 01:29:14 TCP/IP File Server started
+19-07-29 01:59:14 TCP/IP File Server started
+19-07-29 02:29:14 TCP/IP File Server started
+19-07-29 02:59:14 TCP/IP File Server started
+19-07-29 03:29:14 TCP/IP File Server started
+19-07-29 03:59:14 TCP/IP File Server started
+19-07-29 04:29:14 TCP/IP File Server started
+19-07-29 04:59:14 TCP/IP File Server started
+19-07-29 05:29:14 TCP/IP File Server started
+19-07-29 05:59:14 TCP/IP File Server started
+19-07-29 06:29:14 TCP/IP File Server started
+19-07-29 06:59:14 TCP/IP File Server started
+19-07-29 07:29:14 TCP/IP File Server started
+19-07-29 07:59:14 TCP/IP File Server started
+19-07-29 08:29:14 TCP/IP File Server started
+19-07-29 08:59:14 TCP/IP File Server started
+19-07-29 09:29:14 TCP/IP File Server started
+19-07-29 09:59:14 TCP/IP File Server started
+19-07-29 10:29:14 TCP/IP File Server started
+19-07-29 10:59:14 TCP/IP File Server started
+19-07-29 11:29:14 TCP/IP File Server started
+19-07-29 11:59:14 TCP/IP File Server started
+19-07-29 12:29:14 TCP/IP File Server started
+19-07-29 12:59:14 TCP/IP File Server started
+19-07-29 13:29:14 TCP/IP File Server started
+19-07-29 13:59:14 TCP/IP File Server started
+19-07-29 14:29:14 TCP/IP File Server started
+19-07-29 14:59:14 TCP/IP File Server started
+19-07-29 15:29:14 TCP/IP File Server started
+19-07-29 15:59:14 TCP/IP File Server started
+19-07-29 16:29:14 TCP/IP File Server started
+19-07-29 16:59:14 TCP/IP File Server started
+19-07-29 17:29:14 TCP/IP File Server started
+19-07-29 17:59:14 TCP/IP File Server started
+19-07-29 18:29:14 TCP/IP File Server started
+19-07-29 18:59:14 TCP/IP File Server started
+19-07-29 19:29:14 TCP/IP File Server started
+19-07-29 19:59:14 TCP/IP File Server started
+19-07-29 20:29:14 TCP/IP File Server started
+19-07-29 20:59:14 TCP/IP File Server started
+19-07-29 21:29:14 TCP/IP File Server started
+19-07-29 21:59:14 TCP/IP File Server started
+19-07-29 22:29:14 TCP/IP File Server started
+19-07-29 22:59:14 TCP/IP File Server started
+19-07-29 23:29:14 TCP/IP File Server started
+19-07-29 23:59:14 TCP/IP File Server started
+19-07-30 00:29:14 TCP/IP File Server started
+19-07-30 00:59:14 TCP/IP File Server started
+19-07-30 01:29:14 TCP/IP File Server started
+19-07-30 01:59:14 TCP/IP File Server started
+19-07-30 02:29:14 TCP/IP File Server started
+19-07-30 02:59:14 TCP/IP File Server started
+19-07-30 03:29:14 TCP/IP File Server started
+19-07-30 03:59:14 TCP/IP File Server started
+19-07-30 04:29:14 TCP/IP File Server started
+19-07-30 04:59:14 TCP/IP File Server started
+19-07-30 05:29:14 TCP/IP File Server started
+19-07-30 05:59:14 TCP/IP File Server started
+19-07-30 06:29:14 TCP/IP File Server started
+19-07-30 06:59:14 TCP/IP File Server started
+19-07-30 07:29:14 TCP/IP File Server started
+19-07-30 07:59:14 TCP/IP File Server started
+19-07-30 08:29:14 TCP/IP File Server started
+19-07-30 08:59:14 TCP/IP File Server started
+19-07-30 09:29:14 TCP/IP File Server started
+19-07-30 09:59:14 TCP/IP File Server started
+19-07-30 10:29:14 TCP/IP File Server started
+19-07-30 10:59:14 TCP/IP File Server started
+19-07-30 11:29:14 TCP/IP File Server started
+19-07-30 11:59:14 TCP/IP File Server started
+19-07-30 12:29:14 TCP/IP File Server started
+19-07-30 12:59:14 TCP/IP File Server started
+19-07-30 13:29:14 TCP/IP File Server started
+19-07-30 13:59:14 TCP/IP File Server started
+19-07-30 14:29:14 TCP/IP File Server started
+19-07-30 14:59:14 TCP/IP File Server started
+19-07-30 15:29:14 TCP/IP File Server started
+19-07-30 15:59:14 TCP/IP File Server started
+19-07-30 16:29:14 TCP/IP File Server started
+19-07-30 16:59:14 TCP/IP File Server started
+19-07-30 17:29:14 TCP/IP File Server started
+19-07-30 17:59:14 TCP/IP File Server started
+19-07-30 18:29:14 TCP/IP File Server started
+19-07-30 18:59:14 TCP/IP File Server started
+19-07-30 19:29:14 TCP/IP File Server started
+19-07-30 19:59:14 TCP/IP File Server started
+19-07-30 20:29:14 TCP/IP File Server started
+19-07-30 20:59:14 TCP/IP File Server started
+19-07-30 21:29:14 TCP/IP File Server started
+19-07-30 21:59:14 TCP/IP File Server started
+19-07-30 22:29:14 TCP/IP File Server started
+19-07-30 22:59:14 TCP/IP File Server started
+19-07-30 23:29:14 TCP/IP File Server started
+19-07-30 23:59:14 TCP/IP File Server started
+19-07-31 00:29:14 TCP/IP File Server started
+19-07-31 00:59:14 TCP/IP File Server started
+19-07-31 01:29:14 TCP/IP File Server started
+19-07-31 01:59:14 TCP/IP File Server started
+19-07-31 02:29:14 TCP/IP File Server started
+19-07-31 02:59:14 TCP/IP File Server started
+19-07-31 03:29:14 TCP/IP File Server started
+19-07-31 03:59:14 TCP/IP File Server started
+19-07-31 04:29:14 TCP/IP File Server started
+19-07-31 04:59:14 TCP/IP File Server started
+19-07-31 05:29:14 TCP/IP File Server started
+19-07-31 05:59:14 TCP/IP File Server started
+19-07-31 06:29:14 TCP/IP File Server started
+19-07-31 06:59:14 TCP/IP File Server started
+19-07-31 07:29:14 TCP/IP File Server started
+19-07-31 07:59:14 TCP/IP File Server started
+19-07-31 08:29:14 TCP/IP File Server started
+19-07-31 08:59:14 TCP/IP File Server started
+19-07-31 09:29:14 TCP/IP File Server started
+19-07-31 09:59:14 TCP/IP File Server started
+19-07-31 10:29:14 TCP/IP File Server started
+19-07-31 10:59:14 TCP/IP File Server started
+19-07-31 11:29:14 TCP/IP File Server started
+19-07-31 11:59:14 TCP/IP File Server started
+19-07-31 12:29:14 TCP/IP File Server started
+19-07-31 12:59:14 TCP/IP File Server started
+19-07-31 13:29:14 TCP/IP File Server started
+19-07-31 13:59:14 TCP/IP File Server started
+19-07-31 14:29:14 TCP/IP File Server started
+19-07-31 14:59:14 TCP/IP File Server started
+19-07-31 15:29:14 TCP/IP File Server started
+19-07-31 15:59:14 TCP/IP File Server started
+19-07-31 16:29:14 TCP/IP File Server started
+19-07-31 16:59:14 TCP/IP File Server started
+19-07-31 17:29:14 TCP/IP File Server started
+19-07-31 17:59:14 TCP/IP File Server started
+19-07-31 18:29:14 TCP/IP File Server started
+19-07-31 18:59:14 TCP/IP File Server started
+19-07-31 19:29:14 TCP/IP File Server started
+19-07-31 19:59:14 TCP/IP File Server started
+19-07-31 20:29:14 TCP/IP File Server started
+19-07-31 20:59:14 TCP/IP File Server started
+19-07-31 21:29:14 TCP/IP File Server started
+19-07-31 21:59:14 TCP/IP File Server started
+19-07-31 22:29:14 TCP/IP File Server started
+19-07-31 22:59:14 TCP/IP File Server started
+19-07-31 23:29:14 TCP/IP File Server started
+19-07-31 23:59:14 TCP/IP File Server started
+19-08-01 00:29:14 TCP/IP File Server started
+19-08-01 00:59:14 TCP/IP File Server started
+19-08-01 01:29:14 TCP/IP File Server started
+19-08-01 01:59:14 TCP/IP File Server started
+19-08-01 02:29:14 TCP/IP File Server started
+19-08-01 02:59:14 TCP/IP File Server started
+19-08-01 03:29:14 TCP/IP File Server started
+19-08-01 03:59:14 TCP/IP File Server started
+19-08-01 04:29:14 TCP/IP File Server started
+19-08-01 04:59:14 TCP/IP File Server started
+19-08-01 05:29:14 TCP/IP File Server started
+19-08-01 05:59:14 TCP/IP File Server started
+19-08-01 06:29:14 TCP/IP File Server started
+19-08-01 06:59:14 TCP/IP File Server started
+19-08-01 07:29:14 TCP/IP File Server started
+19-08-01 07:59:14 TCP/IP File Server started
+19-08-01 08:29:14 TCP/IP File Server started
+19-08-01 08:59:14 TCP/IP File Server started
+19-08-01 09:29:14 TCP/IP File Server started
+19-08-01 09:59:14 TCP/IP File Server started
+19-08-01 10:29:14 TCP/IP File Server started
+19-08-01 10:59:14 TCP/IP File Server started
+19-08-01 11:29:14 TCP/IP File Server started
+19-08-01 11:59:14 TCP/IP File Server started
+19-08-01 12:29:14 TCP/IP File Server started
+19-08-01 12:59:14 TCP/IP File Server started
+19-08-01 13:29:14 TCP/IP File Server started
+19-08-01 13:59:14 TCP/IP File Server started
+19-08-01 14:29:14 TCP/IP File Server started
+19-08-01 14:59:14 TCP/IP File Server started
+19-08-01 15:29:14 TCP/IP File Server started
+19-08-01 15:59:14 TCP/IP File Server started
+19-08-01 16:29:14 TCP/IP File Server started
+19-08-01 16:59:14 TCP/IP File Server started
+19-08-01 17:29:14 TCP/IP File Server started
+19-08-01 17:59:14 TCP/IP File Server started
+19-08-01 18:29:14 TCP/IP File Server started
+19-08-01 18:59:14 TCP/IP File Server started
+19-08-01 19:29:14 TCP/IP File Server started
+19-08-01 19:59:14 TCP/IP File Server started
+19-08-01 20:29:14 TCP/IP File Server started
+19-08-01 20:59:14 TCP/IP File Server started
+19-08-01 21:29:14 TCP/IP File Server started
+19-08-01 21:59:14 TCP/IP File Server started
+19-08-01 22:29:14 TCP/IP File Server started
+19-08-01 22:59:14 TCP/IP File Server started
+19-08-01 23:01:34 Loading Map.
+19-08-01 23:01:34 Creating Weapons.
+19-08-01 23:01:34 Starting Game Server.
+19-08-01 23:01:34 TCP/IP File Server started
+19-08-01 23:02:06  Net - HartCheat] connected 1-8-19 23:02:06
+19-08-01 23:04:29  Net - D.Forc3| Maaxis. connected 1-8-19 23:04:29
+19-08-01 23:06:31  Net - Dimondo.cL connected 1-8-19 23:06:31
+19-08-01 23:06:41  Net - Dimondo.cL connected 1-8-19 23:06:41
+19-08-01 23:06:44  Net - Pancha merino <3 connected 1-8-19 23:06:44
+19-08-01 23:09:52  Net - Papa en la boca connected 1-8-19 23:09:52
+19-08-01 23:13:19  Net - Pancha merino <3 disconnected 1-8-19 23:13:19
+19-08-01 23:13:26  Net - Principia Mathematica connected 1-8-19 23:13:26
+19-08-01 23:13:47  Net - D.Forc3| Maaxis. disconnected 1-8-19 23:13:47
+19-08-01 23:13:50  Net - Principia Mathematica disconnected 1-8-19 23:13:50
+19-08-01 23:14:01  Net - Principia Mathematica connected 1-8-19 23:14:01
+19-08-01 23:15:03  Net - D.Forc3| Maaxis. connected 1-8-19 23:15:03
+19-08-01 23:15:55  Net - HartCheat] disconnected 1-8-19 23:15:55
+19-08-01 23:16:26  Net - Joao Felix connected 1-8-19 23:16:26
+19-08-01 23:16:27  Net - Dimondo.cL disconnected 1-8-19 23:16:27
+19-08-01 23:16:28  Net - Piriyayaya Pupupupu connected 1-8-19 23:16:28
+19-08-01 23:16:29  Net - Joao Felix connected 1-8-19 23:16:29
+19-08-01 23:16:34  Net - Joao Felix connected 1-8-19 23:16:34
+19-08-01 23:16:41  Net - Papa en la boca disconnected 1-8-19 23:16:41
+19-08-01 23:17:06  Net - LinkcL connected 1-8-19 23:17:06
+19-08-01 23:17:18  Net - Dimondo.cL connected 1-8-19 23:17:18
+19-08-01 23:17:36  Net - Principia Mathematica connected 1-8-19 23:17:36
+19-08-01 23:17:40  Net - D.Forc3| Maaxis. connected 1-8-19 23:17:40
+19-08-01 23:17:40  Net - LinkcL disconnected 1-8-19 23:17:40
+19-08-01 23:17:59  Net - MotA connected 1-8-19 23:17:59
+19-08-01 23:18:05  Net - Joao Felix connected 1-8-19 23:18:05
+19-08-01 23:18:30  Net - D.Forc3| Maaxis. connected 1-8-19 23:18:30
+19-08-01 23:18:57  Net - Joao Felix connected 1-8-19 23:18:57
+19-08-01 23:19:11  Net - MotA connected 1-8-19 23:19:11
+19-08-01 23:19:16  Net - Joao Felix disconnected 1-8-19 23:19:16
+19-08-01 23:19:35  Net - Joao Felix connected 1-8-19 23:19:35
+19-08-01 23:20:49  Net - Principia Mathematica connected 1-8-19 23:20:49
+19-08-01 23:20:56  Net - Dimondo.cL disconnected 1-8-19 23:20:56
+19-08-01 23:21:00  Net - Dimondo.cL connected 1-8-19 23:21:00
+19-08-01 23:21:02  Net - Dimondo.cL connected 1-8-19 23:21:02
+19-08-01 23:26:04  Net - sT.- YnGwi3 connected 1-8-19 23:26:04
+19-08-01 23:29:14 TCP/IP File Server started
+19-08-01 23:37:24  Net - pauli connected 1-8-19 23:37:24
+19-08-01 23:43:47  Net - pauli disconnected 1-8-19 23:43:47
+19-08-01 23:54:46  Net - sT.- Mand3s connected 1-8-19 23:54:46
+19-08-01 23:55:01  Net - Dimondo.cL connected 1-8-19 23:55:01
+19-08-01 23:55:05  Net - sT.- YnGwi3 connected 1-8-19 23:55:05
+19-08-01 23:59:14 TCP/IP File Server started
+19-08-02 00:05:28  Net - Dimondo.cL connected 2-8-19 00:05:28
+19-08-02 00:05:58  Net - Dimondo.cL connected 2-8-19 00:05:58
+19-08-02 00:06:15  Net - sT.- Mand3s connected 2-8-19 00:06:15
+19-08-02 00:06:25  Net - sT.- Mand3s connected 2-8-19 00:06:25
+19-08-02 00:07:13  Net - Joao Felix disconnected 2-8-19 00:07:13
+19-08-02 00:17:28  Net - Piriyayaya Pupupupu disconnected 2-8-19 00:17:28
+19-08-02 00:17:37  Net - sT.- Mand3s connected 2-8-19 00:17:37
+19-08-02 00:18:31  Net - Piriyayaya Pupupupu connected 2-8-19 00:18:31
+19-08-02 00:18:32  Net - Piriyayaya Pupupupu disconnected 2-8-19 00:18:32
+19-08-02 00:19:05  Net - Piriyayaya Pupupupu connected 2-8-19 00:19:05
+19-08-02 00:19:07  Net - Piriyayaya Pupupupu disconnected 2-8-19 00:19:07
+19-08-02 00:19:09  Net - Piriyayaya Pupupupu connected 2-8-19 00:19:09
+19-08-02 00:19:16  Net - Piriyayaya Pupupupu connected 2-8-19 00:19:16
+19-08-02 00:19:55  Net - sT.- YnGwi3 disconnected 2-8-19 00:19:55
+19-08-02 00:20:03  Net - sT.- YnGwi3 connected 2-8-19 00:20:03
+19-08-02 00:29:14 TCP/IP File Server started
+19-08-02 00:30:17  Net - Piriyayaya Pupupupu connected 2-8-19 00:30:17
+19-08-02 00:30:22  Net - MotA disconnected 2-8-19 00:30:22
+19-08-02 00:30:30  Net - MotA connected 2-8-19 00:30:30
+19-08-02 00:30:36  Net - Principia Mathematica connected 2-8-19 00:30:36
+19-08-02 00:30:51  Net - Piriyayaya Pupupupu connected 2-8-19 00:30:51
+19-08-02 00:31:07  Net - D.Forc3| Maaxis. connected 2-8-19 00:31:07
+19-08-02 00:31:14  Net - Principia Mathematica connected 2-8-19 00:31:14
+19-08-02 00:31:16  Net - D.Forc3| Maaxis. connected 2-8-19 00:31:16
+19-08-02 00:31:19  Net - sT.- Mand3s disconnected 2-8-19 00:31:19
+19-08-02 00:31:21  Net - MotA disconnected 2-8-19 00:31:21
+19-08-02 00:31:23  Net - D.Forc3| Maaxis. disconnected 2-8-19 00:31:23
+19-08-02 00:31:27  Net - Piriyayaya Pupupupu disconnected 2-8-19 00:31:27
+19-08-02 00:31:28  Net - Principia Mathematica disconnected 2-8-19 00:31:28
+19-08-02 00:31:29  Net - sT.- YnGwi3 disconnected 2-8-19 00:31:29
+19-08-02 00:31:56  Net - Dimondo.cL disconnected 2-8-19 00:31:56
+19-08-02 00:59:14 TCP/IP File Server started
+19-08-02 01:29:14 TCP/IP File Server started
+19-08-02 01:59:14 TCP/IP File Server started
+19-08-02 02:29:14 TCP/IP File Server started
+19-08-02 02:59:14 TCP/IP File Server started
+19-08-02 03:29:14 TCP/IP File Server started
+19-08-02 03:59:14 TCP/IP File Server started
+19-08-02 04:19:23 Loading Map.
+19-08-02 04:19:23 Creating Weapons.
+19-08-02 04:19:23 Starting Game Server.
+19-08-02 04:19:23 TCP/IP File Server started
+19-08-02 04:19:44  Net - Principia Mathematica connected 2-8-19 04:19:44
+19-08-02 04:20:04  Net - HartCheat] connected 2-8-19 04:20:04
+19-08-02 04:20:31  Net - sT.- SenzacL* connected 2-8-19 04:20:31
+19-08-02 04:20:52  Net - D.Forc3| Maaxis. connected 2-8-19 04:20:52
+19-08-02 04:20:55  Net - sT.- Mand3s connected 2-8-19 04:20:55
+19-08-02 04:21:03  Net - D.Forc3| Maaxis. disconnected 2-8-19 04:21:03
+19-08-02 04:21:53  Net - sT.- Mand3s connected 2-8-19 04:21:53
+19-08-02 04:22:16  Net - Free Senza connected 2-8-19 04:22:16
+19-08-02 04:29:14 TCP/IP File Server started
+19-08-02 04:31:28  Net - D.Forc3| Maaxis. connected 2-8-19 04:31:28
+19-08-02 04:31:30  Net - Free Senza disconnected 2-8-19 04:31:30
+19-08-02 04:31:37  Net - Free Senza connected 2-8-19 04:31:37
+19-08-02 04:31:52  Net - sT.- SenzacL* connected 2-8-19 04:31:52
+19-08-02 04:59:14 TCP/IP File Server started
+19-08-02 05:00:15  Net - HartCheat] disconnected 2-8-19 05:00:15
+19-08-02 05:00:16  Net - sT.- SenzacL* disconnected 2-8-19 05:00:16
+19-08-02 05:00:16  Net - Principia Mathematica disconnected 2-8-19 05:00:16
+19-08-02 05:00:16  Net - Free Senza disconnected 2-8-19 05:00:16
+19-08-02 05:00:18  Net - sT.- Mand3s disconnected 2-8-19 05:00:18
+19-08-02 05:00:18  Net - D.Forc3| Maaxis. disconnected 2-8-19 05:00:18
+19-08-02 05:29:14 TCP/IP File Server started
+19-08-02 05:59:14 TCP/IP File Server started
+19-08-02 06:29:14 TCP/IP File Server started
+19-08-02 06:59:14 TCP/IP File Server started
+19-08-02 07:29:14 TCP/IP File Server started
+19-08-02 07:59:14 TCP/IP File Server started
+19-08-02 08:29:14 TCP/IP File Server started
+19-08-02 08:59:14 TCP/IP File Server started
+19-08-02 09:29:14 TCP/IP File Server started
+19-08-02 09:59:14 TCP/IP File Server started
+19-08-02 10:29:14 TCP/IP File Server started
+19-08-02 10:59:14 TCP/IP File Server started
+19-08-02 11:29:14 TCP/IP File Server started
+19-08-02 11:59:14 TCP/IP File Server started
+19-08-02 12:29:14 TCP/IP File Server started
+19-08-02 12:59:14 TCP/IP File Server started
+19-08-02 13:29:14 TCP/IP File Server started
+19-08-02 13:59:14 TCP/IP File Server started
+19-08-02 14:29:14 TCP/IP File Server started
+19-08-02 14:59:14 TCP/IP File Server started
+19-08-02 15:29:14 TCP/IP File Server started
+19-08-02 15:59:14 TCP/IP File Server started
+19-08-02 16:29:14 TCP/IP File Server started
+19-08-02 16:59:14 TCP/IP File Server started
+19-08-02 17:29:14 TCP/IP File Server started
+19-08-02 17:59:14 TCP/IP File Server started
+19-08-02 18:29:14 TCP/IP File Server started
+19-08-02 18:59:14 TCP/IP File Server started
+19-08-02 19:29:14 TCP/IP File Server started
+19-08-02 19:59:14 TCP/IP File Server started
+19-08-02 20:29:14 TCP/IP File Server started
+19-08-02 20:59:14 TCP/IP File Server started
+19-08-02 21:29:14 TCP/IP File Server started
+19-08-02 21:59:14 TCP/IP File Server started
+19-08-02 22:29:14 TCP/IP File Server started
+19-08-02 22:59:14 TCP/IP File Server started
+19-08-02 23:24:53 Loading Map.
+19-08-02 23:24:53 Creating Weapons.
+19-08-02 23:24:53 Starting Game Server.
+19-08-02 23:24:53 TCP/IP File Server started
+19-08-02 23:25:16  Net - D.Forc3| Maaxis. connected 2-8-19 23:25:16
+19-08-02 23:25:25  Net - HartCheat] connected 2-8-19 23:25:25
+19-08-02 23:26:37  Net - Principia Mathematica connected 2-8-19 23:26:37
+19-08-02 23:29:14 TCP/IP File Server started
+19-08-02 23:29:15  Net - HartCheat] disconnected 2-8-19 23:29:15
+19-08-02 23:29:17  Net - D.Forc3| Maaxis. disconnected 2-8-19 23:29:17
+19-08-02 23:29:18  Net - Principia Mathematica disconnected 2-8-19 23:29:18
+19-08-02 23:59:14 TCP/IP File Server started
+19-08-03 00:29:14 TCP/IP File Server started
+19-08-03 00:30:30 Loading Map.
+19-08-03 00:30:30 Creating Weapons.
+19-08-03 00:30:30 Starting Game Server.
+19-08-03 00:30:30 TCP/IP File Server started
+19-08-03 00:31:10  Net - HartCheat] connected 3-8-19 00:31:10
+19-08-03 00:31:13  Net - D.Forc3| Maaxis. connected 3-8-19 00:31:13
+19-08-03 00:31:29  Net - sT.- SenzacL* connected 3-8-19 00:31:29
+19-08-03 00:31:31  Net - later ShioN connected 3-8-19 00:31:31
+19-08-03 00:31:37  Net - |BhooD|M.* connected 3-8-19 00:31:37
+19-08-03 00:31:44  Net - later ShioN connected 3-8-19 00:31:44
+19-08-03 00:31:44  Net - sT.- SenzacL* disconnected 3-8-19 00:31:44
+19-08-03 00:32:00  Net - [UnK] SenzacL* connected 3-8-19 00:32:00
+19-08-03 00:32:05  Net - HartCheat] disconnected 3-8-19 00:32:05
+19-08-03 00:32:05  Net - |BhooD|M.* disconnected 3-8-19 00:32:05
+19-08-03 00:32:19  Net - [UnK]M.* connected 3-8-19 00:32:19
+19-08-03 00:32:22  Net - xG| Farruko connected 3-8-19 00:32:22
+19-08-03 00:32:32  Net - later ShioN connected 3-8-19 00:32:32
+19-08-03 00:32:49  Net - xG| Farruko disconnected 3-8-19 00:32:49
+19-08-03 00:32:58  Net - HartCheat] connected 3-8-19 00:32:58

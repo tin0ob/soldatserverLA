@@ -1,0 +1,12 @@
+18-11-09 18:01:19    Log Started
+18-11-09 18:01:19 Opened /home/gathers/servers/gather15/soldat.ini
+18-11-09 18:01:19 Creating network interface.
+18-11-09 18:01:19 Loading Animations.
+18-11-09 18:01:19 Loading Lobby Servers List
+18-11-09 18:01:19 Loading Maps List
+18-11-09 18:01:19 Loading Map.
+18-11-09 18:01:19 Creating Weapons.
+18-11-09 18:01:19 Starting Game Server.
+18-11-09 18:01:19 TCP/IP File Server started
+18-11-09 18:02:20  Net - sk!T.Rattle connected 9-11-18 18:02:20
+18-11-09 18:02:41  Net - sk!T.Rattle disconnected 9-11-18 18:02:41

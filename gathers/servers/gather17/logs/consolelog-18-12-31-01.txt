@@ -1,0 +1,4155 @@
+18-12-31 03:43:08    Console Log Started
+18-12-31 03:43:08 [the fatb0y-] my pinga too
+18-12-31 03:43:11 [sh!oneD][chub0] tXD
+18-12-31 03:43:17 [Mago (BR)] im going embora
+18-12-31 03:43:20 [CrasheR] oh damn
+18-12-31 03:43:21 sh!oneD][chub0 scores for Bravo Team
+18-12-31 03:43:23 [CrasheR] let's go reg
+18-12-31 03:43:26 (2) LeprosycL killed (1) CrasheR with M79
+18-12-31 03:43:26 the fatb0y- has left spectators
+18-12-31 03:43:30 CrasheR has left alpha team.
+18-12-31 03:43:32 LeprosycL has left bravo team.
+18-12-31 03:43:33 Mago (BR) has left alpha team.
+18-12-31 03:43:33 sh!oneD][chub0 has left bravo team.
+18-12-31 03:46:27 152.172.181.247:23073|5D324D12DA7 requesting game...
+18-12-31 03:46:28 the fatb0y- joining game (152.172.181.247:23073) HWID:5D324D12DA7
+18-12-31 03:46:28 the fatb0y- has joined alpha team.
+18-12-31 03:46:50 Time Left: 5 minutes
+18-12-31 03:47:36 the fatb0y- returned the Red Flag
+18-12-31 03:47:50 Time Left: 4 minutes
+18-12-31 03:47:51 the fatb0y- captured the Blue Flag
+18-12-31 03:47:58 the fatb0y- has left alpha team.
+18-12-31 03:48:50 Time Left: 3 minutes
+18-12-31 03:49:42 152.172.181.247:23073|5D324D12DA7 requesting game...
+18-12-31 03:49:44 the fatb0y- joining game (152.172.181.247:23073) HWID:5D324D12DA7
+18-12-31 03:49:44 the fatb0y- has joined alpha team.
+18-12-31 03:49:50 Time Left: 2 minutes
+18-12-31 03:50:23 the fatb0y- returned the Red Flag
+18-12-31 03:50:40 the fatb0y- captured the Blue Flag
+18-12-31 03:50:45 the fatb0y- returned the Red Flag
+18-12-31 03:50:50 Time Left: 1 minutes
+18-12-31 03:50:51 the fatb0y- scores for Alpha Team
+18-12-31 03:50:58 the fatb0y- has left alpha team.
+18-12-31 03:51:50 Next map: Lobby
+18-12-31 03:51:55 Lothic - Gothic Lobby Room
+18-12-31 03:56:55 Time Left: 5 minutes
+18-12-31 03:57:55 Time Left: 4 minutes
+18-12-31 03:58:55 Time Left: 3 minutes
+18-12-31 03:59:55 Time Left: 2 minutes
+18-12-31 04:00:55 Time Left: 1 minutes
+18-12-31 04:01:55 Next map: Lobby
+18-12-31 04:02:01 Lothic - Gothic Lobby Room
+18-12-31 04:07:01 Time Left: 5 minutes
+18-12-31 04:08:01 Time Left: 4 minutes
+18-12-31 04:09:01 Time Left: 3 minutes
+18-12-31 04:10:01 Time Left: 2 minutes
+18-12-31 04:11:01 Time Left: 1 minutes
+18-12-31 04:12:01 Next map: Lobby
+18-12-31 04:12:06 Lothic - Gothic Lobby Room
+18-12-31 04:17:06 Time Left: 5 minutes
+18-12-31 04:18:06 Time Left: 4 minutes
+18-12-31 04:19:06 Time Left: 3 minutes
+18-12-31 04:20:06 Time Left: 2 minutes
+18-12-31 04:21:06 Time Left: 1 minutes
+18-12-31 04:22:06 Next map: Lobby
+18-12-31 04:22:11 Lothic - Gothic Lobby Room
+18-12-31 04:27:11 Time Left: 5 minutes
+18-12-31 04:28:11 Time Left: 4 minutes
+18-12-31 04:29:11 Time Left: 3 minutes
+18-12-31 04:30:11 Time Left: 2 minutes
+18-12-31 04:31:11 Time Left: 1 minutes
+18-12-31 04:32:11 Next map: Lobby
+18-12-31 04:32:17 Lothic - Gothic Lobby Room
+18-12-31 04:37:17 Time Left: 5 minutes
+18-12-31 04:38:17 Time Left: 4 minutes
+18-12-31 04:39:17 Time Left: 3 minutes
+18-12-31 04:40:17 Time Left: 2 minutes
+18-12-31 04:41:17 Time Left: 1 minutes
+18-12-31 04:42:17 Next map: Lobby
+18-12-31 04:42:22 Lothic - Gothic Lobby Room
+18-12-31 04:47:22 Time Left: 5 minutes
+18-12-31 04:48:22 Time Left: 4 minutes
+18-12-31 04:49:22 Time Left: 3 minutes
+18-12-31 04:50:22 Time Left: 2 minutes
+18-12-31 04:51:22 Time Left: 1 minutes
+18-12-31 04:52:22 Next map: Lobby
+18-12-31 04:52:27 Lothic - Gothic Lobby Room
+18-12-31 04:57:27 Time Left: 5 minutes
+18-12-31 04:58:27 Time Left: 4 minutes
+18-12-31 04:59:27 Time Left: 3 minutes
+18-12-31 05:00:27 Time Left: 2 minutes
+18-12-31 05:01:27 Time Left: 1 minutes
+18-12-31 05:02:27 Next map: Lobby
+18-12-31 05:02:33 Lothic - Gothic Lobby Room
+18-12-31 05:07:33 Time Left: 5 minutes
+18-12-31 05:08:33 Time Left: 4 minutes
+18-12-31 05:09:33 Time Left: 3 minutes
+18-12-31 05:10:33 Time Left: 2 minutes
+18-12-31 05:11:33 Time Left: 1 minutes
+18-12-31 05:12:33 Next map: Lobby
+18-12-31 05:12:38 Lothic - Gothic Lobby Room
+18-12-31 05:17:38 Time Left: 5 minutes
+18-12-31 05:18:38 Time Left: 4 minutes
+18-12-31 05:19:38 Time Left: 3 minutes
+18-12-31 05:20:38 Time Left: 2 minutes
+18-12-31 05:21:38 Time Left: 1 minutes
+18-12-31 05:22:38 Next map: Lobby
+18-12-31 05:22:43 Lothic - Gothic Lobby Room
+18-12-31 05:27:43 Time Left: 5 minutes
+18-12-31 05:28:43 Time Left: 4 minutes
+18-12-31 05:29:43 Time Left: 3 minutes
+18-12-31 05:30:43 Time Left: 2 minutes
+18-12-31 05:31:43 Time Left: 1 minutes
+18-12-31 05:32:43 Next map: Lobby
+18-12-31 05:32:48 Lothic - Gothic Lobby Room
+18-12-31 05:37:48 Time Left: 5 minutes
+18-12-31 05:38:48 Time Left: 4 minutes
+18-12-31 05:39:48 Time Left: 3 minutes
+18-12-31 05:40:48 Time Left: 2 minutes
+18-12-31 05:41:48 Time Left: 1 minutes
+18-12-31 05:42:48 Next map: Lobby
+18-12-31 05:42:54 Lothic - Gothic Lobby Room
+18-12-31 05:47:54 Time Left: 5 minutes
+18-12-31 05:48:54 Time Left: 4 minutes
+18-12-31 05:49:54 Time Left: 3 minutes
+18-12-31 05:50:54 Time Left: 2 minutes
+18-12-31 05:51:54 Time Left: 1 minutes
+18-12-31 05:52:54 Next map: Lobby
+18-12-31 05:52:59 Lothic - Gothic Lobby Room
+18-12-31 05:57:59 Time Left: 5 minutes
+18-12-31 05:58:59 Time Left: 4 minutes
+18-12-31 05:59:59 Time Left: 3 minutes
+18-12-31 06:00:59 Time Left: 2 minutes
+18-12-31 06:01:59 Time Left: 1 minutes
+18-12-31 06:02:59 Next map: Lobby
+18-12-31 06:03:04 Lothic - Gothic Lobby Room
+18-12-31 06:08:04 Time Left: 5 minutes
+18-12-31 06:09:04 Time Left: 4 minutes
+18-12-31 06:10:04 Time Left: 3 minutes
+18-12-31 06:11:04 Time Left: 2 minutes
+18-12-31 06:12:04 Time Left: 1 minutes
+18-12-31 06:13:04 Next map: Lobby
+18-12-31 06:13:10 Lothic - Gothic Lobby Room
+18-12-31 06:18:10 Time Left: 5 minutes
+18-12-31 06:19:10 Time Left: 4 minutes
+18-12-31 06:20:10 Time Left: 3 minutes
+18-12-31 06:21:10 Time Left: 2 minutes
+18-12-31 06:22:10 Time Left: 1 minutes
+18-12-31 06:23:10 Next map: Lobby
+18-12-31 06:23:15 Lothic - Gothic Lobby Room
+18-12-31 06:28:15 Time Left: 5 minutes
+18-12-31 06:29:15 Time Left: 4 minutes
+18-12-31 06:30:15 Time Left: 3 minutes
+18-12-31 06:31:15 Time Left: 2 minutes
+18-12-31 06:32:15 Time Left: 1 minutes
+18-12-31 06:33:15 Next map: Lobby
+18-12-31 06:33:20 Lothic - Gothic Lobby Room
+18-12-31 06:38:20 Time Left: 5 minutes
+18-12-31 06:39:20 Time Left: 4 minutes
+18-12-31 06:40:20 Time Left: 3 minutes
+18-12-31 06:41:20 Time Left: 2 minutes
+18-12-31 06:42:20 Time Left: 1 minutes
+18-12-31 06:43:20 Next map: Lobby
+18-12-31 06:43:26 Lothic - Gothic Lobby Room
+18-12-31 06:48:26 Time Left: 5 minutes
+18-12-31 06:49:26 Time Left: 4 minutes
+18-12-31 06:50:26 Time Left: 3 minutes
+18-12-31 06:51:26 Time Left: 2 minutes
+18-12-31 06:52:26 Time Left: 1 minutes
+18-12-31 06:53:26 Next map: Lobby
+18-12-31 06:53:31 Lothic - Gothic Lobby Room
+18-12-31 06:58:31 Time Left: 5 minutes
+18-12-31 06:59:31 Time Left: 4 minutes
+18-12-31 07:00:31 Time Left: 3 minutes
+18-12-31 07:01:31 Time Left: 2 minutes
+18-12-31 07:02:31 Time Left: 1 minutes
+18-12-31 07:03:31 Next map: Lobby
+18-12-31 07:03:36 Lothic - Gothic Lobby Room
+18-12-31 07:08:36 Time Left: 5 minutes
+18-12-31 07:09:36 Time Left: 4 minutes
+18-12-31 07:10:36 Time Left: 3 minutes
+18-12-31 07:11:36 Time Left: 2 minutes
+18-12-31 07:12:36 Time Left: 1 minutes
+18-12-31 07:13:36 Next map: Lobby
+18-12-31 07:13:42 Lothic - Gothic Lobby Room
+18-12-31 07:18:42 Time Left: 5 minutes
+18-12-31 07:19:42 Time Left: 4 minutes
+18-12-31 07:20:42 Time Left: 3 minutes
+18-12-31 07:21:42 Time Left: 2 minutes
+18-12-31 07:22:42 Time Left: 1 minutes
+18-12-31 07:23:42 Next map: Lobby
+18-12-31 07:23:47 Lothic - Gothic Lobby Room
+18-12-31 07:28:47 Time Left: 5 minutes
+18-12-31 07:29:47 Time Left: 4 minutes
+18-12-31 07:30:47 Time Left: 3 minutes
+18-12-31 07:31:47 Time Left: 2 minutes
+18-12-31 07:32:47 Time Left: 1 minutes
+18-12-31 07:33:47 Next map: Lobby
+18-12-31 07:33:52 Lothic - Gothic Lobby Room
+18-12-31 07:38:52 Time Left: 5 minutes
+18-12-31 07:39:52 Time Left: 4 minutes
+18-12-31 07:40:52 Time Left: 3 minutes
+18-12-31 07:41:52 Time Left: 2 minutes
+18-12-31 07:42:52 Time Left: 1 minutes
+18-12-31 07:43:52 Next map: Lobby
+18-12-31 07:43:58 Lothic - Gothic Lobby Room
+18-12-31 07:48:58 Time Left: 5 minutes
+18-12-31 07:49:58 Time Left: 4 minutes
+18-12-31 07:50:58 Time Left: 3 minutes
+18-12-31 07:51:58 Time Left: 2 minutes
+18-12-31 07:52:58 Time Left: 1 minutes
+18-12-31 07:53:58 Next map: Lobby
+18-12-31 07:54:03 Lothic - Gothic Lobby Room
+18-12-31 07:59:03 Time Left: 5 minutes
+18-12-31 08:00:03 Time Left: 4 minutes
+18-12-31 08:01:03 Time Left: 3 minutes
+18-12-31 08:02:03 Time Left: 2 minutes
+18-12-31 08:03:03 Time Left: 1 minutes
+18-12-31 08:04:03 Next map: Lobby
+18-12-31 08:04:08 Lothic - Gothic Lobby Room
+18-12-31 08:09:08 Time Left: 5 minutes
+18-12-31 08:10:08 Time Left: 4 minutes
+18-12-31 08:11:08 Time Left: 3 minutes
+18-12-31 08:12:08 Time Left: 2 minutes
+18-12-31 08:13:08 Time Left: 1 minutes
+18-12-31 08:14:08 Next map: Lobby
+18-12-31 08:14:14 Lothic - Gothic Lobby Room
+18-12-31 08:19:14 Time Left: 5 minutes
+18-12-31 08:20:14 Time Left: 4 minutes
+18-12-31 08:21:14 Time Left: 3 minutes
+18-12-31 08:22:14 Time Left: 2 minutes
+18-12-31 08:23:14 Time Left: 1 minutes
+18-12-31 08:24:14 Next map: Lobby
+18-12-31 08:24:19 Lothic - Gothic Lobby Room
+18-12-31 08:29:19 Time Left: 5 minutes
+18-12-31 08:30:19 Time Left: 4 minutes
+18-12-31 08:31:19 Time Left: 3 minutes
+18-12-31 08:32:19 Time Left: 2 minutes
+18-12-31 08:33:19 Time Left: 1 minutes
+18-12-31 08:34:19 Next map: Lobby
+18-12-31 08:34:24 Lothic - Gothic Lobby Room
+18-12-31 08:39:24 Time Left: 5 minutes
+18-12-31 08:40:24 Time Left: 4 minutes
+18-12-31 08:41:24 Time Left: 3 minutes
+18-12-31 08:42:24 Time Left: 2 minutes
+18-12-31 08:43:24 Time Left: 1 minutes
+18-12-31 08:44:24 Next map: Lobby
+18-12-31 08:44:30 Lothic - Gothic Lobby Room
+18-12-31 08:49:29 Time Left: 5 minutes
+18-12-31 08:50:29 Time Left: 4 minutes
+18-12-31 08:51:29 Time Left: 3 minutes
+18-12-31 08:52:29 Time Left: 2 minutes
+18-12-31 08:53:29 Time Left: 1 minutes
+18-12-31 08:54:29 Next map: Lobby
+18-12-31 08:54:35 Lothic - Gothic Lobby Room
+18-12-31 08:59:35 Time Left: 5 minutes
+18-12-31 09:00:35 Time Left: 4 minutes
+18-12-31 09:01:35 Time Left: 3 minutes
+18-12-31 09:02:35 Time Left: 2 minutes
+18-12-31 09:03:35 Time Left: 1 minutes
+18-12-31 09:04:35 Next map: Lobby
+18-12-31 09:04:40 Lothic - Gothic Lobby Room
+18-12-31 09:09:40 Time Left: 5 minutes
+18-12-31 09:10:40 Time Left: 4 minutes
+18-12-31 09:11:40 Time Left: 3 minutes
+18-12-31 09:12:40 Time Left: 2 minutes
+18-12-31 09:13:40 Time Left: 1 minutes
+18-12-31 09:14:40 Next map: Lobby
+18-12-31 09:14:45 Lothic - Gothic Lobby Room
+18-12-31 09:19:45 Time Left: 5 minutes
+18-12-31 09:20:45 Time Left: 4 minutes
+18-12-31 09:21:45 Time Left: 3 minutes
+18-12-31 09:22:45 Time Left: 2 minutes
+18-12-31 09:23:45 Time Left: 1 minutes
+18-12-31 09:24:45 Next map: Lobby
+18-12-31 09:24:51 Lothic - Gothic Lobby Room
+18-12-31 09:29:51 Time Left: 5 minutes
+18-12-31 09:30:51 Time Left: 4 minutes
+18-12-31 09:31:51 Time Left: 3 minutes
+18-12-31 09:32:51 Time Left: 2 minutes
+18-12-31 09:33:51 Time Left: 1 minutes
+18-12-31 09:34:51 Next map: Lobby
+18-12-31 09:34:56 Lothic - Gothic Lobby Room
+18-12-31 09:39:56 Time Left: 5 minutes
+18-12-31 09:40:56 Time Left: 4 minutes
+18-12-31 09:41:56 Time Left: 3 minutes
+18-12-31 09:42:56 Time Left: 2 minutes
+18-12-31 09:43:56 Time Left: 1 minutes
+18-12-31 09:44:56 Next map: Lobby
+18-12-31 09:45:01 Lothic - Gothic Lobby Room
+18-12-31 09:50:01 Time Left: 5 minutes
+18-12-31 09:51:01 Time Left: 4 minutes
+18-12-31 09:52:01 Time Left: 3 minutes
+18-12-31 09:53:01 Time Left: 2 minutes
+18-12-31 09:54:01 Time Left: 1 minutes
+18-12-31 09:55:01 Next map: Lobby
+18-12-31 09:55:07 Lothic - Gothic Lobby Room
+18-12-31 10:00:07 Time Left: 5 minutes
+18-12-31 10:01:07 Time Left: 4 minutes
+18-12-31 10:02:07 Time Left: 3 minutes
+18-12-31 10:03:07 Time Left: 2 minutes
+18-12-31 10:04:07 Time Left: 1 minutes
+18-12-31 10:05:07 Next map: Lobby
+18-12-31 10:05:12 Lothic - Gothic Lobby Room
+18-12-31 10:10:12 Time Left: 5 minutes
+18-12-31 10:11:12 Time Left: 4 minutes
+18-12-31 10:12:12 Time Left: 3 minutes
+18-12-31 10:13:12 Time Left: 2 minutes
+18-12-31 10:14:12 Time Left: 1 minutes
+18-12-31 10:15:12 Next map: Lobby
+18-12-31 10:15:17 Lothic - Gothic Lobby Room
+18-12-31 10:20:17 Time Left: 5 minutes
+18-12-31 10:21:17 Time Left: 4 minutes
+18-12-31 10:22:17 Time Left: 3 minutes
+18-12-31 10:23:17 Time Left: 2 minutes
+18-12-31 10:24:17 Time Left: 1 minutes
+18-12-31 10:25:17 Next map: Lobby
+18-12-31 10:25:23 Lothic - Gothic Lobby Room
+18-12-31 10:30:23 Time Left: 5 minutes
+18-12-31 10:31:23 Time Left: 4 minutes
+18-12-31 10:32:23 Time Left: 3 minutes
+18-12-31 10:33:23 Time Left: 2 minutes
+18-12-31 10:34:23 Time Left: 1 minutes
+18-12-31 10:35:23 Next map: Lobby
+18-12-31 10:35:28 Lothic - Gothic Lobby Room
+18-12-31 10:40:28 Time Left: 5 minutes
+18-12-31 10:41:28 Time Left: 4 minutes
+18-12-31 10:42:28 Time Left: 3 minutes
+18-12-31 10:43:28 Time Left: 2 minutes
+18-12-31 10:44:28 Time Left: 1 minutes
+18-12-31 10:45:28 Next map: Lobby
+18-12-31 10:45:33 Lothic - Gothic Lobby Room
+18-12-31 10:50:33 Time Left: 5 minutes
+18-12-31 10:51:33 Time Left: 4 minutes
+18-12-31 10:52:33 Time Left: 3 minutes
+18-12-31 10:53:33 Time Left: 2 minutes
+18-12-31 10:54:33 Time Left: 1 minutes
+18-12-31 10:55:33 Next map: Lobby
+18-12-31 10:55:39 Lothic - Gothic Lobby Room
+18-12-31 11:00:39 Time Left: 5 minutes
+18-12-31 11:01:39 Time Left: 4 minutes
+18-12-31 11:02:39 Time Left: 3 minutes
+18-12-31 11:03:39 Time Left: 2 minutes
+18-12-31 11:04:39 Time Left: 1 minutes
+18-12-31 11:05:39 Next map: Lobby
+18-12-31 11:05:44 Lothic - Gothic Lobby Room
+18-12-31 11:10:44 Time Left: 5 minutes
+18-12-31 11:11:44 Time Left: 4 minutes
+18-12-31 11:12:44 Time Left: 3 minutes
+18-12-31 11:13:44 Time Left: 2 minutes
+18-12-31 11:14:44 Time Left: 1 minutes
+18-12-31 11:15:44 Next map: Lobby
+18-12-31 11:15:49 Lothic - Gothic Lobby Room
+18-12-31 11:20:49 Time Left: 5 minutes
+18-12-31 11:21:49 Time Left: 4 minutes
+18-12-31 11:22:49 Time Left: 3 minutes
+18-12-31 11:23:49 Time Left: 2 minutes
+18-12-31 11:24:49 Time Left: 1 minutes
+18-12-31 11:25:49 Next map: Lobby
+18-12-31 11:25:55 Lothic - Gothic Lobby Room
+18-12-31 11:30:55 Time Left: 5 minutes
+18-12-31 11:31:55 Time Left: 4 minutes
+18-12-31 11:32:55 Time Left: 3 minutes
+18-12-31 11:33:55 Time Left: 2 minutes
+18-12-31 11:34:55 Time Left: 1 minutes
+18-12-31 11:35:55 Next map: Lobby
+18-12-31 11:36:00 Lothic - Gothic Lobby Room
+18-12-31 11:41:00 Time Left: 5 minutes
+18-12-31 11:42:00 Time Left: 4 minutes
+18-12-31 11:43:00 Time Left: 3 minutes
+18-12-31 11:44:00 Time Left: 2 minutes
+18-12-31 11:45:00 Time Left: 1 minutes
+18-12-31 11:46:00 Next map: Lobby
+18-12-31 11:46:05 Lothic - Gothic Lobby Room
+18-12-31 11:51:05 Time Left: 5 minutes
+18-12-31 11:52:05 Time Left: 4 minutes
+18-12-31 11:53:05 Time Left: 3 minutes
+18-12-31 11:54:05 Time Left: 2 minutes
+18-12-31 11:55:05 Time Left: 1 minutes
+18-12-31 11:56:05 Next map: Lobby
+18-12-31 11:56:11 Lothic - Gothic Lobby Room
+18-12-31 12:01:11 Time Left: 5 minutes
+18-12-31 12:02:11 Time Left: 4 minutes
+18-12-31 12:03:11 Time Left: 3 minutes
+18-12-31 12:04:11 Time Left: 2 minutes
+18-12-31 12:05:11 Time Left: 1 minutes
+18-12-31 12:06:10 Next map: Lobby
+18-12-31 12:06:16 Lothic - Gothic Lobby Room
+18-12-31 12:11:16 Time Left: 5 minutes
+18-12-31 12:12:16 Time Left: 4 minutes
+18-12-31 12:13:16 Time Left: 3 minutes
+18-12-31 12:14:16 Time Left: 2 minutes
+18-12-31 12:15:16 Time Left: 1 minutes
+18-12-31 12:16:16 Next map: Lobby
+18-12-31 12:16:21 Lothic - Gothic Lobby Room
+18-12-31 12:21:21 Time Left: 5 minutes
+18-12-31 12:22:21 Time Left: 4 minutes
+18-12-31 12:23:21 Time Left: 3 minutes
+18-12-31 12:24:21 Time Left: 2 minutes
+18-12-31 12:25:21 Time Left: 1 minutes
+18-12-31 12:26:21 Next map: Lobby
+18-12-31 12:26:26 Lothic - Gothic Lobby Room
+18-12-31 12:31:26 Time Left: 5 minutes
+18-12-31 12:32:26 Time Left: 4 minutes
+18-12-31 12:33:26 Time Left: 3 minutes
+18-12-31 12:34:26 Time Left: 2 minutes
+18-12-31 12:35:26 Time Left: 1 minutes
+18-12-31 12:36:26 Next map: Lobby
+18-12-31 12:36:32 Lothic - Gothic Lobby Room
+18-12-31 12:41:32 Time Left: 5 minutes
+18-12-31 12:42:32 Time Left: 4 minutes
+18-12-31 12:43:32 Time Left: 3 minutes
+18-12-31 12:44:32 Time Left: 2 minutes
+18-12-31 12:45:32 Time Left: 1 minutes
+18-12-31 12:46:32 Next map: Lobby
+18-12-31 12:46:37 Lothic - Gothic Lobby Room
+18-12-31 12:51:37 Time Left: 5 minutes
+18-12-31 12:52:37 Time Left: 4 minutes
+18-12-31 12:53:37 Time Left: 3 minutes
+18-12-31 12:54:37 Time Left: 2 minutes
+18-12-31 12:55:37 Time Left: 1 minutes
+18-12-31 12:56:37 Next map: Lobby
+18-12-31 12:56:42 Lothic - Gothic Lobby Room
+18-12-31 13:01:42 Time Left: 5 minutes
+18-12-31 13:02:42 Time Left: 4 minutes
+18-12-31 13:03:42 Time Left: 3 minutes
+18-12-31 13:04:42 Time Left: 2 minutes
+18-12-31 13:05:42 Time Left: 1 minutes
+18-12-31 13:06:42 Next map: Lobby
+18-12-31 13:06:48 Lothic - Gothic Lobby Room
+18-12-31 13:11:48 Time Left: 5 minutes
+18-12-31 13:12:48 Time Left: 4 minutes
+18-12-31 13:13:48 Time Left: 3 minutes
+18-12-31 13:14:48 Time Left: 2 minutes
+18-12-31 13:15:48 Time Left: 1 minutes
+18-12-31 13:16:48 Next map: Lobby
+18-12-31 13:16:53 Lothic - Gothic Lobby Room
+18-12-31 13:21:53 Time Left: 5 minutes
+18-12-31 13:22:53 Time Left: 4 minutes
+18-12-31 13:23:53 Time Left: 3 minutes
+18-12-31 13:24:53 Time Left: 2 minutes
+18-12-31 13:25:53 Time Left: 1 minutes
+18-12-31 13:26:53 Next map: Lobby
+18-12-31 13:26:58 Lothic - Gothic Lobby Room
+18-12-31 13:31:58 Time Left: 5 minutes
+18-12-31 13:32:58 Time Left: 4 minutes
+18-12-31 13:33:58 Time Left: 3 minutes
+18-12-31 13:34:58 Time Left: 2 minutes
+18-12-31 13:35:58 Time Left: 1 minutes
+18-12-31 13:36:58 Next map: Lobby
+18-12-31 13:37:04 Lothic - Gothic Lobby Room
+18-12-31 13:42:04 Time Left: 5 minutes
+18-12-31 13:43:04 Time Left: 4 minutes
+18-12-31 13:44:04 Time Left: 3 minutes
+18-12-31 13:45:04 Time Left: 2 minutes
+18-12-31 13:46:04 Time Left: 1 minutes
+18-12-31 13:47:04 Next map: Lobby
+18-12-31 13:47:09 Lothic - Gothic Lobby Room
+18-12-31 13:51:40 Admin connected (77.3.66.212).
+18-12-31 13:51:40 /maxplayers (77.3.66.212)
+18-12-31 13:51:40 Max players is 16
+18-12-31 13:51:40 /maxrespawntime (77.3.66.212)
+18-12-31 13:51:40 Maximum Respawn time is 5 seconds
+18-12-31 13:51:40 /respawntime (77.3.66.212)
+18-12-31 13:51:40 Respawn time is 3 seconds
+18-12-31 13:51:40 /limit (77.3.66.212)
+18-12-31 13:51:40 Current kill/point/capture limit is 10
+18-12-31 13:51:40 /timelimit (77.3.66.212)
+18-12-31 13:51:40 Current time limit is 10 minutes
+18-12-31 13:51:40 /friendlyfire (77.3.66.212)
+18-12-31 13:51:40 Friendly Fire is 0
+18-12-31 13:51:40 /scripting (77.3.66.212)
+18-12-31 13:51:40 Scripting is currently Enabled (1)
+18-12-31 13:51:40 /balance (77.3.66.212)
+18-12-31 13:51:40 Bot Balance is off (0)
+18-12-31 13:51:40 /bonus (77.3.66.212)
+18-12-31 13:51:40 Current bonus frequency is 0
+18-12-31 13:51:40 /vote% (77.3.66.212)
+18-12-31 13:51:40 Voting percent is 60
+18-12-31 13:52:09 Time Left: 5 minutes
+18-12-31 13:53:09 Time Left: 4 minutes
+18-12-31 13:54:09 Time Left: 3 minutes
+18-12-31 13:55:09 Time Left: 2 minutes
+18-12-31 13:56:09 Time Left: 1 minutes
+18-12-31 13:57:09 Next map: Lobby
+18-12-31 13:57:14 Lothic - Gothic Lobby Room
+18-12-31 14:02:14 Time Left: 5 minutes
+18-12-31 14:03:14 Time Left: 4 minutes
+18-12-31 14:04:14 Time Left: 3 minutes
+18-12-31 14:05:14 Time Left: 2 minutes
+18-12-31 14:06:14 Time Left: 1 minutes
+18-12-31 14:07:14 Next map: Lobby
+18-12-31 14:07:20 Lothic - Gothic Lobby Room
+18-12-31 14:12:20 Time Left: 5 minutes
+18-12-31 14:13:20 Time Left: 4 minutes
+18-12-31 14:14:20 Time Left: 3 minutes
+18-12-31 14:15:20 Time Left: 2 minutes
+18-12-31 14:16:20 Time Left: 1 minutes
+18-12-31 14:17:20 Next map: Lobby
+18-12-31 14:17:25 Lothic - Gothic Lobby Room
+18-12-31 14:22:25 Time Left: 5 minutes
+18-12-31 14:23:25 Time Left: 4 minutes
+18-12-31 14:24:25 Time Left: 3 minutes
+18-12-31 14:25:25 Time Left: 2 minutes
+18-12-31 14:26:25 Time Left: 1 minutes
+18-12-31 14:27:25 Next map: Lobby
+18-12-31 14:27:30 Lothic - Gothic Lobby Room
+18-12-31 14:30:47 Admin connected (206.81.24.116).
+18-12-31 14:30:47 /say GatherBot v0.6 is now connected to server. (206.81.24.116)
+18-12-31 14:30:47 /password 5920 (206.81.24.116)
+18-12-31 14:30:47 Server password changed to 5920
+18-12-31 14:30:47 /say Server password was changed... (206.81.24.116)
+18-12-31 14:32:30 Time Left: 5 minutes
+18-12-31 14:33:30 Time Left: 4 minutes
+18-12-31 14:34:30 Time Left: 3 minutes
+18-12-31 14:35:30 Time Left: 2 minutes
+18-12-31 14:36:30 Time Left: 1 minutes
+18-12-31 14:37:30 Next map: Lobby
+18-12-31 14:37:36 Lothic - Gothic Lobby Room
+18-12-31 14:42:36 Time Left: 5 minutes
+18-12-31 14:43:36 Time Left: 4 minutes
+18-12-31 14:44:36 Time Left: 3 minutes
+18-12-31 14:45:36 Time Left: 2 minutes
+18-12-31 14:46:36 Time Left: 1 minutes
+18-12-31 14:47:36 Next map: Lobby
+18-12-31 14:47:41 Lothic - Gothic Lobby Room
+18-12-31 14:52:41 Time Left: 5 minutes
+18-12-31 14:53:41 Time Left: 4 minutes
+18-12-31 14:54:41 Time Left: 3 minutes
+18-12-31 14:55:41 Time Left: 2 minutes
+18-12-31 14:56:41 Time Left: 1 minutes
+18-12-31 14:57:41 Next map: Lobby
+18-12-31 14:57:46 Lothic - Gothic Lobby Room
+18-12-31 15:02:46 Time Left: 5 minutes
+18-12-31 15:03:46 Time Left: 4 minutes
+18-12-31 15:04:46 Time Left: 3 minutes
+18-12-31 15:05:46 Time Left: 2 minutes
+18-12-31 15:06:46 Time Left: 1 minutes
+18-12-31 15:07:46 Next map: Lobby
+18-12-31 15:07:52 Lothic - Gothic Lobby Room
+18-12-31 15:11:28 Admin connected (206.81.24.116).
+18-12-31 15:11:28 /say GatherBot v0.6 is now connected to server. (206.81.24.116)
+18-12-31 15:11:28 /password 5920 (206.81.24.116)
+18-12-31 15:11:28 Server password changed to 5920
+18-12-31 15:11:28 /say Server password was changed... (206.81.24.116)
+18-12-31 15:12:52 Time Left: 5 minutes
+18-12-31 15:13:52 Time Left: 4 minutes
+18-12-31 15:14:52 Time Left: 3 minutes
+18-12-31 15:15:52 Time Left: 2 minutes
+18-12-31 15:16:52 Time Left: 1 minutes
+18-12-31 15:17:52 Next map: Lobby
+18-12-31 15:17:57 Lothic - Gothic Lobby Room
+18-12-31 15:22:57 Time Left: 5 minutes
+18-12-31 15:23:57 Time Left: 4 minutes
+18-12-31 15:24:57 Time Left: 3 minutes
+18-12-31 15:25:57 Time Left: 2 minutes
+18-12-31 15:26:57 Time Left: 1 minutes
+18-12-31 15:27:57 Next map: Lobby
+18-12-31 15:28:02 Lothic - Gothic Lobby Room
+18-12-31 15:33:02 Time Left: 5 minutes
+18-12-31 15:34:02 Time Left: 4 minutes
+18-12-31 15:35:02 Time Left: 3 minutes
+18-12-31 15:36:02 Time Left: 2 minutes
+18-12-31 15:37:02 Time Left: 1 minutes
+18-12-31 15:38:02 Next map: Lobby
+18-12-31 15:38:07 Lothic - Gothic Lobby Room
+18-12-31 15:43:07 Time Left: 5 minutes
+18-12-31 15:44:07 Time Left: 4 minutes
+18-12-31 15:45:07 Time Left: 3 minutes
+18-12-31 15:46:07 Time Left: 2 minutes
+18-12-31 15:47:07 Time Left: 1 minutes
+18-12-31 15:48:07 Next map: Lobby
+18-12-31 15:48:13 Lothic - Gothic Lobby Room
+18-12-31 15:53:13 Time Left: 5 minutes
+18-12-31 15:54:13 Time Left: 4 minutes
+18-12-31 15:55:13 Time Left: 3 minutes
+18-12-31 15:56:13 Time Left: 2 minutes
+18-12-31 15:57:13 Time Left: 1 minutes
+18-12-31 15:58:13 Next map: Lobby
+18-12-31 15:58:18 Lothic - Gothic Lobby Room
+18-12-31 16:03:18 Time Left: 5 minutes
+18-12-31 16:04:18 Time Left: 4 minutes
+18-12-31 16:05:18 Time Left: 3 minutes
+18-12-31 16:06:18 Time Left: 2 minutes
+18-12-31 16:07:18 Time Left: 1 minutes
+18-12-31 16:08:18 Next map: Lobby
+18-12-31 16:08:23 Lothic - Gothic Lobby Room
+18-12-31 16:13:23 Time Left: 5 minutes
+18-12-31 16:14:23 Time Left: 4 minutes
+18-12-31 16:15:23 Time Left: 3 minutes
+18-12-31 16:16:23 Time Left: 2 minutes
+18-12-31 16:17:23 Time Left: 1 minutes
+18-12-31 16:18:23 Next map: Lobby
+18-12-31 16:18:29 Lothic - Gothic Lobby Room
+18-12-31 16:23:29 Time Left: 5 minutes
+18-12-31 16:24:29 Time Left: 4 minutes
+18-12-31 16:25:29 Time Left: 3 minutes
+18-12-31 16:26:29 Time Left: 2 minutes
+18-12-31 16:27:29 Time Left: 1 minutes
+18-12-31 16:28:29 Next map: Lobby
+18-12-31 16:28:34 Lothic - Gothic Lobby Room
+18-12-31 16:33:34 Time Left: 5 minutes
+18-12-31 16:34:34 Time Left: 4 minutes
+18-12-31 16:35:34 Time Left: 3 minutes
+18-12-31 16:36:34 Time Left: 2 minutes
+18-12-31 16:37:34 Time Left: 1 minutes
+18-12-31 16:38:34 Next map: Lobby
+18-12-31 16:38:39 Lothic - Gothic Lobby Room
+18-12-31 16:43:39 Time Left: 5 minutes
+18-12-31 16:44:39 Time Left: 4 minutes
+18-12-31 16:45:39 Time Left: 3 minutes
+18-12-31 16:46:39 Time Left: 2 minutes
+18-12-31 16:47:39 Time Left: 1 minutes
+18-12-31 16:48:39 Next map: Lobby
+18-12-31 16:48:45 Lothic - Gothic Lobby Room
+18-12-31 16:53:45 Time Left: 5 minutes
+18-12-31 16:54:45 Time Left: 4 minutes
+18-12-31 16:55:45 Time Left: 3 minutes
+18-12-31 16:56:45 Time Left: 2 minutes
+18-12-31 16:57:45 Time Left: 1 minutes
+18-12-31 16:58:45 Next map: Lobby
+18-12-31 16:58:50 Lothic - Gothic Lobby Room
+18-12-31 17:03:50 Time Left: 5 minutes
+18-12-31 17:04:50 Time Left: 4 minutes
+18-12-31 17:05:50 Time Left: 3 minutes
+18-12-31 17:06:50 Time Left: 2 minutes
+18-12-31 17:07:50 Time Left: 1 minutes
+18-12-31 17:08:50 Next map: Lobby
+18-12-31 17:08:55 Lothic - Gothic Lobby Room
+18-12-31 17:13:55 Time Left: 5 minutes
+18-12-31 17:14:55 Time Left: 4 minutes
+18-12-31 17:15:55 Time Left: 3 minutes
+18-12-31 17:16:55 Time Left: 2 minutes
+18-12-31 17:17:55 Time Left: 1 minutes
+18-12-31 17:18:55 Next map: Lobby
+18-12-31 17:19:01 Lothic - Gothic Lobby Room
+18-12-31 17:24:01 Time Left: 5 minutes
+18-12-31 17:25:01 Time Left: 4 minutes
+18-12-31 17:26:01 Time Left: 3 minutes
+18-12-31 17:27:01 Time Left: 2 minutes
+18-12-31 17:28:01 Time Left: 1 minutes
+18-12-31 17:29:01 Next map: Lobby
+18-12-31 17:29:06 Lothic - Gothic Lobby Room
+18-12-31 17:34:06 Time Left: 5 minutes
+18-12-31 17:35:06 Time Left: 4 minutes
+18-12-31 17:36:06 Time Left: 3 minutes
+18-12-31 17:37:06 Time Left: 2 minutes
+18-12-31 17:38:06 Time Left: 1 minutes
+18-12-31 17:39:06 Next map: Lobby
+18-12-31 17:39:11 Lothic - Gothic Lobby Room
+18-12-31 17:44:11 Time Left: 5 minutes
+18-12-31 17:45:11 Time Left: 4 minutes
+18-12-31 17:46:11 Time Left: 3 minutes
+18-12-31 17:47:11 Time Left: 2 minutes
+18-12-31 17:48:11 Time Left: 1 minutes
+18-12-31 17:49:11 Next map: Lobby
+18-12-31 17:49:17 Lothic - Gothic Lobby Room
+18-12-31 17:54:17 Time Left: 5 minutes
+18-12-31 17:55:17 Time Left: 4 minutes
+18-12-31 17:56:17 Time Left: 3 minutes
+18-12-31 17:57:17 Time Left: 2 minutes
+18-12-31 17:58:17 Time Left: 1 minutes
+18-12-31 17:59:17 Next map: Lobby
+18-12-31 17:59:22 Lothic - Gothic Lobby Room
+18-12-31 18:04:22 Time Left: 5 minutes
+18-12-31 18:05:22 Time Left: 4 minutes
+18-12-31 18:06:22 Time Left: 3 minutes
+18-12-31 18:07:22 Time Left: 2 minutes
+18-12-31 18:08:22 Time Left: 1 minutes
+18-12-31 18:09:22 Next map: Lobby
+18-12-31 18:09:27 Lothic - Gothic Lobby Room
+18-12-31 18:14:27 Time Left: 5 minutes
+18-12-31 18:15:27 Time Left: 4 minutes
+18-12-31 18:16:27 Time Left: 3 minutes
+18-12-31 18:17:27 Time Left: 2 minutes
+18-12-31 18:18:27 Time Left: 1 minutes
+18-12-31 18:19:27 Next map: Lobby
+18-12-31 18:19:33 Lothic - Gothic Lobby Room
+18-12-31 18:24:33 Time Left: 5 minutes
+18-12-31 18:25:33 Time Left: 4 minutes
+18-12-31 18:26:33 Time Left: 3 minutes
+18-12-31 18:27:33 Time Left: 2 minutes
+18-12-31 18:28:33 Time Left: 1 minutes
+18-12-31 18:29:33 Next map: Lobby
+18-12-31 18:29:38 Lothic - Gothic Lobby Room
+18-12-31 18:34:38 Time Left: 5 minutes
+18-12-31 18:35:38 Time Left: 4 minutes
+18-12-31 18:36:38 Time Left: 3 minutes
+18-12-31 18:37:38 Time Left: 2 minutes
+18-12-31 18:38:38 Time Left: 1 minutes
+18-12-31 18:39:38 Next map: Lobby
+18-12-31 18:39:43 Lothic - Gothic Lobby Room
+18-12-31 18:44:43 Time Left: 5 minutes
+18-12-31 18:45:43 Time Left: 4 minutes
+18-12-31 18:46:43 Time Left: 3 minutes
+18-12-31 18:47:43 Time Left: 2 minutes
+18-12-31 18:48:43 Time Left: 1 minutes
+18-12-31 18:49:43 Next map: Lobby
+18-12-31 18:49:49 Lothic - Gothic Lobby Room
+18-12-31 18:54:48 Time Left: 5 minutes
+18-12-31 18:55:48 Time Left: 4 minutes
+18-12-31 18:56:48 Time Left: 3 minutes
+18-12-31 18:57:48 Time Left: 2 minutes
+18-12-31 18:58:48 Time Left: 1 minutes
+18-12-31 18:59:48 Next map: Lobby
+18-12-31 18:59:54 Lothic - Gothic Lobby Room
+18-12-31 19:04:54 Time Left: 5 minutes
+18-12-31 19:05:54 Time Left: 4 minutes
+18-12-31 19:06:54 Time Left: 3 minutes
+18-12-31 19:07:54 Time Left: 2 minutes
+18-12-31 19:08:54 Time Left: 1 minutes
+18-12-31 19:09:54 Next map: Lobby
+18-12-31 19:09:59 Lothic - Gothic Lobby Room
+18-12-31 19:14:59 Time Left: 5 minutes
+18-12-31 19:15:59 Time Left: 4 minutes
+18-12-31 19:16:59 Time Left: 3 minutes
+18-12-31 19:17:59 Time Left: 2 minutes
+18-12-31 19:18:59 Time Left: 1 minutes
+18-12-31 19:19:59 Next map: Lobby
+18-12-31 19:20:04 Lothic - Gothic Lobby Room
+18-12-31 19:25:04 Time Left: 5 minutes
+18-12-31 19:26:04 Time Left: 4 minutes
+18-12-31 19:27:04 Time Left: 3 minutes
+18-12-31 19:28:04 Time Left: 2 minutes
+18-12-31 19:29:04 Time Left: 1 minutes
+18-12-31 19:30:04 Next map: Lobby
+18-12-31 19:30:10 Lothic - Gothic Lobby Room
+18-12-31 19:35:10 Time Left: 5 minutes
+18-12-31 19:36:10 Time Left: 4 minutes
+18-12-31 19:37:10 Time Left: 3 minutes
+18-12-31 19:38:10 Time Left: 2 minutes
+18-12-31 19:39:10 Time Left: 1 minutes
+18-12-31 19:40:10 Next map: Lobby
+18-12-31 19:40:15 Lothic - Gothic Lobby Room
+18-12-31 19:45:15 Time Left: 5 minutes
+18-12-31 19:46:15 Time Left: 4 minutes
+18-12-31 19:47:15 Time Left: 3 minutes
+18-12-31 19:48:15 Time Left: 2 minutes
+18-12-31 19:49:15 Time Left: 1 minutes
+18-12-31 19:50:15 Next map: Lobby
+18-12-31 19:50:20 Lothic - Gothic Lobby Room
+18-12-31 19:55:20 Time Left: 5 minutes
+18-12-31 19:56:20 Time Left: 4 minutes
+18-12-31 19:57:20 Time Left: 3 minutes
+18-12-31 19:58:20 Time Left: 2 minutes
+18-12-31 19:59:20 Time Left: 1 minutes
+18-12-31 20:00:20 Next map: Lobby
+18-12-31 20:00:26 Lothic - Gothic Lobby Room
+18-12-31 20:05:26 Time Left: 5 minutes
+18-12-31 20:06:26 Time Left: 4 minutes
+18-12-31 20:07:26 Time Left: 3 minutes
+18-12-31 20:08:26 Time Left: 2 minutes
+18-12-31 20:09:26 Time Left: 1 minutes
+18-12-31 20:10:26 Next map: Lobby
+18-12-31 20:10:31 Lothic - Gothic Lobby Room
+18-12-31 20:15:31 Time Left: 5 minutes
+18-12-31 20:16:31 Time Left: 4 minutes
+18-12-31 20:17:31 Time Left: 3 minutes
+18-12-31 20:18:31 Time Left: 2 minutes
+18-12-31 20:19:31 Time Left: 1 minutes
+18-12-31 20:20:31 Next map: Lobby
+18-12-31 20:20:36 Lothic - Gothic Lobby Room
+18-12-31 20:25:36 Time Left: 5 minutes
+18-12-31 20:26:36 Time Left: 4 minutes
+18-12-31 20:27:36 Time Left: 3 minutes
+18-12-31 20:28:36 Time Left: 2 minutes
+18-12-31 20:29:36 Time Left: 1 minutes
+18-12-31 20:30:36 Next map: Lobby
+18-12-31 20:30:42 Lothic - Gothic Lobby Room
+18-12-31 20:35:42 Time Left: 5 minutes
+18-12-31 20:36:42 Time Left: 4 minutes
+18-12-31 20:37:42 Time Left: 3 minutes
+18-12-31 20:38:42 Time Left: 2 minutes
+18-12-31 20:39:42 Time Left: 1 minutes
+18-12-31 20:40:42 Next map: Lobby
+18-12-31 20:40:47 Lothic - Gothic Lobby Room
+18-12-31 20:45:47 Time Left: 5 minutes
+18-12-31 20:46:47 Time Left: 4 minutes
+18-12-31 20:47:47 Time Left: 3 minutes
+18-12-31 20:48:47 Time Left: 2 minutes
+18-12-31 20:49:47 Time Left: 1 minutes
+18-12-31 20:50:47 Next map: Lobby
+18-12-31 20:50:52 Lothic - Gothic Lobby Room
+18-12-31 20:55:52 Time Left: 5 minutes
+18-12-31 20:56:52 Time Left: 4 minutes
+18-12-31 20:57:52 Time Left: 3 minutes
+18-12-31 20:58:52 Time Left: 2 minutes
+18-12-31 20:59:52 Time Left: 1 minutes
+18-12-31 21:00:52 Next map: Lobby
+18-12-31 21:00:58 Lothic - Gothic Lobby Room
+18-12-31 21:05:58 Time Left: 5 minutes
+18-12-31 21:06:58 Time Left: 4 minutes
+18-12-31 21:07:58 Time Left: 3 minutes
+18-12-31 21:08:58 Time Left: 2 minutes
+18-12-31 21:09:58 Time Left: 1 minutes
+18-12-31 21:10:58 Next map: Lobby
+18-12-31 21:11:03 Lothic - Gothic Lobby Room
+18-12-31 21:16:03 Time Left: 5 minutes
+18-12-31 21:17:03 Time Left: 4 minutes
+18-12-31 21:18:03 Time Left: 3 minutes
+18-12-31 21:19:03 Time Left: 2 minutes
+18-12-31 21:20:03 Time Left: 1 minutes
+18-12-31 21:21:03 Next map: Lobby
+18-12-31 21:21:08 Lothic - Gothic Lobby Room
+18-12-31 21:26:08 Time Left: 5 minutes
+18-12-31 21:27:08 Time Left: 4 minutes
+18-12-31 21:28:08 Time Left: 3 minutes
+18-12-31 21:29:08 Time Left: 2 minutes
+18-12-31 21:30:08 Time Left: 1 minutes
+18-12-31 21:31:08 Next map: Lobby
+18-12-31 21:31:14 Lothic - Gothic Lobby Room
+18-12-31 21:36:14 Time Left: 5 minutes
+18-12-31 21:37:14 Time Left: 4 minutes
+18-12-31 21:38:14 Time Left: 3 minutes
+18-12-31 21:39:14 Time Left: 2 minutes
+18-12-31 21:40:14 Time Left: 1 minutes
+18-12-31 21:41:14 Next map: Lobby
+18-12-31 21:41:19 Lothic - Gothic Lobby Room
+18-12-31 21:46:19 Time Left: 5 minutes
+18-12-31 21:47:19 Time Left: 4 minutes
+18-12-31 21:48:19 Time Left: 3 minutes
+18-12-31 21:49:19 Time Left: 2 minutes
+18-12-31 21:50:19 Time Left: 1 minutes
+18-12-31 21:51:19 Next map: Lobby
+18-12-31 21:51:24 Lothic - Gothic Lobby Room
+18-12-31 21:56:24 Time Left: 5 minutes
+18-12-31 21:57:24 Time Left: 4 minutes
+18-12-31 21:58:24 Time Left: 3 minutes
+18-12-31 21:59:24 Time Left: 2 minutes
+18-12-31 22:00:24 Time Left: 1 minutes
+18-12-31 22:01:24 Next map: Lobby
+18-12-31 22:01:30 Lothic - Gothic Lobby Room
+18-12-31 22:06:30 Time Left: 5 minutes
+18-12-31 22:07:30 Time Left: 4 minutes
+18-12-31 22:08:30 Time Left: 3 minutes
+18-12-31 22:09:30 Time Left: 2 minutes
+18-12-31 22:10:30 Time Left: 1 minutes
+18-12-31 22:11:29 Next map: Lobby
+18-12-31 22:11:35 Lothic - Gothic Lobby Room
+18-12-31 22:16:35 Time Left: 5 minutes
+18-12-31 22:17:35 Time Left: 4 minutes
+18-12-31 22:18:35 Time Left: 3 minutes
+18-12-31 22:19:35 Time Left: 2 minutes
+18-12-31 22:20:35 Time Left: 1 minutes
+18-12-31 22:21:35 Next map: Lobby
+18-12-31 22:21:40 Lothic - Gothic Lobby Room
+18-12-31 22:26:40 Time Left: 5 minutes
+18-12-31 22:27:40 Time Left: 4 minutes
+18-12-31 22:28:40 Time Left: 3 minutes
+18-12-31 22:29:40 Time Left: 2 minutes
+18-12-31 22:30:40 Time Left: 1 minutes
+18-12-31 22:31:40 Next map: Lobby
+18-12-31 22:31:45 Lothic - Gothic Lobby Room
+18-12-31 22:36:45 Time Left: 5 minutes
+18-12-31 22:37:45 Time Left: 4 minutes
+18-12-31 22:38:45 Time Left: 3 minutes
+18-12-31 22:39:45 Time Left: 2 minutes
+18-12-31 22:40:45 Time Left: 1 minutes
+18-12-31 22:41:45 Next map: Lobby
+18-12-31 22:41:51 Lothic - Gothic Lobby Room
+18-12-31 22:46:51 Time Left: 5 minutes
+18-12-31 22:47:51 Time Left: 4 minutes
+18-12-31 22:48:51 Time Left: 3 minutes
+18-12-31 22:49:51 Time Left: 2 minutes
+18-12-31 22:50:51 Time Left: 1 minutes
+18-12-31 22:51:51 Next map: Lobby
+18-12-31 22:51:56 Lothic - Gothic Lobby Room
+18-12-31 22:56:56 Time Left: 5 minutes
+18-12-31 22:57:56 Time Left: 4 minutes
+18-12-31 22:58:56 Time Left: 3 minutes
+18-12-31 22:59:56 Time Left: 2 minutes
+18-12-31 23:00:56 Time Left: 1 minutes
+18-12-31 23:01:56 Next map: Lobby
+18-12-31 23:02:01 Lothic - Gothic Lobby Room
+18-12-31 23:07:01 Time Left: 5 minutes
+18-12-31 23:08:01 Time Left: 4 minutes
+18-12-31 23:09:01 Time Left: 3 minutes
+18-12-31 23:10:01 Time Left: 2 minutes
+18-12-31 23:11:01 Time Left: 1 minutes
+18-12-31 23:12:01 Next map: Lobby
+18-12-31 23:12:07 Lothic - Gothic Lobby Room
+18-12-31 23:17:07 Time Left: 5 minutes
+18-12-31 23:18:07 Time Left: 4 minutes
+18-12-31 23:19:07 Time Left: 3 minutes
+18-12-31 23:20:07 Time Left: 2 minutes
+18-12-31 23:21:07 Time Left: 1 minutes
+18-12-31 23:22:07 Next map: Lobby
+18-12-31 23:22:12 Lothic - Gothic Lobby Room
+18-12-31 23:27:12 Time Left: 5 minutes
+18-12-31 23:28:12 Time Left: 4 minutes
+18-12-31 23:29:12 Time Left: 3 minutes
+18-12-31 23:30:12 Time Left: 2 minutes
+18-12-31 23:31:12 Time Left: 1 minutes
+18-12-31 23:32:12 Next map: Lobby
+18-12-31 23:32:17 Lothic - Gothic Lobby Room
+18-12-31 23:37:17 Time Left: 5 minutes
+18-12-31 23:38:17 Time Left: 4 minutes
+18-12-31 23:39:17 Time Left: 3 minutes
+18-12-31 23:40:17 Time Left: 2 minutes
+18-12-31 23:41:17 Time Left: 1 minutes
+18-12-31 23:42:17 Next map: Lobby
+18-12-31 23:42:23 Lothic - Gothic Lobby Room
+18-12-31 23:47:23 Time Left: 5 minutes
+18-12-31 23:48:23 Time Left: 4 minutes
+18-12-31 23:49:23 Time Left: 3 minutes
+18-12-31 23:50:23 Time Left: 2 minutes
+18-12-31 23:51:23 Time Left: 1 minutes
+18-12-31 23:52:23 Next map: Lobby
+18-12-31 23:52:28 Lothic - Gothic Lobby Room
+18-12-31 23:57:28 Time Left: 5 minutes
+18-12-31 23:58:28 Time Left: 4 minutes
+18-12-31 23:59:28 Time Left: 3 minutes
+19-01-01 00:00:28 Time Left: 2 minutes
+19-01-01 00:01:28 Time Left: 1 minutes
+19-01-01 00:02:28 Next map: Lobby
+19-01-01 00:02:33 Lothic - Gothic Lobby Room
+19-01-01 00:06:20 172.58.46.197:23487|527AAC47F0D requesting game...
+19-01-01 00:07:33 Time Left: 5 minutes
+19-01-01 00:08:33 Time Left: 4 minutes
+19-01-01 00:09:33 Time Left: 3 minutes
+19-01-01 00:10:33 Time Left: 2 minutes
+19-01-01 00:11:33 Time Left: 1 minutes
+19-01-01 00:12:33 Next map: Lobby
+19-01-01 00:12:39 Lothic - Gothic Lobby Room
+19-01-01 00:17:39 Time Left: 5 minutes
+19-01-01 00:18:39 Time Left: 4 minutes
+19-01-01 00:19:39 Time Left: 3 minutes
+19-01-01 00:20:39 Time Left: 2 minutes
+19-01-01 00:21:39 Time Left: 1 minutes
+19-01-01 00:22:39 Next map: Lobby
+19-01-01 00:22:44 Lothic - Gothic Lobby Room
+19-01-01 00:27:44 Time Left: 5 minutes
+19-01-01 00:28:44 Time Left: 4 minutes
+19-01-01 00:29:44 Time Left: 3 minutes
+19-01-01 00:30:44 Time Left: 2 minutes
+19-01-01 00:31:44 Time Left: 1 minutes
+19-01-01 00:32:44 Next map: Lobby
+19-01-01 00:32:49 Lothic - Gothic Lobby Room
+19-01-01 00:37:49 Time Left: 5 minutes
+19-01-01 00:38:49 Time Left: 4 minutes
+19-01-01 00:39:49 Time Left: 3 minutes
+19-01-01 00:40:49 Time Left: 2 minutes
+19-01-01 00:41:49 Time Left: 1 minutes
+19-01-01 00:42:49 Next map: Lobby
+19-01-01 00:42:55 Lothic - Gothic Lobby Room
+19-01-01 00:47:55 Time Left: 5 minutes
+19-01-01 00:48:55 Time Left: 4 minutes
+19-01-01 00:49:55 Time Left: 3 minutes
+19-01-01 00:50:55 Time Left: 2 minutes
+19-01-01 00:51:55 Time Left: 1 minutes
+19-01-01 00:52:55 Next map: Lobby
+19-01-01 00:53:00 Lothic - Gothic Lobby Room
+19-01-01 00:58:00 Time Left: 5 minutes
+19-01-01 00:59:00 Time Left: 4 minutes
+19-01-01 01:00:00 Time Left: 3 minutes
+19-01-01 01:01:00 Time Left: 2 minutes
+19-01-01 01:02:00 Time Left: 1 minutes
+19-01-01 01:03:00 Next map: Lobby
+19-01-01 01:03:05 Lothic - Gothic Lobby Room
+19-01-01 01:08:05 Time Left: 5 minutes
+19-01-01 01:09:05 Time Left: 4 minutes
+19-01-01 01:10:05 Time Left: 3 minutes
+19-01-01 01:11:05 Time Left: 2 minutes
+19-01-01 01:12:05 Time Left: 1 minutes
+19-01-01 01:13:05 Next map: Lobby
+19-01-01 01:13:11 Lothic - Gothic Lobby Room
+19-01-01 01:18:11 Time Left: 5 minutes
+19-01-01 01:19:11 Time Left: 4 minutes
+19-01-01 01:20:11 Time Left: 3 minutes
+19-01-01 01:21:11 Time Left: 2 minutes
+19-01-01 01:22:11 Time Left: 1 minutes
+19-01-01 01:23:11 Next map: Lobby
+19-01-01 01:23:16 Lothic - Gothic Lobby Room
+19-01-01 01:23:38 177.13.249.45:44313|41993E1CF81 requesting game...
+19-01-01 01:28:16 Time Left: 5 minutes
+19-01-01 01:29:16 Time Left: 4 minutes
+19-01-01 01:30:16 Time Left: 3 minutes
+19-01-01 01:31:16 Time Left: 2 minutes
+19-01-01 01:32:16 Time Left: 1 minutes
+19-01-01 01:33:16 Next map: Lobby
+19-01-01 01:33:21 Lothic - Gothic Lobby Room
+19-01-01 01:38:21 Time Left: 5 minutes
+19-01-01 01:39:21 Time Left: 4 minutes
+19-01-01 01:40:21 Time Left: 3 minutes
+19-01-01 01:41:21 Time Left: 2 minutes
+19-01-01 01:42:21 Time Left: 1 minutes
+19-01-01 01:43:21 Next map: Lobby
+19-01-01 01:43:26 Lothic - Gothic Lobby Room
+19-01-01 01:48:26 Time Left: 5 minutes
+19-01-01 01:49:26 Time Left: 4 minutes
+19-01-01 01:50:26 Time Left: 3 minutes
+19-01-01 01:51:26 Time Left: 2 minutes
+19-01-01 01:52:26 Time Left: 1 minutes
+19-01-01 01:53:26 Next map: Lobby
+19-01-01 01:53:32 Lothic - Gothic Lobby Room
+19-01-01 01:58:32 Time Left: 5 minutes
+19-01-01 01:59:32 Time Left: 4 minutes
+19-01-01 02:00:32 Time Left: 3 minutes
+19-01-01 02:01:32 Time Left: 2 minutes
+19-01-01 02:02:32 Time Left: 1 minutes
+19-01-01 02:03:32 Next map: Lobby
+19-01-01 02:03:37 Lothic - Gothic Lobby Room
+19-01-01 02:08:37 Time Left: 5 minutes
+19-01-01 02:09:37 Time Left: 4 minutes
+19-01-01 02:10:37 Time Left: 3 minutes
+19-01-01 02:11:37 Time Left: 2 minutes
+19-01-01 02:12:37 Time Left: 1 minutes
+19-01-01 02:13:37 Next map: Lobby
+19-01-01 02:13:42 Lothic - Gothic Lobby Room
+19-01-01 02:18:42 Time Left: 5 minutes
+19-01-01 02:19:42 Time Left: 4 minutes
+19-01-01 02:20:42 Time Left: 3 minutes
+19-01-01 02:21:42 Time Left: 2 minutes
+19-01-01 02:22:42 Time Left: 1 minutes
+19-01-01 02:23:42 Next map: Lobby
+19-01-01 02:23:48 Lothic - Gothic Lobby Room
+19-01-01 02:28:48 Time Left: 5 minutes
+19-01-01 02:29:48 Time Left: 4 minutes
+19-01-01 02:30:48 Time Left: 3 minutes
+19-01-01 02:31:48 Time Left: 2 minutes
+19-01-01 02:32:48 Time Left: 1 minutes
+19-01-01 02:33:48 Next map: Lobby
+19-01-01 02:33:53 Lothic - Gothic Lobby Room
+19-01-01 02:38:53 Time Left: 5 minutes
+19-01-01 02:39:53 Time Left: 4 minutes
+19-01-01 02:40:53 Time Left: 3 minutes
+19-01-01 02:41:53 Time Left: 2 minutes
+19-01-01 02:42:53 Time Left: 1 minutes
+19-01-01 02:43:53 Next map: Lobby
+19-01-01 02:43:58 Lothic - Gothic Lobby Room
+19-01-01 02:48:58 Time Left: 5 minutes
+19-01-01 02:49:58 Time Left: 4 minutes
+19-01-01 02:50:58 Time Left: 3 minutes
+19-01-01 02:51:58 Time Left: 2 minutes
+19-01-01 02:52:58 Time Left: 1 minutes
+19-01-01 02:53:58 Next map: Lobby
+19-01-01 02:54:04 Lothic - Gothic Lobby Room
+19-01-01 02:59:04 Time Left: 5 minutes
+19-01-01 03:00:04 Time Left: 4 minutes
+19-01-01 03:01:04 Time Left: 3 minutes
+19-01-01 03:02:04 Time Left: 2 minutes
+19-01-01 03:03:04 Time Left: 1 minutes
+19-01-01 03:04:04 Next map: Lobby
+19-01-01 03:04:09 Lothic - Gothic Lobby Room
+19-01-01 03:09:09 Time Left: 5 minutes
+19-01-01 03:10:09 Time Left: 4 minutes
+19-01-01 03:11:09 Time Left: 3 minutes
+19-01-01 03:12:09 Time Left: 2 minutes
+19-01-01 03:13:09 Time Left: 1 minutes
+19-01-01 03:14:09 Next map: Lobby
+19-01-01 03:14:14 Lothic - Gothic Lobby Room
+19-01-01 03:19:14 Time Left: 5 minutes
+19-01-01 03:20:14 Time Left: 4 minutes
+19-01-01 03:21:14 Time Left: 3 minutes
+19-01-01 03:22:14 Time Left: 2 minutes
+19-01-01 03:23:14 Time Left: 1 minutes
+19-01-01 03:24:14 Next map: Lobby
+19-01-01 03:24:20 Lothic - Gothic Lobby Room
+19-01-01 03:29:20 Time Left: 5 minutes
+19-01-01 03:30:20 Time Left: 4 minutes
+19-01-01 03:31:20 Time Left: 3 minutes
+19-01-01 03:32:20 Time Left: 2 minutes
+19-01-01 03:33:20 Time Left: 1 minutes
+19-01-01 03:34:20 Next map: Lobby
+19-01-01 03:34:25 Lothic - Gothic Lobby Room
+19-01-01 03:39:25 Time Left: 5 minutes
+19-01-01 03:40:25 Time Left: 4 minutes
+19-01-01 03:41:25 Time Left: 3 minutes
+19-01-01 03:42:25 Time Left: 2 minutes
+19-01-01 03:43:25 Time Left: 1 minutes
+19-01-01 03:44:25 Next map: Lobby
+19-01-01 03:44:30 Lothic - Gothic Lobby Room
+19-01-01 03:49:30 Time Left: 5 minutes
+19-01-01 03:50:30 Time Left: 4 minutes
+19-01-01 03:51:30 Time Left: 3 minutes
+19-01-01 03:52:30 Time Left: 2 minutes
+19-01-01 03:53:30 Time Left: 1 minutes
+19-01-01 03:54:30 Next map: Lobby
+19-01-01 03:54:36 Lothic - Gothic Lobby Room
+19-01-01 03:59:36 Time Left: 5 minutes
+19-01-01 04:00:36 Time Left: 4 minutes
+19-01-01 04:01:36 Time Left: 3 minutes
+19-01-01 04:02:36 Time Left: 2 minutes
+19-01-01 04:03:36 Time Left: 1 minutes
+19-01-01 04:04:36 Next map: Lobby
+19-01-01 04:04:41 Lothic - Gothic Lobby Room
+19-01-01 04:09:41 Time Left: 5 minutes
+19-01-01 04:10:41 Time Left: 4 minutes
+19-01-01 04:11:41 Time Left: 3 minutes
+19-01-01 04:12:41 Time Left: 2 minutes
+19-01-01 04:13:41 Time Left: 1 minutes
+19-01-01 04:14:41 Next map: Lobby
+19-01-01 04:14:46 Lothic - Gothic Lobby Room
+19-01-01 04:19:46 Time Left: 5 minutes
+19-01-01 04:20:46 Time Left: 4 minutes
+19-01-01 04:21:46 Time Left: 3 minutes
+19-01-01 04:22:46 Time Left: 2 minutes
+19-01-01 04:23:46 Time Left: 1 minutes
+19-01-01 04:24:46 Next map: Lobby
+19-01-01 04:24:52 Lothic - Gothic Lobby Room
+19-01-01 04:29:52 Time Left: 5 minutes
+19-01-01 04:30:52 Time Left: 4 minutes
+19-01-01 04:31:52 Time Left: 3 minutes
+19-01-01 04:32:52 Time Left: 2 minutes
+19-01-01 04:33:52 Time Left: 1 minutes
+19-01-01 04:34:52 Next map: Lobby
+19-01-01 04:34:57 Lothic - Gothic Lobby Room
+19-01-01 04:39:57 Time Left: 5 minutes
+19-01-01 04:40:57 Time Left: 4 minutes
+19-01-01 04:41:57 Time Left: 3 minutes
+19-01-01 04:42:57 Time Left: 2 minutes
+19-01-01 04:43:57 Time Left: 1 minutes
+19-01-01 04:44:57 Next map: Lobby
+19-01-01 04:45:02 Lothic - Gothic Lobby Room
+19-01-01 04:50:02 Time Left: 5 minutes
+19-01-01 04:51:02 Time Left: 4 minutes
+19-01-01 04:52:02 Time Left: 3 minutes
+19-01-01 04:53:02 Time Left: 2 minutes
+19-01-01 04:54:02 Time Left: 1 minutes
+19-01-01 04:55:02 Next map: Lobby
+19-01-01 04:55:08 Lothic - Gothic Lobby Room
+19-01-01 05:00:07 Time Left: 5 minutes
+19-01-01 05:01:07 Time Left: 4 minutes
+19-01-01 05:02:07 Time Left: 3 minutes
+19-01-01 05:03:07 Time Left: 2 minutes
+19-01-01 05:04:07 Time Left: 1 minutes
+19-01-01 05:05:07 Next map: Lobby
+19-01-01 05:05:13 Lothic - Gothic Lobby Room
+19-01-01 05:10:13 Time Left: 5 minutes
+19-01-01 05:11:13 Time Left: 4 minutes
+19-01-01 05:12:13 Time Left: 3 minutes
+19-01-01 05:13:13 Time Left: 2 minutes
+19-01-01 05:14:13 Time Left: 1 minutes
+19-01-01 05:15:13 Next map: Lobby
+19-01-01 05:15:18 Lothic - Gothic Lobby Room
+19-01-01 05:20:18 Time Left: 5 minutes
+19-01-01 05:21:18 Time Left: 4 minutes
+19-01-01 05:22:18 Time Left: 3 minutes
+19-01-01 05:23:18 Time Left: 2 minutes
+19-01-01 05:24:18 Time Left: 1 minutes
+19-01-01 05:25:18 Next map: Lobby
+19-01-01 05:25:23 Lothic - Gothic Lobby Room
+19-01-01 05:30:23 Time Left: 5 minutes
+19-01-01 05:31:23 Time Left: 4 minutes
+19-01-01 05:32:23 Time Left: 3 minutes
+19-01-01 05:33:23 Time Left: 2 minutes
+19-01-01 05:34:23 Time Left: 1 minutes
+19-01-01 05:35:23 Next map: Lobby
+19-01-01 05:35:29 Lothic - Gothic Lobby Room
+19-01-01 05:40:29 Time Left: 5 minutes
+19-01-01 05:41:29 Time Left: 4 minutes
+19-01-01 05:42:29 Time Left: 3 minutes
+19-01-01 05:43:29 Time Left: 2 minutes
+19-01-01 05:44:29 Time Left: 1 minutes
+19-01-01 05:45:29 Next map: Lobby
+19-01-01 05:45:34 Lothic - Gothic Lobby Room
+19-01-01 05:50:34 Time Left: 5 minutes
+19-01-01 05:51:34 Time Left: 4 minutes
+19-01-01 05:52:34 Time Left: 3 minutes
+19-01-01 05:53:34 Time Left: 2 minutes
+19-01-01 05:54:34 Time Left: 1 minutes
+19-01-01 05:55:34 Next map: Lobby
+19-01-01 05:55:39 Lothic - Gothic Lobby Room
+19-01-01 06:00:39 Time Left: 5 minutes
+19-01-01 06:01:39 Time Left: 4 minutes
+19-01-01 06:02:39 Time Left: 3 minutes
+19-01-01 06:03:39 Time Left: 2 minutes
+19-01-01 06:04:39 Time Left: 1 minutes
+19-01-01 06:05:39 Next map: Lobby
+19-01-01 06:05:45 Lothic - Gothic Lobby Room
+19-01-01 06:10:45 Time Left: 5 minutes
+19-01-01 06:11:45 Time Left: 4 minutes
+19-01-01 06:12:45 Time Left: 3 minutes
+19-01-01 06:13:45 Time Left: 2 minutes
+19-01-01 06:14:45 Time Left: 1 minutes
+19-01-01 06:15:45 Next map: Lobby
+19-01-01 06:15:50 Lothic - Gothic Lobby Room
+19-01-01 06:20:50 Time Left: 5 minutes
+19-01-01 06:21:50 Time Left: 4 minutes
+19-01-01 06:22:50 Time Left: 3 minutes
+19-01-01 06:23:50 Time Left: 2 minutes
+19-01-01 06:24:50 Time Left: 1 minutes
+19-01-01 06:25:50 Next map: Lobby
+19-01-01 06:25:55 Lothic - Gothic Lobby Room
+19-01-01 06:30:55 Time Left: 5 minutes
+19-01-01 06:31:55 Time Left: 4 minutes
+19-01-01 06:32:55 Time Left: 3 minutes
+19-01-01 06:33:55 Time Left: 2 minutes
+19-01-01 06:34:55 Time Left: 1 minutes
+19-01-01 06:35:55 Next map: Lobby
+19-01-01 06:36:01 Lothic - Gothic Lobby Room
+19-01-01 06:41:01 Time Left: 5 minutes
+19-01-01 06:42:01 Time Left: 4 minutes
+19-01-01 06:43:01 Time Left: 3 minutes
+19-01-01 06:44:01 Time Left: 2 minutes
+19-01-01 06:45:01 Time Left: 1 minutes
+19-01-01 06:46:01 Next map: Lobby
+19-01-01 06:46:06 Lothic - Gothic Lobby Room
+19-01-01 06:51:06 Time Left: 5 minutes
+19-01-01 06:52:06 Time Left: 4 minutes
+19-01-01 06:53:06 Time Left: 3 minutes
+19-01-01 06:54:06 Time Left: 2 minutes
+19-01-01 06:55:06 Time Left: 1 minutes
+19-01-01 06:56:06 Next map: Lobby
+19-01-01 06:56:11 Lothic - Gothic Lobby Room
+19-01-01 07:01:11 Time Left: 5 minutes
+19-01-01 07:02:11 Time Left: 4 minutes
+19-01-01 07:03:11 Time Left: 3 minutes
+19-01-01 07:04:11 Time Left: 2 minutes
+19-01-01 07:05:11 Time Left: 1 minutes
+19-01-01 07:06:11 Next map: Lobby
+19-01-01 07:06:17 Lothic - Gothic Lobby Room
+19-01-01 07:11:17 Time Left: 5 minutes
+19-01-01 07:12:17 Time Left: 4 minutes
+19-01-01 07:13:17 Time Left: 3 minutes
+19-01-01 07:14:17 Time Left: 2 minutes
+19-01-01 07:15:17 Time Left: 1 minutes
+19-01-01 07:16:17 Next map: Lobby
+19-01-01 07:16:22 Lothic - Gothic Lobby Room
+19-01-01 07:21:22 Time Left: 5 minutes
+19-01-01 07:22:22 Time Left: 4 minutes
+19-01-01 07:23:22 Time Left: 3 minutes
+19-01-01 07:24:22 Time Left: 2 minutes
+19-01-01 07:25:22 Time Left: 1 minutes
+19-01-01 07:26:22 Next map: Lobby
+19-01-01 07:26:27 Lothic - Gothic Lobby Room
+19-01-01 07:31:27 Time Left: 5 minutes
+19-01-01 07:32:27 Time Left: 4 minutes
+19-01-01 07:33:27 Time Left: 3 minutes
+19-01-01 07:34:27 Time Left: 2 minutes
+19-01-01 07:35:27 Time Left: 1 minutes
+19-01-01 07:36:27 Next map: Lobby
+19-01-01 07:36:33 Lothic - Gothic Lobby Room
+19-01-01 07:41:33 Time Left: 5 minutes
+19-01-01 07:42:33 Time Left: 4 minutes
+19-01-01 07:43:33 Time Left: 3 minutes
+19-01-01 07:44:33 Time Left: 2 minutes
+19-01-01 07:45:33 Time Left: 1 minutes
+19-01-01 07:46:33 Next map: Lobby
+19-01-01 07:46:38 Lothic - Gothic Lobby Room
+19-01-01 07:51:38 Time Left: 5 minutes
+19-01-01 07:52:38 Time Left: 4 minutes
+19-01-01 07:53:38 Time Left: 3 minutes
+19-01-01 07:54:38 Time Left: 2 minutes
+19-01-01 07:55:38 Time Left: 1 minutes
+19-01-01 07:56:38 Next map: Lobby
+19-01-01 07:56:43 Lothic - Gothic Lobby Room
+19-01-01 08:01:43 Time Left: 5 minutes
+19-01-01 08:02:43 Time Left: 4 minutes
+19-01-01 08:03:43 Time Left: 3 minutes
+19-01-01 08:04:43 Time Left: 2 minutes
+19-01-01 08:05:43 Time Left: 1 minutes
+19-01-01 08:06:43 Next map: Lobby
+19-01-01 08:06:49 Lothic - Gothic Lobby Room
+19-01-01 08:11:49 Time Left: 5 minutes
+19-01-01 08:12:49 Time Left: 4 minutes
+19-01-01 08:13:49 Time Left: 3 minutes
+19-01-01 08:14:49 Time Left: 2 minutes
+19-01-01 08:15:49 Time Left: 1 minutes
+19-01-01 08:16:48 Next map: Lobby
+19-01-01 08:16:54 Lothic - Gothic Lobby Room
+19-01-01 08:21:54 Time Left: 5 minutes
+19-01-01 08:22:54 Time Left: 4 minutes
+19-01-01 08:23:54 Time Left: 3 minutes
+19-01-01 08:24:54 Time Left: 2 minutes
+19-01-01 08:25:54 Time Left: 1 minutes
+19-01-01 08:26:54 Next map: Lobby
+19-01-01 08:26:59 Lothic - Gothic Lobby Room
+19-01-01 08:31:59 Time Left: 5 minutes
+19-01-01 08:32:59 Time Left: 4 minutes
+19-01-01 08:33:59 Time Left: 3 minutes
+19-01-01 08:34:59 Time Left: 2 minutes
+19-01-01 08:35:59 Time Left: 1 minutes
+19-01-01 08:36:59 Next map: Lobby
+19-01-01 08:37:04 Lothic - Gothic Lobby Room
+19-01-01 08:42:04 Time Left: 5 minutes
+19-01-01 08:43:04 Time Left: 4 minutes
+19-01-01 08:44:04 Time Left: 3 minutes
+19-01-01 08:45:04 Time Left: 2 minutes
+19-01-01 08:46:04 Time Left: 1 minutes
+19-01-01 08:47:04 Next map: Lobby
+19-01-01 08:47:10 Lothic - Gothic Lobby Room
+19-01-01 08:52:10 Time Left: 5 minutes
+19-01-01 08:53:10 Time Left: 4 minutes
+19-01-01 08:54:10 Time Left: 3 minutes
+19-01-01 08:55:10 Time Left: 2 minutes
+19-01-01 08:56:10 Time Left: 1 minutes
+19-01-01 08:57:10 Next map: Lobby
+19-01-01 08:57:15 Lothic - Gothic Lobby Room
+19-01-01 09:02:15 Time Left: 5 minutes
+19-01-01 09:03:15 Time Left: 4 minutes
+19-01-01 09:04:15 Time Left: 3 minutes
+19-01-01 09:05:15 Time Left: 2 minutes
+19-01-01 09:06:15 Time Left: 1 minutes
+19-01-01 09:07:15 Next map: Lobby
+19-01-01 09:07:20 Lothic - Gothic Lobby Room
+19-01-01 09:12:20 Time Left: 5 minutes
+19-01-01 09:13:20 Time Left: 4 minutes
+19-01-01 09:14:20 Time Left: 3 minutes
+19-01-01 09:15:20 Time Left: 2 minutes
+19-01-01 09:16:20 Time Left: 1 minutes
+19-01-01 09:17:20 Next map: Lobby
+19-01-01 09:17:26 Lothic - Gothic Lobby Room
+19-01-01 09:22:26 Time Left: 5 minutes
+19-01-01 09:23:26 Time Left: 4 minutes
+19-01-01 09:24:26 Time Left: 3 minutes
+19-01-01 09:25:26 Time Left: 2 minutes
+19-01-01 09:26:26 Time Left: 1 minutes
+19-01-01 09:27:26 Next map: Lobby
+19-01-01 09:27:31 Lothic - Gothic Lobby Room
+19-01-01 09:32:31 Time Left: 5 minutes
+19-01-01 09:33:31 Time Left: 4 minutes
+19-01-01 09:34:31 Time Left: 3 minutes
+19-01-01 09:35:31 Time Left: 2 minutes
+19-01-01 09:36:31 Time Left: 1 minutes
+19-01-01 09:37:31 Next map: Lobby
+19-01-01 09:37:36 Lothic - Gothic Lobby Room
+19-01-01 09:42:36 Time Left: 5 minutes
+19-01-01 09:43:36 Time Left: 4 minutes
+19-01-01 09:44:36 Time Left: 3 minutes
+19-01-01 09:45:36 Time Left: 2 minutes
+19-01-01 09:46:36 Time Left: 1 minutes
+19-01-01 09:47:36 Next map: Lobby
+19-01-01 09:47:42 Lothic - Gothic Lobby Room
+19-01-01 09:52:42 Time Left: 5 minutes
+19-01-01 09:53:42 Time Left: 4 minutes
+19-01-01 09:54:42 Time Left: 3 minutes
+19-01-01 09:55:42 Time Left: 2 minutes
+19-01-01 09:56:42 Time Left: 1 minutes
+19-01-01 09:57:42 Next map: Lobby
+19-01-01 09:57:47 Lothic - Gothic Lobby Room
+19-01-01 10:02:47 Time Left: 5 minutes
+19-01-01 10:03:47 Time Left: 4 minutes
+19-01-01 10:04:47 Time Left: 3 minutes
+19-01-01 10:05:47 Time Left: 2 minutes
+19-01-01 10:06:47 Time Left: 1 minutes
+19-01-01 10:07:47 Next map: Lobby
+19-01-01 10:07:52 Lothic - Gothic Lobby Room
+19-01-01 10:12:52 Time Left: 5 minutes
+19-01-01 10:13:52 Time Left: 4 minutes
+19-01-01 10:14:52 Time Left: 3 minutes
+19-01-01 10:15:52 Time Left: 2 minutes
+19-01-01 10:16:52 Time Left: 1 minutes
+19-01-01 10:17:52 Next map: Lobby
+19-01-01 10:17:58 Lothic - Gothic Lobby Room
+19-01-01 10:22:58 Time Left: 5 minutes
+19-01-01 10:23:58 Time Left: 4 minutes
+19-01-01 10:24:58 Time Left: 3 minutes
+19-01-01 10:25:58 Time Left: 2 minutes
+19-01-01 10:26:58 Time Left: 1 minutes
+19-01-01 10:27:58 Next map: Lobby
+19-01-01 10:28:03 Lothic - Gothic Lobby Room
+19-01-01 10:33:03 Time Left: 5 minutes
+19-01-01 10:34:03 Time Left: 4 minutes
+19-01-01 10:35:03 Time Left: 3 minutes
+19-01-01 10:36:03 Time Left: 2 minutes
+19-01-01 10:37:03 Time Left: 1 minutes
+19-01-01 10:38:03 Next map: Lobby
+19-01-01 10:38:08 Lothic - Gothic Lobby Room
+19-01-01 10:43:08 Time Left: 5 minutes
+19-01-01 10:44:08 Time Left: 4 minutes
+19-01-01 10:45:08 Time Left: 3 minutes
+19-01-01 10:46:08 Time Left: 2 minutes
+19-01-01 10:47:08 Time Left: 1 minutes
+19-01-01 10:48:08 Next map: Lobby
+19-01-01 10:48:14 Lothic - Gothic Lobby Room
+19-01-01 10:53:14 Time Left: 5 minutes
+19-01-01 10:54:14 Time Left: 4 minutes
+19-01-01 10:55:14 Time Left: 3 minutes
+19-01-01 10:56:14 Time Left: 2 minutes
+19-01-01 10:57:14 Time Left: 1 minutes
+19-01-01 10:58:14 Next map: Lobby
+19-01-01 10:58:19 Lothic - Gothic Lobby Room
+19-01-01 11:03:19 Time Left: 5 minutes
+19-01-01 11:04:19 Time Left: 4 minutes
+19-01-01 11:05:19 Time Left: 3 minutes
+19-01-01 11:06:19 Time Left: 2 minutes
+19-01-01 11:07:19 Time Left: 1 minutes
+19-01-01 11:08:19 Next map: Lobby
+19-01-01 11:08:24 Lothic - Gothic Lobby Room
+19-01-01 11:13:24 Time Left: 5 minutes
+19-01-01 11:14:24 Time Left: 4 minutes
+19-01-01 11:15:24 Time Left: 3 minutes
+19-01-01 11:16:24 Time Left: 2 minutes
+19-01-01 11:17:24 Time Left: 1 minutes
+19-01-01 11:18:24 Next map: Lobby
+19-01-01 11:18:30 Lothic - Gothic Lobby Room
+19-01-01 11:23:30 Time Left: 5 minutes
+19-01-01 11:24:30 Time Left: 4 minutes
+19-01-01 11:25:30 Time Left: 3 minutes
+19-01-01 11:26:30 Time Left: 2 minutes
+19-01-01 11:27:30 Time Left: 1 minutes
+19-01-01 11:28:30 Next map: Lobby
+19-01-01 11:28:35 Lothic - Gothic Lobby Room
+19-01-01 11:33:35 Time Left: 5 minutes
+19-01-01 11:34:35 Time Left: 4 minutes
+19-01-01 11:35:35 Time Left: 3 minutes
+19-01-01 11:36:35 Time Left: 2 minutes
+19-01-01 11:37:35 Time Left: 1 minutes
+19-01-01 11:38:35 Next map: Lobby
+19-01-01 11:38:40 Lothic - Gothic Lobby Room
+19-01-01 11:43:40 Time Left: 5 minutes
+19-01-01 11:44:40 Time Left: 4 minutes
+19-01-01 11:45:40 Time Left: 3 minutes
+19-01-01 11:46:40 Time Left: 2 minutes
+19-01-01 11:47:40 Time Left: 1 minutes
+19-01-01 11:48:40 Next map: Lobby
+19-01-01 11:48:45 Lothic - Gothic Lobby Room
+19-01-01 11:53:45 Time Left: 5 minutes
+19-01-01 11:54:45 Time Left: 4 minutes
+19-01-01 11:55:45 Time Left: 3 minutes
+19-01-01 11:56:45 Time Left: 2 minutes
+19-01-01 11:57:45 Time Left: 1 minutes
+19-01-01 11:58:45 Next map: Lobby
+19-01-01 11:58:51 Lothic - Gothic Lobby Room
+19-01-01 12:03:51 Time Left: 5 minutes
+19-01-01 12:04:51 Time Left: 4 minutes
+19-01-01 12:05:51 Time Left: 3 minutes
+19-01-01 12:06:51 Time Left: 2 minutes
+19-01-01 12:07:51 Time Left: 1 minutes
+19-01-01 12:08:51 Next map: Lobby
+19-01-01 12:08:56 Lothic - Gothic Lobby Room
+19-01-01 12:13:56 Time Left: 5 minutes
+19-01-01 12:14:56 Time Left: 4 minutes
+19-01-01 12:15:56 Time Left: 3 minutes
+19-01-01 12:16:56 Time Left: 2 minutes
+19-01-01 12:17:56 Time Left: 1 minutes
+19-01-01 12:18:56 Next map: Lobby
+19-01-01 12:19:01 Lothic - Gothic Lobby Room
+19-01-01 12:24:01 Time Left: 5 minutes
+19-01-01 12:25:01 Time Left: 4 minutes
+19-01-01 12:26:01 Time Left: 3 minutes
+19-01-01 12:27:01 Time Left: 2 minutes
+19-01-01 12:28:01 Time Left: 1 minutes
+19-01-01 12:29:01 Next map: Lobby
+19-01-01 12:29:07 Lothic - Gothic Lobby Room
+19-01-01 12:34:07 Time Left: 5 minutes
+19-01-01 12:35:07 Time Left: 4 minutes
+19-01-01 12:36:07 Time Left: 3 minutes
+19-01-01 12:37:07 Time Left: 2 minutes
+19-01-01 12:38:07 Time Left: 1 minutes
+19-01-01 12:39:07 Next map: Lobby
+19-01-01 12:39:12 Lothic - Gothic Lobby Room
+19-01-01 12:44:12 Time Left: 5 minutes
+19-01-01 12:45:12 Time Left: 4 minutes
+19-01-01 12:46:12 Time Left: 3 minutes
+19-01-01 12:47:12 Time Left: 2 minutes
+19-01-01 12:48:12 Time Left: 1 minutes
+19-01-01 12:49:12 Next map: Lobby
+19-01-01 12:49:17 Lothic - Gothic Lobby Room
+19-01-01 12:54:17 Time Left: 5 minutes
+19-01-01 12:55:17 Time Left: 4 minutes
+19-01-01 12:56:17 Time Left: 3 minutes
+19-01-01 12:57:17 Time Left: 2 minutes
+19-01-01 12:58:17 Time Left: 1 minutes
+19-01-01 12:59:17 Next map: Lobby
+19-01-01 12:59:23 Lothic - Gothic Lobby Room
+19-01-01 13:04:23 Time Left: 5 minutes
+19-01-01 13:05:23 Time Left: 4 minutes
+19-01-01 13:06:23 Time Left: 3 minutes
+19-01-01 13:07:23 Time Left: 2 minutes
+19-01-01 13:08:23 Time Left: 1 minutes
+19-01-01 13:09:23 Next map: Lobby
+19-01-01 13:09:28 Lothic - Gothic Lobby Room
+19-01-01 13:14:28 Time Left: 5 minutes
+19-01-01 13:15:28 Time Left: 4 minutes
+19-01-01 13:16:28 Time Left: 3 minutes
+19-01-01 13:17:28 Time Left: 2 minutes
+19-01-01 13:18:28 Time Left: 1 minutes
+19-01-01 13:19:28 Next map: Lobby
+19-01-01 13:19:33 Lothic - Gothic Lobby Room
+19-01-01 13:24:33 Time Left: 5 minutes
+19-01-01 13:25:33 Time Left: 4 minutes
+19-01-01 13:26:33 Time Left: 3 minutes
+19-01-01 13:27:33 Time Left: 2 minutes
+19-01-01 13:28:33 Time Left: 1 minutes
+19-01-01 13:29:33 Next map: Lobby
+19-01-01 13:29:39 Lothic - Gothic Lobby Room
+19-01-01 13:34:39 Time Left: 5 minutes
+19-01-01 13:35:39 Time Left: 4 minutes
+19-01-01 13:36:39 Time Left: 3 minutes
+19-01-01 13:37:39 Time Left: 2 minutes
+19-01-01 13:38:39 Time Left: 1 minutes
+19-01-01 13:39:39 Next map: Lobby
+19-01-01 13:39:44 Lothic - Gothic Lobby Room
+19-01-01 13:44:44 Time Left: 5 minutes
+19-01-01 13:45:44 Time Left: 4 minutes
+19-01-01 13:46:44 Time Left: 3 minutes
+19-01-01 13:47:44 Time Left: 2 minutes
+19-01-01 13:48:44 Time Left: 1 minutes
+19-01-01 13:49:44 Next map: Lobby
+19-01-01 13:49:49 Lothic - Gothic Lobby Room
+19-01-01 13:54:49 Time Left: 5 minutes
+19-01-01 13:55:49 Time Left: 4 minutes
+19-01-01 13:56:49 Time Left: 3 minutes
+19-01-01 13:57:49 Time Left: 2 minutes
+19-01-01 13:58:49 Time Left: 1 minutes
+19-01-01 13:59:49 Next map: Lobby
+19-01-01 13:59:55 Lothic - Gothic Lobby Room
+19-01-01 14:04:55 Time Left: 5 minutes
+19-01-01 14:05:55 Time Left: 4 minutes
+19-01-01 14:06:55 Time Left: 3 minutes
+19-01-01 14:07:55 Time Left: 2 minutes
+19-01-01 14:08:55 Time Left: 1 minutes
+19-01-01 14:09:55 Next map: Lobby
+19-01-01 14:10:00 Lothic - Gothic Lobby Room
+19-01-01 14:15:00 Time Left: 5 minutes
+19-01-01 14:16:00 Time Left: 4 minutes
+19-01-01 14:17:00 Time Left: 3 minutes
+19-01-01 14:18:00 Time Left: 2 minutes
+19-01-01 14:19:00 Time Left: 1 minutes
+19-01-01 14:20:00 Next map: Lobby
+19-01-01 14:20:05 Lothic - Gothic Lobby Room
+19-01-01 14:25:05 Time Left: 5 minutes
+19-01-01 14:26:05 Time Left: 4 minutes
+19-01-01 14:27:05 Time Left: 3 minutes
+19-01-01 14:28:05 Time Left: 2 minutes
+19-01-01 14:29:05 Time Left: 1 minutes
+19-01-01 14:30:05 Next map: Lobby
+19-01-01 14:30:11 Lothic - Gothic Lobby Room
+19-01-01 14:35:11 Time Left: 5 minutes
+19-01-01 14:36:11 Time Left: 4 minutes
+19-01-01 14:37:11 Time Left: 3 minutes
+19-01-01 14:38:11 Time Left: 2 minutes
+19-01-01 14:39:11 Time Left: 1 minutes
+19-01-01 14:40:11 Next map: Lobby
+19-01-01 14:40:16 Lothic - Gothic Lobby Room
+19-01-01 14:45:16 Time Left: 5 minutes
+19-01-01 14:46:16 Time Left: 4 minutes
+19-01-01 14:47:16 Time Left: 3 minutes
+19-01-01 14:48:16 Time Left: 2 minutes
+19-01-01 14:49:16 Time Left: 1 minutes
+19-01-01 14:50:16 Next map: Lobby
+19-01-01 14:50:21 Lothic - Gothic Lobby Room
+19-01-01 14:55:21 Time Left: 5 minutes
+19-01-01 14:56:21 Time Left: 4 minutes
+19-01-01 14:57:21 Time Left: 3 minutes
+19-01-01 14:58:21 Time Left: 2 minutes
+19-01-01 14:59:21 Time Left: 1 minutes
+19-01-01 15:00:21 Next map: Lobby
+19-01-01 15:00:27 Lothic - Gothic Lobby Room
+19-01-01 15:05:26 Time Left: 5 minutes
+19-01-01 15:06:26 Time Left: 4 minutes
+19-01-01 15:07:26 Time Left: 3 minutes
+19-01-01 15:08:26 Time Left: 2 minutes
+19-01-01 15:09:26 Time Left: 1 minutes
+19-01-01 15:10:26 Next map: Lobby
+19-01-01 15:10:32 Lothic - Gothic Lobby Room
+19-01-01 15:15:32 Time Left: 5 minutes
+19-01-01 15:16:32 Time Left: 4 minutes
+19-01-01 15:17:32 Time Left: 3 minutes
+19-01-01 15:18:32 Time Left: 2 minutes
+19-01-01 15:19:32 Time Left: 1 minutes
+19-01-01 15:20:32 Next map: Lobby
+19-01-01 15:20:37 Lothic - Gothic Lobby Room
+19-01-01 15:25:37 Time Left: 5 minutes
+19-01-01 15:26:37 Time Left: 4 minutes
+19-01-01 15:27:37 Time Left: 3 minutes
+19-01-01 15:28:37 Time Left: 2 minutes
+19-01-01 15:29:08 Admin connected (77.3.69.167).
+19-01-01 15:29:09 /maxplayers (77.3.69.167)
+19-01-01 15:29:09 Max players is 16
+19-01-01 15:29:09 /maxrespawntime (77.3.69.167)
+19-01-01 15:29:09 Maximum Respawn time is 5 seconds
+19-01-01 15:29:09 /respawntime (77.3.69.167)
+19-01-01 15:29:09 Respawn time is 3 seconds
+19-01-01 15:29:09 /limit (77.3.69.167)
+19-01-01 15:29:09 Current kill/point/capture limit is 10
+19-01-01 15:29:09 /timelimit (77.3.69.167)
+19-01-01 15:29:09 Current time limit is 10 minutes
+19-01-01 15:29:09 /friendlyfire (77.3.69.167)
+19-01-01 15:29:09 Friendly Fire is 0
+19-01-01 15:29:09 /scripting (77.3.69.167)
+19-01-01 15:29:09 Scripting is currently Enabled (1)
+19-01-01 15:29:09 /balance (77.3.69.167)
+19-01-01 15:29:09 Bot Balance is off (0)
+19-01-01 15:29:09 /bonus (77.3.69.167)
+19-01-01 15:29:09 Current bonus frequency is 0
+19-01-01 15:29:09 /vote% (77.3.69.167)
+19-01-01 15:29:09 Voting percent is 60
+19-01-01 15:29:37 Time Left: 1 minutes
+19-01-01 15:30:37 Next map: Lobby
+19-01-01 15:30:42 Lothic - Gothic Lobby Room
+19-01-01 15:35:42 Time Left: 5 minutes
+19-01-01 15:36:42 Time Left: 4 minutes
+19-01-01 15:37:42 Time Left: 3 minutes
+19-01-01 15:38:42 Time Left: 2 minutes
+19-01-01 15:39:42 Time Left: 1 minutes
+19-01-01 15:40:42 Next map: Lobby
+19-01-01 15:40:48 Lothic - Gothic Lobby Room
+19-01-01 15:45:48 Time Left: 5 minutes
+19-01-01 15:46:48 Time Left: 4 minutes
+19-01-01 15:47:48 Time Left: 3 minutes
+19-01-01 15:48:48 Time Left: 2 minutes
+19-01-01 15:49:48 Time Left: 1 minutes
+19-01-01 15:50:48 Next map: Lobby
+19-01-01 15:50:53 Lothic - Gothic Lobby Room
+19-01-01 15:55:53 Time Left: 5 minutes
+19-01-01 15:56:53 Time Left: 4 minutes
+19-01-01 15:57:53 Time Left: 3 minutes
+19-01-01 15:58:53 Time Left: 2 minutes
+19-01-01 15:59:53 Time Left: 1 minutes
+19-01-01 16:00:53 Next map: Lobby
+19-01-01 16:00:58 Lothic - Gothic Lobby Room
+19-01-01 16:05:58 Time Left: 5 minutes
+19-01-01 16:06:58 Time Left: 4 minutes
+19-01-01 16:07:58 Time Left: 3 minutes
+19-01-01 16:08:58 Time Left: 2 minutes
+19-01-01 16:09:58 Time Left: 1 minutes
+19-01-01 16:10:58 Next map: Lobby
+19-01-01 16:11:04 Lothic - Gothic Lobby Room
+19-01-01 16:16:04 Time Left: 5 minutes
+19-01-01 16:17:04 Time Left: 4 minutes
+19-01-01 16:18:04 Time Left: 3 minutes
+19-01-01 16:19:04 Time Left: 2 minutes
+19-01-01 16:20:04 Time Left: 1 minutes
+19-01-01 16:21:04 Next map: Lobby
+19-01-01 16:21:09 Lothic - Gothic Lobby Room
+19-01-01 16:26:09 Time Left: 5 minutes
+19-01-01 16:27:09 Time Left: 4 minutes
+19-01-01 16:28:09 Time Left: 3 minutes
+19-01-01 16:29:09 Time Left: 2 minutes
+19-01-01 16:30:09 Time Left: 1 minutes
+19-01-01 16:31:09 Next map: Lobby
+19-01-01 16:31:14 Lothic - Gothic Lobby Room
+19-01-01 16:36:14 Time Left: 5 minutes
+19-01-01 16:37:14 Time Left: 4 minutes
+19-01-01 16:38:14 Time Left: 3 minutes
+19-01-01 16:39:14 Time Left: 2 minutes
+19-01-01 16:40:14 Time Left: 1 minutes
+19-01-01 16:41:14 Next map: Lobby
+19-01-01 16:41:20 Lothic - Gothic Lobby Room
+19-01-01 16:46:20 Time Left: 5 minutes
+19-01-01 16:47:20 Time Left: 4 minutes
+19-01-01 16:48:20 Time Left: 3 minutes
+19-01-01 16:49:20 Time Left: 2 minutes
+19-01-01 16:50:20 Time Left: 1 minutes
+19-01-01 16:51:20 Next map: Lobby
+19-01-01 16:51:25 Lothic - Gothic Lobby Room
+19-01-01 16:56:25 Time Left: 5 minutes
+19-01-01 16:57:25 Time Left: 4 minutes
+19-01-01 16:58:25 Time Left: 3 minutes
+19-01-01 16:59:25 Time Left: 2 minutes
+19-01-01 17:00:25 Time Left: 1 minutes
+19-01-01 17:01:25 Next map: Lobby
+19-01-01 17:01:30 Lothic - Gothic Lobby Room
+19-01-01 17:06:30 Time Left: 5 minutes
+19-01-01 17:07:30 Time Left: 4 minutes
+19-01-01 17:08:30 Time Left: 3 minutes
+19-01-01 17:09:30 Time Left: 2 minutes
+19-01-01 17:10:30 Time Left: 1 minutes
+19-01-01 17:11:30 Next map: Lobby
+19-01-01 17:11:36 Lothic - Gothic Lobby Room
+19-01-01 17:16:36 Time Left: 5 minutes
+19-01-01 17:17:36 Time Left: 4 minutes
+19-01-01 17:18:36 Time Left: 3 minutes
+19-01-01 17:19:36 Time Left: 2 minutes
+19-01-01 17:20:36 Time Left: 1 minutes
+19-01-01 17:21:36 Next map: Lobby
+19-01-01 17:21:41 Lothic - Gothic Lobby Room
+19-01-01 17:26:41 Time Left: 5 minutes
+19-01-01 17:27:41 Time Left: 4 minutes
+19-01-01 17:28:41 Time Left: 3 minutes
+19-01-01 17:29:41 Time Left: 2 minutes
+19-01-01 17:30:41 Time Left: 1 minutes
+19-01-01 17:31:41 Next map: Lobby
+19-01-01 17:31:46 Lothic - Gothic Lobby Room
+19-01-01 17:36:46 Time Left: 5 minutes
+19-01-01 17:37:46 Time Left: 4 minutes
+19-01-01 17:38:46 Time Left: 3 minutes
+19-01-01 17:39:46 Time Left: 2 minutes
+19-01-01 17:40:46 Time Left: 1 minutes
+19-01-01 17:41:46 Next map: Lobby
+19-01-01 17:41:52 Lothic - Gothic Lobby Room
+19-01-01 17:46:52 Time Left: 5 minutes
+19-01-01 17:47:52 Time Left: 4 minutes
+19-01-01 17:48:52 Time Left: 3 minutes
+19-01-01 17:49:52 Time Left: 2 minutes
+19-01-01 17:50:52 Time Left: 1 minutes
+19-01-01 17:51:52 Next map: Lobby
+19-01-01 17:51:57 Lothic - Gothic Lobby Room
+19-01-01 17:55:38 Admin connected (92.45.241.51).
+19-01-01 17:55:39 /maxplayers (92.45.241.51)
+19-01-01 17:55:39 Max players is 16
+19-01-01 17:55:39 /maxrespawntime (92.45.241.51)
+19-01-01 17:55:39 Maximum Respawn time is 5 seconds
+19-01-01 17:55:39 /respawntime (92.45.241.51)
+19-01-01 17:55:39 Respawn time is 3 seconds
+19-01-01 17:55:39 /limit (92.45.241.51)
+19-01-01 17:55:39 Current kill/point/capture limit is 10
+19-01-01 17:55:39 /timelimit (92.45.241.51)
+19-01-01 17:55:39 Current time limit is 10 minutes
+19-01-01 17:55:39 /friendlyfire (92.45.241.51)
+19-01-01 17:55:39 Friendly Fire is 0
+19-01-01 17:55:39 /scripting (92.45.241.51)
+19-01-01 17:55:39 Scripting is currently Enabled (1)
+19-01-01 17:55:39 /balance (92.45.241.51)
+19-01-01 17:55:39 Bot Balance is off (0)
+19-01-01 17:55:39 /bonus (92.45.241.51)
+19-01-01 17:55:39 Current bonus frequency is 0
+19-01-01 17:55:39 /vote% (92.45.241.51)
+19-01-01 17:55:39 Voting percent is 60
+19-01-01 17:56:57 Time Left: 5 minutes
+19-01-01 17:57:57 Time Left: 4 minutes
+19-01-01 17:58:57 Time Left: 3 minutes
+19-01-01 17:59:57 Time Left: 2 minutes
+19-01-01 18:00:57 Time Left: 1 minutes
+19-01-01 18:01:57 Next map: Lobby
+19-01-01 18:02:02 Lothic - Gothic Lobby Room
+19-01-01 18:07:02 Time Left: 5 minutes
+19-01-01 18:08:02 Time Left: 4 minutes
+19-01-01 18:09:02 Time Left: 3 minutes
+19-01-01 18:10:02 Time Left: 2 minutes
+19-01-01 18:11:02 Time Left: 1 minutes
+19-01-01 18:12:02 Next map: Lobby
+19-01-01 18:12:08 Lothic - Gothic Lobby Room
+19-01-01 18:17:08 Time Left: 5 minutes
+19-01-01 18:18:08 Time Left: 4 minutes
+19-01-01 18:19:08 Time Left: 3 minutes
+19-01-01 18:20:08 Time Left: 2 minutes
+19-01-01 18:21:08 Time Left: 1 minutes
+19-01-01 18:22:07 Next map: Lobby
+19-01-01 18:22:13 Lothic - Gothic Lobby Room
+19-01-01 18:27:13 Time Left: 5 minutes
+19-01-01 18:28:13 Time Left: 4 minutes
+19-01-01 18:29:13 Time Left: 3 minutes
+19-01-01 18:30:13 Time Left: 2 minutes
+19-01-01 18:31:13 Time Left: 1 minutes
+19-01-01 18:32:13 Next map: Lobby
+19-01-01 18:32:18 Lothic - Gothic Lobby Room
+19-01-01 18:37:18 Time Left: 5 minutes
+19-01-01 18:38:18 Time Left: 4 minutes
+19-01-01 18:39:18 Time Left: 3 minutes
+19-01-01 18:40:18 Time Left: 2 minutes
+19-01-01 18:41:18 Time Left: 1 minutes
+19-01-01 18:42:18 Next map: Lobby
+19-01-01 18:42:23 Lothic - Gothic Lobby Room
+19-01-01 18:47:23 Time Left: 5 minutes
+19-01-01 18:48:23 Time Left: 4 minutes
+19-01-01 18:49:23 Time Left: 3 minutes
+19-01-01 18:50:23 Time Left: 2 minutes
+19-01-01 18:51:23 Time Left: 1 minutes
+19-01-01 18:52:23 Next map: Lobby
+19-01-01 18:52:29 Lothic - Gothic Lobby Room
+19-01-01 18:57:29 Time Left: 5 minutes
+19-01-01 18:58:29 Time Left: 4 minutes
+19-01-01 18:59:29 Time Left: 3 minutes
+19-01-01 19:00:29 Time Left: 2 minutes
+19-01-01 19:01:29 Time Left: 1 minutes
+19-01-01 19:02:29 Next map: Lobby
+19-01-01 19:02:34 Lothic - Gothic Lobby Room
+19-01-01 19:07:34 Time Left: 5 minutes
+19-01-01 19:08:34 Time Left: 4 minutes
+19-01-01 19:09:34 Time Left: 3 minutes
+19-01-01 19:10:34 Time Left: 2 minutes
+19-01-01 19:11:34 Time Left: 1 minutes
+19-01-01 19:12:34 Next map: Lobby
+19-01-01 19:12:39 Lothic - Gothic Lobby Room
+19-01-01 19:17:39 Time Left: 5 minutes
+19-01-01 19:18:39 Time Left: 4 minutes
+19-01-01 19:19:39 Time Left: 3 minutes
+19-01-01 19:20:39 Time Left: 2 minutes
+19-01-01 19:21:39 Time Left: 1 minutes
+19-01-01 19:22:39 Next map: Lobby
+19-01-01 19:22:45 Lothic - Gothic Lobby Room
+19-01-01 19:27:45 Time Left: 5 minutes
+19-01-01 19:28:45 Time Left: 4 minutes
+19-01-01 19:29:45 Time Left: 3 minutes
+19-01-01 19:30:45 Time Left: 2 minutes
+19-01-01 19:31:45 Time Left: 1 minutes
+19-01-01 19:32:45 Next map: Lobby
+19-01-01 19:32:50 Lothic - Gothic Lobby Room
+19-01-01 19:37:50 Time Left: 5 minutes
+19-01-01 19:38:50 Time Left: 4 minutes
+19-01-01 19:39:50 Time Left: 3 minutes
+19-01-01 19:40:50 Time Left: 2 minutes
+19-01-01 19:41:50 Time Left: 1 minutes
+19-01-01 19:42:50 Next map: Lobby
+19-01-01 19:42:55 Lothic - Gothic Lobby Room
+19-01-01 19:47:55 Time Left: 5 minutes
+19-01-01 19:48:55 Time Left: 4 minutes
+19-01-01 19:49:55 Time Left: 3 minutes
+19-01-01 19:50:55 Time Left: 2 minutes
+19-01-01 19:51:55 Time Left: 1 minutes
+19-01-01 19:52:55 Next map: Lobby
+19-01-01 19:53:01 Lothic - Gothic Lobby Room
+19-01-01 19:58:01 Time Left: 5 minutes
+19-01-01 19:59:01 Time Left: 4 minutes
+19-01-01 20:00:01 Time Left: 3 minutes
+19-01-01 20:01:01 Time Left: 2 minutes
+19-01-01 20:02:01 Time Left: 1 minutes
+19-01-01 20:03:01 Next map: Lobby
+19-01-01 20:03:06 Lothic - Gothic Lobby Room
+19-01-01 20:08:06 Time Left: 5 minutes
+19-01-01 20:09:06 Time Left: 4 minutes
+19-01-01 20:10:06 Time Left: 3 minutes
+19-01-01 20:11:06 Time Left: 2 minutes
+19-01-01 20:12:06 Time Left: 1 minutes
+19-01-01 20:13:06 Next map: Lobby
+19-01-01 20:13:11 Lothic - Gothic Lobby Room
+19-01-01 20:18:11 Time Left: 5 minutes
+19-01-01 20:19:11 Time Left: 4 minutes
+19-01-01 20:20:11 Time Left: 3 minutes
+19-01-01 20:21:11 Time Left: 2 minutes
+19-01-01 20:22:11 Time Left: 1 minutes
+19-01-01 20:23:11 Next map: Lobby
+19-01-01 20:23:15 177.99.129.231:23073|4D93886F25E requesting game...
+19-01-01 20:23:16 CrasheR joining game (177.99.129.231:23073) HWID:4D93886F25E
+19-01-01 20:23:16 CrasheR has joined bravo team.
+19-01-01 20:23:17 Lothic - Gothic Lobby Room
+19-01-01 20:23:25 [CrasheR] !map ctf_Junglefall
+19-01-01 20:23:25 Map not found (ctf_junglefall)
+19-01-01 20:23:26 /say Map not found (ctf_junglefall) (206.81.24.116)
+19-01-01 20:23:33 CrasheR has left bravo team.
+19-01-01 20:28:17 Time Left: 5 minutes
+19-01-01 20:29:17 Time Left: 4 minutes
+19-01-01 20:30:17 Time Left: 3 minutes
+19-01-01 20:31:17 Time Left: 2 minutes
+19-01-01 20:32:17 Time Left: 1 minutes
+19-01-01 20:33:17 Next map: Lobby
+19-01-01 20:33:22 Lothic - Gothic Lobby Room
+19-01-01 20:38:22 Time Left: 5 minutes
+19-01-01 20:39:22 Time Left: 4 minutes
+19-01-01 20:40:22 Time Left: 3 minutes
+19-01-01 20:41:22 Time Left: 2 minutes
+19-01-01 20:42:22 Time Left: 1 minutes
+19-01-01 20:43:22 Next map: Lobby
+19-01-01 20:43:27 Lothic - Gothic Lobby Room
+19-01-01 20:48:27 Time Left: 5 minutes
+19-01-01 20:49:27 Time Left: 4 minutes
+19-01-01 20:50:27 Time Left: 3 minutes
+19-01-01 20:51:27 Time Left: 2 minutes
+19-01-01 20:52:27 Time Left: 1 minutes
+19-01-01 20:53:27 Next map: Lobby
+19-01-01 20:53:33 Lothic - Gothic Lobby Room
+19-01-01 20:58:33 Time Left: 5 minutes
+19-01-01 20:59:33 Time Left: 4 minutes
+19-01-01 21:00:33 Time Left: 3 minutes
+19-01-01 21:01:33 Time Left: 2 minutes
+19-01-01 21:02:33 Time Left: 1 minutes
+19-01-01 21:03:33 Next map: Lobby
+19-01-01 21:03:38 Lothic - Gothic Lobby Room
+19-01-01 21:08:38 Time Left: 5 minutes
+19-01-01 21:09:38 Time Left: 4 minutes
+19-01-01 21:10:38 Time Left: 3 minutes
+19-01-01 21:11:38 Time Left: 2 minutes
+19-01-01 21:12:38 Time Left: 1 minutes
+19-01-01 21:13:38 Next map: Lobby
+19-01-01 21:13:43 Lothic - Gothic Lobby Room
+19-01-01 21:18:43 Time Left: 5 minutes
+19-01-01 21:19:43 Time Left: 4 minutes
+19-01-01 21:20:43 Time Left: 3 minutes
+19-01-01 21:21:43 Time Left: 2 minutes
+19-01-01 21:22:43 Time Left: 1 minutes
+19-01-01 21:23:43 Next map: Lobby
+19-01-01 21:23:49 Lothic - Gothic Lobby Room
+19-01-01 21:28:49 Time Left: 5 minutes
+19-01-01 21:29:49 Time Left: 4 minutes
+19-01-01 21:30:49 Time Left: 3 minutes
+19-01-01 21:31:49 Time Left: 2 minutes
+19-01-01 21:32:49 Time Left: 1 minutes
+19-01-01 21:33:49 Next map: Lobby
+19-01-01 21:33:54 Lothic - Gothic Lobby Room
+19-01-01 21:38:54 Time Left: 5 minutes
+19-01-01 21:39:54 Time Left: 4 minutes
+19-01-01 21:40:54 Time Left: 3 minutes
+19-01-01 21:41:54 Time Left: 2 minutes
+19-01-01 21:42:54 Time Left: 1 minutes
+19-01-01 21:43:54 Next map: Lobby
+19-01-01 21:43:59 Lothic - Gothic Lobby Room
+19-01-01 21:48:59 Time Left: 5 minutes
+19-01-01 21:49:59 Time Left: 4 minutes
+19-01-01 21:50:59 Time Left: 3 minutes
+19-01-01 21:51:59 Time Left: 2 minutes
+19-01-01 21:52:59 Time Left: 1 minutes
+19-01-01 21:53:59 Next map: Lobby
+19-01-01 21:54:04 Lothic - Gothic Lobby Room
+19-01-01 21:59:04 Time Left: 5 minutes
+19-01-01 22:00:04 Time Left: 4 minutes
+19-01-01 22:01:04 Time Left: 3 minutes
+19-01-01 22:02:04 Time Left: 2 minutes
+19-01-01 22:03:04 Time Left: 1 minutes
+19-01-01 22:04:04 Next map: Lobby
+19-01-01 22:04:10 Lothic - Gothic Lobby Room
+19-01-01 22:09:10 Time Left: 5 minutes
+19-01-01 22:10:10 Time Left: 4 minutes
+19-01-01 22:11:10 Time Left: 3 minutes
+19-01-01 22:12:10 Time Left: 2 minutes
+19-01-01 22:13:10 Time Left: 1 minutes
+19-01-01 22:14:10 Next map: Lobby
+19-01-01 22:14:15 Lothic - Gothic Lobby Room
+19-01-01 22:19:15 Time Left: 5 minutes
+19-01-01 22:20:15 Time Left: 4 minutes
+19-01-01 22:21:15 Time Left: 3 minutes
+19-01-01 22:22:15 Time Left: 2 minutes
+19-01-01 22:23:15 Time Left: 1 minutes
+19-01-01 22:24:15 Next map: Lobby
+19-01-01 22:24:20 Lothic - Gothic Lobby Room
+19-01-01 22:29:20 Time Left: 5 minutes
+19-01-01 22:30:20 /password 6282 (206.81.24.116)
+19-01-01 22:30:20 Server password changed to 6282
+19-01-01 22:30:20 /say Server password was changed... (206.81.24.116)
+19-01-01 22:30:20 Time Left: 4 minutes
+19-01-01 22:30:22 /loadcon soldat.ini (206.81.24.116)
+19-01-01 22:30:22 Config reloaded soldat.ini
+19-01-01 22:30:22 Lothic - Gothic Lobby Room
+19-01-01 22:30:22 Loaded weapons mod "Default mod v1.8"
+19-01-01 22:30:22 Port already open
+19-01-01 22:30:22  Connection for file server started. Port: 23012
+19-01-01 22:30:22 /loadwep weapons (206.81.24.116)
+19-01-01 22:30:22 Loaded weapons mod "Default mod v1.8"
+19-01-01 22:30:29 177.13.249.45:44293|41993E1CF81 requesting game...
+19-01-01 22:30:31 Silverdie! joining game (177.13.249.45:44293) HWID:41993E1CF81
+19-01-01 22:30:31 Silverdie! has joined alpha team.
+19-01-01 22:30:33 186.9.26.106:17857|64995B15DC0 requesting game...
+19-01-01 22:30:34 sT.- YnGwi3 joining game (186.9.26.106:17857) HWID:64995B15DC0
+19-01-01 22:30:34 sT.- YnGwi3 has joined bravo team.
+19-01-01 22:30:46 189.6.22.6:8184|72A3866AE4B requesting game...
+19-01-01 22:30:47 [sT.- YnGwi3] !info
+19-01-01 22:30:47 /say Gather.SA (elapsed time 0:00:25) (206.81.24.116)
+19-01-01 22:30:47 /say Alpha: iBown -  - Paladino (206.81.24.116)
+19-01-01 22:30:47 /say Bravo: YnGwi3 - Lvyz - Silverdie (206.81.24.116)
+19-01-01 22:30:47 /say Tiebreaker: ctf_Hormone (206.81.24.116)
+19-01-01 22:30:48 168.121.230.139:23073|24B86FC0F0E requesting game...
+19-01-01 22:30:50 >SaW!<~ paladino joining game (189.6.22.6:8184) HWID:72A3866AE4B
+19-01-01 22:30:50 >SaW!<~ paladino has joined alpha team.
+19-01-01 22:30:51 T5 Decadencia. joining game (168.121.230.139:23073) HWID:24B86FC0F0E
+19-01-01 22:30:51 T5 Decadencia. has joined alpha team.
+19-01-01 22:30:53 191.193.254.136:23073|5CF192208A5 requesting game...
+19-01-01 22:30:55 [T5 Decadencia.] !info
+19-01-01 22:30:55 /say Gather.SA (elapsed time 0:00:33) (206.81.24.116)
+19-01-01 22:30:55 /say Alpha: iBown -  - Paladino (206.81.24.116)
+19-01-01 22:30:55 /say Bravo: YnGwi3 - Lvyz - Silverdie (206.81.24.116)
+19-01-01 22:30:55 /say Tiebreaker: ctf_Hormone (206.81.24.116)
+19-01-01 22:30:55 iBown ~ joining game (191.193.254.136:23073) HWID:5CF192208A5
+19-01-01 22:30:55 iBown ~ has joined alpha team.
+19-01-01 22:30:58 T5 Decadencia. has left alpha team.
+19-01-01 22:31:04 168.121.230.139:23073|24B86FC0F0E requesting game...
+19-01-01 22:31:05 /Rel/ Decadencia. joining game (168.121.230.139:23073) HWID:24B86FC0F0E
+19-01-01 22:31:05 /Rel/ Decadencia. has joined alpha team.
+19-01-01 22:31:11 [/Rel/ Decadencia.] !b
+19-01-01 22:31:11 /Rel/ Decadencia. has joined bravo team.
+19-01-01 22:31:18 Silverdie! has joined bravo team.
+19-01-01 22:32:03 [iBown ~] ou
+19-01-01 22:32:10 [iBown ~] bora entrar em qlqr sala
+19-01-01 22:32:13 [sT.- YnGwi3] you are old players? xd
+19-01-01 22:32:14 [iBown ~] p testar meu mic
+19-01-01 22:32:14 [Silverdie!] ?
+19-01-01 22:32:21 [/Rel/ Decadencia.] they are
+19-01-01 22:32:34 177.39.74.40:62239|5960AD64846 requesting game...
+19-01-01 22:32:34 [>SaW!<~ paladino] falta o fernando e ?
+19-01-01 22:32:37 [iBown ~] falta o ash
+19-01-01 22:32:37 >SaW!<~ Ash.fx joining game (177.39.74.40:62239) HWID:5960AD64846
+19-01-01 22:32:37 >SaW!<~ Ash.fx has joined alpha team.
+19-01-01 22:32:39 [>SaW!<~ Ash.fx] zoi
+19-01-01 22:32:40 [>SaW!<~ paladino] nob msm
+19-01-01 22:32:45 [>SaW!<~ paladino] vc e do blue
+19-01-01 22:32:46 [>SaW!<~ paladino] cone
+19-01-01 22:32:50 [>SaW!<~ Ash.fx] eu pelo menos, sei mandar link do discord..
+19-01-01 22:32:53 [/Rel/ Decadencia.] mapa é de vocês bbs
+19-01-01 22:32:58 (TEAM)[>SaW!<~ paladino] usa a tag bown se n vo te quebra
+19-01-01 22:33:05 (TEAM)[iBown ~] to sem clã
+19-01-01 22:33:05 (TEAM)[>SaW!<~ Ash.fx] que tag tio?
+19-01-01 22:33:07 (TEAM)[>SaW!<~ Ash.fx] uahsuashuh
+19-01-01 22:33:16 [/Rel/ Decadencia.] Come'on!
+19-01-01 22:33:16 (TEAM)[>SaW!<~ Ash.fx] bixo nem ta usando
+19-01-01 22:33:17 (TEAM)[>SaW!<~ paladino] ta semc clan pddpa
+19-01-01 22:33:20 [Silverdie!] ele é a rede
+19-01-01 22:33:23 (TEAM)[>SaW!<~ paladino] printei
+19-01-01 22:33:26 [/Rel/ Decadencia.] Come'on!
+19-01-01 22:33:31 [>SaW!<~ paladino] map ?
+19-01-01 22:33:34 [/Rel/ Decadencia.] erei
+19-01-01 22:33:36 [sT.- YnGwi3] you vote
+19-01-01 22:33:40 (TEAM)[>SaW!<~ Ash.fx] q
+19-01-01 22:33:41 [sT.- YnGwi3] jaja
+19-01-01 22:33:44 [/Rel/ Decadencia.] huehue
+19-01-01 22:33:44 (TEAM)[>SaW!<~ Ash.fx] é ctf?
+19-01-01 22:33:48 [sT.- YnGwi3] !map Division
+19-01-01 22:33:49 (TEAM)[>SaW!<~ Ash.fx] tá de brinkz
+19-01-01 22:33:54 Division by Boxo, KC, viral
+19-01-01 22:33:59 No map has been voted
+19-01-01 22:34:01 [>SaW!<~ paladino] g ?
+19-01-01 22:34:05 [>SaW!<~ Ash.fx] nao
+19-01-01 22:34:05 [/Rel/ Decadencia.] gg? 
+19-01-01 22:34:05 [>SaW!<~ paladino] !r
+19-01-01 22:34:05 Restarting...
+19-01-01 22:34:06 [>SaW!<~ Ash.fx] h
+19-01-01 22:34:07 [sT.- YnGwi3] this
+19-01-01 22:34:08 [sT.- YnGwi3] ?
+19-01-01 22:34:09 [sT.- YnGwi3] you vote
+19-01-01 22:34:10 [sT.- YnGwi3] red
+19-01-01 22:34:10 Division by Boxo, KC, viral
+19-01-01 22:34:10 [sT.- YnGwi3] vote
+19-01-01 22:34:16 [>SaW!<~ Ash.fx] shut up fag
+19-01-01 22:34:18 (2) Silverdie! killed (1) >SaW!<~ paladino with Barrett M82A1
+19-01-01 22:34:19 [/Rel/ Decadencia.] ctieauheiah
+19-01-01 22:34:19 sT.- YnGwi3 captured the Red Flag
+19-01-01 22:34:21 (2) sT.- YnGwi3 killed (1) iBown ~ with Combat Knife
+19-01-01 22:34:22 (1) >SaW!<~ paladino killed (2) sT.- YnGwi3 with Grenade
+19-01-01 22:34:23 >SaW!<~ paladino returned the Red Flag
+19-01-01 22:34:24 (2) Silverdie! killed (1) >SaW!<~ Ash.fx with Barrett M82A1
+19-01-01 22:34:26 [sT.- YnGwi3] sopa du macaco
+19-01-01 22:34:27 (2) Silverdie! killed (1) iBown ~ with Combat Knife
+19-01-01 22:34:29 (2) Silverdie! killed (1) >SaW!<~ paladino with Grenade
+19-01-01 22:34:30 /Rel/ Decadencia. captured the Red Flag
+19-01-01 22:34:34 (2) Silverdie! killed (1) >SaW!<~ Ash.fx with Barrett M82A1
+19-01-01 22:34:36 [>SaW!<~ Ash.fx] IUASHUIASH
+19-01-01 22:34:37 (2) sT.- YnGwi3 killed (1) >SaW!<~ paladino with Barrett M82A1
+19-01-01 22:34:37 /Rel/ Decadencia. scores for Bravo Team
+19-01-01 22:34:40 sT.- YnGwi3 captured the Red Flag
+19-01-01 22:34:41 (2) Silverdie! killed (1) >SaW!<~ Ash.fx with Barrett M82A1
+19-01-01 22:34:48 (2) sT.- YnGwi3 killed (1) iBown ~ with Barrett M82A1
+19-01-01 22:34:49 sT.- YnGwi3 scores for Bravo Team
+19-01-01 22:34:55 (1) >SaW!<~ paladino killed (2) /Rel/ Decadencia. with USSOCOM
+19-01-01 22:34:56 (2) sT.- YnGwi3 killed (1) >SaW!<~ Ash.fx with Barrett M82A1
+19-01-01 22:34:57 (RADIO)[/Rel/ Decadencia.] Enemy spotted up!
+19-01-01 22:34:58 (2) Silverdie! killed (1) iBown ~ with Barrett M82A1
+19-01-01 22:35:03 (2) sT.- YnGwi3 killed (1) >SaW!<~ Ash.fx with Grenade
+19-01-01 22:35:03 sT.- YnGwi3 captured the Red Flag
+19-01-01 22:35:07 (2) Silverdie! killed (1) >SaW!<~ Ash.fx with Barrett M82A1
+19-01-01 22:35:12 sT.- YnGwi3 scores for Bravo Team
+19-01-01 22:35:12 (2) /Rel/ Decadencia. killed (1) >SaW!<~ paladino with Steyr AUG
+19-01-01 22:35:14 (TEAM)[>SaW!<~ paladino] n bs
+19-01-01 22:35:19 (1) iBown ~ killed (2) /Rel/ Decadencia. with Barrett M82A1
+19-01-01 22:35:21 (1) >SaW!<~ paladino killed (2) sT.- YnGwi3 with Barrett M82A1
+19-01-01 22:35:27 (1) >SaW!<~ Ash.fx killed (2) Silverdie! with USSOCOM
+19-01-01 22:35:31 (1) >SaW!<~ paladino killed (2) /Rel/ Decadencia. with USSOCOM
+19-01-01 22:35:32 (RADIO)[/Rel/ Decadencia.] Enemy spotted up!
+19-01-01 22:35:41 (2) /Rel/ Decadencia. killed (1) >SaW!<~ paladino with Grenade
+19-01-01 22:35:42 [>SaW!<~ paladino] Yeah
+19-01-01 22:35:42 (2) Silverdie! killed (1) >SaW!<~ Ash.fx with M79
+19-01-01 22:35:45 (1) iBown ~ killed (2) /Rel/ Decadencia. with Barrett M82A1
+19-01-01 22:35:51 (2) sT.- YnGwi3 killed (1) >SaW!<~ Ash.fx with Barrett M82A1
+19-01-01 22:35:51 (1) >SaW!<~ Ash.fx killed (2) sT.- YnGwi3 with M79
+19-01-01 22:35:56 (2) /Rel/ Decadencia. killed (1) iBown ~ with Steyr AUG
+19-01-01 22:36:00 /Rel/ Decadencia. captured the Red Flag
+19-01-01 22:36:00 (2) Silverdie! killed (1) >SaW!<~ paladino with Grenade
+19-01-01 22:36:02 (1) >SaW!<~ Ash.fx killed (2) sT.- YnGwi3 with USSOCOM
+19-01-01 22:36:02 (2) sT.- YnGwi3 killed (1) >SaW!<~ Ash.fx with Grenade
+19-01-01 22:36:08 /Rel/ Decadencia. scores for Bravo Team
+19-01-01 22:36:09 (1) iBown ~ killed (2) sT.- YnGwi3 with Barrett M82A1
+19-01-01 22:36:10 (RADIO)[sT.- YnGwi3] Enemy spotted down!
+19-01-01 22:36:12 (1) >SaW!<~ paladino killed (2) Silverdie! with USSOCOM
+19-01-01 22:36:14 (1) iBown ~ killed (2) sT.- YnGwi3 with Barrett M82A1
+19-01-01 22:36:16 iBown ~ captured the Blue Flag
+19-01-01 22:36:19 (2) Silverdie! killed (1) iBown ~ with Barrett M82A1
+19-01-01 22:36:19 >SaW!<~ paladino captured the Blue Flag
+19-01-01 22:36:19 (2) /Rel/ Decadencia. killed (1) >SaW!<~ paladino with Steyr AUG
+19-01-01 22:36:19 (2) sT.- YnGwi3 killed (1) >SaW!<~ Ash.fx with Combat Knife
+19-01-01 22:36:20 [/Rel/ Decadencia.] Yeah
+19-01-01 22:36:21 Silverdie! returned the Blue Flag
+19-01-01 22:36:25 /Rel/ Decadencia. captured the Red Flag
+19-01-01 22:36:28 (1) >SaW!<~ Ash.fx killed (2) /Rel/ Decadencia. with M79
+19-01-01 22:36:28 (2) sT.- YnGwi3 killed (1) >SaW!<~ Ash.fx with Ak-74
+19-01-01 22:36:29 (1) iBown ~ killed (2) Silverdie! with Barrett M82A1
+19-01-01 22:36:29 (2) Silverdie! killed (1) iBown ~ with Grenade
+19-01-01 22:36:30 [/Rel/ Decadencia.] eaueayeg
+19-01-01 22:36:32 sT.- YnGwi3 captured the Red Flag
+19-01-01 22:36:33 [>SaW!<~ Ash.fx] q
+19-01-01 22:36:34 (1) >SaW!<~ paladino killed (2) sT.- YnGwi3 with Barrett M82A1
+19-01-01 22:36:35 (RADIO)[sT.- YnGwi3] Friendly flagger middle!
+19-01-01 22:36:38 iBown ~ returned the Red Flag
+19-01-01 22:36:39 (1) iBown ~ killed (2) /Rel/ Decadencia. with Barrett M82A1
+19-01-01 22:36:40 (RADIO)[/Rel/ Decadencia.] Enemy spotted up!
+19-01-01 22:36:42 [>SaW!<~ Ash.fx] os bixo não arrumam os bug do jogo
+19-01-01 22:36:43 [>SaW!<~ Ash.fx] uaiwehuawhe
+19-01-01 22:36:45 [>SaW!<~ Ash.fx] uaiwehuawhe
+19-01-01 22:36:45 (2) /Rel/ Decadencia. killed (1) >SaW!<~ paladino with Grenade
+19-01-01 22:36:45 [>SaW!<~ Ash.fx] são foda
+19-01-01 22:36:53 (1) >SaW!<~ paladino killed (2) /Rel/ Decadencia. with Barrett M82A1
+19-01-01 22:36:54 (RADIO)[/Rel/ Decadencia.] Enemy spotted up!
+19-01-01 22:36:55 (2) sT.- YnGwi3 killed (1) >SaW!<~ Ash.fx with Barrett M82A1
+19-01-01 22:36:55 Silverdie! captured the Red Flag
+19-01-01 22:36:57 (RADIO)[/Rel/ Decadencia.] Friendly flagger down!
+19-01-01 22:37:00 (2) /Rel/ Decadencia. killed (1) iBown ~ with Steyr AUG
+19-01-01 22:37:03 (1) >SaW!<~ paladino killed (2) sT.- YnGwi3 with Barrett M82A1
+19-01-01 22:37:05 Silverdie! scores for Bravo Team
+19-01-01 22:37:06 >SaW!<~ paladino captured the Blue Flag
+19-01-01 22:37:12 (1) >SaW!<~ Ash.fx killed (2) sT.- YnGwi3 with M79
+19-01-01 22:37:12 (1) iBown ~ killed (2) /Rel/ Decadencia. with Ak-74
+19-01-01 22:37:13 >SaW!<~ paladino scores for Alpha Team
+19-01-01 22:37:14 (RADIO)[sT.- YnGwi3] Enemy spotted down!
+19-01-01 22:37:14 >SaW!<~ Ash.fx captured the Blue Flag
+19-01-01 22:37:14 (RADIO)[sT.- YnGwi3] Enemy spotted down!
+19-01-01 22:37:16 (RADIO)[sT.- YnGwi3] Enemy flagger up!
+19-01-01 22:37:18 (2) /Rel/ Decadencia. killed (1) >SaW!<~ Ash.fx with Steyr AUG
+19-01-01 22:37:20 Silverdie! captured the Red Flag
+19-01-01 22:37:20 (1) iBown ~ killed (2) Silverdie! with Ak-74
+19-01-01 22:37:22 /Rel/ Decadencia. returned the Blue Flag
+19-01-01 22:37:24 (2) sT.- YnGwi3 killed (1) >SaW!<~ Ash.fx with Grenade
+19-01-01 22:37:25 (1) >SaW!<~ paladino killed (2) /Rel/ Decadencia. with Grenade
+19-01-01 22:37:30 (2) sT.- YnGwi3 killed (1) >SaW!<~ Ash.fx with Barrett M82A1
+19-01-01 22:37:33 (2) Silverdie! killed (1) >SaW!<~ paladino with Barrett M82A1
+19-01-01 22:37:36 (2) sT.- YnGwi3 killed (1) >SaW!<~ Ash.fx with Barrett M82A1
+19-01-01 22:37:37 (RADIO)[/Rel/ Decadencia.] Enemy spotted middle!
+19-01-01 22:37:38 iBown ~ captured the Blue Flag
+19-01-01 22:37:38 Silverdie! captured the Red Flag
+19-01-01 22:37:40 (1) >SaW!<~ paladino killed (2) Silverdie! with USSOCOM
+19-01-01 22:37:40 (2) sT.- YnGwi3 killed (1) >SaW!<~ paladino with Barrett M82A1
+19-01-01 22:37:40 sT.- YnGwi3 captured the Red Flag
+19-01-01 22:37:42 (1) >SaW!<~ Ash.fx killed (2) sT.- YnGwi3 with M79
+19-01-01 22:37:43 (2) /Rel/ Decadencia. killed (1) >SaW!<~ Ash.fx with Steyr AUG
+19-01-01 22:37:43 [sT.- YnGwi3] No!
+19-01-01 22:37:46 /Rel/ Decadencia. captured the Red Flag
+19-01-01 22:37:56 (1) >SaW!<~ Ash.fx killed (2) Silverdie! with M79
+19-01-01 22:37:57 (2) sT.- YnGwi3 killed (1) iBown ~ with Barrett M82A1
+19-01-01 22:37:58 >SaW!<~ Ash.fx captured the Blue Flag
+19-01-01 22:38:01 (1) >SaW!<~ paladino killed (2) /Rel/ Decadencia. with Barrett M82A1
+19-01-01 22:38:01 (2) sT.- YnGwi3 killed (1) >SaW!<~ Ash.fx with Barrett M82A1
+19-01-01 22:38:03 >SaW!<~ paladino returned the Red Flag
+19-01-01 22:38:04 sT.- YnGwi3 returned the Blue Flag
+19-01-01 22:38:08 (1) >SaW!<~ paladino killed (2) /Rel/ Decadencia. with Barrett M82A1
+19-01-01 22:38:10 (1) iBown ~ killed (2) sT.- YnGwi3 with USSOCOM
+19-01-01 22:38:10 >SaW!<~ paladino captured the Blue Flag
+19-01-01 22:38:11 (2) Silverdie! killed (1) >SaW!<~ paladino with Grenade
+19-01-01 22:38:11 (RADIO)[sT.- YnGwi3] Enemy spotted down!
+19-01-01 22:38:11 (RADIO)[/Rel/ Decadencia.] Enemy flagger down!
+19-01-01 22:38:11 [>SaW!<~ paladino] Yeah
+19-01-01 22:38:14 (RADIO)[sT.- YnGwi3] Enemy spotted down!
+19-01-01 22:38:15 (2) Silverdie! killed (1) iBown ~ with Barrett M82A1
+19-01-01 22:38:15 /Rel/ Decadencia. returned the Blue Flag
+19-01-01 22:38:17 Silverdie! captured the Red Flag
+19-01-01 22:38:17 (1) >SaW!<~ Ash.fx killed (2) /Rel/ Decadencia. with Grenade
+19-01-01 22:38:19 (RADIO)[/Rel/ Decadencia.] Friendly flagger down!
+19-01-01 22:38:23 (2) Silverdie! killed (1) iBown ~ with Barrett M82A1
+19-01-01 22:38:23 (1) iBown ~ killed (2) Silverdie! with Barrett M82A1
+19-01-01 22:38:24 (1) >SaW!<~ paladino killed (2) sT.- YnGwi3 with Barrett M82A1
+19-01-01 22:38:25 [sT.- YnGwi3] No!
+19-01-01 22:38:27 (RADIO)[sT.- YnGwi3] Enemy spotted down!
+19-01-01 22:38:29 (2) Silverdie! killed (1) >SaW!<~ Ash.fx with Grenade
+19-01-01 22:38:30 >SaW!<~ paladino returned the Red Flag
+19-01-01 22:38:33 (1) iBown ~ killed (2) /Rel/ Decadencia. with Combat Knife
+19-01-01 22:38:35 (2) sT.- YnGwi3 killed (1) >SaW!<~ paladino with Barrett M82A1
+19-01-01 22:38:36 (2) Silverdie! killed (1) >SaW!<~ Ash.fx with Barrett M82A1
+19-01-01 22:38:36 (1) >SaW!<~ Ash.fx killed (2) Silverdie! with M79
+19-01-01 22:38:42 (2) sT.- YnGwi3 killed (1) >SaW!<~ Ash.fx with Barrett M82A1
+19-01-01 22:38:45 (1) iBown ~ killed (2) sT.- YnGwi3 with Barrett M82A1
+19-01-01 22:38:45 (RADIO)[/Rel/ Decadencia.] Enemy spotted up!
+19-01-01 22:38:48 /Rel/ Decadencia. captured the Red Flag
+19-01-01 22:38:48 (1) >SaW!<~ Ash.fx killed (2) /Rel/ Decadencia. with M79
+19-01-01 22:38:51 (1) >SaW!<~ paladino killed (2) Silverdie! with USSOCOM
+19-01-01 22:38:53 iBown ~ returned the Red Flag
+19-01-01 22:38:54 (2) sT.- YnGwi3 killed (1) >SaW!<~ Ash.fx with Barrett M82A1
+19-01-01 22:38:58 (2) /Rel/ Decadencia. killed (1) >SaW!<~ paladino with Steyr AUG
+19-01-01 22:39:00 [/Rel/ Decadencia.] Come'on!
+19-01-01 22:39:01 (1) >SaW!<~ Ash.fx killed (2) sT.- YnGwi3 with M79
+19-01-01 22:39:03 (RADIO)[sT.- YnGwi3] Enemy spotted down!
+19-01-01 22:39:05 /Rel/ Decadencia. captured the Red Flag
+19-01-01 22:39:07 (2) /Rel/ Decadencia. killed (1) iBown ~ with Steyr AUG
+19-01-01 22:39:10 Time Left: 5 minutes
+19-01-01 22:39:13 (1) >SaW!<~ Ash.fx killed (2) sT.- YnGwi3 with M79
+19-01-01 22:39:17 (1) >SaW!<~ Ash.fx killed (2) /Rel/ Decadencia. with M79
+19-01-01 22:39:19 >SaW!<~ Ash.fx captured the Blue Flag
+19-01-01 22:39:19 sT.- YnGwi3 captured the Red Flag
+19-01-01 22:39:20 [/Rel/ Decadencia.] puta merda
+19-01-01 22:39:21 (1) iBown ~ killed (2) sT.- YnGwi3 with Barrett M82A1
+19-01-01 22:39:21 (2) sT.- YnGwi3 killed (1) >SaW!<~ paladino with Grenade
+19-01-01 22:39:22 >SaW!<~ Ash.fx returned the Red Flag
+19-01-01 22:39:23 (2) /Rel/ Decadencia. killed (1) >SaW!<~ Ash.fx with Steyr AUG
+19-01-01 22:39:27 (2) sT.- YnGwi3 killed (1) iBown ~ with Grenade
+19-01-01 22:39:29 [/Rel/ Decadencia.] Return the flag!
+19-01-01 22:39:33 (RADIO)[/Rel/ Decadencia.] Enemy spotted down!
+19-01-01 22:39:33 sT.- YnGwi3 returned the Blue Flag
+19-01-01 22:39:35 (1) >SaW!<~ paladino killed (2) sT.- YnGwi3 with Barrett M82A1
+19-01-01 22:39:36 (1) iBown ~ killed (2) Silverdie! with Combat Knife
+19-01-01 22:39:36 (RADIO)[sT.- YnGwi3] Enemy flagger down!
+19-01-01 22:39:37 >SaW!<~ paladino captured the Blue Flag
+19-01-01 22:39:37 /Rel/ Decadencia. captured the Red Flag
+19-01-01 22:39:38 (RADIO)[sT.- YnGwi3] Enemy flagger down!
+19-01-01 22:39:40 (RADIO)[sT.- YnGwi3] Enemy flagger middle!
+19-01-01 22:39:40 (1) >SaW!<~ Ash.fx killed (2) sT.- YnGwi3 with M79
+19-01-01 22:39:41 (1) >SaW!<~ paladino killed (2) /Rel/ Decadencia. with Barrett M82A1
+19-01-01 22:39:42 >SaW!<~ paladino returned the Red Flag
+19-01-01 22:39:45 (TEAM)[/Rel/ Decadencia.] kkkkkkkkkkkk
+19-01-01 22:39:45 (1) >SaW!<~ Ash.fx killed (2) Silverdie! with USSOCOM
+19-01-01 22:39:48 >SaW!<~ paladino scores for Alpha Team
+19-01-01 22:39:48 (2) /Rel/ Decadencia. killed (1) >SaW!<~ Ash.fx with Steyr AUG
+19-01-01 22:39:49 (1) >SaW!<~ Ash.fx killed (2) sT.- YnGwi3 with M79
+19-01-01 22:39:54 iBown ~ captured the Blue Flag
+19-01-01 22:39:55 (2) /Rel/ Decadencia. killed (1) iBown ~ with Combat Knife
+19-01-01 22:39:57 (1) >SaW!<~ paladino killed (2) Silverdie! with Barrett M82A1
+19-01-01 22:40:03 (1) iBown ~ killed (2) /Rel/ Decadencia. with Combat Knife
+19-01-01 22:40:05 (RADIO)[/Rel/ Decadencia.] Enemy spotted up!
+19-01-01 22:40:06 (2) sT.- YnGwi3 killed (1) >SaW!<~ Ash.fx with Barrett M82A1
+19-01-01 22:40:07 (2) Silverdie! killed (1) >SaW!<~ paladino with Barrett M82A1
+19-01-01 22:40:10 Time Left: 4 minutes
+19-01-01 22:40:13 (2) sT.- YnGwi3 killed (1) iBown ~ with Grenade
+19-01-01 22:40:15 (1) >SaW!<~ Ash.fx killed (2) sT.- YnGwi3 with USSOCOM
+19-01-01 22:40:15 (1) >SaW!<~ Ash.fx killed (2) Silverdie! with Grenade
+19-01-01 22:40:15 (2) Silverdie! killed (1) >SaW!<~ Ash.fx with Grenade
+19-01-01 22:40:18 [>SaW!<~ Ash.fx] ez
+19-01-01 22:40:21 (1) >SaW!<~ Ash.fx killed (2) /Rel/ Decadencia. with M79
+19-01-01 22:40:25 (2) Silverdie! killed (1) >SaW!<~ Ash.fx with Barrett M82A1
+19-01-01 22:40:25 (1) >SaW!<~ Ash.fx killed (2) Silverdie! with M79
+19-01-01 22:40:27 (1) iBown ~ killed (2) sT.- YnGwi3 with Barrett M82A1
+19-01-01 22:40:27 (2) sT.- YnGwi3 killed (1) iBown ~ with Barrett M82A1
+19-01-01 22:40:30 (2) /Rel/ Decadencia. killed (1) >SaW!<~ paladino with Steyr AUG
+19-01-01 22:40:33 (2) /Rel/ Decadencia. killed (1) iBown ~ with Combat Knife
+19-01-01 22:40:34 (1) >SaW!<~ Ash.fx killed (2) /Rel/ Decadencia. with M79
+19-01-01 22:40:39 (1) >SaW!<~ Ash.fx killed (2) sT.- YnGwi3 with M79
+19-01-01 22:40:43 (1) >SaW!<~ paladino killed (2) Silverdie! with Barrett M82A1
+19-01-01 22:40:44 (2) Silverdie! killed (1) >SaW!<~ paladino with Barrett M82A1
+19-01-01 22:40:46 (1) iBown ~ killed (2) /Rel/ Decadencia. with Grenade
+19-01-01 22:40:55 (1) >SaW!<~ paladino killed (2) /Rel/ Decadencia. with Grenade
+19-01-01 22:40:57 (RADIO)[/Rel/ Decadencia.] Enemy spotted up!
+19-01-01 22:41:00 (2) sT.- YnGwi3 killed (1) >SaW!<~ paladino with Barrett M82A1
+19-01-01 22:41:01 (1) >SaW!<~ Ash.fx killed (2) sT.- YnGwi3 with M79
+19-01-01 22:41:02 (2) /Rel/ Decadencia. killed (1) >SaW!<~ Ash.fx with Steyr AUG
+19-01-01 22:41:02 (1) iBown ~ killed (2) /Rel/ Decadencia. with Barrett M82A1
+19-01-01 22:41:05 iBown ~ captured the Blue Flag
+19-01-01 22:41:10 Time Left: 3 minutes
+19-01-01 22:41:10 (1) >SaW!<~ paladino killed (2) Silverdie! with Barrett M82A1
+19-01-01 22:41:10 (1) >SaW!<~ paladino killed (2) /Rel/ Decadencia. with Barrett M82A1
+19-01-01 22:41:14 iBown ~ scores for Alpha Team
+19-01-01 22:41:14 (1) iBown ~ killed (2) sT.- YnGwi3 with Barrett M82A1
+19-01-01 22:41:14 (TEAM)[/Rel/ Decadencia.] silver pega uma auto bicho eaiuehaieh
+19-01-01 22:41:16 >SaW!<~ paladino captured the Blue Flag
+19-01-01 22:41:17 (1) >SaW!<~ paladino killed (2) Silverdie! with Barrett M82A1
+19-01-01 22:41:25 (1) >SaW!<~ Ash.fx killed (2) sT.- YnGwi3 with M79
+19-01-01 22:41:25 [sT.- YnGwi3] Come'on!
+19-01-01 22:41:25 (2) Silverdie! killed (1) >SaW!<~ Ash.fx with Barrett M82A1
+19-01-01 22:41:26 (1) iBown ~ killed (2) /Rel/ Decadencia. with Barrett M82A1
+19-01-01 22:41:27 >SaW!<~ paladino scores for Alpha Team
+19-01-01 22:41:32 (RADIO)[sT.- YnGwi3] Enemy spotted down!
+19-01-01 22:41:36 (1) iBown ~ killed (2) Silverdie! with Barrett M82A1
+19-01-01 22:41:41 sT.- YnGwi3 captured the Red Flag
+19-01-01 22:41:42 (1) >SaW!<~ paladino killed (2) /Rel/ Decadencia. with Barrett M82A1
+19-01-01 22:41:42 (2) sT.- YnGwi3 killed (1) iBown ~ with HK MP5
+19-01-01 22:41:43 (RADIO)[/Rel/ Decadencia.] Enemy spotted up!
+19-01-01 22:41:44 (2) sT.- YnGwi3 killed (1) >SaW!<~ Ash.fx with HK MP5
+19-01-01 22:41:44 (2) Silverdie! killed (1) >SaW!<~ paladino with Barrett M82A1
+19-01-01 22:41:50 (2) Silverdie! killed (1) iBown ~ with Barrett M82A1
+19-01-01 22:41:52 (1) >SaW!<~ paladino killed (2) Silverdie! with Barrett M82A1
+19-01-01 22:41:53 (2) /Rel/ Decadencia. killed (1) >SaW!<~ Ash.fx with Grenade
+19-01-01 22:41:53 sT.- YnGwi3 scores for Bravo Team
+19-01-01 22:41:54 (TEAM)[iBown ~] vaciloou ash
+19-01-01 22:41:56 (1) >SaW!<~ paladino killed (2) /Rel/ Decadencia. with Barrett M82A1
+19-01-01 22:41:58 (TEAM)[>SaW!<~ Ash.fx] é ue
+19-01-01 22:41:58 (RADIO)[/Rel/ Decadencia.] Enemy spotted up!
+19-01-01 22:42:01 (2) sT.- YnGwi3 killed (1) iBown ~ with HK MP5
+19-01-01 22:42:01 (1) >SaW!<~ Ash.fx killed (2) sT.- YnGwi3 with M79
+19-01-01 22:42:01 (1) >SaW!<~ paladino killed (2) /Rel/ Decadencia. with Barrett M82A1
+19-01-01 22:42:04 (2) Silverdie! killed (1) >SaW!<~ paladino with Barrett M82A1
+19-01-01 22:42:06 (RADIO)[/Rel/ Decadencia.] Enemy spotted down!
+19-01-01 22:42:10 Time Left: 2 minutes
+19-01-01 22:42:11 (2) /Rel/ Decadencia. killed (1) >SaW!<~ Ash.fx with Steyr AUG
+19-01-01 22:42:11 (1) iBown ~ killed (2) Silverdie! with Barrett M82A1
+19-01-01 22:42:15 (1) >SaW!<~ paladino killed (2) /Rel/ Decadencia. with Barrett M82A1
+19-01-01 22:42:16 (RADIO)[sT.- YnGwi3] Enemy spotted up!
+19-01-01 22:42:16 (RADIO)[/Rel/ Decadencia.] Enemy spotted up!
+19-01-01 22:42:19 (2) /Rel/ Decadencia. killed (1) iBown ~ with Combat Knife
+19-01-01 22:42:20 (1) >SaW!<~ paladino killed (2) /Rel/ Decadencia. with Barrett M82A1
+19-01-01 22:42:23 >SaW!<~ paladino captured the Blue Flag
+19-01-01 22:42:24 (1) >SaW!<~ Ash.fx killed (2) Silverdie! with M79
+19-01-01 22:42:29 (1) iBown ~ killed (2) sT.- YnGwi3 with Barrett M82A1
+19-01-01 22:42:30 (RADIO)[sT.- YnGwi3] Enemy spotted down!
+19-01-01 22:42:30 >SaW!<~ paladino scores for Alpha Team
+19-01-01 22:42:31 >SaW!<~ Ash.fx captured the Blue Flag
+19-01-01 22:42:31 (RADIO)[sT.- YnGwi3] Enemy spotted down!
+19-01-01 22:42:32 /Rel/ Decadencia. captured the Red Flag
+19-01-01 22:42:34 (1) iBown ~ killed (2) Silverdie! with Barrett M82A1
+19-01-01 22:42:35 (2) /Rel/ Decadencia. killed (1) >SaW!<~ paladino with Steyr AUG
+19-01-01 22:42:36 (1) iBown ~ killed (2) sT.- YnGwi3 with Combat Knife
+19-01-01 22:42:37 (TEAM)[>SaW!<~ paladino] ymid
+19-01-01 22:42:38 (1) >SaW!<~ Ash.fx killed (2) /Rel/ Decadencia. with M79
+19-01-01 22:42:38 >SaW!<~ Ash.fx returned the Red Flag
+19-01-01 22:42:41 (2) sT.- YnGwi3 killed (1) iBown ~ with HK MP5
+19-01-01 22:42:41 (RADIO)[/Rel/ Decadencia.] Enemy flagger up!
+19-01-01 22:42:41 (RADIO)[/Rel/ Decadencia.] Enemy flagger up!
+19-01-01 22:42:42 >SaW!<~ Ash.fx scores for Alpha Team
+19-01-01 22:42:42 (RADIO)[/Rel/ Decadencia.] Enemy flagger up!
+19-01-01 22:42:42 (RADIO)[/Rel/ Decadencia.] Enemy flagger up!
+19-01-01 22:42:48 (1) >SaW!<~ Ash.fx killed (2) Silverdie! with M79
+19-01-01 22:42:48 (2) Silverdie! killed (1) >SaW!<~ Ash.fx with Barrett M82A1
+19-01-01 22:42:54 (1) iBown ~ killed (2) /Rel/ Decadencia. with Barrett M82A1
+19-01-01 22:42:56 (2) Silverdie! killed (1) >SaW!<~ paladino with Barrett M82A1
+19-01-01 22:43:00 sT.- YnGwi3 captured the Red Flag
+19-01-01 22:43:01 (2) sT.- YnGwi3 killed (1) iBown ~ with HK MP5
+19-01-01 22:43:03 (1) >SaW!<~ paladino killed (2) sT.- YnGwi3 with USSOCOM
+19-01-01 22:43:05 (RADIO)[/Rel/ Decadencia.] Enemy spotted down!
+19-01-01 22:43:05 >SaW!<~ paladino returned the Red Flag
+19-01-01 22:43:07 Silverdie! captured the Red Flag
+19-01-01 22:43:08 (1) >SaW!<~ paladino killed (2) Silverdie! with Barrett M82A1
+19-01-01 22:43:10 (2) sT.- YnGwi3 killed (1) >SaW!<~ Ash.fx with HK MP5
+19-01-01 22:43:10 Time Left: 1 minutes
+19-01-01 22:43:11 (2) /Rel/ Decadencia. killed (1) >SaW!<~ paladino with Steyr AUG
+19-01-01 22:43:14 /Rel/ Decadencia. captured the Red Flag
+19-01-01 22:43:16 (1) iBown ~ killed (2) /Rel/ Decadencia. with Grenade
+19-01-01 22:43:16 sT.- YnGwi3 captured the Red Flag
+19-01-01 22:43:17 (1) >SaW!<~ paladino killed (2) sT.- YnGwi3 with USSOCOM
+19-01-01 22:43:21 Silverdie! captured the Red Flag
+19-01-01 22:43:26 (1) iBown ~ killed (2) Silverdie! with Barrett M82A1
+19-01-01 22:43:26 (2) sT.- YnGwi3 killed (1) >SaW!<~ Ash.fx with HK MP5
+19-01-01 22:43:27 iBown ~ returned the Red Flag
+19-01-01 22:43:29 /Rel/ Decadencia. captured the Red Flag
+19-01-01 22:43:33 (1) >SaW!<~ Ash.fx killed (2) sT.- YnGwi3 with M79
+19-01-01 22:43:33 (2) sT.- YnGwi3 killed (1) >SaW!<~ paladino with Grenade
+19-01-01 22:43:35 [sT.- YnGwi3] Yes, Sir!
+19-01-01 22:43:36 (TEAM)[>SaW!<~ paladino] carai
+19-01-01 22:43:38 (2) Silverdie! killed (1) >SaW!<~ paladino with Barrett M82A1
+19-01-01 22:43:39 /Rel/ Decadencia. scores for Bravo Team
+19-01-01 22:43:41 [>SaW!<~ paladino] fdp
+19-01-01 22:43:41 (RADIO)[sT.- YnGwi3] Enemy spotted up!
+19-01-01 22:43:42 Silverdie! captured the Red Flag
+19-01-01 22:43:43 (2) sT.- YnGwi3 killed (1) iBown ~ with Grenade
+19-01-01 22:43:43 (2) /Rel/ Decadencia. killed (1) >SaW!<~ Ash.fx with Steyr AUG
+19-01-01 22:43:43 (1) >SaW!<~ Ash.fx killed (2) /Rel/ Decadencia. with M79
+19-01-01 22:43:46 (RADIO)[/Rel/ Decadencia.] Friendly flagger down!
+19-01-01 22:43:48 (1) >SaW!<~ paladino killed (2) sT.- YnGwi3 with Barrett M82A1
+19-01-01 22:43:48 (2) sT.- YnGwi3 killed (1) >SaW!<~ paladino with HK MP5
+19-01-01 22:43:51 Silverdie! scores for Bravo Team
+19-01-01 22:43:53 [/Rel/ Decadencia.] It's over Johnny
+19-01-01 22:43:56 (RADIO)[/Rel/ Decadencia.] Enemy spotted down!
+19-01-01 22:43:56 (2) sT.- YnGwi3 killed (1) iBown ~ with Grenade
+19-01-01 22:43:58 (1) >SaW!<~ Ash.fx killed (2) sT.- YnGwi3 with Grenade
+19-01-01 22:43:59 (TEAM)[>SaW!<~ paladino] mano
+19-01-01 22:43:59 (RADIO)[sT.- YnGwi3] Enemy spotted down!
+19-01-01 22:44:00 /Rel/ Decadencia. captured the Red Flag
+19-01-01 22:44:00 (1) >SaW!<~ Ash.fx killed (2) Silverdie! with Grenade
+19-01-01 22:44:01 (1) iBown ~ killed (2) /Rel/ Decadencia. with Grenade
+19-01-01 22:44:03 >SaW!<~ Ash.fx captured the Blue Flag
+19-01-01 22:44:06 (2) sT.- YnGwi3 killed (1) >SaW!<~ Ash.fx with Ak-74
+19-01-01 22:44:06 (TEAM)[>SaW!<~ paladino] ctf primeiro defende dps ataca
+19-01-01 22:44:07 (2) sT.- YnGwi3 killed (1) iBown ~ with Ak-74
+19-01-01 22:44:08 (TEAM)[>SaW!<~ paladino] e so isso
+19-01-01 22:44:09 sT.- YnGwi3 returned the Blue Flag
+19-01-01 22:44:10 Next map: Lobby
+19-01-01 22:44:11 [sT.- YnGwi3] Yes, Sir!
+19-01-01 22:44:13 (TEAM)[>SaW!<~ paladino] primeiro defende dps ataca
+19-01-01 22:44:14 (TEAM)[>SaW!<~ Ash.fx] mano, ce acha que quero jogar isso
+19-01-01 22:44:15 Lothic - Gothic Lobby Room
+19-01-01 22:44:16 (TEAM)[>SaW!<~ Ash.fx] aiushiuash
+19-01-01 22:44:16 (TEAM)[>SaW!<~ paladino] so isso
+19-01-01 22:44:18 (TEAM)[>SaW!<~ paladino] toda rodada e assim
+19-01-01 22:44:23 (TEAM)[sT.- YnGwi3] map
+19-01-01 22:44:24 (TEAM)[>SaW!<~ paladino] primeiro defede dps ataca
+19-01-01 22:44:30 (TEAM)[>SaW!<~ paladino] e nunca vai dois cara pelo msm lugar
+19-01-01 22:44:32 (TEAM)[iBown ~] men
+19-01-01 22:44:34 (TEAM)[Silverdie!] sei la
+19-01-01 22:44:35 (TEAM)[iBown ~] pq se n ta no discord
+19-01-01 22:44:37 (TEAM)[>SaW!<~ Ash.fx] mas é o coach memo
+19-01-01 22:44:43 (TEAM)[/Rel/ Decadencia.] whichever you so desire, what do you like?
+19-01-01 22:44:52 (TEAM)[sT.- YnGwi3] ash
+19-01-01 22:44:58 [Silverdie!] ash
+19-01-01 22:44:59 (TEAM)[/Rel/ Decadencia.] jesus... fine then
+19-01-01 22:45:00 [sT.- YnGwi3] !map Ash
+19-01-01 22:45:01 [>SaW!<~ Ash.fx] yo
+19-01-01 22:45:05 ctf_Ash by chakapoko maker
+19-01-01 22:45:06 No map has been voted
+19-01-01 22:45:10 [>SaW!<~ Ash.fx] ah baum
+19-01-01 22:45:11 [/Rel/ Decadencia.] Come'on!
+19-01-01 22:45:12 (2) sT.- YnGwi3 killed (1) >SaW!<~ paladino with HK MP5
+19-01-01 22:45:14 [/Rel/ Decadencia.] bó
+19-01-01 22:45:16 [>SaW!<~ paladino] g 
+19-01-01 22:45:17 [>SaW!<~ paladino] g?
+19-01-01 22:45:18 (2) /Rel/ Decadencia. killed (1) iBown ~ with Grenade
+19-01-01 22:45:20 [>SaW!<~ paladino] !R
+19-01-01 22:45:20 Restarting...
+19-01-01 22:45:25 ctf_Ash by chakapoko maker
+19-01-01 22:45:28 (2) sT.- YnGwi3 killed (1) >SaW!<~ Ash.fx with Grenade
+19-01-01 22:45:32 [>SaW!<~ paladino] ib afk
+19-01-01 22:45:34 [>SaW!<~ paladino] g
+19-01-01 22:45:34 (1) iBown ~ killed (2) sT.- YnGwi3 with Grenade
+19-01-01 22:45:36 (1) >SaW!<~ Ash.fx killed (2) Silverdie! with Spas-12
+19-01-01 22:45:39 (1) iBown ~ killed (2) /Rel/ Decadencia. with Barrett M82A1
+19-01-01 22:45:42 (1) >SaW!<~ Ash.fx killed (2) Silverdie! with Spas-12
+19-01-01 22:45:46 (1) >SaW!<~ Ash.fx killed (2) Silverdie! with Spas-12
+19-01-01 22:45:49 (1) >SaW!<~ paladino killed (2) /Rel/ Decadencia. with USSOCOM
+19-01-01 22:45:49 (1) iBown ~ killed (2) sT.- YnGwi3 with Barrett M82A1
+19-01-01 22:45:50 [sT.- YnGwi3] No!
+19-01-01 22:45:51 iBown ~ captured the Blue Flag
+19-01-01 22:45:52 (RADIO)[sT.- YnGwi3] Enemy flagger down!
+19-01-01 22:45:53 (RADIO)[sT.- YnGwi3] Enemy flagger down!
+19-01-01 22:45:57 Silverdie! captured the Red Flag
+19-01-01 22:45:59 (1) >SaW!<~ paladino killed (2) /Rel/ Decadencia. with Barrett M82A1
+19-01-01 22:45:59 (1) >SaW!<~ paladino killed (2) sT.- YnGwi3 with Barrett M82A1
+19-01-01 22:46:00 [sT.- YnGwi3] No!
+19-01-01 22:46:07 (1) >SaW!<~ Ash.fx killed (2) sT.- YnGwi3 with Spas-12
+19-01-01 22:46:08 (1) iBown ~ killed (2) /Rel/ Decadencia. with Barrett M82A1
+19-01-01 22:46:09 (1) >SaW!<~ Ash.fx killed (2) Silverdie! with Grenade
+19-01-01 22:46:10 [sT.- YnGwi3] No!
+19-01-01 22:46:10 [sT.- YnGwi3] Come'on!
+19-01-01 22:46:10 >SaW!<~ Ash.fx returned the Red Flag
+19-01-01 22:46:13 (2) /Rel/ Decadencia. killed (1) >SaW!<~ Ash.fx with Combat Knife
+19-01-01 22:46:14 iBown ~ scores for Alpha Team
+19-01-01 22:46:15 (1) >SaW!<~ paladino killed (2) sT.- YnGwi3 with Barrett M82A1
+19-01-01 22:46:19 Silverdie! captured the Red Flag
+19-01-01 22:46:21 (2) /Rel/ Decadencia. killed (1) >SaW!<~ paladino with Grenade
+19-01-01 22:46:24 (RADIO)[/Rel/ Decadencia.] Friendly flagger down!
+19-01-01 22:46:24 (TEAM)[>SaW!<~ paladino] b
+19-01-01 22:46:26 /Rel/ Decadencia. captured the Red Flag
+19-01-01 22:46:26 (1) iBown ~ killed (2) /Rel/ Decadencia. with Barrett M82A1
+19-01-01 22:46:26 (1) iBown ~ killed (2) Silverdie! with Barrett M82A1
+19-01-01 22:46:27 (2) sT.- YnGwi3 killed (1) >SaW!<~ Ash.fx with Combat Knife
+19-01-01 22:46:28 (TEAM)[/Rel/ Decadencia.] ?
+19-01-01 22:46:28 iBown ~ returned the Red Flag
+19-01-01 22:46:29 [>SaW!<~ Ash.fx] ?
+19-01-01 22:46:32 (2) sT.- YnGwi3 killed (1) >SaW!<~ Ash.fx with Grenade
+19-01-01 22:46:35 (2) /Rel/ Decadencia. killed (1) >SaW!<~ paladino with Steyr AUG
+19-01-01 22:46:36 (1) iBown ~ killed (2) sT.- YnGwi3 with Barrett M82A1
+19-01-01 22:46:37 [sT.- YnGwi3] No!
+19-01-01 22:46:38 (2) Silverdie! killed (1) iBown ~ with Combat Knife
+19-01-01 22:46:43 (2) Silverdie! killed (1) >SaW!<~ paladino with Barrett M82A1
+19-01-01 22:46:44 (2) sT.- YnGwi3 killed (1) iBown ~ with HK MP5
+19-01-01 22:46:45 Silverdie! captured the Red Flag
+19-01-01 22:46:49 (2) /Rel/ Decadencia. killed (1) >SaW!<~ Ash.fx with Grenade
+19-01-01 22:46:49 (2) sT.- YnGwi3 killed (1) >SaW!<~ paladino with Grenade
+19-01-01 22:46:51 (RADIO)[/Rel/ Decadencia.] Friendly flagger up!
+19-01-01 22:46:51 [>SaW!<~ Ash.fx] ?
+19-01-01 22:46:52 [>SaW!<~ Ash.fx] lol
+19-01-01 22:46:53 [>SaW!<~ Ash.fx] aiuehawueh
+19-01-01 22:46:54 (2) sT.- YnGwi3 killed (1) iBown ~ with Grenade
+19-01-01 22:46:57 (RADIO)[sT.- YnGwi3] Enemy spotted up!
+19-01-01 22:46:58 (1) >SaW!<~ Ash.fx killed (2) sT.- YnGwi3 with Grenade
+19-01-01 22:46:58 Silverdie! scores for Bravo Team
+19-01-01 22:47:00 (1) >SaW!<~ paladino killed (2) /Rel/ Decadencia. with Barrett M82A1
+19-01-01 22:47:02 (RADIO)[/Rel/ Decadencia.] Enemy spotted up!
+19-01-01 22:47:12 (2) /Rel/ Decadencia. killed (1) iBown ~ with Grenade
+19-01-01 22:47:18 (2) sT.- YnGwi3 killed (1) >SaW!<~ Ash.fx with HK MP5
+19-01-01 22:47:20 /Rel/ Decadencia. captured the Red Flag
+19-01-01 22:47:22 (2) sT.- YnGwi3 killed (1) >SaW!<~ paladino with HK MP5
+19-01-01 22:47:22 (2) Silverdie! killed (1) iBown ~ with Barrett M82A1
+19-01-01 22:47:26 (1) >SaW!<~ Ash.fx killed (2) Silverdie! with Spas-12
+19-01-01 22:47:28 (TEAM)[iBown ~] pala vei
+19-01-01 22:47:28 [Silverdie!] ??
+19-01-01 22:47:30 (TEAM)[iBown ~] da um help atras tmb
+19-01-01 22:47:30 /Rel/ Decadencia. scores for Bravo Team
+19-01-01 22:47:35 (2) sT.- YnGwi3 killed (1) >SaW!<~ paladino with Grenade
+19-01-01 22:47:37 (1) iBown ~ killed (2) sT.- YnGwi3 with Combat Knife
+19-01-01 22:47:40 (1) >SaW!<~ paladino killed (2) /Rel/ Decadencia. with FN Minimi
+19-01-01 22:47:43 (2) sT.- YnGwi3 killed (1) >SaW!<~ Ash.fx with Combat Knife
+19-01-01 22:47:43 iBown ~ captured the Blue Flag
+19-01-01 22:47:44 (1) >SaW!<~ paladino killed (2) Silverdie! with FN Minimi
+19-01-01 22:47:45 (2) sT.- YnGwi3 killed (1) iBown ~ with HK MP5
+19-01-01 22:47:46 sT.- YnGwi3 returned the Blue Flag
+19-01-01 22:47:50 (2) /Rel/ Decadencia. killed (1) >SaW!<~ Ash.fx with Combat Knife
+19-01-01 22:47:51 (1) >SaW!<~ paladino killed (2) Silverdie! with Hands
+19-01-01 22:47:52 (2) sT.- YnGwi3 killed (1) >SaW!<~ paladino with HK MP5
+19-01-01 22:47:55 (1) iBown ~ killed (2) /Rel/ Decadencia. with Barrett M82A1
+19-01-01 22:47:57 (2) sT.- YnGwi3 killed (1) >SaW!<~ Ash.fx with HK MP5
+19-01-01 22:48:01 (1) iBown ~ killed (2) Silverdie! with Barrett M82A1
+19-01-01 22:48:01 >SaW!<~ Ash.fx has left alpha team.
+19-01-01 22:48:07 (1) iBown ~ killed (2) /Rel/ Decadencia. with Steyr AUG
+19-01-01 22:48:09 (2) sT.- YnGwi3 killed (1) iBown ~ with HK MP5
+19-01-01 22:48:10 [/Rel/ Decadencia.] p?
+19-01-01 22:48:13 Silverdie! captured the Red Flag
+19-01-01 22:48:16 (1) iBown ~ killed (2) Silverdie! with Steyr AUG
+19-01-01 22:48:19 (2) sT.- YnGwi3 killed (1) >SaW!<~ paladino with Grenade
+19-01-01 22:48:19 [sT.- YnGwi3] Yes, Sir!
+19-01-01 22:48:20 iBown ~ returned the Red Flag
+19-01-01 22:48:23 (2) /Rel/ Decadencia. killed (1) iBown ~ with Steyr AUG
+19-01-01 22:48:24 /Rel/ Decadencia. captured the Red Flag
+19-01-01 22:48:26 (1) >SaW!<~ paladino killed (2) /Rel/ Decadencia. with FN Minimi
+19-01-01 22:48:27 (2) Silverdie! killed (1) >SaW!<~ paladino with Barrett M82A1
+19-01-01 22:48:30 (2) Silverdie! killed (1) iBown ~ with Barrett M82A1
+19-01-01 22:48:31 sT.- YnGwi3 captured the Red Flag
+19-01-01 22:48:34 [/Rel/ Decadencia.] ash caiu ou saiu msm?
+19-01-01 22:48:35 (1) >SaW!<~ paladino killed (2) Silverdie! with Grenade
+19-01-01 22:48:36 (1) >SaW!<~ paladino killed (2) sT.- YnGwi3 with Grenade
+19-01-01 22:48:40 iBown ~ returned the Red Flag
+19-01-01 22:48:44 (2) sT.- YnGwi3 killed (1) >SaW!<~ paladino with Grenade
+19-01-01 22:48:50 (2) Silverdie! killed (1) >SaW!<~ paladino with Grenade
+19-01-01 22:48:50 (1) >SaW!<~ paladino killed (2) Silverdie! with Grenade
+19-01-01 22:48:54 sT.- YnGwi3 captured the Red Flag
+19-01-01 22:48:59 (2) Silverdie! killed (1) iBown ~ with Barrett M82A1
+19-01-01 22:49:08 (2) Silverdie! killed (1) >SaW!<~ paladino with Barrett M82A1
+19-01-01 22:49:15 sT.- YnGwi3 scores for Bravo Team
+19-01-01 22:49:17 Silverdie! captured the Red Flag
+19-01-01 22:49:17 (1) iBown ~ killed (2) sT.- YnGwi3 with Barrett M82A1
+19-01-01 22:49:18 [sT.- YnGwi3] No!
+19-01-01 22:49:20 (RADIO)[sT.- YnGwi3] Enemy flagger down!
+19-01-01 22:49:20 iBown ~ captured the Blue Flag
+19-01-01 22:49:22 (1) >SaW!<~ paladino killed (2) sT.- YnGwi3 with Barrett M82A1
+19-01-01 22:49:23 (2) sT.- YnGwi3 killed (1) iBown ~ with Desert Eagles
+19-01-01 22:49:24 [/Rel/ Decadencia.] !sub
+19-01-01 22:49:24 /say Sub was called... (206.81.24.116)
+19-01-01 22:49:24 (RADIO)[sT.- YnGwi3] Enemy flagger down!
+19-01-01 22:49:27 >SaW!<~ paladino captured the Blue Flag
+19-01-01 22:49:28 (2) Silverdie! killed (1) >SaW!<~ paladino with Grenade
+19-01-01 22:49:31 sT.- YnGwi3 returned the Blue Flag
+19-01-01 22:49:32 sT.- YnGwi3 captured the Red Flag
+19-01-01 22:49:32 (2) /Rel/ Decadencia. killed (1) iBown ~ with Steyr AUG
+19-01-01 22:49:33 sT.- YnGwi3 scores for Bravo Team
+19-01-01 22:49:37 (1) >SaW!<~ paladino killed (2) Silverdie! with Barrett M82A1
+19-01-01 22:49:37 [/Rel/ Decadencia.] !p
+19-01-01 22:49:37 Pausing...
+19-01-01 22:49:41 [sT.- YnGwi3] only 5min
+19-01-01 22:49:57 [iBown ~] continua
+19-01-01 22:49:59 [iBown ~] acho q ele n volta
+19-01-01 22:50:02 [/Rel/ Decadencia.] !up
+19-01-01 22:50:03 Unpausing in: 3
+19-01-01 22:50:04 Unpausing in: 2
+19-01-01 22:50:04 [/Rel/ Decadencia.] :|
+19-01-01 22:50:05 Unpausing in: 1
+19-01-01 22:50:06 Go!
+19-01-01 22:50:07 (2) sT.- YnGwi3 killed (1) >SaW!<~ paladino with Grenade
+19-01-01 22:50:11 (1) iBown ~ killed (2) /Rel/ Decadencia. with Steyr AUG
+19-01-01 22:50:14 (2) sT.- YnGwi3 killed (1) iBown ~ with HK MP5
+19-01-01 22:50:15 sT.- YnGwi3 captured the Red Flag
+19-01-01 22:50:18 (2) Silverdie! killed (1) >SaW!<~ paladino with Barrett M82A1
+19-01-01 22:50:19 (2) /Rel/ Decadencia. killed (1) iBown ~ with Grenade
+19-01-01 22:50:26 sT.- YnGwi3 scores for Bravo Team
+19-01-01 22:50:27 (1) iBown ~ killed (2) /Rel/ Decadencia. with Steyr AUG
+19-01-01 22:50:28 Silverdie! captured the Red Flag
+19-01-01 22:50:29 (1) >SaW!<~ paladino killed (2) sT.- YnGwi3 with Combat Knife
+19-01-01 22:50:30 [sT.- YnGwi3] Come'on!
+19-01-01 22:50:32 (1) >SaW!<~ paladino killed (2) /Rel/ Decadencia. with Barrett M82A1
+19-01-01 22:50:37 Silverdie! scores for Bravo Team
+19-01-01 22:50:37 (2) sT.- YnGwi3 killed (1) >SaW!<~ paladino with HK MP5
+19-01-01 22:50:38 (2) /Rel/ Decadencia. killed (1) iBown ~ with Grenade
+19-01-01 22:50:46 [/Rel/ Decadencia.] ah foda bicho
+19-01-01 22:50:46 (1) >SaW!<~ paladino killed (2) Silverdie! with Barrett M82A1
+19-01-01 22:50:53 Time Left: 5 minutes
+19-01-01 22:50:59 (1) >SaW!<~ paladino killed (2) sT.- YnGwi3 with Barrett M82A1
+19-01-01 22:51:05 (2) sT.- YnGwi3 killed (1) >SaW!<~ paladino with Combat Knife
+19-01-01 22:51:08 (1) iBown ~ killed (2) Silverdie! with Grenade
+19-01-01 22:51:17 (1) iBown ~ killed (2) /Rel/ Decadencia. with Barrett M82A1
+19-01-01 22:51:20 Silverdie! captured the Red Flag
+19-01-01 22:51:21 (1) iBown ~ killed (2) Silverdie! with Barrett M82A1
+19-01-01 22:51:23 (2) /Rel/ Decadencia. killed (1) >SaW!<~ paladino with Combat Knife
+19-01-01 22:51:25 (1) iBown ~ killed (2) sT.- YnGwi3 with Barrett M82A1
+19-01-01 22:51:30 (2) Silverdie! killed (1) iBown ~ with Barrett M82A1
+19-01-01 22:51:33 Silverdie! captured the Red Flag
+19-01-01 22:51:35 (2) sT.- YnGwi3 killed (1) iBown ~ with HK MP5
+19-01-01 22:51:35 (2) sT.- YnGwi3 killed (1) >SaW!<~ paladino with HK MP5
+19-01-01 22:51:42 Silverdie! scores for Bravo Team
+19-01-01 22:51:44 sT.- YnGwi3 captured the Red Flag
+19-01-01 22:51:45 iBown ~ captured the Blue Flag
+19-01-01 22:51:46 [/Rel/ Decadencia.] cabá logo então, já zuou o gather :\
+19-01-01 22:51:48 (2) Silverdie! killed (1) >SaW!<~ paladino with Grenade
+19-01-01 22:51:50 (1) iBown ~ killed (2) sT.- YnGwi3 with Barrett M82A1
+19-01-01 22:51:51 [>SaW!<~ paladino] Anytime...
+19-01-01 22:51:51 [>SaW!<~ paladino] Die!
+19-01-01 22:51:51 [>SaW!<~ paladino] Yeah
+19-01-01 22:51:51 Silverdie! captured the Red Flag
+19-01-01 22:51:52 (RADIO)[sT.- YnGwi3] Enemy flagger down!
+19-01-01 22:51:53 Time Left: 4 minutes
+19-01-01 22:51:55 (1) iBown ~ killed (2) /Rel/ Decadencia. with Barrett M82A1
+19-01-01 22:52:04 (1) iBown ~ killed (2) /Rel/ Decadencia. with Barrett M82A1
+19-01-01 22:52:05 (1) iBown ~ killed (2) sT.- YnGwi3 with Combat Knife
+19-01-01 22:52:06 [sT.- YnGwi3] No!
+19-01-01 22:52:06 [sT.- YnGwi3] Come'on!
+19-01-01 22:52:07 (2) Silverdie! killed (1) >SaW!<~ paladino with Grenade
+19-01-01 22:52:07 [>SaW!<~ paladino] Yeah
+19-01-01 22:52:14 (2) /Rel/ Decadencia. killed (1) iBown ~ with Steyr AUG
+19-01-01 22:52:16 sT.- YnGwi3 returned the Blue Flag
+19-01-01 22:52:16 (2) /Rel/ Decadencia. killed (1) >SaW!<~ paladino with Combat Knife
+19-01-01 22:52:22 Silverdie! scores for Bravo Team
+19-01-01 22:52:22 /Rel/ Decadencia. captured the Red Flag
+19-01-01 22:52:23 (1) iBown ~ killed (2) sT.- YnGwi3 with Combat Knife
+19-01-01 22:52:25 (2) /Rel/ Decadencia. killed (1) iBown ~ with Steyr AUG
+19-01-01 22:52:33 (2) /Rel/ Decadencia. killed (1) >SaW!<~ paladino with Steyr AUG
+19-01-01 22:52:33 /Rel/ Decadencia. scores for Bravo Team
+19-01-01 22:52:33 Silverdie! captured the Red Flag
+19-01-01 22:52:34 [>SaW!<~ paladino] Yeah
+19-01-01 22:52:34 [>SaW!<~ paladino] Die!
+19-01-01 22:52:37 [iBown ~] ja deu p ver q na brrt vs brrt n aguentam
+19-01-01 22:52:39 [iBown ~] dksai0ojdsa
+19-01-01 22:52:47 (2) /Rel/ Decadencia. killed (1) >SaW!<~ paladino with Steyr AUG
+19-01-01 22:52:48 [>SaW!<~ paladino] Yeah
+19-01-01 22:52:52 (2) Silverdie! killed (1) >SaW!<~ paladino with Barrett M82A1
+19-01-01 22:52:53 Time Left: 3 minutes
+19-01-01 22:52:55 [/Rel/ Decadencia.] eu nem jogo ctf de barr euaheauh
+19-01-01 22:52:56 (2) sT.- YnGwi3 killed (1) iBown ~ with Grenade
+19-01-01 22:52:58 Next map: Lobby
+19-01-01 22:52:58 Silverdie! scores for Bravo Team
+19-01-01 22:53:02 [>SaW!<~ paladino] ggg
+19-01-01 22:53:03 >SaW!<~ paladino has left alpha team.
+19-01-01 22:53:03 Lothic - Gothic Lobby Room
+19-01-01 22:53:03 [iBown ~] eu to zoando
+19-01-01 22:53:04 /Rel/ Decadencia. has left bravo team.
+19-01-01 22:53:06 iBown ~ has left alpha team.
+19-01-01 22:53:07 sT.- YnGwi3 has left bravo team.
+19-01-01 22:53:08 [Silverdie!] carai
+19-01-01 22:53:13 [Silverdie!] melhor voltar pro death
+19-01-01 22:53:16 Silverdie! has left bravo team.
+19-01-01 22:55:50 191.193.254.136:23073|5CF192208A5 requesting game...
+19-01-01 22:58:03 Time Left: 5 minutes
+19-01-01 22:59:03 Time Left: 4 minutes
+19-01-01 23:00:03 Time Left: 3 minutes
+19-01-01 23:01:03 Time Left: 2 minutes
+19-01-01 23:02:03 Time Left: 1 minutes
+19-01-01 23:03:03 Next map: Lobby
+19-01-01 23:03:09 Lothic - Gothic Lobby Room
+19-01-01 23:08:09 Time Left: 5 minutes
+19-01-01 23:09:09 Time Left: 4 minutes
+19-01-01 23:10:09 Time Left: 3 minutes
+19-01-01 23:11:09 Time Left: 2 minutes
+19-01-01 23:12:09 Time Left: 1 minutes
+19-01-01 23:13:09 Next map: Lobby
+19-01-01 23:13:14 Lothic - Gothic Lobby Room
+19-01-01 23:16:27 181.222.177.126:23073|3089B37F10E requesting game...
+19-01-01 23:18:14 Time Left: 5 minutes
+19-01-01 23:19:14 Time Left: 4 minutes
+19-01-01 23:20:14 Time Left: 3 minutes
+19-01-01 23:21:14 Time Left: 2 minutes
+19-01-01 23:22:14 Time Left: 1 minutes
+19-01-01 23:23:14 Next map: Lobby
+19-01-01 23:23:19 Lothic - Gothic Lobby Room
+19-01-01 23:28:19 Time Left: 5 minutes
+19-01-01 23:29:19 Time Left: 4 minutes
+19-01-01 23:30:19 Time Left: 3 minutes
+19-01-01 23:31:19 Time Left: 2 minutes
+19-01-01 23:32:19 Time Left: 1 minutes
+19-01-01 23:33:19 Next map: Lobby
+19-01-01 23:33:25 Lothic - Gothic Lobby Room
+19-01-01 23:38:25 Time Left: 5 minutes
+19-01-01 23:39:25 Time Left: 4 minutes
+19-01-01 23:40:25 Time Left: 3 minutes
+19-01-01 23:41:25 Time Left: 2 minutes
+19-01-01 23:42:25 Time Left: 1 minutes
+19-01-01 23:43:25 Next map: Lobby
+19-01-01 23:43:30 Lothic - Gothic Lobby Room
+19-01-01 23:48:30 Time Left: 5 minutes
+19-01-01 23:49:30 Time Left: 4 minutes
+19-01-01 23:50:30 Time Left: 3 minutes
+19-01-01 23:51:30 Time Left: 2 minutes
+19-01-01 23:52:30 Time Left: 1 minutes
+19-01-01 23:53:30 Next map: Lobby
+19-01-01 23:53:35 Lothic - Gothic Lobby Room
+19-01-01 23:58:35 Time Left: 5 minutes
+19-01-01 23:59:35 Time Left: 4 minutes
+19-01-02 00:00:35 Time Left: 3 minutes
+19-01-02 00:01:35 Time Left: 2 minutes
+19-01-02 00:02:35 Time Left: 1 minutes
+19-01-02 00:03:35 Next map: Lobby
+19-01-02 00:03:41 Lothic - Gothic Lobby Room
+19-01-02 00:08:41 Time Left: 5 minutes
+19-01-02 00:09:41 Time Left: 4 minutes
+19-01-02 00:10:41 Time Left: 3 minutes
+19-01-02 00:11:41 Time Left: 2 minutes
+19-01-02 00:12:41 Time Left: 1 minutes
+19-01-02 00:13:41 Next map: Lobby
+19-01-02 00:13:46 Lothic - Gothic Lobby Room
+19-01-02 00:18:46 Time Left: 5 minutes
+19-01-02 00:19:46 Time Left: 4 minutes
+19-01-02 00:20:46 Time Left: 3 minutes
+19-01-02 00:21:46 Time Left: 2 minutes
+19-01-02 00:22:46 Time Left: 1 minutes
+19-01-02 00:23:46 Next map: Lobby
+19-01-02 00:23:51 Lothic - Gothic Lobby Room
+19-01-02 00:28:51 Time Left: 5 minutes
+19-01-02 00:29:51 Time Left: 4 minutes
+19-01-02 00:30:51 Time Left: 3 minutes
+19-01-02 00:31:51 Time Left: 2 minutes
+19-01-02 00:32:51 Time Left: 1 minutes
+19-01-02 00:33:51 Next map: Lobby
+19-01-02 00:33:57 Lothic - Gothic Lobby Room
+19-01-02 00:38:56 Time Left: 5 minutes
+19-01-02 00:39:56 Time Left: 4 minutes
+19-01-02 00:40:56 Time Left: 3 minutes
+19-01-02 00:41:56 Time Left: 2 minutes
+19-01-02 00:42:56 Time Left: 1 minutes
+19-01-02 00:43:56 Next map: Lobby
+19-01-02 00:44:02 Lothic - Gothic Lobby Room
+19-01-02 00:49:02 Time Left: 5 minutes
+19-01-02 00:50:02 Time Left: 4 minutes
+19-01-02 00:51:02 Time Left: 3 minutes
+19-01-02 00:52:02 Time Left: 2 minutes
+19-01-02 00:53:02 Time Left: 1 minutes
+19-01-02 00:54:02 Next map: Lobby
+19-01-02 00:54:07 Lothic - Gothic Lobby Room
+19-01-02 00:59:07 Time Left: 5 minutes
+19-01-02 01:00:07 Time Left: 4 minutes
+19-01-02 01:01:07 Time Left: 3 minutes
+19-01-02 01:02:07 Time Left: 2 minutes
+19-01-02 01:03:07 Time Left: 1 minutes
+19-01-02 01:04:07 Next map: Lobby
+19-01-02 01:04:12 Lothic - Gothic Lobby Room
+19-01-02 01:09:12 Time Left: 5 minutes
+19-01-02 01:10:12 Time Left: 4 minutes
+19-01-02 01:11:12 Time Left: 3 minutes
+19-01-02 01:12:12 Time Left: 2 minutes
+19-01-02 01:13:12 Time Left: 1 minutes
+19-01-02 01:14:12 Next map: Lobby
+19-01-02 01:14:18 Lothic - Gothic Lobby Room
+19-01-02 01:15:13 /password 8248 (206.81.24.116)
+19-01-02 01:15:13 Server password changed to 8248
+19-01-02 01:15:13 /say Server password was changed... (206.81.24.116)
+19-01-02 01:15:15 /loadcon soldat.ini (206.81.24.116)
+19-01-02 01:15:15 Config reloaded soldat.ini
+19-01-02 01:15:15 Lothic - Gothic Lobby Room
+19-01-02 01:15:15 Loaded weapons mod "Default mod v1.8"
+19-01-02 01:15:15 Port already open
+19-01-02 01:15:15  Connection for file server started. Port: 23012
+19-01-02 01:15:15 /loadwep weapons (206.81.24.116)
+19-01-02 01:15:15 Loaded weapons mod "Default mod v1.8"
+19-01-02 01:15:25 177.37.212.132:9515|61CF393BC74 requesting game...
+19-01-02 01:15:26 168.121.230.139:23073|24B86FC0F0E requesting game...
+19-01-02 01:15:28 /Rel/ Decadencia. joining game (168.121.230.139:23073) HWID:24B86FC0F0E
+19-01-02 01:15:28 /Rel/ Decadencia. has joined bravo team.
+19-01-02 01:15:30 Mega Her'Tz joining game (177.37.212.132:9515) HWID:61CF393BC74
+19-01-02 01:15:30 Mega Her'Tz has joined bravo team.
+19-01-02 01:15:31 [/Rel/ Decadencia.] !info
+19-01-02 01:15:31 /say Gather.SA (elapsed time 0:00:16) (206.81.24.116)
+19-01-02 01:15:31 /say Alpha: DrK - Mega Her'Tz - Mago (206.81.24.116)
+19-01-02 01:15:31 /say Bravo: LeprosycL - CrasheR - Lvyz (206.81.24.116)
+19-01-02 01:15:31 /say Tiebreaker: ctf_Hormone (206.81.24.116)
+19-01-02 01:15:32 Mega Her'Tz has joined alpha team.
+19-01-02 01:15:35 177.99.129.231:23073|4D93886F25E requesting game...
+19-01-02 01:15:37 CrasheR joining game (177.99.129.231:23073) HWID:4D93886F25E
+19-01-02 01:15:37 CrasheR has joined bravo team.
+19-01-02 01:15:41 [CrasheR] !info
+19-01-02 01:15:41 /say Gather.SA (elapsed time 0:00:26) (206.81.24.116)
+19-01-02 01:15:41 /say Alpha: DrK - Mega Her'Tz - Mago (206.81.24.116)
+19-01-02 01:15:41 /say Bravo: LeprosycL - CrasheR - Lvyz (206.81.24.116)
+19-01-02 01:15:41 /say Tiebreaker: ctf_Hormone (206.81.24.116)
+19-01-02 01:15:43 [CrasheR] só br na parada
+19-01-02 01:15:48 [Mega Her'Tz] é tud br
+19-01-02 01:15:48 [Mega Her'Tz] ?
+19-01-02 01:15:52 [/Rel/ Decadencia.] >leprosy
+19-01-02 01:15:53 179.211.163.211:23073|7C707F3C952 requesting game...
+19-01-02 01:15:53 [CrasheR] só 1 q n
+19-01-02 01:15:54 Mago (BR) joining game (179.211.163.211:23073) HWID:7C707F3C952
+19-01-02 01:15:54 Mago (BR) has joined alpha team.
+19-01-02 01:15:57 [Mago (BR)] sou foda
+19-01-02 01:15:59 [Mago (BR)] !info
+19-01-02 01:15:59 /say Gather.SA (elapsed time 0:00:44) (206.81.24.116)
+19-01-02 01:15:59 /say Alpha: DrK - Mega Her'Tz - Mago (206.81.24.116)
+19-01-02 01:15:59 /say Bravo: LeprosycL - CrasheR - Lvyz (206.81.24.116)
+19-01-02 01:15:59 /say Tiebreaker: ctf_Hormone (206.81.24.116)
+19-01-02 01:16:04 [CrasheR] mas nois kicka ele
+19-01-02 01:16:07 [CrasheR] vc é foda mago
+19-01-02 01:16:08 [CrasheR] tuahshusa
+19-01-02 01:16:10 [Mago (BR)] kkkk
+19-01-02 01:16:10 [/Rel/ Decadencia.] quem é vc mago
+19-01-02 01:16:12 [CrasheR] chegou na hr certa
+19-01-02 01:16:13 [Mago (BR)] sou seu pai
+19-01-02 01:16:16 [/Rel/ Decadencia.] :O
+19-01-02 01:16:18 [CrasheR] und@mago
+19-01-02 01:16:21 [/Rel/ Decadencia.] Ata
+19-01-02 01:16:24 [Mega Her'Tz] vcs n conhecem o mago?
+19-01-02 01:16:26 [Mega Her'Tz] mago <3 bb
+19-01-02 01:16:28 [Mago (BR)] sou o melhor daqui
+19-01-02 01:16:29 [Mago (BR)] s2
+19-01-02 01:16:29 [/Rel/ Decadencia.] com a tag fica diferente
+19-01-02 01:16:40 [Mega Her'Tz] mago meu velho brother
+19-01-02 01:16:48 [/Rel/ Decadencia.] mago her'Tz
+19-01-02 01:16:55 [Mago (BR)] n lembro
+19-01-02 01:16:57 [Mago (BR)] mas devo ser
+19-01-02 01:16:59 [Mago (BR)] kkkk
+19-01-02 01:17:01 [Mega Her'Tz] uee
+19-01-02 01:17:02 [Mega Her'Tz] aisuahus
+19-01-02 01:17:05 [CrasheR] Mago?Her'Tz
+19-01-02 01:17:11 /Rel/ Decadencia. has left bravo team.
+19-01-02 01:17:12 [CrasheR] !info
+19-01-02 01:17:13 /say Gather.SA (elapsed time 0:01:58) (206.81.24.116)
+19-01-02 01:17:13 /say Alpha: DrK - Mega Her'Tz - Mago (206.81.24.116)
+19-01-02 01:17:13 /say Bravo: LeprosycL - CrasheR - Lvyz (206.81.24.116)
+19-01-02 01:17:13 /say Tiebreaker: ctf_Hormone (206.81.24.116)
+19-01-02 01:17:16 [Mago (BR)] cade o resto
+19-01-02 01:17:18 168.121.230.139:23073|24B86FC0F0E requesting game...
+19-01-02 01:17:19 Morcego Inxado. joining game (168.121.230.139:23073) HWID:24B86FC0F0E
+19-01-02 01:17:19 Morcego Inxado. has joined bravo team.
+19-01-02 01:17:34 [CrasheR] !msg Drk come'on
+19-01-02 01:17:43 [Mago (BR)] arregaram
+19-01-02 01:17:51 [Mega Her'Tz] sera?
+19-01-02 01:17:52 [CrasheR] !msg Lebrosycl come'on
+19-01-02 01:17:54 [CrasheR] logo eles vem
+19-01-02 01:18:05 177.149.193.11:23073|32EB4E4D3D6 requesting game...
+19-01-02 01:18:07 cB.DrK joining game (177.149.193.11:23073) HWID:32EB4E4D3D6
+19-01-02 01:18:07 cB.DrK has joined alpha team.
+19-01-02 01:18:10 [cB.DrK] !ginfo
+19-01-02 01:18:10 /say Gather.SA (elapsed time 0:02:55) (206.81.24.116)
+19-01-02 01:18:10 /say Alpha: DrK - Mega Her'Tz - Mago (206.81.24.116)
+19-01-02 01:18:10 /say Bravo: LeprosycL - CrasheR - Lvyz (206.81.24.116)
+19-01-02 01:18:10 /say Tiebreaker: ctf_Hormone (206.81.24.116)
+19-01-02 01:18:15 [Morcego Inxado.] Come'on!
+19-01-02 01:18:22 [CrasheR] !map ctf_Junglefall
+19-01-02 01:18:22 Map not found (ctf_junglefall)
+19-01-02 01:18:23 /say Map not found (ctf_junglefall) (206.81.24.116)
+19-01-02 01:18:24 (1) Mago (BR) killed (2) CrasheR with Barrett M82A1
+19-01-02 01:18:25 [cB.DrK] e ai rapazeada
+19-01-02 01:18:25 [Mago (BR)] Yeah
+19-01-02 01:18:28 [CrasheR] é ta com problema com meu mapa ainda T_T
+19-01-02 01:18:30 [Morcego Inxado.] oie
+19-01-02 01:18:31 [CrasheR] iaee Drk
+19-01-02 01:18:34 [Mago (BR)] eae
+19-01-02 01:18:37 [CrasheR] primeiro gather com 5 br em
+19-01-02 01:18:38 [CrasheR] hahah
+19-01-02 01:18:46 [CrasheR] 2 do dia na real
+19-01-02 01:18:51 177.126.210.211:26869|1E482B8E6A3 requesting game...
+19-01-02 01:18:54 De@d joining game (177.126.210.211:26869) HWID:1E482B8E6A3
+19-01-02 01:18:54 De@d has joined as spectator.
+19-01-02 01:18:57 [cB.DrK] esse leprosy é foda...
+19-01-02 01:18:59 [CrasheR] ae pikinha
+19-01-02 01:19:01 [CrasheR] entrai
+19-01-02 01:19:05 [Mago (BR)] Yeah
+19-01-02 01:19:06 [CrasheR] huashuas]
+19-01-02 01:19:07 [De@d] sem mouse viado
+19-01-02 01:19:14 [De@d] kkkkk
+19-01-02 01:19:17 [CrasheR] ashuashuash
+19-01-02 01:19:19 [Morcego Inxado.] será
+19-01-02 01:19:26 [Mega Her'Tz] kd o cara
+19-01-02 01:19:26 [Morcego Inxado.] eahuaehaeu
+19-01-02 01:19:27 [CrasheR] volta pra casa logo pra jogar com nois
+19-01-02 01:19:29 [Mega Her'Tz] preciso dormir
+19-01-02 01:19:31 [CrasheR] ou compra uim mouse no bar
+19-01-02 01:19:40 [CrasheR] !sub
+19-01-02 01:19:41 /say Sub was called... (206.81.24.116)
+19-01-02 01:19:46 [De@d] next week devo ta em casa rsrs
+19-01-02 01:19:48 (2) Morcego Inxado. killed (1) Mago (BR) with Barrett M82A1
+19-01-02 01:19:48 [De@d] next week devo ta em casa rsrs
+19-01-02 01:19:49 [Mago (BR)] No!
+19-01-02 01:19:49 [Morcego Inxado.] Yeah
+19-01-02 01:19:50 [Morcego Inxado.] Die!
+19-01-02 01:19:57 [Mago (BR)] !admine
+19-01-02 01:19:59 [Mega Her'Tz] dead[e qiem?
+19-01-02 01:20:14 [CrasheR] dead é o luis
+19-01-02 01:20:15 Time Left: 5 minutes
+19-01-02 01:20:17 (2) Morcego Inxado. killed (1) Mago (BR) with Barrett M82A1
+19-01-02 01:20:17 [CrasheR] Luis augusto
+19-01-02 01:20:18 [Morcego Inxado.] Come'on!
+19-01-02 01:20:24 [Morcego Inxado.] ele é da tnt
+19-01-02 01:20:33 [CrasheR] q tnt
+19-01-02 01:20:34 [De@d] No!
+19-01-02 01:20:35 [Morcego Inxado.] euahuahe
+19-01-02 01:20:35 [CrasheR] lol
+19-01-02 01:20:46 [Mega Her'Tz] mee
+19-01-02 01:20:48 [Mega Her'Tz] n lembro dele
+19-01-02 01:20:57 [Mega Her'Tz] ou lembro
+19-01-02 01:21:00 [De@d] No!
+19-01-02 01:21:12 [CrasheR] convido o winter mas sem q é em vão
+19-01-02 01:21:12 [Morcego Inxado.] eu lembro de todo mundos B^)
+19-01-02 01:21:14 [Mago (BR)] Yeah
+19-01-02 01:21:15 Time Left: 4 minutes
+19-01-02 01:21:20 [Mega Her'Tz] u lembra de mim?
+19-01-02 01:21:22 [Morcego Inxado.] Yeah
+19-01-02 01:21:36 [Mago (BR)] vamo 3x2 msm
+19-01-02 01:21:40 [Mago (BR)] n preciso de 3
+19-01-02 01:21:49 [Morcego Inxado.] kkkkkk
+19-01-02 01:21:54 [Mago (BR)] passa um pra la
+19-01-02 01:21:59 [CrasheR] suhuasuhsa
+19-01-02 01:22:01 Mega Her'Tz has joined bravo team.
+19-01-02 01:22:07 [Morcego Inxado.] ta desse nivel? caraiu
+19-01-02 01:22:14 [Mega Her'Tz] vc ta audacioso dms
+19-01-02 01:22:14 De@d has left spectators
+19-01-02 01:22:15 Time Left: 3 minutes
+19-01-02 01:22:17 [CrasheR] o cara é o bixão memo
+19-01-02 01:22:17 [Mega Her'Tz] vamo começar omapa entao
+19-01-02 01:22:23 [Mago (BR)] facil dmais
+19-01-02 01:22:25 [Mago (BR)] kkkk
+19-01-02 01:22:26 [Morcego Inxado.] pera ver se vem alguém
+19-01-02 01:22:38 [CrasheR] !admin
+19-01-02 01:22:42 (2) Morcego Inxado. killed (1) Mago (BR) with Barrett M82A1
+19-01-02 01:22:43 [Mago (BR)] Yeah
+19-01-02 01:22:45 [Morcego Inxado.] matei
+19-01-02 01:22:48 177.126.210.211:26869|1E482B8E6A3 requesting game...
+19-01-02 01:22:49 [Mago (BR)] deixei
+19-01-02 01:22:56 (2) Morcego Inxado. killed (1) cB.DrK with Barrett M82A1
+19-01-02 01:23:12 /say Sub was found: sarev (206.81.24.116)
+19-01-02 01:23:15 Time Left: 2 minutes
+19-01-02 01:23:15 [Mago (BR)] yeah
+19-01-02 01:23:17 @[shredder] sup (92.45.241.51)
+19-01-02 01:23:17 [CrasheR] Hurraaaa!!!
+19-01-02 01:23:17 [CrasheR] Son of a bitch!
+19-01-02 01:23:18 [CrasheR] Come'on!
+19-01-02 01:23:19 [CrasheR] You're one ugly mother fu**er!
+19-01-02 01:23:20 [CrasheR] Son of a bitch!
+19-01-02 01:23:21 [Morcego Inxado.] at last
+19-01-02 01:23:26 [Morcego Inxado.] volta lá mega euaheuah
+19-01-02 01:23:29 (2) Morcego Inxado. killed (1) Mago (BR) with Barrett M82A1
+19-01-02 01:23:29 Mega Her'Tz has joined alpha team.
+19-01-02 01:23:30 [Morcego Inxado.] Yeah
+19-01-02 01:23:31 [Morcego Inxado.] Die!
+19-01-02 01:23:35 [Morcego Inxado.] Come'on!
+19-01-02 01:23:38 [Morcego Inxado.] Feel the Deca!
+19-01-02 01:23:38 [Morcego Inxado.] Come'on!
+19-01-02 01:23:42 31.209.147.211:23073|59DF90E5634 requesting game...
+19-01-02 01:23:42 T4 Sarev joining game (31.209.147.211:23073) HWID:59DF90E5634
+19-01-02 01:23:42 T4 Sarev has joined as spectator.
+19-01-02 01:23:44 T4 Sarev has joined bravo team.
+19-01-02 01:23:55 [CrasheR] agr pega um mapa ae logo
+19-01-02 01:23:58 [CrasheR] booooooooooooooooooooooooooooooooora
+19-01-02 01:24:05 [Mega Her'Tz] !map
+19-01-02 01:24:07 [Morcego Inxado.] What the hell are you?
+19-01-02 01:24:13 [Mega Her'Tz] como escolhe
+19-01-02 01:24:14 [Mega Her'Tz] ?
+19-01-02 01:24:15 Time Left: 1 minutes
+19-01-02 01:24:19 [CrasheR] !maps
+19-01-02 01:24:19 [Mago (BR)] !map ..
+19-01-02 01:24:19 Map not found (..)
+19-01-02 01:24:19 /pm 3 Maps list: (206.81.24.116)
+19-01-02 01:24:19 (PM) To: CrasheR From: Server Admin Message: Maps list:
+19-01-02 01:24:19 /pm 3 ctf_Aftermath, ctf_Amnesia, ctf_Arabic, ctf_Ash, ctf_B2b (206.81.24.116)
+19-01-02 01:24:19 (PM) To: CrasheR From: Server Admin Message: ctf_Aftermath, ctf_Amnesia, ctf_Arabic, ctf_Ash, ctf_B2b
+19-01-02 01:24:19 /pm 3 ctf_Blade, ctf_Campeche, ctf_Catch, ctf_Cobra, ctf_Crucifix (206.81.24.116)
+19-01-02 01:24:19 (PM) To: CrasheR From: Server Admin Message: ctf_Blade, ctf_Campeche, ctf_Catch, ctf_Cobra, ctf_Crucifix
+19-01-02 01:24:19 /pm 3 ctf_Death, ctf_Division, ctf_Dropdown, ctf_Equinox, ctf_Fl (206.81.24.116)
+19-01-02 01:24:19 (PM) To: CrasheR From: Server Admin Message: ctf_Death, ctf_Division, ctf_Dropdown, ctf_Equinox, ctf_Fl
+19-01-02 01:24:19 /pm 3 ctf_Guardian, ctf_Hormone, ctf_Horror, ctf_IceBeam, ctf_Junglefall (206.81.24.116)
+19-01-02 01:24:19 (PM) To: CrasheR From: Server Admin Message: ctf_Guardian, ctf_Hormone, ctf_Horror, ctf_IceBeam, ctf_Junglefall
+19-01-02 01:24:19 /pm 3 ctf_Kampf, ctf_Lanubya, ctf_Laos, ctf_Lava, ctf_Maya (206.81.24.116)
+19-01-02 01:24:19 (PM) To: CrasheR From: Server Admin Message: ctf_Kampf, ctf_Lanubya, ctf_Laos, ctf_Lava, ctf_Maya
+19-01-02 01:24:19 /pm 3 ctf_Mayapan, ctf_Mine, ctf_MFM, ctf_Nuubia, ctf_Paradigm (206.81.24.116)
+19-01-02 01:24:19 (PM) To: CrasheR From: Server Admin Message: ctf_Mayapan, ctf_Mine, ctf_MFM, ctf_Nuubia, ctf_Paradigm
+19-01-02 01:24:19 /pm 3 ctf_Pod, ctf_Raspberry, ctf_Rotten, ctf_Ruins, ctf_Run (206.81.24.116)
+19-01-02 01:24:19 (PM) To: CrasheR From: Server Admin Message: ctf_Pod, ctf_Raspberry, ctf_Rotten, ctf_Ruins, ctf_Run
+19-01-02 01:24:19 /pm 3 ctf_Scorpion, ctf_Snakebite, ctf_Spark, ctf_Steel, ctf_Triumph (206.81.24.116)
+19-01-02 01:24:19 (PM) To: CrasheR From: Server Admin Message: ctf_Scorpion, ctf_Snakebite, ctf_Spark, ctf_Steel, ctf_Triumph
+19-01-02 01:24:19 /pm 3 ctf_Viet, ctf_Voland, ctf_Wretch, ctf_X (206.81.24.116)
+19-01-02 01:24:19 (PM) To: CrasheR From: Server Admin Message: ctf_Viet, ctf_Voland, ctf_Wretch, ctf_X
+19-01-02 01:24:19 /say Map not found (..) (206.81.24.116)
+19-01-02 01:24:19 [Morcego Inxado.] !map nomedomapa
+19-01-02 01:24:19 Map not found (nomedomapa)
+19-01-02 01:24:20 /say Map not found (nomedomapa) (206.81.24.116)
+19-01-02 01:24:25 (2) Morcego Inxado. killed (1) Mega Her'Tz with M79
+19-01-02 01:24:27 [Mega Her'Tz] !map ctf_snowland
+19-01-02 01:24:27 Map not found (ctf_snowland)
+19-01-02 01:24:28 /say Map not found (ctf_snowland) (206.81.24.116)
+19-01-02 01:24:28 [Morcego Inxado.] :O
+19-01-02 01:24:29 [cB.DrK] !map ctf_Guardian
+19-01-02 01:24:30 (TEAM)[T4 Sarev] give me your money
+19-01-02 01:24:34 [Mago (BR)] valendo
+19-01-02 01:24:34 ctf_Guardian by SuoW
+19-01-02 01:24:36 (TEAM)[CrasheR] why
+19-01-02 01:24:40 cB.DrK captured the Blue Flag
+19-01-02 01:24:41 (2) CrasheR killed (1) Mago (BR) with Ak-74
+19-01-02 01:24:41 (1) Mago (BR) killed (2) CrasheR with Steyr AUG
+19-01-02 01:24:43 (2) Morcego Inxado. killed (1) cB.DrK with Steyr AUG
+19-01-02 01:24:44 Mega Her'Tz captured the Blue Flag
+19-01-02 01:24:47 [CrasheR] gg?
+19-01-02 01:24:48 T4 Sarev captured the Red Flag
+19-01-02 01:24:49 [CrasheR] !r
+19-01-02 01:24:49 Restarting...
+19-01-02 01:24:51 [Mago (BR)] gggg
+19-01-02 01:24:53 [Morcego Inxado.] I shall return!
+19-01-02 01:24:53 [Morcego Inxado.] Ta em choKK?
+19-01-02 01:24:54 [Morcego Inxado.] EH MOLE KKKKK
+19-01-02 01:24:54 ctf_Guardian by SuoW
+19-01-02 01:24:59 (2) T4 Sarev killed (1) Mega Her'Tz with Barrett M82A1
+19-01-02 01:25:00 Morcego Inxado. captured the Red Flag
+19-01-02 01:25:00 cB.DrK captured the Blue Flag
+19-01-02 01:25:05 (2) Morcego Inxado. killed (1) cB.DrK with Steyr AUG
+19-01-02 01:25:06 (2) T4 Sarev killed (1) Mago (BR) with Combat Knife
+19-01-02 01:25:11 (2) CrasheR killed (1) Mago (BR) with Grenade
+19-01-02 01:25:12 T4 Sarev returned the Blue Flag
+19-01-02 01:25:13 (1) Mega Her'Tz killed (2) T4 Sarev with M79
+19-01-02 01:25:13 Morcego Inxado. scores for Bravo Team
+19-01-02 01:25:15 (2) CrasheR killed (1) cB.DrK with Ak-74
+19-01-02 01:25:15 (1) cB.DrK killed (2) CrasheR with Spas-12
+19-01-02 01:25:18 (RADIO)[Morcego Inxado.] Enemy spotted down!
+19-01-02 01:25:21 (2) T4 Sarev killed (1) cB.DrK with Barrett M82A1
+19-01-02 01:25:24 T4 Sarev captured the Red Flag
+19-01-02 01:25:24 (1) Mago (BR) killed (2) T4 Sarev with Steyr AUG
+19-01-02 01:25:25 (2) Morcego Inxado. killed (1) Mega Her'Tz with Steyr AUG
+19-01-02 01:25:26 Mago (BR) returned the Red Flag
+19-01-02 01:25:26 (1) Mago (BR) killed (2) Morcego Inxado. with Steyr AUG
+19-01-02 01:25:28 (1) cB.DrK killed (2) CrasheR with Spas-12
+19-01-02 01:25:33 cB.DrK captured the Blue Flag
+19-01-02 01:25:36 T4 Sarev captured the Red Flag
+19-01-02 01:25:36 (2) CrasheR killed (1) cB.DrK with Ak-74
+19-01-02 01:25:37 CrasheR returned the Blue Flag
+19-01-02 01:25:37 (2) Morcego Inxado. killed (1) Mago (BR) with Steyr AUG
+19-01-02 01:25:41 (2) CrasheR killed (1) Mega Her'Tz with Ak-74
+19-01-02 01:25:43 T4 Sarev scores for Bravo Team
+19-01-02 01:25:44 (2) T4 Sarev killed (1) cB.DrK with Barrett M82A1
+19-01-02 01:25:46 Morcego Inxado. captured the Red Flag
+19-01-02 01:25:46 Mago (BR) captured the Blue Flag
+19-01-02 01:25:51 (2) Morcego Inxado. killed (1) Mago (BR) with Steyr AUG
+19-01-02 01:25:53 T4 Sarev returned the Blue Flag
+19-01-02 01:25:53 (1) cB.DrK killed (2) Morcego Inxado. with Spas-12
+19-01-02 01:25:54 (1) cB.DrK killed (2) T4 Sarev with Spas-12
+19-01-02 01:25:55 (2) CrasheR killed (1) cB.DrK with Ak-74
+19-01-02 01:25:56 Mega Her'Tz captured the Blue Flag
+19-01-02 01:25:57 CrasheR captured the Red Flag
+19-01-02 01:25:59 Mago (BR) returned the Red Flag
+19-01-02 01:26:00 [CrasheR] twtf
+19-01-02 01:26:03 (2) CrasheR killed (1) Mega Her'Tz with Ak-74
+19-01-02 01:26:06 T4 Sarev returned the Blue Flag
+19-01-02 01:26:06 Mago (BR) captured the Blue Flag
+19-01-02 01:26:06 T4 Sarev captured the Red Flag
+19-01-02 01:26:10 (1) Mago (BR) killed (2) T4 Sarev with Steyr AUG
+19-01-02 01:26:10 Morcego Inxado. captured the Red Flag
+19-01-02 01:26:10 (1) Mago (BR) killed (2) Morcego Inxado. with Steyr AUG
+19-01-02 01:26:13 cB.DrK returned the Red Flag
+19-01-02 01:26:13 (2) CrasheR killed (1) Mago (BR) with Ak-74
+19-01-02 01:26:14 (1) cB.DrK killed (2) CrasheR with Spas-12
+19-01-02 01:26:16 Mega Her'Tz captured the Blue Flag
+19-01-02 01:26:16 177.126.210.211:26869|1E482B8E6A3 requesting game...
+19-01-02 01:26:17 (2) T4 Sarev killed (1) cB.DrK with Barrett M82A1
+19-01-02 01:26:18 (2) Morcego Inxado. killed (1) Mega Her'Tz with Grenade
+19-01-02 01:26:18 Morcego Inxado. returned the Blue Flag
+19-01-02 01:26:19 Morcego Inxado. captured the Red Flag
+19-01-02 01:26:23 De@d joining game (177.126.210.211:26869) HWID:1E482B8E6A3
+19-01-02 01:26:23 De@d has joined as spectator.
+19-01-02 01:26:24 (1) cB.DrK killed (2) Morcego Inxado. with Spas-12
+19-01-02 01:26:25 (2) CrasheR killed (1) Mega Her'Tz with Ak-74
+19-01-02 01:26:28 cB.DrK captured the Blue Flag
+19-01-02 01:26:29 CrasheR captured the Red Flag
+19-01-02 01:26:30 (2) Morcego Inxado. killed (1) Mago (BR) with Combat Knife
+19-01-02 01:26:31 (2) Morcego Inxado. killed (1) cB.DrK with Steyr AUG
+19-01-02 01:26:34 (1) Mega Her'Tz killed (2) CrasheR with Grenade
+19-01-02 01:26:34 T4 Sarev returned the Blue Flag
+19-01-02 01:26:35 [CrasheR] q
+19-01-02 01:26:38 Mega Her'Tz returned the Red Flag
+19-01-02 01:26:38 Morcego Inxado. captured the Red Flag
+19-01-02 01:26:39 (1) Mago (BR) killed (2) T4 Sarev with Steyr AUG
+19-01-02 01:26:40 (1) cB.DrK killed (2) Morcego Inxado. with Grenade
+19-01-02 01:26:41 Mago (BR) captured the Blue Flag
+19-01-02 01:26:42 cB.DrK returned the Red Flag
+19-01-02 01:26:47 (2) Morcego Inxado. killed (1) Mago (BR) with Grenade
+19-01-02 01:26:48 Morcego Inxado. returned the Blue Flag
+19-01-02 01:26:48 [Mago (BR)] No!
+19-01-02 01:26:48 [Morcego Inxado.] Yeah
+19-01-02 01:26:48 CrasheR captured the Red Flag
+19-01-02 01:26:50 (1) cB.DrK killed (2) T4 Sarev with Spas-12
+19-01-02 01:26:50 (2) Morcego Inxado. killed (1) cB.DrK with Combat Knife
+19-01-02 01:26:53 (2) Morcego Inxado. killed (1) Mega Her'Tz with Steyr AUG
+19-01-02 01:26:54 [Morcego Inxado.] Come'on!
+19-01-02 01:26:55 (RADIO)[CrasheR] Friendly flagger middle!
+19-01-02 01:26:55 [Morcego Inxado.] No!
+19-01-02 01:26:55 (1) Mega Her'Tz killed (2) CrasheR with Grenade
+19-01-02 01:26:56 (TEAM)[Morcego Inxado.] eiuaheiaueh
+19-01-02 01:26:57 (TEAM)[CrasheR] sahuashuaushas
+19-01-02 01:26:58 Mago (BR) captured the Blue Flag
+19-01-02 01:26:58 T4 Sarev captured the Red Flag
+19-01-02 01:27:02 (TEAM)[T4 Sarev] xDD
+19-01-02 01:27:04 (2) CrasheR killed (1) cB.DrK with Ak-74
+19-01-02 01:27:07 (2) Morcego Inxado. killed (1) Mago (BR) with Steyr AUG
+19-01-02 01:27:08 (1) Mega Her'Tz killed (2) Morcego Inxado. with HK MP5
+19-01-02 01:27:08 [Mago (BR)] Die!
+19-01-02 01:27:09 (1) cB.DrK killed (2) CrasheR with Spas-12
+19-01-02 01:27:09 (2) T4 Sarev killed (1) Mega Her'Tz with Barrett M82A1
+19-01-02 01:27:10 [CrasheR] a q
+19-01-02 01:27:14 Mago (BR) captured the Blue Flag
+19-01-02 01:27:15 (2) T4 Sarev killed (1) cB.DrK with Barrett M82A1
+19-01-02 01:27:21 (1) Mega Her'Tz killed (2) T4 Sarev with HK MP5
+19-01-02 01:27:22 Mega Her'Tz returned the Red Flag
+19-01-02 01:27:22 (2) CrasheR killed (1) Mago (BR) with Ak-74
+19-01-02 01:27:24 Morcego Inxado. returned the Blue Flag
+19-01-02 01:27:24 (2) CrasheR killed (1) cB.DrK with Ak-74
+19-01-02 01:27:26 Morcego Inxado. captured the Red Flag
+19-01-02 01:27:29 (2) T4 Sarev killed (1) Mega Her'Tz with Barrett M82A1
+19-01-02 01:27:29 (1) cB.DrK killed (2) CrasheR with Spas-12
+19-01-02 01:27:31 Mago (BR) captured the Blue Flag
+19-01-02 01:27:32 (1) cB.DrK killed (2) Morcego Inxado. with Spas-12
+19-01-02 01:27:33 (RADIO)[CrasheR] Friendly flagger down!
+19-01-02 01:27:33 (TEAM)[T4 Sarev] dude xDD
+19-01-02 01:27:34 (1) cB.DrK killed (2) T4 Sarev with Spas-12
+19-01-02 01:27:36 (TEAM)[Morcego Inxado.] D: sorry
+19-01-02 01:27:36 Mago (BR) returned the Red Flag
+19-01-02 01:27:38 (2) CrasheR killed (1) Mago (BR) with Ak-74
+19-01-02 01:27:39 (1) cB.DrK killed (2) CrasheR with Spas-12
+19-01-02 01:27:41 (2) T4 Sarev killed (1) cB.DrK with Barrett M82A1
+19-01-02 01:27:41 (RADIO)[CrasheR] Enemy flagger down!
+19-01-02 01:27:42 Morcego Inxado. captured the Red Flag
+19-01-02 01:27:46 T4 Sarev returned the Blue Flag
+19-01-02 01:27:46 (2) T4 Sarev killed (1) Mega Her'Tz with Barrett M82A1
+19-01-02 01:27:46 (2) CrasheR killed (1) Mago (BR) with Combat Knife
+19-01-02 01:27:47 [Mega Her'Tz] pqp
+19-01-02 01:27:48 Morcego Inxado. scores for Bravo Team
+19-01-02 01:27:51 cB.DrK captured the Blue Flag
+19-01-02 01:27:53 (1) Mago (BR) killed (2) CrasheR with Steyr AUG
+19-01-02 01:27:55 (1) Mega Her'Tz killed (2) T4 Sarev with HK MP5
+19-01-02 01:28:00 (1) Mago (BR) killed (2) Morcego Inxado. with Steyr AUG
+19-01-02 01:28:01 cB.DrK scores for Alpha Team
+19-01-02 01:28:01 (2) CrasheR killed (1) Mega Her'Tz with Ak-74
+19-01-02 01:28:03 (2) CrasheR killed (1) cB.DrK with Ak-74
+19-01-02 01:28:04 (2) CrasheR killed (1) Mago (BR) with Ak-74
+19-01-02 01:28:04 (1) Mago (BR) killed (2) CrasheR with Steyr AUG
+19-01-02 01:28:06 T4 Sarev captured the Red Flag
+19-01-02 01:28:07 (RADIO)[CrasheR] Friendly flagger down!
+19-01-02 01:28:09 (1) Mago (BR) killed (2) Morcego Inxado. with Grenade
+19-01-02 01:28:10 (2) CrasheR killed (1) Mago (BR) with Combat Knife
+19-01-02 01:28:12 (2) CrasheR killed (1) Mega Her'Tz with Ak-74
+19-01-02 01:28:17 (2) CrasheR killed (1) cB.DrK with Ak-74
+19-01-02 01:28:21 (1) Mega Her'Tz killed (2) Morcego Inxado. with HK MP5
+19-01-02 01:28:21 (2) Morcego Inxado. killed (1) Mega Her'Tz with Combat Knife
+19-01-02 01:28:22 (2) CrasheR killed (1) Mago (BR) with Ak-74
+19-01-02 01:28:23 T4 Sarev scores for Bravo Team
+19-01-02 01:28:27 (1) cB.DrK killed (2) CrasheR with Ruger 77
+19-01-02 01:28:28 [CrasheR] You're one ugly mother fu**er!
+19-01-02 01:28:29 (2) Morcego Inxado. killed (1) Mega Her'Tz with Steyr AUG
+19-01-02 01:28:31 Mago (BR) captured the Blue Flag
+19-01-02 01:28:31 Morcego Inxado. captured the Red Flag
+19-01-02 01:28:33 (1) cB.DrK killed (2) Morcego Inxado. with Ruger 77
+19-01-02 01:28:35 (RADIO)[Morcego Inxado.] Enemy flagger down!
+19-01-02 01:28:36 (2) T4 Sarev killed (1) cB.DrK with Barrett M82A1
+19-01-02 01:28:38 (1) Mega Her'Tz killed (2) T4 Sarev with FN Minimi
+19-01-02 01:28:39 Mago (BR) returned the Red Flag
+19-01-02 01:28:40 (2) Morcego Inxado. killed (1) Mega Her'Tz with Steyr AUG
+19-01-02 01:28:40 Mago (BR) scores for Alpha Team
+19-01-02 01:28:41 CrasheR captured the Red Flag
+19-01-02 01:28:41 (2) CrasheR killed (1) Mago (BR) with Ak-74
+19-01-02 01:28:43 (2) CrasheR killed (1) cB.DrK with Combat Knife
+19-01-02 01:28:45 (RADIO)[Morcego Inxado.] Friendly flagger down!
+19-01-02 01:28:45 (RADIO)[cB.DrK] Enemy flagger down!
+19-01-02 01:28:47 (2) T4 Sarev killed (1) Mega Her'Tz with Barrett M82A1
+19-01-02 01:28:49 CrasheR scores for Bravo Team
+19-01-02 01:28:50 (2) T4 Sarev killed (1) Mago (BR) with Grenade
+19-01-02 01:28:54 (1) cB.DrK killed (2) Morcego Inxado. with Ruger 77
+19-01-02 01:28:54 (2) T4 Sarev killed (1) Mega Her'Tz with Barrett M82A1
+19-01-02 01:28:55 (1) cB.DrK killed (2) CrasheR with Ruger 77
+19-01-02 01:28:55 T4 Sarev captured the Red Flag
+19-01-02 01:28:57 (TEAM)[CrasheR] base
+19-01-02 01:28:58 cB.DrK captured the Blue Flag
+19-01-02 01:29:00 (1) Mago (BR) killed (2) CrasheR with Steyr AUG
+19-01-02 01:29:00 (2) T4 Sarev killed (1) cB.DrK with Barrett M82A1
+19-01-02 01:29:02 T4 Sarev returned the Blue Flag
+19-01-02 01:29:03 (1) Mago (BR) killed (2) T4 Sarev with Steyr AUG
+19-01-02 01:29:04 Mago (BR) captured the Blue Flag
+19-01-02 01:29:06 Mega Her'Tz returned the Red Flag
+19-01-02 01:29:06 (1) Mago (BR) killed (2) Morcego Inxado. with Chainsaw
+19-01-02 01:29:07 (2) CrasheR killed (1) Mago (BR) with Grenade
+19-01-02 01:29:09 (1) cB.DrK killed (2) T4 Sarev with Grenade
+19-01-02 01:29:10 (2) CrasheR killed (1) Mega Her'Tz with Ak-74
+19-01-02 01:29:10 (1) Mega Her'Tz killed (2) CrasheR with Barrett M82A1
+19-01-02 01:29:12 cB.DrK captured the Blue Flag
+19-01-02 01:29:16 (2) Morcego Inxado. killed (1) cB.DrK with Grenade
+19-01-02 01:29:17 Mago (BR) captured the Blue Flag
+19-01-02 01:29:20 (2) CrasheR killed (1) Mago (BR) with Grenade
+19-01-02 01:29:20 (1) cB.DrK killed (2) Morcego Inxado. with Ruger 77
+19-01-02 01:29:22 [Morcego Inxado.] Return the flag!
+19-01-02 01:29:22 T4 Sarev captured the Red Flag
+19-01-02 01:29:23 cB.DrK captured the Blue Flag
+19-01-02 01:29:24 (2) T4 Sarev killed (1) cB.DrK with Barrett M82A1
+19-01-02 01:29:25 T4 Sarev returned the Blue Flag
+19-01-02 01:29:25 Mega Her'Tz captured the Blue Flag
+19-01-02 01:29:27 (1) Mega Her'Tz killed (2) Morcego Inxado. with Barrett M82A1
+19-01-02 01:29:28 (2) T4 Sarev killed (1) Mega Her'Tz with Barrett M82A1
+19-01-02 01:29:32 T4 Sarev returned the Blue Flag
+19-01-02 01:29:32 (1) Mago (BR) killed (2) CrasheR with Steyr AUG
+19-01-02 01:29:34 (2) Morcego Inxado. killed (1) Mago (BR) with Steyr AUG
+19-01-02 01:29:35 (2) Morcego Inxado. killed (1) cB.DrK with Steyr AUG
+19-01-02 01:29:35 [Morcego Inxado.] Come'on!
+19-01-02 01:29:36 (1) Mega Her'Tz killed (2) Morcego Inxado. with Grenade
+19-01-02 01:29:37 (1) Mega Her'Tz killed (2) T4 Sarev with Barrett M82A1
+19-01-02 01:29:38 (2) T4 Sarev killed (1) Mega Her'Tz with Barrett M82A1
+19-01-02 01:29:39 (TEAM)[Morcego Inxado.] Dx
+19-01-02 01:29:41 CrasheR captured the Red Flag
+19-01-02 01:29:43 (1) Mago (BR) killed (2) CrasheR with Steyr AUG
+19-01-02 01:29:44 (2) Morcego Inxado. killed (1) Mago (BR) with Grenade
+19-01-02 01:29:45 (TEAM)[CrasheR] welp
+19-01-02 01:29:47 cB.DrK returned the Red Flag
+19-01-02 01:29:47 (2) T4 Sarev killed (1) cB.DrK with Barrett M82A1
+19-01-02 01:29:49 Mega Her'Tz captured the Blue Flag
+19-01-02 01:29:50 (2) CrasheR killed (1) Mega Her'Tz with Grenade
+19-01-02 01:29:54 Time Left: 5 minutes
+19-01-02 01:29:55 (2) Morcego Inxado. killed (1) cB.DrK with Grenade
+19-01-02 01:30:00 (1) Mago (BR) killed (2) Morcego Inxado. with Steyr AUG
+19-01-02 01:30:00 (2) CrasheR killed (1) Mega Her'Tz with Combat Knife
+19-01-02 01:30:01 (2) T4 Sarev killed (1) cB.DrK with Grenade
+19-01-02 01:30:03 (2) T4 Sarev killed (1) Mago (BR) with Barrett M82A1
+19-01-02 01:30:05 T4 Sarev captured the Red Flag
+19-01-02 01:30:06 (1) cB.DrK killed (2) CrasheR with Ruger 77
+19-01-02 01:30:08 (RADIO)[CrasheR] Enemy spotted middle!
+19-01-02 01:30:08 (2) Morcego Inxado. killed (1) cB.DrK with Steyr AUG
+19-01-02 01:30:10 (RADIO)[cB.DrK] Enemy flagger down!
+19-01-02 01:30:11 Mega Her'Tz captured the Blue Flag
+19-01-02 01:30:11 (1) Mega Her'Tz killed (2) Morcego Inxado. with Barrett M82A1
+19-01-02 01:30:11 (2) Morcego Inxado. killed (1) Mega Her'Tz with Grenade
+19-01-02 01:30:13 Mago (BR) captured the Blue Flag
+19-01-02 01:30:15 (2) T4 Sarev killed (1) Mago (BR) with Combat Knife
+19-01-02 01:30:17 CrasheR returned the Blue Flag
+19-01-02 01:30:17 T4 Sarev scores for Bravo Team
+19-01-02 01:30:17 (1) cB.DrK killed (2) T4 Sarev with Ruger 77
+19-01-02 01:30:18 cB.DrK captured the Blue Flag
+19-01-02 01:30:19 (2) CrasheR killed (1) cB.DrK with Ak-74
+19-01-02 01:30:22 (1) Mago (BR) killed (2) CrasheR with Grenade
+19-01-02 01:30:24 (TEAM)[CrasheR] abse
+19-01-02 01:30:24 Mago (BR) captured the Blue Flag
+19-01-02 01:30:24 (TEAM)[CrasheR] weak
+19-01-02 01:30:26 (2) CrasheR killed (1) Mega Her'Tz with Ak-74
+19-01-02 01:30:26 (2) T4 Sarev killed (1) cB.DrK with Barrett M82A1
+19-01-02 01:30:29 (2) Morcego Inxado. killed (1) Mago (BR) with Steyr AUG
+19-01-02 01:30:29 T4 Sarev captured the Red Flag
+19-01-02 01:30:29 (1) Mago (BR) killed (2) Morcego Inxado. with Steyr AUG
+19-01-02 01:30:30 [Morcego Inxado.] Come'on!
+19-01-02 01:30:33 T4 Sarev returned the Blue Flag
+19-01-02 01:30:36 (1) Mega Her'Tz killed (2) Morcego Inxado. with Barrett M82A1
+19-01-02 01:30:36 (2) CrasheR killed (1) Mago (BR) with Combat Knife
+19-01-02 01:30:39 (2) T4 Sarev killed (1) cB.DrK with Barrett M82A1
+19-01-02 01:30:40 Mega Her'Tz captured the Blue Flag
+19-01-02 01:30:42 (1) Mago (BR) killed (2) CrasheR with Steyr AUG
+19-01-02 01:30:43 (2) T4 Sarev killed (1) Mega Her'Tz with Barrett M82A1
+19-01-02 01:30:44 T4 Sarev returned the Blue Flag
+19-01-02 01:30:46 (1) cB.DrK killed (2) Morcego Inxado. with Ruger 77
+19-01-02 01:30:47 (2) T4 Sarev killed (1) Mago (BR) with Barrett M82A1
+19-01-02 01:30:48 (2) CrasheR killed (1) cB.DrK with Grenade
+19-01-02 01:30:48 (1) cB.DrK killed (2) T4 Sarev with Ruger 77
+19-01-02 01:30:50 CrasheR captured the Red Flag
+19-01-02 01:30:50 CrasheR scores for Bravo Team
+19-01-02 01:30:52 (1) Mega Her'Tz killed (2) CrasheR with Barrett M82A1
+19-01-02 01:30:54 Time Left: 4 minutes
+19-01-02 01:30:54 Mega Her'Tz captured the Blue Flag
+19-01-02 01:30:56 (1) cB.DrK killed (2) Morcego Inxado. with Ruger 77
+19-01-02 01:30:57 (RADIO)[Morcego Inxado.] Enemy flagger down!
+19-01-02 01:30:59 Mago (BR) captured the Blue Flag
+19-01-02 01:31:00 (2) T4 Sarev killed (1) Mago (BR) with Barrett M82A1
+19-01-02 01:31:00 Mega Her'Tz captured the Blue Flag
+19-01-02 01:31:00 (2) CrasheR killed (1) Mega Her'Tz with Grenade
+19-01-02 01:31:00 (1) cB.DrK killed (2) CrasheR with Ruger 77
+19-01-02 01:31:02 T4 Sarev returned the Blue Flag
+19-01-02 01:31:02 [CrasheR] erei
+19-01-02 01:31:04 (1) cB.DrK killed (2) T4 Sarev with Combat Knife
+19-01-02 01:31:06 Morcego Inxado. captured the Red Flag
+19-01-02 01:31:08 (1) Mega Her'Tz killed (2) CrasheR with Barrett M82A1
+19-01-02 01:31:08 (2) Morcego Inxado. killed (1) cB.DrK with Steyr AUG
+19-01-02 01:31:09 Mago (BR) captured the Blue Flag
+19-01-02 01:31:14 (1) Mago (BR) killed (2) Morcego Inxado. with Steyr AUG
+19-01-02 01:31:14 Mega Her'Tz returned the Red Flag
+19-01-02 01:31:15 [Morcego Inxado.] No!
+19-01-02 01:31:15 (2) CrasheR killed (1) cB.DrK with Grenade
+19-01-02 01:31:17 (1) Mega Her'Tz killed (2) T4 Sarev with Chainsaw
+19-01-02 01:31:17 (2) T4 Sarev killed (1) Mega Her'Tz with Combat Knife
+19-01-02 01:31:18 (RADIO)[Morcego Inxado.] Enemy flagger down!
+19-01-02 01:31:19 CrasheR captured the Red Flag
+19-01-02 01:31:20 (2) CrasheR killed (1) Mago (BR) with Combat Knife
+19-01-02 01:31:22 (1) cB.DrK killed (2) CrasheR with Ruger 77
+19-01-02 01:31:23 cB.DrK captured the Blue Flag
+19-01-02 01:31:23 cB.DrK returned the Red Flag
+19-01-02 01:31:24 cB.DrK scores for Alpha Team
+19-01-02 01:31:25 Morcego Inxado. captured the Red Flag
+19-01-02 01:31:31 Morcego Inxado. scores for Bravo Team
+19-01-02 01:31:32 (2) T4 Sarev killed (1) Mago (BR) with Barrett M82A1
+19-01-02 01:31:34 (1) Mega Her'Tz killed (2) CrasheR with Chainsaw
+19-01-02 01:31:35 T4 Sarev captured the Red Flag
+19-01-02 01:31:35 [CrasheR] q
+19-01-02 01:31:35 (1) cB.DrK killed (2) Morcego Inxado. with Ruger 77
+19-01-02 01:31:36 cB.DrK captured the Blue Flag
+19-01-02 01:31:37 (RADIO)[Morcego Inxado.] Enemy flagger down!
+19-01-02 01:31:39 (2) CrasheR killed (1) Mega Her'Tz with Grenade
+19-01-02 01:31:41 (2) T4 Sarev killed (1) cB.DrK with Barrett M82A1
+19-01-02 01:31:41 [Mega Her'Tz] aushaus
+19-01-02 01:31:43 (2) Morcego Inxado. killed (1) Mago (BR) with Steyr AUG
+19-01-02 01:31:45 CrasheR returned the Blue Flag
+19-01-02 01:31:46 T4 Sarev scores for Bravo Team
+19-01-02 01:31:46 [Mago (BR)] time lixo
+19-01-02 01:31:47 Morcego Inxado. captured the Red Flag
+19-01-02 01:31:48 (2) T4 Sarev killed (1) Mega Her'Tz with Barrett M82A1
+19-01-02 01:31:49 (1) cB.DrK killed (2) T4 Sarev with Ruger 77
+19-01-02 01:31:52 cB.DrK captured the Blue Flag
+19-01-02 01:31:54 Time Left: 3 minutes
+19-01-02 01:31:56 (2) CrasheR killed (1) cB.DrK with Ak-74
+19-01-02 01:31:57 (1) cB.DrK killed (2) CrasheR with Ruger 77
+19-01-02 01:31:59 Mago (BR) returned the Red Flag
+19-01-02 01:31:59 (2) T4 Sarev killed (1) Mago (BR) with Barrett M82A1
+19-01-02 01:32:01 Mega Her'Tz captured the Blue Flag
+19-01-02 01:32:03 T4 Sarev captured the Red Flag
+19-01-02 01:32:04 (1) cB.DrK killed (2) Morcego Inxado. with Ruger 77
+19-01-02 01:32:04 (RADIO)[Morcego Inxado.] Enemy flagger up!
+19-01-02 01:32:05 (2) CrasheR killed (1) cB.DrK with Combat Knife
+19-01-02 01:32:06 (1) Mega Her'Tz killed (2) CrasheR with Barrett M82A1
+19-01-02 01:32:08 (1) Mago (BR) killed (2) T4 Sarev with Steyr AUG
+19-01-02 01:32:12 Mago (BR) returned the Red Flag
+19-01-02 01:32:14 [Morcego Inxado.] eai9uehaieh
+19-01-02 01:32:16 Mega Her'Tz scores for Alpha Team
+19-01-02 01:32:16 (1) cB.DrK killed (2) CrasheR with Ruger 77
+19-01-02 01:32:17 (2) T4 Sarev killed (1) Mega Her'Tz with Barrett M82A1
+19-01-02 01:32:19 (2) T4 Sarev killed (1) Mago (BR) with Grenade
+19-01-02 01:32:19 T4 Sarev captured the Red Flag
+19-01-02 01:32:19 (2) Morcego Inxado. killed (1) cB.DrK with Grenade
+19-01-02 01:32:22 (RADIO)[Morcego Inxado.] Friendly flagger down!
+19-01-02 01:32:22 [Mega Her'Tz] q foi issot
+19-01-02 01:32:23 [Mega Her'Tz] KKKKKKK
+19-01-02 01:32:24 (2) CrasheR killed (1) Mega Her'Tz with Grenade
+19-01-02 01:32:24 (1) cB.DrK killed (2) CrasheR with Ruger 77
+19-01-02 01:32:26 Next map: Lobby
+19-01-02 01:32:26 T4 Sarev scores for Bravo Team
+19-01-02 01:32:30 [De@d] Hurraaaa!!!
+19-01-02 01:32:31 [CrasheR] vboa
+19-01-02 01:32:31 (TEAM)[T4 Sarev] gg
+19-01-02 01:32:32 Lothic - Gothic Lobby Room
+19-01-02 01:32:37 (TEAM)[Morcego Inxado.] wow you are good
+19-01-02 01:32:39 [Mago (BR)] map
+19-01-02 01:32:48 (TEAM)[cB.DrK] serra como secundária só funciona em público
+19-01-02 01:32:50 (TEAM)[cB.DrK] primeira dica
+19-01-02 01:32:54 [De@d] kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+19-01-02 01:33:00 (TEAM)[Mago (BR)] n usei
+19-01-02 01:33:04 [Morcego Inxado.] @crasheR
+19-01-02 01:33:06 (TEAM)[Mago (BR)] entao n tem como saber
+19-01-02 01:33:07 (TEAM)[Mago (BR)] kkk
+19-01-02 01:33:10 [CrasheR] ?
+19-01-02 01:33:10 (TEAM)[cB.DrK] é, eu vi
+19-01-02 01:33:12 [Mega Her'Tz] escolhe logo
+19-01-02 01:33:16 (TEAM)[CrasheR] rot?
+19-01-02 01:33:16 [De@d] kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+19-01-02 01:33:19 (TEAM)[Morcego Inxado.] ya ok
+19-01-02 01:33:19 (TEAM)[Mago (BR)] vou usar nessa c vai ver
+19-01-02 01:33:20 (TEAM)[T4 Sarev] sure
+19-01-02 01:33:23 (TEAM)[T4 Sarev] si
+19-01-02 01:33:24 (TEAM)[Mago (BR)] vou ter maior frag do mapa
+19-01-02 01:33:25 (TEAM)[T4 Sarev]  senior
+19-01-02 01:33:27 (TEAM)[cB.DrK] hmm
+19-01-02 01:33:27 [CrasheR] !map ctf_rotten
+19-01-02 01:33:28 (TEAM)[T4 Sarev] buena suerte
+19-01-02 01:33:31 (TEAM)[cB.DrK] boa sorte
+19-01-02 01:33:31 (TEAM)[Morcego Inxado.] lol nice
+19-01-02 01:33:32 (TEAM)[CrasheR] boa sorte
+19-01-02 01:33:33 (TEAM)[Mago (BR)] s2
+19-01-02 01:33:33 Rotten by Biggles
+19-01-02 01:33:36 [Morcego Inxado.] gg 
+19-01-02 01:33:39 (1) cB.DrK killed (2) T4 Sarev with Grenade
+19-01-02 01:33:40 (1) cB.DrK killed (2) Morcego Inxado. with Ruger 77
+19-01-02 01:33:41 (RADIO)[Morcego Inxado.] Enemy spotted up!
+19-01-02 01:33:41 (2) CrasheR killed (1) Mago (BR) with Barrett M82A1
+19-01-02 01:33:43 cB.DrK captured the Blue Flag
+19-01-02 01:33:44 (2) CrasheR killed (1) Mega Her'Tz with Combat Knife
+19-01-02 01:33:45 [Mago (BR)] !rr?
+19-01-02 01:33:46 (2) Morcego Inxado. killed (1) cB.DrK with Steyr AUG
+19-01-02 01:33:48 CrasheR captured the Red Flag
+19-01-02 01:33:49 (2) CrasheR killed (1) Mago (BR) with Barrett M82A1
+19-01-02 01:33:51 (1) cB.DrK killed (2) Morcego Inxado. with Grenade
+19-01-02 01:33:52 [Mago (BR)] !rr
+19-01-02 01:33:52 (1) cB.DrK killed (2) T4 Sarev with Ruger 77
+19-01-02 01:33:52 cB.DrK captured the Blue Flag
+19-01-02 01:33:54 [Mago (BR)] !r
+19-01-02 01:33:54 Restarting...
+19-01-02 01:33:59 Rotten by Biggles
+19-01-02 01:34:05 (2) Morcego Inxado. killed (1) cB.DrK with Steyr AUG
+19-01-02 01:34:08 Mago (BR) captured the Blue Flag
+19-01-02 01:34:09 Morcego Inxado. captured the Red Flag
+19-01-02 01:34:11 (1) cB.DrK killed (2) CrasheR with Ruger 77
+19-01-02 01:34:12 (1) cB.DrK killed (2) T4 Sarev with Ruger 77
+19-01-02 01:34:12 (1) Mago (BR) killed (2) Morcego Inxado. with Grenade
+19-01-02 01:34:14 (RADIO)[Morcego Inxado.] Enemy flagger up!
+19-01-02 01:34:15 (RADIO)[CrasheR] Enemy flagger up!
+19-01-02 01:34:15 Mago (BR) returned the Red Flag
+19-01-02 01:34:19 (1) cB.DrK killed (2) T4 Sarev with Ruger 77
+19-01-02 01:34:20 (2) CrasheR killed (1) Mago (BR) with Barrett M82A1
+19-01-02 01:34:21 (1) cB.DrK killed (2) Morcego Inxado. with Ruger 77
+19-01-02 01:34:24 CrasheR captured the Red Flag
+19-01-02 01:34:24 CrasheR returned the Blue Flag
+19-01-02 01:34:24 [Morcego Inxado.] Yeah
+19-01-02 01:34:24 Mega Her'Tz captured the Blue Flag
+19-01-02 01:34:27 (1) cB.DrK killed (2) CrasheR with Ruger 77
+19-01-02 01:34:28 [De@d] Hurraaaa!!!
+19-01-02 01:34:28 (RADIO)[CrasheR] Friendly flagger up!
+19-01-02 01:34:29 (2) Morcego Inxado. killed (1) Mega Her'Tz with Combat Knife
+19-01-02 01:34:30 [De@d] Die!
+19-01-02 01:34:30 [De@d] Hurraaaa!!!
+19-01-02 01:34:31 cB.DrK returned the Red Flag
+19-01-02 01:34:31 (2) T4 Sarev killed (1) cB.DrK with Barrett M82A1
+19-01-02 01:34:31 (2) T4 Sarev killed (1) Mago (BR) with Barrett M82A1
+19-01-02 01:34:38 Morcego Inxado. returned the Blue Flag
+19-01-02 01:34:38 CrasheR captured the Red Flag
+19-01-02 01:34:41 (1) Mago (BR) killed (2) CrasheR with Barrett M82A1
+19-01-02 01:34:43 (2) T4 Sarev killed (1) cB.DrK with Barrett M82A1
+19-01-02 01:34:43 T4 Sarev captured the Red Flag
+19-01-02 01:34:44 (2) T4 Sarev killed (1) Mega Her'Tz with Combat Knife
+19-01-02 01:34:44 (RADIO)[CrasheR] Friendly flagger down!
+19-01-02 01:34:48 (2) CrasheR killed (1) Mago (BR) with Grenade
+19-01-02 01:34:50 T4 Sarev scores for Bravo Team
+19-01-02 01:34:52 Morcego Inxado. captured the Red Flag
+19-01-02 01:34:53 (1) cB.DrK killed (2) Morcego Inxado. with Ruger 77
+19-01-02 01:34:54 (2) T4 Sarev killed (1) Mega Her'Tz with Barrett M82A1
+19-01-02 01:34:57 Mago (BR) returned the Red Flag
+19-01-02 01:34:58 (1) cB.DrK killed (2) T4 Sarev with Ruger 77
+19-01-02 01:35:00 (2) Morcego Inxado. killed (1) cB.DrK with Grenade
+19-01-02 01:35:03 (2) CrasheR killed (1) Mega Her'Tz with Combat Knife
+19-01-02 01:35:05 CrasheR captured the Red Flag
+19-01-02 01:35:06 Morcego Inxado. captured the Red Flag
+19-01-02 01:35:07 (1) cB.DrK killed (2) CrasheR with Ruger 77
+19-01-02 01:35:07 Mago (BR) captured the Blue Flag
+19-01-02 01:35:08 (2) T4 Sarev killed (1) Mago (BR) with Barrett M82A1
+19-01-02 01:35:09 (2) Morcego Inxado. killed (1) cB.DrK with Steyr AUG
+19-01-02 01:35:14 (2) CrasheR killed (1) Mega Her'Tz with Barrett M82A1
+19-01-02 01:35:14 (2) CrasheR killed (1) Mago (BR) with Barrett M82A1
+19-01-02 01:35:16 Morcego Inxado. scores for Bravo Team
+19-01-02 01:35:18 (2) T4 Sarev killed (1) cB.DrK with Barrett M82A1
+19-01-02 01:35:20 CrasheR captured the Red Flag
+19-01-02 01:35:23 (1) Mega Her'Tz killed (2) CrasheR with Combat Knife
+19-01-02 01:35:25 (2) T4 Sarev killed (1) Mago (BR) with Combat Knife
+19-01-02 01:35:26 (1) cB.DrK killed (2) T4 Sarev with Grenade
+19-01-02 01:35:27 Mega Her'Tz returned the Red Flag
+19-01-02 01:35:31 (2) Morcego Inxado. killed (1) cB.DrK with Steyr AUG
+19-01-02 01:35:32 Morcego Inxado. captured the Red Flag
+19-01-02 01:35:35 (1) Mago (BR) killed (2) Morcego Inxado. with Combat Knife
+19-01-02 01:35:36 cB.DrK returned the Red Flag
+19-01-02 01:35:37 (1) cB.DrK killed (2) CrasheR with Ruger 77
+19-01-02 01:35:37 (2) T4 Sarev killed (1) Mega Her'Tz with Barrett M82A1
+19-01-02 01:35:38 [CrasheR] oq
+19-01-02 01:35:42 cB.DrK captured the Blue Flag
+19-01-02 01:35:44 (1) cB.DrK killed (2) Morcego Inxado. with Ruger 77
+19-01-02 01:35:45 (1) Mago (BR) killed (2) CrasheR with Steyr AUG
+19-01-02 01:35:45 T4 Sarev captured the Red Flag
+19-01-02 01:35:46 (RADIO)[Morcego Inxado.] Enemy flagger up!
+19-01-02 01:35:50 (RADIO)[cB.DrK] Enemy flagger down!
+19-01-02 01:35:53 (2) Morcego Inxado. killed (1) Mago (BR) with Steyr AUG
+19-01-02 01:35:53 (2) T4 Sarev killed (1) cB.DrK with Barrett M82A1
+19-01-02 01:35:56 Mega Her'Tz captured the Blue Flag
+19-01-02 01:35:56 (2) Morcego Inxado. killed (1) Mega Her'Tz with Combat Knife
+19-01-02 01:35:57 Morcego Inxado. returned the Blue Flag
+19-01-02 01:35:58 [Morcego Inxado.] Yeah
+19-01-02 01:35:59 T4 Sarev scores for Bravo Team
+19-01-02 01:36:00 (2) CrasheR killed (1) cB.DrK with Barrett M82A1
+19-01-02 01:36:02 (RADIO)[Morcego Inxado.] Enemy spotted down!
+19-01-02 01:36:03 (2) T4 Sarev killed (1) Mago (BR) with Barrett M82A1
+19-01-02 01:36:04 (2) CrasheR killed (1) Mega Her'Tz with Barrett M82A1
+19-01-02 01:36:04 (1) Mago (BR) killed (2) T4 Sarev with Grenade
+19-01-02 01:36:06 CrasheR captured the Red Flag
+19-01-02 01:36:08 (1) cB.DrK killed (2) CrasheR with Ruger 77
+19-01-02 01:36:10 (2) Morcego Inxado. killed (1) Mago (BR) with Grenade
+19-01-02 01:36:10 (1) Mago (BR) killed (2) Morcego Inxado. with Steyr AUG
+19-01-02 01:36:12 cB.DrK returned the Red Flag
+19-01-02 01:36:15 (1) cB.DrK killed (2) T4 Sarev with Ruger 77
+19-01-02 01:36:15 (2) T4 Sarev killed (1) cB.DrK with Combat Knife
+19-01-02 01:36:17 (TEAM)[T4 Sarev] INCOMING UP
+19-01-02 01:36:19 (2) CrasheR killed (1) Mega Her'Tz with Barrett M82A1
+19-01-02 01:36:21 (2) Morcego Inxado. killed (1) Mago (BR) with Steyr AUG
+19-01-02 01:36:23 (2) T4 Sarev killed (1) cB.DrK with Barrett M82A1
+19-01-02 01:36:26 T4 Sarev captured the Red Flag
+19-01-02 01:36:27 (2) Morcego Inxado. killed (1) Mega Her'Tz with Steyr AUG
+19-01-02 01:36:27 (2) T4 Sarev killed (1) Mago (BR) with Barrett M82A1
+19-01-02 01:36:29 (2) Morcego Inxado. killed (1) cB.DrK with Combat Knife
+19-01-02 01:36:32 (2) CrasheR killed (1) Mega Her'Tz with Barrett M82A1
+19-01-02 01:36:33 T4 Sarev scores for Bravo Team
+19-01-02 01:36:35 CrasheR captured the Red Flag
+19-01-02 01:36:36 (2) Morcego Inxado. killed (1) Mago (BR) with Combat Knife
+19-01-02 01:36:38 [Morcego Inxado.] Yeah
+19-01-02 01:36:43 (2) CrasheR killed (1) Mago (BR) with Barrett M82A1
+19-01-02 01:36:43 (2) Morcego Inxado. killed (1) cB.DrK with Grenade
+19-01-02 01:36:45 (2) Morcego Inxado. killed (1) Mega Her'Tz with Grenade
+19-01-02 01:36:45 [Morcego Inxado.] Come'on!
+19-01-02 01:36:47 CrasheR scores for Bravo Team
+19-01-02 01:36:47 T4 Sarev captured the Red Flag
+19-01-02 01:36:47 (1) cB.DrK killed (2) T4 Sarev with Grenade
+19-01-02 01:36:52 (1) cB.DrK killed (2) Morcego Inxado. with Ruger 77
+19-01-02 01:36:52 Mago (BR) captured the Blue Flag
+19-01-02 01:36:53 (RADIO)[Morcego Inxado.] Enemy spotted up!
+19-01-02 01:36:53 (2) CrasheR killed (1) Mago (BR) with Barrett M82A1
+19-01-02 01:36:54 T4 Sarev returned the Blue Flag
+19-01-02 01:36:57 (2) T4 Sarev killed (1) Mega Her'Tz with Barrett M82A1
+19-01-02 01:37:01 Morcego Inxado. captured the Red Flag
+19-01-02 01:37:02 (2) CrasheR killed (1) cB.DrK with Grenade
+19-01-02 01:37:04 (2) Morcego Inxado. killed (1) Mega Her'Tz with Combat Knife
+19-01-02 01:37:08 (2) CrasheR killed (1) Mega Her'Tz with Grenade
+19-01-02 01:37:08 (2) CrasheR killed (1) cB.DrK with Barrett M82A1
+19-01-02 01:37:09 Mago (BR) captured the Blue Flag
+19-01-02 01:37:10 (2) Morcego Inxado. killed (1) Mago (BR) with Steyr AUG
+19-01-02 01:37:12 Morcego Inxado. returned the Blue Flag
+19-01-02 01:37:12 Morcego Inxado. scores for Bravo Team
+19-01-02 01:37:12 CrasheR captured the Red Flag
+19-01-02 01:37:15 (2) T4 Sarev killed (1) cB.DrK with Barrett M82A1
+19-01-02 01:37:16 [Morcego Inxado.] caralho eiauheiahe
+19-01-02 01:37:19 (1) Mega Her'Tz killed (2) Morcego Inxado. with M79
+19-01-02 01:37:21 (2) T4 Sarev killed (1) Mega Her'Tz with Grenade
+19-01-02 01:37:21 CrasheR scores for Bravo Team
+19-01-02 01:37:23 Mago (BR) captured the Blue Flag
+19-01-02 01:37:24 (2) Morcego Inxado. killed (1) Mago (BR) with Grenade
+19-01-02 01:37:25 (1) cB.DrK killed (2) T4 Sarev with Ruger 77
+19-01-02 01:37:26 cB.DrK captured the Blue Flag
+19-01-02 01:37:29 Morcego Inxado. returned the Blue Flag
+19-01-02 01:37:29 (2) CrasheR killed (1) Mega Her'Tz with Barrett M82A1
+19-01-02 01:37:31 (1) cB.DrK killed (2) Morcego Inxado. with Ruger 77
+19-01-02 01:37:33 (RADIO)[Morcego Inxado.] Enemy spotted up!
+19-01-02 01:37:33 CrasheR captured the Red Flag
+19-01-02 01:37:34 cB.DrK captured the Blue Flag
+19-01-02 01:37:35 (2) CrasheR killed (1) Mega Her'Tz with Barrett M82A1
+19-01-02 01:37:35 (1) Mago (BR) killed (2) Morcego Inxado. with Steyr AUG
+19-01-02 01:37:37 cB.DrK captured the Blue Flag
+19-01-02 01:37:39 (2) CrasheR killed (1) cB.DrK with Barrett M82A1
+19-01-02 01:37:39 (1) cB.DrK killed (2) CrasheR with Ruger 77
+19-01-02 01:37:39 Mago (BR) returned the Red Flag
+19-01-02 01:37:42 (TEAM)[CrasheR] mano to ruindo mt
+19-01-02 01:37:43 (2) T4 Sarev killed (1) Mega Her'Tz with Barrett M82A1
+19-01-02 01:37:43 (TEAM)[CrasheR] huashuasush
+19-01-02 01:37:44 T4 Sarev returned the Blue Flag
+19-01-02 01:37:45 Mago (BR) captured the Blue Flag
+19-01-02 01:37:45 Morcego Inxado. captured the Red Flag
+19-01-02 01:37:46 (2) Morcego Inxado. killed (1) cB.DrK with Steyr AUG
+19-01-02 01:37:50 (2) T4 Sarev killed (1) cB.DrK with Barrett M82A1
+19-01-02 01:37:50 (1) Mago (BR) killed (2) T4 Sarev with Steyr AUG
+19-01-02 01:37:53 [CrasheR] !p
+19-01-02 01:37:53 Pausing...
+19-01-02 01:37:55 [CrasheR] mega afk
+19-01-02 01:37:57 [Mega Her'Tz] to aq
+19-01-02 01:37:59 [Mega Her'Tz] clama ae
+19-01-02 01:38:00 [CrasheR] lol
+19-01-02 01:38:00 [Morcego Inxado.] euahueahe
+19-01-02 01:38:01 [CrasheR] ashuahus
+19-01-02 01:38:06 [Mega Her'Tz] tava coçando o ovo
+19-01-02 01:38:07 71.120.238.198 added to Game Admins via Request Password
+19-01-02 01:38:07 71.120.238.198:23073|740CB07E6F1 requesting game...
+19-01-02 01:38:08 [Mega Her'Tz] !up
+19-01-02 01:38:09 Unpausing in: 3
+19-01-02 01:38:09 D$SH joining game (71.120.238.198:23073) HWID:740CB07E6F1
+19-01-02 01:38:09 D$SH has joined as spectator.
+19-01-02 01:38:10 Unpausing in: 2
+19-01-02 01:38:11 Unpausing in: 1
+19-01-02 01:38:11 [Morcego Inxado.] Return the flag!
+19-01-02 01:38:12 Go!
+19-01-02 01:38:13 (2) CrasheR killed (1) Mega Her'Tz with Grenade
+19-01-02 01:38:14 [D$SH] FRIENDS
+19-01-02 01:38:14 (2) CrasheR killed (1) Mago (BR) with Barrett M82A1
+19-01-02 01:38:17 CrasheR returned the Blue Flag
+19-01-02 01:38:17 [Morcego Inxado.] supdash
+19-01-02 01:38:18 [D$SH] who is adding next
+19-01-02 01:38:19 Morcego Inxado. scores for Bravo Team
+19-01-02 01:38:19 (2) CrasheR killed (1) cB.DrK with Grenade
+19-01-02 01:38:19 [Morcego Inxado.] supdash
+19-01-02 01:38:20 (2) T4 Sarev killed (1) Mago (BR) with Barrett M82A1
+19-01-02 01:38:21 (1) Mega Her'Tz killed (2) T4 Sarev with Grenade
+19-01-02 01:38:23 (1) cB.DrK killed (2) CrasheR with Ruger 77
+19-01-02 01:38:24 [T4 Sarev] me
+19-01-02 01:38:25 (2) Morcego Inxado. killed (1) Mega Her'Tz with Steyr AUG
+19-01-02 01:38:25 Morcego Inxado. captured the Red Flag
+19-01-02 01:38:26 (1) cB.DrK killed (2) Morcego Inxado. with Ruger 77
+19-01-02 01:38:30 (2) T4 Sarev killed (1) Mega Her'Tz with Barrett M82A1
+19-01-02 01:38:32 [D$SH] sounds great
+19-01-02 01:38:35 (2) CrasheR killed (1) cB.DrK with Grenade
+19-01-02 01:38:36 (1) Mega Her'Tz killed (2) CrasheR with Grenade
+19-01-02 01:38:37 (2) T4 Sarev killed (1) Mega Her'Tz with Barrett M82A1
+19-01-02 01:38:38 Morcego Inxado. captured the Red Flag
+19-01-02 01:38:41 (1) Mago (BR) killed (2) Morcego Inxado. with Steyr AUG
+19-01-02 01:38:42 (2) T4 Sarev killed (1) Mago (BR) with Barrett M82A1
+19-01-02 01:38:43 (RADIO)[Morcego Inxado.] Friendly flagger middle!
+19-01-02 01:38:44 (1) cB.DrK killed (2) T4 Sarev with Ruger 77
+19-01-02 01:38:46 (2) CrasheR killed (1) Mega Her'Tz with Combat Knife
+19-01-02 01:38:46 cB.DrK returned the Red Flag
+19-01-02 01:38:54 CrasheR captured the Red Flag
+19-01-02 01:38:57 (2) Morcego Inxado. killed (1) Mega Her'Tz with Steyr AUG
+19-01-02 01:38:57 (1) Mago (BR) killed (2) Morcego Inxado. with Steyr AUG
+19-01-02 01:38:58 (RADIO)[Morcego Inxado.] Friendly flagger middle!
+19-01-02 01:38:59 (1) cB.DrK killed (2) T4 Sarev with Ruger 77
+19-01-02 01:38:59 cB.DrK captured the Blue Flag
+19-01-02 01:39:00 (TEAM)[T4 Sarev] Enemy Flagger UP!
+19-01-02 01:39:02 (2) CrasheR killed (1) cB.DrK with Barrett M82A1
+19-01-02 01:39:04 CrasheR returned the Blue Flag
+19-01-02 01:39:06 (2) T4 Sarev killed (1) Mago (BR) with Grenade
+19-01-02 01:39:07 [Morcego Inxado.] Come'on!
+19-01-02 01:39:09 (2) CrasheR killed (1) Mega Her'Tz with Barrett M82A1
+19-01-02 01:39:09 CrasheR scores for Bravo Team
+19-01-02 01:39:12 [Mega Her'Tz] cara
+19-01-02 01:39:14 (1) cB.DrK killed (2) CrasheR with Ruger 77
+19-01-02 01:39:14 (2) CrasheR killed (1) cB.DrK with Barrett M82A1
+19-01-02 01:39:16 [Mega Her'Tz] pior q todo mundo la no cnaal
+19-01-02 01:39:16 Mago (BR) captured the Blue Flag
+19-01-02 01:39:17 (2) T4 Sarev killed (1) Mago (BR) with Barrett M82A1
+19-01-02 01:39:17 Morcego Inxado. captured the Red Flag
+19-01-02 01:39:18 Time Left: 5 minutes
+19-01-02 01:39:18 [Mega Her'Tz] ver meu frag
+19-01-02 01:39:19 [Mega Her'Tz] olha isso
+19-01-02 01:39:20 (1) cB.DrK killed (2) Morcego Inxado. with Ruger 77
+19-01-02 01:39:20 [CrasheR] asuhuas
+19-01-02 01:39:23 [Morcego Inxado.] eaiuheaiuahieh
+19-01-02 01:39:24 (2) CrasheR killed (1) cB.DrK with Barrett M82A1
+19-01-02 01:39:24 CrasheR captured the Red Flag
+19-01-02 01:39:26 Mega Her'Tz captured the Blue Flag
+19-01-02 01:39:29 (2) Morcego Inxado. killed (1) Mega Her'Tz with Steyr AUG
+19-01-02 01:39:30 (2) CrasheR killed (1) Mago (BR) with Combat Knife
+19-01-02 01:39:30 T4 Sarev returned the Blue Flag
+19-01-02 01:39:31 Next map: Lobby
+19-01-02 01:39:31 CrasheR scores for Bravo Team
+19-01-02 01:39:33 [CrasheR] tacontece emga
+19-01-02 01:39:33 [Morcego Inxado.] caralho
+19-01-02 01:39:35 T4 Sarev has left bravo team.
+19-01-02 01:39:35 cB.DrK has left alpha team.
+19-01-02 01:39:36 Lothic - Gothic Lobby Room
+19-01-02 01:39:36 CrasheR has left bravo team.
+19-01-02 01:39:37 [Mago (BR)] toma nos cu
+19-01-02 01:39:39 [Mago (BR)] kkk
+19-01-02 01:39:40 [Morcego Inxado.] KKKKKKKKKKKKKKKK
+19-01-02 01:39:42 Morcego Inxado. has left bravo team.
+19-01-02 01:39:43 Mago (BR) has left alpha team.
+19-01-02 01:39:46 Mega Her'Tz has left alpha team.
+19-01-02 01:39:48 De@d has left spectators
+19-01-02 01:40:48 D$SH has left spectators
+19-01-02 01:44:36 Time Left: 5 minutes
+19-01-02 01:45:36 Time Left: 4 minutes
+19-01-02 01:46:36 Time Left: 3 minutes
+19-01-02 01:47:36 Time Left: 2 minutes
+19-01-02 01:48:36 Time Left: 1 minutes
+19-01-02 01:49:36 Next map: Lobby
+19-01-02 01:49:42 Lothic - Gothic Lobby Room
+19-01-02 01:54:42 Time Left: 5 minutes
+19-01-02 01:55:42 Time Left: 4 minutes
+19-01-02 01:56:42 Time Left: 3 minutes
+19-01-02 01:57:42 Time Left: 2 minutes
+19-01-02 01:58:42 Time Left: 1 minutes
+19-01-02 01:59:41 Next map: Lobby
+19-01-02 01:59:47 Lothic - Gothic Lobby Room
+19-01-02 02:04:47 Time Left: 5 minutes
+19-01-02 02:05:47 Time Left: 4 minutes
+19-01-02 02:06:47 Time Left: 3 minutes
+19-01-02 02:07:47 Time Left: 2 minutes
+19-01-02 02:08:47 Time Left: 1 minutes
+19-01-02 02:09:47 Next map: Lobby
+19-01-02 02:09:52 Lothic - Gothic Lobby Room
+19-01-02 02:14:52 Time Left: 5 minutes
+19-01-02 02:15:52 Time Left: 4 minutes
+19-01-02 02:16:52 Time Left: 3 minutes
+19-01-02 02:17:52 Time Left: 2 minutes
+19-01-02 02:18:52 Time Left: 1 minutes
+19-01-02 02:19:52 Next map: Lobby
+19-01-02 02:19:57 Lothic - Gothic Lobby Room
+19-01-02 02:24:57 Time Left: 5 minutes
+19-01-02 02:25:57 Time Left: 4 minutes
+19-01-02 02:26:57 Time Left: 3 minutes
+19-01-02 02:27:57 Time Left: 2 minutes
+19-01-02 02:28:57 Time Left: 1 minutes
+19-01-02 02:29:57 Next map: Lobby
+19-01-02 02:30:03 Lothic - Gothic Lobby Room
+19-01-02 02:35:03 Time Left: 5 minutes
+19-01-02 02:36:03 Time Left: 4 minutes
+19-01-02 02:37:03 Time Left: 3 minutes
+19-01-02 02:38:03 Time Left: 2 minutes
+19-01-02 02:39:03 Time Left: 1 minutes
+19-01-02 02:40:03 Next map: Lobby
+19-01-02 02:40:08 Lothic - Gothic Lobby Room
+19-01-02 02:45:08 Time Left: 5 minutes
+19-01-02 02:46:08 Time Left: 4 minutes
+19-01-02 02:47:08 Time Left: 3 minutes
+19-01-02 02:48:08 Time Left: 2 minutes
+19-01-02 02:49:08 Time Left: 1 minutes
+19-01-02 02:50:08 Next map: Lobby
+19-01-02 02:50:13 Lothic - Gothic Lobby Room
+19-01-02 02:55:13 Time Left: 5 minutes
+19-01-02 02:56:13 Time Left: 4 minutes
+19-01-02 02:57:13 Time Left: 3 minutes
+19-01-02 02:58:13 Time Left: 2 minutes
+19-01-02 02:59:13 Time Left: 1 minutes
+19-01-02 03:00:13 Next map: Lobby
+19-01-02 03:00:19 Lothic - Gothic Lobby Room
+19-01-02 03:05:19 Time Left: 5 minutes
+19-01-02 03:06:19 Time Left: 4 minutes
+19-01-02 03:07:19 Time Left: 3 minutes
+19-01-02 03:08:19 Time Left: 2 minutes
+19-01-02 03:09:19 Time Left: 1 minutes
+19-01-02 03:10:19 Next map: Lobby
+19-01-02 03:10:24 Lothic - Gothic Lobby Room
+19-01-02 03:15:24 Time Left: 5 minutes
+19-01-02 03:16:24 Time Left: 4 minutes
+19-01-02 03:17:24 Time Left: 3 minutes
+19-01-02 03:18:24 Time Left: 2 minutes
+19-01-02 03:19:24 Time Left: 1 minutes
+19-01-02 03:20:24 Next map: Lobby
+19-01-02 03:20:29 Lothic - Gothic Lobby Room
+19-01-02 03:23:38 177.99.129.231:23073|4D93886F25E requesting game...
+19-01-02 03:25:29 Time Left: 5 minutes
+19-01-02 03:26:29 Time Left: 4 minutes
+19-01-02 03:27:29 Time Left: 3 minutes
+19-01-02 03:28:29 Time Left: 2 minutes
+19-01-02 03:29:29 Time Left: 1 minutes
+19-01-02 03:30:29 Next map: Lobby
+19-01-02 03:30:35 Lothic - Gothic Lobby Room
+19-01-02 03:35:35 Time Left: 5 minutes
+19-01-02 03:36:35 Time Left: 4 minutes
+19-01-02 03:37:35 Time Left: 3 minutes
+19-01-02 03:38:35 Time Left: 2 minutes
+19-01-02 03:39:35 Time Left: 1 minutes
+19-01-02 03:40:35 Next map: Lobby
+19-01-02 03:40:40 Lothic - Gothic Lobby Room
+19-01-02 03:45:40 Time Left: 5 minutes
+19-01-02 03:46:40 Time Left: 4 minutes
+19-01-02 03:47:40 Time Left: 3 minutes
+19-01-02 03:48:40 Time Left: 2 minutes
+19-01-02 03:49:40 Time Left: 1 minutes
+19-01-02 03:50:40 Next map: Lobby
+19-01-02 03:50:45 Lothic - Gothic Lobby Room
+19-01-02 03:55:45 Time Left: 5 minutes
+19-01-02 03:56:45 Time Left: 4 minutes
+19-01-02 03:57:45 Time Left: 3 minutes
+19-01-02 03:58:45 Time Left: 2 minutes
+19-01-02 03:59:45 Time Left: 1 minutes
+19-01-02 04:00:45 Next map: Lobby
+19-01-02 04:00:51 Lothic - Gothic Lobby Room
+19-01-02 04:05:51 Time Left: 5 minutes
+19-01-02 04:06:51 Time Left: 4 minutes
+19-01-02 04:07:51 Time Left: 3 minutes
+19-01-02 04:08:51 Time Left: 2 minutes
+19-01-02 04:09:51 Time Left: 1 minutes
+19-01-02 04:10:51 Next map: Lobby
+19-01-02 04:10:56 Lothic - Gothic Lobby Room
+19-01-02 04:15:56 Time Left: 5 minutes
+19-01-02 04:16:56 Time Left: 4 minutes
+19-01-02 04:17:56 Time Left: 3 minutes
+19-01-02 04:18:56 Time Left: 2 minutes
+19-01-02 04:19:56 Time Left: 1 minutes
+19-01-02 04:20:56 Next map: Lobby
+19-01-02 04:21:01 Lothic - Gothic Lobby Room
+19-01-02 04:26:01 Time Left: 5 minutes
+19-01-02 04:27:01 Time Left: 4 minutes
+19-01-02 04:28:01 Time Left: 3 minutes
+19-01-02 04:29:01 Time Left: 2 minutes
+19-01-02 04:30:01 Time Left: 1 minutes
+19-01-02 04:31:01 Next map: Lobby
+19-01-02 04:31:07 Lothic - Gothic Lobby Room
+19-01-02 04:36:07 Time Left: 5 minutes
+19-01-02 04:37:07 Time Left: 4 minutes
+19-01-02 04:38:07 Time Left: 3 minutes
+19-01-02 04:39:07 Time Left: 2 minutes
+19-01-02 04:40:07 Time Left: 1 minutes
+19-01-02 04:41:07 Next map: Lobby
+19-01-02 04:41:12 Lothic - Gothic Lobby Room
+19-01-02 04:46:12 Time Left: 5 minutes
+19-01-02 04:47:12 Time Left: 4 minutes
+19-01-02 04:48:12 Time Left: 3 minutes
+19-01-02 04:49:12 Time Left: 2 minutes
+19-01-02 04:50:12 Time Left: 1 minutes
+19-01-02 04:51:12 Next map: Lobby
+19-01-02 04:51:17 Lothic - Gothic Lobby Room
+19-01-02 04:56:17 Time Left: 5 minutes
+19-01-02 04:57:17 Time Left: 4 minutes
+19-01-02 04:58:17 Time Left: 3 minutes
+19-01-02 04:59:17 Time Left: 2 minutes
+19-01-02 05:00:17 Time Left: 1 minutes
+19-01-02 05:01:17 Next map: Lobby
+19-01-02 05:01:23 Lothic - Gothic Lobby Room
+19-01-02 05:06:23 Time Left: 5 minutes
+19-01-02 05:07:23 Time Left: 4 minutes
+19-01-02 05:08:23 Time Left: 3 minutes
+19-01-02 05:09:23 Time Left: 2 minutes
+19-01-02 05:10:23 Time Left: 1 minutes
+19-01-02 05:11:23 Next map: Lobby
+19-01-02 05:11:28 Lothic - Gothic Lobby Room
+19-01-02 05:16:28 Time Left: 5 minutes
+19-01-02 05:17:28 Time Left: 4 minutes
+19-01-02 05:18:28 Time Left: 3 minutes
+19-01-02 05:19:28 Time Left: 2 minutes
+19-01-02 05:20:28 Time Left: 1 minutes
+19-01-02 05:21:28 Next map: Lobby
+19-01-02 05:21:33 Lothic - Gothic Lobby Room
+19-01-02 05:26:33 Time Left: 5 minutes
+19-01-02 05:27:33 Time Left: 4 minutes
+19-01-02 05:28:33 Time Left: 3 minutes
+19-01-02 05:29:33 Time Left: 2 minutes
+19-01-02 05:30:33 Time Left: 1 minutes
+19-01-02 05:31:33 Next map: Lobby
+19-01-02 05:31:38 Lothic - Gothic Lobby Room
+19-01-02 05:36:38 Time Left: 5 minutes
+19-01-02 05:37:38 Time Left: 4 minutes
+19-01-02 05:38:38 Time Left: 3 minutes
+19-01-02 05:39:38 Time Left: 2 minutes
+19-01-02 05:40:38 Time Left: 1 minutes
+19-01-02 05:41:38 Next map: Lobby
+19-01-02 05:41:44 Lothic - Gothic Lobby Room
+19-01-02 05:46:44 Time Left: 5 minutes
+19-01-02 05:47:44 Time Left: 4 minutes
+19-01-02 05:48:44 Time Left: 3 minutes
+19-01-02 05:49:44 Time Left: 2 minutes
+19-01-02 05:50:44 Time Left: 1 minutes
+19-01-02 05:51:44 Next map: Lobby
+19-01-02 05:51:49 Lothic - Gothic Lobby Room
+19-01-02 05:56:49 Time Left: 5 minutes
+19-01-02 05:57:49 Time Left: 4 minutes
+19-01-02 05:58:49 Time Left: 3 minutes
+19-01-02 05:59:49 Time Left: 2 minutes
+19-01-02 06:00:49 Time Left: 1 minutes
+19-01-02 06:01:49 Next map: Lobby
+19-01-02 06:01:54 Lothic - Gothic Lobby Room
+19-01-02 06:06:54 Time Left: 5 minutes
+19-01-02 06:07:54 Time Left: 4 minutes
+19-01-02 06:08:54 Time Left: 3 minutes
+19-01-02 06:09:54 Time Left: 2 minutes
+19-01-02 06:10:54 Time Left: 1 minutes
+19-01-02 06:11:54 Next map: Lobby
+19-01-02 06:12:00 Lothic - Gothic Lobby Room
+19-01-02 06:17:00 Time Left: 5 minutes
+19-01-02 06:18:00 Time Left: 4 minutes
+19-01-02 06:19:00 Time Left: 3 minutes
+19-01-02 06:20:00 Time Left: 2 minutes
+19-01-02 06:21:00 Time Left: 1 minutes
+19-01-02 06:22:00 Next map: Lobby
+19-01-02 06:22:05 Lothic - Gothic Lobby Room
+19-01-02 06:27:05 Time Left: 5 minutes
+19-01-02 06:28:05 Time Left: 4 minutes
+19-01-02 06:29:05 Time Left: 3 minutes
+19-01-02 06:30:05 Time Left: 2 minutes
+19-01-02 06:31:05 Time Left: 1 minutes
+19-01-02 06:32:05 Next map: Lobby
+19-01-02 06:32:10 Lothic - Gothic Lobby Room
+19-01-02 06:37:10 Time Left: 5 minutes
+19-01-02 06:38:10 Time Left: 4 minutes
+19-01-02 06:39:10 Time Left: 3 minutes
+19-01-02 06:40:10 Time Left: 2 minutes
+19-01-02 06:41:10 Time Left: 1 minutes
+19-01-02 06:42:10 Next map: Lobby
+19-01-02 06:42:16 Lothic - Gothic Lobby Room
+19-01-02 06:47:16 Time Left: 5 minutes
+19-01-02 06:48:16 Time Left: 4 minutes
+19-01-02 06:49:16 Time Left: 3 minutes
+19-01-02 06:50:16 Time Left: 2 minutes
+19-01-02 06:51:16 Time Left: 1 minutes
+19-01-02 06:52:16 Next map: Lobby
+19-01-02 06:52:21 Lothic - Gothic Lobby Room
+19-01-02 06:57:21 Time Left: 5 minutes
+19-01-02 06:58:21 Time Left: 4 minutes
+19-01-02 06:59:21 Time Left: 3 minutes
+19-01-02 07:00:21 Time Left: 2 minutes
+19-01-02 07:01:21 Time Left: 1 minutes
+19-01-02 07:02:21 Next map: Lobby
+19-01-02 07:02:26 Lothic - Gothic Lobby Room
+19-01-02 07:07:26 Time Left: 5 minutes
+19-01-02 07:08:26 Time Left: 4 minutes
+19-01-02 07:09:26 Time Left: 3 minutes
+19-01-02 07:10:26 Time Left: 2 minutes
+19-01-02 07:11:26 Time Left: 1 minutes
+19-01-02 07:12:26 Next map: Lobby
+19-01-02 07:12:32 Lothic - Gothic Lobby Room
+19-01-02 07:17:32 Time Left: 5 minutes
+19-01-02 07:18:32 Time Left: 4 minutes
+19-01-02 07:19:32 Time Left: 3 minutes
+19-01-02 07:20:32 Time Left: 2 minutes
+19-01-02 07:21:32 Time Left: 1 minutes
+19-01-02 07:22:32 Next map: Lobby
+19-01-02 07:22:37 Lothic - Gothic Lobby Room
+19-01-02 07:27:37 Time Left: 5 minutes
+19-01-02 07:28:37 Time Left: 4 minutes
+19-01-02 07:29:37 Time Left: 3 minutes
+19-01-02 07:30:37 Time Left: 2 minutes
+19-01-02 07:31:37 Time Left: 1 minutes
+19-01-02 07:32:37 Next map: Lobby
+19-01-02 07:32:42 Lothic - Gothic Lobby Room
+19-01-02 07:37:42 Time Left: 5 minutes
+19-01-02 07:38:42 Time Left: 4 minutes
+19-01-02 07:39:42 Time Left: 3 minutes
+19-01-02 07:40:42 Time Left: 2 minutes
+19-01-02 07:41:42 Time Left: 1 minutes
+19-01-02 07:42:42 Next map: Lobby
+19-01-02 07:42:48 Lothic - Gothic Lobby Room
+19-01-02 07:47:48 Time Left: 5 minutes
+19-01-02 07:48:48 Time Left: 4 minutes
+19-01-02 07:49:48 Time Left: 3 minutes
+19-01-02 07:50:48 Time Left: 2 minutes
+19-01-02 07:51:48 Time Left: 1 minutes
+19-01-02 07:52:48 Next map: Lobby
+19-01-02 07:52:53 Lothic - Gothic Lobby Room
+19-01-02 07:57:53 Time Left: 5 minutes
+19-01-02 07:58:53 Time Left: 4 minutes
+19-01-02 07:59:53 Time Left: 3 minutes
+19-01-02 08:00:53 Time Left: 2 minutes
+19-01-02 08:01:53 Time Left: 1 minutes
+19-01-02 08:02:53 Next map: Lobby
+19-01-02 08:02:58 Lothic - Gothic Lobby Room
+19-01-02 08:07:58 Time Left: 5 minutes
+19-01-02 08:08:58 Time Left: 4 minutes
+19-01-02 08:09:58 Time Left: 3 minutes
+19-01-02 08:10:58 Time Left: 2 minutes
+19-01-02 08:11:58 Time Left: 1 minutes
+19-01-02 08:12:58 Next map: Lobby
+19-01-02 08:13:04 Lothic - Gothic Lobby Room
+19-01-02 08:18:04 Time Left: 5 minutes
+19-01-02 08:19:04 Time Left: 4 minutes
+19-01-02 08:20:04 Time Left: 3 minutes
+19-01-02 08:21:04 Time Left: 2 minutes
+19-01-02 08:22:04 Time Left: 1 minutes
+19-01-02 08:23:04 Next map: Lobby
+19-01-02 08:23:09 Lothic - Gothic Lobby Room
+19-01-02 08:28:09 Time Left: 5 minutes
+19-01-02 08:29:09 Time Left: 4 minutes
+19-01-02 08:30:09 Time Left: 3 minutes
+19-01-02 08:31:09 Time Left: 2 minutes
+19-01-02 08:32:09 Time Left: 1 minutes
+19-01-02 08:33:09 Next map: Lobby
+19-01-02 08:33:14 Lothic - Gothic Lobby Room
+19-01-02 08:38:14 Time Left: 5 minutes
+19-01-02 08:39:14 Time Left: 4 minutes
+19-01-02 08:40:14 Time Left: 3 minutes
+19-01-02 08:41:14 Time Left: 2 minutes
+19-01-02 08:42:14 Time Left: 1 minutes
+19-01-02 08:43:14 Next map: Lobby
+19-01-02 08:43:20 Lothic - Gothic Lobby Room
+19-01-02 08:48:19 Time Left: 5 minutes
+19-01-02 08:49:19 Time Left: 4 minutes
+19-01-02 08:50:19 Time Left: 3 minutes
+19-01-02 08:51:19 Time Left: 2 minutes
+19-01-02 08:52:19 Time Left: 1 minutes
+19-01-02 08:53:19 Next map: Lobby
+19-01-02 08:53:25 Lothic - Gothic Lobby Room
+19-01-02 08:58:25 Time Left: 5 minutes
+19-01-02 08:59:25 Time Left: 4 minutes
+19-01-02 09:00:25 Time Left: 3 minutes
+19-01-02 09:01:25 Time Left: 2 minutes
+19-01-02 09:02:25 Time Left: 1 minutes
+19-01-02 09:03:25 Next map: Lobby
+19-01-02 09:03:30 Lothic - Gothic Lobby Room
+19-01-02 09:08:30 Time Left: 5 minutes
+19-01-02 09:09:30 Time Left: 4 minutes
+19-01-02 09:10:30 Time Left: 3 minutes
+19-01-02 09:11:30 Time Left: 2 minutes
+19-01-02 09:12:30 Time Left: 1 minutes
+19-01-02 09:13:30 Next map: Lobby
+19-01-02 09:13:35 Lothic - Gothic Lobby Room
+19-01-02 09:18:35 Time Left: 5 minutes
+19-01-02 09:19:35 Time Left: 4 minutes
+19-01-02 09:20:35 Time Left: 3 minutes
+19-01-02 09:21:35 Time Left: 2 minutes
+19-01-02 09:22:35 Time Left: 1 minutes
+19-01-02 09:23:35 Next map: Lobby
+19-01-02 09:23:41 Lothic - Gothic Lobby Room
+19-01-02 09:28:41 Time Left: 5 minutes
+19-01-02 09:29:41 Time Left: 4 minutes
+19-01-02 09:30:41 Time Left: 3 minutes
+19-01-02 09:31:41 Time Left: 2 minutes
+19-01-02 09:32:41 Time Left: 1 minutes
+19-01-02 09:33:41 Next map: Lobby
+19-01-02 09:33:46 Lothic - Gothic Lobby Room
+19-01-02 09:38:46 Time Left: 5 minutes
+19-01-02 09:39:46 Time Left: 4 minutes
+19-01-02 09:40:46 Time Left: 3 minutes
+19-01-02 09:41:46 Time Left: 2 minutes
+19-01-02 09:42:46 Time Left: 1 minutes
+19-01-02 09:43:46 Next map: Lobby
+19-01-02 09:43:51 Lothic - Gothic Lobby Room
+19-01-02 09:48:51 Time Left: 5 minutes
+19-01-02 09:49:51 Time Left: 4 minutes
+19-01-02 09:50:51 Time Left: 3 minutes
+19-01-02 09:51:51 Time Left: 2 minutes
+19-01-02 09:52:51 Time Left: 1 minutes
+19-01-02 09:53:51 Next map: Lobby
+19-01-02 09:53:57 Lothic - Gothic Lobby Room
+19-01-02 09:58:57 Time Left: 5 minutes
+19-01-02 09:59:57 Time Left: 4 minutes
+19-01-02 10:00:57 Time Left: 3 minutes
+19-01-02 10:01:57 Time Left: 2 minutes
+19-01-02 10:02:57 Time Left: 1 minutes
+19-01-02 10:03:57 Next map: Lobby
+19-01-02 10:04:02 Lothic - Gothic Lobby Room
+19-01-02 10:09:02 Time Left: 5 minutes
+19-01-02 10:10:02 Time Left: 4 minutes
+19-01-02 10:11:02 Time Left: 3 minutes
+19-01-02 10:12:02 Time Left: 2 minutes
+19-01-02 10:13:02 Time Left: 1 minutes
+19-01-02 10:14:02 Next map: Lobby
+19-01-02 10:14:07 Lothic - Gothic Lobby Room
+19-01-02 10:19:07 Time Left: 5 minutes
+19-01-02 10:20:07 Time Left: 4 minutes
+19-01-02 10:21:07 Time Left: 3 minutes
+19-01-02 10:22:07 Time Left: 2 minutes
+19-01-02 10:23:07 Time Left: 1 minutes
+19-01-02 10:24:07 Next map: Lobby
+19-01-02 10:24:13 Lothic - Gothic Lobby Room
+19-01-02 10:29:13 Time Left: 5 minutes
+19-01-02 10:30:13 Time Left: 4 minutes
+19-01-02 10:31:13 Time Left: 3 minutes
+19-01-02 10:32:13 Time Left: 2 minutes
+19-01-02 10:33:13 Time Left: 1 minutes
+19-01-02 10:34:13 Next map: Lobby
+19-01-02 10:34:18 Lothic - Gothic Lobby Room
+19-01-02 10:39:18 Time Left: 5 minutes
+19-01-02 10:40:18 Time Left: 4 minutes
+19-01-02 10:41:18 Time Left: 3 minutes
+19-01-02 10:42:18 Time Left: 2 minutes
+19-01-02 10:43:18 Time Left: 1 minutes
+19-01-02 10:44:18 Next map: Lobby
+19-01-02 10:44:23 Lothic - Gothic Lobby Room
+19-01-02 10:49:23 Time Left: 5 minutes
+19-01-02 10:50:23 Time Left: 4 minutes
+19-01-02 10:51:23 Time Left: 3 minutes
+19-01-02 10:52:23 Time Left: 2 minutes
+19-01-02 10:53:23 Time Left: 1 minutes
+19-01-02 10:54:23 Next map: Lobby
+19-01-02 10:54:29 Lothic - Gothic Lobby Room
+19-01-02 10:59:29 Time Left: 5 minutes
+19-01-02 11:00:29 Time Left: 4 minutes
+19-01-02 11:01:29 Time Left: 3 minutes
+19-01-02 11:02:29 Time Left: 2 minutes
+19-01-02 11:03:29 Time Left: 1 minutes
+19-01-02 11:04:29 Next map: Lobby
+19-01-02 11:04:34 Lothic - Gothic Lobby Room
+19-01-02 11:09:34 Time Left: 5 minutes
+19-01-02 11:10:34 Time Left: 4 minutes
+19-01-02 11:11:34 Time Left: 3 minutes
+19-01-02 11:12:34 Time Left: 2 minutes
+19-01-02 11:13:34 Time Left: 1 minutes
+19-01-02 11:14:34 Next map: Lobby
+19-01-02 11:14:39 Lothic - Gothic Lobby Room
+19-01-02 11:19:39 Time Left: 5 minutes
+19-01-02 11:20:39 Time Left: 4 minutes
+19-01-02 11:21:39 Time Left: 3 minutes
+19-01-02 11:22:39 Time Left: 2 minutes
+19-01-02 11:23:39 Time Left: 1 minutes
+19-01-02 11:24:39 Next map: Lobby
+19-01-02 11:24:45 Lothic - Gothic Lobby Room
+19-01-02 11:29:45 Time Left: 5 minutes
+19-01-02 11:30:45 Time Left: 4 minutes
+19-01-02 11:31:31 Admin connected (77.10.66.113).
+19-01-02 11:31:32 /maxplayers (77.10.66.113)
+19-01-02 11:31:32 Max players is 16
+19-01-02 11:31:32 /maxrespawntime (77.10.66.113)
+19-01-02 11:31:32 Maximum Respawn time is 5 seconds
+19-01-02 11:31:32 /respawntime (77.10.66.113)
+19-01-02 11:31:32 Respawn time is 3 seconds
+19-01-02 11:31:32 /limit (77.10.66.113)
+19-01-02 11:31:32 Current kill/point/capture limit is 10
+19-01-02 11:31:32 /timelimit (77.10.66.113)
+19-01-02 11:31:32 Current time limit is 10 minutes
+19-01-02 11:31:32 /friendlyfire (77.10.66.113)
+19-01-02 11:31:32 Friendly Fire is 0
+19-01-02 11:31:32 /scripting (77.10.66.113)
+19-01-02 11:31:32 Scripting is currently Enabled (1)
+19-01-02 11:31:32 /balance (77.10.66.113)
+19-01-02 11:31:32 Bot Balance is off (0)
+19-01-02 11:31:32 /bonus (77.10.66.113)
+19-01-02 11:31:32 Current bonus frequency is 0
+19-01-02 11:31:32 /vote% (77.10.66.113)
+19-01-02 11:31:32 Voting percent is 60
+19-01-02 11:31:45 Time Left: 3 minutes
+19-01-02 11:32:45 Time Left: 2 minutes
+19-01-02 11:33:45 Time Left: 1 minutes
+19-01-02 11:34:45 Next map: Lobby
+19-01-02 11:34:50 Lothic - Gothic Lobby Room
+19-01-02 11:39:50 Time Left: 5 minutes
+19-01-02 11:40:50 Time Left: 4 minutes
+19-01-02 11:41:50 Time Left: 3 minutes
+19-01-02 11:42:50 Time Left: 2 minutes
+19-01-02 11:43:50 Time Left: 1 minutes
+19-01-02 11:44:50 Next map: Lobby
+19-01-02 11:44:55 Lothic - Gothic Lobby Room
+19-01-02 11:49:55 Time Left: 5 minutes
+19-01-02 11:50:55 Time Left: 4 minutes
+19-01-02 11:51:55 Time Left: 3 minutes
+19-01-02 11:52:55 Time Left: 2 minutes
+19-01-02 11:53:55 Time Left: 1 minutes
+19-01-02 11:54:55 Next map: Lobby
+19-01-02 11:55:01 Lothic - Gothic Lobby Room
+19-01-02 12:00:01 Time Left: 5 minutes
+19-01-02 12:01:01 Time Left: 4 minutes
+19-01-02 12:02:01 Time Left: 3 minutes
+19-01-02 12:03:01 Time Left: 2 minutes
+19-01-02 12:04:01 Time Left: 1 minutes
+19-01-02 12:05:00 Next map: Lobby
+19-01-02 12:05:06 Lothic - Gothic Lobby Room
+19-01-02 12:10:06 Time Left: 5 minutes
+19-01-02 12:11:06 Time Left: 4 minutes
+19-01-02 12:12:06 Time Left: 3 minutes
+19-01-02 12:13:06 Time Left: 2 minutes
+19-01-02 12:14:06 Time Left: 1 minutes
+19-01-02 12:15:06 Next map: Lobby
+19-01-02 12:15:11 Lothic - Gothic Lobby Room
+19-01-02 12:20:11 Time Left: 5 minutes
+19-01-02 12:21:11 Time Left: 4 minutes
+19-01-02 12:22:11 Time Left: 3 minutes
+19-01-02 12:23:11 Time Left: 2 minutes
+19-01-02 12:24:11 Time Left: 1 minutes
+19-01-02 12:25:11 Next map: Lobby
+19-01-02 12:25:16 Lothic - Gothic Lobby Room
+19-01-02 12:30:16 Time Left: 5 minutes
+19-01-02 12:31:16 Time Left: 4 minutes
+19-01-02 12:32:16 Time Left: 3 minutes
+19-01-02 12:33:16 Time Left: 2 minutes
+19-01-02 12:34:16 Time Left: 1 minutes
+19-01-02 12:35:16 Next map: Lobby
+19-01-02 12:35:22 Lothic - Gothic Lobby Room
+19-01-02 12:40:22 Time Left: 5 minutes
+19-01-02 12:41:22 Time Left: 4 minutes
+19-01-02 12:42:22 Time Left: 3 minutes
+19-01-02 12:43:22 Time Left: 2 minutes
+19-01-02 12:44:22 Time Left: 1 minutes
+19-01-02 12:45:22 Next map: Lobby
+19-01-02 12:45:27 Lothic - Gothic Lobby Room
+19-01-02 12:50:27 Time Left: 5 minutes
+19-01-02 12:51:27 Time Left: 4 minutes
+19-01-02 12:52:27 Time Left: 3 minutes
+19-01-02 12:53:27 Time Left: 2 minutes
+19-01-02 12:54:27 Time Left: 1 minutes
+19-01-02 12:55:27 Next map: Lobby
+19-01-02 12:55:32 Lothic - Gothic Lobby Room
+19-01-02 13:00:32 Time Left: 5 minutes
+19-01-02 13:01:32 Time Left: 4 minutes
+19-01-02 13:02:32 Time Left: 3 minutes
+19-01-02 13:03:32 Time Left: 2 minutes
+19-01-02 13:04:32 Time Left: 1 minutes
+19-01-02 13:05:32 Next map: Lobby
+19-01-02 13:05:38 Lothic - Gothic Lobby Room
+19-01-02 13:10:38 Time Left: 5 minutes
+19-01-02 13:11:38 Time Left: 4 minutes
+19-01-02 13:12:38 Time Left: 3 minutes
+19-01-02 13:13:38 Time Left: 2 minutes
+19-01-02 13:14:38 Time Left: 1 minutes
+19-01-02 13:15:38 Next map: Lobby
+19-01-02 13:15:43 Lothic - Gothic Lobby Room
+19-01-02 13:20:43 Time Left: 5 minutes
+19-01-02 13:21:43 Time Left: 4 minutes
+19-01-02 13:22:43 Time Left: 3 minutes
+19-01-02 13:23:43 Time Left: 2 minutes
+19-01-02 13:24:43 Time Left: 1 minutes
+19-01-02 13:25:43 Next map: Lobby
+19-01-02 13:25:48 Lothic - Gothic Lobby Room
+19-01-02 13:30:48 Time Left: 5 minutes
+19-01-02 13:31:48 Time Left: 4 minutes
+19-01-02 13:32:48 Time Left: 3 minutes
+19-01-02 13:33:48 Time Left: 2 minutes
+19-01-02 13:34:48 Time Left: 1 minutes
+19-01-02 13:35:48 Next map: Lobby
+19-01-02 13:35:54 Lothic - Gothic Lobby Room
+19-01-02 13:40:54 Time Left: 5 minutes
+19-01-02 13:41:54 Time Left: 4 minutes
+19-01-02 13:42:54 Time Left: 3 minutes
+19-01-02 13:43:54 Time Left: 2 minutes
+19-01-02 13:44:54 Time Left: 1 minutes
+19-01-02 13:45:54 Next map: Lobby
+19-01-02 13:45:59 Lothic - Gothic Lobby Room
+19-01-02 13:50:59 Time Left: 5 minutes
+19-01-02 13:51:59 Time Left: 4 minutes
+19-01-02 13:52:59 Time Left: 3 minutes
+19-01-02 13:53:59 Time Left: 2 minutes
+19-01-02 13:54:59 Time Left: 1 minutes
+19-01-02 13:55:59 Next map: Lobby
+19-01-02 13:56:04 Lothic - Gothic Lobby Room
+19-01-02 14:01:04 Time Left: 5 minutes
+19-01-02 14:02:04 Time Left: 4 minutes
+19-01-02 14:03:04 Time Left: 3 minutes
+19-01-02 14:04:04 Time Left: 2 minutes
+19-01-02 14:05:04 Time Left: 1 minutes
+19-01-02 14:06:04 Next map: Lobby
+19-01-02 14:06:10 Lothic - Gothic Lobby Room
+19-01-02 14:11:10 Time Left: 5 minutes
+19-01-02 14:12:10 Time Left: 4 minutes
+19-01-02 14:13:10 Time Left: 3 minutes
+19-01-02 14:14:10 Time Left: 2 minutes
+19-01-02 14:15:10 Time Left: 1 minutes
+19-01-02 14:16:10 Next map: Lobby
+19-01-02 14:16:15 Lothic - Gothic Lobby Room
+19-01-02 14:21:15 Time Left: 5 minutes
+19-01-02 14:22:15 Time Left: 4 minutes
+19-01-02 14:23:15 Time Left: 3 minutes
+19-01-02 14:24:15 Time Left: 2 minutes
+19-01-02 14:25:15 Time Left: 1 minutes
+19-01-02 14:26:15 Next map: Lobby
+19-01-02 14:26:20 Lothic - Gothic Lobby Room
+19-01-02 14:31:20 Time Left: 5 minutes
+19-01-02 14:32:20 Time Left: 4 minutes
+19-01-02 14:33:20 Time Left: 3 minutes
+19-01-02 14:34:20 Time Left: 2 minutes
+19-01-02 14:35:20 Time Left: 1 minutes
+19-01-02 14:36:20 Next map: Lobby
+19-01-02 14:36:26 Lothic - Gothic Lobby Room
+19-01-02 14:41:26 Time Left: 5 minutes
+19-01-02 14:42:26 Time Left: 4 minutes
+19-01-02 14:43:26 Time Left: 3 minutes
+19-01-02 14:44:26 Time Left: 2 minutes
+19-01-02 14:45:26 Time Left: 1 minutes
+19-01-02 14:46:26 Next map: Lobby
+19-01-02 14:46:31 Lothic - Gothic Lobby Room
+19-01-02 14:47:22 Admin connected (77.10.66.113).
+19-01-02 14:47:23 /maxplayers (77.10.66.113)
+19-01-02 14:47:23 Max players is 16
+19-01-02 14:47:23 /maxrespawntime (77.10.66.113)
+19-01-02 14:47:23 Maximum Respawn time is 5 seconds
+19-01-02 14:47:23 /respawntime (77.10.66.113)
+19-01-02 14:47:23 Respawn time is 3 seconds
+19-01-02 14:47:23 /limit (77.10.66.113)
+19-01-02 14:47:23 Current kill/point/capture limit is 10
+19-01-02 14:47:23 /timelimit (77.10.66.113)
+19-01-02 14:47:23 Current time limit is 10 minutes
+19-01-02 14:47:23 /friendlyfire (77.10.66.113)
+19-01-02 14:47:23 Friendly Fire is 0
+19-01-02 14:47:23 /scripting (77.10.66.113)
+19-01-02 14:47:23 Scripting is currently Enabled (1)
+19-01-02 14:47:23 /balance (77.10.66.113)
+19-01-02 14:47:23 Bot Balance is off (0)
+19-01-02 14:47:23 /bonus (77.10.66.113)
+19-01-02 14:47:23 Current bonus frequency is 0
+19-01-02 14:47:23 /vote% (77.10.66.113)
+19-01-02 14:47:23 Voting percent is 60
+19-01-02 14:51:31 Time Left: 5 minutes
+19-01-02 14:52:31 Time Left: 4 minutes
+19-01-02 14:53:31 Time Left: 3 minutes
+19-01-02 14:54:31 Time Left: 2 minutes
+19-01-02 14:55:31 Time Left: 1 minutes
+19-01-02 14:56:31 Next map: Lobby
+19-01-02 14:56:36 Lothic - Gothic Lobby Room
+19-01-02 15:01:36 Time Left: 5 minutes
+19-01-02 15:02:36 Time Left: 4 minutes
+19-01-02 15:03:36 Time Left: 3 minutes
+19-01-02 15:04:36 Time Left: 2 minutes
+19-01-02 15:05:36 Time Left: 1 minutes
+19-01-02 15:06:36 Next map: Lobby
+19-01-02 15:06:42 Lothic - Gothic Lobby Room
+19-01-02 15:07:32 Signal received, shutting down
+19-01-02 15:07:32 Shutting down server...
+19-01-02 15:07:33 Shutting down FileServer...
+19-01-02 15:07:33 Shutting down admin server...

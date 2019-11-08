@@ -1,0 +1,7767 @@
+19-04-02 04:07:58    Kill Log Started
+--- 19-04-02 04:08:01
+Mr. malbeC.
+Mr. Bait
+Spas-12
+--- 19-04-02 04:08:01
+Mr. Bait
+Mr. malbeC.
+Grenade
+--- 19-04-02 04:08:03
+Mr. urraka
+Mr. Jack
+Desert Eagles
+--- 19-04-02 04:08:09
+Mr. urraka
+Mr. malbeC.
+Desert Eagles
+--- 19-04-02 04:08:11
+Mr. Jack
+Mr. Bait
+Barrett M82A1
+--- 19-04-02 04:08:15
+Mr. malbeC.
+Mr. urraka
+Spas-12
+--- 19-04-02 04:08:16
+Mr. Jack
+Mr. Bait
+Barrett M82A1
+--- 19-04-02 04:08:17
+Mr. Bait
+Mr. Jack
+Grenade
+--- 19-04-02 04:08:24
+Mr. Bait
+Mr. malbeC.
+Steyr AUG
+--- 19-04-02 04:08:28
+Mr. Jack
+Mr. Bait
+Barrett M82A1
+--- 19-04-02 04:08:30
+Mr. urraka
+Mr. malbeC.
+Chainsaw
+--- 19-04-02 04:08:30
+Mr. malbeC.
+Mr. urraka
+Spas-12
+--- 19-04-02 04:08:45
+Mr. malbeC.
+Mr. urraka
+Spas-12
+--- 19-04-02 04:08:47
+Mr. malbeC.
+Mr. Bait
+Spas-12
+--- 19-04-02 04:08:53
+Mr. urraka
+Mr. Jack
+Desert Eagles
+--- 19-04-02 04:09:02
+Mr. Jack
+Mr. Bait
+Combat Knife
+--- 19-04-02 04:09:08
+Mr. urraka
+Mr. Jack
+Desert Eagles
+--- 19-04-02 04:09:18
+Mr. Jack
+Mr. Bait
+Barrett M82A1
+--- 19-04-02 04:09:26
+Mr. Bait
+Mr. malbeC.
+Steyr AUG
+--- 19-04-02 04:09:28
+Mr. Jack
+Mr. urraka
+Barrett M82A1
+--- 19-04-02 04:09:35
+Mr. Jack
+Mr. Bait
+Barrett M82A1
+--- 19-04-02 04:10:53
+Mr. malbeC.
+Mr. urraka
+Spas-12
+--- 19-04-02 04:11:03
+Mr. Jack
+Mr. urraka
+Grenade
+--- 19-04-02 04:11:05
+Mr. Bait
+Mr. malbeC.
+Steyr AUG
+--- 19-04-02 04:11:06
+Mr. Jack
+Mr. Bait
+Barrett M82A1
+--- 19-04-02 04:11:12
+Mr. Jack
+Mr. urraka
+Barrett M82A1
+--- 19-04-02 04:11:13
+Mr. Bait
+Mr. Jack
+Steyr AUG
+--- 19-04-02 04:11:18
+Mr. Bait
+Mr. malbeC.
+Grenade
+--- 19-04-02 04:11:19
+Mr. Jack
+Mr. Bait
+Grenade
+--- 19-04-02 04:11:26
+Mr. malbeC.
+Mr. urraka
+Spas-12
+--- 19-04-02 04:11:26
+Mr. urraka
+Mr. Jack
+Grenade
+--- 19-04-02 04:11:29
+Mr. Bait
+Mr. malbeC.
+Grenade
+--- 19-04-02 04:11:35
+Mr. malbeC.
+Mr. Bait
+Spas-12
+--- 19-04-02 04:11:39
+Mr. malbeC.
+Mr. urraka
+Spas-12
+--- 19-04-02 04:11:41
+Mr. Jack
+Mr. Jack
+Grenade
+--- 19-04-02 04:11:47
+Mr. malbeC.
+Mr. urraka
+LAW
+--- 19-04-02 04:11:50
+Mr. Bait
+Mr. malbeC.
+Steyr AUG
+--- 19-04-02 04:11:51
+Mr. Jack
+Mr. Bait
+Barrett M82A1
+--- 19-04-02 04:12:00
+Mr. Jack
+Mr. Jack
+Grenade
+--- 19-04-02 04:12:05
+Mr. malbeC.
+Mr. Bait
+LAW
+--- 19-04-02 04:12:08
+Mr. urraka
+Mr. malbeC.
+Grenade
+--- 19-04-02 04:12:12
+Mr. Bait
+Mr. Jack
+Steyr AUG
+--- 19-04-02 04:12:13
+Mr. malbeC.
+Mr. urraka
+Grenade
+--- 19-04-02 04:12:18
+Mr. malbeC.
+Mr. Bait
+Spas-12
+--- 19-04-02 04:12:21
+Mr. Jack
+Mr. urraka
+Grenade
+--- 19-04-02 04:12:22
+Mr. Bait
+Mr. malbeC.
+Steyr AUG
+--- 19-04-02 04:12:28
+Mr. urraka
+Mr. Jack
+Desert Eagles
+--- 19-04-02 04:12:29
+Mr. malbeC.
+Mr. Bait
+Grenade
+--- 19-04-02 04:12:35
+Mr. urraka
+Mr. malbeC.
+Chainsaw
+--- 19-04-02 04:12:37
+Mr. Jack
+Mr. urraka
+Barrett M82A1
+--- 19-04-02 04:12:45
+Mr. malbeC.
+Mr. Bait
+Grenade
+--- 19-04-02 04:12:48
+Mr. Jack
+Mr. urraka
+Barrett M82A1
+--- 19-04-02 04:12:55
+Mr. Bait
+Mr. malbeC.
+Steyr AUG
+--- 19-04-02 04:13:00
+Mr. Jack
+Mr. Bait
+Barrett M82A1
+--- 19-04-02 04:13:01
+Mr. urraka
+Mr. Jack
+M79
+--- 19-04-02 04:13:07
+Mr. Bait
+Mr. malbeC.
+Steyr AUG
+--- 19-04-02 04:13:11
+Mr. Bait
+Mr. Jack
+LAW
+--- 19-04-02 04:13:17
+Mr. Jack
+Mr. Bait
+Grenade
+--- 19-04-02 04:13:23
+Mr. Bait
+Mr. Jack
+Steyr AUG
+--- 19-04-02 04:13:24
+Mr. Bait
+Mr. Bait
+Grenade
+--- 19-04-02 04:13:32
+Mr. Jack
+Mr. Bait
+Barrett M82A1
+--- 19-04-02 04:13:36
+Mr. Jack
+Mr. urraka
+Combat Knife
+--- 19-04-02 04:13:41
+Mr. malbeC.
+Mr. malbeC.
+LAW
+--- 19-04-02 04:13:46
+Mr. Bait
+Mr. malbeC.
+Steyr AUG
+--- 19-04-02 04:13:55
+Mr. Jack
+Mr. Bait
+Barrett M82A1
+--- 19-04-02 04:13:56
+Mr. malbeC.
+Mr. malbeC.
+LAW
+--- 19-04-02 04:14:14
+Mr. malbeC.
+Mr. urraka
+Spas-12
+--- 19-04-02 04:14:23
+Mr. malbeC.
+Mr. Bait
+Spas-12
+--- 19-04-02 04:14:24
+Mr. Bait
+Mr. Jack
+Steyr AUG
+--- 19-04-02 04:14:27
+Mr. malbeC.
+Mr. urraka
+Spas-12
+--- 19-04-02 04:14:31
+Mr. Bait
+Mr. malbeC.
+Steyr AUG
+--- 19-04-02 04:14:35
+Mr. urraka
+Mr. Jack
+M79
+--- 19-04-02 04:14:37
+Mr. malbeC.
+Mr. Bait
+Spas-12
+--- 19-04-02 04:14:40
+Mr. malbeC.
+Mr. urraka
+LAW
+--- 19-04-02 04:14:48
+Mr. Bait
+Mr. malbeC.
+Steyr AUG
+--- 19-04-02 04:14:49
+Mr. urraka
+Mr. Jack
+Grenade
+--- 19-04-02 04:14:49
+Mr. Jack
+Mr. urraka
+Barrett M82A1
+--- 19-04-02 04:14:55
+Mr. Jack
+Mr. Bait
+Grenade
+--- 19-04-02 04:15:05
+Mr. Jack
+Mr. urraka
+Steyr AUG
+--- 19-04-02 04:15:07
+Mr. malbeC.
+Mr. Bait
+Grenade
+--- 19-04-02 04:15:12
+Mr. urraka
+Mr. Jack
+M79
+--- 19-04-02 04:15:15
+Mr. urraka
+Mr. malbeC.
+M79
+--- 19-04-02 04:15:23
+Mr. malbeC.
+Mr. Bait
+Spas-12
+--- 19-04-02 04:15:26
+Mr. Jack
+Mr. urraka
+Barrett M82A1
+--- 19-04-02 04:15:29
+Mr. Bait
+Mr. malbeC.
+Steyr AUG
+--- 19-04-02 04:15:33
+Mr. Jack
+Mr. urraka
+Barrett M82A1
+--- 19-04-02 04:15:38
+Mr. Jack
+Mr. Bait
+Barrett M82A1
+--- 19-04-02 04:15:40
+Mr. urraka
+Mr. malbeC.
+Grenade
+--- 19-04-02 04:15:44
+Mr. Jack
+Mr. Bait
+Barrett M82A1
+--- 19-04-02 04:15:49
+Mr. urraka
+Mr. malbeC.
+Chainsaw
+--- 19-04-02 04:15:54
+Mr. Bait
+Mr. Jack
+Steyr AUG
+--- 19-04-02 04:15:55
+Mr. malbeC.
+Mr. urraka
+Spas-12
+--- 19-04-02 04:16:03
+Mr. Jack
+Mr. Bait
+Barrett M82A1
+--- 19-04-02 04:16:10
+Mr. urraka
+Mr. malbeC.
+M79
+--- 19-04-02 04:16:15
+Mr. Bait
+Mr. Jack
+Steyr AUG
+--- 19-04-02 04:16:23
+Mr. urraka
+Mr. Jack
+M79
+--- 19-04-02 04:16:25
+Mr. malbeC.
+Mr. Bait
+Grenade
+--- 19-04-02 04:16:33
+Mr. Bait
+Mr. malbeC.
+Grenade
+--- 19-04-02 04:16:35
+Mr. Bait
+Mr. Bait
+Grenade
+--- 19-04-02 04:16:36
+Mr. urraka
+Mr. Jack
+M79
+--- 19-04-02 04:16:36
+Mr. Jack
+Mr. urraka
+Barrett M82A1
+--- 19-04-02 04:16:43
+Mr. malbeC.
+Mr. urraka
+Grenade
+--- 19-04-02 04:16:51
+Mr. Bait
+Mr. Jack
+Steyr AUG
+--- 19-04-02 04:16:52
+Mr. malbeC.
+Mr. Bait
+Spas-12
+--- 19-04-02 04:16:53
+Mr. malbeC.
+Mr. urraka
+Grenade
+--- 19-04-02 04:17:01
+Mr. malbeC.
+Mr. Bait
+Spas-12
+--- 19-04-02 04:17:01
+Mr. Jack
+Mr. urraka
+Barrett M82A1
+--- 19-04-02 04:17:08
+Mr. malbeC.
+Mr. Bait
+Spas-12
+--- 19-04-02 04:17:08
+Mr. Bait
+Mr. malbeC.
+Steyr AUG
+--- 19-04-02 04:17:11
+Mr. Jack
+Mr. urraka
+Barrett M82A1
+--- 19-04-02 04:17:15
+Mr. Jack
+Mr. Bait
+Barrett M82A1
+--- 19-04-02 04:17:16
+Mr. malbeC.
+Mr. urraka
+Grenade
+--- 19-04-02 04:17:25
+Mr. Bait
+Mr. malbeC.
+Steyr AUG
+--- 19-04-02 04:17:29
+Mr. Jack
+Mr. urraka
+Barrett M82A1
+--- 19-04-02 04:17:29
+Mr. urraka
+Mr. Jack
+M79
+--- 19-04-02 04:17:38
+Mr. malbeC.
+Mr. urraka
+Spas-12
+--- 19-04-02 04:17:38
+Mr. malbeC.
+Mr. Bait
+Spas-12
+--- 19-04-02 04:17:40
+Mr. malbeC.
+Mr. malbeC.
+Grenade
+--- 19-04-02 04:17:44
+Mr. Bait
+Mr. Jack
+Steyr AUG
+--- 19-04-02 04:17:52
+Mr. urraka
+Mr. malbeC.
+Desert Eagles
+--- 19-04-02 04:18:00
+Mr. Bait
+Mr. Jack
+Steyr AUG
+--- 19-04-02 04:18:08
+Mr. Bait
+Mr. malbeC.
+Steyr AUG
+--- 19-04-02 04:18:10
+Mr. Jack
+Mr. Jack
+Grenade
+--- 19-04-02 04:18:17
+Mr. Jack
+Mr. urraka
+Grenade
+--- 19-04-02 04:18:17
+Mr. malbeC.
+Mr. Bait
+Spas-12
+--- 19-04-02 04:18:22
+Mr. Jack
+Mr. Bait
+Barrett M82A1
+--- 19-04-02 04:18:23
+Mr. Bait
+Mr. malbeC.
+Grenade
+--- 19-04-02 04:18:28
+Mr. urraka
+Mr. Jack
+Desert Eagles
+--- 19-04-02 04:18:36
+Mr. malbeC.
+Mr. urraka
+Spas-12
+--- 19-04-02 04:18:43
+Mr. Jack
+Mr. Bait
+Grenade
+--- 19-04-02 04:18:46
+Mr. malbeC.
+Mr. urraka
+Spas-12
+--- 19-04-02 04:19:03
+Mr. urraka
+Mr. Jack
+Desert Eagles
+--- 19-04-02 04:19:08
+Mr. Jack
+Mr. urraka
+Grenade
+--- 19-04-02 04:19:15
+Mr. Jack
+Mr. urraka
+Barrett M82A1
+--- 19-04-02 04:19:22
+Mr. urraka
+Mr. Jack
+Desert Eagles
+--- 19-04-02 04:19:23
+Mr. urraka
+Mr. malbeC.
+Desert Eagles
+--- 19-04-02 04:19:32
+Mr. malbeC.
+Mr. urraka
+Spas-12
+--- 19-04-02 04:19:39
+Mr. Bait
+Mr. Jack
+Steyr AUG
+--- 19-04-02 04:19:43
+Mr. malbeC.
+Mr. urraka
+Spas-12
+--- 19-04-02 04:19:45
+Mr. Bait
+Mr. malbeC.
+Steyr AUG
+--- 19-04-02 04:19:50
+Mr. urraka
+Mr. Jack
+Desert Eagles
+--- 19-04-02 04:19:56
+Mr. Bait
+Mr. Bait
+Grenade
+--- 19-04-02 04:19:56
+Mr. Bait
+Mr. malbeC.
+Grenade
+--- 19-04-02 04:20:05
+Mr. Jack
+Mr. Bait
+Combat Knife
+--- 19-04-02 04:20:13
+Mr. malbeC.
+Mr. Bait
+Spas-12
+--- 19-04-02 04:20:20
+Mr. Jack
+Mr. urraka
+Grenade
+--- 19-04-02 04:20:25
+Mr. urraka
+Mr. malbeC.
+Desert Eagles
+--- 19-04-02 04:20:34
+Mr. Bait
+Mr. malbeC.
+Steyr AUG
+--- 19-04-02 04:20:43
+Mr. Bait
+Mr. Jack
+Steyr AUG
+--- 19-04-02 04:20:46
+Mr. malbeC.
+Mr. Bait
+LAW
+--- 19-04-02 04:20:47
+Mr. malbeC.
+Mr. urraka
+Spas-12
+--- 19-04-02 04:21:23
+Mr. malbeC.
+Mr. malbeC.
+Selfkill
+--- 19-04-08 01:19:00
+$$$ GREEN POWER
+PAPI KE LO KIE
+Barrett M82A1
+--- 19-04-08 01:19:06
+PAPI KE LO KIE
+$$$ GREEN POWER
+Steyr AUG
+--- 19-04-08 01:19:11
+sT.- Maaxis* Champion
+PAPI KE LO KIE
+Grenade
+--- 19-04-08 01:19:16
+sT.- Maaxis* Champion
+Ruger 77
+--- 19-04-08 01:19:19
+PAPI KE LO KIE
+$$$ GREEN POWER
+Grenade
+--- 19-04-08 01:19:20
+$$$ GREEN POWER
+PAPI KE LO KIE
+Barrett M82A1
+--- 19-04-08 01:19:24
+$$$ GREEN POWER
+Grenade
+--- 19-04-08 01:19:25
+$$$ GREEN POWER
+Combat Knife
+--- 19-04-08 01:19:31
+$$$ GREEN POWER
+Combat Knife
+--- 19-04-08 01:19:34
+PAPI KE LO KIE
+sT.- Maaxis* Champion
+Steyr AUG
+--- 19-04-08 01:19:39
+$$$ GREEN POWER
+PAPI KE LO KIE
+Combat Knife
+--- 19-04-08 01:19:40
+$$$ GREEN POWER
+Steyr AUG
+--- 19-04-08 01:19:46
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-08 01:19:50
+$$$ GREEN POWER
+Grenade
+--- 19-04-08 01:19:50
+PAPI KE LO KIE
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-08 01:19:52
+$$$ GREEN POWER
+sT.- YnGwi3
+Grenade
+--- 19-04-08 01:19:58
+sT.- Maaxis* Champion
+PAPI KE LO KIE
+Ruger 77
+--- 19-04-08 01:20:29
+PAPI KE LO KIE
+$$$ GREEN POWER
+Grenade
+--- 19-04-08 01:20:29
+PAPI KE LO KIE
+i|CrasheR
+Grenade
+--- 19-04-08 01:20:42
+PAPI KE LO KIE
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-08 01:20:43
+$$$ GREEN POWER
+Grenade
+--- 19-04-08 01:20:43
+$$$ GREEN POWER
+Ruger 77
+--- 19-04-08 01:20:47
+i|CrasheR
+PAPI KE LO KIE
+Barrett M82A1
+--- 19-04-08 01:20:51
+i|CrasheR
+sT.- YnGwi3
+Barrett M82A1
+--- 19-04-08 01:21:02
+sT.- Maaxis* Champion
+sT.- YnGwi3
+Grenade
+--- 19-04-08 01:21:03
+sT.- YnGwi3
+i|CrasheR
+Grenade
+--- 19-04-08 01:21:03
+$$$ GREEN POWER
+PAPI KE LO KIE
+M79
+--- 19-04-08 01:21:04
+sT.- Maaxis* Champion
+Spas-12
+--- 19-04-08 01:21:09
+sT.- YnGwi3
+$$$ GREEN POWER
+Grenade
+--- 19-04-08 01:21:09
+PAPI KE LO KIE
+sT.- Maaxis* Champion
+Steyr AUG
+--- 19-04-08 01:21:11
+i|CrasheR
+sT.- YnGwi3
+Barrett M82A1
+--- 19-04-08 01:21:18
+$$$ GREEN POWER
+PAPI KE LO KIE
+M79
+--- 19-04-08 01:21:19
+sT.- YnGwi3
+$$$ GREEN POWER
+Spas-12
+--- 19-04-08 01:21:26
+PAPI KE LO KIE
+sT.- Maaxis* Champion
+Steyr AUG
+--- 19-04-08 01:21:29
+$$$ GREEN POWER
+LAW
+--- 19-04-08 01:21:30
+PAPI KE LO KIE
+i|CrasheR
+Steyr AUG
+--- 19-04-08 01:21:38
+$$$ GREEN POWER
+Steyr AUG
+--- 19-04-08 01:21:41
+PAPI KE LO KIE
+sT.- Maaxis* Champion
+Steyr AUG
+--- 19-04-08 01:21:44
+PAPI KE LO KIE
+i|CrasheR
+Steyr AUG
+--- 19-04-08 01:21:47
+$$$ GREEN POWER
+M79
+--- 19-04-08 01:21:47
+$$$ GREEN POWER
+Steyr AUG
+--- 19-04-08 01:21:48
+PAPI KE LO KIE
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-08 01:21:56
+$$$ GREEN POWER
+M79
+--- 19-04-08 01:21:57
+sT.- YnGwi3
+$$$ GREEN POWER
+Spas-12
+--- 19-04-08 01:22:00
+i|CrasheR
+sT.- YnGwi3
+Barrett M82A1
+--- 19-04-08 01:22:01
+PAPI KE LO KIE
+sT.- Maaxis* Champion
+Steyr AUG
+--- 19-04-08 01:22:03
+i|CrasheR
+Steyr AUG
+--- 19-04-08 01:22:07
+$$$ GREEN POWER
+sT.- YnGwi3
+M79
+--- 19-04-08 01:22:11
+i|CrasheR
+PAPI KE LO KIE
+Barrett M82A1
+--- 19-04-08 01:22:11
+$$$ GREEN POWER
+Steyr AUG
+--- 19-04-08 01:22:15
+i|CrasheR
+i|CrasheR
+Grenade
+--- 19-04-08 01:22:17
+sT.- Maaxis* Champion
+Spas-12
+--- 19-04-08 01:22:21
+sT.- Maaxis* Champion
+sT.- YnGwi3
+Spas-12
+--- 19-04-08 01:22:21
+$$$ GREEN POWER
+M79
+--- 19-04-08 01:22:22
+i|CrasheR
+PAPI KE LO KIE
+Grenade
+--- 19-04-08 01:22:28
+$$$ GREEN POWER
+PAPI KE LO KIE
+M79
+--- 19-04-08 01:22:29
+sT.- YnGwi3
+i|CrasheR
+Spas-12
+--- 19-04-08 01:22:31
+sT.- YnGwi3
+sT.- Maaxis* Champion
+Spas-12
+--- 19-04-08 01:22:33
+i|CrasheR
+sT.- YnGwi3
+Grenade
+--- 19-04-08 01:22:37
+i|CrasheR
+Barrett M82A1
+--- 19-04-08 01:22:44
+i|CrasheR
+sT.- YnGwi3
+Barrett M82A1
+--- 19-04-08 01:22:44
+sT.- YnGwi3
+sT.- Maaxis* Champion
+Spas-12
+--- 19-04-08 01:22:46
+i|CrasheR
+Grenade
+--- 19-04-08 01:22:47
+PAPI KE LO KIE
+$$$ GREEN POWER
+Steyr AUG
+--- 19-04-08 01:22:47
+Grenade
+--- 19-04-08 01:22:55
+i|CrasheR
+sT.- YnGwi3
+Barrett M82A1
+--- 19-04-08 01:23:00
+i|CrasheR
+Barrett M82A1
+--- 19-04-08 01:23:03
+sT.- Maaxis* Champion
+PAPI KE LO KIE
+Spas-12
+--- 19-04-08 01:23:07
+sT.- Maaxis* Champion
+Steyr AUG
+--- 19-04-08 01:23:09
+i|CrasheR
+sT.- YnGwi3
+Barrett M82A1
+--- 19-04-08 01:23:10
+PAPI KE LO KIE
+$$$ GREEN POWER
+Steyr AUG
+--- 19-04-08 01:23:11
+i|CrasheR
+Combat Knife
+--- 19-04-08 01:23:11
+PAPI KE LO KIE
+i|CrasheR
+Steyr AUG
+--- 19-04-08 01:23:15
+$$$ GREEN POWER
+PAPI KE LO KIE
+Combat Knife
+--- 19-04-08 01:23:19
+sT.- Maaxis* Champion
+sT.- YnGwi3
+Grenade
+--- 19-04-08 01:23:19
+sT.- Maaxis* Champion
+Steyr AUG
+--- 19-04-08 01:23:21
+$$$ GREEN POWER
+PAPI KE LO KIE
+M79
+--- 19-04-08 01:23:22
+i|CrasheR
+Barrett M82A1
+--- 19-04-08 01:23:26
+sT.- YnGwi3
+$$$ GREEN POWER
+Spas-12
+--- 19-04-08 01:23:27
+i|CrasheR
+Steyr AUG
+--- 19-04-08 01:23:30
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-08 01:23:30
+sT.- Maaxis* Champion
+sT.- YnGwi3
+Spas-12
+--- 19-04-08 01:23:32
+sT.- Maaxis* Champion
+PAPI KE LO KIE
+LAW
+--- 19-04-08 01:23:36
+Grenade
+--- 19-04-08 01:23:37
+$$$ GREEN POWER
+sT.- YnGwi3
+M79
+--- 19-04-08 01:23:37
+sT.- YnGwi3
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-08 01:23:40
+PAPI KE LO KIE
+$$$ GREEN POWER
+Steyr AUG
+--- 19-04-08 01:23:44
+i|CrasheR
+Steyr AUG
+--- 19-04-08 01:23:48
+$$$ GREEN POWER
+M79
+--- 19-04-08 01:23:51
+$$$ GREEN POWER
+sT.- YnGwi3
+M79
+--- 19-04-08 01:23:52
+sT.- YnGwi3
+$$$ GREEN POWER
+HK MP5
+--- 19-04-08 01:23:55
+i|CrasheR
+Steyr AUG
+--- 19-04-08 01:23:57
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-08 01:23:57
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-08 01:23:59
+$$$ GREEN POWER
+sT.- YnGwi3
+M79
+--- 19-04-08 01:24:00
+PAPI KE LO KIE
+$$$ GREEN POWER
+Grenade
+--- 19-04-08 01:24:05
+i|CrasheR
+Combat Knife
+--- 19-04-08 01:24:06
+PAPI KE LO KIE
+i|CrasheR
+Steyr AUG
+--- 19-04-08 01:24:07
+sT.- Maaxis* Champion
+sT.- YnGwi3
+Grenade
+--- 19-04-08 01:24:07
+sT.- YnGwi3
+sT.- Maaxis* Champion
+HK MP5
+--- 19-04-08 01:24:12
+sT.- YnGwi3
+$$$ GREEN POWER
+Grenade
+--- 19-04-08 01:24:14
+PAPI KE LO KIE
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-08 01:24:14
+sT.- Maaxis* Champion
+PAPI KE LO KIE
+FN Minimi
+--- 19-04-08 01:24:20
+i|CrasheR
+Grenade
+--- 19-04-08 01:24:22
+sT.- Maaxis* Champion
+sT.- YnGwi3
+Grenade
+--- 19-04-08 01:24:24
+$$$ GREEN POWER
+PAPI KE LO KIE
+M79
+--- 19-04-08 01:24:27
+sT.- YnGwi3
+$$$ GREEN POWER
+Grenade
+--- 19-04-08 01:24:27
+i|CrasheR
+Combat Knife
+--- 19-04-08 01:24:35
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-08 01:24:36
+PAPI KE LO KIE
+i|CrasheR
+Grenade
+--- 19-04-08 01:24:38
+sT.- YnGwi3
+$$$ GREEN POWER
+Grenade
+--- 19-04-08 01:24:42
+sT.- YnGwi3
+sT.- Maaxis* Champion
+HK MP5
+--- 19-04-08 01:24:45
+i|CrasheR
+PAPI KE LO KIE
+Barrett M82A1
+--- 19-04-08 01:24:46
+sT.- YnGwi3
+i|CrasheR
+HK MP5
+--- 19-04-08 01:24:48
+$$$ GREEN POWER
+sT.- YnGwi3
+M79
+--- 19-04-08 01:24:49
+sT.- YnGwi3
+$$$ GREEN POWER
+Grenade
+--- 19-04-08 01:24:52
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-08 01:24:55
+i|CrasheR
+PAPI KE LO KIE
+Barrett M82A1
+--- 19-04-08 01:24:57
+sT.- Maaxis* Champion
+HK MP5
+--- 19-04-08 01:25:00
+i|CrasheR
+PAPI KE LO KIE
+Barrett M82A1
+--- 19-04-08 01:25:00
+$$$ GREEN POWER
+M79
+--- 19-04-08 01:25:05
+$$$ GREEN POWER
+sT.- YnGwi3
+M79
+--- 19-04-08 01:25:07
+$$$ GREEN POWER
+Grenade
+--- 19-04-08 01:25:09
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-08 01:25:09
+sT.- Maaxis* Champion
+HK MP5
+--- 19-04-08 01:25:13
+PAPI KE LO KIE
+i|CrasheR
+Steyr AUG
+--- 19-04-08 01:25:16
+PAPI KE LO KIE
+$$$ GREEN POWER
+Combat Knife
+--- 19-04-08 01:25:17
+sT.- Maaxis* Champion
+sT.- YnGwi3
+FN Minimi
+--- 19-04-08 01:25:18
+PAPI KE LO KIE
+sT.- Maaxis* Champion
+Combat Knife
+--- 19-04-08 01:25:18
+sT.- Maaxis* Champion
+PAPI KE LO KIE
+FN Minimi
+--- 19-04-08 01:25:25
+i|CrasheR
+sT.- YnGwi3
+Barrett M82A1
+--- 19-04-08 01:25:27
+sT.- YnGwi3
+$$$ GREEN POWER
+Grenade
+--- 19-04-08 01:25:28
+PAPI KE LO KIE
+i|CrasheR
+Steyr AUG
+--- 19-04-08 01:25:28
+sT.- Maaxis* Champion
+FN Minimi
+--- 19-04-08 01:25:33
+sT.- YnGwi3
+i|CrasheR
+Grenade
+--- 19-04-08 01:25:33
+sT.- YnGwi3
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-08 01:25:40
+PAPI KE LO KIE
+$$$ GREEN POWER
+Steyr AUG
+--- 19-04-08 01:25:42
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-08 01:26:28
+PAPI KE LO KIE
+i|CrasheR
+Steyr AUG
+--- 19-04-08 01:26:29
+$$$ GREEN POWER
+PAPI KE LO KIE
+M79
+--- 19-04-08 01:26:31
+$$$ GREEN POWER
+HK MP5
+--- 19-04-08 01:26:31
+$$$ GREEN POWER
+sT.- YnGwi3
+M79
+--- 19-04-08 01:26:35
+sT.- Maaxis* Champion
+HK MP5
+--- 19-04-08 01:26:37
+i|CrasheR
+PAPI KE LO KIE
+Barrett M82A1
+--- 19-04-08 01:26:41
+sT.- YnGwi3
+$$$ GREEN POWER
+Grenade
+--- 19-04-08 01:26:42
+PAPI KE LO KIE
+i|CrasheR
+Steyr AUG
+--- 19-04-08 01:26:43
+sT.- Maaxis* Champion
+sT.- YnGwi3
+FN Minimi
+--- 19-04-08 01:26:47
+PAPI KE LO KIE
+sT.- Maaxis* Champion
+Steyr AUG
+--- 19-04-08 01:26:50
+$$$ GREEN POWER
+HK MP5
+--- 19-04-08 01:26:52
+i|CrasheR
+Barrett M82A1
+--- 19-04-08 01:26:54
+sT.- Maaxis* Champion
+PAPI KE LO KIE
+Ak-74
+--- 19-04-08 01:26:54
+i|CrasheR
+sT.- YnGwi3
+Grenade
+--- 19-04-08 01:26:59
+i|CrasheR
+Barrett M82A1
+--- 19-04-08 01:27:07
+$$$ GREEN POWER
+sT.- YnGwi3
+M79
+--- 19-04-08 01:27:07
+sT.- Maaxis* Champion
+PAPI KE LO KIE
+LAW
+--- 19-04-08 01:27:11
+i|CrasheR
+HK MP5
+--- 19-04-08 01:27:11
+$$$ GREEN POWER
+Grenade
+--- 19-04-08 01:27:19
+sT.- Maaxis* Champion
+PAPI KE LO KIE
+Ak-74
+--- 19-04-08 01:27:19
+PAPI KE LO KIE
+sT.- Maaxis* Champion
+Combat Knife
+--- 19-04-08 01:27:21
+i|CrasheR
+sT.- YnGwi3
+Barrett M82A1
+--- 19-04-08 01:27:23
+$$$ GREEN POWER
+HK MP5
+--- 19-04-08 01:27:28
+sT.- Maaxis* Champion
+sT.- YnGwi3
+Grenade
+--- 19-04-08 01:27:28
+i|CrasheR
+PAPI KE LO KIE
+Grenade
+--- 19-04-08 01:27:33
+sT.- YnGwi3
+sT.- Maaxis* Champion
+Hands
+--- 19-04-08 01:27:33
+$$$ GREEN POWER
+M79
+--- 19-04-08 01:27:37
+PAPI KE LO KIE
+$$$ GREEN POWER
+Steyr AUG
+--- 19-04-08 01:27:38
+i|CrasheR
+PAPI KE LO KIE
+Combat Knife
+--- 19-04-08 01:27:44
+$$$ GREEN POWER
+sT.- YnGwi3
+M79
+--- 19-04-08 01:27:45
+PAPI KE LO KIE
+$$$ GREEN POWER
+Steyr AUG
+--- 19-04-08 01:27:49
+sT.- Maaxis* Champion
+HK MP5
+--- 19-04-08 01:27:51
+i|CrasheR
+HK MP5
+--- 19-04-08 01:27:55
+sT.- YnGwi3
+$$$ GREEN POWER
+Grenade
+--- 19-04-08 01:27:58
+PAPI KE LO KIE
+i|CrasheR
+Steyr AUG
+--- 19-04-08 01:27:58
+i|CrasheR
+PAPI KE LO KIE
+Grenade
+--- 19-04-08 01:28:04
+i|CrasheR
+sT.- YnGwi3
+Steyr AUG
+--- 19-04-08 01:28:04
+sT.- Maaxis* Champion
+Ak-74
+--- 19-04-08 01:28:09
+PAPI KE LO KIE
+PAPI KE LO KIE
+Grenade
+--- 19-04-08 01:28:09
+PAPI KE LO KIE
+i|CrasheR
+Grenade
+--- 19-04-08 01:28:12
+sT.- YnGwi3
+$$$ GREEN POWER
+HK MP5
+--- 19-04-08 01:28:15
+sT.- Maaxis* Champion
+Ak-74
+--- 19-04-08 01:28:17
+sT.- Maaxis* Champion
+sT.- YnGwi3
+Ak-74
+--- 19-04-08 01:28:18
+$$$ GREEN POWER
+PAPI KE LO KIE
+Combat Knife
+--- 19-04-08 01:28:21
+i|CrasheR
+HK MP5
+--- 19-04-08 01:28:22
+$$$ GREEN POWER
+M79
+--- 19-04-08 01:28:24
+PAPI KE LO KIE
+$$$ GREEN POWER
+Steyr AUG
+--- 19-04-08 01:28:27
+i|CrasheR
+sT.- YnGwi3
+Steyr AUG
+--- 19-04-08 01:28:28
+sT.- YnGwi3
+i|CrasheR
+Combat Knife
+--- 19-04-08 01:28:30
+$$$ GREEN POWER
+PAPI KE LO KIE
+Grenade
+--- 19-04-08 01:28:32
+sT.- Maaxis* Champion
+LAW
+--- 19-04-08 01:28:35
+i|CrasheR
+Grenade
+--- 19-04-08 01:28:42
+PAPI KE LO KIE
+i|CrasheR
+Steyr AUG
+--- 19-04-08 01:28:45
+sT.- Maaxis* Champion
+sT.- YnGwi3
+Grenade
+--- 19-04-08 01:28:46
+PAPI KE LO KIE
+sT.- Maaxis* Champion
+Combat Knife
+--- 19-04-08 01:28:50
+i|CrasheR
+PAPI KE LO KIE
+Grenade
+--- 19-04-08 01:28:51
+$$$ GREEN POWER
+sT.- YnGwi3
+M79
+--- 19-04-08 01:28:51
+$$$ GREEN POWER
+LAW
+--- 19-04-08 01:28:52
+i|CrasheR
+HK MP5
+--- 19-04-08 01:28:55
+sT.- Maaxis* Champion
+HK MP5
+--- 19-04-08 01:28:58
+i|CrasheR
+Grenade
+--- 19-04-08 01:29:00
+sT.- YnGwi3
+$$$ GREEN POWER
+Grenade
+--- 19-04-08 01:29:02
+PAPI KE LO KIE
+sT.- Maaxis* Champion
+Steyr AUG
+--- 19-04-08 01:29:05
+i|CrasheR
+PAPI KE LO KIE
+Combat Knife
+--- 19-04-08 01:29:07
+i|CrasheR
+sT.- YnGwi3
+Steyr AUG
+--- 19-04-08 01:29:10
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-08 01:29:15
+$$$ GREEN POWER
+HK MP5
+--- 19-04-08 01:29:17
+sT.- YnGwi3
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-08 01:29:17
+sT.- YnGwi3
+sT.- YnGwi3
+Grenade
+--- 19-04-08 01:29:18
+i|CrasheR
+Grenade
+--- 19-04-08 01:29:25
+sT.- YnGwi3
+$$$ GREEN POWER
+HK MP5
+--- 19-04-08 01:29:27
+i|CrasheR
+PAPI KE LO KIE
+Steyr AUG
+--- 19-04-08 01:29:28
+sT.- Maaxis* Champion
+Ak-74
+--- 19-04-08 01:29:30
+i|CrasheR
+i|CrasheR
+Grenade
+--- 19-04-08 01:29:33
+$$$ GREEN POWER
+sT.- YnGwi3
+M79
+--- 19-04-08 01:29:35
+PAPI KE LO KIE
+$$$ GREEN POWER
+Grenade
+--- 19-04-08 01:29:36
+sT.- Maaxis* Champion
+HK MP5
+--- 19-04-08 01:29:39
+i|CrasheR
+PAPI KE LO KIE
+Steyr AUG
+--- 19-04-08 01:29:40
+i|CrasheR
+Steyr AUG
+--- 19-04-08 01:29:48
+$$$ GREEN POWER
+HK MP5
+--- 19-04-08 01:29:50
+PAPI KE LO KIE
+sT.- Maaxis* Champion
+Steyr AUG
+--- 19-04-08 01:29:54
+sT.- Maaxis* Champion
+PAPI KE LO KIE
+Grenade
+--- 19-04-08 01:29:54
+sT.- Maaxis* Champion
+sT.- YnGwi3
+Ak-74
+--- 19-04-08 01:30:00
+i|CrasheR
+HK MP5
+--- 19-04-08 01:30:00
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-08 01:30:01
+$$$ GREEN POWER
+PAPI KE LO KIE
+M79
+--- 19-04-08 01:30:06
+sT.- YnGwi3
+i|CrasheR
+Grenade
+--- 19-04-08 01:30:08
+$$$ GREEN POWER
+Grenade
+--- 19-04-08 01:30:08
+sT.- YnGwi3
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-08 01:30:11
+i|CrasheR
+sT.- YnGwi3
+Combat Knife
+--- 19-04-08 01:30:16
+PAPI KE LO KIE
+$$$ GREEN POWER
+Steyr AUG
+--- 19-04-08 01:30:18
+i|CrasheR
+Steyr AUG
+--- 19-04-08 01:30:20
+i|CrasheR
+sT.- YnGwi3
+Combat Knife
+--- 19-04-08 01:30:21
+PAPI KE LO KIE
+i|CrasheR
+Steyr AUG
+--- 19-04-08 01:30:24
+$$$ GREEN POWER
+M79
+--- 19-04-08 01:30:24
+sT.- YnGwi3
+sT.- Maaxis* Champion
+HK MP5
+--- 19-04-08 01:30:29
+$$$ GREEN POWER
+sT.- YnGwi3
+M79
+--- 19-04-08 01:30:29
+i|CrasheR
+PAPI KE LO KIE
+Steyr AUG
+--- 19-04-08 01:30:31
+PAPI KE LO KIE
+i|CrasheR
+Grenade
+--- 19-04-08 01:30:31
+$$$ GREEN POWER
+Hands
+--- 19-04-08 01:30:35
+sT.- Maaxis* Champion
+sT.- YnGwi3
+LAW
+--- 19-04-08 01:30:38
+sT.- Maaxis* Champion
+Ak-74
+--- 19-04-08 01:30:38
+sT.- Maaxis* Champion
+HK MP5
+--- 19-04-08 01:30:43
+PAPI KE LO KIE
+i|CrasheR
+Steyr AUG
+--- 19-04-08 01:30:45
+sT.- YnGwi3
+$$$ GREEN POWER
+Grenade
+--- 19-04-08 01:30:48
+sT.- Maaxis* Champion
+PAPI KE LO KIE
+Grenade
+--- 19-04-08 01:30:48
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-08 01:30:48
+sT.- Maaxis* Champion
+Ak-74
+--- 19-04-08 01:30:53
+$$$ GREEN POWER
+sT.- YnGwi3
+M79
+--- 19-04-08 01:30:58
+$$$ GREEN POWER
+LAW
+--- 19-04-08 01:30:58
+sT.- Maaxis* Champion
+PAPI KE LO KIE
+Ak-74
+--- 19-04-08 01:31:00
+i|CrasheR
+sT.- YnGwi3
+Combat Knife
+--- 19-04-08 01:31:04
+PAPI KE LO KIE
+i|CrasheR
+Steyr AUG
+--- 19-04-08 01:31:07
+$$$ GREEN POWER
+PAPI KE LO KIE
+M79
+--- 19-04-08 01:31:09
+$$$ GREEN POWER
+Combat Knife
+--- 19-04-08 01:31:13
+i|CrasheR
+sT.- YnGwi3
+Steyr AUG
+--- 19-04-08 01:31:19
+PAPI KE LO KIE
+i|CrasheR
+Steyr AUG
+--- 19-04-08 01:31:21
+sT.- YnGwi3
+$$$ GREEN POWER
+Grenade
+--- 19-04-08 01:31:22
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-08 01:31:25
+i|CrasheR
+Steyr AUG
+--- 19-04-08 01:31:26
+PAPI KE LO KIE
+i|CrasheR
+Steyr AUG
+--- 19-04-08 01:31:26
+i|CrasheR
+sT.- YnGwi3
+Grenade
+--- 19-04-08 01:31:27
+sT.- Maaxis* Champion
+PAPI KE LO KIE
+Ak-74
+--- 19-04-08 01:31:32
+$$$ GREEN POWER
+Steyr AUG
+--- 19-04-08 01:31:34
+PAPI KE LO KIE
+sT.- Maaxis* Champion
+Steyr AUG
+--- 19-04-08 01:31:36
+i|CrasheR
+sT.- YnGwi3
+Combat Knife
+--- 19-04-08 01:33:08
+$$$ GREEN POWER
+sT.- YnGwi3
+M79
+--- 19-04-08 01:33:12
+$$$ GREEN POWER
+M79
+--- 19-04-08 01:33:15
+PAPI KE LO KIE
+PAPI KE LO KIE
+Grenade
+--- 19-04-08 01:33:17
+i|CrasheR
+sT.- YnGwi3
+Combat Knife
+--- 19-04-08 01:33:20
+sT.- Maaxis* Champion
+Steyr AUG
+--- 19-04-08 01:33:26
+$$$ GREEN POWER
+sT.- YnGwi3
+M79
+--- 19-04-08 01:33:31
+$$$ GREEN POWER
+M79
+--- 19-04-08 01:33:32
+PAPI KE LO KIE
+sT.- Maaxis* Champion
+Steyr AUG
+--- 19-04-08 01:33:33
+i|CrasheR
+PAPI KE LO KIE
+Steyr AUG
+--- 19-04-08 01:33:37
+sT.- YnGwi3
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-08 01:33:37
+sT.- YnGwi3
+sT.- YnGwi3
+Grenade
+--- 19-04-08 01:33:40
+$$$ GREEN POWER
+M79
+--- 19-04-08 01:33:41
+PAPI KE LO KIE
+i|CrasheR
+Steyr AUG
+--- 19-04-08 01:33:44
+PAPI KE LO KIE
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-08 01:33:46
+$$$ GREEN POWER
+Grenade
+--- 19-04-08 01:33:48
+i|CrasheR
+PAPI KE LO KIE
+Ak-74
+--- 19-04-08 01:33:49
+sT.- YnGwi3
+i|CrasheR
+HK MP5
+--- 19-04-08 01:33:54
+sT.- Maaxis* Champion
+Steyr AUG
+--- 19-04-08 01:33:55
+$$$ GREEN POWER
+PAPI KE LO KIE
+Grenade
+--- 19-04-08 01:34:00
+i|CrasheR
+Desert Eagles
+--- 19-04-08 01:34:00
+PAPI KE LO KIE
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-08 01:34:02
+sT.- YnGwi3
+$$$ GREEN POWER
+Grenade
+--- 19-04-08 01:34:03
+sT.- YnGwi3
+i|CrasheR
+HK MP5
+--- 19-04-08 01:34:08
+sT.- Maaxis* Champion
+Steyr AUG
+--- 19-04-08 01:34:15
+$$$ GREEN POWER
+PAPI KE LO KIE
+Grenade
+--- 19-04-08 01:34:16
+sT.- Maaxis* Champion
+Steyr AUG
+--- 19-04-08 01:34:18
+i|CrasheR
+Steyr AUG
+--- 19-04-08 01:34:19
+$$$ GREEN POWER
+Grenade
+--- 19-04-08 01:34:23
+PAPI KE LO KIE
+$$$ GREEN POWER
+Grenade
+--- 19-04-08 01:34:24
+sT.- Maaxis* Champion
+PAPI KE LO KIE
+Grenade
+--- 19-04-08 01:34:26
+M79
+--- 19-04-08 01:34:26
+i|CrasheR
+sT.- YnGwi3
+Ak-74
+--- 19-04-08 01:34:30
+sT.- Maaxis* Champion
+PAPI KE LO KIE
+Grenade
+--- 19-04-08 01:34:35
+sT.- Maaxis* Champion
+Steyr AUG
+--- 19-04-08 01:34:35
+$$$ GREEN POWER
+sT.- YnGwi3
+M79
+--- 19-04-08 01:34:36
+PAPI KE LO KIE
+$$$ GREEN POWER
+Grenade
+--- 19-04-08 01:34:56
+PAPI KE LO KIE
+i|CrasheR
+Grenade
+--- 19-04-08 01:35:00
+PAPI KE LO KIE
+sT.- Maaxis* Champion
+Steyr AUG
+--- 19-04-08 01:35:00
+$$$ GREEN POWER
+sT.- YnGwi3
+M79
+--- 19-04-08 01:35:03
+$$$ GREEN POWER
+Steyr AUG
+--- 19-04-08 01:35:04
+$$$ GREEN POWER
+Grenade
+--- 19-04-08 01:35:07
+i|CrasheR
+PAPI KE LO KIE
+Ak-74
+--- 19-04-08 01:35:12
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-08 01:35:13
+PAPI KE LO KIE
+sT.- Maaxis* Champion
+Steyr AUG
+--- 19-04-08 01:35:22
+sT.- Maaxis* Champion
+Steyr AUG
+--- 19-04-08 01:35:22
+i|CrasheR
+PAPI KE LO KIE
+Grenade
+--- 19-04-08 01:35:28
+$$$ GREEN POWER
+PAPI KE LO KIE
+M79
+--- 19-04-08 01:35:28
+i|CrasheR
+Ak-74
+--- 19-04-08 01:35:35
+PAPI KE LO KIE
+$$$ GREEN POWER
+Steyr AUG
+--- 19-04-08 01:35:38
+PAPI KE LO KIE
+sT.- Maaxis* Champion
+Combat Knife
+--- 19-04-08 01:35:38
+sT.- Maaxis* Champion
+PAPI KE LO KIE
+HK MP5
+--- 19-04-08 01:35:42
+$$$ GREEN POWER
+Combat Knife
+--- 19-04-08 01:35:47
+$$$ GREEN POWER
+PAPI KE LO KIE
+M79
+--- 19-04-08 01:36:01
+PAPI KE LO KIE
+sT.- Maaxis* Champion
+Steyr AUG
+--- 19-04-08 01:36:04
+PAPI KE LO KIE
+$$$ GREEN POWER
+Steyr AUG
+--- 19-04-08 01:36:04
+$$$ GREEN POWER
+PAPI KE LO KIE
+M79
+--- 19-04-08 01:36:10
+sT.- Maaxis* Champion
+Ak-74
+--- 19-04-08 01:36:10
+sT.- Maaxis* Champion
+PAPI KE LO KIE
+Ak-74
+--- 19-04-08 01:36:11
+sT.- YnGwi3
+$$$ GREEN POWER
+Grenade
+--- 19-04-08 01:36:12
+$$$ GREEN POWER
+sT.- YnGwi3
+M79
+--- 19-04-08 01:36:15
+PAPI KE LO KIE
+sT.- Maaxis* Champion
+Steyr AUG
+--- 19-04-08 01:36:20
+$$$ GREEN POWER
+M79
+--- 19-04-08 01:36:24
+$$$ GREEN POWER
+Combat Knife
+--- 19-04-08 01:36:24
+$$$ GREEN POWER
+Grenade
+--- 19-04-08 01:36:29
+PAPI KE LO KIE
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-08 01:36:36
+sT.- Maaxis* Champion
+PAPI KE LO KIE
+Ak-74
+--- 19-04-08 01:36:38
+i|CrasheR
+Ak-74
+--- 19-04-08 01:36:43
+$$$ GREEN POWER
+PAPI KE LO KIE
+M79
+--- 19-04-08 01:36:51
+i|CrasheR
+Ak-74
+--- 19-04-08 01:36:55
+i|CrasheR
+PAPI KE LO KIE
+Barrett M82A1
+--- 19-04-08 01:36:59
+$$$ GREEN POWER
+M79
+--- 19-04-08 01:37:00
+PAPI KE LO KIE
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-08 01:37:02
+sT.- YnGwi3
+$$$ GREEN POWER
+Grenade
+--- 19-04-08 01:37:08
+$$$ GREEN POWER
+sT.- YnGwi3
+M79
+--- 19-04-08 01:37:14
+i|CrasheR
+Grenade
+--- 19-04-08 01:37:17
+sT.- YnGwi3
+sT.- Maaxis* Champion
+Ak-74
+--- 19-04-08 01:37:18
+$$$ GREEN POWER
+$$$ GREEN POWER
+M79
+--- 19-04-08 01:37:18
+$$$ GREEN POWER
+sT.- YnGwi3
+M79
+--- 19-04-08 01:38:06
+i|CrasheR
+Grenade
+--- 19-04-08 01:38:07
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-08 01:38:09
+sT.- Maaxis* Champion
+sT.- YnGwi3
+Grenade
+--- 19-04-08 01:38:09
+sT.- YnGwi3
+sT.- Maaxis* Champion
+HK MP5
+--- 19-04-08 01:38:09
+$$$ GREEN POWER
+PAPI KE LO KIE
+M79
+--- 19-04-08 01:38:55
+PAPI KE LO KIE
+$$$ GREEN POWER
+Steyr AUG
+--- 19-04-08 01:39:00
+sT.- Maaxis* Champion
+SOPA DO MAKAKO DELISSIA
+Grenade
+--- 19-04-08 01:39:02
+sT.- Maaxis* Champion
+sT.- YnGwi3
+Steyr AUG
+--- 19-04-08 01:39:03
+PAPI KE LO KIE
+$$$ GREEN POWER
+Steyr AUG
+--- 19-04-08 01:39:03
+PAPI KE LO KIE
+i|CrasheR
+Steyr AUG
+--- 19-04-08 01:39:06
+SOPA DO MAKAKO DELISSIA
+sT.- Maaxis* Champion
+Steyr AUG
+--- 19-04-08 01:39:11
+SOPA DO MAKAKO DELISSIA
+i|CrasheR
+Grenade
+--- 19-04-08 01:39:11
+$$$ GREEN POWER
+sT.- YnGwi3
+M79
+--- 19-04-08 01:39:13
+PAPI KE LO KIE
+$$$ GREEN POWER
+Grenade
+--- 19-04-08 01:39:14
+$$$ GREEN POWER
+PAPI KE LO KIE
+Grenade
+--- 19-04-08 01:39:15
+sT.- Maaxis* Champion
+SOPA DO MAKAKO DELISSIA
+Grenade
+--- 19-04-08 01:39:21
+sT.- YnGwi3
+sT.- YnGwi3
+Grenade
+--- 19-04-08 01:39:24
+$$$ GREEN POWER
+PAPI KE LO KIE
+M79
+--- 19-04-08 01:39:28
+i|CrasheR
+SOPA DO MAKAKO DELISSIA
+Ak-74
+--- 19-04-08 01:39:29
+sT.- YnGwi3
+$$$ GREEN POWER
+Grenade
+--- 19-04-08 01:39:30
+i|CrasheR
+sT.- YnGwi3
+Combat Knife
+--- 19-04-08 01:39:32
+i|CrasheR
+PAPI KE LO KIE
+Ak-74
+--- 19-04-08 01:39:33
+SOPA DO MAKAKO DELISSIA
+sT.- Maaxis* Champion
+Steyr AUG
+--- 19-04-08 01:39:39
+sT.- YnGwi3
+$$$ GREEN POWER
+Grenade
+--- 19-04-08 01:39:41
+$$$ GREEN POWER
+sT.- YnGwi3
+Grenade
+--- 19-04-08 01:39:43
+i|CrasheR
+SOPA DO MAKAKO DELISSIA
+Grenade
+--- 19-04-08 01:39:47
+PAPI KE LO KIE
+i|CrasheR
+Grenade
+--- 19-04-08 01:39:47
+$$$ GREEN POWER
+PAPI KE LO KIE
+M79
+--- 19-04-08 01:39:52
+sT.- YnGwi3
+$$$ GREEN POWER
+HK MP5
+--- 19-04-08 01:39:53
+sT.- Maaxis* Champion
+SOPA DO MAKAKO DELISSIA
+Steyr AUG
+--- 19-04-08 01:39:54
+sT.- YnGwi3
+sT.- YnGwi3
+Grenade
+--- 19-04-08 01:40:01
+PAPI KE LO KIE
+sT.- Maaxis* Champion
+Combat Knife
+--- 19-04-08 01:40:03
+$$$ GREEN POWER
+SOPA DO MAKAKO DELISSIA
+M79
+--- 19-04-08 01:40:04
+$$$ GREEN POWER
+PAPI KE LO KIE
+Grenade
+--- 19-04-08 01:40:05
+sT.- YnGwi3
+$$$ GREEN POWER
+Grenade
+--- 19-04-08 01:40:05
+$$$ GREEN POWER
+sT.- YnGwi3
+Grenade
+--- 19-04-08 01:40:12
+SOPA DO MAKAKO DELISSIA
+i|CrasheR
+M79
+--- 19-04-08 01:40:13
+sT.- YnGwi3
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-08 01:40:13
+sT.- Maaxis* Champion
+sT.- YnGwi3
+Grenade
+--- 19-04-08 01:40:18
+SOPA DO MAKAKO DELISSIA
+$$$ GREEN POWER
+M79
+--- 19-04-08 01:40:21
+i|CrasheR
+PAPI KE LO KIE
+Ak-74
+--- 19-04-08 01:40:21
+sT.- YnGwi3
+i|CrasheR
+Grenade
+--- 19-04-08 01:40:23
+SOPA DO MAKAKO DELISSIA
+sT.- Maaxis* Champion
+M79
+--- 19-04-08 01:40:29
+$$$ GREEN POWER
+SOPA DO MAKAKO DELISSIA
+Combat Knife
+--- 19-04-08 01:40:31
+PAPI KE LO KIE
+i|CrasheR
+Combat Knife
+--- 19-04-08 01:40:36
+i|CrasheR
+sT.- YnGwi3
+Combat Knife
+--- 19-04-08 01:40:36
+sT.- Maaxis* Champion
+PAPI KE LO KIE
+Grenade
+--- 19-04-08 01:40:39
+SOPA DO MAKAKO DELISSIA
+i|CrasheR
+Grenade
+--- 19-04-08 01:40:42
+sT.- YnGwi3
+sT.- Maaxis* Champion
+HK MP5
+--- 19-04-08 01:40:42
+$$$ GREEN POWER
+SOPA DO MAKAKO DELISSIA
+Grenade
+--- 19-04-08 01:40:47
+$$$ GREEN POWER
+sT.- YnGwi3
+M79
+--- 19-04-08 01:40:48
+i|CrasheR
+PAPI KE LO KIE
+Ak-74
+--- 19-04-08 01:40:52
+i|CrasheR
+SOPA DO MAKAKO DELISSIA
+Ak-74
+--- 19-04-08 01:40:56
+sT.- YnGwi3
+i|CrasheR
+HK MP5
+--- 19-04-08 01:41:03
+sT.- YnGwi3
+$$$ GREEN POWER
+HK MP5
+--- 19-04-08 01:41:03
+SOPA DO MAKAKO DELISSIA
+sT.- Maaxis* Champion
+M79
+--- 19-04-08 01:41:04
+i|CrasheR
+PAPI KE LO KIE
+Ak-74
+--- 19-04-08 01:41:09
+sT.- Maaxis* Champion
+sT.- YnGwi3
+Grenade
+--- 19-04-08 01:41:12
+$$$ GREEN POWER
+PAPI KE LO KIE
+M79
+--- 19-04-08 01:41:14
+$$$ GREEN POWER
+SOPA DO MAKAKO DELISSIA
+Combat Knife
+--- 19-04-08 01:41:15
+sT.- YnGwi3
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-08 01:41:15
+sT.- YnGwi3
+sT.- YnGwi3
+Grenade
+--- 19-04-08 01:41:19
+i|CrasheR
+PAPI KE LO KIE
+Combat Knife
+--- 19-04-08 01:41:20
+SOPA DO MAKAKO DELISSIA
+$$$ GREEN POWER
+Combat Knife
+--- 19-04-08 01:41:22
+SOPA DO MAKAKO DELISSIA
+i|CrasheR
+Grenade
+--- 19-04-08 01:41:25
+sT.- Maaxis* Champion
+sT.- YnGwi3
+Steyr AUG
+--- 19-04-08 01:41:25
+sT.- YnGwi3
+sT.- Maaxis* Champion
+HK MP5
+--- 19-04-08 01:41:30
+SOPA DO MAKAKO DELISSIA
+sT.- Maaxis* Champion
+M79
+--- 19-04-08 01:41:35
+PAPI KE LO KIE
+$$$ GREEN POWER
+Grenade
+--- 19-04-08 01:41:36
+sT.- Maaxis* Champion
+sT.- YnGwi3
+Steyr AUG
+--- 19-04-08 01:41:39
+PAPI KE LO KIE
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-08 01:41:41
+i|CrasheR
+PAPI KE LO KIE
+Ak-74
+--- 19-04-08 01:41:42
+SOPA DO MAKAKO DELISSIA
+i|CrasheR
+Grenade
+--- 19-04-08 01:41:48
+sT.- Maaxis* Champion
+SOPA DO MAKAKO DELISSIA
+Steyr AUG
+--- 19-04-08 01:41:51
+i|CrasheR
+sT.- YnGwi3
+Ak-74
+--- 19-04-08 01:41:59
+SOPA DO MAKAKO DELISSIA
+i|CrasheR
+M79
+--- 19-04-08 01:42:01
+sT.- YnGwi3
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-08 01:42:01
+sT.- Maaxis* Champion
+SOPA DO MAKAKO DELISSIA
+Combat Knife
+--- 19-04-08 01:42:02
+$$$ GREEN POWER
+PAPI KE LO KIE
+M79
+--- 19-04-08 01:42:06
+SOPA DO MAKAKO DELISSIA
+$$$ GREEN POWER
+Combat Knife
+--- 19-04-08 01:42:10
+PAPI KE LO KIE
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-08 01:42:11
+sT.- YnGwi3
+i|CrasheR
+HK MP5
+--- 19-04-08 01:42:16
+sT.- Maaxis* Champion
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-08 01:42:16
+sT.- Maaxis* Champion
+SOPA DO MAKAKO DELISSIA
+Grenade
+--- 19-04-08 01:42:18
+PAPI KE LO KIE
+$$$ GREEN POWER
+Steyr AUG
+--- 19-04-08 01:42:23
+i|CrasheR
+sT.- YnGwi3
+Grenade
+--- 19-04-08 01:42:24
+sT.- Maaxis* Champion
+PAPI KE LO KIE
+Grenade
+--- 19-04-08 01:42:25
+i|CrasheR
+SOPA DO MAKAKO DELISSIA
+Grenade
+--- 19-04-08 01:42:29
+$$$ GREEN POWER
+SOPA DO MAKAKO DELISSIA
+M79
+--- 19-04-08 01:42:31
+sT.- YnGwi3
+sT.- Maaxis* Champion
+HK MP5
+--- 19-04-08 01:42:33
+sT.- YnGwi3
+$$$ GREEN POWER
+HK MP5
+--- 19-04-08 01:42:33
+PAPI KE LO KIE
+i|CrasheR
+Steyr AUG
+--- 19-04-08 01:42:33
+i|CrasheR
+PAPI KE LO KIE
+Grenade
+--- 19-04-08 01:42:40
+sT.- Maaxis* Champion
+SOPA DO MAKAKO DELISSIA
+Spas-12
+--- 19-04-08 01:42:40
+PAPI KE LO KIE
+sT.- Maaxis* Champion
+Steyr AUG
+--- 19-04-08 01:42:41
+i|CrasheR
+sT.- YnGwi3
+Ak-74
+--- 19-04-08 01:42:45
+PAPI KE LO KIE
+i|CrasheR
+Combat Knife
+--- 19-04-08 01:42:47
+sT.- Maaxis* Champion
+PAPI KE LO KIE
+Grenade
+--- 19-04-08 01:42:49
+sT.- Maaxis* Champion
+SOPA DO MAKAKO DELISSIA
+Combat Knife
+--- 19-04-08 01:42:49
+$$$ GREEN POWER
+sT.- YnGwi3
+M79
+--- 19-04-08 01:42:54
+PAPI KE LO KIE
+sT.- Maaxis* Champion
+Hands
+--- 19-04-08 01:42:55
+i|CrasheR
+PAPI KE LO KIE
+Ak-74
+--- 19-04-08 01:42:55
+sT.- YnGwi3
+$$$ GREEN POWER
+HK MP5
+--- 19-04-08 01:42:57
+SOPA DO MAKAKO DELISSIA
+i|CrasheR
+M79
+--- 19-04-08 01:42:57
+i|CrasheR
+SOPA DO MAKAKO DELISSIA
+Grenade
+--- 19-04-08 01:43:03
+PAPI KE LO KIE
+$$$ GREEN POWER
+Grenade
+--- 19-04-08 01:43:03
+i|CrasheR
+sT.- YnGwi3
+Grenade
+--- 19-04-08 01:43:06
+PAPI KE LO KIE
+i|CrasheR
+Steyr AUG
+--- 19-04-08 01:43:07
+sT.- Maaxis* Champion
+PAPI KE LO KIE
+Spas-12
+--- 19-04-08 01:43:10
+SOPA DO MAKAKO DELISSIA
+sT.- Maaxis* Champion
+M79
+--- 19-04-08 01:43:13
+$$$ GREEN POWER
+sT.- YnGwi3
+M79
+--- 19-04-08 01:43:14
+SOPA DO MAKAKO DELISSIA
+$$$ GREEN POWER
+M79
+--- 19-04-08 01:43:15
+i|CrasheR
+SOPA DO MAKAKO DELISSIA
+Ak-74
+--- 19-04-08 01:43:18
+i|CrasheR
+PAPI KE LO KIE
+Ak-74
+--- 19-04-08 01:43:20
+SOPA DO MAKAKO DELISSIA
+sT.- Maaxis* Champion
+Combat Knife
+--- 19-04-08 01:43:23
+SOPA DO MAKAKO DELISSIA
+i|CrasheR
+Grenade
+--- 19-04-08 01:43:27
+sT.- Maaxis* Champion
+sT.- YnGwi3
+Grenade
+--- 19-04-08 01:43:28
+PAPI KE LO KIE
+$$$ GREEN POWER
+Steyr AUG
+--- 19-04-08 01:43:29
+sT.- Maaxis* Champion
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-08 01:43:29
+sT.- Maaxis* Champion
+SOPA DO MAKAKO DELISSIA
+Spas-12
+--- 19-04-08 01:43:32
+i|CrasheR
+PAPI KE LO KIE
+Ak-74
+--- 19-04-08 01:43:35
+$$$ GREEN POWER
+SOPA DO MAKAKO DELISSIA
+M79
+--- 19-04-08 01:43:35
+SOPA DO MAKAKO DELISSIA
+i|CrasheR
+M79
+--- 19-04-08 01:43:38
+sT.- YnGwi3
+$$$ GREEN POWER
+Grenade
+--- 19-04-08 01:43:41
+PAPI KE LO KIE
+sT.- Maaxis* Champion
+Steyr AUG
+--- 19-04-08 01:43:45
+i|CrasheR
+SOPA DO MAKAKO DELISSIA
+Ak-74
+--- 19-04-08 01:43:47
+$$$ GREEN POWER
+sT.- YnGwi3
+M79
+--- 19-04-08 01:43:48
+PAPI KE LO KIE
+i|CrasheR
+Steyr AUG
+--- 19-04-08 01:43:52
+sT.- Maaxis* Champion
+PAPI KE LO KIE
+Spas-12
+--- 19-04-08 01:43:54
+$$$ GREEN POWER
+SOPA DO MAKAKO DELISSIA
+M79
+--- 19-04-08 01:43:59
+i|CrasheR
+sT.- YnGwi3
+Ak-74
+--- 19-04-08 01:44:03
+sT.- Maaxis* Champion
+SOPA DO MAKAKO DELISSIA
+Spas-12
+--- 19-04-08 01:44:03
+PAPI KE LO KIE
+$$$ GREEN POWER
+Steyr AUG
+--- 19-04-08 01:44:11
+PAPI KE LO KIE
+sT.- Maaxis* Champion
+Steyr AUG
+--- 19-04-08 01:44:11
+sT.- YnGwi3
+$$$ GREEN POWER
+Grenade
+--- 19-04-08 01:44:14
+i|CrasheR
+sT.- YnGwi3
+Combat Knife
+--- 19-04-08 01:44:16
+SOPA DO MAKAKO DELISSIA
+sT.- Maaxis* Champion
+M79
+--- 19-04-08 01:44:18
+$$$ GREEN POWER
+SOPA DO MAKAKO DELISSIA
+Combat Knife
+--- 19-04-08 01:44:22
+sT.- YnGwi3
+$$$ GREEN POWER
+Grenade
+--- 19-04-08 01:44:22
+$$$ GREEN POWER
+sT.- YnGwi3
+M79
+--- 19-04-08 01:44:26
+sT.- Maaxis* Champion
+PAPI KE LO KIE
+Spas-12
+--- 19-04-08 01:44:33
+sT.- YnGwi3
+sT.- YnGwi3
+Grenade
+--- 19-04-08 01:44:34
+sT.- Maaxis* Champion
+SOPA DO MAKAKO DELISSIA
+Combat Knife
+--- 19-04-08 01:44:38
+i|CrasheR
+PAPI KE LO KIE
+Combat Knife
+--- 19-04-08 01:44:39
+SOPA DO MAKAKO DELISSIA
+sT.- Maaxis* Champion
+Combat Knife
+--- 19-04-08 01:44:43
+SOPA DO MAKAKO DELISSIA
+i|CrasheR
+M79
+--- 19-04-08 01:44:43
+$$$ GREEN POWER
+sT.- YnGwi3
+M79
+--- 19-04-08 01:44:47
+sT.- YnGwi3
+$$$ GREEN POWER
+Combat Knife
+--- 19-04-08 01:44:48
+$$$ GREEN POWER
+sT.- YnGwi3
+M79
+--- 19-04-08 01:45:34
+PAPI KE LO KIE
+i|CrasheR
+Steyr AUG
+--- 19-04-08 01:45:41
+i|CrasheR
+SOPA DO MAKAKO DELISSIA
+Ak-74
+--- 19-04-08 01:45:42
+sT.- YnGwi3
+$$$ GREEN POWER
+Grenade
+--- 19-04-08 01:45:45
+sT.- YnGwi3
+sT.- Maaxis* Champion
+Spas-12
+--- 19-04-08 01:45:48
+sT.- YnGwi3
+$$$ GREEN POWER
+Spas-12
+--- 19-04-08 01:45:48
+$$$ GREEN POWER
+sT.- YnGwi3
+Combat Knife
+--- 19-04-08 01:45:54
+sT.- YnGwi3
+sT.- Maaxis* Champion
+Spas-12
+--- 19-04-08 01:45:56
+i|CrasheR
+sT.- YnGwi3
+Ak-74
+--- 19-04-08 01:45:58
+i|CrasheR
+SOPA DO MAKAKO DELISSIA
+Ak-74
+--- 19-04-08 01:46:06
+$$$ GREEN POWER
+$$$ GREEN POWER
+Grenade
+--- 19-04-08 01:46:16
+SOPA DO MAKAKO DELISSIA
+$$$ GREEN POWER
+M79
+--- 19-04-08 01:46:16
+PAPI KE LO KIE
+i|CrasheR
+Grenade
+--- 19-04-08 01:46:17
+sT.- Maaxis* Champion
+SOPA DO MAKAKO DELISSIA
+LAW
+--- 19-04-08 01:46:21
+i|CrasheR
+sT.- YnGwi3
+Ak-74
+--- 19-04-08 01:46:21
+sT.- YnGwi3
+sT.- Maaxis* Champion
+Spas-12
+--- 19-04-08 01:46:22
+PAPI KE LO KIE
+$$$ GREEN POWER
+Grenade
+--- 19-04-08 01:46:24
+PAPI KE LO KIE
+i|CrasheR
+Grenade
+--- 19-04-08 01:46:27
+$$$ GREEN POWER
+PAPI KE LO KIE
+Combat Knife
+--- 19-04-08 01:46:29
+SOPA DO MAKAKO DELISSIA
+$$$ GREEN POWER
+M79
+--- 19-04-08 01:46:30
+sT.- Maaxis* Champion
+SOPA DO MAKAKO DELISSIA
+Spas-12
+--- 19-04-08 01:46:34
+PAPI KE LO KIE
+i|CrasheR
+Steyr AUG
+--- 19-04-08 01:46:39
+sT.- Maaxis* Champion
+SOPA DO MAKAKO DELISSIA
+LAW
+--- 19-04-08 01:46:39
+SOPA DO MAKAKO DELISSIA
+sT.- Maaxis* Champion
+Combat Knife
+--- 19-04-08 01:46:45
+i|CrasheR
+sT.- YnGwi3
+Ak-74
+--- 19-04-08 01:46:47
+sT.- Maaxis* Champion
+PAPI KE LO KIE
+LAW
+--- 19-04-08 01:46:48
+$$$ GREEN POWER
+SOPA DO MAKAKO DELISSIA
+HK MP5
+--- 19-04-08 01:46:51
+sT.- Maaxis* Champion
+sT.- YnGwi3
+Spas-12
+--- 19-04-08 01:46:56
+PAPI KE LO KIE
+sT.- Maaxis* Champion
+Steyr AUG
+--- 19-04-08 01:46:56
+SOPA DO MAKAKO DELISSIA
+i|CrasheR
+M79
+--- 19-04-08 01:46:58
+SOPA DO MAKAKO DELISSIA
+$$$ GREEN POWER
+Combat Knife
+--- 19-04-08 01:46:58
+$$$ GREEN POWER
+SOPA DO MAKAKO DELISSIA
+Grenade
+--- 19-04-08 01:47:01
+PAPI KE LO KIE
+sT.- Maaxis* Champion
+Combat Knife
+--- 19-04-08 01:47:03
+PAPI KE LO KIE
+i|CrasheR
+Grenade
+--- 19-04-08 01:47:04
+$$$ GREEN POWER
+PAPI KE LO KIE
+HK MP5
+--- 19-04-08 01:47:08
+SOPA DO MAKAKO DELISSIA
+sT.- Maaxis* Champion
+Combat Knife
+--- 19-04-08 01:47:10
+PAPI KE LO KIE
+$$$ GREEN POWER
+Steyr AUG
+--- 19-04-08 01:47:11
+i|CrasheR
+PAPI KE LO KIE
+Ak-74
+--- 19-04-08 01:47:12
+i|CrasheR
+sT.- YnGwi3
+Ak-74
+--- 19-04-08 01:47:13
+SOPA DO MAKAKO DELISSIA
+i|CrasheR
+M79
+--- 19-04-08 01:47:18
+i|CrasheR
+PAPI KE LO KIE
+Ruger 77
+--- 19-04-08 01:47:18
+PAPI KE LO KIE
+sT.- Maaxis* Champion
+Steyr AUG
+--- 19-04-08 01:47:19
+$$$ GREEN POWER
+SOPA DO MAKAKO DELISSIA
+Grenade
+--- 19-04-08 01:47:21
+sT.- YnGwi3
+$$$ GREEN POWER
+Spas-12
+--- 19-04-08 01:47:25
+sT.- YnGwi3
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-08 01:47:28
+$$$ GREEN POWER
+PAPI KE LO KIE
+Grenade
+--- 19-04-08 01:47:28
+$$$ GREEN POWER
+sT.- YnGwi3
+HK MP5
+--- 19-04-08 01:47:31
+SOPA DO MAKAKO DELISSIA
+$$$ GREEN POWER
+Grenade
+--- 19-04-08 01:47:31
+$$$ GREEN POWER
+SOPA DO MAKAKO DELISSIA
+Combat Knife
+--- 19-04-08 01:47:35
+sT.- YnGwi3
+sT.- Maaxis* Champion
+Spas-12
+--- 19-04-08 01:47:37
+sT.- YnGwi3
+i|CrasheR
+Spas-12
+--- 19-04-08 01:47:43
+i|CrasheR
+SOPA DO MAKAKO DELISSIA
+Ruger 77
+--- 19-04-08 01:47:43
+SOPA DO MAKAKO DELISSIA
+i|CrasheR
+M79
+--- 19-04-08 01:47:45
+PAPI KE LO KIE
+$$$ GREEN POWER
+Steyr AUG
+--- 19-04-08 01:47:45
+$$$ GREEN POWER
+PAPI KE LO KIE
+Grenade
+--- 19-04-08 01:47:47
+sT.- YnGwi3
+sT.- Maaxis* Champion
+Spas-12
+--- 19-04-08 01:47:49
+i|CrasheR
+sT.- YnGwi3
+Ruger 77
+--- 19-04-08 01:47:54
+PAPI KE LO KIE
+$$$ GREEN POWER
+Steyr AUG
+--- 19-04-08 01:47:55
+PAPI KE LO KIE
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-08 01:48:00
+sT.- Maaxis* Champion
+PAPI KE LO KIE
+Grenade
+--- 19-04-08 01:48:02
+sT.- Maaxis* Champion
+sT.- YnGwi3
+Spas-12
+--- 19-04-08 01:48:04
+i|CrasheR
+SOPA DO MAKAKO DELISSIA
+Ruger 77
+--- 19-04-08 01:48:10
+PAPI KE LO KIE
+$$$ GREEN POWER
+Grenade
+--- 19-04-08 01:48:10
+PAPI KE LO KIE
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-08 01:48:13
+PAPI KE LO KIE
+i|CrasheR
+Grenade
+--- 19-04-08 01:48:16
+$$$ GREEN POWER
+PAPI KE LO KIE
+Grenade
+--- 19-04-08 01:48:18
+sT.- Maaxis* Champion
+SOPA DO MAKAKO DELISSIA
+Grenade
+--- 19-04-08 01:48:19
+i|CrasheR
+sT.- YnGwi3
+Ruger 77
+--- 19-04-08 01:48:23
+sT.- YnGwi3
+$$$ GREEN POWER
+Spas-12
+--- 19-04-08 01:48:24
+sT.- YnGwi3
+i|CrasheR
+Spas-12
+--- 19-04-08 01:48:28
+sT.- Maaxis* Champion
+sT.- YnGwi3
+Spas-12
+--- 19-04-12 01:40:34
+sT.- Maaxis* Champion
+sT.- HartCheat]
+M79
+--- 19-04-12 01:40:39
+sT.- BIG PAPPA ENIGMA
+sT.- Mand3s
+Combat Knife
+--- 19-04-12 01:40:40
+sT.- BIG PAPPA ENIGMA
+sT.- HartCheat]
+Combat Knife
+--- 19-04-12 01:40:41
+sT.- BIG PAPPA ENIGMA
+st WildR4P
+Combat Knife
+--- 19-04-12 01:40:45
+sT.- BIG PAPPA ENIGMA
+sT.- Mand3s
+Combat Knife
+--- 19-04-12 01:40:47
+sT.- BIG PAPPA ENIGMA
+sT.- HartCheat]
+Combat Knife
+--- 19-04-12 01:40:48
+sT.- BIG PAPPA ENIGMA
+st WildR4P
+Combat Knife
+--- 19-04-12 01:40:50
+sT.- BIG PAPPA ENIGMA
+sT.- Mand3s
+Combat Knife
+--- 19-04-12 01:40:53
+sT.- HartCheat]
+sT.- BIG PAPPA ENIGMA
+Spas-12
+--- 19-04-12 01:40:54
+sT.- Maaxis* Champion
+sT.- HartCheat]
+Grenade
+--- 19-04-12 01:41:04
+sT.- BIG PAPPA ENIGMA
+sT.- HartCheat]
+Barrett M82A1
+--- 19-04-12 01:41:12
+sT.- Maaxis* Champion
+sT.- Mand3s
+Combat Knife
+--- 19-04-12 01:41:14
+sT.- Maaxis* Champion
+st WildR4P
+Combat Knife
+--- 19-04-12 01:41:32
+sT.- Maaxis* Champion
+sT.- HartCheat]
+Barrett M82A1
+--- 19-04-12 01:41:59
+sT.- Mand3s
+sT.- BIG PAPPA ENIGMA
+Desert Eagles
+--- 19-04-12 01:42:02
+sT.- HartCheat]
+sT.- YnGwi3
+M79
+--- 19-04-12 01:42:04
+sT.- HartCheat]
+sT.- HartCheat]
+Grenade
+--- 19-04-12 01:42:05
+sT.- Mand3s
+sT.- BIG PAPPA ENIGMA
+Combat Knife
+--- 19-04-12 01:42:14
+st WildR4P
+sT.- YnGwi3
+Spas-12
+--- 19-04-12 01:42:24
+sT.- YnGwi3
+st WildR4P
+Ak-74
+--- 19-04-12 01:42:25
+sT.- Maaxis* Champion
+sT.- HartCheat]
+Spas-12
+--- 19-04-12 01:42:25
+sT.- Mand3s
+sT.- YnGwi3
+Desert Eagles
+--- 19-04-12 01:42:36
+sT.- YnGwi3
+st WildR4P
+Grenade
+--- 19-04-12 01:42:38
+sT.- HartCheat]
+sT.- BIG PAPPA ENIGMA
+Barrett M82A1
+--- 19-04-12 01:42:42
+sT.- YnGwi3
+sT.- HartCheat]
+Barrett M82A1
+--- 19-04-12 01:42:44
+st WildR4P
+sT.- YnGwi3
+Spas-12
+--- 19-04-12 01:42:47
+sT.- Mand3s
+sT.- Maaxis* Champion
+Desert Eagles
+--- 19-04-12 01:42:47
+sT.- Maaxis* Champion
+sT.- Mand3s
+Spas-12
+--- 19-04-12 01:42:50
+sT.- HartCheat]
+sT.- YnGwi3
+Barrett M82A1
+--- 19-04-12 01:42:53
+sT.- HartCheat]
+sT.- Maaxis* Champion
+LAW
+--- 19-04-12 01:43:06
+sT.- BIG PAPPA ENIGMA
+sT.- HartCheat]
+Grenade
+--- 19-04-12 01:43:06
+sT.- YnGwi3
+st WildR4P
+Grenade
+--- 19-04-12 01:43:10
+sT.- Mand3s
+sT.- BIG PAPPA ENIGMA
+Grenade
+--- 19-04-12 01:43:12
+sT.- Mand3s
+sT.- Maaxis* Champion
+Spas-12
+--- 19-04-12 01:43:12
+sT.- Maaxis* Champion
+sT.- Mand3s
+Grenade
+--- 19-04-12 01:43:15
+sT.- YnGwi3
+st WildR4P
+HK MP5
+--- 19-04-12 01:43:16
+sT.- HartCheat]
+sT.- BIG PAPPA ENIGMA
+LAW
+--- 19-04-12 01:43:18
+sT.- Maaxis* Champion
+sT.- HartCheat]
+Spas-12
+--- 19-04-12 01:43:21
+st WildR4P
+sT.- YnGwi3
+HK MP5
+--- 19-04-12 01:43:22
+sT.- Maaxis* Champion
+sT.- Mand3s
+Spas-12
+--- 19-04-12 01:43:26
+sT.- BIG PAPPA ENIGMA
+sT.- HartCheat]
+Grenade
+--- 19-04-12 01:43:28
+sT.- Mand3s
+sT.- BIG PAPPA ENIGMA
+Spas-12
+--- 19-04-12 01:43:30
+sT.- YnGwi3
+st WildR4P
+HK MP5
+--- 19-04-12 01:43:35
+st WildR4P
+sT.- YnGwi3
+Grenade
+--- 19-04-12 01:43:38
+sT.- Mand3s
+sT.- BIG PAPPA ENIGMA
+Grenade
+--- 19-04-12 01:43:38
+sT.- HartCheat]
+sT.- HartCheat]
+Grenade
+--- 19-04-12 01:43:39
+sT.- HartCheat]
+sT.- Maaxis* Champion
+Desert Eagles
+--- 19-04-12 01:43:45
+sT.- YnGwi3
+st WildR4P
+HK MP5
+--- 19-04-12 01:44:10
+sT.- YnGwi3
+sT.- YnGwi3
+Grenade
+--- 19-04-12 01:44:13
+sT.- HartCheat]
+sT.- BIG PAPPA ENIGMA
+Grenade
+--- 19-04-12 01:44:14
+sT.- Maaxis* Champion
+sT.- Mand3s
+Spas-12
+--- 19-04-12 01:44:16
+sT.- Maaxis* Champion
+sT.- HartCheat]
+Grenade
+--- 19-04-12 01:44:17
+st WildR4P
+sT.- YnGwi3
+Grenade
+--- 19-04-12 01:44:19
+st WildR4P
+sT.- BIG PAPPA ENIGMA
+Combat Knife
+--- 19-04-12 01:44:20
+sT.- Maaxis* Champion
+st WildR4P
+Spas-12
+--- 19-04-12 01:44:27
+sT.- Maaxis* Champion
+sT.- HartCheat]
+Grenade
+--- 19-04-12 01:44:27
+sT.- BIG PAPPA ENIGMA
+sT.- Mand3s
+HK MP5
+--- 19-04-12 01:44:27
+st WildR4P
+sT.- YnGwi3
+HK MP5
+--- 19-04-12 01:44:32
+sT.- Maaxis* Champion
+sT.- HartCheat]
+Spas-12
+--- 19-04-12 01:44:34
+st WildR4P
+sT.- BIG PAPPA ENIGMA
+Grenade
+--- 19-04-12 01:44:34
+sT.- BIG PAPPA ENIGMA
+st WildR4P
+HK MP5
+--- 19-04-12 01:44:34
+sT.- Mand3s
+sT.- Maaxis* Champion
+Spas-12
+--- 19-04-12 01:44:41
+sT.- Mand3s
+sT.- Mand3s
+Grenade
+--- 19-04-12 01:44:41
+sT.- Mand3s
+sT.- BIG PAPPA ENIGMA
+Grenade
+--- 19-04-12 01:44:42
+sT.- HartCheat]
+sT.- YnGwi3
+Desert Eagles
+--- 19-04-12 01:44:42
+sT.- YnGwi3
+st WildR4P
+Grenade
+--- 19-04-12 01:44:47
+sT.- HartCheat]
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-12 01:44:47
+sT.- Maaxis* Champion
+sT.- HartCheat]
+Spas-12
+--- 19-04-12 01:44:51
+st WildR4P
+sT.- YnGwi3
+HK MP5
+--- 19-04-12 01:44:53
+sT.- HartCheat]
+sT.- BIG PAPPA ENIGMA
+Desert Eagles
+--- 19-04-12 01:44:56
+sT.- Maaxis* Champion
+sT.- Mand3s
+Spas-12
+--- 19-04-12 01:44:58
+st WildR4P
+sT.- YnGwi3
+HK MP5
+--- 19-04-12 01:44:58
+sT.- BIG PAPPA ENIGMA
+sT.- HartCheat]
+HK MP5
+--- 19-04-12 01:45:03
+st WildR4P
+sT.- Maaxis* Champion
+Combat Knife
+--- 19-04-12 01:45:04
+sT.- YnGwi3
+st WildR4P
+HK MP5
+--- 19-04-12 01:45:09
+sT.- Maaxis* Champion
+sT.- Mand3s
+Spas-12
+--- 19-04-12 01:45:11
+st WildR4P
+sT.- BIG PAPPA ENIGMA
+Grenade
+--- 19-04-12 01:45:12
+sT.- YnGwi3
+sT.- HartCheat]
+HK MP5
+--- 19-04-12 01:45:13
+sT.- Mand3s
+sT.- YnGwi3
+Spas-12
+--- 19-04-12 01:45:13
+sT.- YnGwi3
+sT.- Mand3s
+Combat Knife
+--- 19-04-12 01:45:20
+sT.- Maaxis* Champion
+sT.- Mand3s
+Grenade
+--- 19-04-12 01:45:21
+sT.- Maaxis* Champion
+sT.- HartCheat]
+Spas-12
+--- 19-04-12 01:45:22
+sT.- BIG PAPPA ENIGMA
+st WildR4P
+Steyr AUG
+--- 19-04-12 01:45:28
+sT.- Mand3s
+sT.- YnGwi3
+Spas-12
+--- 19-04-12 01:45:29
+sT.- BIG PAPPA ENIGMA
+sT.- HartCheat]
+Steyr AUG
+--- 19-04-12 01:45:32
+st WildR4P
+sT.- BIG PAPPA ENIGMA
+HK MP5
+--- 19-04-12 01:45:34
+sT.- Maaxis* Champion
+sT.- Mand3s
+Spas-12
+--- 19-04-12 01:45:35
+st WildR4P
+sT.- YnGwi3
+Grenade
+--- 19-04-12 01:45:37
+sT.- Maaxis* Champion
+st WildR4P
+Spas-12
+--- 19-04-12 01:45:37
+st WildR4P
+sT.- Maaxis* Champion
+HK MP5
+--- 19-04-12 01:45:43
+sT.- Maaxis* Champion
+sT.- HartCheat]
+Spas-12
+--- 19-04-12 01:45:44
+sT.- Mand3s
+sT.- BIG PAPPA ENIGMA
+Spas-12
+--- 19-04-12 01:45:46
+st WildR4P
+sT.- YnGwi3
+HK MP5
+--- 19-04-12 01:45:49
+sT.- Maaxis* Champion
+sT.- Mand3s
+Grenade
+--- 19-04-12 01:45:50
+sT.- HartCheat]
+sT.- Maaxis* Champion
+Desert Eagles
+--- 19-04-12 01:45:53
+sT.- BIG PAPPA ENIGMA
+st WildR4P
+Grenade
+--- 19-04-12 01:45:55
+sT.- HartCheat]
+sT.- YnGwi3
+LAW
+--- 19-04-12 01:45:56
+sT.- BIG PAPPA ENIGMA
+sT.- HartCheat]
+Steyr AUG
+--- 19-04-12 01:45:58
+sT.- Mand3s
+sT.- BIG PAPPA ENIGMA
+Spas-12
+--- 19-04-12 01:46:03
+sT.- YnGwi3
+st WildR4P
+Grenade
+--- 19-04-12 01:46:07
+sT.- HartCheat]
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-12 01:46:07
+sT.- Maaxis* Champion
+sT.- HartCheat]
+Grenade
+--- 19-04-12 01:46:08
+sT.- Mand3s
+sT.- Mand3s
+Grenade
+--- 19-04-12 01:46:08
+sT.- Mand3s
+sT.- YnGwi3
+Grenade
+--- 19-04-12 01:46:11
+st WildR4P
+sT.- BIG PAPPA ENIGMA
+Grenade
+--- 19-04-12 01:46:17
+sT.- YnGwi3
+st WildR4P
+HK MP5
+--- 19-04-12 01:46:17
+sT.- Maaxis* Champion
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-12 01:46:18
+sT.- HartCheat]
+sT.- BIG PAPPA ENIGMA
+Grenade
+--- 19-04-12 01:46:22
+st WildR4P
+sT.- YnGwi3
+HK MP5
+--- 19-04-12 01:46:23
+sT.- Maaxis* Champion
+sT.- HartCheat]
+Spas-12
+--- 19-04-12 01:46:25
+sT.- Mand3s
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-12 01:46:25
+sT.- Maaxis* Champion
+sT.- Mand3s
+Spas-12
+--- 19-04-12 01:46:28
+st WildR4P
+sT.- BIG PAPPA ENIGMA
+HK MP5
+--- 19-04-12 01:46:33
+sT.- Mand3s
+sT.- YnGwi3
+Grenade
+--- 19-04-12 01:46:36
+sT.- Maaxis* Champion
+sT.- HartCheat]
+Spas-12
+--- 19-04-12 01:46:39
+sT.- BIG PAPPA ENIGMA
+sT.- Mand3s
+Steyr AUG
+--- 19-04-12 01:46:41
+sT.- YnGwi3
+st WildR4P
+Grenade
+--- 19-04-12 01:46:44
+sT.- HartCheat]
+sT.- Maaxis* Champion
+Desert Eagles
+--- 19-04-12 01:46:47
+sT.- BIG PAPPA ENIGMA
+sT.- Mand3s
+Grenade
+--- 19-04-12 01:46:48
+sT.- BIG PAPPA ENIGMA
+sT.- HartCheat]
+Steyr AUG
+--- 19-04-12 01:46:48
+sT.- HartCheat]
+sT.- BIG PAPPA ENIGMA
+Grenade
+--- 19-04-12 01:46:51
+sT.- YnGwi3
+sT.- YnGwi3
+Grenade
+--- 19-04-12 01:46:52
+sT.- Maaxis* Champion
+st WildR4P
+Grenade
+--- 19-04-12 01:46:56
+sT.- Mand3s
+sT.- BIG PAPPA ENIGMA
+Grenade
+--- 19-04-12 01:47:02
+sT.- YnGwi3
+st WildR4P
+Grenade
+--- 19-04-12 01:47:03
+sT.- HartCheat]
+sT.- BIG PAPPA ENIGMA
+Desert Eagles
+--- 19-04-12 01:47:04
+sT.- BIG PAPPA ENIGMA
+sT.- HartCheat]
+Grenade
+--- 19-04-12 01:47:05
+sT.- Mand3s
+sT.- Maaxis* Champion
+Spas-12
+--- 19-04-12 01:47:08
+sT.- BIG PAPPA ENIGMA
+sT.- Mand3s
+Grenade
+--- 19-04-12 01:47:09
+st WildR4P
+sT.- YnGwi3
+HK MP5
+--- 19-04-12 01:47:11
+st WildR4P
+sT.- BIG PAPPA ENIGMA
+HK MP5
+--- 19-04-12 01:47:13
+sT.- HartCheat]
+sT.- HartCheat]
+Grenade
+--- 19-04-12 01:47:15
+sT.- YnGwi3
+st WildR4P
+HK MP5
+--- 19-04-12 01:47:16
+sT.- Mand3s
+sT.- YnGwi3
+Spas-12
+--- 19-04-12 01:47:17
+sT.- Maaxis* Champion
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-12 01:47:20
+sT.- BIG PAPPA ENIGMA
+sT.- Mand3s
+HK MP5
+--- 19-04-12 01:47:23
+sT.- BIG PAPPA ENIGMA
+sT.- BIG PAPPA ENIGMA
+Grenade
+--- 19-04-12 01:47:23
+sT.- BIG PAPPA ENIGMA
+sT.- HartCheat]
+Grenade
+--- 19-04-12 01:47:25
+st WildR4P
+sT.- YnGwi3
+HK MP5
+--- 19-04-12 01:47:31
+st WildR4P
+sT.- Maaxis* Champion
+HK MP5
+--- 19-04-12 01:47:31
+sT.- YnGwi3
+st WildR4P
+HK MP5
+--- 19-04-12 01:47:32
+sT.- Mand3s
+sT.- YnGwi3
+Grenade
+--- 19-04-12 01:47:33
+sT.- BIG PAPPA ENIGMA
+sT.- HartCheat]
+Grenade
+--- 19-04-12 01:47:37
+sT.- Mand3s
+sT.- BIG PAPPA ENIGMA
+Spas-12
+--- 19-04-12 01:47:37
+sT.- YnGwi3
+sT.- Mand3s
+HK MP5
+--- 19-04-12 01:47:41
+sT.- HartCheat]
+sT.- Maaxis* Champion
+M79
+--- 19-04-12 01:47:42
+st WildR4P
+sT.- YnGwi3
+HK MP5
+--- 19-04-12 01:47:43
+sT.- BIG PAPPA ENIGMA
+st WildR4P
+Steyr AUG
+--- 19-04-12 01:47:45
+sT.- BIG PAPPA ENIGMA
+sT.- HartCheat]
+Grenade
+--- 19-04-12 01:47:45
+sT.- HartCheat]
+sT.- BIG PAPPA ENIGMA
+M79
+--- 19-04-12 01:47:48
+sT.- Maaxis* Champion
+sT.- Mand3s
+Grenade
+--- 19-04-12 01:47:52
+st WildR4P
+sT.- YnGwi3
+HK MP5
+--- 19-04-12 01:47:56
+sT.- Maaxis* Champion
+sT.- HartCheat]
+Spas-12
+--- 19-04-12 01:47:57
+sT.- Maaxis* Champion
+st WildR4P
+Spas-12
+--- 19-04-12 01:48:01
+sT.- Mand3s
+sT.- BIG PAPPA ENIGMA
+Grenade
+--- 19-04-12 01:48:05
+sT.- Mand3s
+sT.- YnGwi3
+Spas-12
+--- 19-04-12 01:48:06
+sT.- Maaxis* Champion
+sT.- HartCheat]
+Spas-12
+--- 19-04-12 01:48:09
+st WildR4P
+sT.- BIG PAPPA ENIGMA
+Combat Knife
+--- 19-04-12 01:48:11
+sT.- YnGwi3
+sT.- Mand3s
+HK MP5
+--- 19-04-12 01:48:12
+sT.- Maaxis* Champion
+st WildR4P
+LAW
+--- 19-04-12 01:48:17
+sT.- HartCheat]
+sT.- Maaxis* Champion
+Combat Knife
+--- 19-04-12 01:48:17
+sT.- Maaxis* Champion
+sT.- HartCheat]
+Spas-12
+--- 19-04-12 01:48:19
+st WildR4P
+sT.- YnGwi3
+Combat Knife
+--- 19-04-12 01:48:24
+sT.- BIG PAPPA ENIGMA
+sT.- Mand3s
+HK MP5
+--- 19-04-12 01:48:25
+sT.- HartCheat]
+sT.- BIG PAPPA ENIGMA
+M79
+--- 19-04-12 01:48:26
+st WildR4P
+sT.- YnGwi3
+HK MP5
+--- 19-04-12 01:48:29
+sT.- Maaxis* Champion
+st WildR4P
+Grenade
+--- 19-04-12 01:48:33
+sT.- Mand3s
+sT.- BIG PAPPA ENIGMA
+LAW
+--- 19-04-12 01:48:34
+sT.- Mand3s
+sT.- YnGwi3
+Grenade
+--- 19-04-12 01:48:35
+sT.- Mand3s
+sT.- Maaxis* Champion
+Spas-12
+--- 19-04-12 01:48:40
+sT.- BIG PAPPA ENIGMA
+sT.- HartCheat]
+Grenade
+--- 19-04-12 01:48:42
+st WildR4P
+sT.- YnGwi3
+HK MP5
+--- 19-04-12 01:48:44
+sT.- Mand3s
+sT.- BIG PAPPA ENIGMA
+Grenade
+--- 19-04-12 01:48:47
+sT.- YnGwi3
+st WildR4P
+HK MP5
+--- 19-04-12 01:48:51
+sT.- HartCheat]
+sT.- Maaxis* Champion
+Combat Knife
+--- 19-04-12 01:48:52
+sT.- BIG PAPPA ENIGMA
+sT.- Mand3s
+Steyr AUG
+--- 19-04-12 01:48:55
+sT.- BIG PAPPA ENIGMA
+sT.- HartCheat]
+Grenade
+--- 19-04-12 01:48:56
+st WildR4P
+sT.- BIG PAPPA ENIGMA
+HK MP5
+--- 19-04-12 01:48:57
+sT.- Maaxis* Champion
+st WildR4P
+Grenade
+--- 19-04-12 01:49:00
+sT.- Maaxis* Champion
+sT.- Mand3s
+LAW
+--- 19-04-12 01:49:04
+sT.- YnGwi3
+sT.- HartCheat]
+HK MP5
+--- 19-04-12 01:49:04
+sT.- Mand3s
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-12 01:49:06
+st WildR4P
+sT.- BIG PAPPA ENIGMA
+HK MP5
+--- 19-04-12 01:49:06
+sT.- BIG PAPPA ENIGMA
+st WildR4P
+Steyr AUG
+--- 19-04-12 01:49:10
+st WildR4P
+sT.- YnGwi3
+Combat Knife
+--- 19-04-12 01:49:11
+sT.- BIG PAPPA ENIGMA
+sT.- Mand3s
+Steyr AUG
+--- 19-04-12 01:49:14
+sT.- HartCheat]
+sT.- BIG PAPPA ENIGMA
+Grenade
+--- 19-04-12 01:49:14
+sT.- Maaxis* Champion
+st WildR4P
+Spas-12
+--- 19-04-12 01:49:19
+sT.- Maaxis* Champion
+sT.- Mand3s
+LAW
+--- 19-04-12 01:49:19
+sT.- YnGwi3
+sT.- HartCheat]
+HK MP5
+--- 19-04-12 01:49:25
+sT.- BIG PAPPA ENIGMA
+st WildR4P
+Steyr AUG
+--- 19-04-12 01:49:28
+sT.- Mand3s
+sT.- BIG PAPPA ENIGMA
+Spas-12
+--- 19-04-12 01:49:29
+sT.- Maaxis* Champion
+sT.- HartCheat]
+Spas-12
+--- 19-04-12 01:49:29
+sT.- Mand3s
+sT.- Maaxis* Champion
+Spas-12
+--- 19-04-12 01:49:37
+sT.- BIG PAPPA ENIGMA
+sT.- HartCheat]
+HK MP5
+--- 19-04-12 01:49:43
+sT.- BIG PAPPA ENIGMA
+sT.- Mand3s
+Grenade
+--- 19-04-12 01:49:43
+sT.- Mand3s
+sT.- BIG PAPPA ENIGMA
+Spas-12
+--- 19-04-12 01:49:45
+sT.- YnGwi3
+st WildR4P
+Grenade
+--- 19-04-12 01:49:53
+st WildR4P
+sT.- Maaxis* Champion
+HK MP5
+--- 19-04-12 01:49:55
+sT.- Mand3s
+sT.- YnGwi3
+Spas-12
+--- 19-04-12 01:49:58
+sT.- Maaxis* Champion
+sT.- HartCheat]
+Spas-12
+--- 19-04-12 01:50:04
+sT.- YnGwi3
+sT.- Mand3s
+HK MP5
+--- 19-04-12 01:50:04
+sT.- BIG PAPPA ENIGMA
+st WildR4P
+HK MP5
+--- 19-04-12 01:50:07
+sT.- BIG PAPPA ENIGMA
+sT.- HartCheat]
+Grenade
+--- 19-04-12 01:50:07
+sT.- HartCheat]
+sT.- BIG PAPPA ENIGMA
+Spas-12
+--- 19-04-12 01:50:10
+sT.- Mand3s
+sT.- Maaxis* Champion
+Spas-12
+--- 19-04-12 01:50:16
+sT.- BIG PAPPA ENIGMA
+sT.- Mand3s
+Steyr AUG
+--- 19-04-12 01:50:17
+st WildR4P
+sT.- YnGwi3
+HK MP5
+--- 19-04-12 01:50:18
+sT.- BIG PAPPA ENIGMA
+sT.- HartCheat]
+Combat Knife
+--- 19-04-12 01:50:18
+sT.- HartCheat]
+sT.- BIG PAPPA ENIGMA
+Spas-12
+--- 19-04-12 01:50:19
+st WildR4P
+sT.- Maaxis* Champion
+Combat Knife
+--- 19-04-12 01:50:19
+sT.- Maaxis* Champion
+st WildR4P
+LAW
+--- 19-04-12 01:50:26
+sT.- HartCheat]
+sT.- BIG PAPPA ENIGMA
+M79
+--- 19-04-12 01:50:27
+st WildR4P
+sT.- YnGwi3
+HK MP5
+--- 19-04-12 01:50:30
+sT.- Maaxis* Champion
+sT.- Mand3s
+Spas-12
+--- 19-04-12 01:50:30
+sT.- Mand3s
+sT.- Maaxis* Champion
+LAW
+--- 19-04-12 01:50:31
+sT.- HartCheat]
+sT.- BIG PAPPA ENIGMA
+M79
+--- 19-04-12 01:50:32
+sT.- YnGwi3
+sT.- HartCheat]
+HK MP5
+--- 19-04-12 01:50:38
+sT.- Mand3s
+sT.- YnGwi3
+Grenade
+--- 19-04-12 01:50:38
+sT.- Maaxis* Champion
+st WildR4P
+LAW
+--- 19-04-12 01:50:42
+sT.- BIG PAPPA ENIGMA
+sT.- HartCheat]
+Combat Knife
+--- 19-04-12 01:50:44
+sT.- Maaxis* Champion
+st WildR4P
+Spas-12
+--- 19-04-12 01:50:44
+sT.- Mand3s
+sT.- BIG PAPPA ENIGMA
+Spas-12
+--- 19-04-12 01:50:47
+sT.- Maaxis* Champion
+sT.- HartCheat]
+Spas-12
+--- 19-04-12 01:50:52
+sT.- Mand3s
+sT.- Maaxis* Champion
+Spas-12
+--- 19-04-12 01:50:53
+sT.- YnGwi3
+sT.- Mand3s
+HK MP5
+--- 19-04-12 01:50:56
+sT.- BIG PAPPA ENIGMA
+st WildR4P
+Combat Knife
+--- 19-04-12 01:50:59
+sT.- Maaxis* Champion
+sT.- HartCheat]
+Grenade
+--- 19-04-12 01:51:01
+sT.- Mand3s
+sT.- YnGwi3
+Spas-12
+--- 19-04-12 01:51:03
+sT.- BIG PAPPA ENIGMA
+sT.- Mand3s
+Steyr AUG
+--- 19-04-12 01:51:05
+st WildR4P
+sT.- Maaxis* Champion
+HK MP5
+--- 19-04-12 01:51:09
+sT.- YnGwi3
+st WildR4P
+HK MP5
+--- 19-04-12 01:51:11
+sT.- Maaxis* Champion
+sT.- HartCheat]
+Spas-12
+--- 19-04-12 01:51:14
+sT.- Maaxis* Champion
+sT.- Mand3s
+Spas-12
+--- 19-04-12 01:51:15
+sT.- YnGwi3
+st WildR4P
+HK MP5
+--- 19-04-12 01:51:17
+sT.- YnGwi3
+sT.- HartCheat]
+Combat Knife
+--- 19-04-12 01:51:20
+st WildR4P
+sT.- BIG PAPPA ENIGMA
+HK MP5
+--- 19-04-12 01:51:23
+sT.- Maaxis* Champion
+sT.- HartCheat]
+Grenade
+--- 19-04-12 01:51:26
+sT.- BIG PAPPA ENIGMA
+st WildR4P
+Grenade
+--- 19-04-12 01:51:28
+sT.- Maaxis* Champion
+sT.- Mand3s
+Grenade
+--- 19-04-12 01:51:30
+sT.- HartCheat]
+sT.- BIG PAPPA ENIGMA
+M79
+--- 19-04-12 01:51:33
+st WildR4P
+sT.- YnGwi3
+Grenade
+--- 19-04-12 01:51:38
+sT.- YnGwi3
+sT.- Mand3s
+HK MP5
+--- 19-04-12 01:51:39
+sT.- Mand3s
+sT.- YnGwi3
+Spas-12
+--- 19-04-12 01:51:40
+sT.- BIG PAPPA ENIGMA
+sT.- HartCheat]
+Grenade
+--- 19-04-12 01:51:43
+sT.- Mand3s
+sT.- BIG PAPPA ENIGMA
+Spas-12
+--- 19-04-12 01:51:44
+sT.- Maaxis* Champion
+st WildR4P
+Spas-12
+--- 19-04-12 01:51:50
+sT.- BIG PAPPA ENIGMA
+sT.- Mand3s
+HK MP5
+--- 19-04-12 01:51:50
+st WildR4P
+sT.- YnGwi3
+HK MP5
+--- 19-04-12 01:51:56
+sT.- Mand3s
+sT.- Maaxis* Champion
+Spas-12
+--- 19-04-12 01:51:58
+st WildR4P
+sT.- YnGwi3
+Grenade
+--- 19-04-12 01:51:58
+sT.- YnGwi3
+st WildR4P
+HK MP5
+--- 19-04-12 01:52:01
+sT.- Mand3s
+sT.- Mand3s
+Grenade
+--- 19-04-12 01:52:09
+sT.- Mand3s
+sT.- YnGwi3
+Spas-12
+--- 19-04-12 01:52:10
+sT.- YnGwi3
+sT.- Mand3s
+Combat Knife
+--- 19-04-12 01:52:11
+sT.- Maaxis* Champion
+sT.- HartCheat]
+Spas-12
+--- 19-04-12 01:52:14
+st WildR4P
+sT.- YnGwi3
+Combat Knife
+--- 19-04-12 01:52:15
+sT.- BIG PAPPA ENIGMA
+st WildR4P
+HK MP5
+--- 19-04-12 01:52:16
+sT.- HartCheat]
+sT.- Maaxis* Champion
+Combat Knife
+--- 19-04-12 01:52:20
+sT.- HartCheat]
+sT.- BIG PAPPA ENIGMA
+Ak-74
+--- 19-04-12 01:52:23
+sT.- YnGwi3
+sT.- Mand3s
+HK MP5
+--- 19-04-12 01:52:25
+sT.- HartCheat]
+sT.- BIG PAPPA ENIGMA
+Ak-74
+--- 19-04-12 01:52:25
+sT.- BIG PAPPA ENIGMA
+sT.- HartCheat]
+Combat Knife
+--- 19-04-12 01:52:26
+sT.- YnGwi3
+st WildR4P
+Combat Knife
+--- 19-04-12 01:52:32
+sT.- YnGwi3
+st WildR4P
+HK MP5
+--- 19-04-12 01:52:33
+sT.- BIG PAPPA ENIGMA
+sT.- Mand3s
+Grenade
+--- 19-04-12 01:52:39
+sT.- Maaxis* Champion
+sT.- Mand3s
+Spas-12
+--- 19-04-12 01:52:42
+sT.- HartCheat]
+sT.- Maaxis* Champion
+Ak-74
+--- 19-04-12 01:52:42
+sT.- BIG PAPPA ENIGMA
+sT.- HartCheat]
+Steyr AUG
+--- 19-04-12 01:53:52
+sT.- BIG PAPPA ENIGMA
+sT.- Mand3s
+M79
+--- 19-04-12 01:53:52
+sT.- Mand3s
+sT.- BIG PAPPA ENIGMA
+Desert Eagles
+--- 19-04-12 01:53:58
+sT.- Maaxis* Champion
+sT.- HartCheat]
+Barrett M82A1
+--- 19-04-12 01:53:59
+sT.- Mand3s
+sT.- Maaxis* Champion
+Desert Eagles
+--- 19-04-12 01:54:01
+st WildR4P
+sT.- BIG PAPPA ENIGMA
+M79
+--- 19-04-12 01:54:02
+st WildR4P
+sT.- YnGwi3
+Combat Knife
+--- 19-04-12 01:54:16
+st WildR4P
+sT.- BIG PAPPA ENIGMA
+M79
+--- 19-04-12 01:54:16
+sT.- BIG PAPPA ENIGMA
+sT.- Mand3s
+Combat Knife
+--- 19-04-12 01:54:18
+st WildR4P
+sT.- YnGwi3
+Combat Knife
+--- 19-04-12 01:54:21
+st WildR4P
+sT.- Maaxis* Champion
+Hands
+--- 19-04-12 01:54:23
+st WildR4P
+st WildR4P
+Grenade
+--- 19-04-12 01:54:23
+st WildR4P
+sT.- BIG PAPPA ENIGMA
+Grenade
+--- 19-04-12 01:54:46
+sT.- Maaxis* Champion
+st WildR4P
+Barrett M82A1
+--- 19-04-12 01:54:46
+st WildR4P
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-12 01:54:49
+sT.- HartCheat]
+sT.- YnGwi3
+Spas-12
+--- 19-04-12 01:54:51
+sT.- HartCheat]
+sT.- BIG PAPPA ENIGMA
+Spas-12
+--- 19-04-12 01:54:56
+sT.- YnGwi3
+sT.- HartCheat]
+Grenade
+--- 19-04-12 01:55:14
+sT.- Maaxis* Champion
+st WildR4P
+Barrett M82A1
+--- 19-04-12 01:55:14
+sT.- Mand3s
+sT.- YnGwi3
+Desert Eagles
+--- 19-04-12 01:55:16
+sT.- Mand3s
+sT.- BIG PAPPA ENIGMA
+Combat Knife
+--- 19-04-12 01:55:31
+sT.- YnGwi3
+sT.- Mand3s
+HK MP5
+--- 19-04-12 01:55:41
+sT.- BIG PAPPA ENIGMA
+sT.- HartCheat]
+Combat Knife
+--- 19-04-12 01:55:45
+sT.- Maaxis* Champion
+st WildR4P
+Barrett M82A1
+--- 19-04-12 01:55:47
+sT.- HartCheat]
+sT.- Maaxis* Champion
+Spas-12
+--- 19-04-12 01:55:50
+sT.- YnGwi3
+sT.- Mand3s
+HK MP5
+--- 19-04-12 01:55:54
+sT.- HartCheat]
+sT.- YnGwi3
+Spas-12
+--- 19-04-12 01:56:08
+sT.- HartCheat]
+sT.- HartCheat]
+Grenade
+--- 19-04-12 01:56:08
+sT.- Maaxis* Champion
+st WildR4P
+Grenade
+--- 19-04-12 01:56:08
+sT.- Mand3s
+sT.- BIG PAPPA ENIGMA
+HK MP5
+--- 19-04-12 01:56:35
+sT.- Maaxis* Champion
+st WildR4P
+Combat Knife
+--- 19-04-12 01:56:35
+sT.- BIG PAPPA ENIGMA
+sT.- Mand3s
+HK MP5
+--- 19-04-12 01:56:35
+sT.- Mand3s
+sT.- BIG PAPPA ENIGMA
+Grenade
+--- 19-04-12 01:56:38
+sT.- HartCheat]
+sT.- YnGwi3
+Spas-12
+--- 19-04-12 01:56:42
+sT.- Maaxis* Champion
+sT.- HartCheat]
+Barrett M82A1
+--- 19-04-12 01:56:45
+sT.- BIG PAPPA ENIGMA
+sT.- Mand3s
+HK MP5
+--- 19-04-12 02:43:26
+sT.- YnGwi3
+sT.- SenzacL*
+Grenade
+--- 19-04-12 02:44:37
+sT.- SenzacL*
+sT.- Maaxis* Champion
+Barrett M82A1
+--- 19-04-12 02:45:01
+sT.- SenzacL*
+sT.- Maaxis* Champion
+Chainsaw
+--- 19-04-12 02:45:09
+sT.- SenzacL*
+sT.- Maaxis* Champion
+M79
+--- 19-04-12 02:45:23
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Ruger 77
+--- 19-04-12 02:45:29
+sT.- Maaxis* Champion
+SeensaTion
+Ruger 77
+--- 19-04-12 02:45:34
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Ruger 77
+--- 19-04-12 02:45:36
+SeensaTion
+sT.- Maaxis* Champion
+Ruger 77
+--- 19-04-12 02:45:54
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Grenade
+--- 19-04-12 02:45:54
+sT.- SenzacL*
+sT.- Maaxis* Champion
+M79
+--- 19-04-12 02:46:03
+sT.- SenzacL*
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-12 02:46:03
+SeensaTion
+katherine orellana
+Ruger 77
+--- 19-04-12 02:46:07
+sT.- Maaxis* Champion
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-12 02:46:07
+sT.- Maaxis* Champion
+botella
+Grenade
+--- 19-04-12 02:46:09
+SeensaTion
+Gel
+Ruger 77
+--- 19-04-12 02:46:12
+SeensaTion
+katherine orellana
+LAW
+--- 19-04-12 02:46:16
+katherine orellana
+SeensaTion
+FN Minimi
+--- 19-04-12 02:46:18
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Ruger 77
+--- 19-04-12 02:46:23
+Gel
+botella
+Barrett M82A1
+--- 19-04-12 02:46:23
+SeensaTion
+sT.- Maaxis* Champion
+Ruger 77
+--- 19-04-12 02:46:28
+Gel
+sT.- SenzacL*
+Combat Knife
+--- 19-04-12 02:46:34
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Grenade
+--- 19-04-12 02:46:39
+botella
+sT.- Maaxis* Champion
+M79
+--- 19-04-12 02:46:40
+SeensaTion
+katherine orellana
+Grenade
+--- 19-04-12 02:46:42
+SeensaTion
+Gel
+Ruger 77
+--- 19-04-12 02:46:44
+sT.- Maaxis* Champion
+botella
+Grenade
+--- 19-04-12 02:46:45
+sT.- Maaxis* Champion
+SeensaTion
+Grenade
+--- 19-04-12 02:46:52
+Gel
+sT.- SenzacL*
+Combat Knife
+--- 19-04-12 02:46:57
+katherine orellana
+botella
+FN Minimi
+--- 19-04-12 02:47:05
+sT.- Maaxis* Champion
+SeensaTion
+Ruger 77
+--- 19-04-12 02:47:09
+katherine orellana
+botella
+M79
+--- 19-04-12 02:47:16
+sT.- Maaxis* Champion
+SeensaTion
+Ruger 77
+--- 19-04-12 02:47:27
+botella
+katherine orellana
+Desert Eagles
+--- 19-04-12 02:47:38
+Gel
+botella
+Ruger 77
+--- 19-04-12 02:47:38
+sT.- SenzacL*
+sT.- Maaxis* Champion
+M79
+--- 19-04-12 02:47:42
+SeensaTion
+katherine orellana
+Grenade
+--- 19-04-12 02:47:43
+Gel
+SeensaTion
+Ruger 77
+--- 19-04-12 02:47:43
+SeensaTion
+Gel
+Grenade
+--- 19-04-12 02:47:46
+sT.- SenzacL*
+katherine orellana
+M79
+--- 19-04-12 02:47:48
+sT.- Maaxis* Champion
+botella
+Ruger 77
+--- 19-04-12 02:47:51
+SeensaTion
+Gel
+LAW
+--- 19-04-12 02:47:52
+SeensaTion
+SeensaTion
+Grenade
+--- 19-04-12 02:47:58
+Gel
+botella
+Ruger 77
+--- 19-04-12 02:47:59
+SeensaTion
+Gel
+Desert Eagles
+--- 19-04-12 02:48:00
+SeensaTion
+sT.- Maaxis* Champion
+Desert Eagles
+--- 19-04-12 02:48:00
+katherine orellana
+sT.- SenzacL*
+Grenade
+--- 19-04-12 02:48:06
+Gel
+botella
+Grenade
+--- 19-04-12 02:48:06
+SeensaTion
+sT.- Maaxis* Champion
+LAW
+--- 19-04-12 02:48:06
+katherine orellana
+SeensaTion
+Grenade
+--- 19-04-12 02:48:14
+sT.- Maaxis* Champion
+SeensaTion
+LAW
+--- 19-04-12 02:48:16
+sT.- SenzacL*
+Gel
+Grenade
+--- 19-04-12 02:48:18
+botella
+katherine orellana
+LAW
+--- 19-04-12 02:48:21
+sT.- SenzacL*
+sT.- Maaxis* Champion
+M79
+--- 19-04-12 02:48:24
+katherine orellana
+sT.- SenzacL*
+Grenade
+--- 19-04-12 02:48:25
+Gel
+SeensaTion
+Ruger 77
+--- 19-04-12 02:48:27
+sT.- Maaxis* Champion
+botella
+Ruger 77
+--- 19-04-12 02:48:32
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Grenade
+--- 19-04-12 02:48:32
+botella
+Gel
+Grenade
+--- 19-04-12 02:48:34
+sT.- Maaxis* Champion
+botella
+Ruger 77
+--- 19-04-12 02:48:40
+sT.- Maaxis* Champion
+SeensaTion
+Ruger 77
+--- 19-04-12 02:48:41
+sT.- SenzacL*
+katherine orellana
+Grenade
+--- 19-04-12 02:48:41
+Gel
+botella
+Grenade
+--- 19-04-12 02:48:43
+sT.- SenzacL*
+sT.- Maaxis* Champion
+M79
+--- 19-04-12 02:48:46
+Gel
+sT.- SenzacL*
+Ruger 77
+--- 19-04-12 02:48:50
+Gel
+botella
+Combat Knife
+--- 19-04-12 02:48:50
+SeensaTion
+Gel
+Grenade
+--- 19-04-12 02:48:53
+katherine orellana
+SeensaTion
+HK MP5
+--- 19-04-12 02:48:56
+Gel
+sT.- SenzacL*
+Ruger 77
+--- 19-04-12 02:49:03
+katherine orellana
+SeensaTion
+HK MP5
+--- 19-04-12 02:49:03
+botella
+sT.- Maaxis* Champion
+Desert Eagles
+--- 19-04-12 02:49:04
+Gel
+botella
+Ruger 77
+--- 19-04-12 02:49:10
+Gel
+sT.- SenzacL*
+Grenade
+--- 19-04-12 02:49:13
+botella
+sT.- Maaxis* Champion
+Desert Eagles
+--- 19-04-12 02:49:15
+Gel
+SeensaTion
+Ruger 77
+--- 19-04-12 02:49:17
+sT.- SenzacL*
+katherine orellana
+Grenade
+--- 19-04-12 02:49:21
+SeensaTion
+Gel
+Desert Eagles
+--- 19-04-12 02:49:30
+botella
+sT.- Maaxis* Champion
+Desert Eagles
+--- 19-04-12 02:49:30
+Gel
+sT.- SenzacL*
+Grenade
+--- 19-04-12 02:49:30
+katherine orellana
+botella
+HK MP5
+--- 19-04-12 02:49:32
+SeensaTion
+katherine orellana
+LAW
+--- 19-04-12 02:49:35
+Gel
+SeensaTion
+Ruger 77
+--- 19-04-12 02:49:36
+botella
+Gel
+Desert Eagles
+--- 19-04-12 02:49:38
+katherine orellana
+sT.- SenzacL*
+HK MP5
+--- 19-04-12 02:49:41
+SeensaTion
+katherine orellana
+Desert Eagles
+--- 19-04-12 02:49:44
+sT.- SenzacL*
+sT.- Maaxis* Champion
+Chainsaw
+--- 19-04-12 02:49:44
+SeensaTion
+SeensaTion
+Grenade
+--- 19-04-12 02:49:47
+katherine orellana
+botella
+Grenade
+--- 19-04-12 02:49:48
+sT.- SenzacL*
+katherine orellana
+M79
+--- 19-04-12 02:49:50
+SeensaTion
+Gel
+Grenade
+--- 19-04-12 02:49:51
+Gel
+SeensaTion
+Ruger 77
+--- 19-04-12 02:49:56
+botella
+katherine orellana
+Desert Eagles
+--- 19-04-12 02:49:56
+sT.- Maaxis* Champion
+botella
+Grenade
+--- 19-04-12 02:49:57
+SeensaTion
+Gel
+Desert Eagles
+--- 19-04-12 02:49:58
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Grenade
+--- 19-04-12 02:50:00
+sT.- Maaxis* Champion
+SeensaTion
+Ruger 77
+--- 19-04-12 02:50:07
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Grenade
+--- 19-04-12 02:50:08
+SeensaTion
+Gel
+Grenade
+--- 19-04-12 02:50:10
+sT.- Maaxis* Champion
+botella
+Ruger 77
+--- 19-04-12 02:50:13
+sT.- Maaxis* Champion
+SeensaTion
+Grenade
+--- 19-04-12 02:50:13
+sT.- Maaxis* Champion
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-12 02:50:18
+katherine orellana
+sT.- SenzacL*
+Grenade
+--- 19-04-12 02:50:19
+SeensaTion
+katherine orellana
+Desert Eagles
+--- 19-04-12 02:50:20
+sT.- Maaxis* Champion
+botella
+Ruger 77
+--- 19-04-12 02:50:23
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Grenade
+--- 19-04-12 02:50:24
+SeensaTion
+Gel
+Desert Eagles
+--- 19-04-12 02:50:27
+katherine orellana
+botella
+Grenade
+--- 19-04-12 02:50:27
+sT.- Maaxis* Champion
+SeensaTion
+Grenade
+--- 19-04-12 02:50:28
+sT.- Maaxis* Champion
+sT.- SenzacL*
+LAW
+--- 19-04-12 02:50:32
+sT.- Maaxis* Champion
+SeensaTion
+Grenade
+--- 19-04-12 02:50:34
+sT.- Maaxis* Champion
+botella
+Ruger 77
+--- 19-04-12 02:50:37
+sT.- SenzacL*
+sT.- Maaxis* Champion
+M79
+--- 19-04-12 02:50:38
+Gel
+SeensaTion
+Grenade
+--- 19-04-12 02:50:39
+SeensaTion
+katherine orellana
+Desert Eagles
+--- 19-04-12 02:50:42
+botella
+Gel
+Desert Eagles
+--- 19-04-12 02:50:46
+sT.- Maaxis* Champion
+SeensaTion
+Grenade
+--- 19-04-12 02:50:49
+katherine orellana
+botella
+Ruger 77
+--- 19-04-12 02:50:54
+sT.- SenzacL*
+sT.- SenzacL*
+M79
+--- 19-04-12 02:50:56
+botella
+Gel
+Desert Eagles
+--- 19-04-12 02:50:59
+sT.- Maaxis* Champion
+botella
+Ruger 77
+--- 19-04-12 02:51:00
+SeensaTion
+katherine orellana
+LAW
+--- 19-04-12 02:51:02
+sT.- Maaxis* Champion
+SeensaTion
+Ruger 77
+--- 19-04-12 02:51:03
+sT.- SenzacL*
+Gel
+M79
+--- 19-04-12 02:51:05
+botella
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-12 02:51:06
+botella
+katherine orellana
+Desert Eagles
+--- 19-04-12 02:51:08
+Gel
+botella
+Grenade
+--- 19-04-12 02:51:14
+SeensaTion
+Gel
+LAW
+--- 19-04-12 02:51:15
+SeensaTion
+SeensaTion
+Grenade
+--- 19-04-12 02:51:16
+sT.- Maaxis* Champion
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-12 02:51:19
+Gel
+sT.- SenzacL*
+Ruger 77
+--- 19-04-12 02:51:20
+SeensaTion
+Gel
+Grenade
+--- 19-04-12 02:51:24
+katherine orellana
+botella
+Ruger 77
+--- 19-04-12 02:51:25
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Grenade
+--- 19-04-12 02:51:28
+SeensaTion
+katherine orellana
+Desert Eagles
+--- 19-04-12 02:51:29
+sT.- Maaxis* Champion
+SeensaTion
+Ruger 77
+--- 19-04-12 02:51:31
+botella
+Gel
+Grenade
+--- 19-04-12 02:51:31
+Gel
+botella
+Grenade
+--- 19-04-12 02:51:38
+Gel
+sT.- SenzacL*
+Grenade
+--- 19-04-12 02:51:41
+SeensaTion
+sT.- Maaxis* Champion
+LAW
+--- 19-04-12 02:51:44
+katherine orellana
+botella
+Combat Knife
+--- 19-04-12 02:51:44
+SeensaTion
+katherine orellana
+Desert Eagles
+--- 19-04-12 02:51:50
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Ruger 77
+--- 19-04-12 02:51:52
+Gel
+SeensaTion
+Grenade
+--- 19-04-12 02:51:54
+sT.- Maaxis* Champion
+botella
+Ruger 77
+--- 19-04-12 02:51:57
+katherine orellana
+sT.- SenzacL*
+M79
+--- 19-04-12 02:51:59
+katherine orellana
+SeensaTion
+Grenade
+--- 19-04-12 02:52:01
+Gel
+botella
+Grenade
+--- 19-04-12 02:52:02
+botella
+Gel
+Grenade
+--- 19-04-12 02:52:07
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Hands
+--- 19-04-12 02:52:09
+katherine orellana
+botella
+M79
+--- 19-04-12 02:52:10
+SeensaTion
+katherine orellana
+Desert Eagles
+--- 19-04-12 02:52:11
+Gel
+SeensaTion
+Ruger 77
+--- 19-04-12 02:52:17
+sT.- SenzacL*
+Gel
+Barrett M82A1
+--- 19-04-12 02:52:21
+SeensaTion
+sT.- Maaxis* Champion
+Desert Eagles
+--- 19-04-12 02:52:25
+Gel
+botella
+Ruger 77
+--- 19-04-12 02:52:25
+SeensaTion
+Gel
+Grenade
+--- 19-04-12 02:52:26
+katherine orellana
+sT.- SenzacL*
+Combat Knife
+--- 19-04-12 02:52:29
+sT.- Maaxis* Champion
+SeensaTion
+Ruger 77
+--- 19-04-12 02:52:33
+sT.- SenzacL*
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-12 02:52:37
+SeensaTion
+Gel
+Ruger 77
+--- 19-04-12 02:52:37
+Gel
+SeensaTion
+Combat Knife
+--- 19-04-12 02:52:37
+botella
+katherine orellana
+Desert Eagles
+--- 19-04-12 02:52:39
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Ruger 77
+--- 19-04-12 02:52:47
+Gel
+sT.- SenzacL*
+Grenade
+--- 19-04-12 02:52:48
+sT.- Maaxis* Champion
+botella
+Ruger 77
+--- 19-04-12 02:52:52
+sT.- SenzacL*
+sT.- SenzacL*
+Grenade
+--- 19-04-12 02:52:52
+sT.- SenzacL*
+Gel
+Grenade
+--- 19-04-12 02:52:53
+SeensaTion
+sT.- Maaxis* Champion
+Ruger 77
+--- 19-04-12 02:52:58
+SeensaTion
+sT.- Maaxis* Champion
+LAW
+--- 19-04-12 02:53:00
+katherine orellana
+botella
+M79
+--- 19-04-12 02:53:03
+sT.- SenzacL*
+Gel
+Grenade
+--- 19-04-12 02:53:07
+sT.- Maaxis* Champion
+botella
+Grenade
+--- 19-04-12 02:53:08
+sT.- SenzacL*
+katherine orellana
+M79
+--- 19-04-12 02:53:08
+botella
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-12 02:53:08
+sT.- Maaxis* Champion
+SeensaTion
+Ruger 77
+--- 19-04-12 02:53:17
+SeensaTion
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-12 02:53:17
+botella
+Gel
+Desert Eagles
+--- 19-04-12 02:53:19
+katherine orellana
+sT.- SenzacL*
+M79
+--- 19-04-12 02:53:19
+SeensaTion
+katherine orellana
+LAW
+--- 19-04-12 02:53:31
+Gel
+botella
+Ruger 77
+--- 19-04-12 02:53:34
+sT.- Maaxis* Champion
+SeensaTion
+Ruger 77
+--- 19-04-12 02:53:37
+Gel
+Gel
+Grenade
+--- 19-04-12 02:53:40
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Ruger 77
+--- 19-04-12 02:53:41
+botella
+sT.- Maaxis* Champion
+Desert Eagles
+--- 19-04-12 02:53:44
+katherine orellana
+katherine orellana
+Grenade
+--- 19-04-12 02:53:45
+botella
+Gel
+Grenade
+--- 19-04-12 02:53:51
+Gel
+botella
+Grenade
+--- 19-04-12 02:53:56
+Gel
+botella
+Grenade
+--- 19-04-12 02:53:58
+sT.- Maaxis* Champion
+SeensaTion
+Ruger 77
+--- 19-04-12 02:53:59
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Ruger 77
+--- 19-04-12 02:54:03
+sT.- Maaxis* Champion
+botella
+Ruger 77
+--- 19-04-12 02:54:06
+SeensaTion
+katherine orellana
+Desert Eagles
+--- 19-04-12 02:54:09
+sT.- SenzacL*
+Gel
+Ruger 77
+--- 19-04-12 02:54:10
+katherine orellana
+SeensaTion
+Combat Knife
+--- 19-04-12 02:54:11
+sT.- SenzacL*
+sT.- Maaxis* Champion
+Ruger 77
+--- 19-04-12 02:54:13
+sT.- SenzacL*
+katherine orellana
+Ruger 77
+--- 19-04-12 02:54:14
+Gel
+botella
+Grenade
+--- 19-04-12 02:54:15
+sT.- SenzacL*
+Gel
+Grenade
+--- 19-04-12 02:54:15
+Gel
+sT.- SenzacL*
+Ak-74
+--- 19-04-12 02:54:23
+Gel
+botella
+Combat Knife
+--- 19-04-12 02:54:24
+sT.- Maaxis* Champion
+SeensaTion
+Ruger 77
+--- 19-04-12 02:54:25
+sT.- SenzacL*
+Gel
+Ruger 77
+--- 19-04-12 02:54:29
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Ruger 77
+--- 19-04-12 02:54:32
+SeensaTion
+katherine orellana
+Desert Eagles
+--- 19-04-12 02:54:34
+Gel
+SeensaTion
+Grenade
+--- 19-04-12 02:54:40
+sT.- SenzacL*
+Gel
+Ruger 77
+--- 19-04-12 02:54:42
+botella
+katherine orellana
+M79
+--- 19-04-12 02:54:42
+katherine orellana
+botella
+M79
+--- 19-04-12 02:54:44
+sT.- Maaxis* Champion
+SeensaTion
+Ruger 77
+--- 19-04-12 02:54:47
+sT.- SenzacL*
+katherine orellana
+Grenade
+--- 19-04-12 02:54:53
+SeensaTion
+sT.- Maaxis* Champion
+Desert Eagles
+--- 19-04-12 02:54:54
+katherine orellana
+sT.- SenzacL*
+Hands
+--- 19-04-12 02:54:54
+SeensaTion
+Gel
+Desert Eagles
+--- 19-04-12 02:55:02
+sT.- SenzacL*
+sT.- Maaxis* Champion
+Ruger 77
+--- 19-04-12 02:55:02
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Ruger 77
+--- 19-04-12 02:55:05
+SeensaTion
+Gel
+Desert Eagles
+--- 19-04-12 02:55:09
+sT.- Maaxis* Champion
+botella
+Ruger 77
+--- 19-04-12 02:55:10
+sT.- Maaxis* Champion
+SeensaTion
+Grenade
+--- 19-04-12 02:55:12
+sT.- SenzacL*
+Gel
+Ruger 77
+--- 19-04-12 02:55:12
+katherine orellana
+sT.- SenzacL*
+M79
+--- 19-04-12 02:55:17
+botella
+katherine orellana
+Grenade
+--- 19-04-12 02:55:19
+sT.- SenzacL*
+Gel
+Ruger 77
+--- 19-04-12 02:55:21
+SeensaTion
+sT.- Maaxis* Champion
+Desert Eagles
+--- 19-04-12 02:55:22
+katherine orellana
+sT.- SenzacL*
+Combat Knife
+--- 19-04-12 02:55:27
+Gel
+SeensaTion
+Ak-74
+--- 19-04-12 02:55:28
+Gel
+botella
+Ak-74
+--- 19-04-12 02:55:30
+sT.- SenzacL*
+katherine orellana
+Grenade
+--- 19-04-12 02:55:30
+katherine orellana
+sT.- SenzacL*
+Grenade
+--- 19-04-12 02:55:35
+SeensaTion
+Gel
+Grenade
+--- 19-04-12 02:55:35
+Gel
+SeensaTion
+Ak-74
+--- 19-04-12 02:55:37
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Grenade
+--- 19-04-12 02:55:38
+botella
+katherine orellana
+FN Minimi
+--- 19-04-12 02:55:44
+SeensaTion
+katherine orellana
+LAW
+--- 19-04-12 02:55:44
+sT.- SenzacL*
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-12 02:55:44
+Gel
+botella
+Ak-74
+--- 19-04-12 02:55:46
+Gel
+SeensaTion
+Grenade
+--- 19-04-12 02:55:49
+sT.- SenzacL*
+Gel
+Ruger 77
+--- 19-04-12 02:55:49
+katherine orellana
+sT.- SenzacL*
+Combat Knife
+--- 19-04-12 02:55:55
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Combat Knife
+--- 19-04-12 02:55:58
+Gel
+botella
+Ak-74
+--- 19-04-12 02:56:04
+Gel
+sT.- SenzacL*
+Ak-74
+--- 19-04-12 02:56:04
+sT.- SenzacL*
+Gel
+Ruger 77
+--- 19-04-12 02:56:05
+sT.- Maaxis* Champion
+botella
+Grenade
+--- 19-04-12 02:56:11
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Ruger 77
+--- 19-04-12 02:56:11
+sT.- SenzacL*
+sT.- Maaxis* Champion
+Ruger 77
+--- 19-04-12 02:56:12
+Gel
+botella
+Grenade
+--- 19-04-12 02:56:12
+katherine orellana
+katherine orellana
+M79
+--- 19-04-12 02:56:17
+Gel
+SeensaTion
+Combat Knife
+--- 19-04-12 02:56:19
+katherine orellana
+sT.- SenzacL*
+M79
+--- 19-04-12 02:56:19
+Gel
+botella
+Ak-74
+--- 19-04-12 02:56:24
+katherine orellana
+SeensaTion
+Combat Knife
+--- 19-04-12 02:56:25
+sT.- SenzacL*
+katherine orellana
+Ruger 77
+--- 19-04-12 02:56:28
+sT.- SenzacL*
+sT.- Maaxis* Champion
+Ruger 77
+--- 19-04-12 02:56:31
+katherine orellana
+botella
+Combat Knife
+--- 19-04-12 02:56:33
+sT.- SenzacL*
+katherine orellana
+Ruger 77
+--- 19-04-12 02:56:35
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Ruger 77
+--- 19-04-12 02:56:37
+SeensaTion
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-12 02:56:39
+Gel
+SeensaTion
+Ak-74
+--- 19-04-12 02:56:44
+botella
+Gel
+FN Minimi
+--- 19-04-12 02:56:46
+sT.- Maaxis* Champion
+botella
+Ruger 77
+--- 19-04-12 02:56:53
+sT.- Maaxis* Champion
+SeensaTion
+Grenade
+--- 19-04-12 02:56:55
+Gel
+sT.- SenzacL*
+Ak-74
+--- 19-04-12 02:56:58
+botella
+katherine orellana
+FN Minimi
+--- 19-04-12 02:57:00
+botella
+sT.- Maaxis* Champion
+FN Minimi
+--- 19-04-12 02:57:00
+Gel
+botella
+Ak-74
+--- 19-04-12 02:57:02
+SeensaTion
+Gel
+Steyr AUG
+--- 19-04-12 02:57:05
+sT.- SenzacL*
+katherine orellana
+Ruger 77
+--- 19-04-12 02:57:07
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Grenade
+--- 19-04-12 02:57:08
+sT.- Maaxis* Champion
+SeensaTion
+Ruger 77
+--- 19-04-12 02:57:10
+Gel
+botella
+Ak-74
+--- 19-04-12 02:57:10
+botella
+Gel
+FN Minimi
+--- 19-04-12 02:57:14
+katherine orellana
+sT.- SenzacL*
+M79
+--- 19-04-12 02:57:16
+SeensaTion
+sT.- Maaxis* Champion
+Hands
+--- 19-04-12 02:57:20
+Gel
+botella
+Ak-74
+--- 19-04-12 02:57:20
+sT.- SenzacL*
+katherine orellana
+Grenade
+--- 19-04-12 02:57:22
+Gel
+SeensaTion
+Ak-74
+--- 19-04-12 02:57:22
+SeensaTion
+Gel
+Steyr AUG
+--- 19-04-12 02:57:31
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Ruger 77
+--- 19-04-12 02:57:32
+Gel
+botella
+Ak-74
+--- 19-04-12 02:58:09
+botella
+sT.- Maaxis* Champion
+Spas-12
+--- 19-04-12 02:58:11
+Gel
+sT.- SenzacL*
+Grenade
+--- 19-04-12 02:58:11
+Gel
+SeensaTion
+Grenade
+--- 19-04-12 02:58:17
+katherine orellana
+sT.- SenzacL*
+Grenade
+--- 19-04-12 02:58:19
+sT.- Maaxis* Champion
+SeensaTion
+Ruger 77
+--- 19-04-12 02:58:19
+katherine orellana
+katherine orellana
+M79
+--- 19-04-12 02:58:31
+Gel
+sT.- SenzacL*
+Grenade
+--- 19-04-12 02:58:32
+sT.- Maaxis* Champion
+SeensaTion
+Ruger 77
+--- 19-04-12 02:58:36
+botella
+Gel
+Grenade
+--- 19-04-12 02:58:38
+botella
+katherine orellana
+Spas-12
+--- 19-04-12 02:58:46
+botella
+katherine orellana
+Grenade
+--- 19-04-12 02:58:46
+katherine orellana
+botella
+Grenade
+--- 19-04-12 02:58:49
+SeensaTion
+Gel
+LAW
+--- 19-04-12 02:58:51
+sT.- Maaxis* Champion
+botella
+Grenade
+--- 19-04-12 02:58:51
+SeensaTion
+sT.- Maaxis* Champion
+Steyr AUG
+--- 19-04-12 02:58:54
+SeensaTion
+SeensaTion
+Grenade
+--- 19-04-12 02:58:54
+SeensaTion
+katherine orellana
+Grenade
+--- 19-04-12 02:58:58
+sT.- SenzacL*
+Gel
+M79
+--- 19-04-12 02:59:00
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Ruger 77
+--- 19-04-12 02:59:00
+SeensaTion
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-12 02:59:01
+SeensaTion
+katherine orellana
+Grenade
+--- 19-04-12 02:59:05
+sT.- Maaxis* Champion
+SeensaTion
+Ruger 77
+--- 19-04-12 02:59:08
+katherine orellana
+botella
+HK MP5
+--- 19-04-12 02:59:08
+sT.- SenzacL*
+Gel
+M79
+--- 19-04-12 02:59:11
+sT.- Maaxis* Champion
+SeensaTion
+Grenade
+--- 19-04-12 02:59:13
+botella
+sT.- Maaxis* Champion
+Spas-12
+--- 19-04-12 02:59:16
+katherine orellana
+sT.- SenzacL*
+Grenade
+--- 19-04-12 02:59:16
+sT.- SenzacL*
+katherine orellana
+M79
+--- 19-04-12 02:59:19
+Gel
+botella
+Spas-12
+--- 19-04-12 02:59:24
+sT.- SenzacL*
+Gel
+M79
+--- 19-04-12 02:59:25
+SeensaTion
+katherine orellana
+LAW
+--- 19-04-12 02:59:27
+sT.- Maaxis* Champion
+SeensaTion
+Ruger 77
+--- 19-04-12 02:59:32
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Ruger 77
+--- 19-04-12 02:59:34
+sT.- Maaxis* Champion
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-12 02:59:34
+sT.- Maaxis* Champion
+SeensaTion
+Grenade
+--- 19-04-12 02:59:40
+sT.- SenzacL*
+katherine orellana
+Grenade
+--- 19-04-12 02:59:42
+sT.- SenzacL*
+Gel
+M79
+--- 19-04-12 02:59:44
+sT.- Maaxis* Champion
+botella
+Ruger 77
+--- 19-04-12 02:59:46
+sT.- SenzacL*
+Gel
+M79
+--- 19-04-12 02:59:48
+katherine orellana
+sT.- SenzacL*
+Spas-12
+--- 19-04-12 02:59:49
+SeensaTion
+sT.- Maaxis* Champion
+Steyr AUG
+--- 19-04-12 03:00:31
+SeensaTion
+katherine orellana
+LAW
+--- 19-04-12 03:00:32
+katherine orellana
+botella
+Grenade
+--- 19-04-12 03:00:35
+sT.- Maaxis* Champion
+SeensaTion
+Ruger 77
+--- 19-04-12 03:00:42
+botella
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-12 03:00:42
+sT.- Maaxis* Champion
+botella
+Grenade
+--- 19-04-12 03:00:47
+botella
+katherine orellana
+Spas-12
+--- 19-04-12 03:00:48
+SeensaTion
+sT.- Maaxis* Champion
+LAW
+--- 19-04-12 03:00:50
+Gel
+SeensaTion
+Spas-12
+--- 19-04-12 03:00:55
+Gel
+sT.- SenzacL*
+Spas-12
+--- 19-04-12 03:00:55
+sT.- Maaxis* Champion
+botella
+Ruger 77
+--- 19-04-12 03:01:00
+sT.- Maaxis* Champion
+SeensaTion
+Grenade
+--- 19-04-12 03:01:02
+botella
+katherine orellana
+Spas-12
+--- 19-04-12 03:01:05
+sT.- SenzacL*
+sT.- Maaxis* Champion
+Chainsaw
+--- 19-04-12 03:01:06
+sT.- SenzacL*
+Gel
+Chainsaw
+--- 19-04-12 03:01:10
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Combat Knife
+--- 19-04-12 03:01:10
+botella
+Gel
+LAW
+--- 19-04-12 03:01:14
+SeensaTion
+katherine orellana
+Steyr AUG
+--- 19-04-12 03:01:18
+sT.- Maaxis* Champion
+botella
+Ruger 77
+--- 19-04-12 03:01:18
+SeensaTion
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-12 03:01:20
+Gel
+SeensaTion
+Grenade
+--- 19-04-12 03:01:23
+botella
+Gel
+Grenade
+--- 19-04-12 03:01:23
+Gel
+botella
+Combat Knife
+--- 19-04-12 03:01:26
+SeensaTion
+katherine orellana
+Grenade
+--- 19-04-12 03:01:31
+Gel
+sT.- SenzacL*
+Grenade
+--- 19-04-12 03:01:31
+SeensaTion
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-12 03:01:37
+SeensaTion
+Gel
+Grenade
+--- 19-04-12 03:01:38
+katherine orellana
+SeensaTion
+Steyr AUG
+--- 19-04-12 03:01:43
+Gel
+sT.- SenzacL*
+Grenade
+--- 19-04-12 03:01:44
+botella
+katherine orellana
+Spas-12
+--- 19-04-12 03:01:46
+SeensaTion
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-12 03:01:49
+katherine orellana
+botella
+Steyr AUG
+--- 19-04-12 03:01:54
+katherine orellana
+sT.- SenzacL*
+Grenade
+--- 19-04-12 03:01:54
+sT.- SenzacL*
+katherine orellana
+Grenade
+--- 19-04-12 03:02:01
+botella
+sT.- Maaxis* Champion
+Spas-12
+--- 19-04-12 03:02:05
+sT.- SenzacL*
+Gel
+Chainsaw
+--- 19-04-12 03:02:05
+katherine orellana
+SeensaTion
+Steyr AUG
+--- 19-04-12 03:02:05
+SeensaTion
+katherine orellana
+Steyr AUG
+--- 19-04-12 03:02:07
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Ruger 77
+--- 19-04-12 03:02:12
+katherine orellana
+katherine orellana
+Grenade
+--- 19-04-12 03:02:14
+sT.- Maaxis* Champion
+SeensaTion
+Ruger 77
+--- 19-04-12 03:02:20
+botella
+sT.- Maaxis* Champion
+Spas-12
+--- 19-04-12 03:02:20
+Gel
+SeensaTion
+Grenade
+--- 19-04-12 03:02:20
+SeensaTion
+Gel
+Steyr AUG
+--- 19-04-12 03:02:26
+botella
+katherine orellana
+Spas-12
+--- 19-04-12 03:02:26
+katherine orellana
+sT.- SenzacL*
+Combat Knife
+--- 19-04-12 03:02:26
+sT.- Maaxis* Champion
+botella
+Grenade
+--- 19-04-12 03:02:28
+SeensaTion
+sT.- Maaxis* Champion
+Steyr AUG
+--- 19-04-12 03:02:31
+sT.- SenzacL*
+Gel
+Chainsaw
+--- 19-04-12 03:02:38
+botella
+katherine orellana
+Grenade
+--- 19-04-12 03:02:40
+sT.- SenzacL*
+sT.- Maaxis* Champion
+M79
+--- 19-04-12 03:02:41
+Gel
+sT.- SenzacL*
+Spas-12
+--- 19-04-12 03:02:45
+Gel
+botella
+Spas-12
+--- 19-04-12 03:02:46
+Gel
+sT.- SenzacL*
+Combat Knife
+--- 19-04-12 03:02:47
+katherine orellana
+SeensaTion
+Steyr AUG
+--- 19-04-12 03:02:52
+sT.- Maaxis* Champion
+botella
+Grenade
+--- 19-04-12 03:02:56
+SeensaTion
+katherine orellana
+Grenade
+--- 19-04-12 03:02:58
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Grenade
+--- 19-04-12 03:03:00
+sT.- Maaxis* Champion
+SeensaTion
+Ruger 77
+--- 19-04-12 03:03:07
+katherine orellana
+SeensaTion
+Steyr AUG
+--- 19-04-12 03:03:07
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Ruger 77
+--- 19-04-12 03:03:09
+katherine orellana
+botella
+Steyr AUG
+--- 19-04-12 03:03:11
+katherine orellana
+SeensaTion
+Combat Knife
+--- 19-04-12 03:03:15
+sT.- Maaxis* Champion
+botella
+Ruger 77
+--- 19-04-12 03:03:20
+katherine orellana
+sT.- SenzacL*
+Grenade
+--- 19-04-12 03:03:20
+SeensaTion
+sT.- Maaxis* Champion
+Steyr AUG
+--- 19-04-12 03:03:22
+katherine orellana
+botella
+Grenade
+--- 19-04-12 03:03:22
+botella
+katherine orellana
+Spas-12
+--- 19-04-12 03:03:27
+sT.- Maaxis* Champion
+SeensaTion
+Ruger 77
+--- 19-04-12 03:03:29
+sT.- SenzacL*
+sT.- Maaxis* Champion
+M79
+--- 19-04-12 03:03:30
+Gel
+botella
+Spas-12
+--- 19-04-12 03:03:31
+SeensaTion
+Gel
+Steyr AUG
+--- 19-04-12 03:03:35
+sT.- SenzacL*
+katherine orellana
+M79
+--- 19-04-12 03:03:36
+sT.- Maaxis* Champion
+SeensaTion
+Ruger 77
+--- 19-04-12 03:03:37
+botella
+sT.- Maaxis* Champion
+Spas-12
+--- 19-04-12 03:03:45
+katherine orellana
+botella
+Steyr AUG
+--- 19-04-12 03:03:46
+SeensaTion
+Gel
+Steyr AUG
+--- 19-04-12 03:03:46
+sT.- SenzacL*
+katherine orellana
+Grenade
+--- 19-04-12 03:03:49
+sT.- SenzacL*
+sT.- Maaxis* Champion
+M79
+--- 19-04-12 03:03:53
+sT.- Maaxis* Champion
+SeensaTion
+Ruger 77
+--- 19-04-12 03:03:55
+Gel
+botella
+Grenade
+--- 19-04-12 03:03:56
+sT.- SenzacL*
+katherine orellana
+M79
+--- 19-04-12 03:03:59
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Ruger 77
+--- 19-04-12 03:04:00
+sT.- SenzacL*
+sT.- Maaxis* Champion
+M79
+--- 19-04-12 03:04:01
+SeensaTion
+Gel
+Steyr AUG
+--- 19-04-12 03:04:01
+Gel
+SeensaTion
+Combat Knife
+--- 19-04-12 03:04:07
+sT.- Maaxis* Champion
+botella
+Ruger 77
+--- 19-04-12 03:04:08
+katherine orellana
+SeensaTion
+Grenade
+--- 19-04-12 03:04:09
+SeensaTion
+katherine orellana
+Grenade
+--- 19-04-12 03:04:13
+sT.- SenzacL*
+sT.- Maaxis* Champion
+M79
+--- 19-04-12 03:04:14
+katherine orellana
+sT.- SenzacL*
+Steyr AUG
+--- 19-04-12 03:04:18
+SeensaTion
+katherine orellana
+Steyr AUG
+--- 19-04-12 03:04:19
+Gel
+sT.- SenzacL*
+Grenade
+--- 19-04-12 03:04:20
+botella
+Gel
+Spas-12
+--- 19-04-12 03:04:23
+sT.- Maaxis* Champion
+SeensaTion
+Ruger 77
+--- 19-04-12 03:04:26
+Gel
+botella
+Spas-12
+--- 19-04-12 03:04:30
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Ruger 77
+--- 19-04-12 03:04:30
+katherine orellana
+SeensaTion
+Grenade
+--- 19-04-12 03:04:30
+SeensaTion
+katherine orellana
+Steyr AUG
+--- 19-04-12 03:04:33
+botella
+Gel
+Grenade
+--- 19-04-12 03:04:38
+SeensaTion
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-12 03:04:39
+katherine orellana
+botella
+Steyr AUG
+--- 19-04-12 03:04:41
+SeensaTion
+katherine orellana
+Steyr AUG
+--- 19-04-12 03:04:42
+sT.- SenzacL*
+Gel
+M79
+--- 19-04-12 03:04:44
+Gel
+SeensaTion
+Grenade
+--- 19-04-12 03:04:49
+sT.- SenzacL*
+sT.- Maaxis* Champion
+M79
+--- 19-04-12 03:04:53
+SeensaTion
+Gel
+Steyr AUG
+--- 19-04-12 03:04:55
+katherine orellana
+botella
+Steyr AUG
+--- 19-04-12 03:05:00
+katherine orellana
+SeensaTion
+Steyr AUG
+--- 19-04-12 03:05:00
+sT.- SenzacL*
+sT.- Maaxis* Champion
+M79
+--- 19-04-12 03:05:02
+botella
+katherine orellana
+Spas-12
+--- 19-04-12 03:05:04
+SeensaTion
+Gel
+Grenade
+--- 19-04-12 03:05:07
+sT.- SenzacL*
+katherine orellana
+M79
+--- 19-04-12 03:05:11
+Gel
+sT.- SenzacL*
+Grenade
+--- 19-04-12 03:05:12
+SeensaTion
+sT.- Maaxis* Champion
+Steyr AUG
+--- 19-04-12 03:05:16
+sT.- Maaxis* Champion
+botella
+Ruger 77
+--- 19-04-12 03:05:17
+Gel
+SeensaTion
+Spas-12
+--- 19-04-12 03:05:19
+sT.- SenzacL*
+katherine orellana
+M79
+--- 19-04-12 03:05:23
+Gel
+botella
+Combat Knife
+--- 19-04-12 03:05:23
+SeensaTion
+Gel
+Steyr AUG
+--- 19-04-12 03:05:24
+sT.- Maaxis* Champion
+SeensaTion
+Ruger 77
+--- 19-04-12 03:05:25
+sT.- SenzacL*
+katherine orellana
+M79
+--- 19-04-12 03:05:28
+Gel
+sT.- SenzacL*
+Combat Knife
+--- 19-04-12 03:05:32
+Gel
+botella
+Grenade
+--- 19-04-12 03:05:32
+SeensaTion
+SeensaTion
+Grenade
+--- 19-04-12 03:05:32
+SeensaTion
+Gel
+Grenade
+--- 19-04-12 03:05:36
+sT.- SenzacL*
+sT.- SenzacL*
+M79
+--- 19-04-12 03:05:36
+sT.- SenzacL*
+katherine orellana
+M79
+--- 19-04-12 03:05:40
+botella
+sT.- Maaxis* Champion
+Spas-12
+--- 19-04-12 03:05:43
+Gel
+SeensaTion
+Grenade
+--- 19-04-12 03:05:44
+sT.- Maaxis* Champion
+botella
+Ruger 77
+--- 19-04-12 03:05:46
+sT.- SenzacL*
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-12 03:05:49
+Gel
+SeensaTion
+Combat Knife
+--- 19-04-12 03:05:58
+botella
+katherine orellana
+Spas-12
+--- 19-04-12 03:06:01
+SeensaTion
+sT.- Maaxis* Champion
+Steyr AUG
+--- 19-04-12 03:06:01
+SeensaTion
+Gel
+Steyr AUG
+--- 19-04-12 03:06:05
+SeensaTion
+katherine orellana
+LAW
+--- 19-04-12 03:06:06
+katherine orellana
+sT.- SenzacL*
+Combat Knife
+--- 19-04-12 03:07:20
+sT.- SenzacL*
+sT.- Maaxis* Champion
+Barrett M82A1
+--- 19-04-12 03:07:20
+Gel
+botella
+Grenade
+--- 19-04-12 03:07:23
+SeensaTion
+katherine orellana
+Desert Eagles
+--- 19-04-12 03:07:26
+Gel
+SeensaTion
+Spas-12
+--- 19-04-12 03:07:29
+botella
+Gel
+Spas-12
+--- 19-04-12 03:07:33
+sT.- Maaxis* Champion
+botella
+Barrett M82A1
+--- 19-04-12 03:07:35
+sT.- SenzacL*
+sT.- Maaxis* Champion
+Barrett M82A1
+--- 19-04-12 03:07:38
+SeensaTion
+katherine orellana
+Grenade
+--- 19-04-12 03:07:41
+Gel
+SeensaTion
+Spas-12
+--- 19-04-12 03:07:45
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Barrett M82A1
+--- 19-04-12 03:07:45
+botella
+katherine orellana
+Grenade
+--- 19-04-12 03:07:45
+katherine orellana
+botella
+Steyr AUG
+--- 19-04-12 03:07:50
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Barrett M82A1
+--- 19-04-12 03:07:55
+Gel
+botella
+Spas-12
+--- 19-04-12 03:07:57
+SeensaTion
+Gel
+Desert Eagles
+--- 19-04-12 03:07:59
+katherine orellana
+SeensaTion
+Grenade
+--- 19-04-12 03:07:59
+katherine orellana
+katherine orellana
+Grenade
+--- 19-04-12 03:08:03
+sT.- Maaxis* Champion
+botella
+Grenade
+--- 19-04-12 03:08:04
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Barrett M82A1
+--- 19-04-12 03:08:09
+botella
+Gel
+Spas-12
+--- 19-04-12 03:08:10
+Gel
+botella
+LAW
+--- 19-04-12 03:08:10
+sT.- Maaxis* Champion
+SeensaTion
+Barrett M82A1
+--- 19-04-12 03:08:16
+botella
+katherine orellana
+Spas-12
+--- 19-04-12 03:08:17
+sT.- SenzacL*
+sT.- Maaxis* Champion
+Chainsaw
+--- 19-04-12 03:08:18
+Gel
+botella
+Combat Knife
+--- 19-04-12 03:08:19
+SeensaTion
+Gel
+Grenade
+--- 19-04-12 03:08:24
+katherine orellana
+SeensaTion
+M79
+--- 19-04-12 03:08:26
+botella
+katherine orellana
+Spas-12
+--- 19-04-12 03:08:27
+Gel
+botella
+Grenade
+--- 19-04-12 03:08:32
+SeensaTion
+Gel
+Desert Eagles
+--- 19-04-12 03:08:33
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Grenade
+--- 19-04-12 03:08:38
+katherine orellana
+SeensaTion
+M79
+--- 19-04-12 03:08:39
+Gel
+botella
+Spas-12
+--- 19-04-12 03:08:42
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Barrett M82A1
+--- 19-04-12 03:08:45
+SeensaTion
+katherine orellana
+Grenade
+--- 19-04-12 03:08:47
+Gel
+botella
+Spas-12
+--- 19-04-12 03:08:49
+SeensaTion
+Gel
+Combat Knife
+--- 19-04-12 03:08:51
+sT.- Maaxis* Champion
+SeensaTion
+Barrett M82A1
+--- 19-04-12 03:08:56
+katherine orellana
+botella
+M79
+--- 19-04-12 03:08:58
+sT.- SenzacL*
+sT.- Maaxis* Champion
+Barrett M82A1
+--- 19-04-12 03:08:58
+SeensaTion
+katherine orellana
+Desert Eagles
+--- 19-04-12 03:09:00
+SeensaTion
+Gel
+Grenade
+--- 19-04-12 03:09:00
+Gel
+SeensaTion
+Spas-12
+--- 19-04-12 03:09:08
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Barrett M82A1
+--- 19-04-12 03:09:09
+katherine orellana
+botella
+M79
+--- 19-04-12 03:09:14
+sT.- Maaxis* Champion
+SeensaTion
+Barrett M82A1
+--- 19-04-12 03:09:16
+katherine orellana
+botella
+M79
+--- 19-04-12 03:09:18
+sT.- SenzacL*
+sT.- Maaxis* Champion
+Barrett M82A1
+--- 19-04-12 03:09:21
+SeensaTion
+Gel
+Desert Eagles
+--- 19-04-12 03:09:25
+botella
+katherine orellana
+Spas-12
+--- 19-04-12 03:09:29
+botella
+Gel
+Spas-12
+--- 19-04-12 03:09:29
+Gel
+botella
+Spas-12
+--- 19-04-12 03:09:33
+katherine orellana
+SeensaTion
+Grenade
+--- 19-04-12 03:09:34
+Gel
+sT.- SenzacL*
+Grenade
+--- 19-04-12 03:09:38
+Gel
+botella
+Combat Knife
+--- 19-04-12 03:09:41
+katherine orellana
+SeensaTion
+M79
+--- 19-04-12 03:09:43
+sT.- SenzacL*
+sT.- Maaxis* Champion
+Barrett M82A1
+--- 19-04-12 03:09:46
+botella
+Gel
+HK MP5
+--- 19-04-12 03:09:48
+katherine orellana
+botella
+M79
+--- 19-04-12 03:09:53
+SeensaTion
+katherine orellana
+Steyr AUG
+--- 19-04-12 03:09:53
+sT.- SenzacL*
+sT.- Maaxis* Champion
+Barrett M82A1
+--- 19-04-12 03:09:59
+katherine orellana
+SeensaTion
+Grenade
+--- 19-04-12 03:09:59
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Grenade
+--- 19-04-12 03:10:03
+Gel
+botella
+Spas-12
+--- 19-04-12 03:10:07
+Gel
+SeensaTion
+Combat Knife
+--- 19-04-12 03:10:08
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Barrett M82A1
+--- 19-04-12 03:10:09
+botella
+Gel
+HK MP5
+--- 19-04-12 03:10:15
+SeensaTion
+sT.- Maaxis* Champion
+Steyr AUG
+--- 19-04-12 03:10:17
+katherine orellana
+botella
+M79
+--- 19-04-12 03:10:18
+SeensaTion
+katherine orellana
+Steyr AUG
+--- 19-04-12 03:10:20
+Gel
+SeensaTion
+Spas-12
+--- 19-04-12 03:10:21
+SeensaTion
+Gel
+Combat Knife
+--- 19-04-12 03:10:22
+sT.- SenzacL*
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-12 03:10:29
+sT.- SenzacL*
+Gel
+Barrett M82A1
+--- 19-04-12 03:10:33
+sT.- Maaxis* Champion
+SeensaTion
+Barrett M82A1
+--- 19-04-12 03:10:33
+botella
+katherine orellana
+Grenade
+--- 19-04-12 03:10:35
+Gel
+botella
+Spas-12
+--- 19-04-12 03:10:38
+sT.- SenzacL*
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-12 03:10:43
+botella
+Gel
+HK MP5
+--- 19-04-12 03:10:48
+sT.- Maaxis* Champion
+SeensaTion
+Barrett M82A1
+--- 19-04-12 03:10:49
+sT.- SenzacL*
+sT.- Maaxis* Champion
+Barrett M82A1
+--- 19-04-12 03:10:51
+botella
+Gel
+Grenade
+--- 19-04-12 03:10:53
+katherine orellana
+botella
+Combat Knife
+--- 19-04-12 03:11:01
+SeensaTion
+Gel
+Steyr AUG
+--- 19-04-12 03:11:03
+SeensaTion
+katherine orellana
+Steyr AUG
+--- 19-04-12 03:11:05
+sT.- Maaxis* Champion
+botella
+Barrett M82A1
+--- 19-04-12 03:11:08
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Combat Knife
+--- 19-04-12 03:11:09
+Gel
+SeensaTion
+Spas-12
+--- 19-04-12 03:11:13
+katherine orellana
+botella
+M79
+--- 19-04-12 03:11:15
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Barrett M82A1
+--- 19-04-12 03:11:17
+SeensaTion
+Gel
+Grenade
+--- 19-04-12 03:11:19
+sT.- Maaxis* Champion
+SeensaTion
+Barrett M82A1
+--- 19-04-12 03:11:20
+botella
+sT.- Maaxis* Champion
+Combat Knife
+--- 19-04-12 03:11:22
+katherine orellana
+botella
+M79
+--- 19-04-12 03:11:24
+sT.- SenzacL*
+katherine orellana
+Barrett M82A1
+--- 19-04-12 03:11:29
+SeensaTion
+Gel
+Grenade
+--- 19-04-12 03:11:31
+sT.- SenzacL*
+sT.- Maaxis* Champion
+Barrett M82A1
+--- 19-04-12 03:11:36
+katherine orellana
+botella
+M79
+--- 19-04-12 03:11:37
+katherine orellana
+SeensaTion
+Combat Knife
+--- 19-04-12 03:11:42
+sT.- SenzacL*
+sT.- Maaxis* Champion
+Barrett M82A1
+--- 19-04-12 03:11:47
+SeensaTion
+Gel
+Steyr AUG
+--- 19-04-12 03:11:48
+SeensaTion
+katherine orellana
+Steyr AUG
+--- 19-04-12 03:11:50
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Barrett M82A1
+--- 19-04-12 03:11:55
+SeensaTion
+katherine orellana
+Combat Knife
+--- 19-04-12 03:11:55
+Gel
+botella
+Spas-12
+--- 19-04-12 03:12:00
+SeensaTion
+Gel
+Steyr AUG
+--- 19-04-12 03:12:02
+katherine orellana
+SeensaTion
+USSOCOM
+--- 19-04-12 03:12:04
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Combat Knife
+--- 19-04-12 03:12:07
+Gel
+botella
+Spas-12
+--- 19-04-12 03:12:07
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Barrett M82A1
+--- 19-04-12 03:12:15
+botella
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-12 03:12:15
+botella
+Gel
+HK MP5
+--- 19-04-12 03:12:22
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Barrett M82A1
+--- 19-04-12 03:12:23
+Gel
+botella
+Spas-12
+--- 19-04-12 03:12:27
+Gel
+SeensaTion
+Spas-12
+--- 19-04-12 03:12:28
+botella
+Gel
+HK MP5
+--- 19-04-12 03:12:28
+sT.- SenzacL*
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-12 03:12:34
+katherine orellana
+botella
+M79
+--- 19-04-12 03:12:38
+Gel
+SeensaTion
+Spas-12
+--- 19-04-12 03:12:38
+sT.- SenzacL*
+sT.- Maaxis* Champion
+Barrett M82A1
+--- 19-04-12 03:12:43
+botella
+katherine orellana
+HK MP5
+--- 19-04-12 03:12:44
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Combat Knife
+--- 19-04-12 03:12:47
+SeensaTion
+Gel
+Steyr AUG
+--- 19-04-12 03:12:47
+Gel
+SeensaTion
+Spas-12
+--- 19-04-12 03:12:52
+katherine orellana
+botella
+USSOCOM
+--- 19-04-12 03:12:58
+SeensaTion
+katherine orellana
+Steyr AUG
+--- 19-04-12 03:12:58
+Gel
+SeensaTion
+Grenade
+--- 19-04-12 03:12:59
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Grenade
+--- 19-04-12 03:13:02
+Gel
+botella
+Combat Knife
+--- 19-04-12 03:13:07
+SeensaTion
+Gel
+Grenade
+--- 19-04-12 03:13:11
+sT.- SenzacL*
+sT.- Maaxis* Champion
+Barrett M82A1
+--- 19-04-12 03:13:12
+katherine orellana
+SeensaTion
+Grenade
+--- 19-04-12 03:13:12
+botella
+katherine orellana
+HK MP5
+--- 19-04-12 03:13:20
+botella
+Gel
+HK MP5
+--- 19-04-12 03:13:21
+katherine orellana
+botella
+M79
+--- 19-04-12 03:13:25
+katherine orellana
+SeensaTion
+USSOCOM
+--- 19-04-12 03:13:29
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Barrett M82A1
+--- 19-04-12 03:13:30
+botella
+katherine orellana
+HK MP5
+--- 19-04-12 03:13:31
+botella
+Gel
+Hands
+--- 19-04-12 03:13:35
+katherine orellana
+botella
+USSOCOM
+--- 19-04-12 03:13:42
+Gel
+Gel
+Grenade
+--- 19-04-12 03:13:44
+SeensaTion
+katherine orellana
+HK MP5
+--- 19-04-12 03:13:49
+SeensaTion
+Gel
+HK MP5
+--- 19-04-12 03:13:49
+sT.- Maaxis* Champion
+botella
+Grenade
+--- 19-04-12 03:13:52
+katherine orellana
+SeensaTion
+USSOCOM
+--- 19-04-12 03:13:56
+botella
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-12 03:13:59
+Gel
+sT.- SenzacL*
+Spas-12
+--- 19-04-12 03:14:01
+katherine orellana
+botella
+M79
+--- 19-04-12 03:14:04
+sT.- Maaxis* Champion
+SeensaTion
+Barrett M82A1
+--- 19-04-12 03:14:07
+sT.- SenzacL*
+Gel
+Barrett M82A1
+--- 19-04-12 03:14:10
+botella
+sT.- Maaxis* Champion
+HK MP5
+--- 19-04-12 03:14:14
+SeensaTion
+katherine orellana
+HK MP5
+--- 19-04-12 03:14:21
+Gel
+botella
+Spas-12
+--- 19-04-12 03:14:22
+Gel
+SeensaTion
+Grenade
+--- 19-04-12 03:14:22
+sT.- SenzacL*
+katherine orellana
+Barrett M82A1
+--- 19-04-12 03:14:26
+sT.- SenzacL*
+sT.- Maaxis* Champion
+Barrett M82A1
+--- 19-04-12 03:14:29
+SeensaTion
+Gel
+HK MP5
+--- 19-04-12 03:14:31
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Combat Knife
+--- 19-04-12 03:14:34
+SeensaTion
+katherine orellana
+Grenade
+--- 19-04-12 03:14:35
+Gel
+botella
+Spas-12
+--- 19-04-12 03:14:37
+Gel
+SeensaTion
+Spas-12
+--- 19-04-12 03:14:40
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Barrett M82A1
+--- 19-04-12 03:14:42
+botella
+Gel
+Grenade
+--- 19-04-12 03:14:42
+Gel
+botella
+Combat Knife
+--- 19-04-12 03:14:44
+katherine orellana
+SeensaTion
+M79
+--- 19-04-12 03:14:50
+sT.- SenzacL*
+katherine orellana
+Barrett M82A1
+--- 19-04-12 03:14:53
+Gel
+SeensaTion
+Grenade
+--- 19-04-12 03:14:53
+botella
+Gel
+HK MP5
+--- 19-04-12 03:14:55
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Grenade
+--- 19-04-12 03:15:02
+SeensaTion
+sT.- Maaxis* Champion
+HK MP5
+--- 19-04-12 03:15:03
+katherine orellana
+botella
+USSOCOM
+--- 19-04-12 03:15:07
+SeensaTion
+Gel
+HK MP5
+--- 19-04-12 03:15:10
+sT.- SenzacL*
+sT.- Maaxis* Champion
+Barrett M82A1
+--- 19-04-12 03:15:10
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Combat Knife
+--- 19-04-12 03:15:12
+SeensaTion
+katherine orellana
+HK MP5
+--- 19-04-12 03:15:12
+katherine orellana
+SeensaTion
+M79
+--- 19-04-12 03:15:14
+Gel
+botella
+Spas-12
+--- 19-04-12 03:15:21
+SeensaTion
+katherine orellana
+Combat Knife
+--- 19-04-12 03:15:22
+Gel
+SeensaTion
+Grenade
+--- 19-04-12 03:15:23
+botella
+Gel
+HK MP5
+--- 19-04-12 03:15:26
+botella
+katherine orellana
+Grenade
+--- 19-04-12 03:15:27
+sT.- Maaxis* Champion
+botella
+Barrett M82A1
+--- 19-04-12 03:15:33
+Gel
+SeensaTion
+Grenade
+--- 19-04-12 03:15:36
+katherine orellana
+botella
+M79
+--- 19-04-12 03:15:36
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Barrett M82A1
+--- 19-04-12 03:15:40
+Gel
+SeensaTion
+Combat Knife
+--- 19-04-12 03:15:42
+botella
+Gel
+HK MP5
+--- 19-04-12 03:15:43
+sT.- SenzacL*
+sT.- Maaxis* Champion
+Barrett M82A1
+--- 19-04-12 03:15:43
+katherine orellana
+botella
+M79
+--- 19-04-12 03:15:43
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Grenade
+--- 19-04-12 03:15:49
+katherine orellana
+SeensaTion
+M79
+--- 19-04-12 03:15:51
+botella
+Gel
+Grenade
+--- 19-04-12 03:15:54
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Barrett M82A1
+--- 19-04-12 03:15:54
+sT.- SenzacL*
+sT.- Maaxis* Champion
+Barrett M82A1
+--- 19-04-12 03:15:56
+katherine orellana
+botella
+USSOCOM
+--- 19-04-12 03:15:56
+SeensaTion
+katherine orellana
+HK MP5
+--- 19-04-12 03:16:01
+Gel
+SeensaTion
+Combat Knife
+--- 19-04-12 03:16:05
+botella
+Gel
+Grenade
+--- 19-04-12 03:16:06
+botella
+sT.- Maaxis* Champion
+HK MP5
+--- 19-04-12 03:16:08
+katherine orellana
+SeensaTion
+M79
+--- 19-04-12 03:16:11
+sT.- SenzacL*
+katherine orellana
+Barrett M82A1
+--- 19-04-12 03:16:14
+Gel
+botella
+Spas-12
+--- 19-04-12 03:16:18
+SeensaTion
+Gel
+Spas-12
+--- 19-04-12 03:16:19
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Barrett M82A1
+--- 19-04-12 03:16:20
+katherine orellana
+SeensaTion
+USSOCOM
+--- 19-04-12 03:16:25
+botella
+Gel
+HK MP5
+--- 19-04-12 03:16:25
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Barrett M82A1
+--- 19-04-12 03:16:31
+SeensaTion
+katherine orellana
+Spas-12
+--- 19-04-12 03:16:32
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Barrett M82A1
+--- 19-04-12 03:16:33
+botella
+Gel
+HK MP5
+--- 19-04-12 03:16:36
+katherine orellana
+botella
+USSOCOM
+--- 19-04-12 03:16:37
+sT.- Maaxis* Champion
+SeensaTion
+Barrett M82A1
+--- 19-04-12 03:16:42
+botella
+sT.- Maaxis* Champion
+HK MP5
+--- 19-04-12 03:16:43
+Gel
+botella
+Spas-12
+--- 19-04-12 03:16:50
+botella
+Gel
+HK MP5
+--- 19-04-12 03:16:50
+Gel
+botella
+Grenade
+--- 19-04-12 03:16:51
+SeensaTion
+katherine orellana
+Spas-12
+--- 19-04-12 03:16:52
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Barrett M82A1
+--- 19-04-12 03:16:52
+sT.- Maaxis* Champion
+SeensaTion
+Barrett M82A1
+--- 19-04-12 03:17:00
+Gel
+SeensaTion
+Combat Knife
+--- 19-04-12 03:17:01
+katherine orellana
+botella
+M79
+--- 19-04-12 03:17:05
+Gel
+SeensaTion
+Grenade
+--- 19-04-12 03:17:05
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Barrett M82A1
+--- 19-04-12 03:17:08
+Gel
+botella
+Grenade
+--- 19-04-12 03:17:11
+SeensaTion
+Gel
+Spas-12
+--- 19-04-12 03:17:12
+SeensaTion
+katherine orellana
+Spas-12
+--- 19-04-12 03:17:56
+botella
+sT.- Maaxis* Champion
+M79
+--- 19-04-12 03:17:56
+katherine orellana
+SeensaTion
+Ruger 77
+--- 19-04-12 03:17:57
+sT.- SenzacL*
+Gel
+M79
+--- 19-04-12 03:18:22
+SeensaTion
+katherine orellana
+Desert Eagles
+--- 19-04-12 03:18:23
+Gel
+botella
+Ak-74
+--- 19-04-12 03:18:25
+sT.- SenzacL*
+sT.- Maaxis* Champion
+M79
+--- 19-04-12 03:18:25
+Gel
+SeensaTion
+Ak-74
+--- 19-04-12 03:18:30
+Gel
+botella
+Combat Knife
+--- 19-04-12 03:18:32
+sT.- Maaxis* Champion
+SeensaTion
+Barrett M82A1
+--- 19-04-12 03:18:35
+sT.- SenzacL*
+katherine orellana
+M79
+--- 19-04-12 03:18:37
+sT.- SenzacL*
+sT.- SenzacL*
+M79
+--- 19-04-12 03:18:39
+SeensaTion
+sT.- Maaxis* Champion
+Desert Eagles
+--- 19-04-12 03:18:40
+botella
+Gel
+Grenade
+--- 19-04-12 03:18:42
+SeensaTion
+katherine orellana
+Grenade
+--- 19-04-12 03:18:46
+sT.- Maaxis* Champion
+botella
+Barrett M82A1
+--- 19-04-12 03:18:47
+katherine orellana
+sT.- SenzacL*
+Grenade
+--- 19-04-12 03:18:49
+SeensaTion
+Gel
+Desert Eagles
+--- 19-04-12 03:18:49
+Gel
+SeensaTion
+Grenade
+--- 19-04-12 03:18:54
+sT.- Maaxis* Champion
+botella
+Barrett M82A1
+--- 19-04-12 03:18:58
+Gel
+sT.- SenzacL*
+Ak-74
+--- 19-04-12 03:19:00
+Gel
+SeensaTion
+Ak-74
+--- 19-04-12 03:19:00
+SeensaTion
+sT.- Maaxis* Champion
+Desert Eagles
+--- 19-04-12 03:19:00
+botella
+Gel
+FN Minimi
+--- 19-04-12 03:19:08
+SeensaTion
+sT.- Maaxis* Champion
+Desert Eagles
+--- 19-04-12 03:19:08
+Gel
+sT.- SenzacL*
+Ak-74
+--- 19-04-12 03:19:12
+Gel
+SeensaTion
+Ak-74
+--- 19-04-12 03:19:16
+sT.- SenzacL*
+Gel
+M79
+--- 19-04-12 03:19:20
+sT.- SenzacL*
+katherine orellana
+M79
+--- 19-04-12 03:19:21
+sT.- Maaxis* Champion
+botella
+Chainsaw
+--- 19-04-12 03:19:25
+botella
+Gel
+FN Minimi
+--- 19-04-12 03:19:29
+sT.- SenzacL*
+sT.- Maaxis* Champion
+Chainsaw
+--- 19-04-12 03:19:30
+sT.- SenzacL*
+katherine orellana
+Chainsaw
+--- 19-04-12 03:19:33
+Gel
+sT.- SenzacL*
+Grenade
+--- 19-04-12 03:19:34
+Gel
+botella
+Grenade
+--- 19-04-12 03:19:37
+sT.- Maaxis* Champion
+SeensaTion
+Barrett M82A1
+--- 19-04-12 03:19:38
+katherine orellana
+sT.- SenzacL*
+M79
+--- 19-04-12 03:19:41
+botella
+Gel
+FN Minimi
+--- 19-04-12 03:19:43
+sT.- Maaxis* Champion
+botella
+Barrett M82A1
+--- 19-04-12 03:19:45
+sT.- Maaxis* Champion
+SeensaTion
+Chainsaw
+--- 19-04-12 03:19:48
+sT.- SenzacL*
+katherine orellana
+Grenade
+--- 19-04-12 03:19:53
+Gel
+botella
+Ak-74
+--- 19-04-12 03:19:54
+sT.- SenzacL*
+sT.- Maaxis* Champion
+M79
+--- 19-04-12 03:19:55
+Gel
+sT.- SenzacL*
+Grenade
+--- 19-04-12 03:19:59
+botella
+Gel
+FN Minimi
+--- 19-04-12 03:20:01
+sT.- Maaxis* Champion
+botella
+Barrett M82A1
+--- 19-04-12 03:20:06
+Gel
+SeensaTion
+Grenade
+--- 19-04-12 03:20:07
+botella
+katherine orellana
+Grenade
+--- 19-04-12 03:20:10
+botella
+Gel
+FN Minimi
+--- 19-04-12 03:20:13
+botella
+katherine orellana
+FN Minimi
+--- 19-04-12 03:20:16
+sT.- SenzacL*
+sT.- Maaxis* Champion
+M79
+--- 19-04-12 03:20:20
+SeensaTion
+Gel
+LAW
+--- 19-04-12 03:20:23
+sT.- SenzacL*
+katherine orellana
+M79
+--- 19-04-12 03:20:26
+sT.- Maaxis* Champion
+SeensaTion
+Grenade
+--- 19-04-12 03:20:26
+SeensaTion
+sT.- Maaxis* Champion
+Desert Eagles
+--- 19-04-12 03:20:29
+Gel
+sT.- SenzacL*
+Grenade
+--- 19-04-12 03:20:32
+botella
+Gel
+FN Minimi
+--- 19-04-12 03:20:32
+Gel
+botella
+Ak-74
+--- 19-04-12 03:20:32
+katherine orellana
+SeensaTion
+M79
+--- 19-04-12 03:20:37
+sT.- SenzacL*
+sT.- Maaxis* Champion
+M79
+--- 19-04-12 03:20:38
+katherine orellana
+botella
+Grenade
+--- 19-04-12 03:20:39
+SeensaTion
+katherine orellana
+Desert Eagles
+--- 19-04-12 03:20:43
+Gel
+sT.- SenzacL*
+Ak-74
+--- 19-04-12 03:20:43
+SeensaTion
+Gel
+Desert Eagles
+--- 19-04-12 03:20:44
+Gel
+SeensaTion
+Ak-74
+--- 19-04-12 03:20:45
+botella
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-12 03:20:50
+sT.- SenzacL*
+katherine orellana
+Grenade
+--- 19-04-12 03:20:52
+sT.- Maaxis* Champion
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-12 03:20:54
+SeensaTion
+Gel
+LAW
+--- 19-04-12 03:20:58
+katherine orellana
+SeensaTion
+Grenade
+--- 19-04-12 03:21:01
+katherine orellana
+SeensaTion
+Grenade
+--- 19-04-12 03:21:02
+sT.- SenzacL*
+sT.- Maaxis* Champion
+M79
+--- 19-04-12 03:21:02
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Spas-12
+--- 19-04-12 03:21:04
+Gel
+botella
+Ak-74
+--- 19-04-12 03:21:09
+SeensaTion
+Gel
+Combat Knife
+--- 19-04-12 03:21:10
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Grenade
+--- 19-04-12 03:21:12
+SeensaTion
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-12 03:21:12
+botella
+katherine orellana
+FN Minimi
+--- 19-04-12 03:21:17
+Gel
+SeensaTion
+Ak-74
+--- 19-04-12 03:21:17
+botella
+Gel
+FN Minimi
+--- 19-04-12 03:21:19
+sT.- Maaxis* Champion
+botella
+Spas-12
+--- 19-04-12 03:21:25
+sT.- SenzacL*
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-12 03:21:25
+SeensaTion
+katherine orellana
+Desert Eagles
+--- 19-04-12 03:21:28
+Gel
+SeensaTion
+Hands
+--- 19-04-12 03:21:28
+SeensaTion
+Gel
+Combat Knife
+--- 19-04-12 03:21:35
+katherine orellana
+botella
+M79
+--- 19-04-12 03:21:37
+sT.- SenzacL*
+sT.- Maaxis* Champion
+M79
+--- 19-04-12 03:21:40
+SeensaTion
+SeensaTion
+Grenade
+--- 19-04-12 03:21:40
+SeensaTion
+Gel
+Desert Eagles
+--- 19-04-12 03:21:43
+botella
+katherine orellana
+FN Minimi
+--- 19-04-12 03:21:47
+sT.- Maaxis* Champion
+botella
+Steyr AUG
+--- 19-04-12 03:21:47
+sT.- SenzacL*
+Gel
+M79
+--- 19-04-12 03:21:48
+SeensaTion
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-12 03:21:54
+SeensaTion
+katherine orellana
+Desert Eagles
+--- 19-04-12 03:21:54
+katherine orellana
+sT.- SenzacL*
+Grenade
+--- 19-04-12 03:21:54
+katherine orellana
+SeensaTion
+Grenade
+--- 19-04-12 03:21:56
+botella
+Gel
+FN Minimi
+--- 19-04-12 03:21:59
+sT.- Maaxis* Champion
+botella
+Steyr AUG
+--- 19-04-12 03:22:00
+sT.- SenzacL*
+katherine orellana
+M79
+--- 19-04-12 03:22:04
+Gel
+sT.- SenzacL*
+Ak-74
+--- 19-04-12 03:22:05
+botella
+sT.- Maaxis* Champion
+FN Minimi
+--- 19-04-12 03:22:07
+katherine orellana
+botella
+M79
+--- 19-04-12 03:22:10
+Gel
+SeensaTion
+Ak-74
+--- 19-04-12 03:22:10
+SeensaTion
+katherine orellana
+Desert Eagles
+--- 19-04-12 03:22:13
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Grenade
+--- 19-04-12 03:22:20
+SeensaTion
+Gel
+Desert Eagles
+--- 19-04-12 03:22:25
+sT.- Maaxis* Champion
+botella
+LAW
+--- 19-04-12 03:22:25
+botella
+sT.- Maaxis* Champion
+FN Minimi
+--- 19-04-12 03:22:26
+Gel
+SeensaTion
+Ak-74
+--- 19-04-12 03:22:28
+sT.- SenzacL*
+katherine orellana
+M79
+--- 19-04-12 03:22:32
+SeensaTion
+Gel
+Desert Eagles
+--- 19-04-12 03:22:35
+katherine orellana
+SeensaTion
+Ruger 77
+--- 19-04-12 03:22:35
+botella
+katherine orellana
+FN Minimi
+--- 19-04-12 03:22:40
+Gel
+sT.- SenzacL*
+Ak-74
+--- 19-04-12 03:22:43
+Gel
+botella
+Ak-74
+--- 19-04-12 03:22:46
+sT.- SenzacL*
+sT.- SenzacL*
+Grenade
+--- 19-04-12 03:22:46
+sT.- SenzacL*
+katherine orellana
+Grenade
+--- 19-04-12 03:22:50
+sT.- Maaxis* Champion
+SeensaTion
+Steyr AUG
+--- 19-04-12 03:22:52
+sT.- Maaxis* Champion
+botella
+LAW
+--- 19-04-12 03:22:55
+katherine orellana
+SeensaTion
+M79
+--- 19-04-12 03:22:56
+Gel
+sT.- SenzacL*
+Grenade
+--- 19-04-12 03:23:00
+Gel
+botella
+Ak-74
+--- 19-04-12 03:23:02
+Gel
+SeensaTion
+Combat Knife
+--- 19-04-12 03:23:02
+sT.- SenzacL*
+Gel
+Grenade
+--- 19-04-12 03:23:07
+Gel
+sT.- SenzacL*
+Ak-74
+--- 19-04-12 03:23:09
+Gel
+SeensaTion
+Ak-74
+--- 19-04-12 03:23:11
+Gel
+botella
+Ak-74
+--- 19-04-12 03:23:14
+SeensaTion
+katherine orellana
+Combat Knife
+--- 19-04-12 03:23:16
+sT.- SenzacL*
+Gel
+M79
+--- 19-04-12 03:23:16
+SeensaTion
+sT.- Maaxis* Champion
+Desert Eagles
+--- 19-04-12 03:23:20
+sT.- SenzacL*
+katherine orellana
+M79
+--- 19-04-12 03:23:23
+Gel
+botella
+Grenade
+--- 19-04-12 03:23:26
+SeensaTion
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-12 03:23:28
+katherine orellana
+sT.- SenzacL*
+M79
+--- 19-04-12 03:23:28
+Gel
+SeensaTion
+Ak-74
+--- 19-04-12 03:23:30
+botella
+katherine orellana
+FN Minimi
+--- 19-04-12 03:23:30
+Gel
+botella
+Grenade
+--- 19-04-12 03:23:36
+SeensaTion
+Gel
+Grenade
+--- 19-04-12 03:23:41
+Gel
+SeensaTion
+Ak-74
+--- 19-04-12 03:23:41
+botella
+Gel
+Combat Knife
+--- 19-04-12 03:23:42
+sT.- Maaxis* Champion
+botella
+LAW
+--- 19-04-12 03:23:45
+sT.- SenzacL*
+sT.- Maaxis* Champion
+M79
+--- 19-04-12 03:23:49
+SeensaTion
+Gel
+Desert Eagles
+--- 19-04-12 03:23:50
+Gel
+sT.- SenzacL*
+Grenade
+--- 19-04-12 03:23:52
+sT.- Maaxis* Champion
+botella
+Steyr AUG
+--- 19-04-12 03:23:57
+Gel
+SeensaTion
+Ak-74
+--- 19-04-12 03:23:57
+botella
+sT.- Maaxis* Champion
+FN Minimi
+--- 19-04-12 03:24:01
+Gel
+sT.- SenzacL*
+Ak-74
+--- 19-04-12 03:24:03
+sT.- Maaxis* Champion
+botella
+Steyr AUG
+--- 19-04-12 03:24:05
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Grenade
+--- 19-04-12 03:24:10
+Gel
+SeensaTion
+Ak-74
+--- 19-04-12 03:24:11
+botella
+sT.- Maaxis* Champion
+FN Minimi
+--- 19-04-12 03:24:13
+botella
+Gel
+FN Minimi
+--- 19-04-12 03:24:16
+katherine orellana
+botella
+M79
+--- 19-04-12 03:24:16
+katherine orellana
+katherine orellana
+M79
+--- 19-04-12 03:24:20
+SeensaTion
+sT.- Maaxis* Champion
+Desert Eagles
+--- 19-04-12 03:24:23
+sT.- SenzacL*
+Gel
+M79
+--- 19-04-12 03:24:23
+Gel
+sT.- SenzacL*
+Ak-74
+--- 19-04-12 03:24:25
+katherine orellana
+botella
+M79
+--- 19-04-12 03:24:28
+SeensaTion
+katherine orellana
+Combat Knife
+--- 19-04-12 03:24:29
+sT.- SenzacL*
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-12 03:24:32
+Gel
+sT.- SenzacL*
+Ak-74
+--- 19-04-12 03:24:33
+botella
+Gel
+FN Minimi
+--- 19-04-12 03:24:37
+botella
+katherine orellana
+Combat Knife
+--- 19-04-12 03:24:38
+SeensaTion
+sT.- Maaxis* Champion
+Desert Eagles
+--- 19-04-12 03:24:41
+SeensaTion
+Gel
+Desert Eagles
+--- 19-04-12 03:24:47
+Gel
+SeensaTion
+Ak-74
+--- 19-04-12 03:24:47
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Steyr AUG
+--- 19-04-12 03:24:47
+katherine orellana
+botella
+M79
+--- 19-04-12 03:24:54
+SeensaTion
+sT.- Maaxis* Champion
+Desert Eagles
+--- 19-04-12 03:24:54
+sT.- Maaxis* Champion
+botella
+Grenade
+--- 19-04-12 03:24:57
+katherine orellana
+SeensaTion
+M79
+--- 19-04-12 03:24:59
+Gel
+sT.- SenzacL*
+Combat Knife
+--- 19-04-12 03:25:01
+botella
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-12 03:25:01
+botella
+botella
+Grenade
+--- 19-04-12 03:25:07
+Gel
+SeensaTion
+Ak-74
+--- 19-04-12 03:25:08
+sT.- SenzacL*
+sT.- Maaxis* Champion
+Ruger 77
+--- 19-04-12 03:25:09
+sT.- SenzacL*
+Gel
+Ruger 77
+--- 19-04-12 03:25:10
+botella
+katherine orellana
+FN Minimi
+--- 19-04-12 03:25:15
+botella
+sT.- Maaxis* Champion
+FN Minimi
+--- 19-04-12 03:25:16
+botella
+Gel
+FN Minimi
+--- 19-04-12 03:25:19
+SeensaTion
+katherine orellana
+Combat Knife
+--- 19-04-12 03:25:23
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Steyr AUG
+--- 19-04-12 03:25:26
+SeensaTion
+Gel
+Desert Eagles
+--- 19-04-12 03:25:29
+SeensaTion
+katherine orellana
+Desert Eagles
+--- 19-04-12 03:25:32
+SeensaTion
+sT.- Maaxis* Champion
+Hands
+--- 19-04-12 03:25:35
+botella
+Gel
+Combat Knife
+--- 19-04-12 03:25:35
+Gel
+sT.- SenzacL*
+Ak-74
+--- 19-04-12 03:25:38
+sT.- Maaxis* Champion
+SeensaTion
+Steyr AUG
+--- 19-04-12 03:25:41
+botella
+sT.- Maaxis* Champion
+FN Minimi
+--- 19-04-12 03:25:43
+sT.- Maaxis* Champion
+botella
+Grenade
+--- 19-04-12 03:25:43
+sT.- SenzacL*
+Gel
+Ruger 77
+--- 19-04-12 03:25:47
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Steyr AUG
+--- 19-04-12 03:25:47
+SeensaTion
+sT.- Maaxis* Champion
+Combat Knife
+--- 19-04-12 03:25:54
+sT.- SenzacL*
+katherine orellana
+Grenade
+--- 19-04-12 03:25:55
+Gel
+SeensaTion
+Ak-74
+--- 19-04-12 03:25:59
+sT.- Maaxis* Champion
+botella
+Steyr AUG
+--- 19-04-12 03:26:02
+sT.- SenzacL*
+katherine orellana
+Ruger 77
+--- 19-04-12 03:26:04
+Gel
+sT.- SenzacL*
+Ak-74
+--- 19-04-12 03:26:07
+Gel
+SeensaTion
+Ak-74
+--- 19-04-12 03:26:10
+katherine orellana
+botella
+M79
+--- 19-04-12 03:26:13
+sT.- SenzacL*
+Gel
+Ruger 77
+--- 19-04-12 03:26:15
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Steyr AUG
+--- 19-04-12 03:26:21
+sT.- SenzacL*
+katherine orellana
+Ruger 77
+--- 19-04-12 03:26:21
+sT.- Maaxis* Champion
+botella
+Steyr AUG
+--- 19-04-12 03:26:22
+Gel
+SeensaTion
+Ak-74
+--- 19-04-12 03:26:24
+Gel
+sT.- SenzacL*
+Ak-74
+--- 19-04-12 03:26:26
+botella
+sT.- Maaxis* Champion
+Grenade
+--- 19-04-12 03:26:28
+botella
+Gel
+FN Minimi
+--- 19-04-12 03:26:29
+katherine orellana
+botella
+M79
+--- 19-04-12 03:26:31
+SeensaTion
+katherine orellana
+Desert Eagles
+--- 19-04-12 03:26:33
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Steyr AUG
+--- 19-04-12 03:26:38
+sT.- SenzacL*
+sT.- Maaxis* Champion
+Ruger 77
+--- 19-04-12 03:26:39
+Gel
+SeensaTion
+Ak-74
+--- 19-04-12 03:26:39
+botella
+Gel
+Grenade
+--- 19-04-12 03:26:40
+katherine orellana
+botella
+M79
+--- 19-04-12 03:26:40
+sT.- SenzacL*
+katherine orellana
+Ruger 77
+--- 19-04-12 03:26:46
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Steyr AUG
+--- 19-04-12 03:26:46
+SeensaTion
+Gel
+Steyr AUG
+--- 19-04-12 03:26:48
+botella
+sT.- Maaxis* Champion
+FN Minimi
+--- 19-04-12 03:26:49
+katherine orellana
+SeensaTion
+M79
+--- 19-04-12 03:26:52
+katherine orellana
+botella
+Grenade
+--- 19-04-12 03:26:56
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Grenade
+--- 19-04-12 03:26:58
+Gel
+SeensaTion
+Ak-74
+--- 19-04-12 03:26:58
+botella
+sT.- Maaxis* Champion
+FN Minimi
+--- 19-04-12 03:27:00
+botella
+Gel
+FN Minimi
+--- 19-04-12 03:27:00
+katherine orellana
+botella
+M79
+--- 19-04-12 03:27:03
+sT.- SenzacL*
+katherine orellana
+Grenade
+--- 19-04-12 03:27:07
+SeensaTion
+sT.- Maaxis* Champion
+Steyr AUG
+--- 19-04-12 03:27:08
+SeensaTion
+katherine orellana
+Grenade
+--- 19-04-12 03:27:10
+Gel
+SeensaTion
+Ak-74
+--- 19-04-12 03:27:11
+sT.- SenzacL*
+Gel
+Ruger 77
+--- 19-04-12 03:27:15
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Steyr AUG
+--- 19-04-12 03:27:19
+sT.- Maaxis* Champion
+botella
+LAW
+--- 19-04-12 03:27:20
+katherine orellana
+SeensaTion
+M79
+--- 19-04-12 03:27:25
+sT.- SenzacL*
+katherine orellana
+Grenade
+--- 19-04-12 03:27:25
+katherine orellana
+sT.- SenzacL*
+M79
+--- 19-04-12 03:27:27
+botella
+sT.- Maaxis* Champion
+FN Minimi
+--- 19-04-12 03:27:31
+botella
+Gel
+FN Minimi
+--- 19-04-12 03:27:32
+sT.- Maaxis* Champion
+botella
+Steyr AUG
+--- 19-04-12 03:27:35
+sT.- SenzacL*
+katherine orellana
+Grenade
+--- 19-04-12 03:27:36
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Steyr AUG
+--- 19-04-12 03:27:41
+sT.- SenzacL*
+Gel
+Ruger 77
+--- 19-04-12 03:27:43
+SeensaTion
+sT.- Maaxis* Champion
+Steyr AUG
+--- 19-04-12 03:27:43
+sT.- SenzacL*
+katherine orellana
+Ruger 77
+--- 19-04-12 03:27:48
+sT.- Maaxis* Champion
+SeensaTion
+Steyr AUG
+--- 19-04-12 03:27:48
+sT.- SenzacL*
+Gel
+Ruger 77
+--- 19-04-12 03:27:50
+sT.- SenzacL*
+sT.- Maaxis* Champion
+Ruger 77
+--- 19-04-12 03:27:53
+katherine orellana
+botella
+M79
+--- 19-04-12 03:27:55
+katherine orellana
+sT.- SenzacL*
+Combat Knife
+--- 19-04-12 03:27:56
+Gel
+SeensaTion
+Grenade
+--- 19-04-12 03:27:56
+Gel
+Gel
+Grenade
+--- 19-04-12 03:27:59
+sT.- Maaxis* Champion
+sT.- SenzacL*
+LAW
+--- 19-04-12 03:28:20
+SeensaTion
+SeensaTion
+M79
+--- 19-04-12 03:28:31
+sT.- SenzacL*
+sT.- SenzacL*
+Selfkill
+--- 19-04-12 03:28:48
+sT.- Maaxis* Champion
+botella
+Barrett M82A1
+--- 19-04-12 03:28:59
+katherine orellana
+botella
+M79
+--- 19-04-12 03:29:00
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Barrett M82A1
+--- 19-04-12 03:29:06
+Gel
+botella
+Ak-74
+--- 19-04-12 03:29:09
+Gel
+SeensaTion
+Ak-74
+--- 19-04-12 03:29:14
+Gel
+SeensaTion
+Combat Knife
+--- 19-04-12 03:29:16
+sT.- Maaxis* Champion
+botella
+Barrett M82A1
+--- 19-04-12 03:29:16
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Barrett M82A1
+--- 19-04-12 03:29:31
+botella
+Gel
+Grenade
+--- 19-04-12 03:29:31
+sT.- SenzacL*
+katherine orellana
+Barrett M82A1
+--- 19-04-12 03:29:33
+sT.- Maaxis* Champion
+SeensaTion
+Barrett M82A1
+--- 19-04-12 03:29:37
+botella
+sT.- Maaxis* Champion
+HK MP5
+--- 19-04-12 03:29:41
+SeensaTion
+Gel
+Grenade
+--- 19-04-12 03:29:41
+katherine orellana
+sT.- SenzacL*
+M79
+--- 19-04-12 03:29:44
+katherine orellana
+SeensaTion
+Combat Knife
+--- 19-04-12 03:29:49
+sT.- Maaxis* Champion
+sT.- SenzacL*
+Grenade
+--- 19-04-12 03:29:50
+botella
+Gel
+HK MP5
+--- 19-04-12 03:29:50
+Gel
+botella
+Ak-74
+--- 19-04-12 03:29:50
+katherine orellana
+katherine orellana
+M79

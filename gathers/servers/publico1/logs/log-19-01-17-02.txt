@@ -1,0 +1,340 @@
+19-01-17 01:23:57    Log Started
+19-01-17 01:23:57 Opened /home/tino/gathers/servers/gather18/soldat.ini
+19-01-17 01:23:57 Creating network interface.
+19-01-17 01:23:57 Loading Animations.
+19-01-17 01:23:57 Loading Lobby Servers List
+19-01-17 01:23:57 Loading Maps List
+19-01-17 01:23:57 Loading Map.
+19-01-17 01:23:57 Creating Weapons.
+19-01-17 01:23:57 Starting Game Server.
+19-01-17 01:23:57 TCP/IP File Server started
+19-01-17 01:53:57 TCP/IP File Server started
+19-01-17 02:23:57 TCP/IP File Server started
+19-01-17 02:53:57 TCP/IP File Server started
+19-01-17 03:23:57 TCP/IP File Server started
+19-01-17 03:53:57 TCP/IP File Server started
+19-01-17 04:23:57 TCP/IP File Server started
+19-01-17 04:53:57 TCP/IP File Server started
+19-01-17 05:23:57 TCP/IP File Server started
+19-01-17 05:53:57 TCP/IP File Server started
+19-01-17 06:23:57 TCP/IP File Server started
+19-01-17 06:53:57 TCP/IP File Server started
+19-01-17 07:23:57 TCP/IP File Server started
+19-01-17 07:53:57 TCP/IP File Server started
+19-01-17 08:23:57 TCP/IP File Server started
+19-01-17 08:53:57 TCP/IP File Server started
+19-01-17 09:23:57 TCP/IP File Server started
+19-01-17 09:53:57 TCP/IP File Server started
+19-01-17 10:23:57 TCP/IP File Server started
+19-01-17 10:53:57 TCP/IP File Server started
+19-01-17 11:23:57 TCP/IP File Server started
+19-01-17 11:53:57 TCP/IP File Server started
+19-01-17 12:23:57 TCP/IP File Server started
+19-01-17 12:53:57 TCP/IP File Server started
+19-01-17 13:00:08 Loading Map.
+19-01-17 13:00:08 Creating Weapons.
+19-01-17 13:00:08 Starting Game Server.
+19-01-17 13:00:08 TCP/IP File Server started
+19-01-17 13:01:02  Net - sk!T.Rattle connected 17-1-19 13:01:02
+19-01-17 13:02:01  Net - sk!T.Rattle disconnected 17-1-19 13:02:01
+19-01-17 13:10:59  Net - [ArKaNgE] connected 17-1-19 13:10:59
+19-01-17 13:11:01  Net - [ArKaNgE] connected 17-1-19 13:11:01
+19-01-17 13:11:21  Net - [ArKaNgE] disconnected 17-1-19 13:11:21
+19-01-17 13:23:57 TCP/IP File Server started
+19-01-17 13:27:23  Net - rattle gay connected 17-1-19 13:27:23
+19-01-17 13:27:24  Net - sk!T.Rattle connected 17-1-19 13:27:24
+19-01-17 13:27:58  Net - rattle gay connected 17-1-19 13:27:58
+19-01-17 13:28:00  Net - sk!T.Rattle disconnected 17-1-19 13:28:00
+19-01-17 13:28:20  Net - sk!T.Rattle connected 17-1-19 13:28:20
+19-01-17 13:30:41  Net - sk!T.Rattle disconnected 17-1-19 13:30:41
+19-01-17 13:30:54  Net - rattle gay disconnected 17-1-19 13:30:54
+19-01-17 13:53:57 TCP/IP File Server started
+19-01-17 14:23:57 TCP/IP File Server started
+19-01-17 14:53:57 TCP/IP File Server started
+19-01-17 15:23:57 TCP/IP File Server started
+19-01-17 15:53:57 TCP/IP File Server started
+19-01-17 16:23:57 TCP/IP File Server started
+19-01-17 16:53:57 TCP/IP File Server started
+19-01-17 17:23:57 TCP/IP File Server started
+19-01-17 17:53:57 TCP/IP File Server started
+19-01-17 18:23:57 TCP/IP File Server started
+19-01-17 18:53:57 TCP/IP File Server started
+19-01-17 19:23:57 TCP/IP File Server started
+19-01-17 19:53:57 TCP/IP File Server started
+19-01-17 20:06:41  Net - sk!T.Rattle connected 17-1-19 20:06:41
+19-01-17 20:07:14  Net - sk!T.Rattle disconnected 17-1-19 20:07:14
+19-01-17 20:23:57 TCP/IP File Server started
+19-01-17 20:53:57 TCP/IP File Server started
+19-01-17 21:23:57 TCP/IP File Server started
+19-01-17 21:53:57 TCP/IP File Server started
+19-01-17 22:23:57 TCP/IP File Server started
+19-01-17 22:53:57 TCP/IP File Server started
+19-01-17 23:23:57 TCP/IP File Server started
+19-01-17 23:53:57 TCP/IP File Server started
+19-01-18 00:23:57 TCP/IP File Server started
+19-01-18 00:53:57 TCP/IP File Server started
+19-01-18 01:10:11 Loading Map.
+19-01-18 01:10:11 Creating Weapons.
+19-01-18 01:10:11 Starting Game Server.
+19-01-18 01:10:11 TCP/IP File Server started
+19-01-18 01:10:31  Net - sT.- YnGwi3 connected 18-1-19 01:10:31
+19-01-18 01:10:34  Net - sT.- Enigma connected 18-1-19 01:10:34
+19-01-18 01:10:43  Net - sT.- Enigma disconnected 18-1-19 01:10:43
+19-01-18 01:10:48  Net - sT.- Enigma connected 18-1-19 01:10:48
+19-01-18 01:14:35  Net - sT.- DJ Maaxis connected 18-1-19 01:14:35
+19-01-18 01:15:36  Net - spec connected 18-1-19 01:15:36
+19-01-18 01:16:52  Net - HartCheat] connected 18-1-19 01:16:52
+19-01-18 01:16:55  Net - sk!T.WildR4P` connected 18-1-19 01:16:55
+19-01-18 01:16:59  Net - LeprosycL connected 18-1-19 01:16:59
+19-01-18 01:17:03  Net - sk!T.WildR4P` connected 18-1-19 01:17:03
+19-01-18 01:18:54  Net - HartCheat] connected 18-1-19 01:18:54
+19-01-18 01:18:59  Net - sk!T.Rattle connected 18-1-19 01:18:59
+19-01-18 01:19:07  Net - LeprosycL disconnected 18-1-19 01:19:07
+19-01-18 01:19:25  Net - Skity. LeprosycL connected 18-1-19 01:19:25
+19-01-18 01:23:49  Net - ShioN^ connected 18-1-19 01:23:49
+19-01-18 01:23:57 TCP/IP File Server started
+19-01-18 01:33:28  Net - ShioN^ disconnected 18-1-19 01:33:28
+19-01-18 01:33:46  Net - spec disconnected 18-1-19 01:33:46
+19-01-18 01:34:20  Net - ShioN^ connected 18-1-19 01:34:20
+19-01-18 01:43:28  Net - Skity. LeprosycL disconnected 18-1-19 01:43:28
+19-01-18 01:43:39  Net - sk!T.Rattle disconnected 18-1-19 01:43:39
+19-01-18 01:43:40  Net - sT.- YnGwi3 disconnected 18-1-19 01:43:40
+19-01-18 01:43:41  Net - sT.- Enigma disconnected 18-1-19 01:43:41
+19-01-18 01:43:42  Net - HartCheat] disconnected 18-1-19 01:43:42
+19-01-18 01:43:43  Net - sk!T.WildR4P` disconnected 18-1-19 01:43:43
+19-01-18 01:43:43  Net - sT.- DJ Maaxis disconnected 18-1-19 01:43:43
+19-01-18 01:43:54  Net - ShioN^ disconnected 18-1-19 01:43:54
+19-01-18 01:53:57 TCP/IP File Server started
+19-01-18 02:19:06 Loading Map.
+19-01-18 02:19:06 Creating Weapons.
+19-01-18 02:19:06 Starting Game Server.
+19-01-18 02:19:06 TCP/IP File Server started
+19-01-18 02:19:31  Net - sk!T.WildR4P` connected 18-1-19 02:19:31
+19-01-18 02:19:42  Net - pala connected 18-1-19 02:19:42
+19-01-18 02:19:50  Net - pala connected 18-1-19 02:19:50
+19-01-18 02:19:58  Net - CrasheR connected 18-1-19 02:19:58
+19-01-18 02:20:10  Net - Skity. LeprosycL connected 18-1-19 02:20:10
+19-01-18 02:21:03  Net - spec connected 18-1-19 02:21:03
+19-01-18 02:21:13  Net - sk!T.Rattle connected 18-1-19 02:21:13
+19-01-18 02:21:15  Net - sk!T.Rattle connected 18-1-19 02:21:15
+19-01-18 02:21:20  Net - spec disconnected 18-1-19 02:21:20
+19-01-18 02:21:42  Net - spec connected 18-1-19 02:21:42
+19-01-18 02:21:55  Net - sk!T.Rattle disconnected 18-1-19 02:21:55
+19-01-18 02:23:25  Net - spec disconnected 18-1-19 02:23:25
+19-01-18 02:23:31  Net - /\ connected 18-1-19 02:23:31
+19-01-18 02:23:57 TCP/IP File Server started
+19-01-18 02:27:04  Net - sk!T.Rattle connected 18-1-19 02:27:04
+19-01-18 02:27:21  Net - Enigma-kun connected 18-1-19 02:27:21
+19-01-18 02:27:41  Net - Enigma-kun disconnected 18-1-19 02:27:41
+19-01-18 02:29:38  Net - sk!T.Rattle disconnected 18-1-19 02:29:38
+19-01-18 02:29:44  Net - sk!T.Rattle connected 18-1-19 02:29:44
+19-01-18 02:52:46  Net - Skity. LeprosycL disconnected 18-1-19 02:52:46
+19-01-18 02:52:47  Net - sk!T.WildR4P` disconnected 18-1-19 02:52:47
+19-01-18 02:52:47  Net - pala disconnected 18-1-19 02:52:47
+19-01-18 02:52:48  Net - sk!T.Rattle disconnected 18-1-19 02:52:48
+19-01-18 02:52:49  Net - CrasheR disconnected 18-1-19 02:52:49
+19-01-18 02:52:50  Net - /\ disconnected 18-1-19 02:52:50
+19-01-18 02:53:57 TCP/IP File Server started
+19-01-18 03:22:43 Loading Map.
+19-01-18 03:22:43 Creating Weapons.
+19-01-18 03:22:43 Starting Game Server.
+19-01-18 03:22:43 TCP/IP File Server started
+19-01-18 03:22:59  Net - sT.- Mand3s connected 18-1-19 03:22:59
+19-01-18 03:23:02  Net - Factory connected 18-1-19 03:23:02
+19-01-18 03:23:11  Net - UnD @ Mago connected 18-1-19 03:23:11
+19-01-18 03:23:14  Net - UnD @ Mago connected 18-1-19 03:23:14
+19-01-18 03:23:15  Net - later D4sh connected 18-1-19 03:23:15
+19-01-18 03:23:33  Net - sk!T.WildR4P` connected 18-1-19 03:23:33
+19-01-18 03:23:51  Net - sT.- Mand3s connected 18-1-19 03:23:51
+19-01-18 03:23:55  Net - Thor connected 18-1-19 03:23:55
+19-01-18 03:23:57 TCP/IP File Server started
+19-01-18 03:24:35  Net - icy` connected 18-1-19 03:24:35
+19-01-18 03:24:46  Net - Enigma-kun connected 18-1-19 03:24:46
+19-01-18 03:37:08  Net - Enigma-kun disconnected 18-1-19 03:37:08
+19-01-18 03:53:57 TCP/IP File Server started
+19-01-18 03:59:26  Net - later D4sh disconnected 18-1-19 03:59:26
+19-01-18 03:59:28  Net - Factory disconnected 18-1-19 03:59:28
+19-01-18 03:59:29  Net - sk!T.WildR4P` disconnected 18-1-19 03:59:29
+19-01-18 03:59:29  Net - sT.- Mand3s disconnected 18-1-19 03:59:29
+19-01-18 03:59:30  Net - icy` disconnected 18-1-19 03:59:30
+19-01-18 03:59:30  Net - UnD @ Mago disconnected 18-1-19 03:59:30
+19-01-18 03:59:33  Net - Thor disconnected 18-1-19 03:59:33
+19-01-18 04:23:58 TCP/IP File Server started
+19-01-18 04:53:57 TCP/IP File Server started
+19-01-18 05:23:57 TCP/IP File Server started
+19-01-18 05:53:57 TCP/IP File Server started
+19-01-18 06:23:57 TCP/IP File Server started
+19-01-18 06:53:57 TCP/IP File Server started
+19-01-18 07:23:57 TCP/IP File Server started
+19-01-18 07:53:57 TCP/IP File Server started
+19-01-18 08:23:57 TCP/IP File Server started
+19-01-18 08:53:57 TCP/IP File Server started
+19-01-18 09:23:57 TCP/IP File Server started
+19-01-18 09:53:57 TCP/IP File Server started
+19-01-18 10:23:57 TCP/IP File Server started
+19-01-18 10:53:57 TCP/IP File Server started
+19-01-18 11:23:57 TCP/IP File Server started
+19-01-18 11:53:57 TCP/IP File Server started
+19-01-18 12:23:57 TCP/IP File Server started
+19-01-18 12:53:57 TCP/IP File Server started
+19-01-18 13:23:57 TCP/IP File Server started
+19-01-18 13:53:57 TCP/IP File Server started
+19-01-18 14:23:57 TCP/IP File Server started
+19-01-18 14:53:57 TCP/IP File Server started
+19-01-18 15:23:57 TCP/IP File Server started
+19-01-18 15:53:57 TCP/IP File Server started
+19-01-18 16:23:57 TCP/IP File Server started
+19-01-18 16:53:57 TCP/IP File Server started
+19-01-18 17:23:57 TCP/IP File Server started
+19-01-18 17:53:57 TCP/IP File Server started
+19-01-18 18:23:57 TCP/IP File Server started
+19-01-18 18:53:57 TCP/IP File Server started
+19-01-18 19:23:57 TCP/IP File Server started
+19-01-18 19:53:57 TCP/IP File Server started
+19-01-18 20:23:57 TCP/IP File Server started
+19-01-18 20:53:57 TCP/IP File Server started
+19-01-18 21:23:57 TCP/IP File Server started
+19-01-18 21:53:57 TCP/IP File Server started
+19-01-18 22:23:57 TCP/IP File Server started
+19-01-18 22:53:57 TCP/IP File Server started
+19-01-18 23:23:57 TCP/IP File Server started
+19-01-18 23:53:57 TCP/IP File Server started
+19-01-19 00:23:57 TCP/IP File Server started
+19-01-19 00:53:57 TCP/IP File Server started
+19-01-19 01:23:57 TCP/IP File Server started
+19-01-19 01:53:57 TCP/IP File Server started
+19-01-19 02:23:57 TCP/IP File Server started
+19-01-19 02:53:57 TCP/IP File Server started
+19-01-19 03:23:57 TCP/IP File Server started
+19-01-19 03:53:57 TCP/IP File Server started
+19-01-19 04:23:57 TCP/IP File Server started
+19-01-19 04:53:57 TCP/IP File Server started
+19-01-19 05:23:57 TCP/IP File Server started
+19-01-19 05:53:57 TCP/IP File Server started
+19-01-19 06:23:57 TCP/IP File Server started
+19-01-19 06:53:57 TCP/IP File Server started
+19-01-19 07:23:57 TCP/IP File Server started
+19-01-19 07:53:57 TCP/IP File Server started
+19-01-19 08:23:57 TCP/IP File Server started
+19-01-19 08:53:57 TCP/IP File Server started
+19-01-19 09:23:57 TCP/IP File Server started
+19-01-19 09:53:57 TCP/IP File Server started
+19-01-19 10:23:57 TCP/IP File Server started
+19-01-19 10:53:57 TCP/IP File Server started
+19-01-19 11:23:57 TCP/IP File Server started
+19-01-19 11:53:57 TCP/IP File Server started
+19-01-19 12:23:57 TCP/IP File Server started
+19-01-19 12:53:57 TCP/IP File Server started
+19-01-19 13:23:57 TCP/IP File Server started
+19-01-19 13:53:57 TCP/IP File Server started
+19-01-19 14:23:57 TCP/IP File Server started
+19-01-19 14:53:57 TCP/IP File Server started
+19-01-19 15:23:57 TCP/IP File Server started
+19-01-19 15:53:57 TCP/IP File Server started
+19-01-19 16:23:57 TCP/IP File Server started
+19-01-19 16:53:57 TCP/IP File Server started
+19-01-19 17:23:57 TCP/IP File Server started
+19-01-19 17:53:57 TCP/IP File Server started
+19-01-19 18:23:57 TCP/IP File Server started
+19-01-19 18:28:22 Loading Map.
+19-01-19 18:28:22 Creating Weapons.
+19-01-19 18:28:22 Starting Game Server.
+19-01-19 18:28:22 TCP/IP File Server started
+19-01-19 18:28:31  Net - sT.- YnGwi3 connected 19-1-19 18:28:31
+19-01-19 18:28:35  Net - sT.- Enigma connected 19-1-19 18:28:35
+19-01-19 18:28:47  Net - sT.- DJ Maaxis connected 19-1-19 18:28:47
+19-01-19 18:28:47  Net - sT.- Mand3s connected 19-1-19 18:28:47
+19-01-19 18:29:20  Net - sT.- SenzacL* connected 19-1-19 18:29:20
+19-01-19 18:29:21  Net - ShutercL connected 19-1-19 18:29:21
+19-01-19 18:30:12  Net - sT.- SenzacL* disconnected 19-1-19 18:30:12
+19-01-19 18:30:19  Net - sT.- YnGwi3 connected 19-1-19 18:30:19
+19-01-19 18:30:20  Net - sT.- SenzacL* connected 19-1-19 18:30:20
+19-01-19 18:30:26  Net - sT.- YnGwi3 disconnected 19-1-19 18:30:26
+19-01-19 18:30:40  Net - sT.- Mand3s disconnected 19-1-19 18:30:40
+19-01-19 18:30:48  Net - sT.- SenzacL* disconnected 19-1-19 18:30:48
+19-01-19 18:30:58  Net - 7 connected 19-1-19 18:30:58
+19-01-19 18:30:59  Net - ShutercL connected 19-1-19 18:30:59
+19-01-19 18:31:00  Net - 8 connected 19-1-19 18:31:00
+19-01-19 18:31:21  Net - 1 connected 19-1-19 18:31:21
+19-01-19 18:31:23  Net - sT.- Enigma disconnected 19-1-19 18:31:23
+19-01-19 18:31:26  Net - ShutercL connected 19-1-19 18:31:26
+19-01-19 18:31:27  Net - 8 disconnected 19-1-19 18:31:27
+19-01-19 18:31:27  Net - 7 disconnected 19-1-19 18:31:27
+19-01-19 18:31:32  Net - 1 disconnected 19-1-19 18:31:32
+19-01-19 18:31:35  Net - 9 connected 19-1-19 18:31:35
+19-01-19 18:31:37  Net - 10 connected 19-1-19 18:31:37
+19-01-19 18:31:39  Net - 1 connected 19-1-19 18:31:39
+19-01-19 18:31:43  Net - 8 connected 19-1-19 18:31:43
+19-01-19 18:32:20  Net - 8 connected 19-1-19 18:32:20
+19-01-19 18:32:28  Net - 10 connected 19-1-19 18:32:28
+19-01-19 18:32:33  Net - 10 disconnected 19-1-19 18:32:33
+19-01-19 18:32:40  Net - 1 connected 19-1-19 18:32:40
+19-01-19 18:32:45  Net - 10 connected 19-1-19 18:32:45
+19-01-19 18:32:50  Net - 9 connected 19-1-19 18:32:50
+19-01-19 18:33:22  Net - 9 disconnected 19-1-19 18:33:22
+19-01-19 18:33:56  Net - 9 connected 19-1-19 18:33:56
+19-01-19 18:39:52  Net - ShutercL disconnected 19-1-19 18:39:52
+19-01-19 18:40:52  Net - 8 disconnected 19-1-19 18:40:52
+19-01-19 18:40:57  Net - 9 disconnected 19-1-19 18:40:57
+19-01-19 18:41:03  Net - 10 disconnected 19-1-19 18:41:03
+19-01-19 18:42:37  Net - 1 connected 19-1-19 18:42:37
+19-01-19 18:43:59  Net - 1 disconnected 19-1-19 18:43:59
+19-01-19 18:44:10  Net - sT.- DJ Maaxis disconnected 19-1-19 18:44:10
+19-01-19 18:53:57 TCP/IP File Server started
+19-01-19 19:23:57 TCP/IP File Server started
+19-01-19 19:53:57 TCP/IP File Server started
+19-01-19 20:23:57 TCP/IP File Server started
+19-01-19 20:53:57 TCP/IP File Server started
+19-01-19 21:23:57 TCP/IP File Server started
+19-01-19 21:53:57 TCP/IP File Server started
+19-01-19 22:23:57 TCP/IP File Server started
+19-01-19 22:53:57 TCP/IP File Server started
+19-01-19 23:03:02 Loading Map.
+19-01-19 23:03:02 Creating Weapons.
+19-01-19 23:03:02 Starting Game Server.
+19-01-19 23:03:02 TCP/IP File Server started
+19-01-19 23:03:22  Net - sT.- SenzacL* connected 19-1-19 23:03:22
+19-01-19 23:03:23  Net - faded in the atlantis connected 19-1-19 23:03:23
+19-01-19 23:03:29  Net - faded in the atlantis connected 19-1-19 23:03:29
+19-01-19 23:03:36  Net - saw. Paladino ^ connected 19-1-19 23:03:36
+19-01-19 23:03:38  Net - sT.- Enigma connected 19-1-19 23:03:38
+19-01-19 23:03:41  Net - pN- Kr0nos /   rec: on connected 19-1-19 23:03:41
+19-01-19 23:03:42  Net - saw. Paladino ^ connected 19-1-19 23:03:42
+19-01-19 23:03:45  Net - pN- Kr0nos /   rec: on connected 19-1-19 23:03:45
+19-01-19 23:04:40  Net - sT.- Mand3s connected 19-1-19 23:04:40
+19-01-19 23:05:09  Net - saw. Paladino ^ disconnected 19-1-19 23:05:09
+19-01-19 23:05:15  Net - saw. Paladino ^ connected 19-1-19 23:05:15
+19-01-19 23:08:09  Net - sT.- Usso El Bandido connected 19-1-19 23:08:09
+19-01-19 23:11:27  Net - sT.- Usso El Bandido disconnected 19-1-19 23:11:27
+19-01-19 23:19:26  Net - CrasheR connected 19-1-19 23:19:26
+19-01-19 23:23:57 TCP/IP File Server started
+19-01-19 23:36:19  Net - CrasheR disconnected 19-1-19 23:36:19
+19-01-19 23:37:04  Net - saw. Paladino ^ disconnected 19-1-19 23:37:04
+19-01-19 23:37:04  Net - sT.- Enigma disconnected 19-1-19 23:37:04
+19-01-19 23:37:04  Net - pN- Kr0nos /   rec: on disconnected 19-1-19 23:37:04
+19-01-19 23:37:06  Net - sT.- Mand3s disconnected 19-1-19 23:37:06
+19-01-19 23:37:07  Net - faded in the atlantis disconnected 19-1-19 23:37:07
+19-01-19 23:37:07  Net - sT.- SenzacL* disconnected 19-1-19 23:37:07
+19-01-19 23:40:08 Loading Map.
+19-01-19 23:40:08 Creating Weapons.
+19-01-19 23:40:08 Starting Game Server.
+19-01-19 23:40:08 TCP/IP File Server started
+19-01-19 23:40:28  Net - sT.- SenzacL* connected 19-1-19 23:40:28
+19-01-19 23:40:36  Net - sT.- Mand3s connected 19-1-19 23:40:36
+19-01-19 23:40:51  Net - sk!T.Rattle connected 19-1-19 23:40:51
+19-01-19 23:40:54  Net - - connected 19-1-19 23:40:54
+19-01-19 23:41:01  Net - CrasheR connected 19-1-19 23:41:01
+19-01-19 23:41:06  Net - sT.- Enigma connected 19-1-19 23:41:06
+19-01-19 23:41:10  Net - sT.- Enigma connected 19-1-19 23:41:10
+19-01-19 23:41:19  Net - - disconnected 19-1-19 23:41:19
+19-01-19 23:41:29  Net - sk!T. atlantis connected 19-1-19 23:41:29
+19-01-19 23:41:40  Net - CrasheR disconnected 19-1-19 23:41:40
+19-01-19 23:41:42  Net - sk!T. atlantis disconnected 19-1-19 23:41:42
+19-01-19 23:41:49  Net - sk!T.atlantis connected 19-1-19 23:41:49
+19-01-19 23:42:07  Net - sk!T, CrasheR connected 19-1-19 23:42:07
+19-01-19 23:42:21  Net - sT.- DJ Maaxis connected 19-1-19 23:42:21
+19-01-19 23:42:30  Net - sk!T, CrasheR disconnected 19-1-19 23:42:30
+19-01-19 23:42:37  Net - sk!T.CrasheR connected 19-1-19 23:42:37
+19-01-19 23:45:23  Net - ErreAPe_ connected 19-1-19 23:45:23
+19-01-19 23:53:57 TCP/IP File Server started
+19-01-19 23:59:54  Net - sT.- YnGwi3 connected 19-1-19 23:59:54

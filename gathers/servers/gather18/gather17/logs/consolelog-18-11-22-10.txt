@@ -1,0 +1,151 @@
+18-11-22 18:16:38    Console Log Started
+18-11-22 18:16:38 Welcome to Soldat 1.7.1
+18-11-22 18:16:38  [*] Preparing scripts to be launched
+18-11-22 18:16:38  [*] [BasicCommands] Loading bytecode
+18-11-22 18:16:38  [*] [BasicCommands] Bytecode loaded
+18-11-22 18:16:38  [*] Done
+18-11-22 18:16:38 Lothic - Gothic Lobby Room
+18-11-22 18:16:38 Loaded weapons mod "Default mod v1.8"
+18-11-22 18:16:38  Connection for file server started. Port: 23013
+18-11-22 18:17:01 191.85.188.181 added to Game Admins via Request Password
+18-11-22 18:17:01 191.85.188.181:23073|745CB17698B requesting game...
+18-11-22 18:17:02 sk!T.Rattle joining game (191.85.188.181:23073) HWID:745CB17698B
+18-11-22 18:17:02 sk!T.Rattle has joined alpha team.
+18-11-22 18:17:06 [sk!T.Rattle] !map ctf_Arabia
+18-11-22 18:17:06 Map not found (ctf_arabia)
+18-11-22 18:17:13 [sk!T.Rattle] !map ctf_Nuubia
+18-11-22 18:17:19 by Troskal and friends
+18-11-22 18:17:40 sk!T.Rattle has left alpha team.
+18-11-22 18:22:19 Time Left: 5 minutes
+18-11-22 18:23:19 Time Left: 4 minutes
+18-11-22 18:24:19 Time Left: 3 minutes
+18-11-22 18:25:19 Time Left: 2 minutes
+18-11-22 18:26:19 Time Left: 1 minutes
+18-11-22 18:27:19 Next map: Lobby
+18-11-22 18:27:24 Lothic - Gothic Lobby Room
+18-11-22 18:32:24 Time Left: 5 minutes
+18-11-22 18:33:24 Time Left: 4 minutes
+18-11-22 18:34:24 Time Left: 3 minutes
+18-11-22 18:35:24 Time Left: 2 minutes
+18-11-22 18:36:24 Time Left: 1 minutes
+18-11-22 18:37:24 Next map: Lobby
+18-11-22 18:37:29 Lothic - Gothic Lobby Room
+18-11-22 18:42:29 Time Left: 5 minutes
+18-11-22 18:43:29 Time Left: 4 minutes
+18-11-22 18:44:29 Time Left: 3 minutes
+18-11-22 18:45:29 Time Left: 2 minutes
+18-11-22 18:46:29 Time Left: 1 minutes
+18-11-22 18:47:29 Next map: Lobby
+18-11-22 18:47:35 Lothic - Gothic Lobby Room
+18-11-22 18:52:35 Time Left: 5 minutes
+18-11-22 18:53:35 Time Left: 4 minutes
+18-11-22 18:54:35 Time Left: 3 minutes
+18-11-22 18:55:35 Time Left: 2 minutes
+18-11-22 18:56:35 Time Left: 1 minutes
+18-11-22 18:57:35 Next map: Lobby
+18-11-22 18:57:40 Lothic - Gothic Lobby Room
+18-11-22 19:02:40 Time Left: 5 minutes
+18-11-22 19:03:40 Time Left: 4 minutes
+18-11-22 19:04:40 Time Left: 3 minutes
+18-11-22 19:05:40 Time Left: 2 minutes
+18-11-22 19:06:40 Time Left: 1 minutes
+18-11-22 19:07:40 Next map: Lobby
+18-11-22 19:07:45 Lothic - Gothic Lobby Room
+18-11-22 19:12:45 Time Left: 5 minutes
+18-11-22 19:13:45 Time Left: 4 minutes
+18-11-22 19:14:45 Time Left: 3 minutes
+18-11-22 19:15:45 Time Left: 2 minutes
+18-11-22 19:16:45 Time Left: 1 minutes
+18-11-22 19:17:45 Next map: Lobby
+18-11-22 19:17:51 Lothic - Gothic Lobby Room
+18-11-22 19:22:51 Time Left: 5 minutes
+18-11-22 19:23:51 Time Left: 4 minutes
+18-11-22 19:24:51 Time Left: 3 minutes
+18-11-22 19:25:51 Time Left: 2 minutes
+18-11-22 19:26:51 Time Left: 1 minutes
+18-11-22 19:27:51 Next map: Lobby
+18-11-22 19:27:56 Lothic - Gothic Lobby Room
+18-11-22 19:32:56 Time Left: 5 minutes
+18-11-22 19:33:56 Time Left: 4 minutes
+18-11-22 19:34:56 Time Left: 3 minutes
+18-11-22 19:35:56 Time Left: 2 minutes
+18-11-22 19:36:56 Time Left: 1 minutes
+18-11-22 19:37:56 Next map: Lobby
+18-11-22 19:38:01 Lothic - Gothic Lobby Room
+18-11-22 19:43:01 Time Left: 5 minutes
+18-11-22 19:44:01 Time Left: 4 minutes
+18-11-22 19:45:01 Time Left: 3 minutes
+18-11-22 19:46:01 Time Left: 2 minutes
+18-11-22 19:47:01 Time Left: 1 minutes
+18-11-22 19:48:01 Next map: Lobby
+18-11-22 19:48:07 Lothic - Gothic Lobby Room
+18-11-22 19:53:07 Time Left: 5 minutes
+18-11-22 19:54:07 Time Left: 4 minutes
+18-11-22 19:55:07 Time Left: 3 minutes
+18-11-22 19:56:07 Time Left: 2 minutes
+18-11-22 19:57:07 Time Left: 1 minutes
+18-11-22 19:58:07 Next map: Lobby
+18-11-22 19:58:12 Lothic - Gothic Lobby Room
+18-11-22 20:03:12 Time Left: 5 minutes
+18-11-22 20:04:12 Time Left: 4 minutes
+18-11-22 20:05:12 Time Left: 3 minutes
+18-11-22 20:06:12 Time Left: 2 minutes
+18-11-22 20:07:12 Time Left: 1 minutes
+18-11-22 20:08:12 Next map: Lobby
+18-11-22 20:08:17 Lothic - Gothic Lobby Room
+18-11-22 20:13:17 Time Left: 5 minutes
+18-11-22 20:14:17 Time Left: 4 minutes
+18-11-22 20:15:17 Time Left: 3 minutes
+18-11-22 20:16:17 Time Left: 2 minutes
+18-11-22 20:17:17 Time Left: 1 minutes
+18-11-22 20:18:17 Next map: Lobby
+18-11-22 20:18:23 Lothic - Gothic Lobby Room
+18-11-22 20:23:23 Time Left: 5 minutes
+18-11-22 20:24:23 Time Left: 4 minutes
+18-11-22 20:25:23 Time Left: 3 minutes
+18-11-22 20:26:23 Time Left: 2 minutes
+18-11-22 20:27:23 Time Left: 1 minutes
+18-11-22 20:28:22 Next map: Lobby
+18-11-22 20:28:28 Lothic - Gothic Lobby Room
+18-11-22 20:33:28 Time Left: 5 minutes
+18-11-22 20:34:28 Time Left: 4 minutes
+18-11-22 20:35:28 Time Left: 3 minutes
+18-11-22 20:36:28 Time Left: 2 minutes
+18-11-22 20:37:28 Time Left: 1 minutes
+18-11-22 20:38:28 Next map: Lobby
+18-11-22 20:38:33 Lothic - Gothic Lobby Room
+18-11-22 20:43:33 Time Left: 5 minutes
+18-11-22 20:44:33 Time Left: 4 minutes
+18-11-22 20:45:33 Time Left: 3 minutes
+18-11-22 20:46:33 Time Left: 2 minutes
+18-11-22 20:47:33 Time Left: 1 minutes
+18-11-22 20:48:33 Next map: Lobby
+18-11-22 20:48:38 Lothic - Gothic Lobby Room
+18-11-22 20:53:38 Time Left: 5 minutes
+18-11-22 20:54:38 Time Left: 4 minutes
+18-11-22 20:55:38 Time Left: 3 minutes
+18-11-22 20:56:38 Time Left: 2 minutes
+18-11-22 20:57:38 Time Left: 1 minutes
+18-11-22 20:58:38 Next map: Lobby
+18-11-22 20:58:44 Lothic - Gothic Lobby Room
+18-11-22 21:03:44 Time Left: 5 minutes
+18-11-22 21:04:44 Time Left: 4 minutes
+18-11-22 21:05:44 Time Left: 3 minutes
+18-11-22 21:06:44 Time Left: 2 minutes
+18-11-22 21:07:44 Time Left: 1 minutes
+18-11-22 21:08:44 Next map: Lobby
+18-11-22 21:08:49 Lothic - Gothic Lobby Room
+18-11-22 21:13:49 Time Left: 5 minutes
+18-11-22 21:14:49 Time Left: 4 minutes
+18-11-22 21:15:49 Time Left: 3 minutes
+18-11-22 21:16:49 Time Left: 2 minutes
+18-11-22 21:17:49 Time Left: 1 minutes
+18-11-22 21:18:49 Next map: Lobby
+18-11-22 21:18:54 Lothic - Gothic Lobby Room
+18-11-22 21:23:54 Time Left: 5 minutes
+18-11-22 21:24:54 Time Left: 4 minutes
+18-11-22 21:25:54 Time Left: 3 minutes
+18-11-22 21:26:54 Time Left: 2 minutes
+18-11-22 21:27:54 Time Left: 1 minutes
+18-11-22 21:28:54 Next map: Lobby
+18-11-22 21:29:00 Lothic - Gothic Lobby Room

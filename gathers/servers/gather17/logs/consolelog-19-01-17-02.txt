@@ -1,0 +1,66 @@
+19-01-17 00:34:29    Console Log Started
+19-01-17 00:34:29 Welcome to Soldat 1.7.1
+19-01-17 00:34:29  [*] Preparing scripts to be launched
+19-01-17 00:34:29  [*] [BasicCommands] Loading bytecode
+19-01-17 00:34:29  [*] [BasicCommands] Bytecode loaded
+19-01-17 00:34:29  [*] Done
+19-01-17 00:34:29 Lothic - Gothic Lobby Room
+19-01-17 00:34:29 Loaded weapons mod "Default mod v1.8"
+19-01-17 00:34:29  Connection for file server started. Port: 23012
+19-01-17 00:36:20 191.85.172.252 added to Game Admins via Request Password
+19-01-17 00:36:20 191.85.172.252:23073|161B3425A55 requesting game...
+19-01-17 00:36:21 sk!T.Rattle joining game (191.85.172.252:23073) HWID:161B3425A55
+19-01-17 00:36:21 sk!T.Rattle has joined alpha team.
+19-01-17 00:36:23 sk!T.Rattle has left alpha team.
+19-01-17 00:37:56 Admin connected (87.65.255.154).
+19-01-17 00:37:57 /maxplayers (87.65.255.154)
+19-01-17 00:37:57 Max players is 16
+19-01-17 00:37:57 /maxrespawntime (87.65.255.154)
+19-01-17 00:37:57 Maximum Respawn time is 5 seconds
+19-01-17 00:37:57 /respawntime (87.65.255.154)
+19-01-17 00:37:57 Respawn time is 3 seconds
+19-01-17 00:37:57 /limit (87.65.255.154)
+19-01-17 00:37:57 Current kill/point/capture limit is 10
+19-01-17 00:37:57 /timelimit (87.65.255.154)
+19-01-17 00:37:57 Current time limit is 10 minutes
+19-01-17 00:37:57 /friendlyfire (87.65.255.154)
+19-01-17 00:37:57 Friendly Fire is 0
+19-01-17 00:37:57 /scripting (87.65.255.154)
+19-01-17 00:37:57 Scripting is currently Enabled (1)
+19-01-17 00:37:57 /balance (87.65.255.154)
+19-01-17 00:37:57 Bot Balance is off (0)
+19-01-17 00:37:57 /bonus (87.65.255.154)
+19-01-17 00:37:57 Current bonus frequency is 0
+19-01-17 00:37:57 /vote% (87.65.255.154)
+19-01-17 00:37:57 Voting percent is 60
+19-01-17 00:38:01 Admin connected (155.4.193.68).
+19-01-17 00:38:11 191.85.172.252:23073|161B3425A55 requesting game...
+19-01-17 00:38:12 sk!T.Rattle joining game (191.85.172.252:23073) HWID:161B3425A55
+19-01-17 00:38:12 sk!T.Rattle has joined alpha team.
+19-01-17 00:38:15 sk!T.Rattle has left alpha team.
+19-01-17 00:38:55 Admin connected (206.81.24.116).
+19-01-17 00:38:55 /say GatherBot v0.6 is now connected to server. (206.81.24.116)
+19-01-17 00:38:55 /password 8805 (206.81.24.116)
+19-01-17 00:38:55 Server password changed to 8805
+19-01-17 00:38:55 /say Server password was changed... (206.81.24.116)
+19-01-17 00:39:29 Time Left: 5 minutes
+19-01-17 00:40:29 Time Left: 4 minutes
+19-01-17 00:41:29 Time Left: 3 minutes
+19-01-17 00:42:29 Time Left: 2 minutes
+19-01-17 00:43:29 Time Left: 1 minutes
+19-01-17 00:44:29 Next map: Lobby
+19-01-17 00:44:35 Lothic - Gothic Lobby Room
+19-01-17 00:45:41 191.85.172.252:23073|161B3425A55 requesting game...
+19-01-17 00:45:42 sk!T.Rattle joining game (191.85.172.252:23073) HWID:161B3425A55
+19-01-17 00:45:42 sk!T.Rattle has joined alpha team.
+19-01-17 00:45:46 [sk!T.Rattle] !map ctf_Ash
+19-01-17 00:45:52 ctf_Ash by chakapoko maker
+19-01-17 00:50:52 Time Left: 5 minutes
+19-01-17 00:51:52 Time Left: 4 minutes
+19-01-17 00:52:52 Time Left: 3 minutes
+19-01-17 00:52:57 sk!T.Rattle has left alpha team.
+19-01-17 00:53:52 Time Left: 2 minutes
+19-01-17 00:54:52 Time Left: 1 minutes
+19-01-17 00:54:59 /password 7654 (206.81.24.116)
+19-01-17 00:54:59 Server password changed to 7654
+19-01-17 00:54:59 /say Server password was changed... (206.81.24.116)

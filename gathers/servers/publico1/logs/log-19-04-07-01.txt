@@ -1,0 +1,583 @@
+19-04-07 18:43:32    Log Started
+19-04-07 18:43:32 Opened /home/tino/gathers/servers/publico1/soldat.ini
+19-04-07 18:56:42 TCP/IP File Server started
+19-04-07 19:26:42 TCP/IP File Server started
+19-04-07 19:56:42 TCP/IP File Server started
+19-04-07 20:26:42 TCP/IP File Server started
+19-04-07 20:56:42 TCP/IP File Server started
+19-04-07 21:26:42 TCP/IP File Server started
+19-04-07 21:56:42 TCP/IP File Server started
+19-04-07 22:08:54  Net - 1 | Stupakoff :] connected 7-4-19 22:08:54
+19-04-07 22:09:02  Net - 1 | Stupakoff :] disconnected 7-4-19 22:09:02
+19-04-07 22:09:24  Net - 1|Stupakoff :] connected 7-4-19 22:09:24
+19-04-07 22:09:30  Net - 1|Stupakoff :] disconnected 7-4-19 22:09:30
+19-04-07 22:10:26  Net - 1|Stupakoff :] connected 7-4-19 22:10:26
+19-04-07 22:10:49  Net - 1|Stupakoff :] disconnected 7-4-19 22:10:49
+19-04-07 22:26:42 TCP/IP File Server started
+19-04-07 22:56:42 TCP/IP File Server started
+19-04-07 23:26:42 TCP/IP File Server started
+19-04-07 23:56:42 TCP/IP File Server started
+19-04-08 00:26:42 TCP/IP File Server started
+19-04-08 00:56:42 TCP/IP File Server started
+19-04-08 01:26:42 TCP/IP File Server started
+19-04-08 01:56:42 TCP/IP File Server started
+19-04-08 02:26:42 TCP/IP File Server started
+19-04-08 02:54:05  Net - Killed By connected 8-4-19 02:54:05
+19-04-08 02:54:10  Net - FmL Peeh connected 8-4-19 02:54:10
+19-04-08 02:56:42 TCP/IP File Server started
+19-04-08 02:59:58  Net - FmL Peeh disconnected 8-4-19 02:59:58
+19-04-08 03:00:08  Net - Killed By disconnected 8-4-19 03:00:08
+19-04-08 03:00:32  Net - Killed By connected 8-4-19 03:00:32
+19-04-08 03:01:01  Net - Killed By disconnected 8-4-19 03:01:01
+19-04-08 03:01:08  Net - Killed By connected 8-4-19 03:01:08
+19-04-08 03:01:10  Net - VERDADEIRO connected 8-4-19 03:01:10
+19-04-08 03:01:12  Net - Killed By disconnected 8-4-19 03:01:12
+19-04-08 03:01:16  Net - Killed By connected 8-4-19 03:01:16
+19-04-08 03:21:23  Net - :|dp|: Saitama connected 8-4-19 03:21:23
+19-04-08 03:21:44  Net - :|dp|: Saitama disconnected 8-4-19 03:21:44
+19-04-08 03:26:42 TCP/IP File Server started
+19-04-08 03:28:08  Net - VERDADEIRO disconnected 8-4-19 03:28:08
+19-04-08 03:28:27  Net - Killed By disconnected 8-4-19 03:28:27
+19-04-08 03:56:42 TCP/IP File Server started
+19-04-08 04:26:42 TCP/IP File Server started
+19-04-08 04:56:42 TCP/IP File Server started
+19-04-08 05:26:42 TCP/IP File Server started
+19-04-08 05:56:42 TCP/IP File Server started
+19-04-08 06:26:42 TCP/IP File Server started
+19-04-08 06:56:42 TCP/IP File Server started
+19-04-08 07:26:42 TCP/IP File Server started
+19-04-08 07:56:42 TCP/IP File Server started
+19-04-08 08:26:42 TCP/IP File Server started
+19-04-08 08:56:42 TCP/IP File Server started
+19-04-08 09:26:42 TCP/IP File Server started
+19-04-08 09:56:42 TCP/IP File Server started
+19-04-08 10:26:42 TCP/IP File Server started
+19-04-08 10:56:42 TCP/IP File Server started
+19-04-08 11:26:42 TCP/IP File Server started
+19-04-08 11:56:42 TCP/IP File Server started
+19-04-08 12:26:42 TCP/IP File Server started
+19-04-08 12:56:42 TCP/IP File Server started
+19-04-08 13:26:42 TCP/IP File Server started
+19-04-08 13:56:42 TCP/IP File Server started
+19-04-08 14:26:42 TCP/IP File Server started
+19-04-08 14:56:42 TCP/IP File Server started
+19-04-08 15:26:42 TCP/IP File Server started
+19-04-08 15:56:42 TCP/IP File Server started
+19-04-08 16:26:42 TCP/IP File Server started
+19-04-08 16:56:42 TCP/IP File Server started
+19-04-08 17:26:42 TCP/IP File Server started
+19-04-08 17:56:42 TCP/IP File Server started
+19-04-08 18:26:42 TCP/IP File Server started
+19-04-08 18:56:42 TCP/IP File Server started
+19-04-08 19:26:42 TCP/IP File Server started
+19-04-08 19:56:42 TCP/IP File Server started
+19-04-08 20:26:42 TCP/IP File Server started
+19-04-08 20:56:42 TCP/IP File Server started
+19-04-08 21:26:42 TCP/IP File Server started
+19-04-08 21:56:42 TCP/IP File Server started
+19-04-08 22:26:42 TCP/IP File Server started
+19-04-08 22:56:42 TCP/IP File Server started
+19-04-08 23:26:42 TCP/IP File Server started
+19-04-08 23:56:42 TCP/IP File Server started
+19-04-09 00:26:42 TCP/IP File Server started
+19-04-09 00:56:42 TCP/IP File Server started
+19-04-09 01:26:42 TCP/IP File Server started
+19-04-09 01:56:43 TCP/IP File Server started
+19-04-09 02:26:42 TCP/IP File Server started
+19-04-09 02:56:42 TCP/IP File Server started
+19-04-09 03:26:42 TCP/IP File Server started
+19-04-09 03:50:48  Net - i|MastaKilla| connected 9-4-19 03:50:48
+19-04-09 03:51:17  Net - Comicito connected 9-4-19 03:51:17
+19-04-09 03:52:17  Net - General_214 connected 9-4-19 03:52:17
+19-04-09 03:52:29  Net - Comicito disconnected 9-4-19 03:52:29
+19-04-09 03:52:30  Net - General_214 connected 9-4-19 03:52:30
+19-04-09 03:53:33  Net - Danilo (COL) connected 9-4-19 03:53:33
+19-04-09 03:53:46  Net - General_214 disconnected 9-4-19 03:53:46
+19-04-09 03:56:42 TCP/IP File Server started
+19-04-09 03:58:33  Net - Danilo (COL) disconnected 9-4-19 03:58:33
+19-04-09 03:58:52  Net - i|MastaKilla| disconnected 9-4-19 03:58:52
+19-04-09 04:26:42 TCP/IP File Server started
+19-04-09 04:56:42 TCP/IP File Server started
+19-04-09 05:26:42 TCP/IP File Server started
+19-04-09 05:56:42 TCP/IP File Server started
+19-04-09 06:26:42 TCP/IP File Server started
+19-04-09 06:56:42 TCP/IP File Server started
+19-04-09 07:26:42 TCP/IP File Server started
+19-04-09 07:56:42 TCP/IP File Server started
+19-04-09 08:26:42 TCP/IP File Server started
+19-04-09 08:56:42 TCP/IP File Server started
+19-04-09 09:26:42 TCP/IP File Server started
+19-04-09 09:56:42 TCP/IP File Server started
+19-04-09 10:26:42 TCP/IP File Server started
+19-04-09 10:56:42 TCP/IP File Server started
+19-04-09 11:26:42 TCP/IP File Server started
+19-04-09 11:56:42 TCP/IP File Server started
+19-04-09 12:26:42 TCP/IP File Server started
+19-04-09 12:56:42 TCP/IP File Server started
+19-04-09 13:26:42 TCP/IP File Server started
+19-04-09 13:56:42 TCP/IP File Server started
+19-04-09 14:26:42 TCP/IP File Server started
+19-04-09 14:28:14  Net - eL.cAngRy-pandax connected 9-4-19 14:28:14
+19-04-09 14:30:15  Net - Przecudowny Pangolin connected 9-4-19 14:30:15
+19-04-09 14:31:28  Net - Przecudowny Pangolin disconnected 9-4-19 14:31:28
+19-04-09 14:39:45  Net - eL.cAngRy-pandax disconnected 9-4-19 14:39:45
+19-04-09 14:51:16  Net - Pat connected 9-4-19 14:51:16
+19-04-09 14:53:10  Net - Pat disconnected 9-4-19 14:53:10
+19-04-09 14:53:59  Net - Pat connected 9-4-19 14:53:59
+19-04-09 14:54:24  Net - Pat disconnected 9-4-19 14:54:24
+19-04-09 14:54:24  Net - Major connected 9-4-19 14:54:24
+19-04-09 14:54:40  Net - Major disconnected 9-4-19 14:54:40
+19-04-09 14:54:48  Net - Major connected 9-4-19 14:54:48
+19-04-09 14:55:12  Net - Major disconnected 9-4-19 14:55:12
+19-04-09 14:55:28  Net - Manjar de verga connected 9-4-19 14:55:28
+19-04-09 14:56:00  Net - Przecudowny Pangolin connected 9-4-19 14:56:00
+19-04-09 14:56:36  Net - Pat connected 9-4-19 14:56:36
+19-04-09 14:56:42 TCP/IP File Server started
+19-04-09 14:56:56  Net - eL.cAngRy-pandax connected 9-4-19 14:56:56
+19-04-09 14:57:22  Net - Przecudowny Pangolin disconnected 9-4-19 14:57:22
+19-04-09 15:07:35  Net - eL.cAngRy-pandax disconnected 9-4-19 15:07:35
+19-04-09 15:08:26  Net - Pat disconnected 9-4-19 15:08:26
+19-04-09 15:10:01  Net - Manjar de verga disconnected 9-4-19 15:10:01
+19-04-09 15:26:42 TCP/IP File Server started
+19-04-09 15:56:42 TCP/IP File Server started
+19-04-09 16:26:42 TCP/IP File Server started
+19-04-09 16:56:42 TCP/IP File Server started
+19-04-09 17:26:42 TCP/IP File Server started
+19-04-09 17:56:42 TCP/IP File Server started
+19-04-09 18:26:42 TCP/IP File Server started
+19-04-09 18:56:42 TCP/IP File Server started
+19-04-09 19:26:42 TCP/IP File Server started
+19-04-09 19:56:42 TCP/IP File Server started
+19-04-09 20:26:42 TCP/IP File Server started
+19-04-09 20:56:42 TCP/IP File Server started
+19-04-09 21:26:42 TCP/IP File Server started
+19-04-09 21:56:42 TCP/IP File Server started
+19-04-09 22:26:42 TCP/IP File Server started
+19-04-09 22:56:42 TCP/IP File Server started
+19-04-09 23:26:42 TCP/IP File Server started
+19-04-09 23:56:42 TCP/IP File Server started
+19-04-10 00:26:42 TCP/IP File Server started
+19-04-10 00:56:42 TCP/IP File Server started
+19-04-10 01:01:08  Net - Zup connected 10-4-19 01:01:08
+19-04-10 01:04:25  Net - Zup disconnected 10-4-19 01:04:25
+19-04-10 01:04:44  Net - Rud connected 10-4-19 01:04:44
+19-04-10 01:06:07  Net - Rud disconnected 10-4-19 01:06:07
+19-04-10 01:26:42 TCP/IP File Server started
+19-04-10 01:56:42 TCP/IP File Server started
+19-04-10 02:26:42 TCP/IP File Server started
+19-04-10 02:56:42 TCP/IP File Server started
+19-04-10 03:26:42 TCP/IP File Server started
+19-04-10 03:56:42 TCP/IP File Server started
+19-04-10 04:26:42 TCP/IP File Server started
+19-04-10 04:56:42 TCP/IP File Server started
+19-04-10 05:26:42 TCP/IP File Server started
+19-04-10 05:56:42 TCP/IP File Server started
+19-04-10 06:26:42 TCP/IP File Server started
+19-04-10 06:56:42 TCP/IP File Server started
+19-04-10 07:26:42 TCP/IP File Server started
+19-04-10 07:56:42 TCP/IP File Server started
+19-04-10 08:26:42 TCP/IP File Server started
+19-04-10 08:56:42 TCP/IP File Server started
+19-04-10 09:26:42 TCP/IP File Server started
+19-04-10 09:56:42 TCP/IP File Server started
+19-04-10 10:26:42 TCP/IP File Server started
+19-04-10 10:56:42 TCP/IP File Server started
+19-04-10 11:26:42 TCP/IP File Server started
+19-04-10 11:56:42 TCP/IP File Server started
+19-04-10 12:26:42 TCP/IP File Server started
+19-04-10 12:56:42 TCP/IP File Server started
+19-04-10 13:26:42 TCP/IP File Server started
+19-04-10 13:56:42 TCP/IP File Server started
+19-04-10 14:26:42 TCP/IP File Server started
+19-04-10 14:56:42 TCP/IP File Server started
+19-04-10 15:26:42 TCP/IP File Server started
+19-04-10 15:56:42 TCP/IP File Server started
+19-04-10 16:26:42 TCP/IP File Server started
+19-04-10 16:31:29  Net - Major connected 10-4-19 16:31:29
+19-04-10 16:32:20  Net - Major disconnected 10-4-19 16:32:20
+19-04-10 16:56:42 TCP/IP File Server started
+19-04-10 17:26:42 TCP/IP File Server started
+19-04-10 17:56:42 TCP/IP File Server started
+19-04-10 18:26:42 TCP/IP File Server started
+19-04-10 18:56:42 TCP/IP File Server started
+19-04-10 19:26:42 TCP/IP File Server started
+19-04-10 19:56:42 TCP/IP File Server started
+19-04-10 20:26:42 TCP/IP File Server started
+19-04-10 20:56:42 TCP/IP File Server started
+19-04-10 21:26:42 TCP/IP File Server started
+19-04-10 21:56:42 TCP/IP File Server started
+19-04-10 22:26:42 TCP/IP File Server started
+19-04-10 22:56:42 TCP/IP File Server started
+19-04-10 23:26:42 TCP/IP File Server started
+19-04-10 23:42:55  Net - Pat connected 10-4-19 23:42:55
+19-04-10 23:47:16  Net - eL.cAngRy-pandax connected 10-4-19 23:47:16
+19-04-10 23:51:27  Net - eL.cAngRy-pandax disconnected 10-4-19 23:51:27
+19-04-10 23:51:33  Net - eL.cAngRy-pandax connected 10-4-19 23:51:33
+19-04-10 23:56:42 TCP/IP File Server started
+19-04-10 23:59:27  Net - eL.cAngRy-pandax disconnected 10-4-19 23:59:27
+19-04-10 23:59:58  Net - Chileno connected 10-4-19 23:59:58
+19-04-11 00:00:38  Net - .cL / Pedronfire connected 11-4-19 00:00:38
+19-04-11 00:01:02  Net - Pat disconnected 11-4-19 00:01:02
+19-04-11 00:03:24  Net - .cL / Pedronfire disconnected 11-4-19 00:03:24
+19-04-11 00:03:28  Net - Chileno disconnected 11-4-19 00:03:28
+19-04-11 00:26:42 TCP/IP File Server started
+19-04-11 00:49:08  Net - .cL / Pedronfire connected 11-4-19 00:49:08
+19-04-11 00:49:12  Net - .cL / Pedronfire connected 11-4-19 00:49:12
+19-04-11 00:49:47  Net - .cL / Pedronfire disconnected 11-4-19 00:49:47
+19-04-11 00:54:05  Net - Pat connected 11-4-19 00:54:05
+19-04-11 00:56:42 TCP/IP File Server started
+19-04-11 00:56:43  Net - Pat disconnected 11-4-19 00:56:43
+19-04-11 01:26:42 TCP/IP File Server started
+19-04-11 01:56:42 TCP/IP File Server started
+19-04-11 02:26:42 TCP/IP File Server started
+19-04-11 02:56:42 TCP/IP File Server started
+19-04-11 03:26:42 TCP/IP File Server started
+19-04-11 03:56:42 TCP/IP File Server started
+19-04-11 04:22:27  Net - zed connected 11-4-19 04:22:27
+19-04-11 04:24:38  Net - zed disconnected 11-4-19 04:24:38
+19-04-11 04:26:42 TCP/IP File Server started
+19-04-11 04:56:42 TCP/IP File Server started
+19-04-11 05:26:42 TCP/IP File Server started
+19-04-11 05:56:42 TCP/IP File Server started
+19-04-11 06:26:42 TCP/IP File Server started
+19-04-11 06:56:42 TCP/IP File Server started
+19-04-11 07:26:42 TCP/IP File Server started
+19-04-11 07:56:42 TCP/IP File Server started
+19-04-11 08:26:42 TCP/IP File Server started
+19-04-11 08:56:42 TCP/IP File Server started
+19-04-11 09:26:42 TCP/IP File Server started
+19-04-11 09:56:42 TCP/IP File Server started
+19-04-11 10:26:42 TCP/IP File Server started
+19-04-11 10:56:42 TCP/IP File Server started
+19-04-11 11:26:42 TCP/IP File Server started
+19-04-11 11:56:43 TCP/IP File Server started
+19-04-11 12:26:42 TCP/IP File Server started
+19-04-11 12:56:42 TCP/IP File Server started
+19-04-11 13:26:42 TCP/IP File Server started
+19-04-11 13:56:42 TCP/IP File Server started
+19-04-11 14:26:42 TCP/IP File Server started
+19-04-11 14:56:42 TCP/IP File Server started
+19-04-11 15:26:42 TCP/IP File Server started
+19-04-11 15:56:42 TCP/IP File Server started
+19-04-11 16:26:42 TCP/IP File Server started
+19-04-11 16:28:11  Net - Kuba connected 11-4-19 16:28:11
+19-04-11 16:28:11  Net - Major connected 11-4-19 16:28:11
+19-04-11 16:30:43  Net - Mestari connected 11-4-19 16:30:43
+19-04-11 16:31:28  Net - Mestari disconnected 11-4-19 16:31:28
+19-04-11 16:44:27  Net - Major disconnected 11-4-19 16:44:27
+19-04-11 16:44:30  Net - Kuba disconnected 11-4-19 16:44:30
+19-04-11 16:56:42 TCP/IP File Server started
+19-04-11 17:26:42 TCP/IP File Server started
+19-04-11 17:56:42 TCP/IP File Server started
+19-04-11 18:26:42 TCP/IP File Server started
+19-04-11 18:56:42 TCP/IP File Server started
+19-04-11 19:26:42 TCP/IP File Server started
+19-04-11 19:56:42 TCP/IP File Server started
+19-04-11 20:26:42 TCP/IP File Server started
+19-04-11 20:56:42 TCP/IP File Server started
+19-04-11 21:05:30  Net - SHIRYU connected 11-4-19 21:05:30
+19-04-11 21:05:41  Net - SHIRYU disconnected 11-4-19 21:05:41
+19-04-11 21:05:48  Net - SHIRYU connected 11-4-19 21:05:48
+19-04-11 21:06:05  Net - SHIRYU disconnected 11-4-19 21:06:05
+19-04-11 21:26:42 TCP/IP File Server started
+19-04-11 21:56:42 TCP/IP File Server started
+19-04-11 22:26:42 TCP/IP File Server started
+19-04-11 22:56:42 TCP/IP File Server started
+19-04-11 23:26:42 TCP/IP File Server started
+19-04-11 23:56:42 TCP/IP File Server started
+19-04-12 00:26:42 TCP/IP File Server started
+19-04-12 00:56:42 TCP/IP File Server started
+19-04-12 01:26:42 TCP/IP File Server started
+19-04-12 01:56:43 TCP/IP File Server started
+19-04-12 02:26:43 TCP/IP File Server started
+19-04-12 02:56:43 TCP/IP File Server started
+19-04-12 03:15:54  Net - p.$ Hawk connected 12-4-19 03:15:54
+19-04-12 03:16:34  Net - p.$ Hawk disconnected 12-4-19 03:16:34
+19-04-12 03:16:40  Net - p.$ Hawk connected 12-4-19 03:16:40
+19-04-12 03:18:28  Net - Mother Lover connected 12-4-19 03:18:28
+19-04-12 03:18:30  Net - Mother Lover disconnected 12-4-19 03:18:30
+19-04-12 03:18:57  Net - p.$ Hawk disconnected 12-4-19 03:18:57
+19-04-12 03:19:15  Net - p.$ Hawk connected 12-4-19 03:19:15
+19-04-12 03:19:45  Net - p.$ Hawk disconnected 12-4-19 03:19:45
+19-04-12 03:26:43 TCP/IP File Server started
+19-04-12 03:56:42 TCP/IP File Server started
+19-04-12 04:26:42 TCP/IP File Server started
+19-04-12 04:56:42 TCP/IP File Server started
+19-04-12 05:26:42 TCP/IP File Server started
+19-04-12 05:56:42 TCP/IP File Server started
+19-04-12 06:26:42 TCP/IP File Server started
+19-04-12 06:56:42 TCP/IP File Server started
+19-04-12 07:26:42 TCP/IP File Server started
+19-04-12 07:56:42 TCP/IP File Server started
+19-04-12 08:26:42 TCP/IP File Server started
+19-04-12 08:56:42 TCP/IP File Server started
+19-04-12 09:26:42 TCP/IP File Server started
+19-04-12 09:56:42 TCP/IP File Server started
+19-04-12 10:26:42 TCP/IP File Server started
+19-04-12 10:56:42 TCP/IP File Server started
+19-04-12 11:26:42 TCP/IP File Server started
+19-04-12 11:56:42 TCP/IP File Server started
+19-04-12 12:26:42 TCP/IP File Server started
+19-04-12 12:56:42 TCP/IP File Server started
+19-04-12 13:12:32  Net - >> Uh << connected 12-4-19 13:12:32
+19-04-12 13:12:35  Net - >> Uh << disconnected 12-4-19 13:12:35
+19-04-12 13:12:39  Net - >> Uh << connected 12-4-19 13:12:39
+19-04-12 13:12:42  Net - >> Uh << disconnected 12-4-19 13:12:42
+19-04-12 13:26:42 TCP/IP File Server started
+19-04-12 13:56:42 TCP/IP File Server started
+19-04-12 14:26:42 TCP/IP File Server started
+19-04-12 14:56:42 TCP/IP File Server started
+19-04-12 15:26:42 TCP/IP File Server started
+19-04-12 15:56:42 TCP/IP File Server started
+19-04-12 16:06:13  Net - V1r1n5 connected 12-4-19 16:06:13
+19-04-12 16:07:47  Net - V1r1n5 disconnected 12-4-19 16:07:47
+19-04-12 16:07:55  Net - V1r1n5 connected 12-4-19 16:07:55
+19-04-12 16:08:05  Net - V1r1n5 disconnected 12-4-19 16:08:05
+19-04-12 16:26:42 TCP/IP File Server started
+19-04-12 16:54:49  Net - Major connected 12-4-19 16:54:49
+19-04-12 16:54:58  Net - Major disconnected 12-4-19 16:54:58
+19-04-12 16:55:52  Net - Major connected 12-4-19 16:55:52
+19-04-12 16:56:42 TCP/IP File Server started
+19-04-12 16:56:42  Net - Major disconnected 12-4-19 16:56:42
+19-04-12 17:26:42 TCP/IP File Server started
+19-04-12 17:56:42 TCP/IP File Server started
+19-04-12 18:26:42 TCP/IP File Server started
+19-04-12 18:56:42 TCP/IP File Server started
+19-04-12 19:26:42 TCP/IP File Server started
+19-04-12 19:56:42 TCP/IP File Server started
+19-04-12 20:26:42 TCP/IP File Server started
+19-04-12 20:56:42 TCP/IP File Server started
+19-04-12 21:26:42 TCP/IP File Server started
+19-04-12 21:56:42 TCP/IP File Server started
+19-04-12 22:26:42 TCP/IP File Server started
+19-04-12 22:56:42 TCP/IP File Server started
+19-04-12 23:26:42 TCP/IP File Server started
+19-04-12 23:56:43 TCP/IP File Server started
+19-04-13 00:26:43 TCP/IP File Server started
+19-04-13 00:56:43 TCP/IP File Server started
+19-04-13 01:22:55  Net - PWR|URANIO 235 connected 13-4-19 01:22:55
+19-04-13 01:23:43  Net - PWR|URANIO 235 disconnected 13-4-19 01:23:43
+19-04-13 01:26:42 TCP/IP File Server started
+19-04-13 01:56:42 TCP/IP File Server started
+19-04-13 02:26:42 TCP/IP File Server started
+19-04-13 02:56:42 TCP/IP File Server started
+19-04-13 03:26:42 TCP/IP File Server started
+19-04-13 03:56:42 TCP/IP File Server started
+19-04-13 04:26:42 TCP/IP File Server started
+19-04-13 04:56:42 TCP/IP File Server started
+19-04-13 05:18:21  Net - Major connected 13-4-19 05:18:21
+19-04-13 05:19:12  Net - Major disconnected 13-4-19 05:19:12
+19-04-13 05:26:42 TCP/IP File Server started
+19-04-13 05:46:09  Net - TULEPATO connected 13-4-19 05:46:09
+19-04-13 05:46:20  Net - PeleoKNestoque connected 13-4-19 05:46:20
+19-04-13 05:47:14  Net - PeleoKNestoque disconnected 13-4-19 05:47:14
+19-04-13 05:48:41  Net - PeleoKNestoque connected 13-4-19 05:48:41
+19-04-13 05:56:42 TCP/IP File Server started
+19-04-13 06:10:48  Net - RiddcK connected 13-4-19 06:10:48
+19-04-13 06:11:50  Net - RiddcK disconnected 13-4-19 06:11:50
+19-04-13 06:24:10  Net - PeleoKNestoque disconnected 13-4-19 06:24:10
+19-04-13 06:24:23  Net - PeleoKNestoque connected 13-4-19 06:24:23
+19-04-13 06:26:42 TCP/IP File Server started
+19-04-13 06:44:22  Net - PeleoKNestoque disconnected 13-4-19 06:44:22
+19-04-13 06:44:26  Net - TULEPATO disconnected 13-4-19 06:44:26
+19-04-13 06:56:42 TCP/IP File Server started
+19-04-13 07:26:42 TCP/IP File Server started
+19-04-13 07:56:42 TCP/IP File Server started
+19-04-13 08:26:42 TCP/IP File Server started
+19-04-13 08:56:42 TCP/IP File Server started
+19-04-13 09:26:42 TCP/IP File Server started
+19-04-13 09:56:42 TCP/IP File Server started
+19-04-13 10:26:42 TCP/IP File Server started
+19-04-13 10:56:42 TCP/IP File Server started
+19-04-13 11:26:42 TCP/IP File Server started
+19-04-13 11:56:42 TCP/IP File Server started
+19-04-13 12:26:43 TCP/IP File Server started
+19-04-13 12:56:42 TCP/IP File Server started
+19-04-13 13:26:42 TCP/IP File Server started
+19-04-13 13:56:42 TCP/IP File Server started
+19-04-13 14:26:42 TCP/IP File Server started
+19-04-13 14:56:42 TCP/IP File Server started
+19-04-13 15:26:42 TCP/IP File Server started
+19-04-13 15:56:42 TCP/IP File Server started
+19-04-13 16:26:42 TCP/IP File Server started
+19-04-13 16:56:42 TCP/IP File Server started
+19-04-13 17:26:42 TCP/IP File Server started
+19-04-13 17:56:42 TCP/IP File Server started
+19-04-13 18:26:42 TCP/IP File Server started
+19-04-13 18:56:42 TCP/IP File Server started
+19-04-13 19:26:42 TCP/IP File Server started
+19-04-13 19:56:42 TCP/IP File Server started
+19-04-13 20:26:42 TCP/IP File Server started
+19-04-13 20:56:42 TCP/IP File Server started
+19-04-13 21:26:42 TCP/IP File Server started
+19-04-13 21:56:42 TCP/IP File Server started
+19-04-13 22:26:42 TCP/IP File Server started
+19-04-13 22:56:42 TCP/IP File Server started
+19-04-13 23:26:42 TCP/IP File Server started
+19-04-13 23:56:42 TCP/IP File Server started
+19-04-14 00:26:42 TCP/IP File Server started
+19-04-14 00:56:42 TCP/IP File Server started
+19-04-14 01:26:42 TCP/IP File Server started
+19-04-14 01:56:42 TCP/IP File Server started
+19-04-14 02:26:42 TCP/IP File Server started
+19-04-14 02:56:42 TCP/IP File Server started
+19-04-14 03:26:42 TCP/IP File Server started
+19-04-14 03:56:42 TCP/IP File Server started
+19-04-14 04:26:42 TCP/IP File Server started
+19-04-14 04:56:42 TCP/IP File Server started
+19-04-14 05:26:42 TCP/IP File Server started
+19-04-14 05:56:42 TCP/IP File Server started
+19-04-14 06:26:42 TCP/IP File Server started
+19-04-14 06:56:42 TCP/IP File Server started
+19-04-14 07:26:42 TCP/IP File Server started
+19-04-14 07:56:42 TCP/IP File Server started
+19-04-14 08:26:42 TCP/IP File Server started
+19-04-14 08:56:42 TCP/IP File Server started
+19-04-14 09:26:42 TCP/IP File Server started
+19-04-14 09:56:42 TCP/IP File Server started
+19-04-14 10:26:42 TCP/IP File Server started
+19-04-14 10:56:42 TCP/IP File Server started
+19-04-14 11:26:42 TCP/IP File Server started
+19-04-14 11:56:42 TCP/IP File Server started
+19-04-14 12:26:42 TCP/IP File Server started
+19-04-14 12:56:42 TCP/IP File Server started
+19-04-14 13:26:42 TCP/IP File Server started
+19-04-14 13:56:42 TCP/IP File Server started
+19-04-14 14:26:42 TCP/IP File Server started
+19-04-14 14:56:42 TCP/IP File Server started
+19-04-14 15:26:42 TCP/IP File Server started
+19-04-14 15:56:42 TCP/IP File Server started
+19-04-14 16:26:42 TCP/IP File Server started
+19-04-14 16:56:42 TCP/IP File Server started
+19-04-14 17:26:42 TCP/IP File Server started
+19-04-14 17:56:42 TCP/IP File Server started
+19-04-14 18:26:42 TCP/IP File Server started
+19-04-14 18:56:42 TCP/IP File Server started
+19-04-14 19:26:42 TCP/IP File Server started
+19-04-14 19:56:42 TCP/IP File Server started
+19-04-14 20:26:42 TCP/IP File Server started
+19-04-14 20:56:42 TCP/IP File Server started
+19-04-14 21:26:42 TCP/IP File Server started
+19-04-14 21:56:42 TCP/IP File Server started
+19-04-14 22:26:42 TCP/IP File Server started
+19-04-14 22:56:42 TCP/IP File Server started
+19-04-14 23:26:42 TCP/IP File Server started
+19-04-14 23:32:39  Net - i|MastaKilla| connected 14-4-19 23:32:39
+19-04-14 23:32:43  Net - i|MastaKilla| disconnected 14-4-19 23:32:43
+19-04-14 23:32:48  Net - i|MastaKilla| connected 14-4-19 23:32:48
+19-04-14 23:34:07  Net - Blah. connected 14-4-19 23:34:07
+19-04-14 23:34:09  Net - i|MastaKilla| disconnected 14-4-19 23:34:09
+19-04-14 23:34:18  Net - Blah. disconnected 14-4-19 23:34:18
+19-04-14 23:56:42 TCP/IP File Server started
+19-04-15 00:26:42 TCP/IP File Server started
+19-04-15 00:56:42 TCP/IP File Server started
+19-04-15 01:26:42 TCP/IP File Server started
+19-04-15 01:56:42 TCP/IP File Server started
+19-04-15 02:26:42 TCP/IP File Server started
+19-04-15 02:56:42 TCP/IP File Server started
+19-04-15 03:26:42 TCP/IP File Server started
+19-04-15 03:56:42 TCP/IP File Server started
+19-04-15 04:26:42 TCP/IP File Server started
+19-04-15 04:56:42 TCP/IP File Server started
+19-04-15 05:26:42 TCP/IP File Server started
+19-04-15 05:56:42 TCP/IP File Server started
+19-04-15 06:26:42 TCP/IP File Server started
+19-04-15 06:56:42 TCP/IP File Server started
+19-04-15 07:26:42 TCP/IP File Server started
+19-04-15 07:56:42 TCP/IP File Server started
+19-04-15 08:26:42 TCP/IP File Server started
+19-04-15 08:56:42 TCP/IP File Server started
+19-04-15 09:26:42 TCP/IP File Server started
+19-04-15 09:56:42 TCP/IP File Server started
+19-04-15 10:26:42 TCP/IP File Server started
+19-04-15 10:56:42 TCP/IP File Server started
+19-04-15 11:26:42 TCP/IP File Server started
+19-04-15 11:56:42 TCP/IP File Server started
+19-04-15 12:26:42 TCP/IP File Server started
+19-04-15 12:56:42 TCP/IP File Server started
+19-04-15 13:26:42 TCP/IP File Server started
+19-04-15 13:56:42 TCP/IP File Server started
+19-04-15 14:26:42 TCP/IP File Server started
+19-04-15 14:56:42 TCP/IP File Server started
+19-04-15 15:26:42 TCP/IP File Server started
+19-04-15 15:56:42 TCP/IP File Server started
+19-04-15 16:26:42 TCP/IP File Server started
+19-04-15 16:56:42 TCP/IP File Server started
+19-04-15 17:26:42 TCP/IP File Server started
+19-04-15 17:56:42 TCP/IP File Server started
+19-04-15 18:26:42 TCP/IP File Server started
+19-04-15 18:56:42 TCP/IP File Server started
+19-04-15 19:26:42 TCP/IP File Server started
+19-04-15 19:56:42 TCP/IP File Server started
+19-04-15 20:26:42 TCP/IP File Server started
+19-04-15 20:54:32  Net - RiddcK connected 15-4-19 20:54:32
+19-04-15 20:54:35  Net - RiddcK disconnected 15-4-19 20:54:35
+19-04-15 20:56:42 TCP/IP File Server started
+19-04-15 21:26:42 TCP/IP File Server started
+19-04-15 21:56:42 TCP/IP File Server started
+19-04-15 22:26:42 TCP/IP File Server started
+19-04-15 22:56:42 TCP/IP File Server started
+19-04-15 23:26:42 TCP/IP File Server started
+19-04-15 23:56:42 TCP/IP File Server started
+19-04-16 00:26:42 TCP/IP File Server started
+19-04-16 00:56:42 TCP/IP File Server started
+19-04-16 01:26:42 TCP/IP File Server started
+19-04-16 01:56:42 TCP/IP File Server started
+19-04-16 02:26:42 TCP/IP File Server started
+19-04-16 02:56:42 TCP/IP File Server started
+19-04-16 03:26:42 TCP/IP File Server started
+19-04-16 03:56:42 TCP/IP File Server started
+19-04-16 04:26:42 TCP/IP File Server started
+19-04-16 04:56:42 TCP/IP File Server started
+19-04-16 05:26:42 TCP/IP File Server started
+19-04-16 05:56:42 TCP/IP File Server started
+19-04-16 06:26:42 TCP/IP File Server started
+19-04-16 06:56:42 TCP/IP File Server started
+19-04-16 07:26:42 TCP/IP File Server started
+19-04-16 07:56:42 TCP/IP File Server started
+19-04-16 08:26:42 TCP/IP File Server started
+19-04-16 08:56:42 TCP/IP File Server started
+19-04-16 09:26:42 TCP/IP File Server started
+19-04-16 09:56:42 TCP/IP File Server started
+19-04-16 10:26:42 TCP/IP File Server started
+19-04-16 10:56:42 TCP/IP File Server started
+19-04-16 11:26:42 TCP/IP File Server started
+19-04-16 11:56:42 TCP/IP File Server started
+19-04-16 12:26:42 TCP/IP File Server started
+19-04-16 12:56:42 TCP/IP File Server started
+19-04-16 13:26:42 TCP/IP File Server started
+19-04-16 13:56:42 TCP/IP File Server started
+19-04-16 14:26:42 TCP/IP File Server started
+19-04-16 14:56:42 TCP/IP File Server started
+19-04-16 15:26:42 TCP/IP File Server started
+19-04-16 15:56:42 TCP/IP File Server started
+19-04-16 16:26:42 TCP/IP File Server started
+19-04-16 16:56:42 TCP/IP File Server started
+19-04-16 17:26:42 TCP/IP File Server started
+19-04-16 17:56:42 TCP/IP File Server started
+19-04-16 18:26:42 TCP/IP File Server started
+19-04-16 18:56:42 TCP/IP File Server started
+19-04-16 19:26:42 TCP/IP File Server started
+19-04-16 19:56:42 TCP/IP File Server started
+19-04-16 20:26:42 TCP/IP File Server started
+19-04-16 20:56:42 TCP/IP File Server started
+19-04-16 21:26:42 TCP/IP File Server started
+19-04-16 21:56:42 TCP/IP File Server started
+19-04-16 22:26:42 TCP/IP File Server started
+19-04-16 22:56:42 TCP/IP File Server started
+19-04-16 23:26:42 TCP/IP File Server started
+19-04-16 23:56:42 TCP/IP File Server started
+19-04-17 00:26:42 TCP/IP File Server started
+19-04-17 00:56:42 TCP/IP File Server started
+19-04-17 01:26:42 TCP/IP File Server started
+19-04-17 01:56:42 TCP/IP File Server started
+19-04-17 02:26:42 TCP/IP File Server started
+19-04-17 02:56:42 TCP/IP File Server started
+19-04-17 03:26:42 TCP/IP File Server started
+19-04-17 03:56:42 TCP/IP File Server started
+19-04-17 04:26:42 TCP/IP File Server started
+19-04-17 04:56:42 TCP/IP File Server started
+19-04-17 05:26:42 TCP/IP File Server started
+19-04-17 05:56:42 TCP/IP File Server started
+19-04-17 06:26:42 TCP/IP File Server started
+19-04-17 06:56:42 TCP/IP File Server started

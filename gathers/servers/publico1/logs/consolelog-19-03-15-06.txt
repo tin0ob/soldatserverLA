@@ -1,0 +1,127 @@
+19-03-15 16:38:44    Console Log Started
+19-03-15 16:38:44 Welcome to Soldat 1.7.1
+19-03-15 16:38:44  [*] Preparing scripts to be launched
+19-03-15 16:38:44  [*] Compiling AT -> antitele.pas...
+19-03-15 16:38:44  [*] AT compiled
+19-03-15 16:38:44  [*] Compiling SV -> ServerVisits.pas...
+19-03-15 16:38:44  [*] SV -> [Error] (30:16): Invalid number of parameters
+19-03-15 16:38:44  [*] Disabling SV
+19-03-15 16:38:44  [*] Compiling SWR -> core.pas...
+19-03-15 16:38:44  [*] SWR -> [Error] (56:15): Invalid number of parameters
+19-03-15 16:38:44  [*] Disabling SWR
+19-03-15 16:38:44  [*] Compiling W -> welcome.pas...
+19-03-15 16:38:44  [*] W -> [Hint] (21:10): Variable 'Result' never used
+19-03-15 16:38:44  [*] W compiled
+19-03-15 16:38:44  [*] Done
+19-03-15 16:38:44 Welcome Message Activated
+19-03-15 16:38:44 Lothic - Gothic Lobby Room
+19-03-15 16:38:44 Loaded weapons mod "Default mod v1.8"
+19-03-15 16:38:44  Connection for file server started. Port: 23023
+19-03-15 16:38:44 Registering server @ 88.99.234.252
+19-03-15 16:39:31 191.85.132.186:23073|3A1F929ECBB requesting game...
+19-03-15 16:39:32 sk!T.Rattle joining game (191.85.132.186:23073) HWID:3A1F929ECBB
+19-03-15 16:39:32 sk!T.Rattle has joined alpha team.
+19-03-15 16:39:35 [sk!T.Rattle] !dp
+19-03-15 16:39:39 [sk!T.Rattle] !map ctf_Laos
+19-03-15 16:39:41 sk!T.Rattle has left alpha team.
+19-03-15 16:43:44 Time Left: 5 minutes
+19-03-15 16:44:44 Time Left: 4 minutes
+19-03-15 16:45:44 Time Left: 3 minutes
+19-03-15 16:46:44 Time Left: 2 minutes
+19-03-15 16:47:44 Time Left: 1 minutes
+19-03-15 16:48:44 Next map: Lobby
+19-03-15 16:48:49 Lothic - Gothic Lobby Room
+19-03-15 16:53:49 Time Left: 5 minutes
+19-03-15 16:54:49 Time Left: 4 minutes
+19-03-15 16:55:49 Time Left: 3 minutes
+19-03-15 16:56:49 Time Left: 2 minutes
+19-03-15 16:57:49 Time Left: 1 minutes
+19-03-15 16:58:49 Next map: Lobby
+19-03-15 16:58:54 Lothic - Gothic Lobby Room
+19-03-15 17:03:54 Time Left: 5 minutes
+19-03-15 17:04:54 Time Left: 4 minutes
+19-03-15 17:05:54 Time Left: 3 minutes
+19-03-15 17:06:54 Time Left: 2 minutes
+19-03-15 17:07:54 Time Left: 1 minutes
+19-03-15 17:08:54 Next map: Lobby
+19-03-15 17:09:00 Lothic - Gothic Lobby Room
+19-03-15 17:14:00 Time Left: 5 minutes
+19-03-15 17:15:00 Time Left: 4 minutes
+19-03-15 17:16:00 Time Left: 3 minutes
+19-03-15 17:17:00 Time Left: 2 minutes
+19-03-15 17:18:00 Time Left: 1 minutes
+19-03-15 17:19:00 Next map: Lobby
+19-03-15 17:19:05 Lothic - Gothic Lobby Room
+19-03-15 17:24:05 Time Left: 5 minutes
+19-03-15 17:25:05 Time Left: 4 minutes
+19-03-15 17:26:05 Time Left: 3 minutes
+19-03-15 17:27:05 Time Left: 2 minutes
+19-03-15 17:28:05 Time Left: 1 minutes
+19-03-15 17:29:05 Next map: Lobby
+19-03-15 17:29:10 Lothic - Gothic Lobby Room
+19-03-15 17:34:10 Time Left: 5 minutes
+19-03-15 17:35:10 Time Left: 4 minutes
+19-03-15 17:36:10 Time Left: 3 minutes
+19-03-15 17:37:10 Time Left: 2 minutes
+19-03-15 17:38:10 Time Left: 1 minutes
+19-03-15 17:39:10 Next map: Lobby
+19-03-15 17:39:16 Lothic - Gothic Lobby Room
+19-03-15 17:44:16 Time Left: 5 minutes
+19-03-15 17:45:16 Time Left: 4 minutes
+19-03-15 17:46:16 Time Left: 3 minutes
+19-03-15 17:47:16 Time Left: 2 minutes
+19-03-15 17:48:16 Time Left: 1 minutes
+19-03-15 17:49:16 Next map: Lobby
+19-03-15 17:49:21 Lothic - Gothic Lobby Room
+19-03-15 17:54:21 Time Left: 5 minutes
+19-03-15 17:55:21 Time Left: 4 minutes
+19-03-15 17:56:21 Time Left: 3 minutes
+19-03-15 17:57:21 Time Left: 2 minutes
+19-03-15 17:58:21 Time Left: 1 minutes
+19-03-15 17:59:21 Next map: Lobby
+19-03-15 17:59:26 Lothic - Gothic Lobby Room
+19-03-15 18:04:26 Time Left: 5 minutes
+19-03-15 18:05:26 Time Left: 4 minutes
+19-03-15 18:06:26 Time Left: 3 minutes
+19-03-15 18:07:26 Time Left: 2 minutes
+19-03-15 18:08:26 Time Left: 1 minutes
+19-03-15 18:09:26 Next map: Lobby
+19-03-15 18:09:32 Lothic - Gothic Lobby Room
+19-03-15 18:14:32 Time Left: 5 minutes
+19-03-15 18:15:32 Time Left: 4 minutes
+19-03-15 18:16:32 Time Left: 3 minutes
+19-03-15 18:17:32 Time Left: 2 minutes
+19-03-15 18:18:32 Time Left: 1 minutes
+19-03-15 18:19:32 Next map: Lobby
+19-03-15 18:19:37 Lothic - Gothic Lobby Room
+19-03-15 18:24:37 Time Left: 5 minutes
+19-03-15 18:25:37 Time Left: 4 minutes
+19-03-15 18:26:37 Time Left: 3 minutes
+19-03-15 18:27:37 Time Left: 2 minutes
+19-03-15 18:28:37 Time Left: 1 minutes
+19-03-15 18:29:37 Next map: Lobby
+19-03-15 18:29:42 Lothic - Gothic Lobby Room
+19-03-15 18:34:42 Time Left: 5 minutes
+19-03-15 18:35:42 Time Left: 4 minutes
+19-03-15 18:36:42 Time Left: 3 minutes
+19-03-15 18:37:42 Time Left: 2 minutes
+19-03-15 18:38:42 Time Left: 1 minutes
+19-03-15 18:39:42 Next map: Lobby
+19-03-15 18:39:48 Lothic - Gothic Lobby Room
+19-03-15 18:44:48 Time Left: 5 minutes
+19-03-15 18:45:48 Time Left: 4 minutes
+19-03-15 18:46:48 Time Left: 3 minutes
+19-03-15 18:47:48 Time Left: 2 minutes
+19-03-15 18:48:48 Time Left: 1 minutes
+19-03-15 18:49:48 Next map: Lobby
+19-03-15 18:49:53 Lothic - Gothic Lobby Room
+19-03-15 18:53:43 191.85.132.186:23073|3A1F929ECBB requesting game...
+19-03-15 18:53:44 sk!T.Rattle joining game (191.85.132.186:23073) HWID:3A1F929ECBB
+19-03-15 18:53:44 sk!T.Rattle has joined alpha team.
+19-03-15 18:53:46 sk!T.Rattle has left alpha team.
+19-03-15 18:54:53 Time Left: 5 minutes
+19-03-15 18:55:53 Time Left: 4 minutes
+19-03-15 18:56:34 Signal received, shutting down
+19-03-15 18:56:34 Shutting down server...
+19-03-15 18:56:34 Shutting down FileServer...
+19-03-15 18:56:34 Shutting down admin server...

@@ -1,0 +1,44 @@
+18-11-20 09:15:52    Console Log Started
+18-11-20 09:15:52 Welcome to Soldat 1.7.1
+18-11-20 09:15:52  [*] Preparing scripts to be launched
+18-11-20 09:15:52  [*] [BasicCommands] Loading bytecode
+18-11-20 09:15:52  [*] [BasicCommands] Bytecode loaded
+18-11-20 09:15:52  [*] Done
+18-11-20 09:15:52 Lothic - Gothic Lobby Room
+18-11-20 09:15:52 Loaded weapons mod "Default mod v1.8"
+18-11-20 09:15:52  Connection for file server started. Port: 23011
+18-11-20 09:20:52 Time Left: 5 minutes
+18-11-20 09:21:52 Time Left: 4 minutes
+18-11-20 09:22:52 Time Left: 3 minutes
+18-11-20 09:23:52 Time Left: 2 minutes
+18-11-20 09:24:52 Time Left: 1 minutes
+18-11-20 09:25:52 Next map: Lobby
+18-11-20 09:25:57 Lothic - Gothic Lobby Room
+18-11-20 09:30:57 Time Left: 5 minutes
+18-11-20 09:31:57 Time Left: 4 minutes
+18-11-20 09:32:57 Time Left: 3 minutes
+18-11-20 09:33:57 Time Left: 2 minutes
+18-11-20 09:34:57 Time Left: 1 minutes
+18-11-20 09:35:57 Next map: Lobby
+18-11-20 09:36:03 Lothic - Gothic Lobby Room
+18-11-20 09:41:03 Time Left: 5 minutes
+18-11-20 09:42:03 Time Left: 4 minutes
+18-11-20 09:43:03 Time Left: 3 minutes
+18-11-20 09:43:24 95.67.64.106 added to Game Admins via Request Password
+18-11-20 09:43:24 95.67.64.106:1535|7A8029D4AAE requesting game...
+18-11-20 09:43:25 Major joining game (95.67.64.106:1535) HWID:7A8029D4AAE
+18-11-20 09:43:25 Major has joined alpha team.
+18-11-20 09:43:30 Pausing...
+18-11-20 09:43:30 Major triggered a command (/pause)
+18-11-20 09:43:37 Major triggered a command (/unpause)
+18-11-20 09:43:37 Unpausing in: 3
+18-11-20 09:43:38 Unpausing in: 2
+18-11-20 09:43:39 Unpausing in: 1
+18-11-20 09:43:40 Go!
+18-11-20 09:43:44 Major has left alpha team.
+18-11-20 09:44:13 Time Left: 2 minutes
+18-11-20 09:45:13 Time Left: 1 minutes
+18-11-20 09:45:52 95.67.64.106:1535|7A8029D4AAE requesting game...
+18-11-20 09:46:13 Next map: Lobby
+18-11-20 09:46:18 Lothic - Gothic Lobby Room
+18-11-20 09:51:18 Time Left: 5 minutes

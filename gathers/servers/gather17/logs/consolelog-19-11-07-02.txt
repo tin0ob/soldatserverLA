@@ -1,0 +1,19 @@
+19-11-07 21:41:12    Console Log Started
+19-11-07 21:41:12 Welcome to Soldat 1.7.1
+19-11-07 21:41:12  [*] Preparing scripts to be launched
+19-11-07 21:41:12  [*] [BasicCommands] Compilation started
+19-11-07 21:41:12  [*] [BasicCommands] Compilation complete
+19-11-07 21:41:12  [*] [BasicCommands] Loading bytecode
+19-11-07 21:41:12  [*] [BasicCommands] Bytecode loaded
+19-11-07 21:41:12  [*] [GUtils] Compilation started
+19-11-07 21:41:12  [*] [GUtils] [Warning] main.pas(97:34): "True and" is not needed
+19-11-07 21:41:12  [*] [GUtils] Compilation complete
+19-11-07 21:41:12  [*] [GUtils] Loading bytecode
+19-11-07 21:41:12  [*] [GUtils] Bytecode loaded
+19-11-07 21:41:12  [*] Done
+19-11-07 21:41:12 Lothic - Gothic Lobby Room
+19-11-07 21:41:12 Loaded weapons mod "Default v1.8"
+19-11-07 21:41:12  Connection for file server started. Port: 23011
+19-11-07 21:41:15 Admin connected (79.136.24.196).
+19-11-07 21:46:12 Time Left: 5 minutes
+19-11-07 21:47:12 Time Left: 4 minutes

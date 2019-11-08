@@ -1,0 +1,3172 @@
+19-01-21 23:35:50    Console Log Started
+19-01-21 23:35:51 (TEAM)[sk!T.Rattle] ff down
+19-01-21 23:35:52 [|hu3| CrasheR] wtf pala
+19-01-21 23:35:52 (1) WildR4P`(1) killed (2) OXiD:// Slasher with Combat Knife
+19-01-21 23:35:57 Predikt (SN) scores for Bravo Team
+19-01-21 23:35:58 (1) |hu3| CrasheR killed (2) |hu3|  pala with M79
+19-01-21 23:35:58 WildR4P`(1) captured the Blue Flag
+19-01-21 23:35:58 (2) Predikt (SN) killed (1) WildR4P`(1) with XM214 Minigun
+19-01-21 23:35:59 Predikt (SN) returned the Blue Flag
+19-01-21 23:36:00 (1) sk!T.Rattle killed (2) OXiD:// Slasher with Ruger 77
+19-01-21 23:36:01 sk!T.Rattle captured the Blue Flag
+19-01-21 23:36:01 (1) |hu3| CrasheR killed (2) Predikt (SN) with Grenade
+19-01-21 23:36:02 (RADIO)[OXiD:// Slasher] Friendly flagger down!
+19-01-21 23:36:02 (TEAM)[sk!T.Rattle] ff down
+19-01-21 23:36:03 (RADIO)[Predikt (SN)] Enemy spotted middle!
+19-01-21 23:36:03 (RADIO)[Predikt (SN)] Enemy flagger down!
+19-01-21 23:36:04 (RADIO)[Predikt (SN)] Enemy flagger down!
+19-01-21 23:36:04 (2) OXiD:// Slasher killed (1) |hu3| CrasheR with Combat Knife
+19-01-21 23:36:06 (TEAM)[sk!T.Rattle] mid
+19-01-21 23:36:10 (1) WildR4P`(1) killed (2) OXiD:// Slasher with Steyr AUG
+19-01-21 23:36:12 sk!T.Rattle scores for Alpha Team
+19-01-21 23:36:12 (1) sk!T.Rattle killed (2) Predikt (SN) with Ruger 77
+19-01-21 23:36:12 (2) Predikt (SN) killed (1) sk!T.Rattle with Combat Knife
+19-01-21 23:36:13 (2) |hu3|  pala killed (1) WildR4P`(1) with Steyr AUG
+19-01-21 23:36:19 (1) sk!T.Rattle killed (2) |hu3|  pala with Ruger 77
+19-01-21 23:36:21 (1) WildR4P`(1) killed (2) Predikt (SN) with Grenade
+19-01-21 23:36:24 (1) sk!T.Rattle killed (2) OXiD:// Slasher with Ruger 77
+19-01-21 23:36:26 |hu3| CrasheR returned the Red Flag
+19-01-21 23:36:30 (2) Predikt (SN) killed (1) WildR4P`(1) with XM214 Minigun
+19-01-21 23:36:30 (2) |hu3|  pala killed (1) sk!T.Rattle with Grenade
+19-01-21 23:36:31 (RADIO)[WildR4P`(1)] Enemy spotted middle!
+19-01-21 23:36:32 (1) |hu3| CrasheR killed (2) Predikt (SN) with M79
+19-01-21 23:36:38 (1) |hu3| CrasheR killed (2) |hu3|  pala with Grenade
+19-01-21 23:36:42 (1) sk!T.Rattle killed (2) Predikt (SN) with Ruger 77
+19-01-21 23:36:42 WildR4P`(1) captured the Blue Flag
+19-01-21 23:36:42 (1) WildR4P`(1) killed (2) OXiD:// Slasher with Combat Knife
+19-01-21 23:36:43 (2) |hu3|  pala killed (1) sk!T.Rattle with FN Minimi
+19-01-21 23:36:44 (RADIO)[OXiD:// Slasher] Friendly flagger down!
+19-01-21 23:36:45 (TEAM)[sk!T.Rattle] mid
+19-01-21 23:36:45 (TEAM)[Predikt (SN)] go up or dont go
+19-01-21 23:36:49 (1) |hu3| CrasheR killed (2) |hu3|  pala with Grenade
+19-01-21 23:36:52 (2) Predikt (SN) killed (1) |hu3| CrasheR with XM214 Minigun
+19-01-21 23:36:53 WildR4P`(1) scores for Alpha Team
+19-01-21 23:36:54 (2) Predikt (SN) killed (1) sk!T.Rattle with XM214 Minigun
+19-01-21 23:36:55 OXiD:// Slasher captured the Red Flag
+19-01-21 23:36:55 (2) OXiD:// Slasher killed (1) WildR4P`(1) with HK MP5
+19-01-21 23:36:55 (1) sk!T.Rattle killed (2) Predikt (SN) with Grenade
+19-01-21 23:36:56 (RADIO)[|hu3| CrasheR] Enemy flagger down!
+19-01-21 23:36:57 (RADIO)[WildR4P`(1)] Enemy flagger down!
+19-01-21 23:36:58 (TEAM)[Predikt (SN)] ffs
+19-01-21 23:37:02 (2) |hu3|  pala killed (1) WildR4P`(1) with Grenade
+19-01-21 23:37:03 (RADIO)[WildR4P`(1)] Enemy spotted up!
+19-01-21 23:37:04 (2) Predikt (SN) killed (1) |hu3| CrasheR with Grenade
+19-01-21 23:37:04 (1) sk!T.Rattle killed (2) Predikt (SN) with Ruger 77
+19-01-21 23:37:04 (2) Predikt (SN) killed (1) sk!T.Rattle with XM214 Minigun
+19-01-21 23:37:06 OXiD:// Slasher scores for Bravo Team
+19-01-21 23:37:09 (1) WildR4P`(1) killed (2) |hu3|  pala with Steyr AUG
+19-01-21 23:37:14 (2) |hu3|  pala killed (1) |hu3| CrasheR with Ak-74
+19-01-21 23:37:14 (1) |hu3| CrasheR killed (2) Predikt (SN) with Combat Knife
+19-01-21 23:37:16 (RADIO)[Predikt (SN)] Enemy spotted middle!
+19-01-21 23:37:19 (2) OXiD:// Slasher killed (1) sk!T.Rattle with HK MP5
+19-01-21 23:37:20 (TEAM)[sk!T.Rattle] up
+19-01-21 23:37:21 (1) WildR4P`(1) killed (2) |hu3|  pala with Hands
+19-01-21 23:37:21 (2) |hu3|  pala killed (1) WildR4P`(1) with Hands
+19-01-21 23:37:26 (1) |hu3| CrasheR killed (2) |hu3|  pala with M79
+19-01-21 23:37:26 (1) WildR4P`(1) killed (2) Predikt (SN) with Steyr AUG
+19-01-21 23:37:27 (1) sk!T.Rattle killed (2) OXiD:// Slasher with Ruger 77
+19-01-21 23:37:29 (TEAM)[|hu3|  pala] base
+19-01-21 23:37:29 |hu3| CrasheR captured the Blue Flag
+19-01-21 23:37:34 (2) OXiD:// Slasher killed (1) sk!T.Rattle with Grenade
+19-01-21 23:37:34 (TEAM)[sk!T.Rattle] up
+19-01-21 23:37:35 (TEAM)[sk!T.Rattle] mid
+19-01-21 23:37:35 (2) OXiD:// Slasher killed (1) WildR4P`(1) with HK MP5
+19-01-21 23:37:35 (TEAM)[sk!T.Rattle] loow
+19-01-21 23:37:36 (RADIO)[WildR4P`(1)] Enemy spotted middle!
+19-01-21 23:37:37 (RADIO)[WildR4P`(1)] Enemy spotted middle!
+19-01-21 23:37:38 (2) |hu3|  pala killed (1) |hu3| CrasheR with Ak-74
+19-01-21 23:37:38 OXiD:// Slasher captured the Red Flag
+19-01-21 23:37:39 |hu3|  pala returned the Blue Flag
+19-01-21 23:37:40 (RADIO)[|hu3| CrasheR] Enemy flagger down!
+19-01-21 23:37:44 (1) WildR4P`(1) killed (2) Predikt (SN) with Steyr AUG
+19-01-21 23:37:44 (2) Predikt (SN) killed (1) WildR4P`(1) with Grenade
+19-01-21 23:37:47 OXiD:// Slasher scores for Bravo Team
+19-01-21 23:37:48 (2) OXiD:// Slasher killed (1) sk!T.Rattle with HK MP5
+19-01-21 23:37:50 |hu3| CrasheR captured the Blue Flag
+19-01-21 23:37:50 (2) Predikt (SN) killed (1) |hu3| CrasheR with XM214 Minigun
+19-01-21 23:37:54 OXiD:// Slasher captured the Red Flag
+19-01-21 23:37:56 (2) |hu3|  pala killed (1) WildR4P`(1) with Ak-74
+19-01-21 23:37:58 |hu3|  pala returned the Blue Flag
+19-01-21 23:37:58 (2) Predikt (SN) killed (1) sk!T.Rattle with XM214 Minigun
+19-01-21 23:38:00 (2) OXiD:// Slasher killed (1) |hu3| CrasheR with HK MP5
+19-01-21 23:38:01 (2) Predikt (SN) killed (1) WildR4P`(1) with Combat Knife
+19-01-21 23:38:02 [|hu3| CrasheR] WTF
+19-01-21 23:38:03 [|hu3| CrasheR] oloco slash
+19-01-21 23:38:04 OXiD:// Slasher scores for Bravo Team
+19-01-21 23:38:05 (2) Predikt (SN) killed (1) |hu3| CrasheR with Combat Knife
+19-01-21 23:38:06 |hu3|  pala captured the Red Flag
+19-01-21 23:38:06 (1) sk!T.Rattle killed (2) Predikt (SN) with Ruger 77
+19-01-21 23:38:07 (2) Predikt (SN) killed (1) sk!T.Rattle with XM214 Minigun
+19-01-21 23:38:08 (1) WildR4P`(1) killed (2) |hu3|  pala with Steyr AUG
+19-01-21 23:38:10 WildR4P`(1) returned the Red Flag
+19-01-21 23:38:11 [OXiD:// Slasher] ahuah
+19-01-21 23:38:15 (1) |hu3| CrasheR killed (2) |hu3|  pala with M79
+19-01-21 23:38:15 (2) OXiD:// Slasher killed (1) WildR4P`(1) with HK MP5
+19-01-21 23:38:17 (1) |hu3| CrasheR killed (2) Predikt (SN) with Grenade
+19-01-21 23:38:18 (RADIO)[Predikt (SN)] Enemy spotted middle!
+19-01-21 23:38:19 (2) OXiD:// Slasher killed (1) |hu3| CrasheR with HK MP5
+19-01-21 23:38:21 (2) OXiD:// Slasher killed (1) sk!T.Rattle with HK MP5
+19-01-21 23:38:23 |hu3|  pala returned the Blue Flag
+19-01-21 23:38:25 (1) WildR4P`(1) killed (2) Predikt (SN) with Grenade
+19-01-21 23:38:25 (2) |hu3|  pala killed (1) WildR4P`(1) with Barrett M82A1
+19-01-21 23:38:28 (1) sk!T.Rattle killed (2) OXiD:// Slasher with Ruger 77
+19-01-21 23:38:30 (TEAM)[sk!T.Rattle] go top
+19-01-21 23:38:32 (2) |hu3|  pala killed (1) |hu3| CrasheR with Barrett M82A1
+19-01-21 23:38:32 (1) |hu3| CrasheR killed (2) |hu3|  pala with M79
+19-01-21 23:38:40 WildR4P`(1) captured the Blue Flag
+19-01-21 23:38:40 Time Left: 5 minutes
+19-01-21 23:38:42 (1) WildR4P`(1) killed (2) Predikt (SN) with Grenade
+19-01-21 23:38:43 (RADIO)[Predikt (SN)] Enemy flagger down!
+19-01-21 23:38:44 (RADIO)[Predikt (SN)] Enemy flagger middle!
+19-01-21 23:38:47 (2) |hu3|  pala killed (1) sk!T.Rattle with Barrett M82A1
+19-01-21 23:38:49 (2) |hu3|  pala killed (1) WildR4P`(1) with Grenade
+19-01-21 23:38:52 (1) sk!T.Rattle killed (2) OXiD:// Slasher with Combat Knife
+19-01-21 23:38:53 (2) Predikt (SN) killed (1) sk!T.Rattle with Combat Knife
+19-01-21 23:38:53 (1) sk!T.Rattle killed (2) Predikt (SN) with Grenade
+19-01-21 23:38:54 (TEAM)[WildR4P`(1)] omfg
+19-01-21 23:38:56 (TEAM)[WildR4P`(1)] im fuckin
+19-01-21 23:38:56 |hu3| CrasheR captured the Blue Flag
+19-01-21 23:38:58 |hu3| CrasheR scores for Alpha Team
+19-01-21 23:38:59 (2) |hu3|  pala killed (1) |hu3| CrasheR with Barrett M82A1
+19-01-21 23:39:00 (2) |hu3|  pala killed (1) WildR4P`(1) with Combat Knife
+19-01-21 23:39:01 |hu3|  pala captured the Red Flag
+19-01-21 23:39:01 (RADIO)[|hu3| CrasheR] Enemy flagger down!
+19-01-21 23:39:02 (TEAM)[|hu3| CrasheR] weak
+19-01-21 23:39:05 (TEAM)[WildR4P`(1)] im wasting my time
+19-01-21 23:39:10 |hu3| CrasheR captured the Blue Flag
+19-01-21 23:39:11 (2) |hu3|  pala killed (1) |hu3| CrasheR with Barrett M82A1
+19-01-21 23:39:12 [|hu3| CrasheR] carai
+19-01-21 23:39:12 |hu3|  pala scores for Bravo Team
+19-01-21 23:39:13 (2) Predikt (SN) killed (1) WildR4P`(1) with XM214 Minigun
+19-01-21 23:39:13 [|hu3| CrasheR] errei
+19-01-21 23:39:13 OXiD:// Slasher captured the Red Flag
+19-01-21 23:39:14 sk!T.Rattle captured the Blue Flag
+19-01-21 23:39:14 [|hu3| CrasheR] ahuseuASE
+19-01-21 23:39:15 (RADIO)[WildR4P`(1)] Enemy flagger middle!
+19-01-21 23:39:19 (TEAM)[sk!T.Rattle] ff down
+19-01-21 23:39:20 (1) |hu3| CrasheR killed (2) Predikt (SN) with M79
+19-01-21 23:39:21 (TEAM)[sk!T.Rattle] mid
+19-01-21 23:39:23 (1) WildR4P`(1) killed (2) |hu3|  pala with Steyr AUG
+19-01-21 23:39:31 (1) |hu3| CrasheR killed (2) Predikt (SN) with M79
+19-01-21 23:39:34 (RADIO)[Predikt (SN)] Enemy spotted middle!
+19-01-21 23:39:37 (2) OXiD:// Slasher killed (1) WildR4P`(1) with HK MP5
+19-01-21 23:39:40 Time Left: 4 minutes
+19-01-21 23:39:40 (2) |hu3|  pala killed (1) sk!T.Rattle with Barrett M82A1
+19-01-21 23:39:43 (1) WildR4P`(1) killed (2) |hu3|  pala with Combat Knife
+19-01-21 23:39:43 [|hu3|  pala] Yeah
+19-01-21 23:39:46 sk!T.Rattle captured the Blue Flag
+19-01-21 23:39:49 (1) WildR4P`(1) killed (2) Predikt (SN) with Steyr AUG
+19-01-21 23:39:54 (2) OXiD:// Slasher killed (1) WildR4P`(1) with HK MP5
+19-01-21 23:39:54 (2) |hu3|  pala killed (1) |hu3| CrasheR with Grenade
+19-01-21 23:39:56 [|hu3| CrasheR] ?
+19-01-21 23:40:00 (1) WildR4P`(1) killed (2) Predikt (SN) with Grenade
+19-01-21 23:40:03 (2) |hu3|  pala killed (1) |hu3| CrasheR with Barrett M82A1
+19-01-21 23:40:05 (2) OXiD:// Slasher killed (1) sk!T.Rattle with HK MP5
+19-01-21 23:40:06 (1) WildR4P`(1) killed (2) |hu3|  pala with Combat Knife
+19-01-21 23:40:07 [sk!T.Rattle] die
+19-01-21 23:40:07 |hu3| CrasheR captured the Blue Flag
+19-01-21 23:40:07 (2) |hu3|  pala killed (1) |hu3| CrasheR with Grenade
+19-01-21 23:40:10 sk!T.Rattle captured the Blue Flag
+19-01-21 23:40:12 (1) WildR4P`(1) killed (2) |hu3|  pala with Grenade
+19-01-21 23:40:13 |hu3| CrasheR captured the Blue Flag
+19-01-21 23:40:14 (2) OXiD:// Slasher killed (1) WildR4P`(1) with HK MP5
+19-01-21 23:40:19 (2) Predikt (SN) killed (1) sk!T.Rattle with XM214 Minigun
+19-01-21 23:40:20 (1) WildR4P`(1) killed (2) Predikt (SN) with Grenade
+19-01-21 23:40:23 (2) |hu3|  pala killed (1) WildR4P`(1) with Grenade
+19-01-21 23:40:23 (RADIO)[Predikt (SN)] Enemy flagger up!
+19-01-21 23:40:25 (2) |hu3|  pala killed (1) |hu3| CrasheR with Barrett M82A1
+19-01-21 23:40:25 (1) |hu3| CrasheR killed (2) |hu3|  pala with M79
+19-01-21 23:40:28 sk!T.Rattle captured the Blue Flag
+19-01-21 23:40:33 (2) Predikt (SN) killed (1) |hu3| CrasheR with XM214 Minigun
+19-01-21 23:40:34 (1) sk!T.Rattle killed (2) Predikt (SN) with Ruger 77
+19-01-21 23:40:35 (1) WildR4P`(1) killed (2) |hu3|  pala with Steyr AUG
+19-01-21 23:40:40 Time Left: 3 minutes
+19-01-21 23:40:42 (1) |hu3| CrasheR killed (2) Predikt (SN) with M79
+19-01-21 23:40:43 (2) |hu3|  pala killed (1) sk!T.Rattle with Barrett M82A1
+19-01-21 23:40:44 (RADIO)[Predikt (SN)] Enemy spotted middle!
+19-01-21 23:40:44 (RADIO)[Predikt (SN)] Enemy spotted middle!
+19-01-21 23:40:47 (2) Predikt (SN) killed (1) |hu3| CrasheR with XM214 Minigun
+19-01-21 23:40:49 (RADIO)[|hu3| CrasheR] Enemy spotted up!
+19-01-21 23:40:49 sk!T.Rattle captured the Blue Flag
+19-01-21 23:40:49 (RADIO)[|hu3| CrasheR] Enemy spotted up!
+19-01-21 23:40:49 (1) WildR4P`(1) killed (2) OXiD:// Slasher with Grenade
+19-01-21 23:40:51 WildR4P`(1) returned the Red Flag
+19-01-21 23:40:53 (2) |hu3|  pala killed (1) WildR4P`(1) with Barrett M82A1
+19-01-21 23:40:54 (2) Predikt (SN) killed (1) |hu3| CrasheR with XM214 Minigun
+19-01-21 23:40:58 sk!T.Rattle scores for Alpha Team
+19-01-21 23:41:00 |hu3|  pala captured the Red Flag
+19-01-21 23:41:00 (1) WildR4P`(1) killed (2) |hu3|  pala with Steyr AUG
+19-01-21 23:41:01 OXiD:// Slasher captured the Red Flag
+19-01-21 23:41:02 (1) sk!T.Rattle killed (2) OXiD:// Slasher with Grenade
+19-01-21 23:41:02 (2) OXiD:// Slasher killed (1) sk!T.Rattle with HK MP5
+19-01-21 23:41:03 |hu3| CrasheR returned the Red Flag
+19-01-21 23:41:11 Predikt (SN) captured the Red Flag
+19-01-21 23:41:11 (2) Predikt (SN) killed (1) |hu3| CrasheR with XM214 Minigun
+19-01-21 23:41:12 (RADIO)[|hu3| CrasheR] Enemy flagger down!
+19-01-21 23:41:14 WildR4P`(1) captured the Blue Flag
+19-01-21 23:41:14 (RADIO)[|hu3| CrasheR] Enemy flagger down!
+19-01-21 23:41:14 (2) OXiD:// Slasher killed (1) WildR4P`(1) with Grenade
+19-01-21 23:41:15 sk!T.Rattle captured the Blue Flag
+19-01-21 23:41:16 (RADIO)[OXiD:// Slasher] Friendly flagger down!
+19-01-21 23:41:18 (2) Predikt (SN) killed (1) sk!T.Rattle with Grenade
+19-01-21 23:41:18 Predikt (SN) returned the Blue Flag
+19-01-21 23:41:21 (1) |hu3| CrasheR killed (2) OXiD:// Slasher with Grenade
+19-01-21 23:41:22 |hu3| CrasheR captured the Blue Flag
+19-01-21 23:41:22 (1) |hu3| CrasheR killed (2) Predikt (SN) with Combat Knife
+19-01-21 23:41:22 (1) sk!T.Rattle killed (2) |hu3|  pala with Ruger 77
+19-01-21 23:41:23 |hu3| CrasheR returned the Red Flag
+19-01-21 23:41:24 (TEAM)[Predikt (SN)] man
+19-01-21 23:41:26 (2) OXiD:// Slasher killed (1) |hu3| CrasheR with Grenade
+19-01-21 23:41:27 (1) WildR4P`(1) killed (2) OXiD:// Slasher with Steyr AUG
+19-01-21 23:41:28 (RADIO)[|hu3| CrasheR] Friendly flagger down!
+19-01-21 23:41:29 (RADIO)[|hu3| CrasheR] Friendly flagger middle!
+19-01-21 23:41:29 WildR4P`(1) captured the Blue Flag
+19-01-21 23:41:32 (2) |hu3|  pala killed (1) WildR4P`(1) with Barrett M82A1
+19-01-21 23:41:33 (RADIO)[WildR4P`(1)] Friendly flagger middle!
+19-01-21 23:41:34 (RADIO)[WildR4P`(1)] Friendly flagger middle!
+19-01-21 23:41:34 (1) sk!T.Rattle killed (2) OXiD:// Slasher with Ruger 77
+19-01-21 23:41:34 (RADIO)[WildR4P`(1)] Friendly flagger middle!
+19-01-21 23:41:34 (2) Predikt (SN) killed (1) |hu3| CrasheR with XM214 Minigun
+19-01-21 23:41:34 |hu3|  pala captured the Red Flag
+19-01-21 23:41:38 (1) sk!T.Rattle killed (2) Predikt (SN) with Grenade
+19-01-21 23:41:38 sk!T.Rattle captured the Blue Flag
+19-01-21 23:41:40 Time Left: 2 minutes
+19-01-21 23:41:45 (2) |hu3|  pala killed (1) |hu3| CrasheR with Grenade
+19-01-21 23:41:46 (1) sk!T.Rattle killed (2) OXiD:// Slasher with Ruger 77
+19-01-21 23:41:53 (2) OXiD:// Slasher killed (1) WildR4P`(1) with HK MP5
+19-01-21 23:41:54 Predikt (SN) returned the Blue Flag
+19-01-21 23:41:55 (RADIO)[Predikt (SN)] Enemy spotted middle!
+19-01-21 23:41:57 sk!T.Rattle captured the Blue Flag
+19-01-21 23:41:58 (2) |hu3|  pala killed (1) sk!T.Rattle with Barrett M82A1
+19-01-21 23:41:58 (1) |hu3| CrasheR killed (2) OXiD:// Slasher with Grenade
+19-01-21 23:42:00 |hu3|  pala returned the Blue Flag
+19-01-21 23:42:03 |hu3| CrasheR captured the Blue Flag
+19-01-21 23:42:06 (1) WildR4P`(1) killed (2) Predikt (SN) with Grenade
+19-01-21 23:42:07 (1) sk!T.Rattle killed (2) OXiD:// Slasher with Ruger 77
+19-01-21 23:42:10 (2) |hu3|  pala killed (1) sk!T.Rattle with M79
+19-01-21 23:42:11 (TEAM)[sk!T.Rattle] mid
+19-01-21 23:42:13 (TEAM)[sk!T.Rattle] wealk
+19-01-21 23:42:14 (1) WildR4P`(1) killed (2) Predikt (SN) with Steyr AUG
+19-01-21 23:42:14 (2) OXiD:// Slasher killed (1) WildR4P`(1) with HK MP5
+19-01-21 23:42:15 (RADIO)[WildR4P`(1)] Enemy spotted up!
+19-01-21 23:42:20 (2) OXiD:// Slasher killed (1) WildR4P`(1) with HK MP5
+19-01-21 23:42:21 (2) |hu3|  pala killed (1) sk!T.Rattle with Barrett M82A1
+19-01-21 23:42:23 (TEAM)[sk!T.Rattle] loow
+19-01-21 23:42:23 (TEAM)[sk!T.Rattle] mid
+19-01-21 23:42:24 (1) |hu3| CrasheR killed (2) |hu3|  pala with Grenade
+19-01-21 23:42:24 (2) |hu3|  pala killed (1) |hu3| CrasheR with Grenade
+19-01-21 23:42:25 (2) OXiD:// Slasher killed (1) sk!T.Rattle with Combat Knife
+19-01-21 23:42:26 (RADIO)[|hu3| CrasheR] Friendly flagger middle!
+19-01-21 23:42:27 (2) Predikt (SN) killed (1) WildR4P`(1) with XM214 Minigun
+19-01-21 23:42:27 (1) WildR4P`(1) killed (2) Predikt (SN) with Steyr AUG
+19-01-21 23:42:27 (TEAM)[|hu3| CrasheR] loose
+19-01-21 23:42:29 (2) OXiD:// Slasher killed (1) |hu3| CrasheR with Grenade
+19-01-21 23:42:29 |hu3|  pala captured the Red Flag
+19-01-21 23:42:31 OXiD:// Slasher returned the Blue Flag
+19-01-21 23:42:34 |hu3|  pala scores for Bravo Team
+19-01-21 23:42:35 (TEAM)[WildR4P`(1)] ...
+19-01-21 23:42:36 (2) Predikt (SN) killed (1) |hu3| CrasheR with Grenade
+19-01-21 23:42:36 [WildR4P`(1)] omfg
+19-01-21 23:42:38 sk!T.Rattle captured the Blue Flag
+19-01-21 23:42:38 (2) Predikt (SN) killed (1) WildR4P`(1) with Combat Knife
+19-01-21 23:42:40 Predikt (SN) captured the Red Flag
+19-01-21 23:42:40 Time Left: 1 minutes
+19-01-21 23:42:40 (2) Predikt (SN) killed (1) |hu3| CrasheR with XM214 Minigun
+19-01-21 23:42:44 (2) |hu3|  pala killed (1) WildR4P`(1) with Barrett M82A1
+19-01-21 23:42:44 (RADIO)[OXiD:// Slasher] Friendly flagger down!
+19-01-21 23:42:44 (RADIO)[|hu3| CrasheR] Enemy flagger down!
+19-01-21 23:42:46 (1) sk!T.Rattle killed (2) Predikt (SN) with Ruger 77
+19-01-21 23:42:47 (TEAM)[Predikt (SN)] ???
+19-01-21 23:42:47 OXiD:// Slasher captured the Red Flag
+19-01-21 23:42:48 (TEAM)[Predikt (SN)] FRIENDLY???
+19-01-21 23:42:48 (2) OXiD:// Slasher killed (1) sk!T.Rattle with HK MP5
+19-01-21 23:42:49 (1) sk!T.Rattle killed (2) OXiD:// Slasher with Ruger 77
+19-01-21 23:42:49 (2) |hu3|  pala killed (1) WildR4P`(1) with Barrett M82A1
+19-01-21 23:42:50 (RADIO)[OXiD:// Slasher] Friendly flagger down!
+19-01-21 23:42:51 (TEAM)[sk!T.Rattle] losee
+19-01-21 23:42:52 (RADIO)[OXiD:// Slasher] Friendly flagger down!
+19-01-21 23:42:54 [WildR4P`(1)] this shit
+19-01-21 23:42:55 (2) |hu3|  pala killed (1) WildR4P`(1) with Barrett M82A1
+19-01-21 23:42:55 (2) Predikt (SN) killed (1) |hu3| CrasheR with XM214 Minigun
+19-01-21 23:42:57 [WildR4P`(1)] suck
+19-01-21 23:43:00 sk!T.Rattle captured the Blue Flag
+19-01-21 23:43:01 (2) |hu3|  pala killed (1) WildR4P`(1) with Barrett M82A1
+19-01-21 23:43:01 sk!T.Rattle returned the Red Flag
+19-01-21 23:43:01 OXiD:// Slasher captured the Red Flag
+19-01-21 23:43:02 (1) |hu3| CrasheR killed (2) Predikt (SN) with Combat Knife
+19-01-21 23:43:03 (1) sk!T.Rattle killed (2) OXiD:// Slasher with Grenade
+19-01-21 23:43:04 sk!T.Rattle returned the Red Flag
+19-01-21 23:43:05 (RADIO)[OXiD:// Slasher] Friendly flagger down!
+19-01-21 23:43:05 |hu3|  pala captured the Red Flag
+19-01-21 23:43:06 (1) sk!T.Rattle killed (2) |hu3|  pala with Ruger 77
+19-01-21 23:43:06 sk!T.Rattle returned the Red Flag
+19-01-21 23:43:07 sk!T.Rattle scores for Alpha Team
+19-01-21 23:43:11 (2) Predikt (SN) killed (1) sk!T.Rattle with XM214 Minigun
+19-01-21 23:43:13 (2) Predikt (SN) killed (1) |hu3| CrasheR with XM214 Minigun
+19-01-21 23:43:13 (1) |hu3| CrasheR killed (2) Predikt (SN) with M79
+19-01-21 23:43:14 (RADIO)[|hu3| CrasheR] Enemy spotted middle!
+19-01-21 23:43:15 [sk!T.Rattle] predikt
+19-01-21 23:43:17 [Predikt (SN)] ?
+19-01-21 23:43:17 [|hu3|  pala] Die!
+19-01-21 23:43:17 OXiD:// Slasher captured the Red Flag
+19-01-21 23:43:20 (2) Predikt (SN) killed (1) WildR4P`(1) with XM214 Minigun
+19-01-21 23:43:25 sk!T.Rattle captured the Blue Flag
+19-01-21 23:43:26 (2) |hu3|  pala killed (1) |hu3| CrasheR with Combat Knife
+19-01-21 23:43:26 [WildR4P`(1)] thats all
+19-01-21 23:43:28 [WildR4P`(1)] bye
+19-01-21 23:43:29 (RADIO)[|hu3| CrasheR] Friendly flagger middle!
+19-01-21 23:43:29 WildR4P`(1) has left alpha team.
+19-01-21 23:43:30 (2) OXiD:// Slasher killed (1) sk!T.Rattle with HK MP5
+19-01-21 23:43:32 Predikt (SN) returned the Blue Flag
+19-01-21 23:43:32 OXiD:// Slasher scores for Bravo Team
+19-01-21 23:43:33 (2) |hu3|  pala killed (1) |hu3| CrasheR with Barrett M82A1
+19-01-21 23:43:36 (1) sk!T.Rattle killed (2) |hu3|  pala with Combat Knife
+19-01-21 23:43:39 [|hu3|  pala] Yeah
+19-01-21 23:43:40 Next map: Lobby
+19-01-21 23:43:41 [|hu3|  pala] gg
+19-01-21 23:43:41 [sk!T.Rattle] gg
+19-01-21 23:43:42 |hu3| CrasheR has left alpha team.
+19-01-21 23:43:42 sk!T.Rattle has left alpha team.
+19-01-21 23:43:43 OXiD:// Slasher has left bravo team.
+19-01-21 23:43:43 |hu3|  pala has left bravo team.
+19-01-21 23:43:43 [Predikt (SN)] gg
+19-01-21 23:43:44 Predikt (SN) has left bravo team.
+19-01-21 23:43:45 Lothic - Gothic Lobby Room
+19-01-21 23:48:45 Time Left: 5 minutes
+19-01-21 23:49:45 Time Left: 4 minutes
+19-01-21 23:50:45 Time Left: 3 minutes
+19-01-21 23:51:45 Time Left: 2 minutes
+19-01-21 23:52:45 Time Left: 1 minutes
+19-01-21 23:53:45 Next map: Lobby
+19-01-21 23:53:51 Lothic - Gothic Lobby Room
+19-01-21 23:58:51 Time Left: 5 minutes
+19-01-21 23:59:51 Time Left: 4 minutes
+19-01-22 00:00:51 Time Left: 3 minutes
+19-01-22 00:01:51 Time Left: 2 minutes
+19-01-22 00:02:51 Time Left: 1 minutes
+19-01-22 00:03:51 Next map: Lobby
+19-01-22 00:03:56 Lothic - Gothic Lobby Room
+19-01-22 00:08:56 Time Left: 5 minutes
+19-01-22 00:09:56 Time Left: 4 minutes
+19-01-22 00:10:56 Time Left: 3 minutes
+19-01-22 00:11:56 Time Left: 2 minutes
+19-01-22 00:12:56 Time Left: 1 minutes
+19-01-22 00:13:56 Next map: Lobby
+19-01-22 00:14:01 Lothic - Gothic Lobby Room
+19-01-22 00:19:01 Time Left: 5 minutes
+19-01-22 00:20:01 Time Left: 4 minutes
+19-01-22 00:21:01 Time Left: 3 minutes
+19-01-22 00:22:01 Time Left: 2 minutes
+19-01-22 00:23:01 Time Left: 1 minutes
+19-01-22 00:24:01 Next map: Lobby
+19-01-22 00:24:07 Lothic - Gothic Lobby Room
+19-01-22 00:29:07 Time Left: 5 minutes
+19-01-22 00:30:07 Time Left: 4 minutes
+19-01-22 00:31:07 Time Left: 3 minutes
+19-01-22 00:32:07 Time Left: 2 minutes
+19-01-22 00:33:07 Time Left: 1 minutes
+19-01-22 00:34:07 Next map: Lobby
+19-01-22 00:34:12 Lothic - Gothic Lobby Room
+19-01-22 00:39:12 Time Left: 5 minutes
+19-01-22 00:40:12 Time Left: 4 minutes
+19-01-22 00:41:12 Time Left: 3 minutes
+19-01-22 00:42:12 Time Left: 2 minutes
+19-01-22 00:43:12 Time Left: 1 minutes
+19-01-22 00:44:12 Next map: Lobby
+19-01-22 00:44:17 Lothic - Gothic Lobby Room
+19-01-22 00:49:17 Time Left: 5 minutes
+19-01-22 00:50:17 Time Left: 4 minutes
+19-01-22 00:51:17 Time Left: 3 minutes
+19-01-22 00:52:17 Time Left: 2 minutes
+19-01-22 00:53:17 Time Left: 1 minutes
+19-01-22 00:54:04 /password 4944 (206.81.24.116)
+19-01-22 00:54:04 Server password changed to 4944
+19-01-22 00:54:04 /say Server password was changed... (206.81.24.116)
+19-01-22 00:54:06 /loadcon soldat.ini (206.81.24.116)
+19-01-22 00:54:06 Config reloaded soldat.ini
+19-01-22 00:54:06 Lothic - Gothic Lobby Room
+19-01-22 00:54:06 Loaded weapons mod "Default mod v1.8"
+19-01-22 00:54:06 Port already open
+19-01-22 00:54:06  Connection for file server started. Port: 23012
+19-01-22 00:54:06 /loadwep weapons (206.81.24.116)
+19-01-22 00:54:06 Loaded weapons mod "Default mod v1.8"
+19-01-22 00:54:33 85.23.116.203:23073|73FB3ADE506 requesting game...
+19-01-22 00:54:33 Predikt (SN) joining game (85.23.116.203:23073) HWID:73FB3ADE506
+19-01-22 00:54:33 Predikt (SN) has joined as spectator.
+19-01-22 00:54:35 189.25.151.45:23073|494E5AAABF1 requesting game...
+19-01-22 00:54:37 [Predikt (SN)] Ginfo
+19-01-22 00:54:37 Factory joining game (189.25.151.45:23073) HWID:494E5AAABF1
+19-01-22 00:54:37 Factory has joined bravo team.
+19-01-22 00:54:38 [Predikt (SN)] !ginfo
+19-01-22 00:54:38 /say Gather.SA (elapsed time 0:00:32) (206.81.24.116)
+19-01-22 00:54:38 /say Alpha: predikt - S.d.m - Factory (206.81.24.116)
+19-01-22 00:54:38 /say Bravo: CrasheR - Mago - Rattle (206.81.24.116)
+19-01-22 00:54:38 /say Tiebreaker: ctf_Hormone (206.81.24.116)
+19-01-22 00:54:39 [Factory] !info
+19-01-22 00:54:39 /say Gather.SA (elapsed time 0:00:33) (206.81.24.116)
+19-01-22 00:54:39 /say Alpha: predikt - S.d.m - Factory (206.81.24.116)
+19-01-22 00:54:39 /say Bravo: CrasheR - Mago - Rattle (206.81.24.116)
+19-01-22 00:54:39 /say Tiebreaker: ctf_Hormone (206.81.24.116)
+19-01-22 00:54:41 Predikt (SN) has joined alpha team.
+19-01-22 00:54:43 [Factory] !a
+19-01-22 00:54:43 Factory has joined alpha team.
+19-01-22 00:54:48 187.182.185.47:23073|45F76B7EB7C requesting game...
+19-01-22 00:54:57 :|dp|: Saitama joining game (187.182.185.47:23073) HWID:45F76B7EB7C
+19-01-22 00:54:57 :|dp|: Saitama has joined bravo team.
+19-01-22 00:55:03 179.211.163.211:23073|7C707F3C952 requesting game...
+19-01-22 00:55:05 UnD @ Mago joining game (179.211.163.211:23073) HWID:7C707F3C952
+19-01-22 00:55:05 UnD @ Mago has joined bravo team.
+19-01-22 00:55:09 [UnD @ Mago] !info
+19-01-22 00:55:09 /say Gather.SA (elapsed time 0:01:03) (206.81.24.116)
+19-01-22 00:55:09 /say Alpha: predikt - S.d.m - Factory (206.81.24.116)
+19-01-22 00:55:09 /say Bravo: CrasheR - Mago - Rattle (206.81.24.116)
+19-01-22 00:55:09 /say Tiebreaker: ctf_Hormone (206.81.24.116)
+19-01-22 00:55:34 [Predikt (SN)] Help!
+19-01-22 00:55:41 179.176.62.17:23073|42F49D3EBBB requesting game...
+19-01-22 00:55:44 |hu3| CrasheR joining game (179.176.62.17:23073) HWID:42F49D3EBBB
+19-01-22 00:55:44 |hu3| CrasheR has joined alpha team.
+19-01-22 00:55:46 [|hu3| CrasheR] !info
+19-01-22 00:55:46 /say Gather.SA (elapsed time 0:01:40) (206.81.24.116)
+19-01-22 00:55:46 /say Alpha: predikt - S.d.m - Factory (206.81.24.116)
+19-01-22 00:55:46 /say Bravo: CrasheR - Mago - Rattle (206.81.24.116)
+19-01-22 00:55:46 /say Tiebreaker: ctf_Hormone (206.81.24.116)
+19-01-22 00:55:51 [|hu3| CrasheR] !b
+19-01-22 00:55:51 |hu3| CrasheR has joined bravo team.
+19-01-22 00:56:06 (2) :|dp|: Saitama killed (1) Predikt (SN) with Grenade
+19-01-22 00:56:25 (1) Factory killed (2) UnD @ Mago with Grenade
+19-01-22 00:56:26 [UnD @ Mago] Yeah
+19-01-22 00:56:36 (2) :|dp|: Saitama killed (1) Predikt (SN) with M79
+19-01-22 00:56:36 (2) :|dp|: Saitama killed (1) Factory with M79
+19-01-22 00:56:38 [Predikt (SN)] Hurraaaa!!!
+19-01-22 00:56:39 [:|dp|: Saitama] YEAH
+19-01-22 00:56:39 169.57.213.160:23073|2247C0D9684 requesting game...
+19-01-22 00:56:40 sk!T.Rattle joining game (169.57.213.160:23073) HWID:2247C0D9684
+19-01-22 00:56:40 sk!T.Rattle has joined alpha team.
+19-01-22 00:56:42 [sk!T.Rattle] sry
+19-01-22 00:56:50 (1) Factory killed (2) :|dp|: Saitama with Grenade
+19-01-22 00:56:52 (1) Factory killed (2) UnD @ Mago with XM214 Minigun
+19-01-22 00:56:57 [sk!T.Rattle] !map ctf_Division
+19-01-22 00:57:00 [Predikt (SN)] Hurraaaa!!!
+19-01-22 00:57:02 Division by Boxo, KC, viral
+19-01-22 00:57:03 [Predikt (SN)] teams ok?
+19-01-22 00:57:06 (RADIO)[|hu3| CrasheR] Enemy spotted down!
+19-01-22 00:57:10 (1) Predikt (SN) killed (2) UnD @ Mago with Grenade
+19-01-22 00:57:15 (1) sk!T.Rattle killed (2) |hu3| CrasheR with Combat Knife
+19-01-22 00:57:15 Predikt (SN) captured the Blue Flag
+19-01-22 00:57:16 [Factory] !r
+19-01-22 00:57:16 Restarting...
+19-01-22 00:57:17 [Factory] g
+19-01-22 00:57:19 [sk!T.Rattle] gl hf
+19-01-22 00:57:21 Division by Boxo, KC, viral
+19-01-22 00:57:26 [:|dp|: Saitama] AFK
+19-01-22 00:57:32 (2) UnD @ Mago killed (1) Predikt (SN) with Barrett M82A1
+19-01-22 00:57:34 (1) Factory killed (2) :|dp|: Saitama with Ak-74
+19-01-22 00:57:34 (1) sk!T.Rattle killed (2) |hu3| CrasheR with Ruger 77
+19-01-22 00:57:37 sk!T.Rattle captured the Blue Flag
+19-01-22 00:57:40 (2) UnD @ Mago killed (1) Predikt (SN) with Barrett M82A1
+19-01-22 00:57:42 UnD @ Mago captured the Red Flag
+19-01-22 00:57:43 (1) sk!T.Rattle killed (2) UnD @ Mago with Ruger 77
+19-01-22 00:57:45 sk!T.Rattle returned the Red Flag
+19-01-22 00:57:46 [Factory] !r
+19-01-22 00:57:46 Restarting...
+19-01-22 00:57:47 [Factory] g
+19-01-22 00:57:48 [Predikt (SN)] Hurraaaa!!!
+19-01-22 00:57:48 [sk!T.Rattle] gk gf
+19-01-22 00:57:50 [Predikt (SN)] gl hf
+19-01-22 00:57:52 Division by Boxo, KC, viral
+19-01-22 00:57:59 (2) |hu3| CrasheR killed (1) Predikt (SN) with Combat Knife
+19-01-22 00:58:00 [Predikt (SN)] :O
+19-01-22 00:58:02 (1) Factory killed (2) UnD @ Mago with Steyr AUG
+19-01-22 00:58:02 (RADIO)[Predikt (SN)] Enemy spotted down!
+19-01-22 00:58:03 (1) Factory killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 00:58:07 sk!T.Rattle captured the Blue Flag
+19-01-22 00:58:08 (1) Predikt (SN) killed (2) |hu3| CrasheR with XM214 Minigun
+19-01-22 00:58:15 (1) Predikt (SN) killed (2) UnD @ Mago with XM214 Minigun
+19-01-22 00:58:16 sk!T.Rattle scores for Alpha Team
+19-01-22 00:58:17 (1) Factory killed (2) |hu3| CrasheR with Steyr AUG
+19-01-22 00:58:17 (RADIO)[|hu3| CrasheR] Enemy spotted down!
+19-01-22 00:58:22 Factory captured the Blue Flag
+19-01-22 00:58:23 (2) |hu3| CrasheR killed (1) Predikt (SN) with Grenade
+19-01-22 00:58:23 :|dp|: Saitama captured the Red Flag
+19-01-22 00:58:24 (1) Factory killed (2) UnD @ Mago with Steyr AUG
+19-01-22 00:58:24 (2) UnD @ Mago killed (1) Factory with Combat Knife
+19-01-22 00:58:24 [UnD @ Mago] Yeah
+19-01-22 00:58:25 |hu3| CrasheR returned the Blue Flag
+19-01-22 00:58:26 (RADIO)[Predikt (SN)] Friendly flagger down!
+19-01-22 00:58:27 (2) :|dp|: Saitama killed (1) sk!T.Rattle with LAW
+19-01-22 00:58:28 (TEAM)[sk!T.Rattle] tpo
+19-01-22 00:58:33 (1) sk!T.Rattle killed (2) |hu3| CrasheR with Grenade
+19-01-22 00:58:35 (2) UnD @ Mago killed (1) Factory with Steyr AUG
+19-01-22 00:58:35 :|dp|: Saitama scores for Bravo Team
+19-01-22 00:58:40 (2) |hu3| CrasheR killed (1) sk!T.Rattle with Barrett M82A1
+19-01-22 00:58:41 (2) UnD @ Mago killed (1) Predikt (SN) with Grenade
+19-01-22 00:58:46 (1) Factory killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 00:58:49 (2) |hu3| CrasheR killed (1) Predikt (SN) with Grenade
+19-01-22 00:58:51 (1) Factory killed (2) UnD @ Mago with Steyr AUG
+19-01-22 00:58:55 (1) Factory killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 00:58:55 (2) :|dp|: Saitama killed (1) Factory with Barrett M82A1
+19-01-22 00:58:57 |hu3| CrasheR captured the Red Flag
+19-01-22 00:58:58 (1) Predikt (SN) killed (2) |hu3| CrasheR with XM214 Minigun
+19-01-22 00:59:00 (1) sk!T.Rattle killed (2) UnD @ Mago with Ruger 77
+19-01-22 00:59:00 sk!T.Rattle captured the Blue Flag
+19-01-22 00:59:01 Predikt (SN) returned the Red Flag
+19-01-22 00:59:07 (1) Factory killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 00:59:09 (1) Predikt (SN) killed (2) |hu3| CrasheR with XM214 Minigun
+19-01-22 00:59:09 sk!T.Rattle scores for Alpha Team
+19-01-22 00:59:11 Factory captured the Blue Flag
+19-01-22 00:59:12 (1) Predikt (SN) killed (2) UnD @ Mago with XM214 Minigun
+19-01-22 00:59:16 (1) Factory killed (2) :|dp|: Saitama with LAW
+19-01-22 00:59:16 (2) |hu3| CrasheR killed (1) Factory with Barrett M82A1
+19-01-22 00:59:19 (2) UnD @ Mago killed (1) Predikt (SN) with Barrett M82A1
+19-01-22 00:59:20 [Predikt (SN)] Hurraaaa!!!
+19-01-22 00:59:20 |hu3| CrasheR returned the Blue Flag
+19-01-22 00:59:21 (2) UnD @ Mago killed (1) sk!T.Rattle with Combat Knife
+19-01-22 00:59:23 [sk!T.Rattle] ns
+19-01-22 00:59:24 (TEAM)[sk!T.Rattle] loo
+19-01-22 00:59:28 (1) Factory killed (2) |hu3| CrasheR with Steyr AUG
+19-01-22 00:59:31 (2) :|dp|: Saitama killed (1) Factory with Barrett M82A1
+19-01-22 00:59:32 (1) sk!T.Rattle killed (2) :|dp|: Saitama with Ruger 77
+19-01-22 00:59:32 (RADIO)[|hu3| CrasheR] Enemy spotted down!
+19-01-22 00:59:33 (1) sk!T.Rattle killed (2) UnD @ Mago with Grenade
+19-01-22 00:59:34 Predikt (SN) captured the Blue Flag
+19-01-22 00:59:34 [UnD @ Mago] No!
+19-01-22 00:59:39 sk!T.Rattle captured the Blue Flag
+19-01-22 00:59:42 (RADIO)[Predikt (SN)] Enemy spotted down!
+19-01-22 00:59:44 (2) :|dp|: Saitama killed (1) Predikt (SN) with Barrett M82A1
+19-01-22 00:59:45 sk!T.Rattle scores for Alpha Team
+19-01-22 00:59:46 (1) sk!T.Rattle killed (2) UnD @ Mago with Combat Knife
+19-01-22 00:59:47 [UnD @ Mago] Die!
+19-01-22 00:59:48 (1) Factory killed (2) |hu3| CrasheR with Grenade
+19-01-22 00:59:55 (1) sk!T.Rattle killed (2) :|dp|: Saitama with Ruger 77
+19-01-22 00:59:56 (2) |hu3| CrasheR killed (1) Predikt (SN) with Barrett M82A1
+19-01-22 00:59:57 (1) Factory killed (2) |hu3| CrasheR with Combat Knife
+19-01-22 01:00:02 (2) :|dp|: Saitama killed (1) Factory with Barrett M82A1
+19-01-22 01:00:02 UnD @ Mago captured the Red Flag
+19-01-22 01:00:02 (1) Predikt (SN) killed (2) UnD @ Mago with XM214 Minigun
+19-01-22 01:00:04 (2) |hu3| CrasheR killed (1) sk!T.Rattle with Barrett M82A1
+19-01-22 01:00:10 (2) |hu3| CrasheR killed (1) Predikt (SN) with Barrett M82A1
+19-01-22 01:00:12 (2) :|dp|: Saitama killed (1) sk!T.Rattle with Barrett M82A1
+19-01-22 01:00:14 (2) :|dp|: Saitama killed (1) Factory with LAW
+19-01-22 01:00:14 (TEAM)[sk!T.Rattle] mid
+19-01-22 01:00:17 (1) Predikt (SN) killed (2) |hu3| CrasheR with Combat Knife
+19-01-22 01:00:17 (2) |hu3| CrasheR killed (1) Predikt (SN) with Barrett M82A1
+19-01-22 01:00:17 (1) sk!T.Rattle killed (2) :|dp|: Saitama with Combat Knife
+19-01-22 01:00:19 [Predikt (SN)] Yes, Sir!
+19-01-22 01:00:19 (TEAM)[|hu3| CrasheR] magao vai mid
+19-01-22 01:00:21 (2) UnD @ Mago killed (1) Factory with Combat Knife
+19-01-22 01:00:21 (TEAM)[|hu3| CrasheR] eu tyo baxioa
+19-01-22 01:00:22 (1) sk!T.Rattle killed (2) UnD @ Mago with Ruger 77
+19-01-22 01:00:25 (2) :|dp|: Saitama killed (1) sk!T.Rattle with Barrett M82A1
+19-01-22 01:00:26 (TEAM)[sk!T.Rattle] mid
+19-01-22 01:00:28 (2) |hu3| CrasheR killed (1) Predikt (SN) with Combat Knife
+19-01-22 01:00:30 (RADIO)[Predikt (SN)] Enemy spotted down!
+19-01-22 01:00:31 (TEAM)[Predikt (SN)] weak
+19-01-22 01:00:31 (1) Factory killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 01:00:31 (2) :|dp|: Saitama killed (1) Factory with LAW
+19-01-22 01:00:32 (1) sk!T.Rattle killed (2) |hu3| CrasheR with Ruger 77
+19-01-22 01:00:37 sk!T.Rattle returned the Red Flag
+19-01-22 01:00:38 (1) Factory killed (2) UnD @ Mago with Steyr AUG
+19-01-22 01:00:42 (1) sk!T.Rattle killed (2) :|dp|: Saitama with Grenade
+19-01-22 01:00:43 (2) |hu3| CrasheR killed (1) Predikt (SN) with Barrett M82A1
+19-01-22 01:00:44 [Predikt (SN)] Son of a bitch!
+19-01-22 01:00:46 (2) UnD @ Mago killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 01:00:47 [|hu3| CrasheR] Yes, Sir!
+19-01-22 01:00:49 Factory captured the Blue Flag
+19-01-22 01:00:52 (1) Predikt (SN) killed (2) |hu3| CrasheR with XM214 Minigun
+19-01-22 01:00:52 (1) Factory killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 01:00:52 (2) |hu3| CrasheR killed (1) sk!T.Rattle with Combat Knife
+19-01-22 01:00:53 (2) UnD @ Mago killed (1) Factory with Steyr AUG
+19-01-22 01:00:54 [Predikt (SN)] Die!
+19-01-22 01:00:54 [sk!T.Rattle] cmon
+19-01-22 01:00:54 [Predikt (SN)] Anytime...
+19-01-22 01:00:55 UnD @ Mago returned the Blue Flag
+19-01-22 01:01:00 (2) |hu3| CrasheR killed (1) Predikt (SN) with Grenade
+19-01-22 01:01:01 (1) Factory killed (2) UnD @ Mago with LAW
+19-01-22 01:01:02 [|hu3| CrasheR] Die!
+19-01-22 01:01:02 [Predikt (SN)] :I
+19-01-22 01:01:03 (2) :|dp|: Saitama killed (1) sk!T.Rattle with Barrett M82A1
+19-01-22 01:01:06 [sk!T.Rattle] hate
+19-01-22 01:01:07 (2) |hu3| CrasheR killed (1) Predikt (SN) with Barrett M82A1
+19-01-22 01:01:07 (1) Predikt (SN) killed (2) |hu3| CrasheR with Combat Knife
+19-01-22 01:01:08 [Predikt (SN)] Die!
+19-01-22 01:01:09 (1) sk!T.Rattle killed (2) :|dp|: Saitama with Ruger 77
+19-01-22 01:01:15 (1) Factory killed (2) UnD @ Mago with Steyr AUG
+19-01-22 01:01:17 (2) |hu3| CrasheR killed (1) sk!T.Rattle with Barrett M82A1
+19-01-22 01:01:18 (2) :|dp|: Saitama killed (1) Factory with Barrett M82A1
+19-01-22 01:01:22 (2) |hu3| CrasheR killed (1) Predikt (SN) with Grenade
+19-01-22 01:01:23 (1) sk!T.Rattle killed (2) :|dp|: Saitama with Ruger 77
+19-01-22 01:01:23 [Predikt (SN)] noo
+19-01-22 01:01:25 [Predikt (SN)] b
+19-01-22 01:01:28 (TEAM)[sk!T.Rattle] up
+19-01-22 01:01:29 (2) |hu3| CrasheR killed (1) Predikt (SN) with Barrett M82A1
+19-01-22 01:01:29 (1) Predikt (SN) killed (2) |hu3| CrasheR with Grenade
+19-01-22 01:01:30 [Predikt (SN)] Die!
+19-01-22 01:01:32 (2) UnD @ Mago killed (1) Factory with Steyr AUG
+19-01-22 01:01:35 (1) sk!T.Rattle killed (2) UnD @ Mago with Ruger 77
+19-01-22 01:01:36 (2) :|dp|: Saitama killed (1) sk!T.Rattle with Barrett M82A1
+19-01-22 01:01:39 (1) Factory killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 01:01:40 (2) |hu3| CrasheR killed (1) Predikt (SN) with Barrett M82A1
+19-01-22 01:01:43 [Predikt (SN)] I beg
+19-01-22 01:01:46 (1) Factory killed (2) UnD @ Mago with Steyr AUG
+19-01-22 01:01:47 (2) :|dp|: Saitama killed (1) Factory with Barrett M82A1
+19-01-22 01:01:48 (1) Factory killed (2) :|dp|: Saitama with LAW
+19-01-22 01:01:53 (1) Factory killed (2) |hu3| CrasheR with Grenade
+19-01-22 01:01:56 (2) UnD @ Mago killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 01:01:58 (TEAM)[sk!T.Rattle] mid
+19-01-22 01:02:00 (1) Factory killed (2) |hu3| CrasheR with LAW
+19-01-22 01:02:02 (RADIO)[|hu3| CrasheR] Enemy spotted down!
+19-01-22 01:02:03 (TEAM)[|hu3| CrasheR] base
+19-01-22 01:02:05 (1) Factory killed (2) |hu3| CrasheR with Grenade
+19-01-22 01:02:06 Factory captured the Blue Flag
+19-01-22 01:02:07 (2) :|dp|: Saitama killed (1) Predikt (SN) with Barrett M82A1
+19-01-22 01:02:07 (1) sk!T.Rattle killed (2) UnD @ Mago with Ruger 77
+19-01-22 01:02:08 (RADIO)[|hu3| CrasheR] Enemy flagger down!
+19-01-22 01:02:08 (RADIO)[Predikt (SN)] Friendly flagger down!
+19-01-22 01:02:12 (2) :|dp|: Saitama killed (1) Factory with Barrett M82A1
+19-01-22 01:02:14 (1) sk!T.Rattle killed (2) UnD @ Mago with Combat Knife
+19-01-22 01:02:15 :|dp|: Saitama returned the Blue Flag
+19-01-22 01:02:17 sk!T.Rattle captured the Blue Flag
+19-01-22 01:02:17 (1) Predikt (SN) killed (2) :|dp|: Saitama with XM214 Minigun
+19-01-22 01:02:20 (1) Factory killed (2) |hu3| CrasheR with LAW
+19-01-22 01:02:22 (TEAM)[|hu3| CrasheR] boa
+19-01-22 01:02:26 (2) :|dp|: Saitama killed (1) Predikt (SN) with Barrett M82A1
+19-01-22 01:02:26 sk!T.Rattle scores for Alpha Team
+19-01-22 01:02:27 (1) Factory killed (2) UnD @ Mago with Grenade
+19-01-22 01:02:32 (2) |hu3| CrasheR killed (1) Factory with Barrett M82A1
+19-01-22 01:02:33 (1) sk!T.Rattle killed (2) :|dp|: Saitama with Ruger 77
+19-01-22 01:02:36 (2) UnD @ Mago killed (1) sk!T.Rattle with M79
+19-01-22 01:02:37 (TEAM)[sk!T.Rattle] up
+19-01-22 01:02:39 (1) Factory killed (2) UnD @ Mago with Steyr AUG
+19-01-22 01:02:43 (2) :|dp|: Saitama killed (1) Factory with Barrett M82A1
+19-01-22 01:02:45 (1) sk!T.Rattle killed (2) :|dp|: Saitama with Ruger 77
+19-01-22 01:02:49 (2) |hu3| CrasheR killed (1) Predikt (SN) with Barrett M82A1
+19-01-22 01:02:51 (TEAM)[sk!T.Rattle] up
+19-01-22 01:02:52 [Predikt (SN)] fucking
+19-01-22 01:02:52 Time Left: 5 minutes
+19-01-22 01:02:53 [Predikt (SN)] stop :(
+19-01-22 01:02:58 (1) Predikt (SN) killed (2) |hu3| CrasheR with XM214 Minigun
+19-01-22 01:02:58 (2) |hu3| CrasheR killed (1) Predikt (SN) with Grenade
+19-01-22 01:03:01 (2) UnD @ Mago killed (1) Factory with Steyr AUG
+19-01-22 01:03:02 [Predikt (SN)] ruining my minifun
+19-01-22 01:03:03 UnD @ Mago captured the Red Flag
+19-01-22 01:03:06 (1) Predikt (SN) killed (2) UnD @ Mago with XM214 Minigun
+19-01-22 01:03:06 (2) :|dp|: Saitama killed (1) sk!T.Rattle with Barrett M82A1
+19-01-22 01:03:11 (1) Predikt (SN) killed (2) |hu3| CrasheR with XM214 Minigun
+19-01-22 01:03:12 (RADIO)[|hu3| CrasheR] Enemy spotted down!
+19-01-22 01:03:13 sk!T.Rattle returned the Red Flag
+19-01-22 01:03:16 (1) sk!T.Rattle killed (2) :|dp|: Saitama with Ruger 77
+19-01-22 01:03:17 (2) |hu3| CrasheR killed (1) Predikt (SN) with Grenade
+19-01-22 01:03:20 (2) UnD @ Mago killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 01:03:20 (1) sk!T.Rattle killed (2) UnD @ Mago with Combat Knife
+19-01-22 01:03:25 Factory captured the Blue Flag
+19-01-22 01:03:26 (1) Factory killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 01:03:26 [|hu3| CrasheR] Come'on!
+19-01-22 01:03:29 (2) UnD @ Mago killed (1) Factory with Steyr AUG
+19-01-22 01:03:29 (2) |hu3| CrasheR killed (1) sk!T.Rattle with Barrett M82A1
+19-01-22 01:03:29 (1) Predikt (SN) killed (2) |hu3| CrasheR with XM214 Minigun
+19-01-22 01:03:30 UnD @ Mago returned the Blue Flag
+19-01-22 01:03:34 (1) Predikt (SN) killed (2) UnD @ Mago with XM214 Minigun
+19-01-22 01:03:38 (1) Predikt (SN) killed (2) |hu3| CrasheR with XM214 Minigun
+19-01-22 01:03:39 (2) :|dp|: Saitama killed (1) Factory with Barrett M82A1
+19-01-22 01:03:39 (RADIO)[|hu3| CrasheR] Enemy spotted down!
+19-01-22 01:03:41 :|dp|: Saitama captured the Red Flag
+19-01-22 01:03:41 [UnD @ Mago] Die!
+19-01-22 01:03:42 Predikt (SN) captured the Blue Flag
+19-01-22 01:03:46 (2) |hu3| CrasheR killed (1) Predikt (SN) with Barrett M82A1
+19-01-22 01:03:46 (1) Factory killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 01:03:47 Factory returned the Red Flag
+19-01-22 01:03:50 (1) sk!T.Rattle killed (2) |hu3| CrasheR with Ruger 77
+19-01-22 01:03:50 sk!T.Rattle captured the Blue Flag
+19-01-22 01:03:51 (1) sk!T.Rattle killed (2) UnD @ Mago with Combat Knife
+19-01-22 01:03:52 Time Left: 4 minutes
+19-01-22 01:03:52 [UnD @ Mago] Die!
+19-01-22 01:03:53 (2) :|dp|: Saitama killed (1) Factory with Barrett M82A1
+19-01-22 01:03:55 sk!T.Rattle scores for Alpha Team
+19-01-22 01:03:55 (TEAM)[UnD @ Mago] n morre
+19-01-22 01:03:59 (1) sk!T.Rattle killed (2) :|dp|: Saitama with Grenade
+19-01-22 01:03:59 Predikt (SN) captured the Blue Flag
+19-01-22 01:04:01 (TEAM)[sk!T.Rattle] up
+19-01-22 01:04:01 (1) Factory killed (2) |hu3| CrasheR with Steyr AUG
+19-01-22 01:04:07 (2) :|dp|: Saitama killed (1) Predikt (SN) with Barrett M82A1
+19-01-22 01:04:08 (1) Factory killed (2) UnD @ Mago with Steyr AUG
+19-01-22 01:04:10 (2) |hu3| CrasheR killed (1) sk!T.Rattle with Barrett M82A1
+19-01-22 01:04:10 (1) sk!T.Rattle killed (2) |hu3| CrasheR with Ruger 77
+19-01-22 01:04:14 (1) Factory killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 01:04:15 [:|dp|: Saitama] wtf
+19-01-22 01:04:16 Predikt (SN) captured the Blue Flag
+19-01-22 01:04:17 (TEAM)[Factory] uioHAEUIHAUE
+19-01-22 01:04:18 Predikt (SN) scores for Alpha Team
+19-01-22 01:04:19 [Factory] TAEIUHAE
+19-01-22 01:04:28 (1) Predikt (SN) killed (2) |hu3| CrasheR with Grenade
+19-01-22 01:04:30 sk!T.Rattle captured the Blue Flag
+19-01-22 01:04:30 (2) UnD @ Mago killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 01:04:31 UnD @ Mago returned the Blue Flag
+19-01-22 01:04:31 (1) Factory killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 01:04:32 (TEAM)[sk!T.Rattle] loow
+19-01-22 01:04:33 [:|dp|: Saitama] shit
+19-01-22 01:04:33 [Factory] Q
+19-01-22 01:04:34 [:|dp|: Saitama] UDASHU
+19-01-22 01:04:36 (2) |hu3| CrasheR killed (1) Factory with Barrett M82A1
+19-01-22 01:04:38 (2) |hu3| CrasheR killed (1) Predikt (SN) with Combat Knife
+19-01-22 01:04:44 (2) |hu3| CrasheR killed (1) sk!T.Rattle with Barrett M82A1
+19-01-22 01:04:44 (1) Predikt (SN) killed (2) UnD @ Mago with Grenade
+19-01-22 01:04:47 (1) Predikt (SN) killed (2) |hu3| CrasheR with XM214 Minigun
+19-01-22 01:04:48 (RADIO)[|hu3| CrasheR] Enemy spotted middle!
+19-01-22 01:04:51 (2) :|dp|: Saitama killed (1) Factory with Steyr AUG
+19-01-22 01:04:51 (1) sk!T.Rattle killed (2) :|dp|: Saitama with Ruger 77
+19-01-22 01:04:52 Time Left: 3 minutes
+19-01-22 01:04:56 (2) |hu3| CrasheR killed (1) Predikt (SN) with Barrett M82A1
+19-01-22 01:04:57 (1) sk!T.Rattle killed (2) |hu3| CrasheR with Steyr AUG
+19-01-22 01:05:01 (1) Factory killed (2) UnD @ Mago with Grenade
+19-01-22 01:05:04 (1) Factory killed (2) |hu3| CrasheR with LAW
+19-01-22 01:05:05 (RADIO)[|hu3| CrasheR] Enemy spotted down!
+19-01-22 01:05:10 (1) Predikt (SN) killed (2) UnD @ Mago with XM214 Minigun
+19-01-22 01:05:12 (2) |hu3| CrasheR killed (1) Predikt (SN) with Grenade
+19-01-22 01:05:13 (1) sk!T.Rattle killed (2) |hu3| CrasheR with Steyr AUG
+19-01-22 01:05:13 (1) Factory killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 01:05:14 Factory captured the Blue Flag
+19-01-22 01:05:14 [Predikt (SN)] Hurraaaa!!!
+19-01-22 01:05:14 (TEAM)[|hu3| CrasheR] base
+19-01-22 01:05:18 (1) sk!T.Rattle killed (2) UnD @ Mago with Ruger 77
+19-01-22 01:05:24 (1) Predikt (SN) killed (2) UnD @ Mago with XM214 Minigun
+19-01-22 01:05:24 Factory scores for Alpha Team
+19-01-22 01:05:24 Predikt (SN) captured the Blue Flag
+19-01-22 01:05:24 (2) :|dp|: Saitama killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 01:05:25 (TEAM)[sk!T.Rattle] mid
+19-01-22 01:05:29 :|dp|: Saitama captured the Red Flag
+19-01-22 01:05:30 (2) |hu3| CrasheR killed (1) sk!T.Rattle with Barrett M82A1
+19-01-22 01:05:32 (TEAM)[sk!T.Rattle] mid
+19-01-22 01:05:32 (2) :|dp|: Saitama killed (1) Factory with Steyr AUG
+19-01-22 01:05:32 (1) sk!T.Rattle killed (2) |hu3| CrasheR with Grenade
+19-01-22 01:05:35 (RADIO)[|hu3| CrasheR] Friendly flagger middle!
+19-01-22 01:05:40 (1) sk!T.Rattle killed (2) |hu3| CrasheR with Combat Knife
+19-01-22 01:05:41 [|hu3| CrasheR] q
+19-01-22 01:05:45 (2) UnD @ Mago killed (1) sk!T.Rattle with Barrett M82A1
+19-01-22 01:05:50 (1) Factory killed (2) |hu3| CrasheR with Steyr AUG
+19-01-22 01:05:52 Time Left: 2 minutes
+19-01-22 01:05:55 (1) Factory killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 01:05:56 (1) Factory killed (2) |hu3| CrasheR with Grenade
+19-01-22 01:05:57 (1) Factory killed (2) UnD @ Mago with Grenade
+19-01-22 01:05:59 [:|dp|: Saitama] wtf
+19-01-22 01:05:59 Factory returned the Red Flag
+19-01-22 01:06:01 (2) :|dp|: Saitama killed (1) Factory with Steyr AUG
+19-01-22 01:06:05 [Factory] I AM GOD
+19-01-22 01:06:06 (2) UnD @ Mago killed (1) Predikt (SN) with Steyr AUG
+19-01-22 01:06:07 sk!T.Rattle captured the Blue Flag
+19-01-22 01:06:07 (RADIO)[Predikt (SN)] Enemy spotted up!
+19-01-22 01:06:09 sk!T.Rattle scores for Alpha Team
+19-01-22 01:06:11 (1) sk!T.Rattle killed (2) :|dp|: Saitama with Grenade
+19-01-22 01:06:11 (1) Predikt (SN) killed (2) UnD @ Mago with XM214 Minigun
+19-01-22 01:06:14 (1) Predikt (SN) killed (2) |hu3| CrasheR with XM214 Minigun
+19-01-22 01:06:14 (2) |hu3| CrasheR killed (1) Predikt (SN) with Combat Knife
+19-01-22 01:06:15 [Predikt (SN)] Got it!
+19-01-22 01:06:15 [Predikt (SN)] Die!
+19-01-22 01:06:16 [|hu3| CrasheR] Die!
+19-01-22 01:06:16 [|hu3| CrasheR] You're one ugly mother fu**er!
+19-01-22 01:06:17 [Predikt (SN)] No!
+19-01-22 01:06:18 [Predikt (SN)] Die!
+19-01-22 01:06:19 [|hu3| CrasheR] No!
+19-01-22 01:06:20 [|hu3| CrasheR] Die!
+19-01-22 01:06:24 (2) :|dp|: Saitama killed (1) Predikt (SN) with Grenade
+19-01-22 01:06:25 (RADIO)[Predikt (SN)] Enemy spotted down!
+19-01-22 01:06:25 (RADIO)[Predikt (SN)] Enemy spotted down!
+19-01-22 01:06:26 (RADIO)[Predikt (SN)] Enemy spotted down!
+19-01-22 01:06:27 UnD @ Mago captured the Red Flag
+19-01-22 01:06:28 sk!T.Rattle captured the Blue Flag
+19-01-22 01:06:30 (2) :|dp|: Saitama killed (1) Predikt (SN) with Steyr AUG
+19-01-22 01:06:31 (RADIO)[Predikt (SN)] Enemy flagger up!
+19-01-22 01:06:31 (2) |hu3| CrasheR killed (1) Factory with Combat Knife
+19-01-22 01:06:39 (2) |hu3| CrasheR killed (1) Factory with Barrett M82A1
+19-01-22 01:06:40 (2) |hu3| CrasheR killed (1) Predikt (SN) with Grenade
+19-01-22 01:06:40 (1) Predikt (SN) killed (2) :|dp|: Saitama with Barrett M82A1
+19-01-22 01:06:44 (1) Factory killed (2) |hu3| CrasheR with LAW
+19-01-22 01:06:52 Time Left: 1 minutes
+19-01-22 01:06:54 (2) :|dp|: Saitama killed (1) Factory with Steyr AUG
+19-01-22 01:06:56 (1) Predikt (SN) killed (2) UnD @ Mago with Barrett M82A1
+19-01-22 01:06:57 (2) |hu3| CrasheR killed (1) sk!T.Rattle with Barrett M82A1
+19-01-22 01:06:59 Predikt (SN) returned the Red Flag
+19-01-22 01:07:00 (1) Factory killed (2) |hu3| CrasheR with Steyr AUG
+19-01-22 01:07:00 Factory captured the Blue Flag
+19-01-22 01:07:01 Factory scores for Alpha Team
+19-01-22 01:07:01 (1) sk!T.Rattle killed (2) :|dp|: Saitama with Combat Knife
+19-01-22 01:07:02 Predikt (SN) captured the Blue Flag
+19-01-22 01:07:04 (2) UnD @ Mago killed (1) Predikt (SN) with Steyr AUG
+19-01-22 01:07:05 UnD @ Mago returned the Blue Flag
+19-01-22 01:07:07 (1) sk!T.Rattle killed (2) UnD @ Mago with Ruger 77
+19-01-22 01:07:07 (2) |hu3| CrasheR killed (1) sk!T.Rattle with Barrett M82A1
+19-01-22 01:07:09 (TEAM)[sk!T.Rattle] mid
+19-01-22 01:07:10 (1) Factory killed (2) |hu3| CrasheR with Steyr AUG
+19-01-22 01:07:17 Predikt (SN) returned the Red Flag
+19-01-22 01:07:17 (1) Predikt (SN) killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 01:07:17 (1) Factory killed (2) |hu3| CrasheR with LAW
+19-01-22 01:07:20 Factory captured the Blue Flag
+19-01-22 01:07:20 (1) Factory killed (2) UnD @ Mago with Steyr AUG
+19-01-22 01:07:22 (1) sk!T.Rattle killed (2) :|dp|: Saitama with Grenade
+19-01-22 01:07:24 (1) Predikt (SN) killed (2) |hu3| CrasheR with Barrett M82A1
+19-01-22 01:07:28 Next map: Lobby
+19-01-22 01:07:28 Factory scores for Alpha Team
+19-01-22 01:07:29 [Predikt (SN)] Hurraaaa!!!
+19-01-22 01:07:30 [sk!T.Rattle] gg
+19-01-22 01:07:30 [Predikt (SN)] Follow me!
+19-01-22 01:07:30 [|hu3| CrasheR] ..
+19-01-22 01:07:33 Lothic - Gothic Lobby Room
+19-01-22 01:07:40 [Predikt (SN)] go icebeam for action
+19-01-22 01:08:02 [sk!T.Rattle] gogo igtg
+19-01-22 01:08:06 [sk!T.Rattle] pls
+19-01-22 01:08:08 [sk!T.Rattle] play fobal
+19-01-22 01:08:09 [:|dp|: Saitama] !map icebeam
+19-01-22 01:08:11 [Predikt (SN)] You're one ugly mother fu**er!
+19-01-22 01:08:11 (RADIO)[Predikt (SN)] Enemy spotted down!
+19-01-22 01:08:13 [sk!T.Rattle] gl hf
+19-01-22 01:08:14 (TEAM)[sk!T.Rattle] top
+19-01-22 01:08:14 IceBeam by Zakath, Suow, Poop
+19-01-22 01:08:21 (2) UnD @ Mago killed (1) sk!T.Rattle with Barrett M82A1
+19-01-22 01:08:23 (TEAM)[sk!T.Rattle] up
+19-01-22 01:08:25 [Factory] tão ai?
+19-01-22 01:08:26 (1) sk!T.Rattle killed (2) UnD @ Mago with Ruger 77
+19-01-22 01:08:27 Predikt (SN) captured the Blue Flag
+19-01-22 01:08:28 (1) sk!T.Rattle killed (2) :|dp|: Saitama with Grenade
+19-01-22 01:08:30 Factory captured the Blue Flag
+19-01-22 01:08:30 Factory scores for Alpha Team
+19-01-22 01:08:31 [Factory] !r
+19-01-22 01:08:31 Restarting...
+19-01-22 01:08:32 [Factory] g
+19-01-22 01:08:33 [Predikt (SN)] Hurraaaa!!!
+19-01-22 01:08:34 [UnD @ Mago] afk
+19-01-22 01:08:35 [sk!T.Rattle] wat
+19-01-22 01:08:36 [Factory] bl
+19-01-22 01:08:36 IceBeam by Zakath, Suow, Poop
+19-01-22 01:08:42 (1) Factory killed (2) |hu3| CrasheR with LAW
+19-01-22 01:08:44 (1) sk!T.Rattle killed (2) :|dp|: Saitama with Grenade
+19-01-22 01:08:48 [|hu3| CrasheR] 28
+19-01-22 01:08:49 [|hu3| CrasheR] w8
+19-01-22 01:08:51 Predikt (SN) captured the Blue Flag
+19-01-22 01:08:51 UnD @ Mago captured the Red Flag
+19-01-22 01:08:52 (2) :|dp|: Saitama killed (1) sk!T.Rattle with Grenade
+19-01-22 01:08:53 UnD @ Mago returned the Blue Flag
+19-01-22 01:08:54 (1) Predikt (SN) killed (2) UnD @ Mago with XM214 Minigun
+19-01-22 01:08:55 Predikt (SN) returned the Red Flag
+19-01-22 01:08:55 Predikt (SN) captured the Blue Flag
+19-01-22 01:09:02 (1) Predikt (SN) killed (2) :|dp|: Saitama with XM214 Minigun
+19-01-22 01:09:05 [Factory] crash?
+19-01-22 01:09:06 (2) UnD @ Mago killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 01:09:08 (TEAM)[sk!T.Rattle] up
+19-01-22 01:09:09 Predikt (SN) scores for Alpha Team
+19-01-22 01:09:10 (1) Predikt (SN) killed (2) UnD @ Mago with Grenade
+19-01-22 01:09:10 [|hu3| CrasheR] perae
+19-01-22 01:09:15 (1) sk!T.Rattle killed (2) :|dp|: Saitama with Ruger 77
+19-01-22 01:09:15 (2) :|dp|: Saitama killed (1) sk!T.Rattle with Combat Knife
+19-01-22 01:09:15 (TEAM)[|hu3| CrasheR] eu vou baixo
+19-01-22 01:09:17 (TEAM)[|hu3| CrasheR] vcs dois cim
+19-01-22 01:09:20 Predikt (SN) captured the Blue Flag
+19-01-22 01:09:22 (TEAM)[|hu3| CrasheR] tenta n ir baixo
+19-01-22 01:09:22 (1) Predikt (SN) killed (2) UnD @ Mago with XM214 Minigun
+19-01-22 01:09:22 (TEAM)[UnD @ Mago] alguem tem q ficar base n?
+19-01-22 01:09:22 Factory captured the Blue Flag
+19-01-22 01:09:23 (1) Factory killed (2) |hu3| CrasheR with HK MP5
+19-01-22 01:09:26 (TEAM)[|hu3| CrasheR] n
+19-01-22 01:09:27 (1) sk!T.Rattle killed (2) :|dp|: Saitama with Ruger 77
+19-01-22 01:09:28 (1) Predikt (SN) killed (2) UnD @ Mago with Chainsaw
+19-01-22 01:09:29 (TEAM)[|hu3| CrasheR] só fique se tiver inimigo
+19-01-22 01:09:31 (1) sk!T.Rattle killed (2) :|dp|: Saitama with Ruger 77
+19-01-22 01:09:31 (1) sk!T.Rattle killed (2) |hu3| CrasheR with Grenade
+19-01-22 01:09:33 (TEAM)[|hu3| CrasheR] n saia da base se tiver inimigo
+19-01-22 01:09:35 (TEAM)[UnD @ Mago] ok
+19-01-22 01:09:36 (1) Predikt (SN) killed (2) UnD @ Mago with XM214 Minigun
+19-01-22 01:09:36 (TEAM)[|hu3| CrasheR] e chegou na base deles
+19-01-22 01:09:38 (1) sk!T.Rattle killed (2) |hu3| CrasheR with Ruger 77
+19-01-22 01:09:38 (1) sk!T.Rattle killed (2) :|dp|: Saitama with Ruger 77
+19-01-22 01:09:41 (TEAM)[|hu3| CrasheR] joga a bandeira pra nossa base
+19-01-22 01:09:43 (2) UnD @ Mago killed (1) Predikt (SN) with Steyr AUG
+19-01-22 01:09:45 (TEAM)[|hu3| CrasheR] pq a bandeira passa ali saca?
+19-01-22 01:09:46 [Predikt (SN)] Hurraaaa!!!
+19-01-22 01:09:46 (2) UnD @ Mago killed (1) sk!T.Rattle with Combat Knife
+19-01-22 01:09:47 [Predikt (SN)] Heavy Machine Gun ahead!
+19-01-22 01:09:47 [sk!T.Rattle] Touch3
+19-01-22 01:09:50 (1) Predikt (SN) killed (2) UnD @ Mago with Chainsaw
+19-01-22 01:09:51 (TEAM)[:|dp|: Saitama] tamo ligado
+19-01-22 01:09:57 (TEAM)[UnD @ Mago] sim
+19-01-22 01:09:57 (1) Predikt (SN) killed (2) UnD @ Mago with Chainsaw
+19-01-22 01:10:00 (1) Predikt (SN) killed (2) |hu3| CrasheR with XM214 Minigun
+19-01-22 01:10:00 (TEAM)[|hu3| CrasheR] se passar gente cima avisa
+19-01-22 01:10:02 (1) sk!T.Rattle killed (2) UnD @ Mago with Ruger 77
+19-01-22 01:10:05 (TEAM)[|hu3| CrasheR] só apertar v31
+19-01-22 01:10:06 (RADIO)[|hu3| CrasheR] Enemy spotted up!
+19-01-22 01:10:08 (1) Factory killed (2) :|dp|: Saitama with Combat Knife
+19-01-22 01:10:09 (TEAM)[|hu3| CrasheR] ok?
+19-01-22 01:10:10 (1) Predikt (SN) killed (2) UnD @ Mago with XM214 Minigun
+19-01-22 01:10:10 (TEAM)[UnD @ Mago] v31?
+19-01-22 01:10:13 (TEAM)[|hu3| CrasheR] sim
+19-01-22 01:10:13 (1) Predikt (SN) killed (2) |hu3| CrasheR with Chainsaw
+19-01-22 01:10:14 (TEAM)[|hu3| CrasheR] aperte
+19-01-22 01:10:16 (RADIO)[UnD @ Mago] Enemy spotted up!
+19-01-22 01:10:16 (1) Predikt (SN) killed (2) UnD @ Mago with Chainsaw
+19-01-22 01:10:17 [sk!T.Rattle] cmo
+19-01-22 01:10:17 [sk!T.Rattle] n
+19-01-22 01:10:20 (TEAM)[|hu3| CrasheR] yyea
+19-01-22 01:10:21 (TEAM)[|hu3| CrasheR] XD
+19-01-22 01:10:21 (TEAM)[UnD @ Mago] q legal AUHEAUHE
+19-01-22 01:10:21 (1) sk!T.Rattle killed (2) |hu3| CrasheR with Ruger 77
+19-01-22 01:10:22 (TEAM)[UnD @ Mago] n sabia
+19-01-22 01:10:23 (1) Predikt (SN) killed (2) :|dp|: Saitama with XM214 Minigun
+19-01-22 01:10:24 (RADIO)[|hu3| CrasheR] Enemy spotted up!
+19-01-22 01:10:26 (RADIO)[|hu3| CrasheR] Enemy spotted middle!
+19-01-22 01:10:27 (RADIO)[|hu3| CrasheR] Enemy spotted down!
+19-01-22 01:10:27 (1) sk!T.Rattle killed (2) |hu3| CrasheR with Barrett M82A1
+19-01-22 01:10:31 (TEAM)[|hu3| CrasheR] se passar baixo eu aviso
+19-01-22 01:10:32 (RADIO)[|hu3| CrasheR] Enemy spotted down!
+19-01-22 01:10:32 (TEAM)[:|dp|: Saitama] v31
+19-01-22 01:10:32 (1) sk!T.Rattle killed (2) UnD @ Mago with Ruger 77
+19-01-22 01:10:33 (RADIO)[UnD @ Mago] Enemy spotted down!
+19-01-22 01:10:34 (TEAM)[:|dp|: Saitama] wtf
+19-01-22 01:10:37 [|hu3| CrasheR] bora
+19-01-22 01:10:37 (1) Predikt (SN) killed (2) :|dp|: Saitama with XM214 Minigun
+19-01-22 01:10:37 (2) :|dp|: Saitama killed (1) Predikt (SN) with M79
+19-01-22 01:10:40 (TEAM)[|hu3| CrasheR] vamo la
+19-01-22 01:10:40 [Predikt (SN)] come on?
+19-01-22 01:10:42 (1) sk!T.Rattle killed (2) |hu3| CrasheR with Ruger 77
+19-01-22 01:10:44 [|hu3| CrasheR] !r
+19-01-22 01:10:44 Restarting...
+19-01-22 01:10:46 [sk!T.Rattle] gl hf!
+19-01-22 01:10:46 (RADIO)[Predikt (SN)] Enemy spotted down!
+19-01-22 01:10:49 [Predikt (SN)] dont hit me crasher
+19-01-22 01:10:49 [sk!T.Rattle] brigado
+19-01-22 01:10:50 IceBeam by Zakath, Suow, Poop
+19-01-22 01:10:50 [sk!T.Rattle] boa rodada
+19-01-22 01:10:55 (1) Predikt (SN) killed (2) |hu3| CrasheR with Barrett M82A1
+19-01-22 01:10:57 (1) sk!T.Rattle killed (2) UnD @ Mago with Ruger 77
+19-01-22 01:11:00 Predikt (SN) captured the Blue Flag
+19-01-22 01:11:00 (RADIO)[UnD @ Mago] Enemy spotted up!
+19-01-22 01:11:02 (1) sk!T.Rattle killed (2) UnD @ Mago with Combat Knife
+19-01-22 01:11:02 (1) Predikt (SN) killed (2) |hu3| CrasheR with Chainsaw
+19-01-22 01:11:05 (2) :|dp|: Saitama killed (1) sk!T.Rattle with M79
+19-01-22 01:11:06 (1) Predikt (SN) killed (2) :|dp|: Saitama with Chainsaw
+19-01-22 01:11:11 sk!T.Rattle captured the Blue Flag
+19-01-22 01:11:13 sk!T.Rattle scores for Alpha Team
+19-01-22 01:11:13 Factory captured the Blue Flag
+19-01-22 01:11:17 UnD @ Mago captured the Red Flag
+19-01-22 01:11:19 (1) sk!T.Rattle killed (2) UnD @ Mago with Ruger 77
+19-01-22 01:11:19 |hu3| CrasheR captured the Red Flag
+19-01-22 01:11:20 (2) UnD @ Mago killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 01:11:20 (2) |hu3| CrasheR killed (1) Predikt (SN) with Barrett M82A1
+19-01-22 01:11:21 [Predikt (SN)] Die!
+19-01-22 01:11:23 (2) :|dp|: Saitama killed (1) Factory with M79
+19-01-22 01:11:25 :|dp|: Saitama returned the Blue Flag
+19-01-22 01:11:25 |hu3| CrasheR scores for Bravo Team
+19-01-22 01:11:26 (1) Predikt (SN) killed (2) :|dp|: Saitama with Grenade
+19-01-22 01:11:31 (1) sk!T.Rattle killed (2) UnD @ Mago with Grenade
+19-01-22 01:11:33 [|hu3| CrasheR] Come'on!
+19-01-22 01:11:37 (1) Predikt (SN) killed (2) |hu3| CrasheR with Barrett M82A1
+19-01-22 01:11:38 [|hu3| CrasheR] txDDD
+19-01-22 01:11:38 sk!T.Rattle captured the Blue Flag
+19-01-22 01:11:41 (RADIO)[|hu3| CrasheR] Enemy spotted down!
+19-01-22 01:11:42 (1) sk!T.Rattle killed (2) UnD @ Mago with Ruger 77
+19-01-22 01:11:43 (2) |hu3| CrasheR killed (1) Factory with Combat Knife
+19-01-22 01:11:43 (1) Predikt (SN) killed (2) :|dp|: Saitama with Barrett M82A1
+19-01-22 01:11:44 (2) |hu3| CrasheR killed (1) sk!T.Rattle with Grenade
+19-01-22 01:11:45 (1) Predikt (SN) killed (2) |hu3| CrasheR with Chainsaw
+19-01-22 01:11:50 (1) sk!T.Rattle killed (2) UnD @ Mago with Combat Knife
+19-01-22 01:11:50 (2) UnD @ Mago killed (1) sk!T.Rattle with Grenade
+19-01-22 01:11:52 (1) Factory killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 01:11:52 Factory captured the Blue Flag
+19-01-22 01:11:55 Factory scores for Alpha Team
+19-01-22 01:11:56 Predikt (SN) captured the Blue Flag
+19-01-22 01:11:56 (2) UnD @ Mago killed (1) Predikt (SN) with Grenade
+19-01-22 01:11:56 UnD @ Mago returned the Blue Flag
+19-01-22 01:12:03 (2) UnD @ Mago killed (1) Factory with Steyr AUG
+19-01-22 01:12:04 (1) sk!T.Rattle killed (2) UnD @ Mago with Grenade
+19-01-22 01:12:04 (2) |hu3| CrasheR killed (1) Predikt (SN) with Barrett M82A1
+19-01-22 01:12:04 (1) Predikt (SN) killed (2) |hu3| CrasheR with Barrett M82A1
+19-01-22 01:12:05 [Predikt (SN)] Die!
+19-01-22 01:12:06 (1) sk!T.Rattle killed (2) :|dp|: Saitama with Ruger 77
+19-01-22 01:12:08 (RADIO)[|hu3| CrasheR] Enemy spotted up!
+19-01-22 01:12:10 sk!T.Rattle captured the Blue Flag
+19-01-22 01:12:12 (RADIO)[Predikt (SN)] Enemy spotted down!
+19-01-22 01:12:13 (2) :|dp|: Saitama killed (1) sk!T.Rattle with Barrett M82A1
+19-01-22 01:12:15 (TEAM)[sk!T.Rattle] low
+19-01-22 01:12:19 (1) Factory killed (2) :|dp|: Saitama with LAW
+19-01-22 01:12:19 sk!T.Rattle captured the Blue Flag
+19-01-22 01:12:21 |hu3| CrasheR captured the Red Flag
+19-01-22 01:12:26 (2) |hu3| CrasheR killed (1) sk!T.Rattle with Combat Knife
+19-01-22 01:12:26 Factory returned the Red Flag
+19-01-22 01:12:27 (1) Factory killed (2) |hu3| CrasheR with Combat Knife
+19-01-22 01:12:28 (1) Factory killed (2) UnD @ Mago with Steyr AUG
+19-01-22 01:12:29 (2) :|dp|: Saitama killed (1) Factory with Barrett M82A1
+19-01-22 01:12:29 [UnD @ Mago] No!
+19-01-22 01:12:32 (1) Predikt (SN) killed (2) |hu3| CrasheR with Barrett M82A1
+19-01-22 01:12:33 (1) sk!T.Rattle killed (2) :|dp|: Saitama with Ruger 77
+19-01-22 01:12:35 sk!T.Rattle captured the Blue Flag
+19-01-22 01:12:36 (TEAM)[|hu3| CrasheR] bade
+19-01-22 01:12:36 sk!T.Rattle scores for Alpha Team
+19-01-22 01:12:39 (1) Factory killed (2) UnD @ Mago with Steyr AUG
+19-01-22 01:12:40 (2) :|dp|: Saitama killed (1) Predikt (SN) with Barrett M82A1
+19-01-22 01:12:42 (2) :|dp|: Saitama killed (1) sk!T.Rattle with Combat Knife
+19-01-22 01:12:43 [sk!T.Rattle] Touch3
+19-01-22 01:12:45 (2) :|dp|: Saitama killed (1) Factory with Grenade
+19-01-22 01:12:50 (2) |hu3| CrasheR killed (1) Predikt (SN) with Barrett M82A1
+19-01-22 01:12:51 (1) sk!T.Rattle killed (2) UnD @ Mago with Ruger 77
+19-01-22 01:12:51 (RADIO)[Predikt (SN)] Enemy spotted down!
+19-01-22 01:12:52 (RADIO)[Predikt (SN)] Enemy spotted down!
+19-01-22 01:12:53 (2) :|dp|: Saitama killed (1) sk!T.Rattle with Barrett M82A1
+19-01-22 01:12:54 |hu3| CrasheR captured the Red Flag
+19-01-22 01:12:54 (1) Factory killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 01:12:55 (2) |hu3| CrasheR killed (1) Predikt (SN) with Barrett M82A1
+19-01-22 01:12:57 [Predikt (SN)] base hot
+19-01-22 01:12:59 Factory captured the Blue Flag
+19-01-22 01:12:59 (2) |hu3| CrasheR killed (1) sk!T.Rattle with Ruger 77
+19-01-22 01:13:00 Factory returned the Red Flag
+19-01-22 01:13:02 |hu3| CrasheR returned the Blue Flag
+19-01-22 01:13:02 (2) :|dp|: Saitama killed (1) Factory with Ak-74
+19-01-22 01:13:04 (2) :|dp|: Saitama killed (1) Predikt (SN) with Ak-74
+19-01-22 01:13:06 [Predikt (SN)] copme on
+19-01-22 01:13:06 [Predikt (SN)] stop
+19-01-22 01:13:07 (1) sk!T.Rattle killed (2) |hu3| CrasheR with Ruger 77
+19-01-22 01:13:09 (2) :|dp|: Saitama killed (1) sk!T.Rattle with Ak-74
+19-01-22 01:13:09 [|hu3| CrasheR] Come'on!
+19-01-22 01:13:13 UnD @ Mago captured the Red Flag
+19-01-22 01:13:15 (1) sk!T.Rattle killed (2) UnD @ Mago with Combat Knife
+19-01-22 01:13:16 :|dp|: Saitama captured the Red Flag
+19-01-22 01:13:18 :|dp|: Saitama scores for Bravo Team
+19-01-22 01:13:19 (2) |hu3| CrasheR killed (1) Factory with Combat Knife
+19-01-22 01:13:21 (1) Predikt (SN) killed (2) UnD @ Mago with Grenade
+19-01-22 01:13:21 (2) :|dp|: Saitama killed (1) Predikt (SN) with Ak-74
+19-01-22 01:13:27 (2) |hu3| CrasheR killed (1) Predikt (SN) with Barrett M82A1
+19-01-22 01:13:28 (RADIO)[Predikt (SN)] Enemy spotted down!
+19-01-22 01:13:29 (1) Factory killed (2) |hu3| CrasheR with Steyr AUG
+19-01-22 01:13:32 (2) :|dp|: Saitama killed (1) Factory with Ak-74
+19-01-22 01:13:32 [sk!T.Rattle] img lag
+19-01-22 01:13:33 :|dp|: Saitama captured the Red Flag
+19-01-22 01:13:34 [sk!T.Rattle] !sub
+19-01-22 01:13:34 /say Sub was called... (206.81.24.116)
+19-01-22 01:13:35 |hu3| CrasheR captured the Red Flag
+19-01-22 01:13:37 (2) :|dp|: Saitama killed (1) sk!T.Rattle with Ak-74
+19-01-22 01:13:37 |hu3| CrasheR scores for Bravo Team
+19-01-22 01:13:37 (2) UnD @ Mago killed (1) Factory with Grenade
+19-01-22 01:13:39 UnD @ Mago captured the Red Flag
+19-01-22 01:13:40 [sk!T.Rattle] !p
+19-01-22 01:13:40 Pausing...
+19-01-22 01:13:41 [Predikt (SN)] No!
+19-01-22 01:13:42 /say Sub was found: Elwy (206.81.24.116)
+19-01-22 01:13:45 [sk!T.Rattle] gg
+19-01-22 01:13:46 sk!T.Rattle has left alpha team.
+19-01-22 01:13:50 [Predikt (SN)] oooh nooo
+19-01-22 01:13:52 [:|dp|: Saitama] ué
+19-01-22 01:14:07 (TEAM)[UnD @ Mago] crash vem pegar a bandeira
+19-01-22 01:14:07 (TEAM)[UnD @ Mago] yt
+19-01-22 01:14:10 [Predikt (SN)] I'm hit
+19-01-22 01:14:12 (TEAM)[|hu3| CrasheR] ok
+19-01-22 01:14:18 (TEAM)[|hu3| CrasheR] vo tentar matar o cara aqui
+19-01-22 01:14:21 (TEAM)[Factory] b2
+19-01-22 01:14:23 (TEAM)[|hu3| CrasheR] ou vou morrer
+19-01-22 01:14:25 (TEAM)[|hu3| CrasheR]  D:
+19-01-22 01:14:31 (TEAM)[UnD @ Mago] vou da /kill depois de jogar entao UEHAUEH
+19-01-22 01:14:31 (TEAM)[UnD @ Mago] TYT
+19-01-22 01:14:32 [Predikt (SN)] vo tentar matar aqui nosotro botella de agua
+19-01-22 01:14:41 (TEAM)[:|dp|: Saitama] hahah
+19-01-22 01:14:43 [Factory] !msg elwy
+19-01-22 01:14:48 [|hu3| CrasheR] :D
+19-01-22 01:14:55 [|hu3| CrasheR] aqui ja te certei predikt
+19-01-22 01:14:56 [|hu3| CrasheR] ;)
+19-01-22 01:15:01 [Predikt (SN)] agua vita yo soy tapas y cortello
+19-01-22 01:15:04 [:|dp|: Saitama] já vi que tem que jogar de auto
+19-01-22 01:15:10 [|hu3| CrasheR] aheuehau
+19-01-22 01:15:13 91.139.111.233:23073|73DA020C74F requesting game...
+19-01-22 01:15:17 //\// Elwy joining game (91.139.111.233:23073) HWID:73DA020C74F
+19-01-22 01:15:17 //\// Elwy has joined alpha team.
+19-01-22 01:15:21 [Predikt (SN)] tortuga y catalonia de espanjol 
+19-01-22 01:15:23 [|hu3| CrasheR] sim só auto cima
+19-01-22 01:15:25 [Factory] !g
+19-01-22 01:15:25 [//\// Elwy] sec
+19-01-22 01:15:27 [|hu3| CrasheR] baixo da p ir de brt
+19-01-22 01:15:27 [Factory] ok
+19-01-22 01:15:29 [//\// Elwy] 10s
+19-01-22 01:15:33 [Predikt (SN)] pirde brt
+19-01-22 01:15:38 [//\// Elwy] Got it!
+19-01-22 01:15:44 [Factory] g?
+19-01-22 01:15:44 [Predikt (SN)] Got it!
+19-01-22 01:15:44 [//\// Elwy] !up
+19-01-22 01:15:44 Unpausing in: 3
+19-01-22 01:15:45 [Predikt (SN)] Sniper!
+19-01-22 01:15:45 Unpausing in: 2
+19-01-22 01:15:46 [Predikt (SN)] OK
+19-01-22 01:15:46 [Predikt (SN)] Sniper!
+19-01-22 01:15:46 Unpausing in: 1
+19-01-22 01:15:47 Go!
+19-01-22 01:15:47 (2) |hu3| CrasheR killed (1) Predikt (SN) with Barrett M82A1
+19-01-22 01:15:50 (1) //\// Elwy killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 01:15:52 |hu3| CrasheR captured the Red Flag
+19-01-22 01:15:54 |hu3| CrasheR scores for Bravo Team
+19-01-22 01:15:58 (1) Factory killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 01:15:59 (2) UnD @ Mago killed (1) Factory with Grenade
+19-01-22 01:16:01 (2) UnD @ Mago killed (1) //\// Elwy with Steyr AUG
+19-01-22 01:16:04 (1) Predikt (SN) killed (2) |hu3| CrasheR with Combat Knife
+19-01-22 01:16:04 (RADIO)[//\// Elwy] INC UP
+19-01-22 01:16:05 (RADIO)[|hu3| CrasheR] Enemy spotted down!
+19-01-22 01:16:07 (1) Factory killed (2) UnD @ Mago with Grenade
+19-01-22 01:16:08 (2) :|dp|: Saitama killed (1) Predikt (SN) with Ak-74
+19-01-22 01:16:11 (TEAM)[|hu3| CrasheR] boa
+19-01-22 01:16:11 [Predikt (SN)] gtfo
+19-01-22 01:16:14 (1) //\// Elwy killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 01:16:16 (2) |hu3| CrasheR killed (1) Predikt (SN) with Barrett M82A1
+19-01-22 01:16:17 (RADIO)[Predikt (SN)] Enemy spotted down!
+19-01-22 01:16:17 (2) UnD @ Mago killed (1) //\// Elwy with Steyr AUG
+19-01-22 01:16:17 (RADIO)[Predikt (SN)] Enemy spotted down!
+19-01-22 01:16:18 Factory captured the Blue Flag
+19-01-22 01:16:19 (TEAM)[//\// Elwy] BASE!
+19-01-22 01:16:20 |hu3| CrasheR captured the Red Flag
+19-01-22 01:16:21 (2) :|dp|: Saitama killed (1) Factory with Grenade
+19-01-22 01:16:21 |hu3| CrasheR returned the Blue Flag
+19-01-22 01:16:23 :|dp|: Saitama captured the Red Flag
+19-01-22 01:16:24 (2) |hu3| CrasheR killed (1) Predikt (SN) with Combat Knife
+19-01-22 01:16:24 :|dp|: Saitama scores for Bravo Team
+19-01-22 01:16:25 UnD @ Mago captured the Red Flag
+19-01-22 01:16:25 (1) //\// Elwy killed (2) |hu3| CrasheR with Steyr AUG
+19-01-22 01:16:25 (2) UnD @ Mago killed (1) //\// Elwy with Steyr AUG
+19-01-22 01:16:26 (1) Factory killed (2) UnD @ Mago with Grenade
+19-01-22 01:16:28 Factory returned the Red Flag
+19-01-22 01:16:31 (2) :|dp|: Saitama killed (1) Factory with Ak-74
+19-01-22 01:16:34 (1) //\// Elwy killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 01:16:34 (2) |hu3| CrasheR killed (1) Predikt (SN) with Barrett M82A1
+19-01-22 01:16:34 (1) Predikt (SN) killed (2) |hu3| CrasheR with Barrett M82A1
+19-01-22 01:16:36 [Predikt (SN)] ok let's go
+19-01-22 01:16:38 [Predikt (SN)] finish the game
+19-01-22 01:16:39 (1) Factory killed (2) UnD @ Mago with Steyr AUG
+19-01-22 01:16:42 (RADIO)[UnD @ Mago] Enemy spotted up!
+19-01-22 01:16:44 (2) UnD @ Mago killed (1) Factory with Steyr AUG
+19-01-22 01:16:46 (1) //\// Elwy killed (2) UnD @ Mago with Steyr AUG
+19-01-22 01:16:48 (2) :|dp|: Saitama killed (1) //\// Elwy with Ak-74
+19-01-22 01:16:50 (RADIO)[//\// Elwy] INC UP
+19-01-22 01:16:52 Predikt (SN) captured the Blue Flag
+19-01-22 01:16:53 (2) :|dp|: Saitama killed (1) Factory with Ak-74
+19-01-22 01:16:54 (TEAM)[//\// Elwy] *SCORE*
+19-01-22 01:16:55 (1) //\// Elwy killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 01:16:55 (2) :|dp|: Saitama killed (1) //\// Elwy with Combat Knife
+19-01-22 01:16:57 (RADIO)[//\// Elwy] INC LOW
+19-01-22 01:16:58 (TEAM)[//\// Elwy] BASE!
+19-01-22 01:16:59 Factory captured the Blue Flag
+19-01-22 01:17:01 (1) //\// Elwy killed (2) |hu3| CrasheR with Combat Knife
+19-01-22 01:17:01 (1) Factory killed (2) UnD @ Mago with Steyr AUG
+19-01-22 01:17:02 Factory scores for Alpha Team
+19-01-22 01:17:02 (1) Predikt (SN) killed (2) :|dp|: Saitama with Barrett M82A1
+19-01-22 01:17:02 Predikt (SN) captured the Blue Flag
+19-01-22 01:17:02 (2) :|dp|: Saitama killed (1) Predikt (SN) with Grenade
+19-01-22 01:17:04 (RADIO)[Predikt (SN)] Enemy spotted down!
+19-01-22 01:17:06 (RADIO)[//\// Elwy] INC LOW
+19-01-22 01:17:10 (1) Factory killed (2) :|dp|: Saitama with Grenade
+19-01-22 01:17:10 (1) //\// Elwy killed (2) UnD @ Mago with Steyr AUG
+19-01-22 01:17:12 (TEAM)[//\// Elwy] *SCORE*
+19-01-22 01:17:14 //\// Elwy captured the Blue Flag
+19-01-22 01:17:16 (2) |hu3| CrasheR killed (1) Predikt (SN) with Barrett M82A1
+19-01-22 01:17:17 (2) :|dp|: Saitama killed (1) //\// Elwy with Combat Knife
+19-01-22 01:17:17 (1) Factory killed (2) :|dp|: Saitama with Combat Knife
+19-01-22 01:17:18 [Predikt (SN)] Die!
+19-01-22 01:17:19 (RADIO)[//\// Elwy] INC UP
+19-01-22 01:17:23 Predikt (SN) captured the Blue Flag
+19-01-22 01:17:23 Predikt (SN) scores for Alpha Team
+19-01-22 01:17:24 Factory captured the Blue Flag
+19-01-22 01:17:24 (2) :|dp|: Saitama killed (1) Factory with Ak-74
+19-01-22 01:17:25 (1) //\// Elwy killed (2) UnD @ Mago with Steyr AUG
+19-01-22 01:17:26 |hu3| CrasheR captured the Red Flag
+19-01-22 01:17:28 [|hu3| CrasheR] wtf
+19-01-22 01:17:34 (2) |hu3| CrasheR killed (1) Predikt (SN) with Barrett M82A1
+19-01-22 01:17:37 (2) UnD @ Mago killed (1) Factory with Steyr AUG
+19-01-22 01:17:39 (1) //\// Elwy killed (2) UnD @ Mago with Steyr AUG
+19-01-22 01:17:40 (2) :|dp|: Saitama killed (1) //\// Elwy with Ak-74
+19-01-22 01:17:41 (RADIO)[//\// Elwy] INC UP
+19-01-22 01:17:43 [|hu3| CrasheR] Come'on!
+19-01-22 01:17:45 (1) //\// Elwy killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 01:17:45 (2) :|dp|: Saitama killed (1) //\// Elwy with Combat Knife
+19-01-22 01:17:49 (2) |hu3| CrasheR killed (1) Predikt (SN) with Grenade
+19-01-22 01:17:50 [|hu3| CrasheR] Yeah
+19-01-22 01:17:50 [Predikt (SN)] Die!
+19-01-22 01:17:51 [Predikt (SN)] Son of a bitch!
+19-01-22 01:17:52 (1) //\// Elwy killed (2) UnD @ Mago with Steyr AUG
+19-01-22 01:17:56 (2) :|dp|: Saitama killed (1) Factory with Ak-74
+19-01-22 01:17:57 Time Left: 5 minutes
+19-01-22 01:17:58 (2) :|dp|: Saitama killed (1) //\// Elwy with Ak-74
+19-01-22 01:17:58 (1) //\// Elwy killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 01:18:04 (2) |hu3| CrasheR killed (1) Predikt (SN) with Grenade
+19-01-22 01:18:04 (1) Predikt (SN) killed (2) |hu3| CrasheR with Combat Knife
+19-01-22 01:18:05 [Predikt (SN)] Die!
+19-01-22 01:18:06 (2) UnD @ Mago killed (1) Factory with Combat Knife
+19-01-22 01:18:07 (1) //\// Elwy killed (2) UnD @ Mago with Steyr AUG
+19-01-22 01:18:08 [|hu3| CrasheR] Die!
+19-01-22 01:18:11 (2) :|dp|: Saitama killed (1) //\// Elwy with Ak-74
+19-01-22 01:18:13 (1) Factory killed (2) :|dp|: Saitama with FN Minimi
+19-01-22 01:18:16 (2) UnD @ Mago killed (1) Factory with Steyr AUG
+19-01-22 01:18:20 (1) //\// Elwy killed (2) UnD @ Mago with Grenade
+19-01-22 01:18:21 (1) Predikt (SN) killed (2) |hu3| CrasheR with Grenade
+19-01-22 01:18:22 (RADIO)[|hu3| CrasheR] Enemy spotted down!
+19-01-22 01:18:24 (2) :|dp|: Saitama killed (1) //\// Elwy with Ak-74
+19-01-22 01:18:25 (RADIO)[//\// Elwy] INC UP
+19-01-22 01:18:27 Predikt (SN) captured the Blue Flag
+19-01-22 01:18:27 |hu3| CrasheR returned the Blue Flag
+19-01-22 01:18:29 (1) Predikt (SN) killed (2) |hu3| CrasheR with Barrett M82A1
+19-01-22 01:18:30 (TEAM)[//\// Elwy] *SCORE*
+19-01-22 01:18:30 [|hu3| CrasheR] :D
+19-01-22 01:18:30 (1) Factory killed (2) :|dp|: Saitama with Grenade
+19-01-22 01:18:32 Predikt (SN) captured the Blue Flag
+19-01-22 01:18:33 (TEAM)[|hu3| CrasheR] base
+19-01-22 01:18:33 (1) Factory killed (2) UnD @ Mago with FN Minimi
+19-01-22 01:18:35 (1) Predikt (SN) killed (2) |hu3| CrasheR with Grenade
+19-01-22 01:18:36 //\// Elwy captured the Blue Flag
+19-01-22 01:18:36 //\// Elwy scores for Alpha Team
+19-01-22 01:18:37 Predikt (SN) captured the Blue Flag
+19-01-22 01:18:37 (1) Factory killed (2) UnD @ Mago with Combat Knife
+19-01-22 01:18:39 (2) :|dp|: Saitama killed (1) Predikt (SN) with Hands
+19-01-22 01:18:39 Factory captured the Blue Flag
+19-01-22 01:18:41 (2) |hu3| CrasheR killed (1) Factory with Combat Knife
+19-01-22 01:18:47 (TEAM)[//\// Elwy] *SCORE*
+19-01-22 01:18:47 Factory captured the Blue Flag
+19-01-22 01:18:47 (1) Factory killed (2) :|dp|: Saitama with Grenade
+19-01-22 01:18:48 (2) :|dp|: Saitama killed (1) Factory with Combat Knife
+19-01-22 01:18:50 //\// Elwy captured the Blue Flag
+19-01-22 01:18:50 (2) |hu3| CrasheR killed (1) Predikt (SN) with Barrett M82A1
+19-01-22 01:18:50 (1) Predikt (SN) killed (2) |hu3| CrasheR with Barrett M82A1
+19-01-22 01:18:51 UnD @ Mago captured the Red Flag
+19-01-22 01:18:53 (1) Factory killed (2) UnD @ Mago with FN Minimi
+19-01-22 01:18:55 :|dp|: Saitama captured the Red Flag
+19-01-22 01:18:57 Time Left: 4 minutes
+19-01-22 01:19:02 (1) //\// Elwy killed (2) UnD @ Mago with Steyr AUG
+19-01-22 01:19:03 Factory captured the Blue Flag
+19-01-22 01:19:04 (RADIO)[UnD @ Mago] Enemy spotted up!
+19-01-22 01:19:05 (2) |hu3| CrasheR killed (1) Predikt (SN) with Barrett M82A1
+19-01-22 01:19:06 (2) |hu3| CrasheR killed (1) //\// Elwy with Combat Knife
+19-01-22 01:19:14 (1) Predikt (SN) killed (2) |hu3| CrasheR with Barrett M82A1
+19-01-22 01:19:15 (RADIO)[|hu3| CrasheR] Enemy spotted down!
+19-01-22 01:19:15 (2) UnD @ Mago killed (1) //\// Elwy with Grenade
+19-01-22 01:19:16 (TEAM)[//\// Elwy] BASE!
+19-01-22 01:19:16 (RADIO)[//\// Elwy] INC UP
+19-01-22 01:19:16 (TEAM)[|hu3| CrasheR] brt
+19-01-22 01:19:16 (TEAM)[//\// Elwy] LOW %HP%
+19-01-22 01:19:17 (1) Factory killed (2) UnD @ Mago with FN Minimi
+19-01-22 01:19:26 (2) UnD @ Mago killed (1) Predikt (SN) with Ak-74
+19-01-22 01:19:28 [Predikt (SN)] Die!
+19-01-22 01:19:29 [Predikt (SN)] fuckers DIE
+19-01-22 01:19:33 (RADIO)[Predikt (SN)] Enemy spotted down!
+19-01-22 01:19:35 (1) Predikt (SN) killed (2) UnD @ Mago with XM214 Minigun
+19-01-22 01:19:39 (1) Predikt (SN) killed (2) :|dp|: Saitama with XM214 Minigun
+19-01-22 01:19:40 (2) |hu3| CrasheR killed (1) //\// Elwy with Barrett M82A1
+19-01-22 01:19:40 Predikt (SN) returned the Red Flag
+19-01-22 01:19:41 (TEAM)[//\// Elwy] LOW %HP%
+19-01-22 01:19:42 (TEAM)[//\// Elwy] ALL CLEAR!
+19-01-22 01:19:42 [|hu3| CrasheR] qqqqq
+19-01-22 01:19:47 Factory scores for Alpha Team
+19-01-22 01:19:47 (2) :|dp|: Saitama killed (1) Predikt (SN) with Ak-74
+19-01-22 01:19:48 (1) Predikt (SN) killed (2) :|dp|: Saitama with XM214 Minigun
+19-01-22 01:19:49 (RADIO)[//\// Elwy] INC UP
+19-01-22 01:19:49 (TEAM)[//\// Elwy] LOW %HP%
+19-01-22 01:19:49 (1) Factory killed (2) UnD @ Mago with FN Minimi
+19-01-22 01:19:54 (2) :|dp|: Saitama killed (1) //\// Elwy with Ak-74
+19-01-22 01:19:56 (1) Predikt (SN) killed (2) |hu3| CrasheR with Barrett M82A1
+19-01-22 01:19:57 Time Left: 3 minutes
+19-01-22 01:19:57 Factory captured the Blue Flag
+19-01-22 01:20:00 (1) Predikt (SN) killed (2) :|dp|: Saitama with Barrett M82A1
+19-01-22 01:20:01 //\// Elwy captured the Blue Flag
+19-01-22 01:20:01 //\// Elwy scores for Alpha Team
+19-01-22 01:20:01 (2) |hu3| CrasheR killed (1) Factory with Grenade
+19-01-22 01:20:03 (1) Predikt (SN) killed (2) |hu3| CrasheR with Grenade
+19-01-22 01:20:04 Predikt (SN) captured the Blue Flag
+19-01-22 01:20:04 (1) Predikt (SN) killed (2) :|dp|: Saitama with Barrett M82A1
+19-01-22 01:20:06 (1) //\// Elwy killed (2) UnD @ Mago with Steyr AUG
+19-01-22 01:20:07 (TEAM)[//\// Elwy] *SCORE*
+19-01-22 01:20:08 (1) Predikt (SN) killed (2) |hu3| CrasheR with Combat Knife
+19-01-22 01:20:10 (RADIO)[|hu3| CrasheR] Enemy flagger up!
+19-01-22 01:20:13 (2) UnD @ Mago killed (1) //\// Elwy with Steyr AUG
+19-01-22 01:20:14 Predikt (SN) scores for Alpha Team
+19-01-22 01:20:17 (1) Factory killed (2) UnD @ Mago with FN Minimi
+19-01-22 01:20:17 (2) :|dp|: Saitama killed (1) Factory with Combat Knife
+19-01-22 01:20:19 (1) Predikt (SN) killed (2) :|dp|: Saitama with Barrett M82A1
+19-01-22 01:20:21 (2) |hu3| CrasheR killed (1) Predikt (SN) with Combat Knife
+19-01-22 01:20:22 (RADIO)[Predikt (SN)] Enemy spotted down!
+19-01-22 01:20:22 (RADIO)[Predikt (SN)] Enemy spotted down!
+19-01-22 01:20:24 |hu3| CrasheR captured the Red Flag
+19-01-22 01:20:24 (1) Factory killed (2) |hu3| CrasheR with FN Minimi
+19-01-22 01:20:30 (1) Predikt (SN) killed (2) |hu3| CrasheR with Barrett M82A1
+19-01-22 01:20:31 (RADIO)[|hu3| CrasheR] Enemy spotted down!
+19-01-22 01:20:32 (1) Factory killed (2) UnD @ Mago with FN Minimi
+19-01-22 01:20:32 (2) :|dp|: Saitama killed (1) //\// Elwy with Ak-74
+19-01-22 01:20:34 (1) Factory killed (2) :|dp|: Saitama with FN Minimi
+19-01-22 01:20:34 Predikt (SN) captured the Blue Flag
+19-01-22 01:20:35 (2) |hu3| CrasheR killed (1) Predikt (SN) with Grenade
+19-01-22 01:20:36 (RADIO)[Predikt (SN)] Friendly flagger middle!
+19-01-22 01:20:37 (RADIO)[Predikt (SN)] Friendly flagger middle!
+19-01-22 01:20:43 //\// Elwy captured the Blue Flag
+19-01-22 01:20:44 (2) UnD @ Mago killed (1) Factory with Steyr AUG
+19-01-22 01:20:44 (1) Predikt (SN) killed (2) |hu3| CrasheR with Barrett M82A1
+19-01-22 01:20:48 Next map: Lobby
+19-01-22 01:20:48 //\// Elwy scores for Alpha Team
+19-01-22 01:20:48 [//\// Elwy] Yeah
+19-01-22 01:20:48 [|hu3| CrasheR] ez
+19-01-22 01:20:49 [Predikt (SN)] ggs
+19-01-22 01:20:50 (TEAM)[Factory] g
+19-01-22 01:20:53 Lothic - Gothic Lobby Room
+19-01-22 01:20:53 [|hu3| CrasheR] xD
+19-01-22 01:20:54 Factory has left alpha team.
+19-01-22 01:20:54 [|hu3| CrasheR] gg
+19-01-22 01:20:55 UnD @ Mago has left bravo team.
+19-01-22 01:20:56 //\// Elwy has left alpha team.
+19-01-22 01:20:57 Predikt (SN) has left alpha team.
+19-01-22 01:20:58 :|dp|: Saitama has left bravo team.
+19-01-22 01:20:58 |hu3| CrasheR has left bravo team.
+19-01-22 01:21:03 189.25.151.45:23073|494E5AAABF1 requesting game...
+19-01-22 01:25:53 Time Left: 5 minutes
+19-01-22 01:26:53 Time Left: 4 minutes
+19-01-22 01:27:41 /password 1622 (206.81.24.116)
+19-01-22 01:27:41 Server password changed to 1622
+19-01-22 01:27:41 /say Server password was changed... (206.81.24.116)
+19-01-22 01:27:43 /loadcon soldat.ini (206.81.24.116)
+19-01-22 01:27:43 Config reloaded soldat.ini
+19-01-22 01:27:43 Lothic - Gothic Lobby Room
+19-01-22 01:27:43 Loaded weapons mod "Default mod v1.8"
+19-01-22 01:27:43 Port already open
+19-01-22 01:27:43  Connection for file server started. Port: 23012
+19-01-22 01:27:43 /loadwep weapons (206.81.24.116)
+19-01-22 01:27:43 Loaded weapons mod "Default mod v1.8"
+19-01-22 01:27:55 85.23.116.203:23073|73FB3ADE506 requesting game...
+19-01-22 01:27:55 179.176.62.17:23073|42F49D3EBBB requesting game...
+19-01-22 01:27:55 Predikt (SN) joining game (85.23.116.203:23073) HWID:73FB3ADE506
+19-01-22 01:27:55 Predikt (SN) has joined as spectator.
+19-01-22 01:27:56 |hu3| CrasheR joining game (179.176.62.17:23073) HWID:42F49D3EBBB
+19-01-22 01:27:56 |hu3| CrasheR has joined bravo team.
+19-01-22 01:27:57 |hu3| CrasheR has left bravo team.
+19-01-22 01:27:59 179.176.62.17:23073|42F49D3EBBB requesting game...
+19-01-22 01:27:59 |hu3| CrasheR joining game (179.176.62.17:23073) HWID:42F49D3EBBB
+19-01-22 01:27:59 |hu3| CrasheR has joined bravo team.
+19-01-22 01:28:01 Predikt (SN) has joined alpha team.
+19-01-22 01:28:16 [Predikt (SN)] how do you like the new meta
+19-01-22 01:28:19 [Predikt (SN)] minigun and barret
+19-01-22 01:28:23 [Predikt (SN)] solution to any situation
+19-01-22 01:28:33 [Predikt (SN)] just adapt the secondary to the map
+19-01-22 01:28:38 91.139.111.233:23073|73DA020C74F requesting game...
+19-01-22 01:28:40 //\// Elwy joining game (91.139.111.233:23073) HWID:73DA020C74F
+19-01-22 01:28:40 //\// Elwy has joined bravo team.
+19-01-22 01:28:43 [Predikt (SN)] it's the ultimate way
+19-01-22 01:28:43 [|hu3| CrasheR] XD
+19-01-22 01:28:45 144.64.115.204:62089|2E51B08CF1A requesting game...
+19-01-22 01:28:46 Ox* r0x.pT! joining game (144.64.115.204:62089) HWID:2E51B08CF1A
+19-01-22 01:28:46 Ox* r0x.pT! has joined as spectator.
+19-01-22 01:28:49 Ox* r0x.pT! has left spectators
+19-01-22 01:28:52 [|hu3| CrasheR] it's very cool
+19-01-22 01:28:54 [Predikt (SN)] get good at it and everybody else will cry
+19-01-22 01:28:57 177.10.255.82:30563|13A0CC12CF9 requesting game...
+19-01-22 01:29:02 144.64.115.204:62089|2E51B08CF1A requesting game...
+19-01-22 01:29:02 OXiD://r0x.pT! joining game (144.64.115.204:62089) HWID:2E51B08CF1A
+19-01-22 01:29:02 OXiD://r0x.pT! has joined as spectator.
+19-01-22 01:29:06 [OXiD://r0x.pT!] !a
+19-01-22 01:29:06 OXiD://r0x.pT! has joined alpha team.
+19-01-22 01:29:06 [|hu3| CrasheR] I liked it, I let you use minigun again
+19-01-22 01:29:13 [Predikt (SN)] can't use it against ping barret
+19-01-22 01:29:20 [Predikt (SN)] if we both had 16 ping it would be fine
+19-01-22 01:29:24 (TEAM)[OXiD://r0x.pT!] i will rape
+19-01-22 01:29:28 [|hu3| CrasheR] :/
+19-01-22 01:29:28 [Predikt (SN)] but your lag gives bink advantage so minigun is useless
+19-01-22 01:29:28 (TEAM)[OXiD://r0x.pT!] cuz lag > skill
+19-01-22 01:29:32 [Predikt (SN)] given that you hit with it
+19-01-22 01:29:38 (TEAM)[Predikt (SN)] pick minigun
+19-01-22 01:29:38 [//\// Elwy] with 3 bullets of Hk you will die
+19-01-22 01:29:39 177.10.255.82:30563|13A0CC12CF9 requesting game...
+19-01-22 01:29:45 [Predikt (SN)] we will see
+19-01-22 01:29:49 [Predikt (SN)] LOL
+19-01-22 01:29:49 [|hu3| CrasheR] i can hold the bink :feelsgood:
+19-01-22 01:29:50 OXiD:// Slasher joining game (177.10.255.82:30563) HWID:13A0CC12CF9
+19-01-22 01:29:50 OXiD:// Slasher has joined bravo team.
+19-01-22 01:29:59 168.196.55.212:23073|497D7A0EDBD requesting game...
+19-01-22 01:30:04 (TEAM)[OXiD://r0x.pT!] div cobra pod lava fl voland arabic wretch campeche 
+19-01-22 01:30:06 (TEAM)[OXiD://r0x.pT!] :D
+19-01-22 01:30:15 168.196.55.212:23073|497D7A0EDBD requesting game...
+19-01-22 01:30:16 Griffith joining game (168.196.55.212:23073) HWID:497D7A0EDBD
+19-01-22 01:30:16 Griffith has joined alpha team.
+19-01-22 01:30:18 (TEAM)[Predikt (SN)] !ginfo
+19-01-22 01:30:21 [Predikt (SN)] !ginfo
+19-01-22 01:30:21 /say Gather.SA (elapsed time 0:02:38) (206.81.24.116)
+19-01-22 01:30:21 /say Alpha: predikt - r0x - Griffith (206.81.24.116)
+19-01-22 01:30:21 /say Bravo: Elwy - CrasheR - Slasher (206.81.24.116)
+19-01-22 01:30:21 /say Tiebreaker: ctf_Steel (206.81.24.116)
+19-01-22 01:30:30 (TEAM)[Predikt (SN)] cobur
+19-01-22 01:30:31 [//\// Elwy] mapzor
+19-01-22 01:30:35 (TEAM)[OXiD://r0x.pT!] cobra
+19-01-22 01:30:41 [OXiD://r0x.pT!] !Map Cobra
+19-01-22 01:30:44 (RADIO)[OXiD://r0x.pT!] UP!
+19-01-22 01:30:45 (TEAM)[//\// Elwy] def
+19-01-22 01:30:45 [Predikt (SN)] cobra srtirkeee
+19-01-22 01:30:46 (TEAM)[//\// Elwy] mid
+19-01-22 01:30:46 ctf_Cobra ~ by Demonic and Skoskav
+19-01-22 01:30:56 [|hu3| CrasheR] =D
+19-01-22 01:31:00 (TEAM)[OXiD://r0x.pT!] Griffith
+19-01-22 01:31:05 (TEAM)[Griffith] hi
+19-01-22 01:31:06 (TEAM)[OXiD://r0x.pT!] do u like this map ?
+19-01-22 01:31:07 (2) //\// Elwy killed (1) Griffith with Grenade
+19-01-22 01:31:11 [Griffith] XD
+19-01-22 01:31:12 (TEAM)[Griffith] yes
+19-01-22 01:31:13 (TEAM)[OXiD://r0x.pT!] brasuca ? :D
+19-01-22 01:31:14 [OXiD://r0x.pT!] !r
+19-01-22 01:31:14 Restarting...
+19-01-22 01:31:15 (RADIO)[OXiD://r0x.pT!] UP!
+19-01-22 01:31:16 (RADIO)[|hu3| CrasheR] Enemy spotted up!
+19-01-22 01:31:17 (TEAM)[Predikt (SN)] brasuka
+19-01-22 01:31:17 (TEAM)[Griffith] sim XD
+19-01-22 01:31:20 ctf_Cobra ~ by Demonic and Skoskav
+19-01-22 01:31:20 (TEAM)[Predikt (SN)] kill them griffit
+19-01-22 01:31:25 (TEAM)[Griffith] ok XD
+19-01-22 01:31:26 (2) |hu3| CrasheR killed (1) Griffith with Barrett M82A1
+19-01-22 01:31:27 [OXiD://r0x.pT!] !r
+19-01-22 01:31:27 Restarting...
+19-01-22 01:31:29 [Predikt (SN)] Come'on!
+19-01-22 01:31:33 [Predikt (SN)] you will die
+19-01-22 01:31:33 ctf_Cobra ~ by Demonic and Skoskav
+19-01-22 01:31:35 (TEAM)[Griffith] it's my first time here
+19-01-22 01:31:42 (2) |hu3| CrasheR killed (1) Griffith with Combat Knife
+19-01-22 01:31:42 (1) Griffith killed (2) |hu3| CrasheR with LAW
+19-01-22 01:31:43 (2) OXiD:// Slasher killed (1) OXiD://r0x.pT! with Barrett M82A1
+19-01-22 01:31:44 [|hu3| CrasheR] D:
+19-01-22 01:31:46 (RADIO)[OXiD://r0x.pT!] MIDDLE
+19-01-22 01:31:47 [Griffith] xd
+19-01-22 01:31:49 (1) Griffith killed (2) OXiD:// Slasher with Barrett M82A1
+19-01-22 01:31:52 |hu3| CrasheR captured the Red Flag
+19-01-22 01:31:53 (1) OXiD://r0x.pT! killed (2) //\// Elwy with HK MP5
+19-01-22 01:31:54 (RADIO)[//\// Elwy] INC MID
+19-01-22 01:31:56 (2) OXiD:// Slasher killed (1) OXiD://r0x.pT! with Grenade
+19-01-22 01:31:56 (2) OXiD:// Slasher killed (1) Predikt (SN) with HK MP5
+19-01-22 01:31:56 (RADIO)[|hu3| CrasheR] Enemy spotted down!
+19-01-22 01:31:58 (RADIO)[|hu3| CrasheR] Friendly flagger down!
+19-01-22 01:31:58 Griffith captured the Blue Flag
+19-01-22 01:31:58 (1) Griffith killed (2) OXiD:// Slasher with Barrett M82A1
+19-01-22 01:31:59 (TEAM)[Predikt (SN)] hold top omg 
+19-01-22 01:32:00 (RADIO)[OXiD:// Slasher] Friendly flagger down!
+19-01-22 01:32:00 (RADIO)[//\// Elwy] EFC LOW
+19-01-22 01:32:01 (2) |hu3| CrasheR killed (1) Griffith with Barrett M82A1
+19-01-22 01:32:02 |hu3| CrasheR returned the Blue Flag
+19-01-22 01:32:03 (RADIO)[Griffith] Enemy flagger down!
+19-01-22 01:32:06 |hu3| CrasheR scores for Bravo Team
+19-01-22 01:32:07 (2) |hu3| CrasheR killed (1) Predikt (SN) with Barrett M82A1
+19-01-22 01:32:08 (2) //\// Elwy killed (1) OXiD://r0x.pT! with HK MP5
+19-01-22 01:32:08 (1) OXiD://r0x.pT! killed (2) //\// Elwy with Grenade
+19-01-22 01:32:11 (TEAM)[Predikt (SN)] jesus christ
+19-01-22 01:32:12 (1) Griffith killed (2) OXiD:// Slasher with Barrett M82A1
+19-01-22 01:32:14 Griffith captured the Blue Flag
+19-01-22 01:32:16 (RADIO)[|hu3| CrasheR] Friendly flagger down!
+19-01-22 01:32:16 (RADIO)[OXiD:// Slasher] Friendly flagger down!
+19-01-22 01:32:17 (RADIO)[|hu3| CrasheR] Enemy flagger down!
+19-01-22 01:32:17 (RADIO)[Griffith] Friendly flagger down!
+19-01-22 01:32:19 (2) //\// Elwy killed (1) Griffith with LAW
+19-01-22 01:32:19 |hu3| CrasheR captured the Red Flag
+19-01-22 01:32:21 (RADIO)[//\// Elwy] FLAG LOW
+19-01-22 01:32:24 (1) OXiD://r0x.pT! killed (2) //\// Elwy with FN Minimi
+19-01-22 01:32:26 |hu3| CrasheR returned the Blue Flag
+19-01-22 01:32:26 (2) OXiD:// Slasher killed (1) Griffith with HK MP5
+19-01-22 01:32:26 (TEAM)[//\// Elwy] LOW %HP%
+19-01-22 01:32:27 Predikt (SN) captured the Blue Flag
+19-01-22 01:32:28 (2) |hu3| CrasheR killed (1) Predikt (SN) with Barrett M82A1
+19-01-22 01:32:28 (RADIO)[Griffith] Enemy spotted middle!
+19-01-22 01:32:29 |hu3| CrasheR returned the Blue Flag
+19-01-22 01:32:29 (2) //\// Elwy killed (1) OXiD://r0x.pT! with HK MP5
+19-01-22 01:32:30 (RADIO)[Predikt (SN)] Enemy spotted down!
+19-01-22 01:32:31 |hu3| CrasheR scores for Bravo Team
+19-01-22 01:32:36 (2) OXiD:// Slasher killed (1) Griffith with Grenade
+19-01-22 01:32:41 (2) |hu3| CrasheR killed (1) Griffith with Barrett M82A1
+19-01-22 01:32:43 (1) Predikt (SN) killed (2) |hu3| CrasheR with Barrett M82A1
+19-01-22 01:32:44 (2) |hu3| CrasheR killed (1) Predikt (SN) with Grenade
+19-01-22 01:32:47 (2) OXiD:// Slasher killed (1) OXiD://r0x.pT! with Barrett M82A1
+19-01-22 01:32:48 (TEAM)[Predikt (SN)] ok I gto
+19-01-22 01:32:52 OXiD:// Slasher captured the Red Flag
+19-01-22 01:32:52 (2) |hu3| CrasheR killed (1) Predikt (SN) with Barrett M82A1
+19-01-22 01:32:52 (1) Predikt (SN) killed (2) |hu3| CrasheR with Barrett M82A1
+19-01-22 01:32:54 [Predikt (SN)] fucking
+19-01-22 01:32:54 [Predikt (SN)] team
+19-01-22 01:32:54 (1) OXiD://r0x.pT! killed (2) //\// Elwy with FN Minimi
+19-01-22 01:32:56 (RADIO)[//\// Elwy] INC MID
+19-01-22 01:32:56 [Predikt (SN)] no go top
+19-01-22 01:32:56 (RADIO)[|hu3| CrasheR] Friendly flagger down!
+19-01-22 01:32:57 [Predikt (SN)] :D
+19-01-22 01:32:57 Griffith captured the Blue Flag
+19-01-22 01:32:58 (1) Griffith killed (2) |hu3| CrasheR with Barrett M82A1
+19-01-22 01:33:00 (RADIO)[|hu3| CrasheR] Enemy flagger middle!
+19-01-22 01:33:03 (2) OXiD:// Slasher killed (1) OXiD://r0x.pT! with Barrett M82A1
+19-01-22 01:33:04 (1) Predikt (SN) killed (2) |hu3| CrasheR with Barrett M82A1
+19-01-22 01:33:05 (1) Predikt (SN) killed (2) OXiD:// Slasher with Chainsaw
+19-01-22 01:33:06 Predikt (SN) returned the Red Flag
+19-01-22 01:33:08 Griffith scores for Alpha Team
+19-01-22 01:33:10 Predikt (SN) captured the Blue Flag
+19-01-22 01:33:10 (2) OXiD:// Slasher killed (1) Predikt (SN) with Grenade
+19-01-22 01:33:14 (1) OXiD://r0x.pT! killed (2) //\// Elwy with Grenade
+19-01-22 01:33:14 (2) //\// Elwy killed (1) OXiD://r0x.pT! with LAW
+19-01-22 01:33:16 (2) OXiD:// Slasher killed (1) Griffith with HK MP5
+19-01-22 01:33:19 (2) |hu3| CrasheR killed (1) OXiD://r0x.pT! with Combat Knife
+19-01-22 01:33:24 OXiD:// Slasher captured the Red Flag
+19-01-22 01:33:27 (1) Predikt (SN) killed (2) |hu3| CrasheR with Grenade
+19-01-22 01:33:28 (2) OXiD:// Slasher killed (1) OXiD://r0x.pT! with Barrett M82A1
+19-01-22 01:33:30 (RADIO)[OXiD://r0x.pT!] [EFC] MIDDLE!
+19-01-22 01:33:30 Griffith captured the Blue Flag
+19-01-22 01:33:31 (2) |hu3| CrasheR killed (1) Predikt (SN) with Combat Knife
+19-01-22 01:33:32 (RADIO)[//\// Elwy] EFC LOW
+19-01-22 01:33:35 (TEAM)[Predikt (SN)] griffith keep mid
+19-01-22 01:33:35 (1) Griffith killed (2) //\// Elwy with Barrett M82A1
+19-01-22 01:33:39 (RADIO)[OXiD://r0x.pT!] MIDDLE
+19-01-22 01:33:40 (1) Predikt (SN) killed (2) |hu3| CrasheR with Barrett M82A1
+19-01-22 01:33:44 (RADIO)[//\// Elwy] INC UP
+19-01-22 01:33:46 (1) OXiD://r0x.pT! killed (2) //\// Elwy with Grenade
+19-01-22 01:33:46 (2) //\// Elwy killed (1) OXiD://r0x.pT! with Steyr AUG
+19-01-22 01:33:46 (1) Predikt (SN) killed (2) OXiD:// Slasher with Barrett M82A1
+19-01-22 01:33:46 (2) OXiD:// Slasher killed (1) Predikt (SN) with Barrett M82A1
+19-01-22 01:33:52 OXiD:// Slasher captured the Red Flag
+19-01-22 01:33:56 (RADIO)[//\// Elwy] INC MID
+19-01-22 01:33:57 (RADIO)[OXiD://r0x.pT!] MIDDLE
+19-01-22 01:33:57 (2) |hu3| CrasheR killed (1) Griffith with Barrett M82A1
+19-01-22 01:33:59 (2) |hu3| CrasheR killed (1) Predikt (SN) with Combat Knife
+19-01-22 01:34:00 (1) Predikt (SN) killed (2) |hu3| CrasheR with Grenade
+19-01-22 01:34:01 (TEAM)[//\// Elwy] *SCORE*
+19-01-22 01:34:01 [|hu3| CrasheR] q
+19-01-22 01:34:01 [Predikt (SN)] Yes, Sir!
+19-01-22 01:34:04 //\// Elwy returned the Blue Flag
+19-01-22 01:34:07 OXiD:// Slasher scores for Bravo Team
+19-01-22 01:34:08 (2) //\// Elwy killed (1) Griffith with Steyr AUG
+19-01-22 01:34:09 (2) |hu3| CrasheR killed (1) Predikt (SN) with Combat Knife
+19-01-22 01:34:10 //\// Elwy captured the Red Flag
+19-01-22 01:34:10 [Predikt (SN)] No!
+19-01-22 01:34:15 (2) |hu3| CrasheR killed (1) Griffith with Barrett M82A1
+19-01-22 01:34:20 (2) |hu3| CrasheR killed (1) Griffith with Barrett M82A1
+19-01-22 01:34:20 //\// Elwy scores for Bravo Team
+19-01-22 01:34:20 (1) Predikt (SN) killed (2) //\// Elwy with Barrett M82A1
+19-01-22 01:34:22 |hu3| CrasheR captured the Red Flag
+19-01-22 01:34:23 (TEAM)[//\// Elwy] BASE!
+19-01-22 01:34:24 OXiD://r0x.pT! captured the Blue Flag
+19-01-22 01:34:25 (RADIO)[Griffith] Enemy flagger down!
+19-01-22 01:34:26 (RADIO)[OXiD://r0x.pT!] [FFC] DOWN!
+19-01-22 01:34:28 (2) |hu3| CrasheR killed (1) OXiD://r0x.pT! with Barrett M82A1
+19-01-22 01:34:29 |hu3| CrasheR returned the Blue Flag
+19-01-22 01:34:31 Griffith captured the Blue Flag
+19-01-22 01:34:32 (1) Griffith killed (2) |hu3| CrasheR with Barrett M82A1
+19-01-22 01:34:32 (2) |hu3| CrasheR killed (1) Griffith with Combat Knife
+19-01-22 01:34:34 (2) OXiD:// Slasher killed (1) Predikt (SN) with Hands
+19-01-22 01:34:35 [|hu3| CrasheR] Yeah
+19-01-22 01:34:35 OXiD:// Slasher returned the Blue Flag
+19-01-22 01:34:35 OXiD:// Slasher captured the Red Flag
+19-01-22 01:34:39 OXiD:// Slasher scores for Bravo Team
+19-01-22 01:34:40 OXiD://r0x.pT! captured the Blue Flag
+19-01-22 01:34:41 (2) OXiD:// Slasher killed (1) OXiD://r0x.pT! with HK MP5
+19-01-22 01:34:42 [OXiD://r0x.pT!] OMG
+19-01-22 01:34:43 OXiD:// Slasher returned the Blue Flag
+19-01-22 01:34:43 (1) Predikt (SN) killed (2) |hu3| CrasheR with Barrett M82A1
+19-01-22 01:34:45 (2) OXiD:// Slasher killed (1) Griffith with HK MP5
+19-01-22 01:34:46 //\// Elwy returned the Blue Flag
+19-01-22 01:34:49 (1) Predikt (SN) killed (2) //\// Elwy with Barrett M82A1
+19-01-22 01:34:51 (TEAM)[//\// Elwy] BASE!
+19-01-22 01:34:51 (2) OXiD:// Slasher killed (1) OXiD://r0x.pT! with Barrett M82A1
+19-01-22 01:34:51 (RADIO)[//\// Elwy] INC MID
+19-01-22 01:34:53 (1) Predikt (SN) killed (2) OXiD:// Slasher with Barrett M82A1
+19-01-22 01:34:55 (2) |hu3| CrasheR killed (1) OXiD://r0x.pT! with Barrett M82A1
+19-01-22 01:34:56 (RADIO)[OXiD:// Slasher] Enemy flagger middle!
+19-01-22 01:34:57 (RADIO)[OXiD://r0x.pT!] [EFC] DOWN!
+19-01-22 01:34:57 |hu3| CrasheR captured the Red Flag
+19-01-22 01:34:57 (1) Predikt (SN) killed (2) |hu3| CrasheR with Barrett M82A1
+19-01-22 01:34:58 (2) //\// Elwy killed (1) Griffith with Steyr AUG
+19-01-22 01:34:59 (TEAM)[OXiD://r0x.pT!] [BASE]
+19-01-22 01:35:00 (TEAM)[OXiD://r0x.pT!] [CLEAR]
+19-01-22 01:35:03 (RADIO)[Griffith] Enemy spotted middle!
+19-01-22 01:35:04 (1) Predikt (SN) killed (2) //\// Elwy with Barrett M82A1
+19-01-22 01:35:04 (2) //\// Elwy killed (1) Predikt (SN) with LAW
+19-01-22 01:35:06 [//\// Elwy] xd
+19-01-22 01:35:06 (1) OXiD://r0x.pT! killed (2) |hu3| CrasheR with FN Minimi
+19-01-22 01:35:10 (2) |hu3| CrasheR killed (1) OXiD://r0x.pT! with Combat Knife
+19-01-22 01:35:10 Griffith captured the Blue Flag
+19-01-22 01:35:14 (1) Predikt (SN) killed (2) //\// Elwy with Barrett M82A1
+19-01-22 01:35:18 (RADIO)[Griffith] Friendly flagger down!
+19-01-22 01:35:20 (1) OXiD://r0x.pT! killed (2) |hu3| CrasheR with Grenade
+19-01-22 01:35:20 Griffith scores for Alpha Team
+19-01-22 01:35:21 (RADIO)[Predikt (SN)] Enemy spotted up!
+19-01-22 01:35:21 (1) OXiD://r0x.pT! killed (2) OXiD:// Slasher with FN Minimi
+19-01-22 01:35:21 (TEAM)[//\// Elwy] BASE!
+19-01-22 01:35:23 Predikt (SN) captured the Blue Flag
+19-01-22 01:35:24 (1) Griffith killed (2) //\// Elwy with Barrett M82A1
+19-01-22 01:35:26 (1) Predikt (SN) killed (2) |hu3| CrasheR with Barrett M82A1
+19-01-22 01:35:30 (1) Predikt (SN) killed (2) OXiD:// Slasher with Barrett M82A1
+19-01-22 01:35:31 Predikt (SN) scores for Alpha Team
+19-01-22 01:35:33 (2) //\// Elwy killed (1) OXiD://r0x.pT! with Steyr AUG
+19-01-22 01:35:38 (2) OXiD:// Slasher killed (1) Griffith with HK MP5
+19-01-22 01:35:40 (1) Predikt (SN) killed (2) //\// Elwy with Barrett M82A1
+19-01-22 01:35:41 (2) |hu3| CrasheR killed (1) Predikt (SN) with Grenade
+19-01-22 01:35:43 (RADIO)[Predikt (SN)] Enemy spotted middle!
+19-01-22 01:35:43 (2) |hu3| CrasheR killed (1) OXiD://r0x.pT! with Barrett M82A1
+19-01-22 01:35:46 (RADIO)[OXiD://r0x.pT!] UP!
+19-01-22 01:35:49 (2) |hu3| CrasheR killed (1) OXiD://r0x.pT! with Barrett M82A1
+19-01-22 01:35:50 (1) Predikt (SN) killed (2) |hu3| CrasheR with Barrett M82A1
+19-01-22 01:35:50 (1) Griffith killed (2) //\// Elwy with Barrett M82A1
+19-01-22 01:35:52 (2) OXiD:// Slasher killed (1) Griffith with Barrett M82A1
+19-01-22 01:35:55 (1) Predikt (SN) killed (2) OXiD:// Slasher with Barrett M82A1
+19-01-22 01:35:57 (1) Predikt (SN) killed (2) //\// Elwy with Grenade
+19-01-22 01:35:58 Predikt (SN) captured the Blue Flag
+19-01-22 01:36:01 (2) |hu3| CrasheR killed (1) Predikt (SN) with Barrett M82A1
+19-01-22 01:36:01 |hu3| CrasheR returned the Blue Flag
+19-01-22 01:36:01 (1) Predikt (SN) killed (2) |hu3| CrasheR with Combat Knife
+19-01-22 01:36:03 [Predikt (SN)] Son of a bitch!
+19-01-22 01:36:03 (RADIO)[OXiD://r0x.pT!] UP!
+19-01-22 01:36:03 [|hu3| CrasheR] Yeah
+19-01-22 01:36:05 (2) //\// Elwy killed (1) OXiD://r0x.pT! with Steyr AUG
+19-01-22 01:36:07 Griffith captured the Blue Flag
+19-01-22 01:36:10 (2) |hu3| CrasheR killed (1) Griffith with Barrett M82A1
+19-01-22 01:36:11 (1) Predikt (SN) killed (2) //\// Elwy with Grenade
+19-01-22 01:36:13 (RADIO)[//\// Elwy] INC MID
+19-01-22 01:36:14 OXiD:// Slasher captured the Red Flag
+19-01-22 01:36:15 (2) |hu3| CrasheR killed (1) OXiD://r0x.pT! with Barrett M82A1
+19-01-22 01:36:18 (1) Predikt (SN) killed (2) //\// Elwy with Barrett M82A1
+19-01-22 01:36:18 (RADIO)[OXiD://r0x.pT!] [EFC] MIDDLE!
+19-01-22 01:36:18 Predikt (SN) captured the Blue Flag
+19-01-22 01:36:19 (2) |hu3| CrasheR killed (1) Griffith with Barrett M82A1
+19-01-22 01:36:19 [//\// Elwy] xd
+19-01-22 01:36:21 (RADIO)[OXiD:// Slasher] Friendly flagger down!
+19-01-22 01:36:30 (2) OXiD:// Slasher killed (1) Predikt (SN) with HK MP5
+19-01-22 01:36:31 (2) OXiD:// Slasher killed (1) OXiD://r0x.pT! with HK MP5
+19-01-22 01:36:32 //\// Elwy returned the Blue Flag
+19-01-22 01:36:32 OXiD:// Slasher scores for Bravo Team
+19-01-22 01:36:33 Time Left: 5 minutes
+19-01-22 01:36:38 (1) Predikt (SN) killed (2) |hu3| CrasheR with Barrett M82A1
+19-01-22 01:36:39 (2) //\// Elwy killed (1) Griffith with Steyr AUG
+19-01-22 01:36:40 (1) Predikt (SN) killed (2) OXiD:// Slasher with Grenade
+19-01-22 01:36:43 (RADIO)[OXiD:// Slasher] Enemy flagger middle!
+19-01-22 01:36:46 (2) //\// Elwy killed (1) OXiD://r0x.pT! with Steyr AUG
+19-01-22 01:36:46 (1) OXiD://r0x.pT! killed (2) |hu3| CrasheR with Grenade
+19-01-22 01:36:49 (2) OXiD:// Slasher killed (1) Griffith with Grenade
+19-01-22 01:36:54 (2) |hu3| CrasheR killed (1) Predikt (SN) with Barrett M82A1
+19-01-22 01:36:58 (2) OXiD:// Slasher killed (1) OXiD://r0x.pT! with Barrett M82A1
+19-01-22 01:36:59 (RADIO)[//\// Elwy] INC MID
+19-01-22 01:37:02 (2) |hu3| CrasheR killed (1) Predikt (SN) with Barrett M82A1
+19-01-22 01:37:03 |hu3| CrasheR captured the Red Flag
+19-01-22 01:37:04 Griffith captured the Blue Flag
+19-01-22 01:37:05 (2) OXiD:// Slasher killed (1) Griffith with HK MP5
+19-01-22 01:37:07 (1) Griffith killed (2) |hu3| CrasheR with Grenade
+19-01-22 01:37:09 //\// Elwy captured the Red Flag
+19-01-22 01:37:11 //\// Elwy scores for Bravo Team
+19-01-22 01:37:13 (1) Predikt (SN) killed (2) //\// Elwy with Grenade
+19-01-22 01:37:14 Predikt (SN) captured the Blue Flag
+19-01-22 01:37:14 (1) Predikt (SN) killed (2) OXiD:// Slasher with Combat Knife
+19-01-22 01:37:14 (2) OXiD:// Slasher killed (1) Predikt (SN) with Grenade
+19-01-22 01:37:15 [Predikt (SN)] Get the flag!
+19-01-22 01:37:16 [Predikt (SN)] Son of a bitch!
+19-01-22 01:37:16 [Predikt (SN)] Get the flag!
+19-01-22 01:37:16 OXiD://r0x.pT! captured the Blue Flag
+19-01-22 01:37:17 (2) |hu3| CrasheR killed (1) Griffith with Barrett M82A1
+19-01-22 01:37:19 (RADIO)[OXiD://r0x.pT!] MIDDLE
+19-01-22 01:37:22 (1) Predikt (SN) killed (2) |hu3| CrasheR with Grenade
+19-01-22 01:37:22 (1) Predikt (SN) killed (2) //\// Elwy with Grenade
+19-01-22 01:37:23 (RADIO)[|hu3| CrasheR] Enemy flagger down!
+19-01-22 01:37:23 (1) Predikt (SN) killed (2) OXiD:// Slasher with Barrett M82A1
+19-01-22 01:37:24 (TEAM)[|hu3| CrasheR] weak
+19-01-22 01:37:25 (TEAM)[|hu3| CrasheR] 1%
+19-01-22 01:37:28 OXiD://r0x.pT! scores for Alpha Team
+19-01-22 01:37:30 (2) OXiD:// Slasher killed (1) Predikt (SN) with Grenade
+19-01-22 01:37:31 (1) Griffith killed (2) OXiD:// Slasher with Barrett M82A1
+19-01-22 01:37:32 (RADIO)[Predikt (SN)] Enemy spotted up!
+19-01-22 01:37:33 (2) |hu3| CrasheR killed (1) OXiD://r0x.pT! with Barrett M82A1
+19-01-22 01:37:33 Time Left: 4 minutes
+19-01-22 01:37:34 (2) //\// Elwy killed (1) Griffith with Desert Eagles
+19-01-22 01:37:35 (RADIO)[Griffith] Enemy spotted middle!
+19-01-22 01:37:36 |hu3| CrasheR captured the Red Flag
+19-01-22 01:37:40 (RADIO)[//\// Elwy] INC UP
+19-01-22 01:37:42 (1) OXiD://r0x.pT! killed (2) //\// Elwy with M79
+19-01-22 01:37:43 OXiD://r0x.pT! captured the Blue Flag
+19-01-22 01:37:43 (2) //\// Elwy killed (1) OXiD://r0x.pT! with Grenade
+19-01-22 01:37:45 OXiD:// Slasher returned the Blue Flag
+19-01-22 01:37:45 [OXiD://r0x.pT!] twhat
+19-01-22 01:37:45 (RADIO)[//\// Elwy] INC MID
+19-01-22 01:37:46 Predikt (SN) captured the Blue Flag
+19-01-22 01:37:46 (1) Predikt (SN) killed (2) |hu3| CrasheR with Barrett M82A1
+19-01-22 01:37:47 Predikt (SN) returned the Red Flag
+19-01-22 01:37:47 181.160.131.94:23073|34B05B4CF39 requesting game...
+19-01-22 01:37:48 (2) OXiD:// Slasher killed (1) Predikt (SN) with HK MP5
+19-01-22 01:37:48 (1) Predikt (SN) killed (2) OXiD:// Slasher with Combat Knife
+19-01-22 01:37:49 Griffith captured the Blue Flag
+19-01-22 01:37:50 (RADIO)[|hu3| CrasheR] Enemy flagger down!
+19-01-22 01:37:51 sk!T.chub0 joining game (181.160.131.94:23073) HWID:34B05B4CF39
+19-01-22 01:37:51 sk!T.chub0 has joined as spectator.
+19-01-22 01:37:52 (RADIO)[OXiD://r0x.pT!] MIDDLE
+19-01-22 01:37:55 [sk!T.chub0] !info
+19-01-22 01:37:55 (2) |hu3| CrasheR killed (1) OXiD://r0x.pT! with Barrett M82A1
+19-01-22 01:37:55 /say Gather.SA (elapsed time 0:10:12) (206.81.24.116)
+19-01-22 01:37:55 /say Alpha: predikt - r0x - Griffith (206.81.24.116)
+19-01-22 01:37:55 /say Bravo: Elwy - CrasheR - Slasher (206.81.24.116)
+19-01-22 01:37:55 /say Tiebreaker: ctf_Steel (206.81.24.116)
+19-01-22 01:37:56 (RADIO)[OXiD://r0x.pT!] UP!
+19-01-22 01:37:58 Griffith scores for Alpha Team
+19-01-22 01:37:59 (1) Predikt (SN) killed (2) OXiD:// Slasher with Grenade
+19-01-22 01:38:01 (1) Predikt (SN) killed (2) |hu3| CrasheR with Barrett M82A1
+19-01-22 01:38:03 (2) //\// Elwy killed (1) Predikt (SN) with Grenade
+19-01-22 01:38:04 (RADIO)[Predikt (SN)] Enemy spotted middle!
+19-01-22 01:38:06 //\// Elwy captured the Red Flag
+19-01-22 01:38:08 (1) OXiD://r0x.pT! killed (2) OXiD:// Slasher with M79
+19-01-22 01:38:10 (1) Predikt (SN) killed (2) //\// Elwy with Barrett M82A1
+19-01-22 01:38:10 Griffith captured the Blue Flag
+19-01-22 01:38:11 (1) Griffith killed (2) |hu3| CrasheR with Barrett M82A1
+19-01-22 01:38:11 (2) |hu3| CrasheR killed (1) OXiD://r0x.pT! with Grenade
+19-01-22 01:38:14 OXiD:// Slasher captured the Red Flag
+19-01-22 01:38:16 (2) //\// Elwy killed (1) Predikt (SN) with Desert Eagles
+19-01-22 01:38:19 [Predikt (SN)] fuckign hell
+19-01-22 01:38:23 (2) OXiD:// Slasher killed (1) OXiD://r0x.pT! with HK MP5
+19-01-22 01:38:23 (2) |hu3| CrasheR killed (1) Predikt (SN) with Combat Knife
+19-01-22 01:38:28 (2) |hu3| CrasheR killed (1) Griffith with Barrett M82A1
+19-01-22 01:38:29 OXiD://r0x.pT! captured the Blue Flag
+19-01-22 01:38:29 (1) Predikt (SN) killed (2) //\// Elwy with Grenade
+19-01-22 01:38:31 (RADIO)[//\// Elwy] INC UP
+19-01-22 01:38:32 (TEAM)[//\// Elwy] BASE!
+19-01-22 01:38:33 Time Left: 3 minutes
+19-01-22 01:38:35 (2) |hu3| CrasheR killed (1) OXiD://r0x.pT! with Barrett M82A1
+19-01-22 01:38:36 (1) Predikt (SN) killed (2) //\// Elwy with Barrett M82A1
+19-01-22 01:38:36 |hu3| CrasheR returned the Blue Flag
+19-01-22 01:38:36 (1) Griffith killed (2) |hu3| CrasheR with Barrett M82A1
+19-01-22 01:38:39 OXiD:// Slasher scores for Bravo Team
+19-01-22 01:38:40 [|hu3| CrasheR] Yeah
+19-01-22 01:38:41 (2) //\// Elwy killed (1) Predikt (SN) with Desert Eagles
+19-01-22 01:38:44 Griffith captured the Blue Flag
+19-01-22 01:38:44 (2) OXiD:// Slasher killed (1) Griffith with Grenade
+19-01-22 01:38:45 (RADIO)[OXiD://r0x.pT!] MIDDLE
+19-01-22 01:38:46 OXiD:// Slasher returned the Blue Flag
+19-01-22 01:38:46 (1) OXiD://r0x.pT! killed (2) |hu3| CrasheR with M79
+19-01-22 01:38:50 //\// Elwy returned the Blue Flag
+19-01-22 01:38:51 [OXiD://r0x.pT!] .
+19-01-22 01:38:58 (2) //\// Elwy killed (1) Griffith with Desert Eagles
+19-01-22 01:39:02 (1) Predikt (SN) killed (2) |hu3| CrasheR with Grenade
+19-01-22 01:39:04 (2) //\// Elwy killed (1) Predikt (SN) with Desert Eagles
+19-01-22 01:39:05 (1) Predikt (SN) killed (2) //\// Elwy with Combat Knife
+19-01-22 01:39:05 (2) OXiD:// Slasher killed (1) OXiD://r0x.pT! with HK MP5
+19-01-22 01:39:05 (1) OXiD://r0x.pT! killed (2) OXiD:// Slasher with M79
+19-01-22 01:39:07 (TEAM)[Predikt (SN)] free low
+19-01-22 01:39:09 (TEAM)[Predikt (SN)] go rush low
+19-01-22 01:39:10 |hu3| CrasheR returned the Blue Flag
+19-01-22 01:39:10 Griffith captured the Blue Flag
+19-01-22 01:39:11 (2) |hu3| CrasheR killed (1) Griffith with Barrett M82A1
+19-01-22 01:39:13 |hu3| CrasheR returned the Blue Flag
+19-01-22 01:39:13 (1) Predikt (SN) killed (2) //\// Elwy with Barrett M82A1
+19-01-22 01:39:14 (2) //\// Elwy killed (1) Predikt (SN) with Desert Eagles
+19-01-22 01:39:15 (RADIO)[Predikt (SN)] Enemy spotted middle!
+19-01-22 01:39:15 (RADIO)[Predikt (SN)] Enemy spotted middle!
+19-01-22 01:39:16 (2) |hu3| CrasheR killed (1) OXiD://r0x.pT! with Barrett M82A1
+19-01-22 01:39:24 (2) |hu3| CrasheR killed (1) OXiD://r0x.pT! with Combat Knife
+19-01-22 01:39:24 (2) //\// Elwy killed (1) Predikt (SN) with Desert Eagles
+19-01-22 01:39:24 (2) OXiD:// Slasher killed (1) Griffith with HK MP5
+19-01-22 01:39:24 OXiD:// Slasher captured the Red Flag
+19-01-22 01:39:26 (RADIO)[OXiD://r0x.pT!] [EFC] DOWN!
+19-01-22 01:39:28 (2) |hu3| CrasheR killed (1) Griffith with Barrett M82A1
+19-01-22 01:39:28 (2) |hu3| CrasheR killed (1) OXiD://r0x.pT! with Barrett M82A1
+19-01-22 01:39:33 (1) Predikt (SN) killed (2) //\// Elwy with Barrett M82A1
+19-01-22 01:39:33 Time Left: 2 minutes
+19-01-22 01:39:38 OXiD:// Slasher scores for Bravo Team
+19-01-22 01:39:39 Predikt (SN) captured the Blue Flag
+19-01-22 01:39:39 (2) //\// Elwy killed (1) Predikt (SN) with Desert Eagles
+19-01-22 01:39:41 (2) //\// Elwy killed (1) OXiD://r0x.pT! with Desert Eagles
+19-01-22 01:39:43 OXiD:// Slasher returned the Blue Flag
+19-01-22 01:39:49 sk!T.chub0 has left spectators
+19-01-22 01:39:50 OXiD:// Slasher captured the Red Flag
+19-01-22 01:39:50 (1) Predikt (SN) killed (2) |hu3| CrasheR with Barrett M82A1
+19-01-22 01:39:54 OXiD://r0x.pT! captured the Blue Flag
+19-01-22 01:39:54 (2) //\// Elwy killed (1) OXiD://r0x.pT! with Desert Eagles
+19-01-22 01:39:56 (2) OXiD:// Slasher killed (1) Predikt (SN) with HK MP5
+19-01-22 01:39:57 Griffith captured the Blue Flag
+19-01-22 01:39:58 (RADIO)[Predikt (SN)] Enemy flagger down!
+19-01-22 01:39:58 (RADIO)[Predikt (SN)] Enemy flagger down!
+19-01-22 01:39:58 (RADIO)[//\// Elwy] EFC LOW
+19-01-22 01:40:00 (2) |hu3| CrasheR killed (1) OXiD://r0x.pT! with Barrett M82A1
+19-01-22 01:40:00 (1) Griffith killed (2) OXiD:// Slasher with Barrett M82A1
+19-01-22 01:40:01 (RADIO)[OXiD:// Slasher] Friendly flagger down!
+19-01-22 01:40:02 (1) Predikt (SN) killed (2) |hu3| CrasheR with Combat Knife
+19-01-22 01:40:02 Griffith returned the Red Flag
+19-01-22 01:40:05 (1) OXiD://r0x.pT! killed (2) //\// Elwy with Combat Knife
+19-01-22 01:40:06 (RADIO)[//\// Elwy] INC UP
+19-01-22 01:40:08 (1) OXiD://r0x.pT! killed (2) OXiD:// Slasher with M79
+19-01-22 01:40:10 Griffith scores for Alpha Team
+19-01-22 01:40:12 |hu3| CrasheR captured the Red Flag
+19-01-22 01:40:13 OXiD://r0x.pT! captured the Blue Flag
+19-01-22 01:40:13 (RADIO)[Griffith] Enemy flagger down!
+19-01-22 01:40:15 (2) //\// Elwy killed (1) OXiD://r0x.pT! with Desert Eagles
+19-01-22 01:40:17 (RADIO)[|hu3| CrasheR] Friendly flagger down!
+19-01-22 01:40:18 (1) Predikt (SN) killed (2) //\// Elwy with Barrett M82A1
+19-01-22 01:40:18 (2) //\// Elwy killed (1) Predikt (SN) with Desert Eagles
+19-01-22 01:40:19 (RADIO)[//\// Elwy] INC MID
+19-01-22 01:40:22 (2) OXiD:// Slasher killed (1) Griffith with HK MP5
+19-01-22 01:40:23 OXiD:// Slasher returned the Blue Flag
+19-01-22 01:40:26 (1) OXiD://r0x.pT! killed (2) OXiD:// Slasher with M79
+19-01-22 01:40:26 OXiD://r0x.pT! captured the Blue Flag
+19-01-22 01:40:26 (2) |hu3| CrasheR killed (1) OXiD://r0x.pT! with Barrett M82A1
+19-01-22 01:40:26 Next map: Lobby
+19-01-22 01:40:26 |hu3| CrasheR scores for Bravo Team
+19-01-22 01:40:27 [|hu3| CrasheR] Hurraaaa!!!
+19-01-22 01:40:29 [Predikt (SN)] jesus
+19-01-22 01:40:30 [Predikt (SN)] LOL
+19-01-22 01:40:32 Lothic - Gothic Lobby Room
+19-01-22 01:40:33 [//\// Elwy] xD
+19-01-22 01:40:34 [OXiD://r0x.pT!] useless server
+19-01-22 01:40:37 [OXiD://r0x.pT!] i cant hit
+19-01-22 01:40:45 [Predikt (SN)] hesus
+19-01-22 01:40:46 [Predikt (SN)] puerto
+19-01-22 01:40:50 [Predikt (SN)] vino huevo
+19-01-22 01:40:54 [OXiD://r0x.pT!] :(
+19-01-22 01:40:54 (TEAM)[//\// Elwy] MAP?
+19-01-22 01:40:58 OXiD://r0x.pT! has left alpha team.
+19-01-22 01:41:00 (TEAM)[OXiD:// Slasher] wretch
+19-01-22 01:41:04 144.64.115.204:62089|2E51B08CF1A requesting game...
+19-01-22 01:41:05 OXiD://r0x! joining game (144.64.115.204:62089) HWID:2E51B08CF1A
+19-01-22 01:41:05 OXiD://r0x! has joined as spectator.
+19-01-22 01:41:09 [OXiD://r0x!] !a
+19-01-22 01:41:09 OXiD://r0x! has joined alpha team.
+19-01-22 01:41:14 [OXiD:// Slasher] !map Wretch
+19-01-22 01:41:17 [Predikt (SN)] Hurraaaa!!!
+19-01-22 01:41:17 (RADIO)[OXiD://r0x!] DOWN!
+19-01-22 01:41:19 (RADIO)[//\// Elwy] INC UP
+19-01-22 01:41:20 Wretch by AdamD
+19-01-22 01:41:24 [OXiD:// Slasher] !r
+19-01-22 01:41:24 Restarting...
+19-01-22 01:41:26 [Predikt (SN)] Hurraaaa!!!
+19-01-22 01:41:30 Wretch by AdamD
+19-01-22 01:41:37 (2) |hu3| CrasheR killed (1) OXiD://r0x! with Grenade
+19-01-22 01:41:38 |hu3| CrasheR captured the Red Flag
+19-01-22 01:41:40 (1) Predikt (SN) killed (2) OXiD:// Slasher with XM214 Minigun
+19-01-22 01:41:40 (1) Predikt (SN) killed (2) |hu3| CrasheR with XM214 Minigun
+19-01-22 01:41:41 Griffith captured the Blue Flag
+19-01-22 01:41:41 (2) //\// Elwy killed (1) Griffith with USSOCOM
+19-01-22 01:41:45 Predikt (SN) returned the Red Flag
+19-01-22 01:41:49 (RADIO)[OXiD://r0x!] UP!
+19-01-22 01:41:50 (1) Griffith killed (2) OXiD:// Slasher with Barrett M82A1
+19-01-22 01:41:52 (2) //\// Elwy killed (1) OXiD://r0x! with USSOCOM
+19-01-22 01:41:52 Griffith captured the Blue Flag
+19-01-22 01:41:53 (2) |hu3| CrasheR killed (1) Griffith with Grenade
+19-01-22 01:41:57 OXiD:// Slasher returned the Blue Flag
+19-01-22 01:41:58 |hu3| CrasheR captured the Red Flag
+19-01-22 01:41:58 (2) |hu3| CrasheR killed (1) OXiD://r0x! with Grenade
+19-01-22 01:41:59 (2) //\// Elwy killed (1) Griffith with M79
+19-01-22 01:42:01 (1) Predikt (SN) killed (2) OXiD:// Slasher with Grenade
+19-01-22 01:42:03 (1) Predikt (SN) killed (2) |hu3| CrasheR with XM214 Minigun
+19-01-22 01:42:03 (2) |hu3| CrasheR killed (1) Predikt (SN) with Ak-74
+19-01-22 01:42:04 (RADIO)[|hu3| CrasheR] Friendly flagger middle!
+19-01-22 01:42:05 (TEAM)[|hu3| CrasheR] loose
+19-01-22 01:42:06 (2) //\// Elwy killed (1) OXiD://r0x! with Grenade
+19-01-22 01:42:07 (RADIO)[OXiD://r0x!] [EFC] DOWN!
+19-01-22 01:42:07 //\// Elwy captured the Red Flag
+19-01-22 01:42:10 Predikt (SN) returned the Red Flag
+19-01-22 01:42:11 (2) //\// Elwy killed (1) Predikt (SN) with Grenade
+19-01-22 01:42:12 [Predikt (SN)] Yes, Sir!
+19-01-22 01:42:12 (1) Griffith killed (2) OXiD:// Slasher with Barrett M82A1
+19-01-22 01:42:12 (1) OXiD://r0x! killed (2) |hu3| CrasheR with Spas-12
+19-01-22 01:42:13 Griffith captured the Blue Flag
+19-01-22 01:42:13 (TEAM)[OXiD://r0x!] [CLEAR]
+19-01-22 01:42:14 (2) //\// Elwy killed (1) Griffith with Grenade
+19-01-22 01:42:15 (2) //\// Elwy killed (1) OXiD://r0x! with Grenade
+19-01-22 01:42:18 OXiD:// Slasher returned the Blue Flag
+19-01-22 01:42:18 (1) Predikt (SN) killed (2) //\// Elwy with Grenade
+19-01-22 01:42:19 (TEAM)[//\// Elwy] sry
+19-01-22 01:42:22 (1) Predikt (SN) killed (2) |hu3| CrasheR with XM214 Minigun
+19-01-22 01:42:28 (2) OXiD:// Slasher killed (1) Predikt (SN) with HK MP5
+19-01-22 01:42:28 Griffith captured the Blue Flag
+19-01-22 01:42:29 (2) //\// Elwy killed (1) Griffith with M79
+19-01-22 01:42:30 (RADIO)[Predikt (SN)] Enemy spotted middle!
+19-01-22 01:42:34 (1) OXiD://r0x! killed (2) //\// Elwy with Spas-12
+19-01-22 01:42:36 (2) OXiD:// Slasher killed (1) OXiD://r0x! with HK MP5
+19-01-22 01:42:37 (RADIO)[OXiD://r0x!] UP!
+19-01-22 01:42:37 (1) Predikt (SN) killed (2) OXiD:// Slasher with Grenade
+19-01-22 01:42:45 (1) Predikt (SN) killed (2) |hu3| CrasheR with XM214 Minigun
+19-01-22 01:42:45 (RADIO)[OXiD://r0x!] UP!
+19-01-22 01:42:45 (2) OXiD:// Slasher killed (1) OXiD://r0x! with HK MP5
+19-01-22 01:42:46 (2) //\// Elwy killed (1) Predikt (SN) with M79
+19-01-22 01:42:47 (1) Griffith killed (2) OXiD:// Slasher with M79
+19-01-22 01:42:47 (2) OXiD:// Slasher killed (1) Griffith with Grenade
+19-01-22 01:42:48 [Predikt (SN)] Die!
+19-01-22 01:42:48 [Predikt (SN)] Son of a bitch!
+19-01-22 01:42:48 [Predikt (SN)] Die!
+19-01-22 01:42:51 //\// Elwy captured the Red Flag
+19-01-22 01:42:54 (1) Predikt (SN) killed (2) |hu3| CrasheR with XM214 Minigun
+19-01-22 01:42:55 (1) Griffith killed (2) //\// Elwy with M79
+19-01-22 01:42:55 (2) OXiD:// Slasher killed (1) Griffith with HK MP5
+19-01-22 01:42:56 (2) OXiD:// Slasher killed (1) Predikt (SN) with HK MP5
+19-01-22 01:42:56 OXiD:// Slasher captured the Red Flag
+19-01-22 01:42:57 (2) OXiD:// Slasher killed (1) OXiD://r0x! with HK MP5
+19-01-22 01:42:59 [OXiD://r0x!] DIE
+19-01-22 01:42:59 OXiD:// Slasher scores for Bravo Team
+19-01-22 01:42:59 [//\// Elwy] x
+19-01-22 01:43:03 (2) |hu3| CrasheR killed (1) Predikt (SN) with Grenade
+19-01-22 01:43:05 (2) |hu3| CrasheR killed (1) Griffith with Ak-74
+19-01-22 01:43:07 (1) Predikt (SN) killed (2) //\// Elwy with XM214 Minigun
+19-01-22 01:43:11 (1) Predikt (SN) killed (2) |hu3| CrasheR with XM214 Minigun
+19-01-22 01:43:13 (2) OXiD:// Slasher killed (1) Predikt (SN) with HK MP5
+19-01-22 01:43:13 (1) OXiD://r0x! killed (2) //\// Elwy with Spas-12
+19-01-22 01:43:13 OXiD:// Slasher captured the Red Flag
+19-01-22 01:43:13 OXiD://r0x! captured the Blue Flag
+19-01-22 01:43:14 (RADIO)[//\// Elwy] INC LOW
+19-01-22 01:43:14 (RADIO)[OXiD://r0x!] [FFC] DOWN!
+19-01-22 01:43:15 (TEAM)[//\// Elwy] LOW %HP%
+19-01-22 01:43:23 (1) Predikt (SN) killed (2) |hu3| CrasheR with XM214 Minigun
+19-01-22 01:43:23 (2) |hu3| CrasheR killed (1) Griffith with Grenade
+19-01-22 01:43:26 (RADIO)[|hu3| CrasheR] Enemy spotted up!
+19-01-22 01:43:27 (TEAM)[|hu3| CrasheR] weak
+19-01-22 01:43:27 (1) OXiD://r0x! killed (2) //\// Elwy with Spas-12
+19-01-22 01:43:28 (RADIO)[//\// Elwy] INC UP
+19-01-22 01:43:31 (1) OXiD://r0x! killed (2) |hu3| CrasheR with Spas-12
+19-01-22 01:43:34 (1) OXiD://r0x! killed (2) //\// Elwy with Spas-12
+19-01-22 01:43:37 (2) |hu3| CrasheR killed (1) Predikt (SN) with Combat Knife
+19-01-22 01:43:38 (2) |hu3| CrasheR killed (1) OXiD://r0x! with Ak-74
+19-01-22 01:43:39 (1) Griffith killed (2) |hu3| CrasheR with Grenade
+19-01-22 01:43:40 (2) OXiD:// Slasher killed (1) Griffith with Grenade
+19-01-22 01:43:40 [|hu3| CrasheR] q
+19-01-22 01:43:44 OXiD://r0x! captured the Blue Flag
+19-01-22 01:43:45 (2) |hu3| CrasheR killed (1) Predikt (SN) with Ak-74
+19-01-22 01:43:46 [Griffith] xd
+19-01-22 01:43:47 (1) OXiD://r0x! killed (2) //\// Elwy with Spas-12
+19-01-22 01:43:50 Predikt (SN) captured the Blue Flag
+19-01-22 01:43:50 (RADIO)[OXiD://r0x!] MIDDLE
+19-01-22 01:43:50 (2) OXiD:// Slasher killed (1) OXiD://r0x! with HK MP5
+19-01-22 01:43:51 (1) Predikt (SN) killed (2) |hu3| CrasheR with Combat Knife
+19-01-22 01:43:52 [|hu3| CrasheR] Die!
+19-01-22 01:43:52 [|hu3| CrasheR] You're one ugly mother fu**er!
+19-01-22 01:43:55 (2) //\// Elwy killed (1) Griffith with USSOCOM
+19-01-22 01:43:58 (1) Predikt (SN) killed (2) |hu3| CrasheR with Barrett M82A1
+19-01-22 01:44:00 (1) OXiD://r0x! killed (2) //\// Elwy with Grenade
+19-01-22 01:44:00 (RADIO)[|hu3| CrasheR] Enemy flagger middle!
+19-01-22 01:44:00 OXiD:// Slasher captured the Red Flag
+19-01-22 01:44:01 (RADIO)[//\// Elwy] INC UP
+19-01-22 01:44:04 (2) OXiD:// Slasher killed (1) OXiD://r0x! with HK MP5
+19-01-22 01:44:06 (2) //\// Elwy killed (1) Griffith with USSOCOM
+19-01-22 01:44:06 (1) Griffith killed (2) OXiD:// Slasher with M79
+19-01-22 01:44:12 (2) OXiD:// Slasher killed (1) Griffith with Grenade
+19-01-22 01:44:15 (1) OXiD://r0x! killed (2) //\// Elwy with Spas-12
+19-01-22 01:44:16 (TEAM)[OXiD://r0x!] [CLEAR]
+19-01-22 01:44:16 (RADIO)[//\// Elwy] INC UP
+19-01-22 01:44:16 (RADIO)[Griffith] Enemy spotted down!
+19-01-22 01:44:17 (1) Predikt (SN) killed (2) |hu3| CrasheR with Grenade
+19-01-22 01:44:18 (2) OXiD:// Slasher killed (1) Predikt (SN) with HK MP5
+19-01-22 01:44:18 (1) Predikt (SN) killed (2) OXiD:// Slasher with Grenade
+19-01-22 01:44:19 //\// Elwy captured the Red Flag
+19-01-22 01:44:20 Griffith captured the Blue Flag
+19-01-22 01:44:23 (2) OXiD:// Slasher killed (1) OXiD://r0x! with HK MP5
+19-01-22 01:44:25 (RADIO)[OXiD://r0x!] UP!
+19-01-22 01:44:26 (2) //\// Elwy killed (1) Predikt (SN) with Grenade
+19-01-22 01:44:27 |hu3| CrasheR captured the Red Flag
+19-01-22 01:44:28 OXiD://r0x! captured the Blue Flag
+19-01-22 01:44:30 (2) //\// Elwy killed (1) Griffith with USSOCOM
+19-01-22 01:44:31 (2) OXiD:// Slasher killed (1) OXiD://r0x! with HK MP5
+19-01-22 01:44:32 Predikt (SN) captured the Blue Flag
+19-01-22 01:44:33 (1) Predikt (SN) killed (2) OXiD:// Slasher with Grenade
+19-01-22 01:44:37 //\// Elwy captured the Red Flag
+19-01-22 01:44:40 189.6.22.6:20978|72A3866AE4B requesting game...
+19-01-22 01:44:41 (1) OXiD://r0x! killed (2) |hu3| CrasheR with Spas-12
+19-01-22 01:44:41 (2) OXiD:// Slasher killed (1) Griffith with HK MP5
+19-01-22 01:44:43 |hu3|  pala joining game (189.6.22.6:20978) HWID:72A3866AE4B
+19-01-22 01:44:43 |hu3|  pala has joined as spectator.
+19-01-22 01:44:46 (2) |hu3| CrasheR killed (1) OXiD://r0x! with Grenade
+19-01-22 01:44:50 (RADIO)[OXiD://r0x!] DOWN!
+19-01-22 01:44:52 (2) //\// Elwy killed (1) Griffith with M79
+19-01-22 01:44:53 OXiD://r0x! captured the Blue Flag
+19-01-22 01:44:53 (1) Predikt (SN) killed (2) //\// Elwy with Combat Knife
+19-01-22 01:44:55 Predikt (SN) returned the Red Flag
+19-01-22 01:44:55 (1) OXiD://r0x! killed (2) |hu3| CrasheR with Spas-12
+19-01-22 01:44:58 OXiD://r0x! scores for Alpha Team
+19-01-22 01:44:59 (1) Predikt (SN) killed (2) //\// Elwy with Barrett M82A1
+19-01-22 01:45:00 (2) OXiD:// Slasher killed (1) Griffith with HK MP5
+19-01-22 01:45:01 OXiD:// Slasher captured the Red Flag
+19-01-22 01:45:02 Predikt (SN) captured the Blue Flag
+19-01-22 01:45:03 (1) OXiD://r0x! killed (2) |hu3| CrasheR with Spas-12
+19-01-22 01:45:05 (RADIO)[|hu3| CrasheR] Enemy flagger up!
+19-01-22 01:45:05 (2) OXiD:// Slasher killed (1) OXiD://r0x! with HK MP5
+19-01-22 01:45:06 (RADIO)[OXiD://r0x!] [FFC] DOWN!
+19-01-22 01:45:09 (RADIO)[OXiD://r0x!] UP!
+19-01-22 01:45:11 (1) OXiD://r0x! killed (2) //\// Elwy with Grenade
+19-01-22 01:45:13 (2) |hu3| CrasheR killed (1) Predikt (SN) with Ak-74
+19-01-22 01:45:14 (1) Griffith killed (2) OXiD:// Slasher with M79
+19-01-22 01:45:16 (RADIO)[OXiD://r0x!] UP!
+19-01-22 01:45:16 (RADIO)[Griffith] Friendly flagger middle!
+19-01-22 01:45:18 //\// Elwy captured the Red Flag
+19-01-22 01:45:19 (2) //\// Elwy killed (1) OXiD://r0x! with USSOCOM
+19-01-22 01:45:19 (1) OXiD://r0x! killed (2) //\// Elwy with Combat Knife
+19-01-22 01:45:20 Predikt (SN) captured the Blue Flag
+19-01-22 01:45:20 OXiD:// Slasher captured the Red Flag
+19-01-22 01:45:25 (2) |hu3| CrasheR killed (1) OXiD://r0x! with Combat Knife
+19-01-22 01:45:25 (1) OXiD://r0x! killed (2) |hu3| CrasheR with Grenade
+19-01-22 01:45:27 (TEAM)[OXiD://r0x!] [CLEAR]
+19-01-22 01:45:27 (2) //\// Elwy killed (1) Griffith with USSOCOM
+19-01-22 01:45:32 (RADIO)[Griffith] Enemy spotted down!
+19-01-22 01:45:37 (1) OXiD://r0x! killed (2) |hu3| CrasheR with Spas-12
+19-01-22 01:45:37 (1) Predikt (SN) killed (2) //\// Elwy with Barrett M82A1
+19-01-22 01:45:38 (1) Griffith killed (2) OXiD:// Slasher with M79
+19-01-22 01:45:39 OXiD://r0x! returned the Red Flag
+19-01-22 01:45:40 (TEAM)[OXiD://r0x!] [CAP]
+19-01-22 01:45:43 Predikt (SN) scores for Alpha Team
+19-01-22 01:45:43 (2) |hu3| CrasheR killed (1) OXiD://r0x! with Ak-74
+19-01-22 01:45:44 (2) OXiD:// Slasher killed (1) Griffith with HK MP5
+19-01-22 01:45:44 (1) Griffith killed (2) OXiD:// Slasher with M79
+19-01-22 01:45:46 (RADIO)[OXiD://r0x!] DOWN!
+19-01-22 01:45:46 (2) |hu3| CrasheR killed (1) Predikt (SN) with Ak-74
+19-01-22 01:45:49 (1) OXiD://r0x! killed (2) |hu3| CrasheR with Spas-12
+19-01-22 01:45:51 //\// Elwy captured the Red Flag
+19-01-22 01:45:54 (1) OXiD://r0x! killed (2) //\// Elwy with Spas-12
+19-01-22 01:45:56 (2) OXiD:// Slasher killed (1) Predikt (SN) with HK MP5
+19-01-22 01:45:57 |hu3| CrasheR captured the Red Flag
+19-01-22 01:45:58 OXiD://r0x! captured the Blue Flag
+19-01-22 01:46:01 (2) OXiD:// Slasher killed (1) OXiD://r0x! with HK MP5
+19-01-22 01:46:03 (RADIO)[//\// Elwy] INC LOW
+19-01-22 01:46:03 (1) Predikt (SN) killed (2) //\// Elwy with Combat Knife
+19-01-22 01:46:05 (TEAM)[//\// Elwy] BASE!
+19-01-22 01:46:05 (2) |hu3| CrasheR killed (1) Griffith with HK MP5
+19-01-22 01:46:06 (2) |hu3| CrasheR killed (1) Predikt (SN) with HK MP5
+19-01-22 01:46:07 OXiD:// Slasher returned the Blue Flag
+19-01-22 01:46:10 (RADIO)[OXiD://r0x!] DOWN!
+19-01-22 01:46:10 |hu3| CrasheR scores for Bravo Team
+19-01-22 01:46:11 (2) //\// Elwy killed (1) OXiD://r0x! with M79
+19-01-22 01:46:11 OXiD:// Slasher captured the Red Flag
+19-01-22 01:46:13 (1) Predikt (SN) killed (2) OXiD:// Slasher with Barrett M82A1
+19-01-22 01:46:14 //\// Elwy captured the Red Flag
+19-01-22 01:46:16 (1) Griffith killed (2) |hu3| CrasheR with M79
+19-01-22 01:46:16 (1) Predikt (SN) killed (2) //\// Elwy with HK MP5
+19-01-22 01:46:19 Predikt (SN) returned the Red Flag
+19-01-22 01:46:19 (2) OXiD:// Slasher killed (1) Griffith with Combat Knife
+19-01-22 01:46:23 (2) //\// Elwy killed (1) OXiD://r0x! with Combat Knife
+19-01-22 01:46:24 (1) Predikt (SN) killed (2) OXiD:// Slasher with HK MP5
+19-01-22 01:46:25 Predikt (SN) captured the Blue Flag
+19-01-22 01:46:26 (RADIO)[OXiD://r0x!] UP!
+19-01-22 01:46:27 (2) |hu3| CrasheR killed (1) Griffith with HK MP5
+19-01-22 01:46:28 (2) //\// Elwy killed (1) Predikt (SN) with M79
+19-01-22 01:46:28 |hu3| CrasheR captured the Red Flag
+19-01-22 01:46:29 (RADIO)[OXiD:// Slasher] Friendly flagger middle!
+19-01-22 01:46:30 (1) OXiD://r0x! killed (2) |hu3| CrasheR with Spas-12
+19-01-22 01:46:30 Time Left: 5 minutes
+19-01-22 01:46:30 OXiD:// Slasher returned the Blue Flag
+19-01-22 01:46:33 (2) OXiD:// Slasher killed (1) OXiD://r0x! with Grenade
+19-01-22 01:46:34 (RADIO)[OXiD://r0x!] UP!
+19-01-22 01:46:35 Predikt (SN) returned the Red Flag
+19-01-22 01:46:36 (2) OXiD:// Slasher killed (1) Predikt (SN) with HK MP5
+19-01-22 01:46:37 (RADIO)[Predikt (SN)] Enemy spotted middle!
+19-01-22 01:46:37 (1) OXiD://r0x! killed (2) //\// Elwy with Grenade
+19-01-22 01:46:39 Griffith captured the Blue Flag
+19-01-22 01:46:39 OXiD:// Slasher captured the Red Flag
+19-01-22 01:46:40 (1) OXiD://r0x! killed (2) OXiD:// Slasher with Combat Knife
+19-01-22 01:46:40 OXiD://r0x! returned the Red Flag
+19-01-22 01:46:43 (2) |hu3| CrasheR killed (1) Predikt (SN) with HK MP5
+19-01-22 01:46:46 Griffith scores for Alpha Team
+19-01-22 01:46:46 (2) OXiD:// Slasher killed (1) OXiD://r0x! with HK MP5
+19-01-22 01:46:47 (2) //\// Elwy killed (1) Griffith with M79
+19-01-22 01:46:47 //\// Elwy captured the Red Flag
+19-01-22 01:46:49 (2) |hu3| CrasheR killed (1) Predikt (SN) with Combat Knife
+19-01-22 01:46:51 (RADIO)[Predikt (SN)] Enemy flagger down!
+19-01-22 01:46:52 (1) OXiD://r0x! killed (2) |hu3| CrasheR with Spas-12
+19-01-22 01:46:55 //\// Elwy scores for Bravo Team
+19-01-22 01:46:56 (2) //\// Elwy killed (1) Griffith with M79
+19-01-22 01:46:56 (RADIO)[OXiD://r0x!] UP!
+19-01-22 01:46:57 (2) OXiD:// Slasher killed (1) OXiD://r0x! with HK MP5
+19-01-22 01:46:58 (1) OXiD://r0x! killed (2) OXiD:// Slasher with Spas-12
+19-01-22 01:47:00 (RADIO)[Griffith] Enemy spotted down!
+19-01-22 01:47:01 (2) //\// Elwy killed (1) Predikt (SN) with Grenade
+19-01-22 01:47:03 (1) Griffith killed (2) |hu3| CrasheR with M79
+19-01-22 01:47:04 (1) OXiD://r0x! killed (2) //\// Elwy with Grenade
+19-01-22 01:47:05 (TEAM)[OXiD://r0x!] [CLEAR]
+19-01-22 01:47:05 (2) |hu3| CrasheR killed (1) Griffith with Grenade
+19-01-22 01:47:07 (RADIO)[//\// Elwy] INC UP
+19-01-22 01:47:07 [|hu3| CrasheR] xDD
+19-01-22 01:47:09 [Griffith] hutaete
+19-01-22 01:47:09 (RADIO)[Predikt (SN)] Enemy spotted middle!
+19-01-22 01:47:10 (2) //\// Elwy killed (1) OXiD://r0x! with Grenade
+19-01-22 01:47:11 OXiD:// Slasher captured the Red Flag
+19-01-22 01:47:17 Griffith captured the Blue Flag
+19-01-22 01:47:17 (1) Predikt (SN) killed (2) //\// Elwy with FN Minimi
+19-01-22 01:47:18 (2) OXiD:// Slasher killed (1) Griffith with Combat Knife
+19-01-22 01:47:19 (2) |hu3| CrasheR killed (1) Predikt (SN) with Grenade
+19-01-22 01:47:19 |hu3| CrasheR returned the Blue Flag
+19-01-22 01:47:20 OXiD:// Slasher scores for Bravo Team
+19-01-22 01:47:21 (1) OXiD://r0x! killed (2) |hu3| CrasheR with Spas-12
+19-01-22 01:47:22 (RADIO)[|hu3| CrasheR] Enemy spotted down!
+19-01-22 01:47:23 OXiD://r0x! captured the Blue Flag
+19-01-22 01:47:23 (2) OXiD:// Slasher killed (1) OXiD://r0x! with Grenade
+19-01-22 01:47:25 (2) //\// Elwy killed (1) Griffith with M79
+19-01-22 01:47:25 |hu3| CrasheR returned the Blue Flag
+19-01-22 01:47:26 (RADIO)[OXiD://r0x!] UP!
+19-01-22 01:47:29 (2) OXiD:// Slasher killed (1) Predikt (SN) with HK MP5
+19-01-22 01:47:30 Time Left: 4 minutes
+19-01-22 01:47:30 (2) //\// Elwy killed (1) OXiD://r0x! with M79
+19-01-22 01:47:32 (RADIO)[OXiD://r0x!] UP!
+19-01-22 01:47:37 (2) OXiD:// Slasher killed (1) OXiD://r0x! with Grenade
+19-01-22 01:47:37 (2) |hu3| CrasheR killed (1) Griffith with HK MP5
+19-01-22 01:47:38 (RADIO)[OXiD://r0x!] UP!
+19-01-22 01:47:39 //\// Elwy captured the Red Flag
+19-01-22 01:47:39 (1) Predikt (SN) killed (2) OXiD:// Slasher with M79
+19-01-22 01:47:41 (RADIO)[OXiD:// Slasher] Enemy spotted up!
+19-01-22 01:47:43 (1) Predikt (SN) killed (2) OXiD:// Slasher with M79
+19-01-22 01:47:45 (2) |hu3| CrasheR killed (1) OXiD://r0x! with HK MP5
+19-01-22 01:47:45 Predikt (SN) captured the Blue Flag
+19-01-22 01:47:47 (RADIO)[OXiD:// Slasher] Friendly flagger down!
+19-01-22 01:47:51 (1) OXiD://r0x! killed (2) |hu3| CrasheR with Spas-12
+19-01-22 01:47:51 (2) OXiD:// Slasher killed (1) Griffith with HK MP5
+19-01-22 01:47:52 (TEAM)[OXiD://r0x!] [CLEAR]
+19-01-22 01:47:52 (2) OXiD:// Slasher killed (1) Predikt (SN) with Combat Knife
+19-01-22 01:47:52 //\// Elwy returned the Blue Flag
+19-01-22 01:47:52 OXiD:// Slasher captured the Red Flag
+19-01-22 01:47:54 OXiD:// Slasher scores for Bravo Team
+19-01-22 01:47:58 (2) //\// Elwy killed (1) OXiD://r0x! with M79
+19-01-22 01:47:59 (2) OXiD:// Slasher killed (1) Griffith with HK MP5
+19-01-22 01:47:59 (1) OXiD://r0x! killed (2) //\// Elwy with Spas-12
+19-01-22 01:48:01 |hu3| CrasheR captured the Red Flag
+19-01-22 01:48:08 (1) Predikt (SN) killed (2) OXiD:// Slasher with M79
+19-01-22 01:48:08 (RADIO)[OXiD://r0x!] UP!
+19-01-22 01:48:09 |hu3| CrasheR scores for Bravo Team
+19-01-22 01:48:10 (2) |hu3| CrasheR killed (1) Griffith with Combat Knife
+19-01-22 01:48:12 (1) Predikt (SN) killed (2) //\// Elwy with M79
+19-01-22 01:48:13 OXiD://r0x! captured the Blue Flag
+19-01-22 01:48:13 (2) |hu3| CrasheR killed (1) OXiD://r0x! with Combat Knife
+19-01-22 01:48:13 |hu3| CrasheR returned the Blue Flag
+19-01-22 01:48:16 (RADIO)[//\// Elwy] INC UP
+19-01-22 01:48:17 (1) Predikt (SN) killed (2) OXiD:// Slasher with M79
+19-01-22 01:48:18 Predikt (SN) captured the Blue Flag
+19-01-22 01:48:19 (RADIO)[OXiD:// Slasher] Friendly flagger down!
+19-01-22 01:48:21 (1) OXiD://r0x! killed (2) |hu3| CrasheR with Spas-12
+19-01-22 01:48:22 (1) Predikt (SN) killed (2) //\// Elwy with M79
+19-01-22 01:48:25 Predikt (SN) scores for Alpha Team
+19-01-22 01:48:25 (2) OXiD:// Slasher killed (1) Griffith with HK MP5
+19-01-22 01:48:26 (2) OXiD:// Slasher killed (1) Predikt (SN) with HK MP5
+19-01-22 01:48:28 OXiD:// Slasher captured the Red Flag
+19-01-22 01:48:30 OXiD://r0x! captured the Blue Flag
+19-01-22 01:48:30 Time Left: 3 minutes
+19-01-22 01:48:32 (1) Griffith killed (2) |hu3| CrasheR with FN Minimi
+19-01-22 01:48:32 (2) //\// Elwy killed (1) OXiD://r0x! with USSOCOM
+19-01-22 01:48:33 (RADIO)[OXiD://r0x!] [FFC] DOWN!
+19-01-22 01:48:33 (RADIO)[|hu3| CrasheR] Enemy spotted middle!
+19-01-22 01:48:34 //\// Elwy returned the Blue Flag
+19-01-22 01:48:34 (2) //\// Elwy killed (1) Predikt (SN) with Grenade
+19-01-22 01:48:36 OXiD:// Slasher scores for Bravo Team
+19-01-22 01:48:38 (2) OXiD:// Slasher killed (1) Griffith with HK MP5
+19-01-22 01:48:42 (1) Predikt (SN) killed (2) OXiD:// Slasher with Ruger 77
+19-01-22 01:48:43 //\// Elwy captured the Red Flag
+19-01-22 01:48:43 (2) |hu3| CrasheR killed (1) OXiD://r0x! with Combat Knife
+19-01-22 01:48:44 (1) Griffith killed (2) //\// Elwy with Grenade
+19-01-22 01:48:44 (2) //\// Elwy killed (1) Predikt (SN) with USSOCOM
+19-01-22 01:48:45 Griffith returned the Red Flag
+19-01-22 01:48:50 Griffith captured the Blue Flag
+19-01-22 01:48:51 (2) OXiD:// Slasher killed (1) Griffith with HK MP5
+19-01-22 01:48:53 (1) OXiD://r0x! killed (2) //\// Elwy with Spas-12
+19-01-22 01:48:53 (2) //\// Elwy killed (1) OXiD://r0x! with M79
+19-01-22 01:48:53 |hu3| CrasheR returned the Blue Flag
+19-01-22 01:49:02 (2) OXiD:// Slasher killed (1) OXiD://r0x! with HK MP5
+19-01-22 01:49:02 Predikt (SN) captured the Blue Flag
+19-01-22 01:49:02 (2) //\// Elwy killed (1) Predikt (SN) with M79
+19-01-22 01:49:03 (RADIO)[OXiD://r0x!] UP!
+19-01-22 01:49:05 (RADIO)[OXiD://r0x!] [EFC] DOWN!
+19-01-22 01:49:06 OXiD:// Slasher captured the Red Flag
+19-01-22 01:49:07 Griffith captured the Blue Flag
+19-01-22 01:49:10 (1) Griffith killed (2) OXiD:// Slasher with LAW
+19-01-22 01:49:10 (2) |hu3| CrasheR killed (1) Predikt (SN) with HK MP5
+19-01-22 01:49:11 Griffith returned the Red Flag
+19-01-22 01:49:11 (2) //\// Elwy killed (1) OXiD://r0x! with USSOCOM
+19-01-22 01:49:11 (1) OXiD://r0x! killed (2) |hu3| CrasheR with Spas-12
+19-01-22 01:49:11 (RADIO)[OXiD:// Slasher] Friendly flagger down!
+19-01-22 01:49:12 (1) Griffith killed (2) //\// Elwy with FN Minimi
+19-01-22 01:49:12 (2) //\// Elwy killed (1) Griffith with USSOCOM
+19-01-22 01:49:13 (RADIO)[OXiD://r0x!] [FFC] DOWN!
+19-01-22 01:49:15 (RADIO)[Griffith] Friendly flagger down!
+19-01-22 01:49:18 |hu3| CrasheR returned the Blue Flag
+19-01-22 01:49:19 (2) //\// Elwy killed (1) OXiD://r0x! with M79
+19-01-22 01:49:21 (RADIO)[OXiD://r0x!] UP!
+19-01-22 01:49:22 (2) |hu3| CrasheR killed (1) Griffith with HK MP5
+19-01-22 01:49:24 //\// Elwy captured the Red Flag
+19-01-22 01:49:25 (RADIO)[OXiD://r0x!] [EFC] DOWN!
+19-01-22 01:49:27 (1) Predikt (SN) killed (2) OXiD:// Slasher with XM214 Minigun
+19-01-22 01:49:28 (2) OXiD:// Slasher killed (1) Predikt (SN) with HK MP5
+19-01-22 01:49:30 Time Left: 2 minutes
+19-01-22 01:49:31 //\// Elwy scores for Bravo Team
+19-01-22 01:49:32 OXiD://r0x! captured the Blue Flag
+19-01-22 01:49:34 (1) OXiD://r0x! killed (2) |hu3| CrasheR with Spas-12
+19-01-22 01:49:38 (1) Griffith killed (2) OXiD:// Slasher with FN Minimi
+19-01-22 01:49:39 OXiD://r0x! scores for Alpha Team
+19-01-22 01:49:39 (2) //\// Elwy killed (1) OXiD://r0x! with USSOCOM
+19-01-22 01:49:41 (2) //\// Elwy killed (1) Predikt (SN) with M79
+19-01-22 01:49:41 (1) Predikt (SN) killed (2) //\// Elwy with XM214 Minigun
+19-01-22 01:49:43 (2) OXiD:// Slasher killed (1) Griffith with Combat Knife
+19-01-22 01:49:48 (1) Predikt (SN) killed (2) |hu3| CrasheR with XM214 Minigun
+19-01-22 01:49:49 (RADIO)[OXiD://r0x!] UP!
+19-01-22 01:49:49 (RADIO)[|hu3| CrasheR] Enemy spotted down!
+19-01-22 01:49:49 (TEAM)[//\// Elwy] BASE!
+19-01-22 01:49:50 OXiD:// Slasher captured the Red Flag
+19-01-22 01:49:52 (1) Griffith killed (2) OXiD:// Slasher with FN Minimi
+19-01-22 01:49:53 (2) |hu3| CrasheR killed (1) OXiD://r0x! with HK MP5
+19-01-22 01:49:54 (RADIO)[OXiD:// Slasher] Friendly flagger up!
+19-01-22 01:49:57 //\// Elwy captured the Red Flag
+19-01-22 01:49:57 (2) |hu3| CrasheR killed (1) Griffith with HK MP5
+19-01-22 01:49:58 (1) Predikt (SN) killed (2) //\// Elwy with XM214 Minigun
+19-01-22 01:49:59 (RADIO)[//\// Elwy] FLAG LOW
+19-01-22 01:50:01 (2) |hu3| CrasheR killed (1) Predikt (SN) with HK MP5
+19-01-22 01:50:02 (1) OXiD://r0x! killed (2) OXiD:// Slasher with Spas-12
+19-01-22 01:50:02 |hu3| CrasheR captured the Red Flag
+19-01-22 01:50:03 (2) |hu3| CrasheR killed (1) Griffith with Combat Knife
+19-01-22 01:50:07 |hu3| CrasheR scores for Bravo Team
+19-01-22 01:50:07 [|hu3|  pala] LOL
+19-01-22 01:50:10 [|hu3|  pala] me da aula
+19-01-22 01:50:10 (2) //\// Elwy killed (1) Predikt (SN) with M79
+19-01-22 01:50:10 (1) OXiD://r0x! killed (2) //\// Elwy with Grenade
+19-01-22 01:50:12 [|hu3|  pala] crasher
+19-01-22 01:50:13 (1) OXiD://r0x! killed (2) |hu3| CrasheR with Combat Knife
+19-01-22 01:50:14 (RADIO)[//\// Elwy] INC UP
+19-01-22 01:50:15 |hu3|  pala has left spectators
+19-01-22 01:50:16 OXiD://r0x! captured the Blue Flag
+19-01-22 01:50:17 (RADIO)[OXiD://r0x!] [FFC] UP!
+19-01-22 01:50:17 (2) //\// Elwy killed (1) OXiD://r0x! with USSOCOM
+19-01-22 01:50:19 (2) |hu3| CrasheR killed (1) Griffith with HK MP5
+19-01-22 01:50:21 |hu3| CrasheR returned the Blue Flag
+19-01-22 01:50:23 (1) Predikt (SN) killed (2) //\// Elwy with XM214 Minigun
+19-01-22 01:50:24 (1) OXiD://r0x! killed (2) |hu3| CrasheR with Spas-12
+19-01-22 01:50:26 [|hu3| CrasheR] aehuhuase
+19-01-22 01:50:28 (2) OXiD:// Slasher killed (1) Griffith with HK MP5
+19-01-22 01:50:30 Time Left: 1 minutes
+19-01-22 01:50:31 (RADIO)[//\// Elwy] INC UP
+19-01-22 01:50:32 OXiD:// Slasher captured the Red Flag
+19-01-22 01:50:32 (1) Predikt (SN) killed (2) OXiD:// Slasher with XM214 Minigun
+19-01-22 01:50:33 (2) //\// Elwy killed (1) OXiD://r0x! with USSOCOM
+19-01-22 01:50:36 (1) Predikt (SN) killed (2) |hu3| CrasheR with Grenade
+19-01-22 01:50:37 [|hu3| CrasheR] qqq
+19-01-22 01:50:37 Predikt (SN) returned the Red Flag
+19-01-22 01:50:38 (1) Predikt (SN) killed (2) //\// Elwy with XM214 Minigun
+19-01-22 01:50:41 (2) OXiD:// Slasher killed (1) Predikt (SN) with HK MP5
+19-01-22 01:50:41 Griffith captured the Blue Flag
+19-01-22 01:50:43 (2) |hu3| CrasheR killed (1) Griffith with Grenade
+19-01-22 01:50:44 OXiD:// Slasher captured the Red Flag
+19-01-22 01:50:45 (TEAM)[//\// Elwy] BASE!
+19-01-22 01:50:45 |hu3| CrasheR returned the Blue Flag
+19-01-22 01:50:45 OXiD://r0x! captured the Blue Flag
+19-01-22 01:50:47 (RADIO)[OXiD://r0x!] [FFC] UP!
+19-01-22 01:50:48 //\// Elwy captured the Red Flag
+19-01-22 01:50:49 (1) Predikt (SN) killed (2) |hu3| CrasheR with XM214 Minigun
+19-01-22 01:50:49 (1) Predikt (SN) killed (2) OXiD:// Slasher with XM214 Minigun
+19-01-22 01:50:51 [|hu3| CrasheR] You're one ugly mother fu**er!
+19-01-22 01:50:53 (1) Predikt (SN) killed (2) //\// Elwy with XM214 Minigun
+19-01-22 01:50:53 Predikt (SN) returned the Red Flag
+19-01-22 01:50:56 OXiD://r0x! scores for Alpha Team
+19-01-22 01:50:57 (2) |hu3| CrasheR killed (1) Griffith with HK MP5
+19-01-22 01:51:00 Predikt (SN) captured the Blue Flag
+19-01-22 01:51:00 (2) |hu3| CrasheR killed (1) Predikt (SN) with HK MP5
+19-01-22 01:51:01 (1) OXiD://r0x! killed (2) OXiD:// Slasher with Grenade
+19-01-22 01:51:01 (2) OXiD:// Slasher killed (1) OXiD://r0x! with HK MP5
+19-01-22 01:51:07 (1) OXiD://r0x! killed (2) //\// Elwy with Grenade
+19-01-22 01:51:09 (1) OXiD://r0x! killed (2) |hu3| CrasheR with Spas-12
+19-01-22 01:51:09 (2) |hu3| CrasheR killed (1) OXiD://r0x! with HK MP5
+19-01-22 01:51:11 Griffith captured the Blue Flag
+19-01-22 01:51:11 (2) OXiD:// Slasher killed (1) Griffith with Grenade
+19-01-22 01:51:12 (1) Predikt (SN) killed (2) OXiD:// Slasher with XM214 Minigun
+19-01-22 01:51:14 (RADIO)[OXiD:// Slasher] Enemy flagger down!
+19-01-22 01:51:15 Predikt (SN) captured the Blue Flag
+19-01-22 01:51:17 (2) |hu3| CrasheR killed (1) Predikt (SN) with HK MP5
+19-01-22 01:51:20 (1) OXiD://r0x! killed (2) |hu3| CrasheR with Spas-12
+19-01-22 01:51:21 Griffith captured the Blue Flag
+19-01-22 01:51:22 (2) OXiD:// Slasher killed (1) Griffith with HK MP5
+19-01-22 01:51:23 (1) Griffith killed (2) OXiD:// Slasher with Grenade
+19-01-22 01:51:24 (RADIO)[OXiD:// Slasher] Friendly flagger up!
+19-01-22 01:51:24 [Predikt (SN)] elwy how do you manage to boost with this ping
+19-01-22 01:51:25 (2) |hu3| CrasheR killed (1) OXiD://r0x! with Combat Knife
+19-01-22 01:51:26 |hu3| CrasheR returned the Blue Flag
+19-01-22 01:51:30 Next map: Lobby
+19-01-22 01:51:35 Lothic - Gothic Lobby Room
+19-01-22 01:51:37 [OXiD://r0x!] tggs
+19-01-22 01:51:39 [|hu3| CrasheR] ggwp
+19-01-22 01:51:41 OXiD://r0x! has left alpha team.
+19-01-22 01:51:41 OXiD:// Slasher has left bravo team.
+19-01-22 01:51:42 |hu3| CrasheR has left bravo team.
+19-01-22 01:51:42 Predikt (SN) has left alpha team.
+19-01-22 01:51:44 //\// Elwy has left bravo team.
+19-01-22 01:51:51 Griffith has left alpha team.
+19-01-22 01:51:58 168.196.55.212:23073|497D7A0EDBD requesting game...
+19-01-22 01:51:58 168.196.55.212:23073|497D7A0EDBD requesting game...
+19-01-22 01:53:22 168.196.55.212:23073|497D7A0EDBD requesting game...
+19-01-22 01:54:59 168.196.55.212:23073|497D7A0EDBD requesting game...
+19-01-22 01:55:05 200.120.105.183:23073|5DFDDACB48D requesting game...
+19-01-22 01:56:35 Time Left: 5 minutes
+19-01-22 01:57:35 Time Left: 4 minutes
+19-01-22 01:58:35 Time Left: 3 minutes
+19-01-22 01:59:35 Time Left: 2 minutes
+19-01-22 02:00:35 Time Left: 1 minutes
+19-01-22 02:01:35 Next map: Lobby
+19-01-22 02:01:40 Lothic - Gothic Lobby Room
+19-01-22 02:05:14 168.196.55.212:23073|497D7A0EDBD requesting game...
+19-01-22 02:06:40 Time Left: 5 minutes
+19-01-22 02:07:40 Time Left: 4 minutes
+19-01-22 02:08:40 Time Left: 3 minutes
+19-01-22 02:09:40 Time Left: 2 minutes
+19-01-22 02:10:40 Time Left: 1 minutes
+19-01-22 02:11:40 Next map: Lobby
+19-01-22 02:11:46 Lothic - Gothic Lobby Room
+19-01-22 02:11:47 168.196.55.212:23073|497D7A0EDBD requesting game...
+19-01-22 02:16:46 Time Left: 5 minutes
+19-01-22 02:17:46 Time Left: 4 minutes
+19-01-22 02:18:46 Time Left: 3 minutes
+19-01-22 02:19:46 Time Left: 2 minutes
+19-01-22 02:20:46 Time Left: 1 minutes
+19-01-22 02:21:46 Next map: Lobby
+19-01-22 02:21:51 Lothic - Gothic Lobby Room
+19-01-22 02:25:05 168.196.55.212:23073|497D7A0EDBD requesting game...
+19-01-22 02:26:51 Time Left: 5 minutes
+19-01-22 02:27:51 Time Left: 4 minutes
+19-01-22 02:28:51 Time Left: 3 minutes
+19-01-22 02:29:51 Time Left: 2 minutes
+19-01-22 02:30:51 Time Left: 1 minutes
+19-01-22 02:31:51 Next map: Lobby
+19-01-22 02:31:56 Lothic - Gothic Lobby Room
+19-01-22 02:36:56 Time Left: 5 minutes
+19-01-22 02:37:56 Time Left: 4 minutes
+19-01-22 02:38:56 Time Left: 3 minutes
+19-01-22 02:39:56 Time Left: 2 minutes
+19-01-22 02:40:56 Time Left: 1 minutes
+19-01-22 02:41:56 Next map: Lobby
+19-01-22 02:42:02 Lothic - Gothic Lobby Room
+19-01-22 02:47:02 Time Left: 5 minutes
+19-01-22 02:48:02 Time Left: 4 minutes
+19-01-22 02:49:02 Time Left: 3 minutes
+19-01-22 02:50:02 Time Left: 2 minutes
+19-01-22 02:51:02 Time Left: 1 minutes
+19-01-22 02:52:02 Next map: Lobby
+19-01-22 02:52:07 Lothic - Gothic Lobby Room
+19-01-22 02:57:07 Time Left: 5 minutes
+19-01-22 02:58:07 Time Left: 4 minutes
+19-01-22 02:59:07 Time Left: 3 minutes
+19-01-22 03:00:07 Time Left: 2 minutes
+19-01-22 03:01:07 Time Left: 1 minutes
+19-01-22 03:02:07 Next map: Lobby
+19-01-22 03:02:12 Lothic - Gothic Lobby Room
+19-01-22 03:07:12 Time Left: 5 minutes
+19-01-22 03:08:12 Time Left: 4 minutes
+19-01-22 03:09:12 Time Left: 3 minutes
+19-01-22 03:10:12 Time Left: 2 minutes
+19-01-22 03:11:12 Time Left: 1 minutes
+19-01-22 03:12:12 Next map: Lobby
+19-01-22 03:12:18 Lothic - Gothic Lobby Room
+19-01-22 03:17:18 Time Left: 5 minutes
+19-01-22 03:18:18 Time Left: 4 minutes
+19-01-22 03:19:18 Time Left: 3 minutes
+19-01-22 03:19:47 168.196.55.212:23073|497D7A0EDBD requesting game...
+19-01-22 03:20:18 Time Left: 2 minutes
+19-01-22 03:21:18 Time Left: 1 minutes
+19-01-22 03:22:18 Next map: Lobby
+19-01-22 03:22:23 Lothic - Gothic Lobby Room
+19-01-22 03:27:23 Time Left: 5 minutes
+19-01-22 03:28:23 Time Left: 4 minutes
+19-01-22 03:29:23 Time Left: 3 minutes
+19-01-22 03:30:23 Time Left: 2 minutes
+19-01-22 03:31:23 Time Left: 1 minutes
+19-01-22 03:32:23 Next map: Lobby
+19-01-22 03:32:28 Lothic - Gothic Lobby Room
+19-01-22 03:37:28 Time Left: 5 minutes
+19-01-22 03:38:28 Time Left: 4 minutes
+19-01-22 03:39:28 Time Left: 3 minutes
+19-01-22 03:40:28 Time Left: 2 minutes
+19-01-22 03:41:28 Time Left: 1 minutes
+19-01-22 03:42:28 Next map: Lobby
+19-01-22 03:42:34 Lothic - Gothic Lobby Room
+19-01-22 03:47:34 Time Left: 5 minutes
+19-01-22 03:48:34 Time Left: 4 minutes
+19-01-22 03:49:34 Time Left: 3 minutes
+19-01-22 03:50:34 Time Left: 2 minutes
+19-01-22 03:51:34 Time Left: 1 minutes
+19-01-22 03:52:33 Next map: Lobby
+19-01-22 03:52:39 Lothic - Gothic Lobby Room
+19-01-22 03:57:39 Time Left: 5 minutes
+19-01-22 03:58:39 Time Left: 4 minutes
+19-01-22 03:59:39 Time Left: 3 minutes
+19-01-22 04:00:39 Time Left: 2 minutes
+19-01-22 04:01:39 Time Left: 1 minutes
+19-01-22 04:02:39 Next map: Lobby
+19-01-22 04:02:44 Lothic - Gothic Lobby Room
+19-01-22 04:07:44 Time Left: 5 minutes
+19-01-22 04:08:44 Time Left: 4 minutes
+19-01-22 04:09:44 Time Left: 3 minutes
+19-01-22 04:10:44 Time Left: 2 minutes
+19-01-22 04:11:44 Time Left: 1 minutes
+19-01-22 04:12:44 Next map: Lobby
+19-01-22 04:12:49 Lothic - Gothic Lobby Room
+19-01-22 04:17:49 Time Left: 5 minutes
+19-01-22 04:18:49 Time Left: 4 minutes
+19-01-22 04:19:49 Time Left: 3 minutes
+19-01-22 04:20:49 Time Left: 2 minutes
+19-01-22 04:21:49 Time Left: 1 minutes
+19-01-22 04:22:49 Next map: Lobby
+19-01-22 04:22:55 Lothic - Gothic Lobby Room
+19-01-22 04:27:55 Time Left: 5 minutes
+19-01-22 04:28:55 Time Left: 4 minutes
+19-01-22 04:29:55 Time Left: 3 minutes
+19-01-22 04:30:55 Time Left: 2 minutes
+19-01-22 04:31:55 Time Left: 1 minutes
+19-01-22 04:32:55 Next map: Lobby
+19-01-22 04:33:00 Lothic - Gothic Lobby Room
+19-01-22 04:38:00 Time Left: 5 minutes
+19-01-22 04:39:00 Time Left: 4 minutes
+19-01-22 04:40:00 Time Left: 3 minutes
+19-01-22 04:41:00 Time Left: 2 minutes
+19-01-22 04:42:00 Time Left: 1 minutes
+19-01-22 04:43:00 Next map: Lobby
+19-01-22 04:43:05 Lothic - Gothic Lobby Room
+19-01-22 04:48:05 Time Left: 5 minutes
+19-01-22 04:49:05 Time Left: 4 minutes
+19-01-22 04:50:05 Time Left: 3 minutes
+19-01-22 04:51:05 Time Left: 2 minutes
+19-01-22 04:52:05 Time Left: 1 minutes
+19-01-22 04:53:05 Next map: Lobby
+19-01-22 04:53:11 Lothic - Gothic Lobby Room
+19-01-22 04:58:11 Time Left: 5 minutes
+19-01-22 04:59:11 Time Left: 4 minutes
+19-01-22 05:00:11 Time Left: 3 minutes
+19-01-22 05:01:11 Time Left: 2 minutes
+19-01-22 05:02:11 Time Left: 1 minutes
+19-01-22 05:03:11 Next map: Lobby
+19-01-22 05:03:16 Lothic - Gothic Lobby Room
+19-01-22 05:08:16 Time Left: 5 minutes
+19-01-22 05:09:16 Time Left: 4 minutes
+19-01-22 05:10:16 Time Left: 3 minutes
+19-01-22 05:11:16 Time Left: 2 minutes
+19-01-22 05:12:16 Time Left: 1 minutes
+19-01-22 05:13:16 Next map: Lobby
+19-01-22 05:13:21 Lothic - Gothic Lobby Room
+19-01-22 05:18:21 Time Left: 5 minutes
+19-01-22 05:19:21 Time Left: 4 minutes
+19-01-22 05:20:21 Time Left: 3 minutes
+19-01-22 05:21:21 Time Left: 2 minutes
+19-01-22 05:22:21 Time Left: 1 minutes
+19-01-22 05:23:21 Next map: Lobby
+19-01-22 05:23:27 Lothic - Gothic Lobby Room
+19-01-22 05:28:27 Time Left: 5 minutes
+19-01-22 05:29:27 Time Left: 4 minutes
+19-01-22 05:30:27 Time Left: 3 minutes
+19-01-22 05:31:27 Time Left: 2 minutes
+19-01-22 05:32:27 Time Left: 1 minutes
+19-01-22 05:33:27 Next map: Lobby
+19-01-22 05:33:32 Lothic - Gothic Lobby Room
+19-01-22 05:38:32 Time Left: 5 minutes
+19-01-22 05:39:32 Time Left: 4 minutes
+19-01-22 05:40:32 Time Left: 3 minutes
+19-01-22 05:41:32 Time Left: 2 minutes
+19-01-22 05:42:32 Time Left: 1 minutes
+19-01-22 05:43:32 Next map: Lobby
+19-01-22 05:43:37 Lothic - Gothic Lobby Room
+19-01-22 05:48:37 Time Left: 5 minutes
+19-01-22 05:49:37 Time Left: 4 minutes
+19-01-22 05:50:37 Time Left: 3 minutes
+19-01-22 05:51:37 Time Left: 2 minutes
+19-01-22 05:52:37 Time Left: 1 minutes
+19-01-22 05:53:37 Next map: Lobby
+19-01-22 05:53:43 Lothic - Gothic Lobby Room
+19-01-22 05:58:43 Time Left: 5 minutes
+19-01-22 05:59:43 Time Left: 4 minutes
+19-01-22 06:00:43 Time Left: 3 minutes
+19-01-22 06:01:43 Time Left: 2 minutes
+19-01-22 06:02:43 Time Left: 1 minutes
+19-01-22 06:03:43 Next map: Lobby
+19-01-22 06:03:48 Lothic - Gothic Lobby Room
+19-01-22 06:08:48 Time Left: 5 minutes
+19-01-22 06:09:48 Time Left: 4 minutes
+19-01-22 06:10:48 Time Left: 3 minutes
+19-01-22 06:11:48 Time Left: 2 minutes
+19-01-22 06:12:48 Time Left: 1 minutes
+19-01-22 06:13:48 Next map: Lobby
+19-01-22 06:13:53 Lothic - Gothic Lobby Room
+19-01-22 06:18:53 Time Left: 5 minutes
+19-01-22 06:19:53 Time Left: 4 minutes
+19-01-22 06:20:53 Time Left: 3 minutes
+19-01-22 06:21:53 Time Left: 2 minutes
+19-01-22 06:22:53 Time Left: 1 minutes
+19-01-22 06:23:53 Next map: Lobby
+19-01-22 06:23:59 Lothic - Gothic Lobby Room
+19-01-22 06:28:59 Time Left: 5 minutes
+19-01-22 06:29:59 Time Left: 4 minutes
+19-01-22 06:30:59 Time Left: 3 minutes
+19-01-22 06:31:59 Time Left: 2 minutes
+19-01-22 06:32:59 Time Left: 1 minutes
+19-01-22 06:33:59 Next map: Lobby
+19-01-22 06:34:04 Lothic - Gothic Lobby Room
+19-01-22 06:39:04 Time Left: 5 minutes
+19-01-22 06:40:04 Time Left: 4 minutes
+19-01-22 06:41:04 Time Left: 3 minutes
+19-01-22 06:42:04 Time Left: 2 minutes
+19-01-22 06:43:04 Time Left: 1 minutes
+19-01-22 06:44:04 Next map: Lobby
+19-01-22 06:44:09 Lothic - Gothic Lobby Room
+19-01-22 06:49:09 Time Left: 5 minutes
+19-01-22 06:50:09 Time Left: 4 minutes
+19-01-22 06:51:09 Time Left: 3 minutes
+19-01-22 06:52:09 Time Left: 2 minutes
+19-01-22 06:53:09 Time Left: 1 minutes
+19-01-22 06:54:09 Next map: Lobby
+19-01-22 06:54:15 Lothic - Gothic Lobby Room
+19-01-22 06:59:15 Time Left: 5 minutes
+19-01-22 07:00:15 Time Left: 4 minutes
+19-01-22 07:01:15 Time Left: 3 minutes
+19-01-22 07:02:15 Time Left: 2 minutes
+19-01-22 07:03:15 Time Left: 1 minutes
+19-01-22 07:04:15 Next map: Lobby
+19-01-22 07:04:20 Lothic - Gothic Lobby Room
+19-01-22 07:09:20 Time Left: 5 minutes
+19-01-22 07:10:20 Time Left: 4 minutes
+19-01-22 07:11:20 Time Left: 3 minutes
+19-01-22 07:12:20 Time Left: 2 minutes
+19-01-22 07:13:20 Time Left: 1 minutes
+19-01-22 07:14:20 Next map: Lobby
+19-01-22 07:14:25 Lothic - Gothic Lobby Room
+19-01-22 07:19:25 Time Left: 5 minutes
+19-01-22 07:20:25 Time Left: 4 minutes
+19-01-22 07:21:25 Time Left: 3 minutes
+19-01-22 07:22:25 Time Left: 2 minutes
+19-01-22 07:23:25 Time Left: 1 minutes
+19-01-22 07:24:25 Next map: Lobby
+19-01-22 07:24:30 Lothic - Gothic Lobby Room
+19-01-22 07:29:30 Time Left: 5 minutes
+19-01-22 07:30:30 Time Left: 4 minutes
+19-01-22 07:31:30 Time Left: 3 minutes
+19-01-22 07:32:30 Time Left: 2 minutes
+19-01-22 07:33:30 Time Left: 1 minutes
+19-01-22 07:34:30 Next map: Lobby
+19-01-22 07:34:36 Lothic - Gothic Lobby Room
+19-01-22 07:39:36 Time Left: 5 minutes
+19-01-22 07:40:36 Time Left: 4 minutes
+19-01-22 07:41:36 Time Left: 3 minutes
+19-01-22 07:42:36 Time Left: 2 minutes
+19-01-22 07:43:36 Time Left: 1 minutes
+19-01-22 07:44:36 Next map: Lobby
+19-01-22 07:44:41 Lothic - Gothic Lobby Room
+19-01-22 07:49:41 Time Left: 5 minutes
+19-01-22 07:50:41 Time Left: 4 minutes
+19-01-22 07:51:41 Time Left: 3 minutes
+19-01-22 07:52:41 Time Left: 2 minutes
+19-01-22 07:53:41 Time Left: 1 minutes
+19-01-22 07:54:41 Next map: Lobby
+19-01-22 07:54:46 Lothic - Gothic Lobby Room
+19-01-22 07:59:46 Time Left: 5 minutes
+19-01-22 08:00:46 Time Left: 4 minutes
+19-01-22 08:01:46 Time Left: 3 minutes
+19-01-22 08:02:46 Time Left: 2 minutes
+19-01-22 08:03:46 Time Left: 1 minutes
+19-01-22 08:04:46 Next map: Lobby
+19-01-22 08:04:52 Lothic - Gothic Lobby Room
+19-01-22 08:09:52 Time Left: 5 minutes
+19-01-22 08:10:52 Time Left: 4 minutes
+19-01-22 08:11:52 Time Left: 3 minutes
+19-01-22 08:12:52 Time Left: 2 minutes
+19-01-22 08:13:52 Time Left: 1 minutes
+19-01-22 08:14:52 Next map: Lobby
+19-01-22 08:14:57 Lothic - Gothic Lobby Room
+19-01-22 08:19:57 Time Left: 5 minutes
+19-01-22 08:20:57 Time Left: 4 minutes
+19-01-22 08:21:57 Time Left: 3 minutes
+19-01-22 08:22:57 Time Left: 2 minutes
+19-01-22 08:23:57 Time Left: 1 minutes
+19-01-22 08:24:57 Next map: Lobby
+19-01-22 08:25:02 Lothic - Gothic Lobby Room
+19-01-22 08:30:02 Time Left: 5 minutes
+19-01-22 08:31:02 Time Left: 4 minutes
+19-01-22 08:32:02 Time Left: 3 minutes
+19-01-22 08:33:02 Time Left: 2 minutes
+19-01-22 08:34:02 Time Left: 1 minutes
+19-01-22 08:35:02 Next map: Lobby
+19-01-22 08:35:08 Lothic - Gothic Lobby Room
+19-01-22 08:40:08 Time Left: 5 minutes
+19-01-22 08:41:08 Time Left: 4 minutes
+19-01-22 08:42:08 Time Left: 3 minutes
+19-01-22 08:43:08 Time Left: 2 minutes
+19-01-22 08:44:08 Time Left: 1 minutes
+19-01-22 08:45:08 Next map: Lobby
+19-01-22 08:45:13 Lothic - Gothic Lobby Room
+19-01-22 08:50:13 Time Left: 5 minutes
+19-01-22 08:51:13 Time Left: 4 minutes
+19-01-22 08:52:13 Time Left: 3 minutes
+19-01-22 08:53:13 Time Left: 2 minutes
+19-01-22 08:54:13 Time Left: 1 minutes
+19-01-22 08:55:13 Next map: Lobby
+19-01-22 08:55:18 Lothic - Gothic Lobby Room
+19-01-22 09:00:18 Time Left: 5 minutes
+19-01-22 09:01:18 Time Left: 4 minutes
+19-01-22 09:02:18 Time Left: 3 minutes
+19-01-22 09:03:18 Time Left: 2 minutes
+19-01-22 09:04:18 Time Left: 1 minutes
+19-01-22 09:05:18 Next map: Lobby
+19-01-22 09:05:24 Lothic - Gothic Lobby Room
+19-01-22 09:10:24 Time Left: 5 minutes
+19-01-22 09:11:24 Time Left: 4 minutes
+19-01-22 09:12:24 Time Left: 3 minutes
+19-01-22 09:13:24 Time Left: 2 minutes
+19-01-22 09:14:24 Time Left: 1 minutes
+19-01-22 09:15:24 Next map: Lobby
+19-01-22 09:15:29 Lothic - Gothic Lobby Room
+19-01-22 09:20:29 Time Left: 5 minutes
+19-01-22 09:21:29 Time Left: 4 minutes
+19-01-22 09:22:29 Time Left: 3 minutes
+19-01-22 09:23:29 Time Left: 2 minutes
+19-01-22 09:24:29 Time Left: 1 minutes
+19-01-22 09:25:29 Next map: Lobby
+19-01-22 09:25:34 Lothic - Gothic Lobby Room
+19-01-22 09:30:34 Time Left: 5 minutes
+19-01-22 09:31:34 Time Left: 4 minutes
+19-01-22 09:32:34 Time Left: 3 minutes
+19-01-22 09:33:34 Time Left: 2 minutes
+19-01-22 09:34:34 Time Left: 1 minutes
+19-01-22 09:35:34 Next map: Lobby
+19-01-22 09:35:40 Lothic - Gothic Lobby Room
+19-01-22 09:40:40 Time Left: 5 minutes
+19-01-22 09:41:40 Time Left: 4 minutes
+19-01-22 09:42:40 Time Left: 3 minutes
+19-01-22 09:43:40 Time Left: 2 minutes
+19-01-22 09:44:40 Time Left: 1 minutes
+19-01-22 09:45:40 Next map: Lobby
+19-01-22 09:45:45 Lothic - Gothic Lobby Room
+19-01-22 09:50:45 Time Left: 5 minutes
+19-01-22 09:51:45 Time Left: 4 minutes
+19-01-22 09:52:45 Time Left: 3 minutes
+19-01-22 09:53:45 Time Left: 2 minutes
+19-01-22 09:54:45 Time Left: 1 minutes
+19-01-22 09:55:45 Next map: Lobby
+19-01-22 09:55:50 Lothic - Gothic Lobby Room
+19-01-22 10:00:50 Time Left: 5 minutes
+19-01-22 10:01:50 Time Left: 4 minutes
+19-01-22 10:02:50 Time Left: 3 minutes
+19-01-22 10:03:50 Time Left: 2 minutes
+19-01-22 10:04:50 Time Left: 1 minutes
+19-01-22 10:05:50 Next map: Lobby
+19-01-22 10:05:56 Lothic - Gothic Lobby Room
+19-01-22 10:10:56 Time Left: 5 minutes
+19-01-22 10:11:56 Time Left: 4 minutes
+19-01-22 10:12:56 Time Left: 3 minutes
+19-01-22 10:13:56 Time Left: 2 minutes
+19-01-22 10:14:56 Time Left: 1 minutes
+19-01-22 10:15:56 Next map: Lobby
+19-01-22 10:16:01 Lothic - Gothic Lobby Room
+19-01-22 10:21:01 Time Left: 5 minutes
+19-01-22 10:22:01 Time Left: 4 minutes
+19-01-22 10:23:01 Time Left: 3 minutes
+19-01-22 10:24:01 Time Left: 2 minutes
+19-01-22 10:25:01 Time Left: 1 minutes
+19-01-22 10:26:01 Next map: Lobby
+19-01-22 10:26:06 Lothic - Gothic Lobby Room
+19-01-22 10:31:06 Time Left: 5 minutes
+19-01-22 10:32:06 Time Left: 4 minutes
+19-01-22 10:33:06 Time Left: 3 minutes
+19-01-22 10:34:06 Time Left: 2 minutes
+19-01-22 10:35:06 Time Left: 1 minutes
+19-01-22 10:36:06 Next map: Lobby
+19-01-22 10:36:12 Lothic - Gothic Lobby Room
+19-01-22 10:41:11 Time Left: 5 minutes
+19-01-22 10:42:11 Time Left: 4 minutes
+19-01-22 10:43:11 Time Left: 3 minutes
+19-01-22 10:44:11 Time Left: 2 minutes
+19-01-22 10:45:11 Time Left: 1 minutes
+19-01-22 10:46:11 Next map: Lobby
+19-01-22 10:46:17 Lothic - Gothic Lobby Room
+19-01-22 10:51:17 Time Left: 5 minutes
+19-01-22 10:52:17 Time Left: 4 minutes
+19-01-22 10:53:17 Time Left: 3 minutes
+19-01-22 10:54:17 Time Left: 2 minutes
+19-01-22 10:55:17 Time Left: 1 minutes
+19-01-22 10:56:17 Next map: Lobby
+19-01-22 10:56:22 Lothic - Gothic Lobby Room
+19-01-22 11:01:22 Time Left: 5 minutes
+19-01-22 11:02:22 Time Left: 4 minutes
+19-01-22 11:03:22 Time Left: 3 minutes
+19-01-22 11:04:22 Time Left: 2 minutes
+19-01-22 11:05:22 Time Left: 1 minutes
+19-01-22 11:06:22 Next map: Lobby
+19-01-22 11:06:27 Lothic - Gothic Lobby Room
+19-01-22 11:11:27 Time Left: 5 minutes
+19-01-22 11:12:27 Time Left: 4 minutes
+19-01-22 11:13:27 Time Left: 3 minutes
+19-01-22 11:14:27 Time Left: 2 minutes
+19-01-22 11:15:27 Time Left: 1 minutes
+19-01-22 11:16:27 Next map: Lobby
+19-01-22 11:16:33 Lothic - Gothic Lobby Room
+19-01-22 11:21:33 Time Left: 5 minutes
+19-01-22 11:22:33 Time Left: 4 minutes
+19-01-22 11:23:33 Time Left: 3 minutes
+19-01-22 11:24:33 Time Left: 2 minutes
+19-01-22 11:25:33 Time Left: 1 minutes
+19-01-22 11:26:33 Next map: Lobby
+19-01-22 11:26:38 Lothic - Gothic Lobby Room
+19-01-22 11:31:38 Time Left: 5 minutes
+19-01-22 11:32:38 Time Left: 4 minutes
+19-01-22 11:33:38 Time Left: 3 minutes
+19-01-22 11:34:38 Time Left: 2 minutes
+19-01-22 11:35:38 Time Left: 1 minutes
+19-01-22 11:36:38 Next map: Lobby
+19-01-22 11:36:43 Lothic - Gothic Lobby Room
+19-01-22 11:41:43 Time Left: 5 minutes
+19-01-22 11:42:43 Time Left: 4 minutes
+19-01-22 11:43:43 Time Left: 3 minutes
+19-01-22 11:44:43 Time Left: 2 minutes
+19-01-22 11:45:43 Time Left: 1 minutes
+19-01-22 11:46:43 Next map: Lobby
+19-01-22 11:46:49 Lothic - Gothic Lobby Room
+19-01-22 11:48:57 Admin connected (31.223.39.202).
+19-01-22 11:48:58 /maxplayers (31.223.39.202)
+19-01-22 11:48:58 Max players is 16
+19-01-22 11:48:58 /maxrespawntime (31.223.39.202)
+19-01-22 11:48:58 Maximum Respawn time is 5 seconds
+19-01-22 11:48:58 /respawntime (31.223.39.202)
+19-01-22 11:48:58 Respawn time is 3 seconds
+19-01-22 11:48:58 /limit (31.223.39.202)
+19-01-22 11:48:58 Current kill/point/capture limit is 10
+19-01-22 11:48:58 /timelimit (31.223.39.202)
+19-01-22 11:48:58 Current time limit is 10 minutes
+19-01-22 11:48:58 /friendlyfire (31.223.39.202)
+19-01-22 11:48:58 Friendly Fire is 0
+19-01-22 11:48:58 /scripting (31.223.39.202)
+19-01-22 11:48:58 Scripting is currently Enabled (1)
+19-01-22 11:48:58 /balance (31.223.39.202)
+19-01-22 11:48:58 Bot Balance is off (0)
+19-01-22 11:48:58 /bonus (31.223.39.202)
+19-01-22 11:48:58 Current bonus frequency is 0
+19-01-22 11:48:58 /vote% (31.223.39.202)
+19-01-22 11:48:58 Voting percent is 60
+19-01-22 11:51:49 Time Left: 5 minutes
+19-01-22 11:52:49 Time Left: 4 minutes
+19-01-22 11:53:49 Time Left: 3 minutes
+19-01-22 11:54:49 Time Left: 2 minutes
+19-01-22 11:55:49 Time Left: 1 minutes
+19-01-22 11:56:49 Next map: Lobby
+19-01-22 11:56:54 Lothic - Gothic Lobby Room
+19-01-22 12:01:54 Time Left: 5 minutes
+19-01-22 12:02:54 Time Left: 4 minutes
+19-01-22 12:03:54 Time Left: 3 minutes
+19-01-22 12:04:54 Time Left: 2 minutes
+19-01-22 12:05:54 Time Left: 1 minutes
+19-01-22 12:06:54 Next map: Lobby
+19-01-22 12:06:59 Lothic - Gothic Lobby Room
+19-01-22 12:11:59 Time Left: 5 minutes
+19-01-22 12:12:59 Time Left: 4 minutes
+19-01-22 12:13:59 Time Left: 3 minutes
+19-01-22 12:14:59 Time Left: 2 minutes
+19-01-22 12:15:59 Time Left: 1 minutes
+19-01-22 12:16:59 Next map: Lobby
+19-01-22 12:17:05 Lothic - Gothic Lobby Room
+19-01-22 12:22:05 Time Left: 5 minutes
+19-01-22 12:23:05 Time Left: 4 minutes
+19-01-22 12:24:05 Time Left: 3 minutes
+19-01-22 12:25:05 Time Left: 2 minutes
+19-01-22 12:26:05 Time Left: 1 minutes
+19-01-22 12:27:05 Next map: Lobby
+19-01-22 12:27:10 Lothic - Gothic Lobby Room
+19-01-22 12:32:10 Time Left: 5 minutes
+19-01-22 12:33:10 Time Left: 4 minutes
+19-01-22 12:34:10 Time Left: 3 minutes
+19-01-22 12:35:10 Time Left: 2 minutes
+19-01-22 12:36:10 Time Left: 1 minutes
+19-01-22 12:37:10 Next map: Lobby
+19-01-22 12:37:15 Lothic - Gothic Lobby Room
+19-01-22 12:42:15 Time Left: 5 minutes
+19-01-22 12:43:15 Time Left: 4 minutes
+19-01-22 12:44:15 Time Left: 3 minutes
+19-01-22 12:45:15 Time Left: 2 minutes
+19-01-22 12:46:15 Time Left: 1 minutes
+19-01-22 12:47:15 Next map: Lobby
+19-01-22 12:47:21 Lothic - Gothic Lobby Room
+19-01-22 12:52:21 Time Left: 5 minutes
+19-01-22 12:53:21 Time Left: 4 minutes
+19-01-22 12:54:21 Time Left: 3 minutes
+19-01-22 12:55:21 Time Left: 2 minutes
+19-01-22 12:56:21 Time Left: 1 minutes
+19-01-22 12:57:21 Next map: Lobby
+19-01-22 12:57:26 Lothic - Gothic Lobby Room
+19-01-22 13:02:26 Time Left: 5 minutes
+19-01-22 13:03:26 Time Left: 4 minutes
+19-01-22 13:04:26 Time Left: 3 minutes
+19-01-22 13:05:26 Time Left: 2 minutes
+19-01-22 13:06:26 Time Left: 1 minutes
+19-01-22 13:07:26 Next map: Lobby
+19-01-22 13:07:31 Lothic - Gothic Lobby Room
+19-01-22 13:12:31 Time Left: 5 minutes
+19-01-22 13:13:31 Time Left: 4 minutes
+19-01-22 13:14:31 Time Left: 3 minutes
+19-01-22 13:15:31 Time Left: 2 minutes
+19-01-22 13:16:31 Time Left: 1 minutes
+19-01-22 13:17:31 Next map: Lobby
+19-01-22 13:17:37 Lothic - Gothic Lobby Room
+19-01-22 13:22:37 Time Left: 5 minutes
+19-01-22 13:23:37 Time Left: 4 minutes
+19-01-22 13:24:37 Time Left: 3 minutes
+19-01-22 13:25:37 Time Left: 2 minutes
+19-01-22 13:26:37 Time Left: 1 minutes
+19-01-22 13:27:37 Next map: Lobby
+19-01-22 13:27:42 Lothic - Gothic Lobby Room
+19-01-22 13:32:42 Time Left: 5 minutes
+19-01-22 13:33:42 Time Left: 4 minutes
+19-01-22 13:34:42 Time Left: 3 minutes
+19-01-22 13:35:42 Time Left: 2 minutes
+19-01-22 13:36:42 Time Left: 1 minutes
+19-01-22 13:37:42 Next map: Lobby
+19-01-22 13:37:47 Lothic - Gothic Lobby Room
+19-01-22 13:42:47 Time Left: 5 minutes
+19-01-22 13:43:47 Time Left: 4 minutes
+19-01-22 13:44:47 Time Left: 3 minutes
+19-01-22 13:45:47 Time Left: 2 minutes
+19-01-22 13:46:47 Time Left: 1 minutes
+19-01-22 13:47:47 Next map: Lobby
+19-01-22 13:47:53 Lothic - Gothic Lobby Room
+19-01-22 13:52:53 Time Left: 5 minutes
+19-01-22 13:53:53 Time Left: 4 minutes
+19-01-22 13:54:53 Time Left: 3 minutes
+19-01-22 13:55:53 Time Left: 2 minutes
+19-01-22 13:56:53 Time Left: 1 minutes
+19-01-22 13:57:52 Next map: Lobby
+19-01-22 13:57:58 Lothic - Gothic Lobby Room
+19-01-22 14:02:58 Time Left: 5 minutes
+19-01-22 14:03:58 Time Left: 4 minutes
+19-01-22 14:04:58 Time Left: 3 minutes
+19-01-22 14:05:58 Time Left: 2 minutes
+19-01-22 14:06:58 Time Left: 1 minutes
+19-01-22 14:07:58 Next map: Lobby
+19-01-22 14:08:03 Lothic - Gothic Lobby Room
+19-01-22 14:13:03 Time Left: 5 minutes
+19-01-22 14:14:03 Time Left: 4 minutes
+19-01-22 14:15:03 Time Left: 3 minutes
+19-01-22 14:16:03 Time Left: 2 minutes
+19-01-22 14:17:03 Time Left: 1 minutes
+19-01-22 14:18:03 Next map: Lobby
+19-01-22 14:18:08 Lothic - Gothic Lobby Room
+19-01-22 14:23:08 Time Left: 5 minutes
+19-01-22 14:24:08 Time Left: 4 minutes
+19-01-22 14:25:08 Time Left: 3 minutes
+19-01-22 14:26:08 Time Left: 2 minutes
+19-01-22 14:27:08 Time Left: 1 minutes
+19-01-22 14:28:08 Next map: Lobby
+19-01-22 14:28:14 Lothic - Gothic Lobby Room
+19-01-22 14:33:14 Time Left: 5 minutes
+19-01-22 14:34:14 Time Left: 4 minutes
+19-01-22 14:35:14 Time Left: 3 minutes
+19-01-22 14:36:14 Time Left: 2 minutes
+19-01-22 14:37:14 Time Left: 1 minutes
+19-01-22 14:38:14 Next map: Lobby
+19-01-22 14:38:19 Lothic - Gothic Lobby Room
+19-01-22 14:43:19 Time Left: 5 minutes
+19-01-22 14:44:19 Time Left: 4 minutes
+19-01-22 14:45:19 Time Left: 3 minutes
+19-01-22 14:46:19 Time Left: 2 minutes
+19-01-22 14:47:19 Time Left: 1 minutes
+19-01-22 14:48:19 Next map: Lobby
+19-01-22 14:48:24 Lothic - Gothic Lobby Room
+19-01-22 14:53:24 Time Left: 5 minutes
+19-01-22 14:54:24 Time Left: 4 minutes
+19-01-22 14:55:24 Time Left: 3 minutes
+19-01-22 14:56:24 Time Left: 2 minutes
+19-01-22 14:57:24 Time Left: 1 minutes
+19-01-22 14:58:24 Next map: Lobby
+19-01-22 14:58:30 Lothic - Gothic Lobby Room
+19-01-22 15:03:30 Time Left: 5 minutes
+19-01-22 15:04:30 Time Left: 4 minutes
+19-01-22 15:05:30 Time Left: 3 minutes
+19-01-22 15:06:30 Time Left: 2 minutes
+19-01-22 15:07:30 Time Left: 1 minutes
+19-01-22 15:08:30 Next map: Lobby
+19-01-22 15:08:35 Lothic - Gothic Lobby Room
+19-01-22 15:13:35 Time Left: 5 minutes
+19-01-22 15:14:35 Time Left: 4 minutes
+19-01-22 15:15:35 Time Left: 3 minutes
+19-01-22 15:16:35 Time Left: 2 minutes
+19-01-22 15:17:35 Time Left: 1 minutes
+19-01-22 15:18:35 Next map: Lobby
+19-01-22 15:18:40 Lothic - Gothic Lobby Room
+19-01-22 15:23:40 Time Left: 5 minutes
+19-01-22 15:24:40 Time Left: 4 minutes
+19-01-22 15:25:40 Time Left: 3 minutes
+19-01-22 15:26:40 Time Left: 2 minutes
+19-01-22 15:27:40 Time Left: 1 minutes
+19-01-22 15:28:40 Next map: Lobby
+19-01-22 15:28:46 Lothic - Gothic Lobby Room
+19-01-22 15:33:46 Time Left: 5 minutes
+19-01-22 15:34:46 Time Left: 4 minutes
+19-01-22 15:35:46 Time Left: 3 minutes
+19-01-22 15:36:46 Time Left: 2 minutes
+19-01-22 15:37:46 Time Left: 1 minutes
+19-01-22 15:38:46 Next map: Lobby
+19-01-22 15:38:51 Lothic - Gothic Lobby Room
+19-01-22 15:43:51 Time Left: 5 minutes
+19-01-22 15:44:51 Time Left: 4 minutes
+19-01-22 15:45:51 Time Left: 3 minutes
+19-01-22 15:46:51 Time Left: 2 minutes
+19-01-22 15:47:51 Time Left: 1 minutes
+19-01-22 15:48:51 Next map: Lobby
+19-01-22 15:48:56 Lothic - Gothic Lobby Room
+19-01-22 15:53:56 Time Left: 5 minutes
+19-01-22 15:54:56 Time Left: 4 minutes
+19-01-22 15:55:56 Time Left: 3 minutes
+19-01-22 15:56:56 Time Left: 2 minutes
+19-01-22 15:57:56 Time Left: 1 minutes
+19-01-22 15:58:56 Next map: Lobby
+19-01-22 15:59:02 Lothic - Gothic Lobby Room
+19-01-22 16:04:02 Time Left: 5 minutes
+19-01-22 16:05:02 Time Left: 4 minutes
+19-01-22 16:06:02 Time Left: 3 minutes
+19-01-22 16:07:02 Time Left: 2 minutes
+19-01-22 16:08:02 Time Left: 1 minutes
+19-01-22 16:09:02 Next map: Lobby
+19-01-22 16:09:07 Lothic - Gothic Lobby Room
+19-01-22 16:14:07 Time Left: 5 minutes
+19-01-22 16:15:07 Time Left: 4 minutes
+19-01-22 16:16:07 Time Left: 3 minutes
+19-01-22 16:17:07 Time Left: 2 minutes
+19-01-22 16:18:07 Time Left: 1 minutes
+19-01-22 16:19:07 Next map: Lobby
+19-01-22 16:19:12 Lothic - Gothic Lobby Room
+19-01-22 16:24:12 Time Left: 5 minutes
+19-01-22 16:25:12 Time Left: 4 minutes
+19-01-22 16:26:12 Time Left: 3 minutes
+19-01-22 16:27:12 Time Left: 2 minutes
+19-01-22 16:28:12 Time Left: 1 minutes
+19-01-22 16:29:12 Next map: Lobby
+19-01-22 16:29:18 Lothic - Gothic Lobby Room
+19-01-22 16:34:18 Time Left: 5 minutes
+19-01-22 16:35:18 Time Left: 4 minutes
+19-01-22 16:36:18 Time Left: 3 minutes
+19-01-22 16:37:18 Time Left: 2 minutes
+19-01-22 16:38:18 Time Left: 1 minutes
+19-01-22 16:39:18 Next map: Lobby
+19-01-22 16:39:23 Lothic - Gothic Lobby Room
+19-01-22 16:44:23 Time Left: 5 minutes
+19-01-22 16:45:23 Time Left: 4 minutes
+19-01-22 16:46:23 Time Left: 3 minutes
+19-01-22 16:47:23 Time Left: 2 minutes
+19-01-22 16:48:23 Time Left: 1 minutes
+19-01-22 16:49:23 Next map: Lobby
+19-01-22 16:49:28 Lothic - Gothic Lobby Room
+19-01-22 16:54:28 Time Left: 5 minutes
+19-01-22 16:55:28 Time Left: 4 minutes
+19-01-22 16:56:28 Time Left: 3 minutes
+19-01-22 16:57:28 Time Left: 2 minutes
+19-01-22 16:58:28 Time Left: 1 minutes
+19-01-22 16:59:28 Next map: Lobby
+19-01-22 16:59:34 Lothic - Gothic Lobby Room
+19-01-22 17:04:34 Time Left: 5 minutes
+19-01-22 17:05:34 Time Left: 4 minutes
+19-01-22 17:06:34 Time Left: 3 minutes
+19-01-22 17:07:34 Time Left: 2 minutes
+19-01-22 17:08:34 Time Left: 1 minutes
+19-01-22 17:09:34 Next map: Lobby
+19-01-22 17:09:39 Lothic - Gothic Lobby Room
+19-01-22 17:14:39 Time Left: 5 minutes
+19-01-22 17:15:39 Time Left: 4 minutes
+19-01-22 17:16:39 Time Left: 3 minutes
+19-01-22 17:17:39 Time Left: 2 minutes
+19-01-22 17:18:39 Time Left: 1 minutes
+19-01-22 17:19:39 Next map: Lobby
+19-01-22 17:19:44 Lothic - Gothic Lobby Room
+19-01-22 17:24:44 Time Left: 5 minutes
+19-01-22 17:25:44 Time Left: 4 minutes
+19-01-22 17:26:44 Time Left: 3 minutes
+19-01-22 17:27:44 Time Left: 2 minutes
+19-01-22 17:28:44 Time Left: 1 minutes
+19-01-22 17:29:44 Next map: Lobby
+19-01-22 17:29:50 Lothic - Gothic Lobby Room
+19-01-22 17:34:49 Time Left: 5 minutes
+19-01-22 17:35:49 Time Left: 4 minutes
+19-01-22 17:36:49 Time Left: 3 minutes
+19-01-22 17:37:49 Time Left: 2 minutes
+19-01-22 17:38:49 Time Left: 1 minutes
+19-01-22 17:39:49 Next map: Lobby
+19-01-22 17:39:55 Lothic - Gothic Lobby Room
+19-01-22 17:44:55 Time Left: 5 minutes
+19-01-22 17:45:55 Time Left: 4 minutes
+19-01-22 17:46:55 Time Left: 3 minutes
+19-01-22 17:47:55 Time Left: 2 minutes
+19-01-22 17:48:55 Time Left: 1 minutes
+19-01-22 17:49:55 Next map: Lobby
+19-01-22 17:50:00 Lothic - Gothic Lobby Room
+19-01-22 17:55:00 Time Left: 5 minutes
+19-01-22 17:56:00 Time Left: 4 minutes
+19-01-22 17:57:00 Time Left: 3 minutes
+19-01-22 17:58:00 Time Left: 2 minutes
+19-01-22 17:59:00 Time Left: 1 minutes
+19-01-22 18:00:00 Next map: Lobby
+19-01-22 18:00:05 Lothic - Gothic Lobby Room
+19-01-22 18:05:05 Time Left: 5 minutes
+19-01-22 18:06:05 Time Left: 4 minutes
+19-01-22 18:07:05 Time Left: 3 minutes
+19-01-22 18:08:05 Time Left: 2 minutes
+19-01-22 18:09:05 Time Left: 1 minutes
+19-01-22 18:10:05 Next map: Lobby
+19-01-22 18:10:11 Lothic - Gothic Lobby Room
+19-01-22 18:15:11 Time Left: 5 minutes
+19-01-22 18:16:11 Time Left: 4 minutes
+19-01-22 18:17:11 Time Left: 3 minutes
+19-01-22 18:18:11 Time Left: 2 minutes
+19-01-22 18:19:11 Time Left: 1 minutes
+19-01-22 18:20:11 Next map: Lobby
+19-01-22 18:20:16 Lothic - Gothic Lobby Room
+19-01-22 18:25:16 Time Left: 5 minutes
+19-01-22 18:26:16 Time Left: 4 minutes
+19-01-22 18:27:16 Time Left: 3 minutes
+19-01-22 18:28:16 Time Left: 2 minutes
+19-01-22 18:29:16 Time Left: 1 minutes
+19-01-22 18:30:16 Next map: Lobby
+19-01-22 18:30:21 Lothic - Gothic Lobby Room
+19-01-22 18:35:21 Time Left: 5 minutes
+19-01-22 18:36:21 Time Left: 4 minutes
+19-01-22 18:37:21 Time Left: 3 minutes
+19-01-22 18:38:21 Time Left: 2 minutes
+19-01-22 18:39:21 Time Left: 1 minutes
+19-01-22 18:40:21 Next map: Lobby
+19-01-22 18:40:27 Lothic - Gothic Lobby Room
+19-01-22 18:45:27 Time Left: 5 minutes
+19-01-22 18:46:27 Time Left: 4 minutes
+19-01-22 18:47:27 Time Left: 3 minutes
+19-01-22 18:48:27 Time Left: 2 minutes
+19-01-22 18:49:27 Time Left: 1 minutes
+19-01-22 18:50:27 Next map: Lobby
+19-01-22 18:50:32 Lothic - Gothic Lobby Room
+19-01-22 18:55:32 Time Left: 5 minutes
+19-01-22 18:56:32 Time Left: 4 minutes
+19-01-22 18:57:32 Time Left: 3 minutes
+19-01-22 18:58:32 Time Left: 2 minutes
+19-01-22 18:59:32 Time Left: 1 minutes
+19-01-22 19:00:32 Next map: Lobby
+19-01-22 19:00:37 Lothic - Gothic Lobby Room
+19-01-22 19:05:37 Time Left: 5 minutes
+19-01-22 19:05:57 168.196.55.212:23073|497D7A0EDBD requesting game...
+19-01-22 19:06:37 Time Left: 4 minutes
+19-01-22 19:07:37 Time Left: 3 minutes
+19-01-22 19:08:37 Time Left: 2 minutes
+19-01-22 19:09:37 Time Left: 1 minutes
+19-01-22 19:10:37 Next map: Lobby
+19-01-22 19:10:43 Lothic - Gothic Lobby Room
+19-01-22 19:15:43 Time Left: 5 minutes
+19-01-22 19:16:43 Time Left: 4 minutes
+19-01-22 19:17:43 Time Left: 3 minutes
+19-01-22 19:18:43 Time Left: 2 minutes
+19-01-22 19:19:43 Time Left: 1 minutes
+19-01-22 19:20:43 Next map: Lobby
+19-01-22 19:20:48 Lothic - Gothic Lobby Room
+19-01-22 19:25:48 Time Left: 5 minutes
+19-01-22 19:26:48 Time Left: 4 minutes
+19-01-22 19:27:48 Time Left: 3 minutes
+19-01-22 19:28:48 Time Left: 2 minutes
+19-01-22 19:29:48 Time Left: 1 minutes
+19-01-22 19:30:48 Next map: Lobby
+19-01-22 19:30:53 Lothic - Gothic Lobby Room
+19-01-22 19:35:53 Time Left: 5 minutes
+19-01-22 19:36:53 Time Left: 4 minutes
+19-01-22 19:37:53 Time Left: 3 minutes
+19-01-22 19:38:53 Time Left: 2 minutes
+19-01-22 19:39:53 Time Left: 1 minutes
+19-01-22 19:40:53 Next map: Lobby
+19-01-22 19:40:59 Lothic - Gothic Lobby Room
+19-01-22 19:45:59 Time Left: 5 minutes
+19-01-22 19:46:59 Time Left: 4 minutes
+19-01-22 19:47:59 Time Left: 3 minutes
+19-01-22 19:48:59 Time Left: 2 minutes
+19-01-22 19:49:59 Time Left: 1 minutes
+19-01-22 19:50:59 Next map: Lobby
+19-01-22 19:51:04 Lothic - Gothic Lobby Room
+19-01-22 19:56:04 Time Left: 5 minutes
+19-01-22 19:57:04 Time Left: 4 minutes
+19-01-22 19:58:04 Time Left: 3 minutes
+19-01-22 19:59:04 Time Left: 2 minutes
+19-01-22 20:00:04 Time Left: 1 minutes
+19-01-22 20:01:04 Next map: Lobby
+19-01-22 20:01:09 Lothic - Gothic Lobby Room
+19-01-22 20:06:09 Time Left: 5 minutes
+19-01-22 20:07:09 Time Left: 4 minutes
+19-01-22 20:08:09 Time Left: 3 minutes
+19-01-22 20:09:09 Time Left: 2 minutes
+19-01-22 20:10:09 Time Left: 1 minutes
+19-01-22 20:11:09 Next map: Lobby
+19-01-22 20:11:15 Lothic - Gothic Lobby Room
+19-01-22 20:16:15 Time Left: 5 minutes
+19-01-22 20:17:15 Time Left: 4 minutes
+19-01-22 20:18:15 Time Left: 3 minutes
+19-01-22 20:19:15 Time Left: 2 minutes
+19-01-22 20:20:15 Time Left: 1 minutes
+19-01-22 20:21:15 Next map: Lobby
+19-01-22 20:21:20 Lothic - Gothic Lobby Room
+19-01-22 20:26:20 Time Left: 5 minutes
+19-01-22 20:27:20 Time Left: 4 minutes
+19-01-22 20:28:20 Time Left: 3 minutes
+19-01-22 20:29:20 Time Left: 2 minutes
+19-01-22 20:30:20 Time Left: 1 minutes
+19-01-22 20:31:20 Next map: Lobby
+19-01-22 20:31:25 Lothic - Gothic Lobby Room
+19-01-22 20:36:25 Time Left: 5 minutes
+19-01-22 20:37:25 Time Left: 4 minutes
+19-01-22 20:38:25 Time Left: 3 minutes
+19-01-22 20:39:25 Time Left: 2 minutes
+19-01-22 20:40:25 Time Left: 1 minutes
+19-01-22 20:41:25 Next map: Lobby
+19-01-22 20:41:31 Lothic - Gothic Lobby Room
+19-01-22 20:46:30 Time Left: 5 minutes
+19-01-22 20:47:30 Time Left: 4 minutes
+19-01-22 20:48:30 Time Left: 3 minutes
+19-01-22 20:49:30 Time Left: 2 minutes
+19-01-22 20:50:30 Time Left: 1 minutes
+19-01-22 20:51:30 Next map: Lobby
+19-01-22 20:51:36 Lothic - Gothic Lobby Room
+19-01-22 20:56:36 Time Left: 5 minutes
+19-01-22 20:57:36 Time Left: 4 minutes
+19-01-22 20:58:36 Time Left: 3 minutes
+19-01-22 20:59:36 Time Left: 2 minutes
+19-01-22 21:00:36 Time Left: 1 minutes
+19-01-22 21:01:36 Next map: Lobby
+19-01-22 21:01:41 Lothic - Gothic Lobby Room
+19-01-22 21:06:41 Time Left: 5 minutes
+19-01-22 21:07:41 Time Left: 4 minutes
+19-01-22 21:08:41 Time Left: 3 minutes
+19-01-22 21:09:41 Time Left: 2 minutes
+19-01-22 21:10:41 Time Left: 1 minutes
+19-01-22 21:11:41 Next map: Lobby
+19-01-22 21:11:46 Lothic - Gothic Lobby Room
+19-01-22 21:16:46 Time Left: 5 minutes
+19-01-22 21:17:46 Time Left: 4 minutes
+19-01-22 21:18:46 Time Left: 3 minutes
+19-01-22 21:19:46 Time Left: 2 minutes
+19-01-22 21:20:46 Time Left: 1 minutes
+19-01-22 21:21:46 Next map: Lobby
+19-01-22 21:21:52 Lothic - Gothic Lobby Room
+19-01-22 21:26:52 Time Left: 5 minutes
+19-01-22 21:27:52 Time Left: 4 minutes
+19-01-22 21:28:52 Time Left: 3 minutes
+19-01-22 21:29:52 Time Left: 2 minutes
+19-01-22 21:30:52 Time Left: 1 minutes
+19-01-22 21:31:52 Next map: Lobby
+19-01-22 21:31:57 Lothic - Gothic Lobby Room
+19-01-22 21:36:57 Time Left: 5 minutes
+19-01-22 21:37:57 Time Left: 4 minutes
+19-01-22 21:38:57 Time Left: 3 minutes
+19-01-22 21:39:57 Time Left: 2 minutes
+19-01-22 21:40:57 Time Left: 1 minutes
+19-01-22 21:41:57 Next map: Lobby
+19-01-22 21:42:02 Lothic - Gothic Lobby Room
+19-01-22 21:47:02 Time Left: 5 minutes
+19-01-22 21:48:02 Time Left: 4 minutes
+19-01-22 21:49:02 Time Left: 3 minutes
+19-01-22 21:50:02 Time Left: 2 minutes
+19-01-22 21:51:02 Time Left: 1 minutes
+19-01-22 21:52:02 Next map: Lobby
+19-01-22 21:52:08 Lothic - Gothic Lobby Room
+19-01-22 21:55:05 168.196.55.212:23073|497D7A0EDBD requesting game...
+19-01-22 21:57:08 Time Left: 5 minutes
+19-01-22 21:58:08 Time Left: 4 minutes
+19-01-22 21:59:08 Time Left: 3 minutes
+19-01-22 22:00:08 Time Left: 2 minutes
+19-01-22 22:01:08 Time Left: 1 minutes
+19-01-22 22:02:08 Next map: Lobby
+19-01-22 22:02:13 Lothic - Gothic Lobby Room
+19-01-22 22:07:13 Time Left: 5 minutes
+19-01-22 22:08:13 Time Left: 4 minutes
+19-01-22 22:09:13 Time Left: 3 minutes
+19-01-22 22:10:13 Time Left: 2 minutes
+19-01-22 22:11:13 Time Left: 1 minutes
+19-01-22 22:12:13 Next map: Lobby
+19-01-22 22:12:18 Lothic - Gothic Lobby Room
+19-01-22 22:17:18 Time Left: 5 minutes
+19-01-22 22:18:18 Time Left: 4 minutes
+19-01-22 22:19:18 Time Left: 3 minutes
+19-01-22 22:20:18 Time Left: 2 minutes
+19-01-22 22:21:18 Time Left: 1 minutes
+19-01-22 22:22:18 Next map: Lobby
+19-01-22 22:22:24 Lothic - Gothic Lobby Room
+19-01-22 22:27:24 Time Left: 5 minutes
+19-01-22 22:28:24 Time Left: 4 minutes
+19-01-22 22:29:24 Time Left: 3 minutes
+19-01-22 22:30:24 Time Left: 2 minutes
+19-01-22 22:31:24 Time Left: 1 minutes
+19-01-22 22:32:24 Next map: Lobby
+19-01-22 22:32:29 Lothic - Gothic Lobby Room
+19-01-22 22:37:29 Time Left: 5 minutes
+19-01-22 22:38:29 Time Left: 4 minutes
+19-01-22 22:39:29 Time Left: 3 minutes
+19-01-22 22:40:29 Time Left: 2 minutes
+19-01-22 22:41:29 Time Left: 1 minutes
+19-01-22 22:42:29 Next map: Lobby
+19-01-22 22:42:34 Lothic - Gothic Lobby Room
+19-01-22 22:47:34 Time Left: 5 minutes
+19-01-22 22:48:34 Time Left: 4 minutes
+19-01-22 22:49:34 Time Left: 3 minutes
+19-01-22 22:50:34 Time Left: 2 minutes
+19-01-22 22:51:34 Signal received, shutting down
+19-01-22 22:51:34 Shutting down server...
+19-01-22 22:51:35 Shutting down FileServer...
+19-01-22 22:51:35 Shutting down admin server...

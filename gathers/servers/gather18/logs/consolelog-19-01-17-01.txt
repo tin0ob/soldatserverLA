@@ -1,0 +1,81 @@
+19-01-17 00:34:29    Console Log Started
+19-01-17 00:34:29 Welcome to Soldat 1.7.1
+19-01-17 00:34:29  [*] Preparing scripts to be launched
+19-01-17 00:34:29  [*] [BasicCommands] Compilation started
+19-01-17 00:34:29  [*] [BasicCommands] Compilation complete
+19-01-17 00:34:29  [*] [BasicCommands] Loading bytecode
+19-01-17 00:34:29  [*] [BasicCommands] Bytecode loaded
+19-01-17 00:34:29  [*] Done
+19-01-17 00:34:29 Lothic - Gothic Lobby Room
+19-01-17 00:34:29 Loaded weapons mod "Default mod v1.8"
+19-01-17 00:34:29  Connection for file server started. Port: 23011
+19-01-17 00:35:30 191.85.172.252:23073|161B3425A55 requesting game...
+19-01-17 00:36:07 191.85.172.252 added to Game Admins via Request Password
+19-01-17 00:36:07 191.85.172.252:23073|161B3425A55 requesting game...
+19-01-17 00:36:08 sk!T.Rattle joining game (191.85.172.252:23073) HWID:161B3425A55
+19-01-17 00:36:08 sk!T.Rattle has joined alpha team.
+19-01-17 00:36:18 sk!T.Rattle has left alpha team.
+19-01-17 00:37:57 Admin connected (87.65.255.154).
+19-01-17 00:37:58 /maxplayers (87.65.255.154)
+19-01-17 00:37:58 Max players is 16
+19-01-17 00:37:58 /maxrespawntime (87.65.255.154)
+19-01-17 00:37:58 Maximum Respawn time is 5 seconds
+19-01-17 00:37:58 /respawntime (87.65.255.154)
+19-01-17 00:37:58 Respawn time is 3 seconds
+19-01-17 00:37:58 /limit (87.65.255.154)
+19-01-17 00:37:58 Current kill/point/capture limit is 10
+19-01-17 00:37:58 /timelimit (87.65.255.154)
+19-01-17 00:37:58 Current time limit is 10 minutes
+19-01-17 00:37:58 /friendlyfire (87.65.255.154)
+19-01-17 00:37:58 Friendly Fire is 0
+19-01-17 00:37:58 /scripting (87.65.255.154)
+19-01-17 00:37:58 Scripting is currently Enabled (1)
+19-01-17 00:37:58 /balance (87.65.255.154)
+19-01-17 00:37:58 Bot Balance is off (0)
+19-01-17 00:37:58 /bonus (87.65.255.154)
+19-01-17 00:37:58 Current bonus frequency is 0
+19-01-17 00:37:58 /vote% (87.65.255.154)
+19-01-17 00:37:58 Voting percent is 60
+19-01-17 00:38:01 Admin connected (155.4.193.68).
+19-01-17 00:38:18 191.85.172.252:23073|161B3425A55 requesting game...
+19-01-17 00:38:18 sk!T.Rattle joining game (191.85.172.252:23073) HWID:161B3425A55
+19-01-17 00:38:18 sk!T.Rattle has joined alpha team.
+19-01-17 00:38:19 sk!T.Rattle has left alpha team.
+19-01-17 00:38:53 Admin connected (206.81.24.116).
+19-01-17 00:38:54 /say GatherBot v0.6 is now connected to server. (206.81.24.116)
+19-01-17 00:38:54 /password 3401 (206.81.24.116)
+19-01-17 00:38:54 Server password changed to 3401
+19-01-17 00:38:54 /say Server password was changed... (206.81.24.116)
+19-01-17 00:39:29 Time Left: 5 minutes
+19-01-17 00:40:29 Time Left: 4 minutes
+19-01-17 00:41:29 Time Left: 3 minutes
+19-01-17 00:42:29 Time Left: 2 minutes
+19-01-17 00:43:29 Time Left: 1 minutes
+19-01-17 00:43:34 191.85.172.252:23073|161B3425A55 requesting game...
+19-01-17 00:43:38 191.85.172.252:23073|161B3425A55 requesting game...
+19-01-17 00:43:39 sk!T.Rattle joining game (191.85.172.252:23073) HWID:161B3425A55
+19-01-17 00:43:39 sk!T.Rattle has joined alpha team.
+19-01-17 00:43:43 [sk!T.Rattle] !map ctf_Ash
+19-01-17 00:43:49 ctf_Ash by chakapoko maker
+19-01-17 00:43:50 sk!T.Rattle has left alpha team.
+19-01-17 00:43:52 191.85.172.252:23073|161B3425A55 requesting game...
+19-01-17 00:43:54 191.85.172.252:23073|161B3425A55 requesting game...
+19-01-17 00:43:59 191.85.172.252:23073|161B3425A55 requesting game...
+19-01-17 00:44:00 sk!T.Rattle joining game (191.85.172.252:23073) HWID:161B3425A55
+19-01-17 00:44:00 sk!T.Rattle has joined alpha team.
+19-01-17 00:44:08 [sk!T.Rattle] !map ctf_Jungle
+19-01-17 00:44:08 Map not found (ctf_jungle)
+19-01-17 00:44:08 /say Map not found (ctf_jungle) (206.81.24.116)
+19-01-17 00:44:17 [sk!T.Rattle] !map ctf_Junglefall
+19-01-17 00:44:22 sJunglefall by CrasheR
+19-01-17 00:44:37 sk!T.Rattle captured the Blue Flag
+19-01-17 00:44:58 sk!T.Rattle scores for Alpha Team
+19-01-17 00:45:03 sk!T.Rattle has left alpha team.
+19-01-17 00:49:22 Time Left: 5 minutes
+19-01-17 00:50:22 Time Left: 4 minutes
+19-01-17 00:51:22 Time Left: 3 minutes
+19-01-17 00:52:22 Time Left: 2 minutes
+19-01-17 00:53:22 Time Left: 1 minutes
+19-01-17 00:54:22 Next map: Lobby
+19-01-17 00:54:27 Lothic - Gothic Lobby Room
+19-01-17 00:57:07 169.57.213.62:23073|161B3425A55 requesting game...

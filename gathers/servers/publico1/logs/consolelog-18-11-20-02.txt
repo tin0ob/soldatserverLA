@@ -1,0 +1,11 @@
+18-11-20 09:13:54    Console Log Started
+18-11-20 09:13:54 Welcome to Soldat 1.7.1
+18-11-20 09:13:54  [*] Preparing scripts to be launched
+18-11-20 09:13:54  [*] [BasicCommands] Loading bytecode
+18-11-20 09:13:54  [*] [BasicCommands] Unhandled exception occured: 
+18-11-20 09:13:54  [*] [BasicCommands] Unable to find variable
+18-11-20 09:13:54  [*] Disabling BasicCommands
+18-11-20 09:13:54 Server Encountered an error:
+18-11-20 09:13:54 Access violation
+18-11-20 09:13:54 Shutting down server...
+18-11-20 09:13:54 Shutting down admin server...

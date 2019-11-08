@@ -1,0 +1,277 @@
+18-11-22 18:16:38    Console Log Started
+18-11-22 18:16:38 Welcome to Soldat 1.7.1
+18-11-22 18:16:38  [*] Preparing scripts to be launched
+18-11-22 18:16:38  [*] [BasicCommands] Loading bytecode
+18-11-22 18:16:38  [*] [BasicCommands] Bytecode loaded
+18-11-22 18:16:38  [*] Done
+18-11-22 18:16:38 Lothic - Gothic Lobby Room
+18-11-22 18:16:38 Loaded weapons mod "Default mod v1.8"
+18-11-22 18:16:38  Connection for file server started. Port: 23014
+18-11-22 18:16:49 177.133.169.235 added to Game Admins via Request Password
+18-11-22 18:16:49 177.133.169.235:23073|4D93886F25E requesting game...
+18-11-22 18:16:50 CrasheR joining game (177.133.169.235:23073) HWID:4D93886F25E
+18-11-22 18:16:50 CrasheR has joined alpha team.
+18-11-22 18:16:52 [CrasheR] Hurraaaa!!!
+18-11-22 18:16:53 [CrasheR] I am the law!
+18-11-22 18:16:53 [CrasheR] Hurraaaa!!!
+18-11-22 18:16:54 [CrasheR] I am the law!
+18-11-22 18:16:54 [CrasheR] Hurraaaa!!!
+18-11-22 18:16:55 [CrasheR] Son of a bitch!
+18-11-22 18:16:56 [CrasheR] Hurraaaa!!!
+18-11-22 18:16:56 [CrasheR] Son of a bitch!
+18-11-22 18:16:56 [CrasheR] Hurraaaa!!!
+18-11-22 18:16:56 [CrasheR] Son of a bitch!
+18-11-22 18:16:56 [CrasheR] Hurraaaa!!!
+18-11-22 18:16:57 CrasheR is admin and cannot be kicked.
+18-11-22 18:16:58 CrasheR is admin and cannot be kicked.
+18-11-22 18:17:43 191.85.188.181 added to Game Admins via Request Password
+18-11-22 18:17:43 191.85.188.181:23073|745CB17698B requesting game...
+18-11-22 18:17:44 sk!T.Rattle joining game (191.85.188.181:23073) HWID:745CB17698B
+18-11-22 18:17:44 sk!T.Rattle has joined bravo team.
+18-11-22 18:17:48 [sk!T.Rattle] !map ctf_Voland
+18-11-22 18:17:53 [CrasheR] :D :D
+18-11-22 18:17:54 Voland
+18-11-22 18:17:58 [sk!T.Rattle] yeaaah
+18-11-22 18:18:00 [sk!T.Rattle] and free
+18-11-22 18:18:04 [sk!T.Rattle] 4 1 year
+18-11-22 18:18:04 (1) CrasheR killed (2) sk!T.Rattle with Barrett M82A1
+18-11-22 18:18:07 [CrasheR] WOW
+18-11-22 18:18:09 [CrasheR] rly?
+18-11-22 18:18:17 (2) sk!T.Rattle killed (1) CrasheR with Combat Knife
+18-11-22 18:18:21 [CrasheR] thats awesome bro
+18-11-22 18:18:21 sk!T.Rattle captured the Red Flag
+18-11-22 18:18:23 [sk!T.Rattle] google
+18-11-22 18:18:26 (1) CrasheR killed (2) sk!T.Rattle with USSOCOM
+18-11-22 18:18:29 [CrasheR] toh got it
+18-11-22 18:18:37 [CrasheR] drk will be very happy :DD
+18-11-22 18:18:38 CrasheR returned the Red Flag
+18-11-22 18:18:47 (2) sk!T.Rattle killed (1) CrasheR with Combat Knife
+18-11-22 18:18:50 [CrasheR] and the other tsv?
+18-11-22 18:18:56 CrasheR has left alpha team.
+18-11-22 18:18:56 [sk!T.Rattle] mm we've one cl
+18-11-22 18:18:58 sk!T.Rattle has left bravo team.
+18-11-22 18:21:15 191.85.188.181:23073|745CB17698B requesting game...
+18-11-22 18:21:16 sk!T.Rattle joining game (191.85.188.181:23073) HWID:745CB17698B
+18-11-22 18:21:16 sk!T.Rattle has joined alpha team.
+18-11-22 18:21:17 190.164.183.66 added to Game Admins via Request Password
+18-11-22 18:21:17 190.164.183.66:23073|63B77490116 requesting game...
+18-11-22 18:21:18 RtP| ShutercL joining game (190.164.183.66:23073) HWID:63B77490116
+18-11-22 18:21:18 RtP| ShutercL has joined bravo team.
+18-11-22 18:21:23 [sk!T.Rattle] tranqui
+18-11-22 18:21:29 (1) sk!T.Rattle killed (2) RtP| ShutercL with Ruger 77
+18-11-22 18:21:32 [RtP| ShutercL] q qeri hacer
+18-11-22 18:21:33 [sk!T.Rattle] son los nuevos servers SA
+18-11-22 18:21:40 (1) sk!T.Rattle killed (2) RtP| ShutercL with Ruger 77
+18-11-22 18:21:41 [RtP| ShutercL] los hostiai tu?
+18-11-22 18:21:43 [sk!T.Rattle] is
+18-11-22 18:21:48 sk!T.Rattle captured the Blue Flag
+18-11-22 18:21:49 (1) sk!T.Rattle killed (2) RtP| ShutercL with Combat Knife
+18-11-22 18:21:49 [RtP| ShutercL] cuanto pagai mensual
+18-11-22 18:21:52 [sk!T.Rattle] nada
+18-11-22 18:21:53 [sk!T.Rattle] B)
+18-11-22 18:21:55 [RtP| ShutercL] ladura
+18-11-22 18:21:55 (1) sk!T.Rattle killed (2) RtP| ShutercL with Combat Knife
+18-11-22 18:22:03 [sk!T.Rattle] q onda el ping
+18-11-22 18:22:05 [sk!T.Rattle] tan en br
+18-11-22 18:22:07 (1) sk!T.Rattle killed (2) RtP| ShutercL with Combat Knife
+18-11-22 18:22:09 [RtP| ShutercL] tan buenos n
+18-11-22 18:22:12 sk!T.Rattle scores for Alpha Team
+18-11-22 18:22:13 [sk!T.Rattle] si no
+18-11-22 18:22:15 [sk!T.Rattle] ya bacan
+18-11-22 18:22:18 [RtP| ShutercL] vale
+18-11-22 18:22:19 [sk!T.Rattle] estos seran los definitivos
+18-11-22 18:22:19 RtP| ShutercL has left bravo team.
+18-11-22 18:22:21 sk!T.Rattle has left alpha team.
+18-11-22 18:22:21 190.164.183.66:23073|63B77490116 requesting game...
+18-11-22 18:22:22 RtP| ShutercL joining game (190.164.183.66:23073) HWID:63B77490116
+18-11-22 18:22:22 RtP| ShutercL has joined bravo team.
+18-11-22 18:22:24 RtP| ShutercL has left bravo team.
+18-11-22 18:22:54 Time Left: 5 minutes
+18-11-22 18:23:54 Time Left: 4 minutes
+18-11-22 18:24:54 Time Left: 3 minutes
+18-11-22 18:25:54 Time Left: 2 minutes
+18-11-22 18:26:54 Time Left: 1 minutes
+18-11-22 18:27:54 Next map: Lobby
+18-11-22 18:27:59 Lothic - Gothic Lobby Room
+18-11-22 18:28:56 191.85.188.181:23073|745CB17698B requesting game...
+18-11-22 18:28:56 sk!T.Rattle joining game (191.85.188.181:23073) HWID:745CB17698B
+18-11-22 18:28:56 sk!T.Rattle has joined alpha team.
+18-11-22 18:29:02 [sk!T.Rattle] !map ctf_Ash
+18-11-22 18:29:07 ctf_Ash by chakapoko maker
+18-11-22 18:29:14 sk!T.Rattle has left alpha team.
+18-11-22 18:34:07 Time Left: 5 minutes
+18-11-22 18:35:07 Time Left: 4 minutes
+18-11-22 18:36:07 Time Left: 3 minutes
+18-11-22 18:37:07 Time Left: 2 minutes
+18-11-22 18:38:07 Time Left: 1 minutes
+18-11-22 18:39:07 Next map: Lobby
+18-11-22 18:39:12 Lothic - Gothic Lobby Room
+18-11-22 18:44:12 Time Left: 5 minutes
+18-11-22 18:45:12 Time Left: 4 minutes
+18-11-22 18:46:12 Time Left: 3 minutes
+18-11-22 18:47:12 Time Left: 2 minutes
+18-11-22 18:48:12 Time Left: 1 minutes
+18-11-22 18:49:12 Next map: Lobby
+18-11-22 18:49:17 Lothic - Gothic Lobby Room
+18-11-22 18:54:17 Time Left: 5 minutes
+18-11-22 18:55:17 Time Left: 4 minutes
+18-11-22 18:56:17 Time Left: 3 minutes
+18-11-22 18:57:17 Time Left: 2 minutes
+18-11-22 18:58:17 Time Left: 1 minutes
+18-11-22 18:59:17 Next map: Lobby
+18-11-22 18:59:23 Lothic - Gothic Lobby Room
+18-11-22 19:04:23 Time Left: 5 minutes
+18-11-22 19:05:23 Time Left: 4 minutes
+18-11-22 19:06:23 Time Left: 3 minutes
+18-11-22 19:07:23 Time Left: 2 minutes
+18-11-22 19:08:23 Time Left: 1 minutes
+18-11-22 19:09:23 Next map: Lobby
+18-11-22 19:09:28 Lothic - Gothic Lobby Room
+18-11-22 19:14:28 Time Left: 5 minutes
+18-11-22 19:15:28 Time Left: 4 minutes
+18-11-22 19:16:28 Time Left: 3 minutes
+18-11-22 19:17:28 Time Left: 2 minutes
+18-11-22 19:18:28 Time Left: 1 minutes
+18-11-22 19:19:28 Next map: Lobby
+18-11-22 19:19:33 Lothic - Gothic Lobby Room
+18-11-22 19:24:33 Time Left: 5 minutes
+18-11-22 19:25:33 Time Left: 4 minutes
+18-11-22 19:26:33 Time Left: 3 minutes
+18-11-22 19:27:33 Time Left: 2 minutes
+18-11-22 19:28:33 Time Left: 1 minutes
+18-11-22 19:29:33 Next map: Lobby
+18-11-22 19:29:39 Lothic - Gothic Lobby Room
+18-11-22 19:34:39 Time Left: 5 minutes
+18-11-22 19:35:39 Time Left: 4 minutes
+18-11-22 19:36:39 Time Left: 3 minutes
+18-11-22 19:37:39 Time Left: 2 minutes
+18-11-22 19:38:39 Time Left: 1 minutes
+18-11-22 19:39:39 Next map: Lobby
+18-11-22 19:39:44 Lothic - Gothic Lobby Room
+18-11-22 19:44:44 Time Left: 5 minutes
+18-11-22 19:45:44 Time Left: 4 minutes
+18-11-22 19:46:44 Time Left: 3 minutes
+18-11-22 19:47:44 Time Left: 2 minutes
+18-11-22 19:48:44 Time Left: 1 minutes
+18-11-22 19:49:44 Next map: Lobby
+18-11-22 19:49:49 Lothic - Gothic Lobby Room
+18-11-22 19:54:49 Time Left: 5 minutes
+18-11-22 19:55:49 Time Left: 4 minutes
+18-11-22 19:56:49 Time Left: 3 minutes
+18-11-22 19:57:49 Time Left: 2 minutes
+18-11-22 19:58:49 Time Left: 1 minutes
+18-11-22 19:59:49 Next map: Lobby
+18-11-22 19:59:55 Lothic - Gothic Lobby Room
+18-11-22 20:03:44 191.85.188.181:23073|745CB17698B requesting game...
+18-11-22 20:03:45 sk!T.Rattle joining game (191.85.188.181:23073) HWID:745CB17698B
+18-11-22 20:03:45 sk!T.Rattle has joined alpha team.
+18-11-22 20:03:53 [sk!T.Rattle] !map ctf_Ash
+18-11-22 20:03:58 ctf_Ash by chakapoko maker
+18-11-22 20:04:38 200.83.37.85 added to Game Admins via Request Password
+18-11-22 20:04:38 200.83.37.85:23073|40AA5BC0D7D requesting game...
+18-11-22 20:05:09 WildR4P` joining game (200.83.37.85:23073) HWID:40AA5BC0D7D
+18-11-22 20:05:09 WildR4P` has joined bravo team.
+18-11-22 20:05:16 [sk!T.Rattle] q tal
+18-11-22 20:05:21 (2) WildR4P` killed (1) sk!T.Rattle with M79
+18-11-22 20:05:34 (1) sk!T.Rattle killed (2) WildR4P` with Grenade
+18-11-22 20:05:40 (1) sk!T.Rattle killed (2) WildR4P` with Hands
+18-11-22 20:05:43 [WildR4P`] wena ql
+18-11-22 20:05:44 [WildR4P`] estan
+18-11-22 20:05:45 [WildR4P`] tmortales
+18-11-22 20:05:45 (1) sk!T.Rattle killed (2) WildR4P` with Ruger 77
+18-11-22 20:05:46 [sk!T.Rattle] se
+18-11-22 20:05:48 [WildR4P`] cmo la hiciste
+18-11-22 20:05:49 [sk!T.Rattle] y gratyis nw
+18-11-22 20:05:51 [WildR4P`] tan en br estos?
+18-11-22 20:05:53 [sk!T.Rattle] google cloud
+18-11-22 20:05:54 [WildR4P`] D:
+18-11-22 20:05:55 (1) sk!T.Rattle killed (2) WildR4P` with Grenade
+18-11-22 20:05:56 [WildR4P`] cmo xux
+18-11-22 20:05:57 [sk!T.Rattle] tiene una wea gratis
+18-11-22 20:05:58 [WildR4P`] cmo xux
+18-11-22 20:06:02 [sk!T.Rattle] x un año
+18-11-22 20:06:06 [sk!T.Rattle] pero tenis q ser hacker pro como yo
+18-11-22 20:06:11 (1) sk!T.Rattle killed (2) WildR4P` with Ruger 77
+18-11-22 20:06:16 [WildR4P`] aonde
+18-11-22 20:06:22 (1) sk!T.Rattle killed (2) WildR4P` with Grenade
+18-11-22 20:06:28 (1) sk!T.Rattle killed (2) WildR4P` with Ruger 77
+18-11-22 20:06:37 (2) WildR4P` killed (1) sk!T.Rattle with M79
+18-11-22 20:06:44 (1) sk!T.Rattle killed (2) WildR4P` with Ruger 77
+18-11-22 20:06:49 (1) sk!T.Rattle killed (2) WildR4P` with Combat Knife
+18-11-22 20:06:52 (1) sk!T.Rattle killed (2) WildR4P` with Grenade
+18-11-22 20:06:52 [WildR4P`] 1 año
+18-11-22 20:06:56 [WildR4P`] es caleta
+18-11-22 20:06:59 [WildR4P`] y dps
+18-11-22 20:06:59 (1) sk!T.Rattle killed (2) WildR4P` with Combat Knife
+18-11-22 20:07:01 [WildR4P`] cuanto se supone
+18-11-22 20:07:02 [WildR4P`] q sale
+18-11-22 20:07:03 [sk!T.Rattle] es barato igual
+18-11-22 20:07:09 (2) WildR4P` killed (1) sk!T.Rattle with Ruger 77
+18-11-22 20:07:13 (1) sk!T.Rattle killed (2) WildR4P` with Combat Knife
+18-11-22 20:07:22 (1) sk!T.Rattle killed (2) WildR4P` with M79
+18-11-22 20:07:24 [sk!T.Rattle] sha
+18-11-22 20:07:25 [sk!T.Rattle] pro
+18-11-22 20:07:26 [sk!T.Rattle] ya me voy
+18-11-22 20:07:27 sk!T.Rattle has left alpha team.
+18-11-22 20:07:30 WildR4P` has left bravo team.
+18-11-22 20:08:58 Time Left: 5 minutes
+18-11-22 20:09:58 Time Left: 4 minutes
+18-11-22 20:10:58 Time Left: 3 minutes
+18-11-22 20:11:58 Time Left: 2 minutes
+18-11-22 20:12:58 Time Left: 1 minutes
+18-11-22 20:13:58 Next map: Lobby
+18-11-22 20:14:04 Lothic - Gothic Lobby Room
+18-11-22 20:19:04 Time Left: 5 minutes
+18-11-22 20:20:04 Time Left: 4 minutes
+18-11-22 20:21:04 Time Left: 3 minutes
+18-11-22 20:22:04 Time Left: 2 minutes
+18-11-22 20:23:04 Time Left: 1 minutes
+18-11-22 20:24:03 Next map: Lobby
+18-11-22 20:24:09 Lothic - Gothic Lobby Room
+18-11-22 20:29:09 Time Left: 5 minutes
+18-11-22 20:30:09 Time Left: 4 minutes
+18-11-22 20:31:09 Time Left: 3 minutes
+18-11-22 20:32:09 Time Left: 2 minutes
+18-11-22 20:33:09 Time Left: 1 minutes
+18-11-22 20:34:09 Next map: Lobby
+18-11-22 20:34:14 Lothic - Gothic Lobby Room
+18-11-22 20:39:14 Time Left: 5 minutes
+18-11-22 20:40:14 Time Left: 4 minutes
+18-11-22 20:41:14 Time Left: 3 minutes
+18-11-22 20:42:14 Time Left: 2 minutes
+18-11-22 20:43:14 Time Left: 1 minutes
+18-11-22 20:44:14 Next map: Lobby
+18-11-22 20:44:19 Lothic - Gothic Lobby Room
+18-11-22 20:49:19 Time Left: 5 minutes
+18-11-22 20:50:19 Time Left: 4 minutes
+18-11-22 20:51:19 Time Left: 3 minutes
+18-11-22 20:52:19 Time Left: 2 minutes
+18-11-22 20:53:19 Time Left: 1 minutes
+18-11-22 20:54:19 Next map: Lobby
+18-11-22 20:54:25 Lothic - Gothic Lobby Room
+18-11-22 20:59:25 Time Left: 5 minutes
+18-11-22 21:00:25 Time Left: 4 minutes
+18-11-22 21:01:25 Time Left: 3 minutes
+18-11-22 21:02:25 Time Left: 2 minutes
+18-11-22 21:03:25 Time Left: 1 minutes
+18-11-22 21:04:25 Next map: Lobby
+18-11-22 21:04:30 Lothic - Gothic Lobby Room
+18-11-22 21:09:30 Time Left: 5 minutes
+18-11-22 21:10:30 Time Left: 4 minutes
+18-11-22 21:11:30 Time Left: 3 minutes
+18-11-22 21:12:30 Time Left: 2 minutes
+18-11-22 21:13:30 Time Left: 1 minutes
+18-11-22 21:14:30 Next map: Lobby
+18-11-22 21:14:35 Lothic - Gothic Lobby Room
+18-11-22 21:16:32 190.141.191.197:23073|30CD0498A33 requesting game...
+18-11-22 21:16:36 190.141.191.197:23073|30CD0498A33 requesting game...
+18-11-22 21:16:40 190.141.191.197:23073|30CD0498A33 requesting game...
+18-11-22 21:16:42 190.141.191.197:23073|30CD0498A33 requesting game...
+18-11-22 21:19:35 Time Left: 5 minutes
+18-11-22 21:20:35 Time Left: 4 minutes
+18-11-22 21:21:35 Time Left: 3 minutes
+18-11-22 21:22:35 Time Left: 2 minutes
+18-11-22 21:23:35 Time Left: 1 minutes
+18-11-22 21:24:35 Next map: Lobby
+18-11-22 21:24:41 Lothic - Gothic Lobby Room
+18-11-22 21:29:41 Time Left: 5 minutes

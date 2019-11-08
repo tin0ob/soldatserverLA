@@ -1,0 +1,13 @@
+18-11-20 09:15:52    Log Started
+18-11-20 09:15:52 Opened /home/gathers/servers/gather15/soldat.ini
+18-11-20 09:15:52 Creating network interface.
+18-11-20 09:15:52 Loading Animations.
+18-11-20 09:15:52 Loading Lobby Servers List
+18-11-20 09:15:52 Loading Maps List
+18-11-20 09:15:52 Loading Map.
+18-11-20 09:15:52 Creating Weapons.
+18-11-20 09:15:52 Starting Game Server.
+18-11-20 09:15:52 TCP/IP File Server started
+18-11-20 09:43:25  Net - Major connected 20-11-18 09:43:25
+18-11-20 09:43:44  Net - Major disconnected 20-11-18 09:43:44
+18-11-20 09:45:52 TCP/IP File Server started

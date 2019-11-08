@@ -1,0 +1,6 @@
+18-11-19 10:51:16    Console Log Started
+18-11-19 10:51:16 Welcome to Soldat 1.7.1
+18-11-19 10:51:16 Server Encountered an error:
+18-11-19 10:51:16 Could not bind socket. Address and port are already in use.
+18-11-19 10:51:16 Shutting down server...
+18-11-19 10:51:16 Shutting down admin server...

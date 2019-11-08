@@ -1,0 +1,25 @@
+19-08-14 02:16:11    Log Started
+19-08-14 02:16:11 Opened /home/tino/gathers/servers/publico1/soldat.ini
+19-08-14 02:16:11 Creating network interface.
+19-08-14 02:16:11 Loading Animations.
+19-08-14 02:16:11 Loading Lobby Servers List
+19-08-14 02:16:11 Loading Maps List
+19-08-14 02:16:11 Loading Map.
+19-08-14 02:16:11 Creating Weapons.
+19-08-14 02:16:11 Starting Game Server.
+19-08-14 02:16:11 TCP/IP File Server started
+19-08-14 02:17:16  Net - Abelsito connected 14-8-19 02:17:16
+19-08-14 02:17:17  Net - sk!T.Rattle connected 14-8-19 02:17:17
+19-08-14 02:17:18  Net - sT.- YnGwi3 connected 14-8-19 02:17:18
+19-08-14 02:17:31  Net - VanscL connected 14-8-19 02:17:31
+19-08-14 02:17:34  Net - [UnK] SenzacL* connected 14-8-19 02:17:34
+19-08-14 02:18:19  Net - |D.Forc3|Maaxis. connected 14-8-19 02:18:19
+19-08-14 02:18:20  Net - sT.- YnGwi3 connected 14-8-19 02:18:20
+19-08-14 02:18:22  Net - sT.- YnGwi3 connected 14-8-19 02:18:22
+19-08-14 02:18:23  Net - sT.- YnGwi3 connected 14-8-19 02:18:23
+19-08-14 02:18:40  Net - sk!T.Rattle disconnected 14-8-19 02:18:40
+19-08-14 02:19:02  Net - |D.Forc3|Maaxis. disconnected 14-8-19 02:19:02
+19-08-14 02:19:05  Net - |D.Forc3|Maaxis. connected 14-8-19 02:19:05
+19-08-14 02:19:09  Net - |D.Forc3|M.* connected 14-8-19 02:19:09
+19-08-14 02:20:19 Destroying Devices.
+19-08-14 02:20:19    End of Log.

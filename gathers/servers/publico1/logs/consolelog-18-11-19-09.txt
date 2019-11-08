@@ -1,0 +1,53 @@
+18-11-19 11:26:48    Console Log Started
+18-11-19 11:26:49 Welcome to Soldat 1.7.1
+18-11-19 11:26:49  [*] Preparing scripts to be launched
+18-11-19 11:26:49  [*] [BasicCommands] Loading bytecode
+18-11-19 11:26:49  [*] [BasicCommands] Bytecode loaded
+18-11-19 11:26:49  [*] Done
+18-11-19 11:26:49 Lothic - Gothic Lobby Room
+18-11-19 11:26:49 Loaded weapons mod "Default mod v1.8"
+18-11-19 11:26:50  Connection for file server started. Port: 23011
+18-11-19 11:26:50 Registering server @ 88.99.234.252
+18-11-19 11:27:17 191.85.163.53:23073|745CB17698B requesting game...
+18-11-19 11:27:23 152.172.135.163:62478|5D324D12DA7 requesting game...
+18-11-19 11:27:31 191.85.163.53 added to Game Admins via Request Password
+18-11-19 11:27:31 191.85.163.53:23073|745CB17698B requesting game...
+18-11-19 11:27:32 sk!T.Rattle joining game (191.85.163.53:23073) HWID:745CB17698B
+18-11-19 11:27:32 sk!T.Rattle has joined alpha team.
+18-11-19 11:27:41 152.172.135.163 added to Game Admins via Request Password
+18-11-19 11:27:41 152.172.135.163:62478|5D324D12DA7 requesting game...
+18-11-19 11:27:42 [sk!T.Rattle] !map ctf_Voland
+18-11-19 11:27:42 extrakt09- joining game (152.172.135.163:62478) HWID:5D324D12DA7
+18-11-19 11:27:42 extrakt09- has joined alpha team.
+18-11-19 11:27:47 Voland
+18-11-19 11:27:51 [sk!T.Rattle] mono qlao
+18-11-19 11:27:53 [sk!T.Rattle] no tenis ping
+18-11-19 11:27:54 [extrakt09-] No!
+18-11-19 11:27:57 sk!T.Rattle has joined bravo team.
+18-11-19 11:28:00 [sk!T.Rattle] pero yo sipo
+18-11-19 11:28:00 (1) extrakt09- killed (2) sk!T.Rattle with Spas-12
+18-11-19 11:28:03 [extrakt09-] y poirque
+18-11-19 11:28:03 [extrakt09-] ?
+18-11-19 11:28:04 extrakt09- captured the Blue Flag
+18-11-19 11:28:05 [sk!T.Rattle] argentina de mierda
+18-11-19 11:28:07 [extrakt09-] pq eri argentino
+18-11-19 11:28:09 [extrakt09-] BOLUDITO
+18-11-19 11:28:14 [sk!T.Rattle] bueno
+18-11-19 11:28:16 [sk!T.Rattle] bueno
+18-11-19 11:28:20 extrakt09- scores for Alpha Team
+18-11-19 11:28:23 [extrakt09-] ta weno weon
+18-11-19 11:28:25 (2) sk!T.Rattle killed (1) extrakt09- with M79
+18-11-19 11:28:25 sk!T.Rattle captured the Red Flag
+18-11-19 11:28:25 [extrakt09-] Son of a bitch!
+18-11-19 11:28:30 (2) sk!T.Rattle killed (1) extrakt09- with Grenade
+18-11-19 11:28:31 [sk!T.Rattle] bueno de ahi compro en argentina
+18-11-19 11:28:37 [sk!T.Rattle] byueno ya esta
+18-11-19 11:28:37 [sk!T.Rattle] lo voy a registrar
+18-11-19 11:28:38 [extrakt09-] son 6 pesos wm
+18-11-19 11:28:40 [sk!T.Rattle] aduis
+18-11-19 11:28:40 (1) extrakt09- killed (2) sk!T.Rattle with Spas-12
+18-11-19 11:28:42 sk!T.Rattle has left bravo team.
+18-11-19 11:28:44 extrakt09- has left alpha team.
+18-11-19 11:29:28 Shutting down server...
+18-11-19 11:29:28 Shutting down FileServer...
+18-11-19 11:29:28 Shutting down admin server...

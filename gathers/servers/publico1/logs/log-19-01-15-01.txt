@@ -1,0 +1,253 @@
+19-01-15 20:00:10    Log Started
+19-01-15 20:00:10 Opened /home/tinolski/gathers/servers/gather18/soldat.ini
+19-01-15 20:03:53  Net - ErreAPe_ disconnected 15-1-19 20:03:53
+19-01-15 20:03:56  Net - Mach disconnected 15-1-19 20:03:56
+19-01-15 20:03:57  Net - Factory disconnected 15-1-19 20:03:57
+19-01-15 20:03:57  Net - rdz disconnected 15-1-19 20:03:57
+19-01-15 20:04:00  Net - CrasheR disconnected 15-1-19 20:04:00
+19-01-15 20:04:01  Net - Absent4|Diegoxxx disconnected 15-1-19 20:04:01
+19-01-15 20:25:20 TCP/IP File Server started
+19-01-15 20:38:10 Loading Map.
+19-01-15 20:38:10 Creating Weapons.
+19-01-15 20:38:10 Starting Game Server.
+19-01-15 20:38:10 TCP/IP File Server started
+19-01-15 20:38:33  Net - OXiD|Kaimelar.hu connected 15-1-19 20:38:33
+19-01-15 20:38:51  Net - sk!T.chub0 connected 15-1-19 20:38:51
+19-01-15 20:39:03  Net - sk!T.chub0 disconnected 15-1-19 20:39:03
+19-01-15 20:39:07  Net - Absent4|Diegoxxx connected 15-1-19 20:39:07
+19-01-15 20:39:16  Net - takeiteasy connected 15-1-19 20:39:16
+19-01-15 20:39:17  Net - sk!T.Rattle connected 15-1-19 20:39:17
+19-01-15 20:39:19  Net - takeiteasy disconnected 15-1-19 20:39:19
+19-01-15 20:39:19  Net - sk!T.Rattle disconnected 15-1-19 20:39:19
+19-01-15 20:39:21  Net - sk!T.Rattle connected 15-1-19 20:39:21
+19-01-15 20:39:22  Net - sk!T.chub0 connected 15-1-19 20:39:22
+19-01-15 20:39:23  Net - takeiteasy connected 15-1-19 20:39:23
+19-01-15 20:40:08  Net - sT.- Enigma connected 15-1-19 20:40:08
+19-01-15 20:41:34  Net - takeiteasy disconnected 15-1-19 20:41:34
+19-01-15 20:41:55  Net - takeiteasy connected 15-1-19 20:41:55
+19-01-15 20:41:56  Net - takeiteasy connected 15-1-19 20:41:56
+19-01-15 20:45:46  Net - sk!T.chub0 disconnected 15-1-19 20:45:46
+19-01-15 20:49:55  Net - takeiteasy disconnected 15-1-19 20:49:55
+19-01-15 20:49:55  Net - sk!T.Rattle disconnected 15-1-19 20:49:55
+19-01-15 20:50:04  Net - OXiD|Kaimelar.hu disconnected 15-1-19 20:50:04
+19-01-15 20:50:11  Net - sT.- Enigma disconnected 15-1-19 20:50:11
+19-01-15 20:50:12  Net - Absent4|Diegoxxx disconnected 15-1-19 20:50:12
+19-01-15 20:55:20 TCP/IP File Server started
+19-01-15 21:25:20 TCP/IP File Server started
+19-01-15 21:55:20 TCP/IP File Server started
+19-01-15 22:25:20 TCP/IP File Server started
+19-01-15 22:52:31 Loading Map.
+19-01-15 22:52:31 Creating Weapons.
+19-01-15 22:52:31 Starting Game Server.
+19-01-15 22:52:31 TCP/IP File Server started
+19-01-15 22:52:51  Net - ShutercL connected 15-1-19 22:52:51
+19-01-15 22:52:53  Net - sT.- SenzacL* connected 15-1-19 22:52:53
+19-01-15 22:53:00  Net - sT.- Mand3s connected 15-1-19 22:53:00
+19-01-15 22:53:11  Net - |BhooD|Diegoxxx connected 15-1-19 22:53:11
+19-01-15 22:54:00  Net - sT.- Enigma connected 15-1-19 22:54:00
+19-01-15 22:54:08  Net - CrasheR connected 15-1-19 22:54:08
+19-01-15 22:54:36  Net - ShutercL connected 15-1-19 22:54:36
+19-01-15 22:54:39  Net - |BhooD|Diegoxxx connected 15-1-19 22:54:39
+19-01-15 22:54:42  Net - sT.- Enigma connected 15-1-19 22:54:42
+19-01-15 22:54:47  Net - sT.- Mand3s connected 15-1-19 22:54:47
+19-01-15 22:55:20 TCP/IP File Server started
+19-01-15 22:55:23  Net - |BhooD|Diegoxxx disconnected 15-1-19 22:55:23
+19-01-15 22:55:36  Net - |BhooD|Diegoxxx connected 15-1-19 22:55:36
+19-01-15 23:06:27  Net - CrasheR disconnected 15-1-19 23:06:27
+19-01-15 23:06:59  Net - |BhooD|Diegoxxx disconnected 15-1-19 23:06:59
+19-01-15 23:07:12  Net - |BhooD|Diegoxxx connected 15-1-19 23:07:12
+19-01-15 23:08:26  Net - CrasheR connected 15-1-19 23:08:26
+19-01-15 23:25:20 TCP/IP File Server started
+19-01-15 23:29:54  Net - ShutercL disconnected 15-1-19 23:29:54
+19-01-15 23:29:56  Net - CrasheR disconnected 15-1-19 23:29:56
+19-01-15 23:29:56  Net - |BhooD|Diegoxxx disconnected 15-1-19 23:29:56
+19-01-15 23:29:56  Net - sT.- Mand3s disconnected 15-1-19 23:29:56
+19-01-15 23:29:56  Net - sT.- SenzacL* disconnected 15-1-19 23:29:56
+19-01-15 23:29:57  Net - sT.- Enigma disconnected 15-1-19 23:29:57
+19-01-15 23:55:20 TCP/IP File Server started
+19-01-16 00:25:20 TCP/IP File Server started
+19-01-16 00:55:20 TCP/IP File Server started
+19-01-16 01:21:44 Loading Map.
+19-01-16 01:21:44 Creating Weapons.
+19-01-16 01:21:44 Starting Game Server.
+19-01-16 01:21:44 TCP/IP File Server started
+19-01-16 01:22:09  Net - UnD @ Mago connected 16-1-19 01:22:09
+19-01-16 01:22:12  Net - /\ connected 16-1-19 01:22:12
+19-01-16 01:22:19  Net - UnD @ Mago connected 16-1-19 01:22:19
+19-01-16 01:22:20  Net - /\ connected 16-1-19 01:22:20
+19-01-16 01:22:32  Net - sk!T.WildR4P` connected 16-1-19 01:22:32
+19-01-16 01:22:35  Net - CrasheR connected 16-1-19 01:22:35
+19-01-16 01:22:40  Net - sk!T.Rattle connected 16-1-19 01:22:40
+19-01-16 01:22:47  Net - sk!T.Rattle disconnected 16-1-19 01:22:47
+19-01-16 01:22:47  Net - ErreAPe_ connected 16-1-19 01:22:47
+19-01-16 01:23:42  Net - sk!T.Rattle connected 16-1-19 01:23:42
+19-01-16 01:24:05  Net - /\ disconnected 16-1-19 01:24:05
+19-01-16 01:24:12  Net - /\ connected 16-1-19 01:24:12
+19-01-16 01:25:20 TCP/IP File Server started
+19-01-16 01:34:24  Net - ErreAPe_ disconnected 16-1-19 01:34:24
+19-01-16 01:34:30  Net - ErreAPe_ connected 16-1-19 01:34:30
+19-01-16 01:36:07  Net - sT.- Mand3s connected 16-1-19 01:36:07
+19-01-16 01:55:20 TCP/IP File Server started
+19-01-16 01:55:40  Net - /\ disconnected 16-1-19 01:55:40
+19-01-16 01:55:58  Net - sk!T.WildR4P` disconnected 16-1-19 01:55:58
+19-01-16 01:56:00  Net - ErreAPe_ disconnected 16-1-19 01:56:00
+19-01-16 01:56:01  Net - UnD @ Mago disconnected 16-1-19 01:56:01
+19-01-16 01:56:02  Net - sk!T.Rattle disconnected 16-1-19 01:56:02
+19-01-16 01:56:02  Net - CrasheR disconnected 16-1-19 01:56:02
+19-01-16 01:57:17  Net - sT.- Mand3s disconnected 16-1-19 01:57:17
+19-01-16 02:25:21 TCP/IP File Server started
+19-01-16 02:55:20 TCP/IP File Server started
+19-01-16 03:25:20 TCP/IP File Server started
+19-01-16 03:55:20 TCP/IP File Server started
+19-01-16 04:25:20 TCP/IP File Server started
+19-01-16 04:55:20 TCP/IP File Server started
+19-01-16 05:25:20 TCP/IP File Server started
+19-01-16 05:55:20 TCP/IP File Server started
+19-01-16 06:25:20 TCP/IP File Server started
+19-01-16 06:55:20 TCP/IP File Server started
+19-01-16 07:25:20 TCP/IP File Server started
+19-01-16 07:55:20 TCP/IP File Server started
+19-01-16 08:25:20 TCP/IP File Server started
+19-01-16 08:55:20 TCP/IP File Server started
+19-01-16 09:25:20 TCP/IP File Server started
+19-01-16 09:55:20 TCP/IP File Server started
+19-01-16 10:25:20 TCP/IP File Server started
+19-01-16 10:55:20 TCP/IP File Server started
+19-01-16 11:25:20 TCP/IP File Server started
+19-01-16 11:55:20 TCP/IP File Server started
+19-01-16 12:25:20 TCP/IP File Server started
+19-01-16 12:55:20 TCP/IP File Server started
+19-01-16 13:25:20 TCP/IP File Server started
+19-01-16 13:55:20 TCP/IP File Server started
+19-01-16 14:25:20 TCP/IP File Server started
+19-01-16 14:55:20 TCP/IP File Server started
+19-01-16 15:25:20 TCP/IP File Server started
+19-01-16 15:55:20 TCP/IP File Server started
+19-01-16 16:25:20 TCP/IP File Server started
+19-01-16 16:55:20 TCP/IP File Server started
+19-01-16 17:25:20 TCP/IP File Server started
+19-01-16 17:55:20 TCP/IP File Server started
+19-01-16 18:00:02 Loading Map.
+19-01-16 18:00:02 Creating Weapons.
+19-01-16 18:00:02 Starting Game Server.
+19-01-16 18:00:02 TCP/IP File Server started
+19-01-16 18:00:22  Net - ErreAPe_ connected 16-1-19 18:00:22
+19-01-16 18:00:40  Net - ErreAPe_ disconnected 16-1-19 18:00:40
+19-01-16 18:25:20 TCP/IP File Server started
+19-01-16 18:55:20 TCP/IP File Server started
+19-01-16 19:08:55 Loading Map.
+19-01-16 19:08:55 Creating Weapons.
+19-01-16 19:08:55 Starting Game Server.
+19-01-16 19:08:55 TCP/IP File Server started
+19-01-16 19:09:25  Net - Samsung connected 16-1-19 19:09:25
+19-01-16 19:09:29  Net - Samsung disconnected 16-1-19 19:09:29
+19-01-16 19:09:40  Net - sT.- SenzacL* connected 16-1-19 19:09:40
+19-01-16 19:09:42  Net - neeeee connected 16-1-19 19:09:42
+19-01-16 19:09:52  Net - neeeee disconnected 16-1-19 19:09:52
+19-01-16 19:10:06  Net - sk!T.Rattle connected 16-1-19 19:10:06
+19-01-16 19:10:23  Net - Zoo [Hellboy] connected 16-1-19 19:10:23
+19-01-16 19:10:33  Net - sT.- Enigma connected 16-1-19 19:10:33
+19-01-16 19:10:39  Net - HartCheat] connected 16-1-19 19:10:39
+19-01-16 19:10:48  Net - sT.- DJ Maaxis connected 16-1-19 19:10:48
+19-01-16 19:11:06  Net - sk!T.chub0 connected 16-1-19 19:11:06
+19-01-16 19:11:12  Net - sk!T.chub0 disconnected 16-1-19 19:11:12
+19-01-16 19:11:33  Net - sk!T.chub0 connected 16-1-19 19:11:33
+19-01-16 19:11:48  Net - sk!T.chub0 disconnected 16-1-19 19:11:48
+19-01-16 19:12:07  Net - sk!T.chub0 connected 16-1-19 19:12:07
+19-01-16 19:12:17  Net - sk!T.chub0 disconnected 16-1-19 19:12:17
+19-01-16 19:12:26  Net - sT.- Mand3s connected 16-1-19 19:12:26
+19-01-16 19:12:28  Net - sk!T.chub0 connected 16-1-19 19:12:28
+19-01-16 19:12:36  Net - sT.- Mand3s connected 16-1-19 19:12:36
+19-01-16 19:13:48  Net - HartCheat] connected 16-1-19 19:13:48
+19-01-16 19:13:49  Net - sT.- Mand3s connected 16-1-19 19:13:49
+19-01-16 19:13:55  Net - HartCheat] disconnected 16-1-19 19:13:55
+19-01-16 19:14:07  Net - sk!T.chub0 disconnected 16-1-19 19:14:07
+19-01-16 19:14:08  Net - sk!T-HartCheat] connected 16-1-19 19:14:08
+19-01-16 19:14:13  Net - sk!T.chub0 connected 16-1-19 19:14:13
+19-01-16 19:14:13  Net - sk!T-HartCheat] connected 16-1-19 19:14:13
+19-01-16 19:14:14  Net - sk!T-HartCheat] disconnected 16-1-19 19:14:14
+19-01-16 19:14:19  Net - sT.- Enigma connected 16-1-19 19:14:19
+19-01-16 19:14:21  Net - sk!T.chub0 disconnected 16-1-19 19:14:21
+19-01-16 19:14:23  Net - sk!T. HartCheat].cL connected 16-1-19 19:14:23
+19-01-16 19:14:26  Net - sk!T. HartCheat].cL disconnected 16-1-19 19:14:26
+19-01-16 19:14:30  Net - sk!T.HartCheat].cL connected 16-1-19 19:14:30
+19-01-16 19:14:33  Net - sk!T.chub0 connected 16-1-19 19:14:33
+19-01-16 19:15:38  Net - sT.- SenzacL* disconnected 16-1-19 19:15:38
+19-01-16 19:15:44  Net - sT.- SenzacL* connected 16-1-19 19:15:44
+19-01-16 19:19:26  Net - sk!T.WildR4P` connected 16-1-19 19:19:26
+19-01-16 19:19:34  Net - sk!T.HartCheat].cL connected 16-1-19 19:19:34
+19-01-16 19:19:39  Net - sk!T.WildR4P` connected 16-1-19 19:19:39
+19-01-16 19:19:40  Net - sk!T.HartCheat].cL disconnected 16-1-19 19:19:40
+19-01-16 19:19:46  Net - HartCheat] connected 16-1-19 19:19:46
+19-01-16 19:21:09  Net - HartCheat] disconnected 16-1-19 19:21:09
+19-01-16 19:25:20 TCP/IP File Server started
+19-01-16 19:30:00  Net - sk!T.WildR4P` disconnected 16-1-19 19:30:00
+19-01-16 19:30:41  Net - sk!T.Rattle connected 16-1-19 19:30:41
+19-01-16 19:31:11  Net - Zoo [Hellboy] disconnected 16-1-19 19:31:11
+19-01-16 19:31:41  Net - sk!T.Rattle connected 16-1-19 19:31:41
+19-01-16 19:31:51  Net - sk!T.WildR4P` connected 16-1-19 19:31:51
+19-01-16 19:42:30  Net - sk!T.WildR4P` disconnected 16-1-19 19:42:30
+19-01-16 19:42:41  Net - sT.- Enigma connected 16-1-19 19:42:41
+19-01-16 19:42:50  Net - sT.- Mand3s connected 16-1-19 19:42:50
+19-01-16 19:43:15  Net - sk!T.WildR4P` connected 16-1-19 19:43:15
+19-01-16 19:43:16  Net - sT.- Enigma disconnected 16-1-19 19:43:16
+19-01-16 19:43:52  Net - sk!T.Rattle connected 16-1-19 19:43:52
+19-01-16 19:43:53  Net - sT.- DJ Maaxis connected 16-1-19 19:43:53
+19-01-16 19:43:53  Net - sk!T.WildR4P` connected 16-1-19 19:43:53
+19-01-16 19:43:55  Net - sk!T.chub0 connected 16-1-19 19:43:55
+19-01-16 19:43:55  Net - sT.- SenzacL* connected 16-1-19 19:43:55
+19-01-16 19:43:56  Net - sT.- Mand3s connected 16-1-19 19:43:56
+19-01-16 19:44:07  Net - sT.- DJ Maaxis disconnected 16-1-19 19:44:07
+19-01-16 19:44:17  Net - sT.- DJ Maaxis connected 16-1-19 19:44:17
+19-01-16 19:50:18  Net - sk!T.chub0 disconnected 16-1-19 19:50:18
+19-01-16 19:51:17  Net - sT.- DJ Maaxis connected 16-1-19 19:51:17
+19-01-16 19:51:24  Net - ErreAPe_ connected 16-1-19 19:51:24
+19-01-16 19:51:25  Net - sT.- DJ Maaxis connected 16-1-19 19:51:25
+19-01-16 19:51:32  Net - ErreAPe_ connected 16-1-19 19:51:32
+19-01-16 19:51:36  Net - ErreAPe_ connected 16-1-19 19:51:36
+19-01-16 19:52:00  Net - sT.- Mand3s disconnected 16-1-19 19:52:00
+19-01-16 19:55:20 TCP/IP File Server started
+19-01-16 19:56:42  Net - chubipoto connected 16-1-19 19:56:42
+19-01-16 19:58:04  Net - sT.- Enigma connected 16-1-19 19:58:04
+19-01-16 19:59:14  Net - sT.- Enigma disconnected 16-1-19 19:59:14
+19-01-16 19:59:14  Net - sk +. /\ connected 16-1-19 19:59:14
+19-01-16 20:00:04  Net - sk +. /\ disconnected 16-1-19 20:00:04
+19-01-16 20:08:55  Net - sk!T.chub0 connected 16-1-19 20:08:55
+19-01-16 20:09:02  Net - sk!T.chub0 disconnected 16-1-19 20:09:02
+19-01-16 20:09:13  Net - ErreAPe_ disconnected 16-1-19 20:09:13
+19-01-16 20:09:17  Net - ErreAPe_ connected 16-1-19 20:09:17
+19-01-16 20:09:19  Net - ErreAPe_ connected 16-1-19 20:09:19
+19-01-16 20:09:31  Net - sk!T.chub0 connected 16-1-19 20:09:31
+19-01-16 20:09:55  Net - xG| HartCheat] connected 16-1-19 20:09:55
+19-01-16 20:13:37  Net - xG| HartCheat] disconnected 16-1-19 20:13:37
+19-01-16 20:13:42  Net - HartCheat] connected 16-1-19 20:13:42
+19-01-16 20:15:37  Net - chubipoto disconnected 16-1-19 20:15:37
+19-01-16 20:15:40  Net - sk!T.chub0 connected 16-1-19 20:15:40
+19-01-16 20:16:03  Net - HartCheat] disconnected 16-1-19 20:16:03
+19-01-16 20:16:30  Net - sk!T.Rattle disconnected 16-1-19 20:16:30
+19-01-16 20:16:37  Net - sk!T.Rattle connected 16-1-19 20:16:37
+19-01-16 20:18:43  Net - chubipoto connected 16-1-19 20:18:43
+19-01-16 20:19:22  Net - chubipoto disconnected 16-1-19 20:19:22
+19-01-16 20:25:20 TCP/IP File Server started
+19-01-16 20:28:36  Net - sk!T.Rattle disconnected 16-1-19 20:28:36
+19-01-16 20:28:42  Net - sk!T.Rattle connected 16-1-19 20:28:42
+19-01-16 20:34:50  Net - sk!T.chub0(1) connected 16-1-19 20:34:50
+19-01-16 20:34:58  Net - sk!T.chub0(1) connected 16-1-19 20:34:58
+19-01-16 20:34:59  Net - sk!T.chub0(1) disconnected 16-1-19 20:34:59
+19-01-16 20:35:02  Net - sk!T.chub0(1) connected 16-1-19 20:35:02
+19-01-16 20:35:10  Net - sk!T.chub0 disconnected 16-1-19 20:35:10
+19-01-16 20:37:21  Net - /\ connected 16-1-19 20:37:21
+19-01-16 20:38:18  Net - /\ disconnected 16-1-19 20:38:18
+19-01-16 20:39:16  Net - /\ connected 16-1-19 20:39:16
+19-01-16 20:39:52  Net - /\ disconnected 16-1-19 20:39:52
+19-01-16 20:55:20 TCP/IP File Server started
+19-01-16 20:59:51  Net - sk!T.chub0(1) disconnected 16-1-19 20:59:51
+19-01-16 20:59:55  Net - sT.- DJ Maaxis disconnected 16-1-19 20:59:55
+19-01-16 20:59:55  Net - sk!T.Rattle disconnected 16-1-19 20:59:55
+19-01-16 20:59:57  Net - sk!T.WildR4P` disconnected 16-1-19 20:59:57
+19-01-16 20:59:58  Net - ErreAPe_ disconnected 16-1-19 20:59:58
+19-01-16 20:59:58  Net - sT.- SenzacL* disconnected 16-1-19 20:59:58
+19-01-16 21:25:20 TCP/IP File Server started
+19-01-16 21:55:20 TCP/IP File Server started
+19-01-16 22:25:20 TCP/IP File Server started
+19-01-16 22:55:20 TCP/IP File Server started

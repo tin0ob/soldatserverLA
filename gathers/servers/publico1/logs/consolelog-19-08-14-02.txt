@@ -1,0 +1,3118 @@
+19-08-14 02:20:23    Console Log Started
+19-08-14 02:20:23 Welcome to Soldat 1.7.1
+19-08-14 02:20:23  [*] Preparing scripts to be launched
+19-08-14 02:20:23  [*] Compiling AT -> antitele.pas...
+19-08-14 02:20:23  [*] AT compiled
+19-08-14 02:20:23  [*] [BasicCommands] Loading bytecode
+19-08-14 02:20:23  [*] [BasicCommands] Bytecode loaded
+19-08-14 02:20:23  [*] Compiling SV -> ServerVisits.pas...
+19-08-14 02:20:23  [*] SV -> [Error] (30:16): Invalid number of parameters
+19-08-14 02:20:23  [*] Disabling SV
+19-08-14 02:20:23  [*] Compiling SWR -> core.pas...
+19-08-14 02:20:23  [*] SWR -> [Error] (56:15): Invalid number of parameters
+19-08-14 02:20:23  [*] Disabling SWR
+19-08-14 02:20:23  [*] Compiling W -> welcome.pas...
+19-08-14 02:20:23  [*] W -> [Hint] (21:10): Variable 'Result' never used
+19-08-14 02:20:23  [*] W compiled
+19-08-14 02:20:23  [*] Done
+19-08-14 02:20:23 Welcome Message Activated
+19-08-14 02:20:23 Kampf - remake by DarkCrusade
+19-08-14 02:20:23 Loaded weapons mod "Default mod v1.8"
+19-08-14 02:20:23  Connection for file server started. Port: 23023
+19-08-14 02:20:23 Registering server @ 88.99.234.252
+19-08-14 02:20:25 190.163.139.89:23073|5DFDDACB48D requesting game...
+19-08-14 02:20:25 186.11.101.167:37835|64995B15DC0 requesting game...
+19-08-14 02:20:26 191.84.71.179:23073|6EB1A67D575 requesting game...
+19-08-14 02:20:26 sT.- YnGwi3 joining game (186.11.101.167:37835) HWID:64995B15DC0
+19-08-14 02:20:26 sT.- YnGwi3 has joined bravo team.
+19-08-14 02:20:26 [UnK] SenzacL* joining game (190.163.139.89:23073) HWID:5DFDDACB48D
+19-08-14 02:20:26 [UnK] SenzacL* has joined alpha team.
+19-08-14 02:20:27 sk!T.Rattle joining game (191.84.71.179:23073) HWID:6EB1A67D575
+19-08-14 02:20:27 sk!T.Rattle has joined alpha team.
+19-08-14 02:20:32 (TEAM)[sk!T.Rattle] !map ctf_caca
+19-08-14 02:20:32 190.45.32.62:23073|2258920FBD8 requesting game...
+19-08-14 02:20:34 |D.Forc3|Maaxis. joining game (190.45.32.62:23073) HWID:2258920FBD8
+19-08-14 02:20:34 |D.Forc3|Maaxis. has joined bravo team.
+19-08-14 02:20:35 [[UnK] SenzacL*] !map ctf_Ash
+19-08-14 02:20:35 [sk!T.Rattle] !map ctf_Voland
+19-08-14 02:20:35 152.172.60.85:23073|3763775CC9C requesting game...
+19-08-14 02:20:37 Abelsito joining game (152.172.60.85:23073) HWID:3763775CC9C
+19-08-14 02:20:37 Abelsito has joined alpha team.
+19-08-14 02:20:39 [[UnK] SenzacL*] !map ctf_Ash
+19-08-14 02:20:41 [|D.Forc3|Maaxis.] vote ahs
+19-08-14 02:20:42 [|D.Forc3|Maaxis.] ash
+19-08-14 02:20:44 |D.Forc3|Maaxis. has left bravo team.
+19-08-14 02:20:44 ctf_Ash by chakapoko maker
+19-08-14 02:20:45 45.232.92.170:44973|51D19415422 requesting game...
+19-08-14 02:20:46 190.45.32.62:23073|2258920FBD8 requesting game...
+19-08-14 02:20:46 190.211.167.106:23073|1496BAEC585 requesting game...
+19-08-14 02:20:47 |D.Forc3|Maaxis. joining game (190.45.32.62:23073) HWID:2258920FBD8
+19-08-14 02:20:47 |D.Forc3|Maaxis. has joined bravo team.
+19-08-14 02:20:48 |D.Forc3|M.* joining game (45.232.92.170:44973) HWID:51D19415422
+19-08-14 02:20:48 |D.Forc3|M.* has joined bravo team.
+19-08-14 02:20:50 VanscL joining game (190.211.167.106:23073) HWID:1496BAEC585
+19-08-14 02:20:50 VanscL has joined bravo team.
+19-08-14 02:20:51 [UnK] SenzacL* captured the Blue Flag
+19-08-14 02:20:52 (2) sT.- YnGwi3 killed (1) [UnK] SenzacL* with HK MP5
+19-08-14 02:20:52 VanscL has left bravo team.
+19-08-14 02:20:53 (2) |D.Forc3|Maaxis. killed (1) Abelsito with Barrett M82A1
+19-08-14 02:20:53 190.211.167.106:23073|1496BAEC585 requesting game...
+19-08-14 02:20:54 [sk!T.Rattle] como nadie tiene el nuevo wm
+19-08-14 02:20:56 (1) sk!T.Rattle killed (2) |D.Forc3|Maaxis. with Combat Knife
+19-08-14 02:20:58 VanscL joining game (190.211.167.106:23073) HWID:1496BAEC585
+19-08-14 02:20:58 VanscL has joined bravo team.
+19-08-14 02:20:58 [|D.Forc3|M.*] quien es este dios
+19-08-14 02:20:58 (1) sk!T.Rattle killed (2) |D.Forc3|M.* with Ruger 77
+19-08-14 02:21:00 (2) sT.- YnGwi3 killed (1) sk!T.Rattle with Grenade
+19-08-14 02:21:01 (2) sT.- YnGwi3 killed (1) [UnK] SenzacL* with HK MP5
+19-08-14 02:21:02 (1) sk!T.Rattle killed (2) |D.Forc3|Maaxis. with Grenade
+19-08-14 02:21:04 (1) sk!T.Rattle killed (2) sT.- YnGwi3 with Combat Knife
+19-08-14 02:21:08 (2) |D.Forc3|Maaxis. killed (1) [UnK] SenzacL* with Grenade
+19-08-14 02:21:12 (2) |D.Forc3|M.* killed (1) Abelsito with M79
+19-08-14 02:21:13 (2) |D.Forc3|Maaxis. killed (1) sk!T.Rattle with Barrett M82A1
+19-08-14 02:21:14 [sT.- YnGwi3] el mota que sea admin
+19-08-14 02:21:15 |D.Forc3|M.* captured the Red Flag
+19-08-14 02:21:15 [sT.- YnGwi3] rattle
+19-08-14 02:21:16 [[UnK] SenzacL*] Vas a jugar rattle?
+19-08-14 02:21:16 (2) VanscL killed (1) Abelsito with Combat Knife
+19-08-14 02:21:18 (1) [UnK] SenzacL* killed (2) VanscL with Barrett M82A1
+19-08-14 02:21:21 [sk!T.Rattle] no
+19-08-14 02:21:22 [sk!T.Rattle] yo los veo
+19-08-14 02:21:23 sk!T.Rattle has joined spectators.
+19-08-14 02:21:25 VanscL has joined alpha team.
+19-08-14 02:21:26 sk!T.Rattle gets a ping warning
+19-08-14 02:21:27 (2) |D.Forc3|M.* killed (1) [UnK] SenzacL* with M79
+19-08-14 02:21:27 (2) sT.- YnGwi3 killed (1) VanscL with HK MP5
+19-08-14 02:21:28 [sk!T.Rattle] quien es el mota
+19-08-14 02:21:29 [sT.- YnGwi3] a dale
+19-08-14 02:21:31 [sT.- YnGwi3] M
+19-08-14 02:21:33 (1) Abelsito killed (2) |D.Forc3|M.* with Steyr AUG
+19-08-14 02:21:33 Abelsito returned the Red Flag
+19-08-14 02:21:35 [sk!T.Rattle] pero no baneen al abel
+19-08-14 02:21:36 [|D.Forc3|Maaxis.] rattle mira como juega tu padre
+19-08-14 02:21:36 [|D.Forc3|Maaxis.] :9
+19-08-14 02:21:37 sT.- YnGwi3 captured the Red Flag
+19-08-14 02:21:37 [sk!T.Rattle] la uninca condicion
+19-08-14 02:21:37 Abelsito captured the Blue Flag
+19-08-14 02:21:38 [|D.Forc3|Maaxis.] ;)
+19-08-14 02:21:39 [Abelsito] xd
+19-08-14 02:21:41 [Abelsito] ?
+19-08-14 02:21:43 [Abelsito] tea m
+19-08-14 02:21:43 [sk!T.Rattle] pa q pueda jugar
+19-08-14 02:21:45 [Abelsito] teamo
+19-08-14 02:21:47 [VanscL] abel de poto
+19-08-14 02:21:47 sk!T.Rattle gets a ping warning
+19-08-14 02:21:48 [sT.- YnGwi3] la teleton
+19-08-14 02:21:48 (1) Abelsito killed (2) sT.- YnGwi3 with Steyr AUG
+19-08-14 02:21:48 Abelsito returned the Red Flag
+19-08-14 02:21:49 [sT.- YnGwi3] esta wea?
+19-08-14 02:21:50 [|D.Forc3|Maaxis.] chupale el pico tambien
+19-08-14 02:21:50 [sk!T.Rattle] si
+19-08-14 02:21:51 [sk!T.Rattle] jajaja
+19-08-14 02:21:52 Abelsito scores for Alpha Team
+19-08-14 02:21:53 [Abelsito] DKSALKDA
+19-08-14 02:21:53 (1) VanscL killed (2) |D.Forc3|Maaxis. with Steyr AUG
+19-08-14 02:21:56 (1) [UnK] SenzacL* killed (2) sT.- YnGwi3 with Barrett M82A1
+19-08-14 02:21:56 [UnK] SenzacL* captured the Blue Flag
+19-08-14 02:22:04 (2) |D.Forc3|Maaxis. killed (1) [UnK] SenzacL* with Barrett M82A1
+19-08-14 02:22:05 |D.Forc3|Maaxis. captured the Red Flag
+19-08-14 02:22:05 sT.- YnGwi3 returned the Blue Flag
+19-08-14 02:22:05 VanscL captured the Blue Flag
+19-08-14 02:22:08 (1) Abelsito killed (2) |D.Forc3|Maaxis. with Steyr AUG
+19-08-14 02:22:08 (2) sT.- YnGwi3 killed (1) Abelsito with Barrett M82A1
+19-08-14 02:22:10 [sk!T.Rattle] mota hablame x discord y te mando la password
+19-08-14 02:22:10 (2) |D.Forc3|M.* killed (1) [UnK] SenzacL* with Grenade
+19-08-14 02:22:14 sT.- YnGwi3 captured the Red Flag
+19-08-14 02:22:14 (1) Abelsito killed (2) |D.Forc3|M.* with Steyr AUG
+19-08-14 02:22:14 [|D.Forc3|Maaxis.] !r
+19-08-14 02:22:14 Restarting...
+19-08-14 02:22:16 [|D.Forc3|M.*] VALE 
+19-08-14 02:22:17 177.10.44.194:4417|233D6AF6A81 requesting game...
+19-08-14 02:22:20 ctf_Ash by chakapoko maker
+19-08-14 02:22:22 |D.Forc3|M.* gets a ping warning
+19-08-14 02:22:29 |D.Forc3|M.* gets a ping warning
+19-08-14 02:22:29 (2) sT.- YnGwi3 killed (1) [UnK] SenzacL* with Barrett M82A1
+19-08-14 02:22:30 sT.- YnGwi3 captured the Red Flag
+19-08-14 02:22:36 |D.Forc3|M.* gets a ping warning
+19-08-14 02:22:38 (2) |D.Forc3|M.* killed (1) [UnK] SenzacL* with Spas-12
+19-08-14 02:22:39 (1) Abelsito killed (2) |D.Forc3|Maaxis. with Grenade
+19-08-14 02:22:39 sT.- YnGwi3 scores for Bravo Team
+19-08-14 02:22:40 [|D.Forc3|Maaxis.] !s
+19-08-14 02:22:40 |D.Forc3|Maaxis. has joined spectators.
+19-08-14 02:22:41 [UnK] SenzacL* has joined spectators.
+19-08-14 02:22:42 (2) sT.- YnGwi3 killed (1) Abelsito with Combat Knife
+19-08-14 02:22:44 [VanscL] !s
+19-08-14 02:22:44 VanscL has joined spectators.
+19-08-14 02:22:47 sT.- YnGwi3 has joined spectators.
+19-08-14 02:22:52 (1) Abelsito killed (2) |D.Forc3|M.* with LAW
+19-08-14 02:23:35 [sk!T.Rattle] estos servers les quedan 100 días mas o menos, en el entretanto entreno a alguien pa
+19-08-14 02:23:37 [VanscL] ese capitan
+19-08-14 02:23:40 [sk!T.Rattle] pa que los siga teniendo
+19-08-14 02:23:50 (2) |D.Forc3|M.* killed (1) Abelsito with Hands
+19-08-14 02:23:50 (1) Abelsito killed (2) |D.Forc3|M.* with Hands
+19-08-14 02:23:53 [[UnK] SenzacL*] izi
+19-08-14 02:23:58 [|D.Forc3|M.*] facil
+19-08-14 02:24:00 [sT.- YnGwi3] pero los seguiras pagando?
+19-08-14 02:24:01 (2) |D.Forc3|M.* killed (1) Abelsito with Spas-12
+19-08-14 02:24:07 [sk!T.Rattle] no porque tengo una manera de q sean gratis
+19-08-14 02:24:08 (1) Abelsito killed (2) |D.Forc3|M.* with Steyr AUG
+19-08-14 02:24:08 [UnK] SenzacL* has joined bravo team.
+19-08-14 02:24:11 [sT.- YnGwi3] a dale
+19-08-14 02:24:13 [sk!T.Rattle] pero tengo q entrenar a alguien
+19-08-14 02:24:16 |D.Forc3|Maaxis. has joined alpha team.
+19-08-14 02:24:18 [UnK] SenzacL* captured the Red Flag
+19-08-14 02:24:20 (1) Abelsito killed (2) [UnK] SenzacL* with Grenade
+19-08-14 02:24:24 [sk!T.Rattle] o que se haga una cuenta y los sigo administrando pero se me acaba la plata en 100 d
+19-08-14 02:24:27 [sT.- YnGwi3] !a
+19-08-14 02:24:27 sT.- YnGwi3 has joined alpha team.
+19-08-14 02:24:30 VanscL has joined bravo team.
+19-08-14 02:24:33 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with Grenade
+19-08-14 02:24:33 (2) [UnK] SenzacL* killed (1) sT.- YnGwi3 with Grenade
+19-08-14 02:24:34 sT.- YnGwi3 has joined bravo team.
+19-08-14 02:24:38 VanscL has joined alpha team.
+19-08-14 02:24:40 [sk!T.Rattle] igual aprendan linux y van a tener pega segura
+19-08-14 02:24:41 VanscL returned the Red Flag
+19-08-14 02:24:43 (1) VanscL killed (2) |D.Forc3|M.* with Steyr AUG
+19-08-14 02:24:43 [sT.- YnGwi3] yo cacho
+19-08-14 02:24:45 [sT.- YnGwi3] igual
+19-08-14 02:24:47 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with Grenade
+19-08-14 02:24:48 [|D.Forc3|Maaxis.] !R
+19-08-14 02:24:48 Restarting...
+19-08-14 02:24:52 (TEAM)[VanscL] up
+19-08-14 02:24:52 [|D.Forc3|M.*] estan listas
+19-08-14 02:24:53 ctf_Ash by chakapoko maker
+19-08-14 02:24:58 (1) Abelsito killed (2) sT.- YnGwi3 with Grenade
+19-08-14 02:25:00 (1) Abelsito killed (2) |D.Forc3|M.* with Grenade
+19-08-14 02:25:02 (1) VanscL killed (2) [UnK] SenzacL* with Ak-74
+19-08-14 02:25:04 Abelsito captured the Blue Flag
+19-08-14 02:25:05 (1) Abelsito killed (2) |D.Forc3|M.* with LAW
+19-08-14 02:25:07 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 02:25:15 Abelsito scores for Alpha Team
+19-08-14 02:25:16 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Grenade
+19-08-14 02:25:16 VanscL captured the Blue Flag
+19-08-14 02:25:16 (2) sT.- YnGwi3 killed (1) Abelsito with Barrett M82A1
+19-08-14 02:25:17 (RADIO)[Abelsito] Enemy spotted up!
+19-08-14 02:25:23 (1) Abelsito killed (2) sT.- YnGwi3 with Grenade
+19-08-14 02:25:24 sk!T.Rattle gets a ping warning
+19-08-14 02:25:27 (1) VanscL killed (2) [UnK] SenzacL* with Ak-74
+19-08-14 02:25:31 (2) |D.Forc3|M.* killed (1) Abelsito with Spas-12
+19-08-14 02:25:33 VanscL scores for Alpha Team
+19-08-14 02:25:34 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Barrett M82A1
+19-08-14 02:25:36 (1) VanscL killed (2) |D.Forc3|M.* with Combat Knife
+19-08-14 02:25:38 (2) [UnK] SenzacL* killed (1) VanscL with Grenade
+19-08-14 02:25:39 (1) Abelsito killed (2) [UnK] SenzacL* with Steyr AUG
+19-08-14 02:25:45 (2) sT.- YnGwi3 killed (1) Abelsito with Combat Knife
+19-08-14 02:25:45 (1) Abelsito killed (2) sT.- YnGwi3 with Steyr AUG
+19-08-14 02:25:45 sk!T.Rattle gets a ping warning
+19-08-14 02:25:46 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with Ruger 77
+19-08-14 02:25:53 (2) |D.Forc3|M.* killed (1) VanscL with Spas-12
+19-08-14 02:25:53 |D.Forc3|M.* captured the Red Flag
+19-08-14 02:25:53 (2) sT.- YnGwi3 killed (1) Abelsito with Ruger 77
+19-08-14 02:25:54 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Combat Knife
+19-08-14 02:26:00 (1) VanscL killed (2) sT.- YnGwi3 with Grenade
+19-08-14 02:26:01 (RADIO)[sT.- YnGwi3] Enemy spotted down!
+19-08-14 02:26:01 (2) [UnK] SenzacL* killed (1) Abelsito with Ruger 77
+19-08-14 02:26:02 (2) [UnK] SenzacL* killed (1) VanscL with Ruger 77
+19-08-14 02:26:04 |D.Forc3|M.* scores for Bravo Team
+19-08-14 02:26:05 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Barrett M82A1
+19-08-14 02:26:05 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with Ruger 77
+19-08-14 02:26:06 sk!T.Rattle gets a ping warning
+19-08-14 02:26:08 (2) [UnK] SenzacL* killed (1) Abelsito with Ruger 77
+19-08-14 02:26:11 (2) [UnK] SenzacL* killed (1) VanscL with Chainsaw
+19-08-14 02:26:19 (2) [UnK] SenzacL* killed (1) VanscL with Ruger 77
+19-08-14 02:26:20 (2) |D.Forc3|M.* killed (1) Abelsito with Spas-12
+19-08-14 02:26:21 sT.- YnGwi3 captured the Red Flag
+19-08-14 02:26:22 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with Grenade
+19-08-14 02:26:23 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Combat Knife
+19-08-14 02:26:25 (1) VanscL killed (2) sT.- YnGwi3 with Ak-74
+19-08-14 02:26:26 (2) [UnK] SenzacL* killed (1) Abelsito with Chainsaw
+19-08-14 02:26:26 (2) [UnK] SenzacL* killed (1) VanscL with Chainsaw
+19-08-14 02:26:29 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Grenade
+19-08-14 02:26:33 |D.Forc3|Maaxis. returned the Red Flag
+19-08-14 02:26:34 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Barrett M82A1
+19-08-14 02:26:40 (2) [UnK] SenzacL* killed (1) Abelsito with Grenade
+19-08-14 02:26:40 VanscL is flooding the server
+19-08-14 02:26:41 VanscL gets a ping warning
+19-08-14 02:26:42 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with Grenade
+19-08-14 02:26:43 VanscL is flooding the server
+19-08-14 02:26:46 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with Grenade
+19-08-14 02:26:48 (1) Abelsito killed (2) sT.- YnGwi3 with Grenade
+19-08-14 02:26:48 (2) sT.- YnGwi3 killed (1) Abelsito with Ruger 77
+19-08-14 02:26:49 (1) Abelsito killed (2) [UnK] SenzacL* with Grenade
+19-08-14 02:26:51 (2) |D.Forc3|M.* killed (1) VanscL with Spas-12
+19-08-14 02:26:51 |D.Forc3|M.* captured the Red Flag
+19-08-14 02:26:54 (1) Abelsito killed (2) sT.- YnGwi3 with Grenade
+19-08-14 02:26:55 (RADIO)[sT.- YnGwi3] Enemy spotted middle!
+19-08-14 02:26:55 (1) Abelsito killed (2) [UnK] SenzacL* with Steyr AUG
+19-08-14 02:26:58 (2) sT.- YnGwi3 killed (1) Abelsito with Combat Knife
+19-08-14 02:27:01 |D.Forc3|M.* scores for Bravo Team
+19-08-14 02:27:03 (2) |D.Forc3|M.* killed (1) VanscL with Spas-12
+19-08-14 02:27:03 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Barrett M82A1
+19-08-14 02:27:08 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 02:27:10 |D.Forc3|Maaxis. captured the Blue Flag
+19-08-14 02:27:11 (1) Abelsito killed (2) |D.Forc3|M.* with Grenade
+19-08-14 02:27:16 (1) VanscL killed (2) sT.- YnGwi3 with Ak-74
+19-08-14 02:27:19 (2) |D.Forc3|M.* killed (1) VanscL with Grenade
+19-08-14 02:27:20 |D.Forc3|Maaxis. scores for Alpha Team
+19-08-14 02:27:22 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 02:27:26 |D.Forc3|M.* captured the Red Flag
+19-08-14 02:27:26 (1) VanscL killed (2) |D.Forc3|M.* with Ak-74
+19-08-14 02:27:27 Abelsito captured the Blue Flag
+19-08-14 02:27:30 (1) Abelsito killed (2) [UnK] SenzacL* with Steyr AUG
+19-08-14 02:27:32 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Barrett M82A1
+19-08-14 02:27:32 sT.- YnGwi3 returned the Blue Flag
+19-08-14 02:27:33 (2) sT.- YnGwi3 killed (1) Abelsito with Ruger 77
+19-08-14 02:27:34 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with Ruger 77
+19-08-14 02:27:41 (1) Abelsito killed (2) sT.- YnGwi3 with Steyr AUG
+19-08-14 02:27:43 (2) |D.Forc3|M.* killed (1) Abelsito with Spas-12
+19-08-14 02:27:45 (1) VanscL killed (2) |D.Forc3|M.* with Ak-74
+19-08-14 02:27:45 (2) |D.Forc3|M.* killed (1) VanscL with Grenade
+19-08-14 02:27:45 [|D.Forc3|M.*] Yes, Sir!
+19-08-14 02:27:52 (2) [UnK] SenzacL* killed (1) Abelsito with Ruger 77
+19-08-14 02:27:52 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with Spas-12
+19-08-14 02:27:56 sT.- YnGwi3 captured the Red Flag
+19-08-14 02:27:57 (1) VanscL killed (2) |D.Forc3|M.* with Ak-74
+19-08-14 02:28:01 (2) |D.Forc3|M.* killed (1) VanscL with Spas-12
+19-08-14 02:28:05 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 02:28:07 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with Grenade
+19-08-14 02:28:09 (1) Abelsito killed (2) sT.- YnGwi3 with Steyr AUG
+19-08-14 02:28:09 (2) sT.- YnGwi3 killed (1) VanscL with Grenade
+19-08-14 02:28:12 (2) [UnK] SenzacL* killed (1) Abelsito with Ruger 77
+19-08-14 02:28:12 (1) Abelsito killed (2) [UnK] SenzacL* with Steyr AUG
+19-08-14 02:28:14 |D.Forc3|M.* captured the Red Flag
+19-08-14 02:28:15 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Barrett M82A1
+19-08-14 02:28:16 |D.Forc3|M.* scores for Bravo Team
+19-08-14 02:28:19 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 02:28:19 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with Ruger 77
+19-08-14 02:28:21 (1) VanscL killed (2) |D.Forc3|M.* with Ak-74
+19-08-14 02:28:22 (2) sT.- YnGwi3 killed (1) Abelsito with Ruger 77
+19-08-14 02:28:25 (1) VanscL killed (2) sT.- YnGwi3 with Ak-74
+19-08-14 02:28:29 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Barrett M82A1
+19-08-14 02:28:30 VanscL captured the Blue Flag
+19-08-14 02:28:31 (2) [UnK] SenzacL* killed (1) VanscL with Ruger 77
+19-08-14 02:28:33 (2) sT.- YnGwi3 killed (1) Abelsito with Ruger 77
+19-08-14 02:28:36 [UnK] SenzacL* returned the Blue Flag
+19-08-14 02:28:36 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 02:28:36 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with Grenade
+19-08-14 02:28:38 (1) VanscL killed (2) sT.- YnGwi3 with Grenade
+19-08-14 02:28:38 (2) sT.- YnGwi3 killed (1) VanscL with Grenade
+19-08-14 02:28:44 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with Ruger 77
+19-08-14 02:28:45 (2) |D.Forc3|M.* killed (1) Abelsito with Grenade
+19-08-14 02:28:49 (1) VanscL killed (2) sT.- YnGwi3 with Ak-74
+19-08-14 02:28:50 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with Grenade
+19-08-14 02:28:51 (2) sT.- YnGwi3 killed (1) VanscL with Grenade
+19-08-14 02:28:51 (1) Abelsito killed (2) |D.Forc3|M.* with Steyr AUG
+19-08-14 02:28:54 sk!T.Rattle gets a ping warning
+19-08-14 02:28:55 Abelsito captured the Blue Flag
+19-08-14 02:28:58 (2) [UnK] SenzacL* killed (1) VanscL with Ruger 77
+19-08-14 02:28:58 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Grenade
+19-08-14 02:29:00 (2) sT.- YnGwi3 killed (1) Abelsito with Grenade
+19-08-14 02:29:01 |D.Forc3|M.* returned the Blue Flag
+19-08-14 02:29:05 (1) VanscL killed (2) sT.- YnGwi3 with Ak-74
+19-08-14 02:29:09 (2) |D.Forc3|M.* killed (1) Abelsito with Grenade
+19-08-14 02:29:09 (2) [UnK] SenzacL* killed (1) VanscL with Ruger 77
+19-08-14 02:29:17 [|D.Forc3|M.*] Yes, Sir!
+19-08-14 02:29:17 (1) VanscL killed (2) [UnK] SenzacL* with Grenade
+19-08-14 02:29:26 (1) Abelsito killed (2) sT.- YnGwi3 with Barrett M82A1
+19-08-14 02:29:27 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Barrett M82A1
+19-08-14 02:29:30 (1) Abelsito killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 02:29:32 Abelsito captured the Blue Flag
+19-08-14 02:29:37 (2) [UnK] SenzacL* killed (1) Abelsito with Ruger 77
+19-08-14 02:29:37 [UnK] SenzacL* returned the Blue Flag
+19-08-14 02:29:37 (1) VanscL killed (2) sT.- YnGwi3 with Ak-74
+19-08-14 02:29:38 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 02:29:42 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with Spas-12
+19-08-14 02:29:48 (2) sT.- YnGwi3 killed (1) Abelsito with Ruger 77
+19-08-14 02:29:50 sk!T.Rattle gets a ping warning
+19-08-14 02:29:52 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with Ruger 77
+19-08-14 02:29:53 Time Left: 5 minutes
+19-08-14 02:29:55 sT.- YnGwi3 captured the Red Flag
+19-08-14 02:30:02 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Barrett M82A1
+19-08-14 02:30:03 (2) [UnK] SenzacL* killed (1) VanscL with Ruger 77
+19-08-14 02:30:03 (1) VanscL killed (2) [UnK] SenzacL* with Ak-74
+19-08-14 02:30:04 |D.Forc3|Maaxis. returned the Red Flag
+19-08-14 02:30:05 |D.Forc3|Maaxis. captured the Blue Flag
+19-08-14 02:30:06 (2) |D.Forc3|M.* killed (1) Abelsito with Spas-12
+19-08-14 02:30:12 (2) sT.- YnGwi3 killed (1) Abelsito with Grenade
+19-08-14 02:30:14 (1) VanscL killed (2) |D.Forc3|M.* with Ak-74
+19-08-14 02:30:15 [|D.Forc3|M.*] No!
+19-08-14 02:30:18 sk!T.Rattle gets a ping warning
+19-08-14 02:30:18 (1) VanscL killed (2) sT.- YnGwi3 with Ak-74
+19-08-14 02:30:20 (1) Abelsito killed (2) [UnK] SenzacL* with Grenade
+19-08-14 02:30:24 |D.Forc3|Maaxis. scores for Alpha Team
+19-08-14 02:30:27 (2) sT.- YnGwi3 killed (1) Abelsito with Ruger 77
+19-08-14 02:30:29 (1) VanscL killed (2) |D.Forc3|M.* with Ak-74
+19-08-14 02:30:31 (2) [UnK] SenzacL* killed (1) Abelsito with Barrett M82A1
+19-08-14 02:30:32 sk!T.Rattle gets a ping warning
+19-08-14 02:30:38 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with Ruger 77
+19-08-14 02:30:38 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Barrett M82A1
+19-08-14 02:30:38 (1) Abelsito killed (2) [UnK] SenzacL* with Steyr AUG
+19-08-14 02:30:39 VanscL captured the Blue Flag
+19-08-14 02:30:41 (2) |D.Forc3|M.* killed (1) VanscL with Spas-12
+19-08-14 02:30:44 |D.Forc3|M.* returned the Blue Flag
+19-08-14 02:30:46 (2) [UnK] SenzacL* killed (1) Abelsito with Barrett M82A1
+19-08-14 02:30:48 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Barrett M82A1
+19-08-14 02:30:50 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with Grenade
+19-08-14 02:30:53 Time Left: 4 minutes
+19-08-14 02:30:55 sT.- YnGwi3 captured the Red Flag
+19-08-14 02:30:56 (1) Abelsito killed (2) |D.Forc3|M.* with Steyr AUG
+19-08-14 02:30:58 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with Grenade
+19-08-14 02:31:00 (1) Abelsito killed (2) sT.- YnGwi3 with Grenade
+19-08-14 02:31:01 Abelsito returned the Red Flag
+19-08-14 02:31:01 VanscL captured the Blue Flag
+19-08-14 02:31:05 (1) Abelsito killed (2) [UnK] SenzacL* with Combat Knife
+19-08-14 02:31:10 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 02:31:11 VanscL scores for Alpha Team
+19-08-14 02:31:12 (1) Abelsito killed (2) sT.- YnGwi3 with Grenade
+19-08-14 02:31:14 (1) VanscL killed (2) |D.Forc3|M.* with Ak-74
+19-08-14 02:31:15 |D.Forc3|Maaxis. captured the Blue Flag
+19-08-14 02:31:19 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with Spas-12
+19-08-14 02:31:20 (2) [UnK] SenzacL* killed (1) Abelsito with Barrett M82A1
+19-08-14 02:31:20 (1) Abelsito killed (2) [UnK] SenzacL* with Grenade
+19-08-14 02:31:25 (1) VanscL killed (2) sT.- YnGwi3 with Ak-74
+19-08-14 02:31:25 (1) VanscL killed (2) |D.Forc3|M.* with Grenade
+19-08-14 02:31:26 VanscL captured the Blue Flag
+19-08-14 02:31:28 (2) [UnK] SenzacL* killed (1) Abelsito with Barrett M82A1
+19-08-14 02:31:33 VanscL scores for Alpha Team
+19-08-14 02:31:34 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Barrett M82A1
+19-08-14 02:31:40 [VanscL] link
+19-08-14 02:31:42 (1) Abelsito killed (2) sT.- YnGwi3 with Grenade
+19-08-14 02:31:44 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with Barrett M82A1
+19-08-14 02:31:45 (1) Abelsito killed (2) [UnK] SenzacL* with Grenade
+19-08-14 02:31:50 (2) sT.- YnGwi3 killed (1) Abelsito with Grenade
+19-08-14 02:31:50 (1) VanscL killed (2) |D.Forc3|M.* with Ak-74
+19-08-14 02:31:50 (2) |D.Forc3|M.* killed (1) VanscL with Spas-12
+19-08-14 02:31:51 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Combat Knife
+19-08-14 02:31:53 Time Left: 3 minutes
+19-08-14 02:31:54 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 02:31:58 (1) Abelsito killed (2) sT.- YnGwi3 with Steyr AUG
+19-08-14 02:32:03 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with Grenade
+19-08-14 02:32:06 sk!T.Rattle has left spectators
+19-08-14 02:32:09 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Grenade
+19-08-14 02:32:09 (2) [UnK] SenzacL* killed (1) VanscL with Grenade
+19-08-14 02:32:09 (1) Abelsito killed (2) |D.Forc3|M.* with Combat Knife
+19-08-14 02:32:15 Abelsito captured the Blue Flag
+19-08-14 02:32:16 (1) VanscL killed (2) [UnK] SenzacL* with Ak-74
+19-08-14 02:32:16 (2) [UnK] SenzacL* killed (1) VanscL with M79
+19-08-14 02:32:17 sT.- YnGwi3 captured the Red Flag
+19-08-14 02:32:22 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with Ruger 77
+19-08-14 02:32:23 (1) Abelsito killed (2) sT.- YnGwi3 with Steyr AUG
+19-08-14 02:32:24 Abelsito returned the Red Flag
+19-08-14 02:32:25 (1) VanscL killed (2) |D.Forc3|M.* with Ak-74
+19-08-14 02:32:27 (1) VanscL killed (2) [UnK] SenzacL* with Ak-74
+19-08-14 02:32:29 Abelsito scores for Alpha Team
+19-08-14 02:32:33 (2) sT.- YnGwi3 killed (1) VanscL with Ruger 77
+19-08-14 02:32:35 (1) Abelsito killed (2) sT.- YnGwi3 with Grenade
+19-08-14 02:32:35 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with Grenade
+19-08-14 02:32:40 (1) VanscL killed (2) |D.Forc3|M.* with Ak-74
+19-08-14 02:32:40 (2) [UnK] SenzacL* killed (1) VanscL with M79
+19-08-14 02:32:42 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 02:32:48 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with Ruger 77
+19-08-14 02:32:48 (1) VanscL killed (2) sT.- YnGwi3 with Ak-74
+19-08-14 02:32:50 (2) [UnK] SenzacL* killed (1) Abelsito with M79
+19-08-14 02:32:52 |D.Forc3|M.* gets a ping warning
+19-08-14 02:32:53 Time Left: 2 minutes
+19-08-14 02:32:54 |D.Forc3|M.* captured the Red Flag
+19-08-14 02:32:55 (1) Abelsito killed (2) [UnK] SenzacL* with Steyr AUG
+19-08-14 02:33:01 (2) sT.- YnGwi3 killed (1) VanscL with Ruger 77
+19-08-14 02:33:01 (2) |D.Forc3|M.* killed (1) Abelsito with Combat Knife
+19-08-14 02:33:01 (1) Abelsito killed (2) |D.Forc3|M.* with Steyr AUG
+19-08-14 02:33:02 [|D.Forc3|M.*] No!
+19-08-14 02:33:04 sT.- YnGwi3 captured the Red Flag
+19-08-14 02:33:05 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Barrett M82A1
+19-08-14 02:33:05 |D.Forc3|Maaxis. returned the Red Flag
+19-08-14 02:33:07 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with Grenade
+19-08-14 02:33:08 (1) VanscL killed (2) [UnK] SenzacL* with Grenade
+19-08-14 02:33:12 (2) |D.Forc3|M.* killed (1) Abelsito with Grenade
+19-08-14 02:33:16 (2) |D.Forc3|M.* killed (1) VanscL with Spas-12
+19-08-14 02:33:19 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with M79
+19-08-14 02:33:21 (1) Abelsito killed (2) [UnK] SenzacL* with Grenade
+19-08-14 02:33:22 (2) sT.- YnGwi3 killed (1) Abelsito with Ruger 77
+19-08-14 02:33:23 (1) VanscL killed (2) sT.- YnGwi3 with Ak-74
+19-08-14 02:33:27 |D.Forc3|M.* captured the Red Flag
+19-08-14 02:33:29 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Barrett M82A1
+19-08-14 02:33:29 (1) Abelsito killed (2) [UnK] SenzacL* with Hands
+19-08-14 02:33:34 (1) Abelsito killed (2) sT.- YnGwi3 with Steyr AUG
+19-08-14 02:33:35 (2) sT.- YnGwi3 killed (1) Abelsito with Spas-12
+19-08-14 02:33:36 190.22.138.132:23073|789AC8A7523 requesting game...
+19-08-14 02:33:37 [VanscL] xd
+19-08-14 02:33:39 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Combat Knife
+19-08-14 02:33:39 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with Grenade
+19-08-14 02:33:40 (2) [UnK] SenzacL* killed (1) Abelsito with M79
+19-08-14 02:33:45 (1) VanscL killed (2) sT.- YnGwi3 with Ak-74
+19-08-14 02:33:45 [UnK] SenzacL* captured the Red Flag
+19-08-14 02:33:49 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with Grenade
+19-08-14 02:33:49 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Barrett M82A1
+19-08-14 02:33:53 Time Left: 1 minutes
+19-08-14 02:33:54 (2) sT.- YnGwi3 killed (1) VanscL with Grenade
+19-08-14 02:33:54 [UnK] SenzacL* scores for Bravo Team
+19-08-14 02:33:56 (2) [UnK] SenzacL* killed (1) Abelsito with LAW
+19-08-14 02:33:56 (1) Abelsito killed (2) |D.Forc3|M.* with Combat Knife
+19-08-14 02:34:03 (1) Abelsito killed (2) sT.- YnGwi3 with Steyr AUG
+19-08-14 02:34:03 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with Ak-74
+19-08-14 02:34:11 (1) VanscL killed (2) |D.Forc3|M.* with Ak-74
+19-08-14 02:34:11 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with Grenade
+19-08-14 02:34:14 VanscL captured the Blue Flag
+19-08-14 02:34:16 [UnK] SenzacL* captured the Red Flag
+19-08-14 02:34:20 (1) Abelsito killed (2) [UnK] SenzacL* with Grenade
+19-08-14 02:34:26 (1) VanscL killed (2) |D.Forc3|M.* with Combat Knife
+19-08-14 02:34:28 (2) sT.- YnGwi3 killed (1) VanscL with Grenade
+19-08-14 02:34:28 sT.- YnGwi3 returned the Blue Flag
+19-08-14 02:34:28 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 02:34:31 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Grenade
+19-08-14 02:34:33 Abelsito returned the Red Flag
+19-08-14 02:34:37 Abelsito captured the Blue Flag
+19-08-14 02:34:41 (1) VanscL killed (2) sT.- YnGwi3 with Ak-74
+19-08-14 02:34:42 (1) Abelsito killed (2) |D.Forc3|M.* with Steyr AUG
+19-08-14 02:34:46 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with Combat Knife
+19-08-14 02:34:46 (1) VanscL killed (2) [UnK] SenzacL* with Ak-74
+19-08-14 02:34:47 (2) sT.- YnGwi3 killed (1) Abelsito with Ruger 77
+19-08-14 02:34:51 [VanscL] gg
+19-08-14 02:34:53 Can't load maps from mapslist
+19-08-14 02:34:53 Next map: ctf_Ash
+19-08-14 02:34:54 [VanscL] VANS VANS VANS!!!
+19-08-14 02:34:59 ctf_Ash by chakapoko maker
+19-08-14 02:35:06 (1) Abelsito killed (2) sT.- YnGwi3 with Steyr AUG
+19-08-14 02:35:10 (1) Abelsito killed (2) |D.Forc3|M.* with Combat Knife
+19-08-14 02:35:13 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Barrett M82A1
+19-08-14 02:35:15 [sT.- YnGwi3] !map Rotten
+19-08-14 02:35:21 Rotten by Biggles
+19-08-14 02:35:30 (1) Abelsito killed (2) sT.- YnGwi3 with Steyr AUG
+19-08-14 02:35:30 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with M79
+19-08-14 02:35:32 [UnK] SenzacL* captured the Red Flag
+19-08-14 02:35:32 Abelsito captured the Blue Flag
+19-08-14 02:35:35 (2) [UnK] SenzacL* killed (1) Abelsito with Barrett M82A1
+19-08-14 02:35:37 sT.- YnGwi3 returned the Blue Flag
+19-08-14 02:35:38 [UnK] SenzacL* scores for Bravo Team
+19-08-14 02:35:41 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Barrett M82A1
+19-08-14 02:35:41 (1) Abelsito killed (2) sT.- YnGwi3 with Steyr AUG
+19-08-14 02:35:47 Abelsito captured the Blue Flag
+19-08-14 02:35:49 (1) Abelsito killed (2) |D.Forc3|M.* with Steyr AUG
+19-08-14 02:35:49 201.47.231.78:23073|2D36514114D requesting game...
+19-08-14 02:35:50 sT.- YnGwi3 captured the Red Flag
+19-08-14 02:35:51 201.47.231.78:23073|2D36514114D requesting game...
+19-08-14 02:35:51 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 02:35:55 (2) sT.- YnGwi3 killed (1) VanscL with Barrett M82A1
+19-08-14 02:35:55 [VanscL] !R
+19-08-14 02:35:55 Restarting...
+19-08-14 02:35:58 (TEAM)[VanscL] LOW
+19-08-14 02:36:00 Rotten by Biggles
+19-08-14 02:36:06 (1) Abelsito killed (2) sT.- YnGwi3 with M79
+19-08-14 02:36:07 (2) [UnK] SenzacL* killed (1) VanscL with M79
+19-08-14 02:36:09 [UnK] SenzacL* captured the Red Flag
+19-08-14 02:36:13 (1) Abelsito killed (2) [UnK] SenzacL* with Grenade
+19-08-14 02:36:14 Abelsito returned the Red Flag
+19-08-14 02:36:20 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Combat Knife
+19-08-14 02:36:22 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with M79
+19-08-14 02:36:24 Abelsito captured the Blue Flag
+19-08-14 02:36:25 [|D.Forc3|M.*] !r
+19-08-14 02:36:25 Restarting...
+19-08-14 02:36:29 [VanscL] Anytime...
+19-08-14 02:36:30 Rotten by Biggles
+19-08-14 02:36:36 (2) [UnK] SenzacL* killed (1) VanscL with M79
+19-08-14 02:36:36 VanscL gets a ping warning
+19-08-14 02:36:38 [UnK] SenzacL* captured the Red Flag
+19-08-14 02:36:40 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 02:36:42 |D.Forc3|Maaxis. returned the Red Flag
+19-08-14 02:36:45 VanscL captured the Blue Flag
+19-08-14 02:36:47 (2) [UnK] SenzacL* killed (1) VanscL with Chainsaw
+19-08-14 02:36:47 [UnK] SenzacL* returned the Blue Flag
+19-08-14 02:36:47 190.22.138.132:23073|789AC8A7523 requesting game...
+19-08-14 02:36:53 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 02:36:53 (2) [UnK] SenzacL* killed (1) VanscL with M79
+19-08-14 02:36:55 (2) |D.Forc3|M.* killed (1) Abelsito with Grenade
+19-08-14 02:36:56 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with Barrett M82A1
+19-08-14 02:36:57 [Abelsito] DJSADA
+19-08-14 02:37:01 (2) [UnK] SenzacL* killed (1) Abelsito with M79
+19-08-14 02:37:02 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Grenade
+19-08-14 02:37:04 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with M79
+19-08-14 02:37:04 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 02:37:07 |D.Forc3|M.* captured the Red Flag
+19-08-14 02:37:12 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Grenade
+19-08-14 02:37:14 (2) [UnK] SenzacL* killed (1) VanscL with M79
+19-08-14 02:37:14 [|D.Forc3|M.*] No!
+19-08-14 02:37:14 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 02:37:17 Abelsito captured the Blue Flag
+19-08-14 02:37:21 (1) Abelsito killed (2) [UnK] SenzacL* with M79
+19-08-14 02:37:22 sT.- YnGwi3 captured the Red Flag
+19-08-14 02:37:23 (1) VanscL killed (2) sT.- YnGwi3 with Grenade
+19-08-14 02:37:23 (2) |D.Forc3|M.* killed (1) Abelsito with Combat Knife
+19-08-14 02:37:25 |D.Forc3|M.* returned the Blue Flag
+19-08-14 02:37:25 [Abelsito] SADFSDFSAD
+19-08-14 02:37:27 |D.Forc3|Maaxis. returned the Red Flag
+19-08-14 02:37:28 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with M79
+19-08-14 02:37:28 (1) VanscL killed (2) [UnK] SenzacL* with Grenade
+19-08-14 02:37:29 (2) |D.Forc3|M.* killed (1) Abelsito with M79
+19-08-14 02:37:30 |D.Forc3|M.* captured the Red Flag
+19-08-14 02:37:33 (2) sT.- YnGwi3 killed (1) VanscL with Grenade
+19-08-14 02:37:37 (1) Abelsito killed (2) [UnK] SenzacL* with M79
+19-08-14 02:37:38 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Barrett M82A1
+19-08-14 02:37:39 Abelsito returned the Red Flag
+19-08-14 02:37:39 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Grenade
+19-08-14 02:37:39 [|D.Forc3|M.*] No!
+19-08-14 02:37:40 Abelsito captured the Blue Flag
+19-08-14 02:37:44 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Combat Knife
+19-08-14 02:37:47 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with Ak-74
+19-08-14 02:37:47 Abelsito scores for Alpha Team
+19-08-14 02:37:47 VanscL captured the Blue Flag
+19-08-14 02:37:48 (2) [UnK] SenzacL* killed (1) Abelsito with Chainsaw
+19-08-14 02:37:48 [UnK] SenzacL* captured the Red Flag
+19-08-14 02:37:52 (2) |D.Forc3|M.* killed (1) Abelsito with Combat Knife
+19-08-14 02:37:54 (1) VanscL killed (2) sT.- YnGwi3 with HK MP5
+19-08-14 02:37:54 (2) sT.- YnGwi3 killed (1) VanscL with Grenade
+19-08-14 02:37:56 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Combat Knife
+19-08-14 02:37:58 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with Grenade
+19-08-14 02:38:02 (2) [UnK] SenzacL* killed (1) VanscL with M79
+19-08-14 02:38:03 (1) VanscL killed (2) sT.- YnGwi3 with HK MP5
+19-08-14 02:38:04 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Grenade
+19-08-14 02:38:04 (1) Abelsito killed (2) |D.Forc3|M.* with Combat Knife
+19-08-14 02:38:05 (2) sT.- YnGwi3 killed (1) Abelsito with Grenade
+19-08-14 02:38:08 |D.Forc3|Maaxis. captured the Blue Flag
+19-08-14 02:38:11 (2) |D.Forc3|M.* killed (1) VanscL with Combat Knife
+19-08-14 02:38:13 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Grenade
+19-08-14 02:38:14 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with Barrett M82A1
+19-08-14 02:38:18 |D.Forc3|M.* captured the Red Flag
+19-08-14 02:38:19 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Combat Knife
+19-08-14 02:38:19 Abelsito captured the Blue Flag
+19-08-14 02:38:21 (RADIO)[sT.- YnGwi3] Enemy spotted down!
+19-08-14 02:38:23 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 02:38:26 Abelsito captured the Blue Flag
+19-08-14 02:38:29 (1) VanscL killed (2) [UnK] SenzacL* with HK MP5
+19-08-14 02:38:30 (2) sT.- YnGwi3 killed (1) VanscL with USSOCOM
+19-08-14 02:38:32 [VanscL] !P
+19-08-14 02:38:32 Pausing...
+19-08-14 02:38:34 [|D.Forc3|M.*] Die!
+19-08-14 02:38:54 191.82.173.130:1024|A8798AE52FD requesting game...
+19-08-14 02:39:17 [VanscL] SE ESUCHCA
+19-08-14 02:39:19 [|D.Forc3|Maaxis.] si
+19-08-14 02:39:19 [|D.Forc3|Maaxis.] twn
+19-08-14 02:39:19 [sT.- YnGwi3] si wn
+19-08-14 02:39:20 [sT.- YnGwi3] xd
+19-08-14 02:39:21 201.47.231.78:23073|2D36514114D requesting game...
+19-08-14 02:39:30 [|D.Forc3|Maaxis.] no escucha el vans
+19-08-14 02:39:31 [|D.Forc3|M.*] Help!
+19-08-14 02:39:34 [|D.Forc3|Maaxis.] desmuteate
+19-08-14 02:39:35 [Abelsito] ESTAY MUTEAO TONTO REQL
+19-08-14 02:39:36 [|D.Forc3|Maaxis.] hombre
+19-08-14 02:39:40 [VanscL] TU MAMA
+19-08-14 02:39:41 [VanscL] !UP
+19-08-14 02:39:41 [|D.Forc3|M.*] Take Cover!
+19-08-14 02:39:41 Unpausing in: 3
+19-08-14 02:39:42 Unpausing in: 2
+19-08-14 02:39:43 [VanscL] !UP
+19-08-14 02:39:43 Unpausing in: 3
+19-08-14 02:39:44 Unpausing in: 2
+19-08-14 02:39:45 [VanscL] !UP
+19-08-14 02:39:45 Unpausing in: 3
+19-08-14 02:39:46 Unpausing in: 2
+19-08-14 02:39:47 [VanscL] !UP
+19-08-14 02:39:47 Unpausing in: 3
+19-08-14 02:39:48 [VanscL] !UP
+19-08-14 02:39:48 Unpausing in: 3
+19-08-14 02:39:49 Unpausing in: 2
+19-08-14 02:39:50 [VanscL] !UP
+19-08-14 02:39:50 Unpausing in: 3
+19-08-14 02:39:51 Unpausing in: 2
+19-08-14 02:39:52 [VanscL] !UP
+19-08-14 02:39:52 Unpausing in: 3
+19-08-14 02:39:53 Unpausing in: 2
+19-08-14 02:39:54 [VanscL] !UP
+19-08-14 02:39:54 Unpausing in: 3
+19-08-14 02:39:55 Unpausing in: 2
+19-08-14 02:39:56 [VanscL] !UP
+19-08-14 02:39:56 Unpausing in: 3
+19-08-14 02:39:57 [|D.Forc3|Maaxis.] paraaaaaaaaaaaaaa
+19-08-14 02:39:57 Unpausing in: 2
+19-08-14 02:39:58 Unpausing in: 1
+19-08-14 02:39:59 Go!
+19-08-14 02:40:00 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Barrett M82A1
+19-08-14 02:40:01 |D.Forc3|Maaxis. returned the Red Flag
+19-08-14 02:40:04 Abelsito scores for Alpha Team
+19-08-14 02:40:04 (2) [UnK] SenzacL* killed (1) VanscL with M79
+19-08-14 02:40:05 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Barrett M82A1
+19-08-14 02:40:06 (1) Abelsito killed (2) [UnK] SenzacL* with Grenade
+19-08-14 02:40:10 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with Grenade
+19-08-14 02:40:12 (1) Abelsito killed (2) |D.Forc3|M.* with M79
+19-08-14 02:40:14 (1) VanscL killed (2) [UnK] SenzacL* with HK MP5
+19-08-14 02:40:16 Abelsito captured the Blue Flag
+19-08-14 02:40:17 sT.- YnGwi3 captured the Red Flag
+19-08-14 02:40:19 (1) Abelsito killed (2) [UnK] SenzacL* with M79
+19-08-14 02:40:21 (1) VanscL killed (2) |D.Forc3|M.* with HK MP5
+19-08-14 02:40:22 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with Barrett M82A1
+19-08-14 02:40:30 Abelsito captured the Blue Flag
+19-08-14 02:40:30 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Barrett M82A1
+19-08-14 02:40:32 (2) [UnK] SenzacL* killed (1) Abelsito with M79
+19-08-14 02:40:34 [UnK] SenzacL* returned the Blue Flag
+19-08-14 02:40:35 (1) VanscL killed (2) sT.- YnGwi3 with HK MP5
+19-08-14 02:40:35 VanscL returned the Red Flag
+19-08-14 02:40:35 |D.Forc3|Maaxis. captured the Blue Flag
+19-08-14 02:40:41 [UnK] SenzacL* captured the Red Flag
+19-08-14 02:40:44 (1) VanscL killed (2) |D.Forc3|M.* with HK MP5
+19-08-14 02:40:46 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with USSOCOM
+19-08-14 02:40:48 sT.- YnGwi3 returned the Blue Flag
+19-08-14 02:40:48 Abelsito captured the Blue Flag
+19-08-14 02:40:52 (1) Abelsito killed (2) [UnK] SenzacL* with M79
+19-08-14 02:40:54 (2) |D.Forc3|M.* killed (1) VanscL with M79
+19-08-14 02:40:54 (1) VanscL killed (2) |D.Forc3|M.* with HK MP5
+19-08-14 02:40:57 Abelsito returned the Red Flag
+19-08-14 02:40:58 (2) |D.Forc3|M.* killed (1) Abelsito with Grenade
+19-08-14 02:40:59 (1) VanscL killed (2) sT.- YnGwi3 with Grenade
+19-08-14 02:41:01 |D.Forc3|M.* returned the Blue Flag
+19-08-14 02:41:03 [UnK] SenzacL* captured the Red Flag
+19-08-14 02:41:05 (1) VanscL killed (2) [UnK] SenzacL* with HK MP5
+19-08-14 02:41:05 VanscL returned the Red Flag
+19-08-14 02:41:08 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Barrett M82A1
+19-08-14 02:41:09 (1) Abelsito killed (2) |D.Forc3|M.* with M79
+19-08-14 02:41:10 [|D.Forc3|M.*] Yes, Sir!
+19-08-14 02:41:11 (1) VanscL killed (2) [UnK] SenzacL* with Grenade
+19-08-14 02:41:12 Abelsito captured the Blue Flag
+19-08-14 02:41:18 (2) [UnK] SenzacL* killed (1) Abelsito with M79
+19-08-14 02:41:19 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with Grenade
+19-08-14 02:41:20 |D.Forc3|M.* returned the Blue Flag
+19-08-14 02:41:21 VanscL captured the Blue Flag
+19-08-14 02:41:22 |D.Forc3|M.* captured the Red Flag
+19-08-14 02:41:22 (2) [UnK] SenzacL* killed (1) VanscL with M79
+19-08-14 02:41:24 (1) Abelsito killed (2) |D.Forc3|M.* with M79
+19-08-14 02:41:25 [|D.Forc3|M.*] Come'on!
+19-08-14 02:41:25 [|D.Forc3|M.*] Yes, Sir!
+19-08-14 02:41:25 [|D.Forc3|M.*] I am the law!
+19-08-14 02:41:26 Abelsito returned the Red Flag
+19-08-14 02:41:26 (2) sT.- YnGwi3 killed (1) Abelsito with Barrett M82A1
+19-08-14 02:41:26 [UnK] SenzacL* returned the Blue Flag
+19-08-14 02:41:27 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with M79
+19-08-14 02:41:31 (1) Abelsito killed (2) [UnK] SenzacL* with Grenade
+19-08-14 02:41:31 (2) [UnK] SenzacL* killed (1) Abelsito with M79
+19-08-14 02:41:31 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with Barrett M82A1
+19-08-14 02:41:35 sT.- YnGwi3 captured the Red Flag
+19-08-14 02:41:37 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Grenade
+19-08-14 02:41:38 (2) |D.Forc3|M.* killed (1) Abelsito with M79
+19-08-14 02:41:40 [UnK] SenzacL* captured the Red Flag
+19-08-14 02:41:41 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 02:41:41 VanscL returned the Red Flag
+19-08-14 02:41:43 |D.Forc3|M.* captured the Red Flag
+19-08-14 02:41:46 (2) |D.Forc3|M.* killed (1) Abelsito with Combat Knife
+19-08-14 02:41:46 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Barrett M82A1
+19-08-14 02:41:46 (2) [UnK] SenzacL* killed (1) VanscL with Chainsaw
+19-08-14 02:41:47 [|D.Forc3|M.*] Come'on!
+19-08-14 02:41:51 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with USSOCOM
+19-08-14 02:41:53 (2) [UnK] SenzacL* killed (1) VanscL with M79
+19-08-14 02:41:54 Abelsito returned the Red Flag
+19-08-14 02:41:56 (2) sT.- YnGwi3 killed (1) Abelsito with Barrett M82A1
+19-08-14 02:41:56 (1) Abelsito killed (2) |D.Forc3|M.* with M79
+19-08-14 02:41:58 (1) VanscL killed (2) sT.- YnGwi3 with HK MP5
+19-08-14 02:41:59 [UnK] SenzacL* captured the Red Flag
+19-08-14 02:41:59 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Grenade
+19-08-14 02:41:59 |D.Forc3|Maaxis. returned the Red Flag
+19-08-14 02:42:04 VanscL captured the Blue Flag
+19-08-14 02:42:04 (1) Abelsito killed (2) |D.Forc3|M.* with M79
+19-08-14 02:42:06 (2) sT.- YnGwi3 killed (1) VanscL with USSOCOM
+19-08-14 02:42:07 (1) Abelsito killed (2) sT.- YnGwi3 with Combat Knife
+19-08-14 02:42:08 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 02:42:09 Abelsito captured the Blue Flag
+19-08-14 02:42:12 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with M79
+19-08-14 02:42:13 [|D.Forc3|M.*] No!
+19-08-14 02:42:14 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with M79
+19-08-14 02:42:15 Abelsito scores for Alpha Team
+19-08-14 02:42:15 (1) VanscL killed (2) sT.- YnGwi3 with HK MP5
+19-08-14 02:42:18 (2) [UnK] SenzacL* killed (1) Abelsito with M79
+19-08-14 02:42:20 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Grenade
+19-08-14 02:42:22 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Barrett M82A1
+19-08-14 02:42:22 VanscL captured the Blue Flag
+19-08-14 02:42:26 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Combat Knife
+19-08-14 02:42:29 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Barrett M82A1
+19-08-14 02:42:30 VanscL scores for Alpha Team
+19-08-14 02:42:31 |D.Forc3|Maaxis. captured the Blue Flag
+19-08-14 02:42:31 [UnK] SenzacL* captured the Red Flag
+19-08-14 02:42:33 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Barrett M82A1
+19-08-14 02:42:34 (1) Abelsito killed (2) [UnK] SenzacL* with Grenade
+19-08-14 02:42:37 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Barrett M82A1
+19-08-14 02:42:41 |D.Forc3|Maaxis. returned the Red Flag
+19-08-14 02:42:42 |D.Forc3|Maaxis. scores for Alpha Team
+19-08-14 02:42:42 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Barrett M82A1
+19-08-14 02:42:43 (2) [UnK] SenzacL* killed (1) Abelsito with M79
+19-08-14 02:42:43 (1) Abelsito killed (2) [UnK] SenzacL* with M79
+19-08-14 02:42:45 [Abelsito] XDDXDX
+19-08-14 02:42:48 VanscL captured the Blue Flag
+19-08-14 02:42:51 (2) [UnK] SenzacL* killed (1) VanscL with M79
+19-08-14 02:42:52 [UnK] SenzacL* returned the Blue Flag
+19-08-14 02:42:54 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with USSOCOM
+19-08-14 02:42:55 Abelsito captured the Blue Flag
+19-08-14 02:42:56 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Barrett M82A1
+19-08-14 02:42:57 [|D.Forc3|M.*] On your feet soldier!
+19-08-14 02:42:58 Time Left: 5 minutes
+19-08-14 02:42:59 (1) VanscL killed (2) [UnK] SenzacL* with HK MP5
+19-08-14 02:43:03 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with USSOCOM
+19-08-14 02:43:04 (2) |D.Forc3|M.* killed (1) VanscL with Barrett M82A1
+19-08-14 02:43:05 Abelsito scores for Alpha Team
+19-08-14 02:43:06 (2) |D.Forc3|M.* killed (1) Abelsito with Grenade
+19-08-14 02:43:10 (2) |D.Forc3|M.* killed (1) VanscL with Barrett M82A1
+19-08-14 02:43:12 sT.- YnGwi3 captured the Red Flag
+19-08-14 02:43:13 (1) Abelsito killed (2) sT.- YnGwi3 with Grenade
+19-08-14 02:43:14 Abelsito returned the Red Flag
+19-08-14 02:43:14 (2) [UnK] SenzacL* killed (1) Abelsito with M79
+19-08-14 02:43:16 |D.Forc3|M.* captured the Red Flag
+19-08-14 02:43:18 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 02:43:20 |D.Forc3|M.* captured the Red Flag
+19-08-14 02:43:21 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with USSOCOM
+19-08-14 02:43:25 Abelsito returned the Red Flag
+19-08-14 02:43:25 (2) sT.- YnGwi3 killed (1) Abelsito with Barrett M82A1
+19-08-14 02:43:26 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Barrett M82A1
+19-08-14 02:43:27 [UnK] SenzacL* captured the Red Flag
+19-08-14 02:43:29 (1) VanscL killed (2) [UnK] SenzacL* with Grenade
+19-08-14 02:43:31 (1) VanscL killed (2) sT.- YnGwi3 with HK MP5
+19-08-14 02:43:31 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Barrett M82A1
+19-08-14 02:43:31 Abelsito returned the Red Flag
+19-08-14 02:43:32 |D.Forc3|Maaxis. captured the Blue Flag
+19-08-14 02:43:32 [|D.Forc3|M.*] No!
+19-08-14 02:43:33 (RADIO)[sT.- YnGwi3] Enemy spotted down!
+19-08-14 02:43:34 (1) Abelsito killed (2) [UnK] SenzacL* with M79
+19-08-14 02:43:38 |D.Forc3|Maaxis. scores for Alpha Team
+19-08-14 02:43:38 VanscL captured the Blue Flag
+19-08-14 02:43:42 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with Barrett M82A1
+19-08-14 02:43:43 (2) [UnK] SenzacL* killed (1) Abelsito with M79
+19-08-14 02:43:43 sT.- YnGwi3 captured the Red Flag
+19-08-14 02:43:47 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with Barrett M82A1
+19-08-14 02:43:48 |D.Forc3|M.* returned the Blue Flag
+19-08-14 02:43:49 (2) [UnK] SenzacL* killed (1) VanscL with M79
+19-08-14 02:43:51 sT.- YnGwi3 scores for Bravo Team
+19-08-14 02:43:52 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with Barrett M82A1
+19-08-14 02:43:52 [UnK] SenzacL* captured the Red Flag
+19-08-14 02:43:58 Time Left: 4 minutes
+19-08-14 02:43:58 [UnK] SenzacL* scores for Bravo Team
+19-08-14 02:43:58 (2) sT.- YnGwi3 killed (1) Abelsito with Grenade
+19-08-14 02:44:02 (1) VanscL killed (2) sT.- YnGwi3 with Grenade
+19-08-14 02:44:03 (2) [UnK] SenzacL* killed (1) VanscL with M79
+19-08-14 02:44:06 (2) |D.Forc3|M.* killed (1) Abelsito with Barrett M82A1
+19-08-14 02:44:06 (1) Abelsito killed (2) |D.Forc3|M.* with Grenade
+19-08-14 02:44:07 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 02:44:14 (1) Abelsito killed (2) sT.- YnGwi3 with M79
+19-08-14 02:44:17 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Combat Knife
+19-08-14 02:44:18 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with Barrett M82A1
+19-08-14 02:44:18 (1) Abelsito killed (2) [UnK] SenzacL* with M79
+19-08-14 02:44:23 VanscL captured the Blue Flag
+19-08-14 02:44:24 (1) VanscL killed (2) sT.- YnGwi3 with Combat Knife
+19-08-14 02:44:25 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 02:44:25 [sT.- YnGwi3] Yes, Sir!
+19-08-14 02:44:31 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 02:44:32 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with Grenade
+19-08-14 02:44:35 VanscL scores for Alpha Team
+19-08-14 02:44:36 (1) Abelsito killed (2) |D.Forc3|M.* with M79
+19-08-14 02:44:36 [VanscL] gg
+19-08-14 02:44:38 (1) Abelsito killed (2) [UnK] SenzacL* with Combat Knife
+19-08-14 02:44:40 Abelsito captured the Blue Flag
+19-08-14 02:44:41 (2) |D.Forc3|M.* killed (1) Abelsito with Grenade
+19-08-14 02:44:42 (2) sT.- YnGwi3 killed (1) VanscL with Barrett M82A1
+19-08-14 02:44:44 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Barrett M82A1
+19-08-14 02:44:46 [UnK] SenzacL* returned the Blue Flag
+19-08-14 02:44:47 (2) |D.Forc3|M.* killed (1) VanscL with Barrett M82A1
+19-08-14 02:44:48 (2) |D.Forc3|M.* killed (1) Abelsito with Combat Knife
+19-08-14 02:44:50 [UnK] SenzacL* captured the Red Flag
+19-08-14 02:44:53 (2) [UnK] SenzacL* killed (1) VanscL with M79
+19-08-14 02:44:54 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 02:44:56 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with Barrett M82A1
+19-08-14 02:44:58 Time Left: 3 minutes
+19-08-14 02:44:58 (2) [UnK] SenzacL* killed (1) Abelsito with Chainsaw
+19-08-14 02:45:01 (2) |D.Forc3|M.* killed (1) VanscL with Barrett M82A1
+19-08-14 02:45:02 (1) VanscL killed (2) sT.- YnGwi3 with Combat Knife
+19-08-14 02:45:03 [UnK] SenzacL* captured the Red Flag
+19-08-14 02:45:04 [VanscL] :D
+19-08-14 02:45:05 [UnK] SenzacL* scores for Bravo Team
+19-08-14 02:45:07 (1) Abelsito killed (2) |D.Forc3|M.* with M79
+19-08-14 02:45:07 (2) [UnK] SenzacL* killed (1) Abelsito with M79
+19-08-14 02:45:09 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 02:45:13 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with Grenade
+19-08-14 02:45:16 (2) sT.- YnGwi3 killed (1) VanscL with Barrett M82A1
+19-08-14 02:45:20 (2) |D.Forc3|M.* killed (1) Abelsito with Barrett M82A1
+19-08-14 02:45:22 [UnK] SenzacL* captured the Red Flag
+19-08-14 02:45:24 73.70.191.162:23073|2FC04957B6C requesting game...
+19-08-14 02:45:25 (2) |D.Forc3|M.* killed (1) VanscL with Grenade
+19-08-14 02:45:25 (1) Abelsito killed (2) |D.Forc3|M.* with Grenade
+19-08-14 02:45:28 (1) Abelsito killed (2) [UnK] SenzacL* with M79
+19-08-14 02:45:29 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with USSOCOM
+19-08-14 02:45:32 (1) Abelsito killed (2) |D.Forc3|M.* with Combat Knife
+19-08-14 02:45:32 (2) |D.Forc3|M.* killed (1) Abelsito with Grenade
+19-08-14 02:45:33 (1) VanscL killed (2) sT.- YnGwi3 with Grenade
+19-08-14 02:45:36 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 02:45:36 |D.Forc3|Maaxis. returned the Red Flag
+19-08-14 02:45:36 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with M79
+19-08-14 02:45:40 (2) sT.- YnGwi3 killed (1) VanscL with Barrett M82A1
+19-08-14 02:45:40 (1) Abelsito killed (2) |D.Forc3|M.* with M79
+19-08-14 02:45:46 Abelsito captured the Blue Flag
+19-08-14 02:45:47 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with M79
+19-08-14 02:45:47 sT.- YnGwi3 captured the Red Flag
+19-08-14 02:45:49 (1) VanscL killed (2) sT.- YnGwi3 with HK MP5
+19-08-14 02:45:49 (2) |D.Forc3|M.* killed (1) Abelsito with Barrett M82A1
+19-08-14 02:45:52 [UnK] SenzacL* captured the Red Flag
+19-08-14 02:45:53 |D.Forc3|M.* returned the Blue Flag
+19-08-14 02:45:54 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 02:45:56 VanscL returned the Red Flag
+19-08-14 02:45:56 (2) |D.Forc3|M.* killed (1) VanscL with Barrett M82A1
+19-08-14 02:45:58 Time Left: 2 minutes
+19-08-14 02:45:58 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Combat Knife
+19-08-14 02:46:01 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 02:46:02 |D.Forc3|Maaxis. captured the Blue Flag
+19-08-14 02:46:02 sT.- YnGwi3 captured the Red Flag
+19-08-14 02:46:04 (1) VanscL killed (2) sT.- YnGwi3 with HK MP5
+19-08-14 02:46:06 VanscL returned the Red Flag
+19-08-14 02:46:10 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with Combat Knife
+19-08-14 02:46:14 177.192.63.126:23073|30D7B7E8952 requesting game...
+19-08-14 02:46:14 (2) sT.- YnGwi3 killed (1) VanscL with Barrett M82A1
+19-08-14 02:46:15 (1) Abelsito killed (2) |D.Forc3|M.* with M79
+19-08-14 02:46:16 [UnK] SenzacL* returned the Blue Flag
+19-08-14 02:46:18 (1) Abelsito killed (2) sT.- YnGwi3 with M79
+19-08-14 02:46:23 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with M79
+19-08-14 02:46:23 (1) Abelsito killed (2) sT.- YnGwi3 with M79
+19-08-14 02:46:24 (1) VanscL killed (2) |D.Forc3|M.* with Grenade
+19-08-14 02:46:25 VanscL captured the Blue Flag
+19-08-14 02:46:27 [UnK] SenzacL* captured the Red Flag
+19-08-14 02:46:31 (2) |D.Forc3|M.* killed (1) Abelsito with Barrett M82A1
+19-08-14 02:46:33 (2) sT.- YnGwi3 killed (1) VanscL with Combat Knife
+19-08-14 02:46:34 sT.- YnGwi3 returned the Blue Flag
+19-08-14 02:46:34 [UnK] SenzacL* scores for Bravo Team
+19-08-14 02:46:35 177.192.63.126:23073|30D7B7E8952 requesting game...
+19-08-14 02:46:36 sT.- YnGwi3 captured the Red Flag
+19-08-14 02:46:37 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with M79
+19-08-14 02:46:40 (2) sT.- YnGwi3 killed (1) Abelsito with Combat Knife
+19-08-14 02:46:43 (1) VanscL killed (2) [UnK] SenzacL* with HK MP5
+19-08-14 02:46:43 sT.- YnGwi3 captured the Red Flag
+19-08-14 02:46:44 sT.- YnGwi3 scores for Bravo Team
+19-08-14 02:46:45 |D.Forc3|M.* gets a ping warning
+19-08-14 02:46:46 VanscL captured the Blue Flag
+19-08-14 02:46:48 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Barrett M82A1
+19-08-14 02:46:49 (2) |D.Forc3|M.* killed (1) Abelsito with Barrett M82A1
+19-08-14 02:46:51 |D.Forc3|M.* captured the Red Flag
+19-08-14 02:46:53 (2) [UnK] SenzacL* killed (1) VanscL with Grenade
+19-08-14 02:46:53 (1) VanscL killed (2) |D.Forc3|M.* with HK MP5
+19-08-14 02:46:57 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Barrett M82A1
+19-08-14 02:46:57 [UnK] SenzacL* returned the Blue Flag
+19-08-14 02:46:58 Time Left: 1 minutes
+19-08-14 02:46:59 |D.Forc3|Maaxis. captured the Blue Flag
+19-08-14 02:46:59 (2) [UnK] SenzacL* killed (1) Abelsito with Grenade
+19-08-14 02:47:00 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with Barrett M82A1
+19-08-14 02:47:03 VanscL captured the Blue Flag
+19-08-14 02:47:04 [UnK] SenzacL* captured the Red Flag
+19-08-14 02:47:05 (1) VanscL killed (2) sT.- YnGwi3 with HK MP5
+19-08-14 02:47:06 [UnK] SenzacL* returned the Blue Flag
+19-08-14 02:47:08 (1) VanscL killed (2) |D.Forc3|M.* with HK MP5
+19-08-14 02:47:09 VanscL captured the Blue Flag
+19-08-14 02:47:10 (2) sT.- YnGwi3 killed (1) Abelsito with Grenade
+19-08-14 02:47:10 (1) Abelsito killed (2) sT.- YnGwi3 with Combat Knife
+19-08-14 02:47:12 (2) [UnK] SenzacL* killed (1) VanscL with M79
+19-08-14 02:47:13 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Grenade
+19-08-14 02:47:14 [UnK] SenzacL* returned the Blue Flag
+19-08-14 02:47:15 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Grenade
+19-08-14 02:47:15 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with M79
+19-08-14 02:47:18 sT.- YnGwi3 captured the Red Flag
+19-08-14 02:47:18 sT.- YnGwi3 scores for Bravo Team
+19-08-14 02:47:19 (2) sT.- YnGwi3 killed (1) Abelsito with Grenade
+19-08-14 02:47:21 (2) |D.Forc3|M.* killed (1) VanscL with Barrett M82A1
+19-08-14 02:47:24 sT.- YnGwi3 captured the Red Flag
+19-08-14 02:47:29 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Grenade
+19-08-14 02:47:30 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Barrett M82A1
+19-08-14 02:47:31 (1) Abelsito killed (2) [UnK] SenzacL* with M79
+19-08-14 02:47:32 Abelsito captured the Blue Flag
+19-08-14 02:47:37 (2) |D.Forc3|M.* killed (1) VanscL with Grenade
+19-08-14 02:47:37 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Barrett M82A1
+19-08-14 02:47:39 Abelsito returned the Red Flag
+19-08-14 02:47:40 Abelsito scores for Alpha Team
+19-08-14 02:47:45 (1) VanscL killed (2) [UnK] SenzacL* with Combat Knife
+19-08-14 02:47:46 (2) sT.- YnGwi3 killed (1) VanscL with Barrett M82A1
+19-08-14 02:47:50 sT.- YnGwi3 captured the Red Flag
+19-08-14 02:47:51 [VanscL] gg abel
+19-08-14 02:47:52 (1) Abelsito killed (2) sT.- YnGwi3 with M79
+19-08-14 02:47:54 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 02:47:56 Abelsito returned the Red Flag
+19-08-14 02:47:57 (2) |D.Forc3|M.* killed (1) VanscL with Combat Knife
+19-08-14 02:47:58 Can't load maps from mapslist
+19-08-14 02:47:58 Next map: ctf_Rotten
+19-08-14 02:48:03 Rotten by Biggles
+19-08-14 02:48:08 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with M79
+19-08-14 02:48:09 (1) Abelsito killed (2) [UnK] SenzacL* with Grenade
+19-08-14 02:48:10 [sT.- YnGwi3] !map Viet
+19-08-14 02:48:15 Viet
+19-08-14 02:48:21 (2) sT.- YnGwi3 killed (1) Abelsito with Barrett M82A1
+19-08-14 02:48:23 (1) VanscL killed (2) sT.- YnGwi3 with Ak-74
+19-08-14 02:48:23 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Barrett M82A1
+19-08-14 02:48:23 [Abelsito] !r
+19-08-14 02:48:23 Restarting...
+19-08-14 02:48:28 Viet
+19-08-14 02:48:34 (2) |D.Forc3|M.* killed (1) Abelsito with Barrett M82A1
+19-08-14 02:48:36 [UnK] SenzacL* captured the Red Flag
+19-08-14 02:48:39 (2) |D.Forc3|M.* killed (1) VanscL with Barrett M82A1
+19-08-14 02:48:42 |D.Forc3|Maaxis. captured the Blue Flag
+19-08-14 02:48:46 (1) VanscL killed (2) |D.Forc3|M.* with Ak-74
+19-08-14 02:48:50 (1) Abelsito killed (2) [UnK] SenzacL* with Steyr AUG
+19-08-14 02:48:50 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with Barrett M82A1
+19-08-14 02:48:53 sT.- YnGwi3 returned the Blue Flag
+19-08-14 02:48:55 VanscL captured the Blue Flag
+19-08-14 02:48:56 (2) |D.Forc3|M.* killed (1) Abelsito with Combat Knife
+19-08-14 02:48:56 |D.Forc3|M.* captured the Red Flag
+19-08-14 02:49:00 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 02:49:01 (2) sT.- YnGwi3 killed (1) Abelsito with Combat Knife
+19-08-14 02:49:02 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with Barrett M82A1
+19-08-14 02:49:08 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Grenade
+19-08-14 02:49:10 (1) Abelsito killed (2) [UnK] SenzacL* with Grenade
+19-08-14 02:49:16 (1) Abelsito killed (2) sT.- YnGwi3 with Grenade
+19-08-14 02:49:17 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with Grenade
+19-08-14 02:49:19 (1) Abelsito killed (2) [UnK] SenzacL* with Grenade
+19-08-14 02:49:23 (2) sT.- YnGwi3 killed (1) Abelsito with Grenade
+19-08-14 02:49:27 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with Barrett M82A1
+19-08-14 02:49:31 |D.Forc3|Maaxis. captured the Blue Flag
+19-08-14 02:49:32 (1) VanscL killed (2) [UnK] SenzacL* with Ak-74
+19-08-14 02:49:37 (1) Abelsito killed (2) sT.- YnGwi3 with Grenade
+19-08-14 02:49:45 (1) Abelsito killed (2) [UnK] SenzacL* with Steyr AUG
+19-08-14 02:49:46 Abelsito captured the Blue Flag
+19-08-14 02:49:47 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Barrett M82A1
+19-08-14 02:49:50 (1) VanscL killed (2) sT.- YnGwi3 with Barrett M82A1
+19-08-14 02:49:52 |D.Forc3|M.* captured the Red Flag
+19-08-14 02:49:52 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Barrett M82A1
+19-08-14 02:49:55 |D.Forc3|Maaxis. returned the Red Flag
+19-08-14 02:49:55 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with Chainsaw
+19-08-14 02:49:55 Abelsito scores for Alpha Team
+19-08-14 02:50:03 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Barrett M82A1
+19-08-14 02:50:04 (2) [UnK] SenzacL* killed (1) Abelsito with Barrett M82A1
+19-08-14 02:50:07 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Barrett M82A1
+19-08-14 02:50:11 (1) VanscL killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 02:50:17 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Grenade
+19-08-14 02:50:17 (1) VanscL killed (2) |D.Forc3|M.* with Grenade
+19-08-14 02:50:20 VanscL captured the Blue Flag
+19-08-14 02:50:22 (2) sT.- YnGwi3 killed (1) VanscL with Combat Knife
+19-08-14 02:50:23 (1) Abelsito killed (2) [UnK] SenzacL* with Steyr AUG
+19-08-14 02:50:25 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with Steyr AUG
+19-08-14 02:50:26 |D.Forc3|M.* returned the Blue Flag
+19-08-14 02:50:28 (1) Abelsito killed (2) |D.Forc3|M.* with Steyr AUG
+19-08-14 02:50:30 (2) [UnK] SenzacL* killed (1) Abelsito with Barrett M82A1
+19-08-14 02:50:36 (1) VanscL killed (2) |D.Forc3|M.* with Ak-74
+19-08-14 02:50:36 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with Barrett M82A1
+19-08-14 02:50:36 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Barrett M82A1
+19-08-14 02:50:37 VanscL captured the Blue Flag
+19-08-14 02:50:38 (2) [UnK] SenzacL* killed (1) VanscL with Barrett M82A1
+19-08-14 02:50:40 [UnK] SenzacL* returned the Blue Flag
+19-08-14 02:50:43 (1) Abelsito killed (2) [UnK] SenzacL* with Grenade
+19-08-14 02:50:46 (1) Abelsito killed (2) |D.Forc3|M.* with Steyr AUG
+19-08-14 02:50:46 (2) sT.- YnGwi3 killed (1) Abelsito with Barrett M82A1
+19-08-14 02:50:50 (2) sT.- YnGwi3 killed (1) VanscL with Barrett M82A1
+19-08-14 02:50:51 sT.- YnGwi3 captured the Red Flag
+19-08-14 02:50:51 (1) VanscL killed (2) sT.- YnGwi3 with Grenade
+19-08-14 02:50:57 (2) [UnK] SenzacL* killed (1) Abelsito with Barrett M82A1
+19-08-14 02:51:01 (1) VanscL killed (2) [UnK] SenzacL* with Ak-74
+19-08-14 02:51:02 (2) sT.- YnGwi3 killed (1) VanscL with Barrett M82A1
+19-08-14 02:51:06 (2) sT.- YnGwi3 killed (1) Abelsito with Combat Knife
+19-08-14 02:51:07 (2) sT.- YnGwi3 killed (1) VanscL with Barrett M82A1
+19-08-14 02:51:07 (1) VanscL killed (2) sT.- YnGwi3 with Ak-74
+19-08-14 02:51:08 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 02:51:08 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Barrett M82A1
+19-08-14 02:51:08 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with Grenade
+19-08-14 02:51:15 (1) Abelsito killed (2) sT.- YnGwi3 with Steyr AUG
+19-08-14 02:51:16 (2) [UnK] SenzacL* killed (1) Abelsito with Barrett M82A1
+19-08-14 02:51:17 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Barrett M82A1
+19-08-14 02:51:21 (1) VanscL killed (2) [UnK] SenzacL* with Grenade
+19-08-14 02:51:26 96.44.189.146:23073|2FA00E38C27 requesting game...
+19-08-14 02:51:28 (1) Abelsito killed (2) |D.Forc3|M.* with Grenade
+19-08-14 02:51:29 (1) Abelsito killed (2) [UnK] SenzacL* with Steyr AUG
+19-08-14 02:51:29 VanscL captured the Blue Flag
+19-08-14 02:51:34 sT.- YnGwi3 captured the Red Flag
+19-08-14 02:51:34 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Barrett M82A1
+19-08-14 02:51:37 (2) [UnK] SenzacL* killed (1) VanscL with Barrett M82A1
+19-08-14 02:51:37 [UnK] SenzacL* returned the Blue Flag
+19-08-14 02:51:39 (2) |D.Forc3|M.* killed (1) Abelsito with Steyr AUG
+19-08-14 02:51:43 [Abelsito] !p
+19-08-14 02:51:43 Pausing...
+19-08-14 02:52:01 190.211.167.106:23073|1496BAEC585 requesting game...
+19-08-14 02:52:02 VanscL is flooding the server
+19-08-14 02:52:03 VanscL is flooding the server
+19-08-14 02:52:03 VanscL joining game (190.211.167.106:23073) HWID:1496BAEC585
+19-08-14 02:52:03 VanscL has joined alpha team.
+19-08-14 02:52:07 [VanscL] go
+19-08-14 02:52:10 [|D.Forc3|Maaxis.] !up
+19-08-14 02:52:10 Unpausing in: 3
+19-08-14 02:52:11 Unpausing in: 2
+19-08-14 02:52:12 Unpausing in: 1
+19-08-14 02:52:13 Go!
+19-08-14 02:52:15 |D.Forc3|M.* captured the Red Flag
+19-08-14 02:52:18 (1) VanscL killed (2) |D.Forc3|M.* with Ak-74
+19-08-14 02:52:19 (2) [UnK] SenzacL* killed (1) Abelsito with Barrett M82A1
+19-08-14 02:52:23 |D.Forc3|Maaxis. returned the Red Flag
+19-08-14 02:52:25 (2) [UnK] SenzacL* killed (1) VanscL with Barrett M82A1
+19-08-14 02:52:25 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with Barrett M82A1
+19-08-14 02:52:27 (1) Abelsito killed (2) [UnK] SenzacL* with Steyr AUG
+19-08-14 02:52:29 (2) sT.- YnGwi3 killed (1) Abelsito with Barrett M82A1
+19-08-14 02:52:31 sT.- YnGwi3 captured the Red Flag
+19-08-14 02:52:34 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Barrett M82A1
+19-08-14 02:52:35 (1) Abelsito killed (2) |D.Forc3|M.* with Steyr AUG
+19-08-14 02:52:36 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with Grenade
+19-08-14 02:52:38 [UnK] SenzacL* captured the Red Flag
+19-08-14 02:52:40 sT.- YnGwi3 captured the Red Flag
+19-08-14 02:52:42 |D.Forc3|M.* captured the Red Flag
+19-08-14 02:52:42 |D.Forc3|M.* scores for Bravo Team
+19-08-14 02:52:43 (1) Abelsito killed (2) [UnK] SenzacL* with Steyr AUG
+19-08-14 02:52:45 (1) VanscL killed (2) |D.Forc3|M.* with Ak-74
+19-08-14 02:52:46 VanscL captured the Blue Flag
+19-08-14 02:52:49 (1) VanscL killed (2) [UnK] SenzacL* with Grenade
+19-08-14 02:52:52 sT.- YnGwi3 captured the Red Flag
+19-08-14 02:52:52 (2) |D.Forc3|M.* killed (1) Abelsito with Desert Eagles
+19-08-14 02:52:57 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 02:52:57 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Barrett M82A1
+19-08-14 02:53:03 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Barrett M82A1
+19-08-14 02:53:04 |D.Forc3|Maaxis. returned the Red Flag
+19-08-14 02:53:06 VanscL scores for Alpha Team
+19-08-14 02:53:09 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Barrett M82A1
+19-08-14 02:53:09 (1) VanscL killed (2) [UnK] SenzacL* with Ak-74
+19-08-14 02:53:12 |D.Forc3|Maaxis. captured the Blue Flag
+19-08-14 02:53:13 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with Combat Knife
+19-08-14 02:53:13 (1) Abelsito killed (2) |D.Forc3|M.* with Steyr AUG
+19-08-14 02:53:17 [UnK] SenzacL* returned the Blue Flag
+19-08-14 02:53:20 |D.Forc3|Maaxis. returned the Red Flag
+19-08-14 02:53:23 (1) VanscL killed (2) [UnK] SenzacL* with Ak-74
+19-08-14 02:53:24 (2) sT.- YnGwi3 killed (1) VanscL with Barrett M82A1
+19-08-14 02:53:26 [Abelsito] SESABE
+19-08-14 02:53:27 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with Desert Eagles
+19-08-14 02:53:28 (1) Abelsito killed (2) |D.Forc3|M.* with Grenade
+19-08-14 02:53:28 (2) |D.Forc3|M.* killed (1) Abelsito with Combat Knife
+19-08-14 02:53:34 (2) [UnK] SenzacL* killed (1) Abelsito with Barrett M82A1
+19-08-14 02:53:37 (2) [UnK] SenzacL* killed (1) VanscL with Barrett M82A1
+19-08-14 02:53:37 (1) VanscL killed (2) [UnK] SenzacL* with Ak-74
+19-08-14 02:53:42 (2) |D.Forc3|M.* killed (1) Abelsito with Desert Eagles
+19-08-14 02:53:46 [Abelsito] el ingui no tiene cocos
+19-08-14 02:53:47 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Barrett M82A1
+19-08-14 02:53:48 (2) [UnK] SenzacL* killed (1) VanscL with Barrett M82A1
+19-08-14 02:53:52 (2) [UnK] SenzacL* killed (1) Abelsito with Barrett M82A1
+19-08-14 02:53:52 (2) [UnK] SenzacL* killed (1) VanscL with Barrett M82A1
+19-08-14 02:53:52 (1) VanscL killed (2) [UnK] SenzacL* with Ak-74
+19-08-14 02:53:58 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with Desert Eagles
+19-08-14 02:53:59 Time Left: 5 minutes
+19-08-14 02:54:00 (1) Abelsito killed (2) |D.Forc3|M.* with Grenade
+19-08-14 02:54:02 (2) sT.- YnGwi3 killed (1) Abelsito with Barrett M82A1
+19-08-14 02:54:03 (1) VanscL killed (2) [UnK] SenzacL* with Grenade
+19-08-14 02:54:04 (1) VanscL killed (2) sT.- YnGwi3 with Ak-74
+19-08-14 02:54:08 (2) [UnK] SenzacL* killed (1) VanscL with Grenade
+19-08-14 02:54:10 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 02:54:10 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Grenade
+19-08-14 02:54:14 (1) Abelsito killed (2) |D.Forc3|M.* with Steyr AUG
+19-08-14 02:54:16 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 02:54:17 (1) Abelsito killed (2) sT.- YnGwi3 with Steyr AUG
+19-08-14 02:54:19 Abelsito captured the Blue Flag
+19-08-14 02:54:21 (1) VanscL killed (2) |D.Forc3|M.* with Ak-74
+19-08-14 02:54:22 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Barrett M82A1
+19-08-14 02:54:22 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 02:54:26 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Barrett M82A1
+19-08-14 02:54:27 Abelsito scores for Alpha Team
+19-08-14 02:54:28 VanscL captured the Blue Flag
+19-08-14 02:54:29 (1) VanscL killed (2) sT.- YnGwi3 with Hands
+19-08-14 02:54:33 (1) Abelsito killed (2) [UnK] SenzacL* with Steyr AUG
+19-08-14 02:54:36 (1) Abelsito killed (2) |D.Forc3|M.* with Ak-74
+19-08-14 02:54:39 VanscL scores for Alpha Team
+19-08-14 02:54:41 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 02:54:42 [Abelsito] I ain't got time to bleed!
+19-08-14 02:54:42 (1) Abelsito killed (2) sT.- YnGwi3 with Ak-74
+19-08-14 02:54:46 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with Combat Knife
+19-08-14 02:54:50 (1) Abelsito killed (2) |D.Forc3|M.* with Ak-74
+19-08-14 02:54:51 (2) sT.- YnGwi3 killed (1) VanscL with Barrett M82A1
+19-08-14 02:54:52 (2) [UnK] SenzacL* killed (1) Abelsito with Steyr AUG
+19-08-14 02:54:55 [UnK] SenzacL* captured the Red Flag
+19-08-14 02:54:58 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Barrett M82A1
+19-08-14 02:54:59 Time Left: 4 minutes
+19-08-14 02:55:00 (1) VanscL killed (2) [UnK] SenzacL* with Ak-74
+19-08-14 02:55:01 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with Desert Eagles
+19-08-14 02:55:03 (2) |D.Forc3|M.* killed (1) VanscL with Desert Eagles
+19-08-14 02:55:05 [|D.Forc3|Maaxis.] t!p
+19-08-14 02:55:07 [|D.Forc3|Maaxis.] !p
+19-08-14 02:55:07 Pausing...
+19-08-14 02:55:09 [|D.Forc3|Maaxis.] abel
+19-08-14 02:55:12 [VanscL] abel pico
+19-08-14 02:55:17 [Abelsito] !up
+19-08-14 02:55:17 Unpausing in: 3
+19-08-14 02:55:18 Unpausing in: 2
+19-08-14 02:55:19 Unpausing in: 1
+19-08-14 02:55:20 Go!
+19-08-14 02:55:23 (1) Abelsito killed (2) |D.Forc3|M.* with Steyr AUG
+19-08-14 02:55:24 (1) Abelsito killed (2) sT.- YnGwi3 with Grenade
+19-08-14 02:55:26 (1) Abelsito killed (2) [UnK] SenzacL* with Grenade
+19-08-14 02:55:27 (2) [UnK] SenzacL* killed (1) Abelsito with Grenade
+19-08-14 02:55:28 [Abelsito] On your feet soldier!
+19-08-14 02:55:35 (2) |D.Forc3|M.* killed (1) VanscL with Grenade
+19-08-14 02:55:35 (2) |D.Forc3|M.* killed (1) Abelsito with Desert Eagles
+19-08-14 02:55:39 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with Ruger 77
+19-08-14 02:55:40 (1) VanscL killed (2) |D.Forc3|M.* with Ak-74
+19-08-14 02:55:44 sT.- YnGwi3 gets a ping warning
+19-08-14 02:55:45 (1) Abelsito killed (2) [UnK] SenzacL* with Steyr AUG
+19-08-14 02:55:49 (2) sT.- YnGwi3 killed (1) VanscL with Ruger 77
+19-08-14 02:55:50 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Barrett M82A1
+19-08-14 02:55:54 174.237.131.223:9054|4A17B4DC63C requesting game...
+19-08-14 02:55:54 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with Desert Eagles
+19-08-14 02:55:55 174.237.131.223:9054|4A17B4DC63C requesting game...
+19-08-14 02:55:57 (1) VanscL killed (2) |D.Forc3|M.* with Ak-74
+19-08-14 02:55:59 (2) [UnK] SenzacL* killed (1) VanscL with Ruger 77
+19-08-14 02:56:00 (1) Abelsito killed (2) [UnK] SenzacL* with Grenade
+19-08-14 02:56:08 (2) |D.Forc3|M.* killed (1) Abelsito with Desert Eagles
+19-08-14 02:56:08 (1) Abelsito killed (2) |D.Forc3|M.* with Grenade
+19-08-14 02:56:09 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 02:56:09 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with Grenade
+19-08-14 02:56:13 Time Left: 3 minutes
+19-08-14 02:56:16 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with Combat Knife
+19-08-14 02:56:16 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Grenade
+19-08-14 02:56:18 (1) Abelsito killed (2) [UnK] SenzacL* with Grenade
+19-08-14 02:56:21 (2) |D.Forc3|M.* killed (1) Abelsito with Desert Eagles
+19-08-14 02:56:21 (1) Abelsito killed (2) |D.Forc3|M.* with Combat Knife
+19-08-14 02:56:22 [Abelsito] Yes, Sir!
+19-08-14 02:56:25 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 02:56:29 (1) Abelsito killed (2) sT.- YnGwi3 with Grenade
+19-08-14 02:56:29 (2) |D.Forc3|M.* killed (1) VanscL with Desert Eagles
+19-08-14 02:56:30 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Barrett M82A1
+19-08-14 02:56:35 (2) sT.- YnGwi3 killed (1) Abelsito with Ruger 77
+19-08-14 02:56:37 [Abelsito] xdx
+19-08-14 02:56:43 VanscL captured the Blue Flag
+19-08-14 02:56:44 (1) Abelsito killed (2) sT.- YnGwi3 with Ruger 77
+19-08-14 02:56:45 (2) sT.- YnGwi3 killed (1) Abelsito with Ruger 77
+19-08-14 02:56:45 (2) sT.- YnGwi3 killed (1) VanscL with Ruger 77
+19-08-14 02:56:45 [UnK] SenzacL* returned the Blue Flag
+19-08-14 02:56:45 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Barrett M82A1
+19-08-14 02:56:53 (1) Abelsito killed (2) sT.- YnGwi3 with Grenade
+19-08-14 02:56:54 (2) |D.Forc3|M.* killed (1) Abelsito with Desert Eagles
+19-08-14 02:56:57 VanscL is flooding the server
+19-08-14 02:56:58 (2) [UnK] SenzacL* killed (1) VanscL with Ruger 77
+19-08-14 02:56:58 (1) VanscL killed (2) |D.Forc3|M.* with Ak-74
+19-08-14 02:57:00 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with Ruger 77
+19-08-14 02:57:01 (1) Abelsito killed (2) [UnK] SenzacL* with Desert Eagles
+19-08-14 02:57:11 (2) sT.- YnGwi3 killed (1) VanscL with Ruger 77
+19-08-14 02:57:13 (1) Abelsito killed (2) [UnK] SenzacL* with Desert Eagles
+19-08-14 02:57:13 Time Left: 2 minutes
+19-08-14 02:57:15 |D.Forc3|M.* captured the Red Flag
+19-08-14 02:57:16 (1) VanscL killed (2) |D.Forc3|M.* with Ak-74
+19-08-14 02:57:23 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Barrett M82A1
+19-08-14 02:57:23 (2) [UnK] SenzacL* killed (1) Abelsito with Grenade
+19-08-14 02:57:23 (1) Abelsito killed (2) [UnK] SenzacL* with Desert Eagles
+19-08-14 02:57:24 (1) Abelsito killed (2) |D.Forc3|M.* with Grenade
+19-08-14 02:57:28 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Barrett M82A1
+19-08-14 02:57:29 |D.Forc3|Maaxis. captured the Blue Flag
+19-08-14 02:57:31 (2) [UnK] SenzacL* killed (1) VanscL with Chainsaw
+19-08-14 02:57:34 (1) Abelsito killed (2) [UnK] SenzacL* with Grenade
+19-08-14 02:57:35 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Combat Knife
+19-08-14 02:57:37 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with Desert Eagles
+19-08-14 02:57:38 (2) |D.Forc3|M.* killed (1) Abelsito with Desert Eagles
+19-08-14 02:57:41 (TEAM)[Abelsito] locooo
+19-08-14 02:57:41 |D.Forc3|M.* returned the Blue Flag
+19-08-14 02:57:41 (1) VanscL killed (2) |D.Forc3|M.* with Grenade
+19-08-14 02:57:42 [Abelsito] TE LA PEGEEE
+19-08-14 02:57:43 (1) VanscL killed (2) [UnK] SenzacL* with Grenade
+19-08-14 02:57:45 VanscL captured the Blue Flag
+19-08-14 02:57:46 (1) Abelsito killed (2) sT.- YnGwi3 with Desert Eagles
+19-08-14 02:57:49 (1) VanscL killed (2) [UnK] SenzacL* with Combat Knife
+19-08-14 02:57:50 (2) |D.Forc3|M.* killed (1) VanscL with Desert Eagles
+19-08-14 02:57:53 (1) Abelsito killed (2) |D.Forc3|M.* with Desert Eagles
+19-08-14 02:57:54 Abelsito captured the Blue Flag
+19-08-14 02:57:58 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with Barrett M82A1
+19-08-14 02:57:58 (1) VanscL killed (2) sT.- YnGwi3 with Grenade
+19-08-14 02:58:01 VanscL captured the Blue Flag
+19-08-14 02:58:01 (1) Abelsito killed (2) [UnK] SenzacL* with Desert Eagles
+19-08-14 02:58:02 (2) |D.Forc3|M.* killed (1) Abelsito with Desert Eagles
+19-08-14 02:58:04 VanscL scores for Alpha Team
+19-08-14 02:58:04 [Abelsito] el ingui
+19-08-14 02:58:05 [Abelsito] JKDJSKAD
+19-08-14 02:58:05 (2) |D.Forc3|M.* killed (1) VanscL with Grenade
+19-08-14 02:58:07 (2) |D.Forc3|M.* killed (1) Abelsito with Combat Knife
+19-08-14 02:58:07 (1) VanscL killed (2) |D.Forc3|M.* with Grenade
+19-08-14 02:58:08 [Abelsito] Die!
+19-08-14 02:58:11 sT.- YnGwi3 captured the Red Flag
+19-08-14 02:58:12 (1) VanscL killed (2) sT.- YnGwi3 with Combat Knife
+19-08-14 02:58:13 Time Left: 1 minutes
+19-08-14 02:58:13 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with Grenade
+19-08-14 02:58:13 [UnK] SenzacL* captured the Red Flag
+19-08-14 02:58:15 (1) Abelsito killed (2) [UnK] SenzacL* with Desert Eagles
+19-08-14 02:58:23 (RADIO)[Abelsito] Enemy spotted middle!
+19-08-14 02:58:25 VanscL captured the Blue Flag
+19-08-14 02:58:26 (1) VanscL killed (2) [UnK] SenzacL* with Ak-74
+19-08-14 02:58:26 |D.Forc3|M.* returned the Blue Flag
+19-08-14 02:58:28 (2) sT.- YnGwi3 killed (1) Abelsito with Grenade
+19-08-14 02:58:29 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Combat Knife
+19-08-14 02:58:30 [Abelsito] XDDXXD
+19-08-14 02:58:33 (1) VanscL killed (2) sT.- YnGwi3 with Ak-74
+19-08-14 02:58:34 [sT.- YnGwi3] Yes, Sir!
+19-08-14 02:58:35 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Ak-74
+19-08-14 02:58:37 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Grenade
+19-08-14 02:58:37 [Abelsito] No!
+19-08-14 02:58:42 Abelsito captured the Blue Flag
+19-08-14 02:58:43 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Grenade
+19-08-14 02:58:44 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Ak-74
+19-08-14 02:58:48 80.110.97.162:21017|7448EAF5B03 requesting game...
+19-08-14 02:58:50 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with Desert Eagles
+19-08-14 02:58:51 Abelsito scores for Alpha Team
+19-08-14 02:58:51 VanscL captured the Blue Flag
+19-08-14 02:58:52 (1) Abelsito killed (2) sT.- YnGwi3 with Grenade
+19-08-14 02:58:53 (1) VanscL killed (2) [UnK] SenzacL* with Combat Knife
+19-08-14 02:59:00 (1) Abelsito killed (2) sT.- YnGwi3 with Desert Eagles
+19-08-14 02:59:00 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 02:59:01 VanscL scores for Alpha Team
+19-08-14 02:59:03 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Combat Knife
+19-08-14 02:59:06 (1) Abelsito killed (2) sT.- YnGwi3 with Desert Eagles
+19-08-14 02:59:08 (2) [UnK] SenzacL* killed (1) Abelsito with Desert Eagles
+19-08-14 02:59:09 [VanscL] gg
+19-08-14 02:59:11 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with Desert Eagles
+19-08-14 02:59:13 Can't load maps from mapslist
+19-08-14 02:59:13 Next map: ctf_Viet
+19-08-14 02:59:17 [|D.Forc3|Maaxis.] cambio de team?
+19-08-14 02:59:18 Viet
+19-08-14 02:59:24 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 02:59:30 |D.Forc3|Maaxis. captured the Blue Flag
+19-08-14 02:59:32 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Grenade
+19-08-14 02:59:32 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Grenade
+19-08-14 02:59:34 (1) Abelsito killed (2) [UnK] SenzacL* with Desert Eagles
+19-08-14 02:59:39 (1) Abelsito killed (2) sT.- YnGwi3 with Hands
+19-08-14 02:59:39 (1) Abelsito killed (2) |D.Forc3|M.* with Desert Eagles
+19-08-14 02:59:40 (2) [UnK] SenzacL* killed (1) Abelsito with Chainsaw
+19-08-14 02:59:44 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 02:59:50 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Grenade
+19-08-14 02:59:50 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with Grenade
+19-08-14 02:59:52 (2) [UnK] SenzacL* killed (1) Abelsito with M79
+19-08-14 02:59:58 (2) [UnK] SenzacL* killed (1) Abelsito with M79
+19-08-14 02:59:58 [UnK] SenzacL* captured the Red Flag
+19-08-14 02:59:58 [|D.Forc3|Maaxis.] change team*
+19-08-14 03:00:06 [UnK] SenzacL* scores for Bravo Team
+19-08-14 03:00:09 |D.Forc3|Maaxis. captured the Blue Flag
+19-08-14 03:00:11 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Grenade
+19-08-14 03:00:11 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Grenade
+19-08-14 03:00:13 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 03:00:16 (1) Abelsito killed (2) sT.- YnGwi3 with Grenade
+19-08-14 03:00:17 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Hands
+19-08-14 03:00:19 (1) Abelsito killed (2) [UnK] SenzacL* with Grenade
+19-08-14 03:00:24 (TEAM)[|D.Forc3|Maaxis.] abel se nota el lvl 4?
+19-08-14 03:00:24 Abelsito gets a ping warning
+19-08-14 03:00:26 (TEAM)[|D.Forc3|Maaxis.] yiaa
+19-08-14 03:00:28 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 03:00:29 (1) Abelsito killed (2) |D.Forc3|M.* with Ruger 77
+19-08-14 03:00:32 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Grenade
+19-08-14 03:00:34 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 03:00:37 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Barrett M82A1
+19-08-14 03:00:38 sT.- YnGwi3 gets a ping warning
+19-08-14 03:00:39 (1) Abelsito killed (2) |D.Forc3|M.* with Ruger 77
+19-08-14 03:00:41 (1) Abelsito killed (2) [UnK] SenzacL* with Ruger 77
+19-08-14 03:00:45 sT.- YnGwi3 gets a ping warning
+19-08-14 03:00:45 [|D.Forc3|Maaxis.] !map ctf_Guardian
+19-08-14 03:00:51 ctf_Guardian by SuoW
+19-08-14 03:00:52 sT.- YnGwi3 gets a ping warning
+19-08-14 03:00:55 [sT.- YnGwi3] It's All About Lag!
+19-08-14 03:00:56 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with FN Minimi
+19-08-14 03:00:57 (1) Abelsito killed (2) sT.- YnGwi3 with Grenade
+19-08-14 03:01:01 (2) [UnK] SenzacL* killed (1) VanscL with FN Minimi
+19-08-14 03:01:02 (1) Abelsito killed (2) [UnK] SenzacL* with Spas-12
+19-08-14 03:01:08 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with Ruger 77
+19-08-14 03:01:09 (1) Abelsito killed (2) |D.Forc3|M.* with Spas-12
+19-08-14 03:01:12 Abelsito captured the Blue Flag
+19-08-14 03:01:13 (1) VanscL killed (2) sT.- YnGwi3 with Grenade
+19-08-14 03:01:15 (2) [UnK] SenzacL* killed (1) VanscL with FN Minimi
+19-08-14 03:01:19 Abelsito scores for Alpha Team
+19-08-14 03:01:21 (1) Abelsito killed (2) [UnK] SenzacL* with Spas-12
+19-08-14 03:01:25 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Barrett M82A1
+19-08-14 03:01:29 VanscL captured the Blue Flag
+19-08-14 03:01:30 (2) [UnK] SenzacL* killed (1) Abelsito with FN Minimi
+19-08-14 03:01:33 (1) VanscL killed (2) [UnK] SenzacL* with Combat Knife
+19-08-14 03:01:33 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Barrett M82A1
+19-08-14 03:01:35 VanscL scores for Alpha Team
+19-08-14 03:01:37 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 03:01:38 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with FN Minimi
+19-08-14 03:01:43 (1) Abelsito killed (2) |D.Forc3|M.* with Steyr AUG
+19-08-14 03:01:46 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Barrett M82A1
+19-08-14 03:01:48 (1) Abelsito killed (2) [UnK] SenzacL* with Grenade
+19-08-14 03:01:49 |D.Forc3|Maaxis. captured the Blue Flag
+19-08-14 03:01:52 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Barrett M82A1
+19-08-14 03:01:55 sT.- YnGwi3 gets a ping warning
+19-08-14 03:01:55 |D.Forc3|Maaxis. scores for Alpha Team
+19-08-14 03:01:56 (1) VanscL killed (2) [UnK] SenzacL* with FN Minimi
+19-08-14 03:02:00 [sT.- YnGwi3] 1r
+19-08-14 03:02:00 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with Desert Eagles
+19-08-14 03:02:00 VanscL captured the Blue Flag
+19-08-14 03:02:01 [sT.- YnGwi3] !r
+19-08-14 03:02:01 Restarting...
+19-08-14 03:02:02 (RADIO)[[UnK] SenzacL*] Enemy spotted middle!
+19-08-14 03:02:03 (TEAM)[|D.Forc3|Maaxis.] mid
+19-08-14 03:02:06 ctf_Guardian by SuoW
+19-08-14 03:02:13 (2) sT.- YnGwi3 killed (1) VanscL with FN Minimi
+19-08-14 03:02:14 (2) sT.- YnGwi3 killed (1) Abelsito with FN Minimi
+19-08-14 03:02:18 sT.- YnGwi3 captured the Red Flag
+19-08-14 03:02:20 (1) Abelsito killed (2) |D.Forc3|M.* with Steyr AUG
+19-08-14 03:02:21 [UnK] SenzacL* captured the Red Flag
+19-08-14 03:02:21 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with M79
+19-08-14 03:02:22 (1) Abelsito killed (2) sT.- YnGwi3 with Steyr AUG
+19-08-14 03:02:24 [UnK] SenzacL* scores for Bravo Team
+19-08-14 03:02:25 (1) Abelsito killed (2) [UnK] SenzacL* with LAW
+19-08-14 03:02:25 (2) [UnK] SenzacL* killed (1) Abelsito with M79
+19-08-14 03:02:28 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with Grenade
+19-08-14 03:02:30 (1) VanscL killed (2) |D.Forc3|M.* with HK MP5
+19-08-14 03:02:31 (2) sT.- YnGwi3 killed (1) VanscL with FN Minimi
+19-08-14 03:02:33 (2) [UnK] SenzacL* killed (1) Abelsito with M79
+19-08-14 03:02:34 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Combat Knife
+19-08-14 03:02:40 (1) Abelsito killed (2) |D.Forc3|M.* with Steyr AUG
+19-08-14 03:02:41 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Barrett M82A1
+19-08-14 03:02:43 (1) Abelsito killed (2) [UnK] SenzacL* with Steyr AUG
+19-08-14 03:02:43 VanscL captured the Blue Flag
+19-08-14 03:02:48 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with Ak-74
+19-08-14 03:02:48 (1) Abelsito killed (2) sT.- YnGwi3 with Steyr AUG
+19-08-14 03:02:50 VanscL scores for Alpha Team
+19-08-14 03:02:52 (1) Abelsito killed (2) |D.Forc3|M.* with Grenade
+19-08-14 03:02:54 (2) |D.Forc3|M.* killed (1) VanscL with Grenade
+19-08-14 03:02:55 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 03:02:57 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with FN Minimi
+19-08-14 03:02:59 sT.- YnGwi3 captured the Red Flag
+19-08-14 03:03:02 (2) |D.Forc3|M.* killed (1) Abelsito with Grenade
+19-08-14 03:03:02 (1) VanscL killed (2) |D.Forc3|M.* with HK MP5
+19-08-14 03:03:02 (2) [UnK] SenzacL* killed (1) VanscL with M79
+19-08-14 03:03:03 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 03:03:06 sT.- YnGwi3 scores for Bravo Team
+19-08-14 03:03:07 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Grenade
+19-08-14 03:03:07 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with Ak-74
+19-08-14 03:03:10 (1) Abelsito killed (2) |D.Forc3|M.* with Grenade
+19-08-14 03:03:13 (2) sT.- YnGwi3 killed (1) Abelsito with FN Minimi
+19-08-14 03:03:14 [UnK] SenzacL* captured the Red Flag
+19-08-14 03:03:15 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with M79
+19-08-14 03:03:16 (2) sT.- YnGwi3 killed (1) VanscL with FN Minimi
+19-08-14 03:03:21 (2) sT.- YnGwi3 killed (1) Abelsito with FN Minimi
+19-08-14 03:03:24 [UnK] SenzacL* scores for Bravo Team
+19-08-14 03:03:25 (1) Abelsito killed (2) sT.- YnGwi3 with Steyr AUG
+19-08-14 03:03:26 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with USSOCOM
+19-08-14 03:03:27 (2) [UnK] SenzacL* killed (1) VanscL with M79
+19-08-14 03:03:28 (1) Abelsito killed (2) [UnK] SenzacL* with Steyr AUG
+19-08-14 03:03:30 |D.Forc3|Maaxis. captured the Blue Flag
+19-08-14 03:03:32 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Barrett M82A1
+19-08-14 03:03:33 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with FN Minimi
+19-08-14 03:03:34 (1) VanscL killed (2) sT.- YnGwi3 with HK MP5
+19-08-14 03:03:37 (2) |D.Forc3|M.* killed (1) Abelsito with Ak-74
+19-08-14 03:03:38 [UnK] SenzacL* captured the Red Flag
+19-08-14 03:03:42 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Barrett M82A1
+19-08-14 03:03:42 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with Grenade
+19-08-14 03:03:45 (1) Abelsito killed (2) |D.Forc3|M.* with LAW
+19-08-14 03:03:46 [UnK] SenzacL* returned the Blue Flag
+19-08-14 03:03:46 (2) [UnK] SenzacL* killed (1) VanscL with M79
+19-08-14 03:03:49 (2) sT.- YnGwi3 killed (1) Abelsito with Combat Knife
+19-08-14 03:03:53 [UnK] SenzacL* scores for Bravo Team
+19-08-14 03:03:55 (2) |D.Forc3|M.* killed (1) VanscL with Ak-74
+19-08-14 03:03:57 (1) Abelsito killed (2) [UnK] SenzacL* with LAW
+19-08-14 03:03:59 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with USSOCOM
+19-08-14 03:04:01 Abelsito captured the Blue Flag
+19-08-14 03:04:01 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Barrett M82A1
+19-08-14 03:04:03 (1) VanscL killed (2) [UnK] SenzacL* with HK MP5
+19-08-14 03:04:06 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Barrett M82A1
+19-08-14 03:04:08 Abelsito scores for Alpha Team
+19-08-14 03:04:12 (1) VanscL killed (2) |D.Forc3|M.* with Combat Knife
+19-08-14 03:04:14 [UnK] SenzacL* captured the Red Flag
+19-08-14 03:04:15 VanscL captured the Blue Flag
+19-08-14 03:04:15 (2) sT.- YnGwi3 killed (1) VanscL with FN Minimi
+19-08-14 03:04:15 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with M79
+19-08-14 03:04:20 (2) sT.- YnGwi3 killed (1) Abelsito with FN Minimi
+19-08-14 03:04:21 (1) Abelsito killed (2) [UnK] SenzacL* with Steyr AUG
+19-08-14 03:04:25 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with Combat Knife
+19-08-14 03:04:26 |D.Forc3|M.* returned the Blue Flag
+19-08-14 03:04:28 (2) [UnK] SenzacL* killed (1) VanscL with M79
+19-08-14 03:04:28 |D.Forc3|M.* captured the Red Flag
+19-08-14 03:04:28 (1) Abelsito killed (2) |D.Forc3|M.* with Steyr AUG
+19-08-14 03:04:31 (1) Abelsito killed (2) [UnK] SenzacL* with Steyr AUG
+19-08-14 03:04:32 (2) sT.- YnGwi3 killed (1) Abelsito with FN Minimi
+19-08-14 03:04:33 sT.- YnGwi3 captured the Red Flag
+19-08-14 03:04:36 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Grenade
+19-08-14 03:04:37 [UnK] SenzacL* captured the Red Flag
+19-08-14 03:04:37 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with Ak-74
+19-08-14 03:04:41 (1) Abelsito killed (2) [UnK] SenzacL* with Steyr AUG
+19-08-14 03:04:41 VanscL returned the Red Flag
+19-08-14 03:04:42 (2) [UnK] SenzacL* killed (1) VanscL with Grenade
+19-08-14 03:04:45 (RADIO)[sT.- YnGwi3] Enemy spotted middle!
+19-08-14 03:04:47 (2) sT.- YnGwi3 killed (1) Abelsito with FN Minimi
+19-08-14 03:04:47 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Grenade
+19-08-14 03:04:50 (1) VanscL killed (2) sT.- YnGwi3 with HK MP5
+19-08-14 03:04:50 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with Ak-74
+19-08-14 03:04:58 [UnK] SenzacL* captured the Red Flag
+19-08-14 03:04:58 Abelsito captured the Blue Flag
+19-08-14 03:04:59 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Barrett M82A1
+19-08-14 03:04:59 (1) VanscL killed (2) [UnK] SenzacL* with HK MP5
+19-08-14 03:05:00 (2) sT.- YnGwi3 killed (1) Abelsito with Grenade
+19-08-14 03:05:01 VanscL returned the Red Flag
+19-08-14 03:05:01 (2) |D.Forc3|M.* killed (1) VanscL with Ak-74
+19-08-14 03:05:03 |D.Forc3|Maaxis. captured the Blue Flag
+19-08-14 03:05:05 |D.Forc3|M.* captured the Red Flag
+19-08-14 03:05:06 (1) Abelsito killed (2) sT.- YnGwi3 with Grenade
+19-08-14 03:05:12 (2) [UnK] SenzacL* killed (1) Abelsito with M79
+19-08-14 03:05:14 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with USSOCOM
+19-08-14 03:05:14 (2) sT.- YnGwi3 killed (1) VanscL with Grenade
+19-08-14 03:05:16 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 03:05:18 sT.- YnGwi3 captured the Red Flag
+19-08-14 03:05:19 (1) Abelsito killed (2) sT.- YnGwi3 with Steyr AUG
+19-08-14 03:05:21 (2) |D.Forc3|M.* killed (1) Abelsito with Ak-74
+19-08-14 03:05:23 (2) |D.Forc3|M.* killed (1) VanscL with Combat Knife
+19-08-14 03:05:25 sT.- YnGwi3 captured the Red Flag
+19-08-14 03:05:26 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 03:05:26 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with M79
+19-08-14 03:05:29 (1) Abelsito killed (2) sT.- YnGwi3 with Steyr AUG
+19-08-14 03:05:31 (2) [UnK] SenzacL* killed (1) Abelsito with Chainsaw
+19-08-14 03:05:31 VanscL returned the Red Flag
+19-08-14 03:05:32 (2) [UnK] SenzacL* killed (1) VanscL with Grenade
+19-08-14 03:05:33 |D.Forc3|M.* returned the Blue Flag
+19-08-14 03:05:33 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with USSOCOM
+19-08-14 03:05:38 (2) [UnK] SenzacL* killed (1) VanscL with M79
+19-08-14 03:05:39 [UnK] SenzacL* captured the Red Flag
+19-08-14 03:05:40 (2) sT.- YnGwi3 killed (1) Abelsito with FN Minimi
+19-08-14 03:05:42 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Barrett M82A1
+19-08-14 03:05:44 (1) VanscL killed (2) sT.- YnGwi3 with HK MP5
+19-08-14 03:05:46 [UnK] SenzacL* scores for Bravo Team
+19-08-14 03:05:47 (2) |D.Forc3|M.* killed (1) VanscL with Ak-74
+19-08-14 03:05:49 (1) Abelsito killed (2) [UnK] SenzacL* with Steyr AUG
+19-08-14 03:05:54 (2) sT.- YnGwi3 killed (1) VanscL with Grenade
+19-08-14 03:05:57 (1) Abelsito killed (2) sT.- YnGwi3 with Steyr AUG
+19-08-14 03:06:00 (1) VanscL killed (2) [UnK] SenzacL* with HK MP5
+19-08-14 03:06:02 |D.Forc3|Maaxis. captured the Blue Flag
+19-08-14 03:06:04 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Grenade
+19-08-14 03:06:04 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with Grenade
+19-08-14 03:06:06 (2) |D.Forc3|M.* killed (1) Abelsito with Ak-74
+19-08-14 03:06:07 (1) VanscL killed (2) |D.Forc3|M.* with HK MP5
+19-08-14 03:06:10 (2) [UnK] SenzacL* killed (1) VanscL with M79
+19-08-14 03:06:10 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Grenade
+19-08-14 03:06:12 (1) Abelsito killed (2) sT.- YnGwi3 with Steyr AUG
+19-08-14 03:06:13 (2) |D.Forc3|M.* killed (1) Abelsito with Ak-74
+19-08-14 03:06:16 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Ak-74
+19-08-14 03:06:17 (1) VanscL killed (2) [UnK] SenzacL* with Grenade
+19-08-14 03:06:18 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with FN Minimi
+19-08-14 03:06:21 (1) Abelsito killed (2) sT.- YnGwi3 with Grenade
+19-08-14 03:06:21 (2) sT.- YnGwi3 killed (1) Abelsito with FN Minimi
+19-08-14 03:06:24 VanscL captured the Blue Flag
+19-08-14 03:06:25 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with Ak-74
+19-08-14 03:06:26 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Ak-74
+19-08-14 03:06:33 (1) Abelsito killed (2) [UnK] SenzacL* with Steyr AUG
+19-08-14 03:06:34 (2) sT.- YnGwi3 killed (1) VanscL with Grenade
+19-08-14 03:06:38 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with Ak-74
+19-08-14 03:06:39 (2) sT.- YnGwi3 killed (1) Abelsito with FN Minimi
+19-08-14 03:06:42 sT.- YnGwi3 captured the Red Flag
+19-08-14 03:06:43 (1) VanscL killed (2) sT.- YnGwi3 with HK MP5
+19-08-14 03:06:46 (2) [UnK] SenzacL* killed (1) VanscL with M79
+19-08-14 03:06:47 (1) Abelsito killed (2) |D.Forc3|M.* with Steyr AUG
+19-08-14 03:06:47 [UnK] SenzacL* captured the Red Flag
+19-08-14 03:06:47 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Ak-74
+19-08-14 03:06:50 (1) Abelsito killed (2) sT.- YnGwi3 with Grenade
+19-08-14 03:06:54 |D.Forc3|Maaxis. captured the Blue Flag
+19-08-14 03:06:57 (1) Abelsito killed (2) |D.Forc3|M.* with Steyr AUG
+19-08-14 03:06:59 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Ak-74
+19-08-14 03:07:00 sT.- YnGwi3 captured the Red Flag
+19-08-14 03:07:02 (1) VanscL killed (2) sT.- YnGwi3 with HK MP5
+19-08-14 03:07:03 Abelsito returned the Red Flag
+19-08-14 03:07:04 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with Ak-74
+19-08-14 03:07:06 Abelsito captured the Blue Flag
+19-08-14 03:07:06 (2) |D.Forc3|M.* killed (1) VanscL with Ak-74
+19-08-14 03:07:06 Time Left: 5 minutes
+19-08-14 03:07:09 (1) Abelsito killed (2) [UnK] SenzacL* with Steyr AUG
+19-08-14 03:07:11 |D.Forc3|M.* captured the Red Flag
+19-08-14 03:07:13 (2) |D.Forc3|M.* killed (1) Abelsito with Ak-74
+19-08-14 03:07:13 (1) VanscL killed (2) sT.- YnGwi3 with HK MP5
+19-08-14 03:07:14 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Ak-74
+19-08-14 03:07:16 |D.Forc3|Maaxis. returned the Red Flag
+19-08-14 03:07:17 |D.Forc3|Maaxis. captured the Blue Flag
+19-08-14 03:07:17 (2) [UnK] SenzacL* killed (1) VanscL with Chainsaw
+19-08-14 03:07:18 |D.Forc3|Maaxis. scores for Alpha Team
+19-08-14 03:07:20 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with M79
+19-08-14 03:07:22 (2) sT.- YnGwi3 killed (1) Abelsito with FN Minimi
+19-08-14 03:07:24 [UnK] SenzacL* captured the Red Flag
+19-08-14 03:07:25 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Combat Knife
+19-08-14 03:07:26 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Ak-74
+19-08-14 03:07:26 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Ak-74
+19-08-14 03:07:27 VanscL captured the Blue Flag
+19-08-14 03:07:32 VanscL returned the Red Flag
+19-08-14 03:07:32 (1) Abelsito killed (2) sT.- YnGwi3 with Steyr AUG
+19-08-14 03:07:36 (2) [UnK] SenzacL* killed (1) VanscL with Chainsaw
+19-08-14 03:07:38 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Ak-74
+19-08-14 03:07:40 sT.- YnGwi3 returned the Blue Flag
+19-08-14 03:07:42 (2) sT.- YnGwi3 killed (1) Abelsito with FN Minimi
+19-08-14 03:07:42 sT.- YnGwi3 captured the Red Flag
+19-08-14 03:07:42 |D.Forc3|Maaxis. captured the Blue Flag
+19-08-14 03:07:48 (1) VanscL killed (2) |D.Forc3|M.* with HK MP5
+19-08-14 03:07:49 (2) sT.- YnGwi3 killed (1) VanscL with FN Minimi
+19-08-14 03:07:50 (1) Abelsito killed (2) [UnK] SenzacL* with Steyr AUG
+19-08-14 03:07:53 (2) sT.- YnGwi3 killed (1) Abelsito with FN Minimi
+19-08-14 03:07:57 (2) |D.Forc3|M.* killed (1) VanscL with Ak-74
+19-08-14 03:07:57 (1) VanscL killed (2) |D.Forc3|M.* with HK MP5
+19-08-14 03:07:57 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with M79
+19-08-14 03:07:59 [UnK] SenzacL* returned the Blue Flag
+19-08-14 03:08:00 (1) Abelsito killed (2) [UnK] SenzacL* with Steyr AUG
+19-08-14 03:08:01 sT.- YnGwi3 scores for Bravo Team
+19-08-14 03:08:05 (1) Abelsito killed (2) |D.Forc3|M.* with Steyr AUG
+19-08-14 03:08:06 (2) sT.- YnGwi3 killed (1) VanscL with Grenade
+19-08-14 03:08:06 Time Left: 4 minutes
+19-08-14 03:08:10 (2) sT.- YnGwi3 killed (1) Abelsito with Combat Knife
+19-08-14 03:08:11 [UnK] SenzacL* captured the Red Flag
+19-08-14 03:08:13 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Ak-74
+19-08-14 03:08:14 (1) VanscL killed (2) |D.Forc3|M.* with HK MP5
+19-08-14 03:08:17 |D.Forc3|Maaxis. returned the Red Flag
+19-08-14 03:08:18 (1) VanscL killed (2) sT.- YnGwi3 with Grenade
+19-08-14 03:08:18 VanscL captured the Blue Flag
+19-08-14 03:08:21 (2) |D.Forc3|M.* killed (1) Abelsito with Ak-74
+19-08-14 03:08:23 [UnK] SenzacL* captured the Red Flag
+19-08-14 03:08:25 (1) VanscL killed (2) |D.Forc3|M.* with HK MP5
+19-08-14 03:08:28 (2) [UnK] SenzacL* killed (1) VanscL with Grenade
+19-08-14 03:08:30 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Ak-74
+19-08-14 03:08:30 [UnK] SenzacL* returned the Blue Flag
+19-08-14 03:08:32 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Ak-74
+19-08-14 03:08:32 (2) [UnK] SenzacL* killed (1) Abelsito with M79
+19-08-14 03:08:38 VanscL captured the Blue Flag
+19-08-14 03:08:39 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with FN Minimi
+19-08-14 03:08:39 (1) Abelsito killed (2) sT.- YnGwi3 with Steyr AUG
+19-08-14 03:08:39 (2) [UnK] SenzacL* killed (1) Abelsito with M79
+19-08-14 03:08:44 VanscL returned the Red Flag
+19-08-14 03:08:48 VanscL scores for Alpha Team
+19-08-14 03:08:48 [UnK] SenzacL* captured the Red Flag
+19-08-14 03:08:49 (1) Abelsito killed (2) sT.- YnGwi3 with Steyr AUG
+19-08-14 03:08:50 VanscL returned the Red Flag
+19-08-14 03:08:50 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Ak-74
+19-08-14 03:08:51 (1) VanscL killed (2) |D.Forc3|M.* with HK MP5
+19-08-14 03:08:56 (2) [UnK] SenzacL* killed (1) VanscL with Grenade
+19-08-14 03:08:56 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with Grenade
+19-08-14 03:08:58 Abelsito captured the Blue Flag
+19-08-14 03:08:59 (2) [UnK] SenzacL* killed (1) Abelsito with M79
+19-08-14 03:09:00 sT.- YnGwi3 captured the Red Flag
+19-08-14 03:09:03 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Grenade
+19-08-14 03:09:03 [UnK] SenzacL* captured the Red Flag
+19-08-14 03:09:03 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with Ak-74
+19-08-14 03:09:04 (2) |D.Forc3|M.* killed (1) Abelsito with Grenade
+19-08-14 03:09:05 (2) [UnK] SenzacL* killed (1) VanscL with M79
+19-08-14 03:09:06 Time Left: 3 minutes
+19-08-14 03:09:06 [UnK] SenzacL* scores for Bravo Team
+19-08-14 03:09:11 (1) VanscL killed (2) sT.- YnGwi3 with HK MP5
+19-08-14 03:09:12 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with M79
+19-08-14 03:09:13 (1) Abelsito killed (2) |D.Forc3|M.* with Steyr AUG
+19-08-14 03:09:15 [UnK] SenzacL* captured the Red Flag
+19-08-14 03:09:18 (2) sT.- YnGwi3 killed (1) Abelsito with HK MP5
+19-08-14 03:09:20 VanscL captured the Blue Flag
+19-08-14 03:09:21 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with M79
+19-08-14 03:09:22 (2) |D.Forc3|M.* killed (1) VanscL with Grenade
+19-08-14 03:09:22 [UnK] SenzacL* returned the Blue Flag
+19-08-14 03:09:25 [UnK] SenzacL* scores for Bravo Team
+19-08-14 03:09:27 (2) |D.Forc3|M.* killed (1) Abelsito with Grenade
+19-08-14 03:09:29 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Ak-74
+19-08-14 03:09:30 sT.- YnGwi3 captured the Red Flag
+19-08-14 03:09:35 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Ak-74
+19-08-14 03:09:35 [UnK] SenzacL* captured the Red Flag
+19-08-14 03:09:35 (2) [UnK] SenzacL* killed (1) VanscL with M79
+19-08-14 03:09:37 (1) Abelsito killed (2) [UnK] SenzacL* with Steyr AUG
+19-08-14 03:09:38 (1) Abelsito killed (2) sT.- YnGwi3 with Steyr AUG
+19-08-14 03:09:39 |D.Forc3|Maaxis. captured the Blue Flag
+19-08-14 03:09:39 Abelsito returned the Red Flag
+19-08-14 03:09:42 (1) VanscL killed (2) |D.Forc3|M.* with Grenade
+19-08-14 03:09:44 (2) sT.- YnGwi3 killed (1) Abelsito with HK MP5
+19-08-14 03:09:46 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with HK MP5
+19-08-14 03:09:48 (1) VanscL killed (2) sT.- YnGwi3 with Combat Knife
+19-08-14 03:09:49 (2) [UnK] SenzacL* killed (1) VanscL with M79
+19-08-14 03:09:51 |D.Forc3|M.* captured the Red Flag
+19-08-14 03:09:52 [UnK] SenzacL* returned the Blue Flag
+19-08-14 03:09:53 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with M79
+19-08-14 03:09:57 (2) sT.- YnGwi3 killed (1) Abelsito with HK MP5
+19-08-14 03:09:58 |D.Forc3|M.* scores for Bravo Team
+19-08-14 03:09:58 (1) VanscL killed (2) |D.Forc3|M.* with HK MP5
+19-08-14 03:09:59 (1) VanscL killed (2) [UnK] SenzacL* with HK MP5
+19-08-14 03:09:59 [|D.Forc3|M.*] Yes, Sir!
+19-08-14 03:10:05 (1) Abelsito killed (2) sT.- YnGwi3 with Steyr AUG
+19-08-14 03:10:06 Time Left: 2 minutes
+19-08-14 03:10:08 Abelsito captured the Blue Flag
+19-08-14 03:10:08 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Ak-74
+19-08-14 03:10:09 (1) Abelsito killed (2) |D.Forc3|M.* with Grenade
+19-08-14 03:10:11 (2) sT.- YnGwi3 killed (1) Abelsito with Grenade
+19-08-14 03:10:14 (2) sT.- YnGwi3 killed (1) VanscL with HK MP5
+19-08-14 03:10:15 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Ak-74
+19-08-14 03:10:16 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with M79
+19-08-14 03:10:18 (1) Abelsito killed (2) [UnK] SenzacL* with Steyr AUG
+19-08-14 03:10:20 (1) Abelsito killed (2) sT.- YnGwi3 with Grenade
+19-08-14 03:10:21 (1) VanscL killed (2) |D.Forc3|M.* with HK MP5
+19-08-14 03:10:24 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with M79
+19-08-14 03:10:26 [UnK] SenzacL* captured the Red Flag
+19-08-14 03:10:28 (1) Abelsito killed (2) [UnK] SenzacL* with Grenade
+19-08-14 03:10:29 (1) Abelsito killed (2) sT.- YnGwi3 with Grenade
+19-08-14 03:10:29 (2) sT.- YnGwi3 killed (1) Abelsito with HK MP5
+19-08-14 03:10:34 VanscL captured the Blue Flag
+19-08-14 03:10:35 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Ak-74
+19-08-14 03:10:36 (1) Abelsito killed (2) [UnK] SenzacL* with Grenade
+19-08-14 03:10:36 (2) sT.- YnGwi3 killed (1) Abelsito with Grenade
+19-08-14 03:10:37 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Ak-74
+19-08-14 03:10:37 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with HK MP5
+19-08-14 03:10:40 VanscL returned the Red Flag
+19-08-14 03:10:42 (2) |D.Forc3|M.* killed (1) VanscL with Ak-74
+19-08-14 03:10:43 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Grenade
+19-08-14 03:10:45 (2) sT.- YnGwi3 killed (1) Abelsito with HK MP5
+19-08-14 03:10:45 |D.Forc3|Maaxis. captured the Blue Flag
+19-08-14 03:10:45 |D.Forc3|Maaxis. scores for Alpha Team
+19-08-14 03:10:47 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Ak-74
+19-08-14 03:10:50 (1) Abelsito killed (2) |D.Forc3|M.* with Steyr AUG
+19-08-14 03:10:52 (2) [UnK] SenzacL* killed (1) VanscL with M79
+19-08-14 03:10:53 [UnK] SenzacL* captured the Red Flag
+19-08-14 03:10:55 (2) sT.- YnGwi3 killed (1) Abelsito with HK MP5
+19-08-14 03:10:55 (1) Abelsito killed (2) sT.- YnGwi3 with Grenade
+19-08-14 03:10:56 |D.Forc3|Maaxis. captured the Blue Flag
+19-08-14 03:10:58 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with Hands
+19-08-14 03:11:00 (1) VanscL killed (2) |D.Forc3|M.* with HK MP5
+19-08-14 03:11:02 (2) sT.- YnGwi3 killed (1) VanscL with Grenade
+19-08-14 03:11:02 (1) VanscL killed (2) [UnK] SenzacL* with Combat Knife
+19-08-14 03:11:04 (1) Abelsito killed (2) sT.- YnGwi3 with Steyr AUG
+19-08-14 03:11:06 (1) Abelsito killed (2) |D.Forc3|M.* with Grenade
+19-08-14 03:11:06 Time Left: 1 minutes
+19-08-14 03:11:08 |D.Forc3|Maaxis. returned the Red Flag
+19-08-14 03:11:09 (1) VanscL killed (2) [UnK] SenzacL* with Grenade
+19-08-14 03:11:10 (1) Abelsito killed (2) sT.- YnGwi3 with Combat Knife
+19-08-14 03:11:11 |D.Forc3|Maaxis. captured the Blue Flag
+19-08-14 03:11:12 (2) |D.Forc3|M.* killed (1) Abelsito with Ak-74
+19-08-14 03:11:15 (2) |D.Forc3|M.* killed (1) VanscL with Combat Knife
+19-08-14 03:11:15 |D.Forc3|Maaxis. scores for Alpha Team
+19-08-14 03:11:17 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with M79
+19-08-14 03:11:18 [UnK] SenzacL* captured the Red Flag
+19-08-14 03:11:19 (2) sT.- YnGwi3 killed (1) Abelsito with Grenade
+19-08-14 03:11:20 (2) |D.Forc3|M.* killed (1) VanscL with Grenade
+19-08-14 03:11:24 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with Ak-74
+19-08-14 03:11:24 Can't load maps from mapslist
+19-08-14 03:11:24 Next map: ctf_Guardian
+19-08-14 03:11:24 [UnK] SenzacL* scores for Bravo Team
+19-08-14 03:11:25 [|D.Forc3|M.*] Yes, Sir!
+19-08-14 03:11:25 [sT.- YnGwi3] Yes, Sir!
+19-08-14 03:11:26 [sT.- YnGwi3] It's All About Lag!
+19-08-14 03:11:26 [sT.- YnGwi3] I'm The King of rebound!!
+19-08-14 03:11:26 [sT.- YnGwi3] Son of a bitch!
+19-08-14 03:11:26 [sT.- YnGwi3] We Are Super Toxic!!
+19-08-14 03:11:30 ctf_Guardian by SuoW
+19-08-14 03:11:31 [[UnK] SenzacL*] no tenian un nivel 4?
+19-08-14 03:11:33 [|D.Forc3|M.*] SERINDE
+19-08-14 03:11:35 (1) Abelsito killed (2) sT.- YnGwi3 with Grenade
+19-08-14 03:11:36 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with Grenade
+19-08-14 03:11:36 [|D.Forc3|M.*] N
+19-08-14 03:11:36 [|D.Forc3|Maaxis.] cuantos vamos?
+19-08-14 03:11:37 [VanscL] 3.1
+19-08-14 03:11:39 [UnK] SenzacL* captured the Red Flag
+19-08-14 03:11:39 [|D.Forc3|Maaxis.] jajaja
+19-08-14 03:11:42 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with Grenade
+19-08-14 03:11:43 [|D.Forc3|Maaxis.] 3-1
+19-08-14 03:11:44 [|D.Forc3|Maaxis.] ?
+19-08-14 03:11:45 [UnK] SenzacL* scores for Bravo Team
+19-08-14 03:11:45 (1) Abelsito killed (2) sT.- YnGwi3 with Steyr AUG
+19-08-14 03:11:48 (1) Abelsito killed (2) [UnK] SenzacL* with Combat Knife
+19-08-14 03:11:49 Abelsito captured the Blue Flag
+19-08-14 03:11:49 [VanscL] !map ctf_Laos
+19-08-14 03:11:55 Laos
+19-08-14 03:12:02 [|D.Forc3|Maaxis.] wretch?
+19-08-14 03:12:03 (1) Abelsito killed (2) sT.- YnGwi3 with Barrett M82A1
+19-08-14 03:12:06 (2) |D.Forc3|M.* killed (1) Abelsito with Ak-74
+19-08-14 03:12:09 (1) VanscL killed (2) [UnK] SenzacL* with Combat Knife
+19-08-14 03:12:10 (2) |D.Forc3|M.* killed (1) VanscL with Combat Knife
+19-08-14 03:12:13 (1) Abelsito killed (2) |D.Forc3|M.* with Steyr AUG
+19-08-14 03:12:13 (2) |D.Forc3|M.* killed (1) Abelsito with Ak-74
+19-08-14 03:12:13 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Combat Knife
+19-08-14 03:12:16 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Spas-12
+19-08-14 03:12:17 |D.Forc3|Maaxis. captured the Blue Flag
+19-08-14 03:12:26 (1) Abelsito killed (2) |D.Forc3|M.* with Grenade
+19-08-14 03:12:26 |D.Forc3|Maaxis. scores for Alpha Team
+19-08-14 03:12:29 [|D.Forc3|Maaxis.] !map ctf_E
+19-08-14 03:12:29 Map not found (ctf_e)
+19-08-14 03:12:32 (2) [UnK] SenzacL* killed (1) VanscL with Chainsaw
+19-08-14 03:12:33 [VanscL] !map ctf_icebeam
+19-08-14 03:12:33 [|D.Forc3|Maaxis.] !map ctf_Wretch
+19-08-14 03:12:36 (RADIO)[sT.- YnGwi3] Friendly flagger up!
+19-08-14 03:12:39 Wretch by AdamD
+19-08-14 03:12:45 (2) sT.- YnGwi3 killed (1) VanscL with HK MP5
+19-08-14 03:12:45 (TEAM)[Abelsito] DE
+19-08-14 03:12:45 (2) [UnK] SenzacL* killed (1) Abelsito with M79
+19-08-14 03:12:48 (TEAM)[|D.Forc3|Maaxis.] low
+19-08-14 03:12:48 sT.- YnGwi3 captured the Red Flag
+19-08-14 03:12:48 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with HK MP5
+19-08-14 03:12:49 [Abelsito] !R
+19-08-14 03:12:49 Restarting...
+19-08-14 03:12:53 [VanscL] Anytime...
+19-08-14 03:12:54 Wretch by AdamD
+19-08-14 03:12:58 [[UnK] SenzacL*] !r
+19-08-14 03:12:58 Restarting...
+19-08-14 03:13:01 [|D.Forc3|M.*] !R
+19-08-14 03:13:01 Restarting...
+19-08-14 03:13:06 Wretch by AdamD
+19-08-14 03:13:10 [sT.- YnGwi3] !r
+19-08-14 03:13:10 Restarting...
+19-08-14 03:13:15 Wretch by AdamD
+19-08-14 03:13:21 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with Barrett M82A1
+19-08-14 03:13:21 (1) Abelsito killed (2) sT.- YnGwi3 with Grenade
+19-08-14 03:13:23 (RADIO)[sT.- YnGwi3] Enemy spotted up!
+19-08-14 03:13:26 (2) |D.Forc3|M.* killed (1) VanscL with HK MP5
+19-08-14 03:13:27 [UnK] SenzacL* captured the Red Flag
+19-08-14 03:13:30 [UnK] SenzacL* captured the Red Flag
+19-08-14 03:13:30 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Grenade
+19-08-14 03:13:32 sT.- YnGwi3 captured the Red Flag
+19-08-14 03:13:32 (2) [UnK] SenzacL* killed (1) Abelsito with Grenade
+19-08-14 03:13:33 (1) VanscL killed (2) |D.Forc3|M.* with HK MP5
+19-08-14 03:13:34 (1) VanscL killed (2) sT.- YnGwi3 with HK MP5
+19-08-14 03:13:35 (2) |D.Forc3|M.* killed (1) VanscL with Grenade
+19-08-14 03:13:37 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with Grenade
+19-08-14 03:13:40 (1) Abelsito killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 03:13:40 (2) [UnK] SenzacL* killed (1) Abelsito with Barrett M82A1
+19-08-14 03:13:42 |D.Forc3|M.* captured the Red Flag
+19-08-14 03:13:43 (2) |D.Forc3|M.* killed (1) VanscL with Combat Knife
+19-08-14 03:13:45 (1) VanscL killed (2) sT.- YnGwi3 with Grenade
+19-08-14 03:13:46 |D.Forc3|M.* scores for Bravo Team
+19-08-14 03:13:48 |D.Forc3|Maaxis. captured the Blue Flag
+19-08-14 03:13:48 (2) [UnK] SenzacL* killed (1) Abelsito with Barrett M82A1
+19-08-14 03:13:50 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with HK MP5
+19-08-14 03:13:50 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Spas-12
+19-08-14 03:13:55 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with Barrett M82A1
+19-08-14 03:13:56 [UnK] SenzacL* captured the Red Flag
+19-08-14 03:13:57 (2) sT.- YnGwi3 killed (1) Abelsito with HK MP5
+19-08-14 03:14:04 [UnK] SenzacL* returned the Blue Flag
+19-08-14 03:14:06 [UnK] SenzacL* scores for Bravo Team
+19-08-14 03:14:11 (1) Abelsito killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 03:14:11 sT.- YnGwi3 captured the Red Flag
+19-08-14 03:14:11 (1) VanscL killed (2) sT.- YnGwi3 with HK MP5
+19-08-14 03:14:12 (2) sT.- YnGwi3 killed (1) VanscL with Grenade
+19-08-14 03:14:14 Abelsito captured the Blue Flag
+19-08-14 03:14:18 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Spas-12
+19-08-14 03:14:19 (2) |D.Forc3|M.* killed (1) Abelsito with HK MP5
+19-08-14 03:14:20 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Spas-12
+19-08-14 03:14:20 |D.Forc3|M.* returned the Blue Flag
+19-08-14 03:14:20 (1) VanscL killed (2) |D.Forc3|M.* with Grenade
+19-08-14 03:14:22 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with HK MP5
+19-08-14 03:14:27 (1) Abelsito killed (2) sT.- YnGwi3 with Barrett M82A1
+19-08-14 03:14:31 (2) |D.Forc3|M.* killed (1) Abelsito with HK MP5
+19-08-14 03:14:34 |D.Forc3|Maaxis. captured the Blue Flag
+19-08-14 03:14:34 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Spas-12
+19-08-14 03:14:38 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with HK MP5
+19-08-14 03:14:39 (1) VanscL killed (2) |D.Forc3|M.* with HK MP5
+19-08-14 03:14:40 VanscL captured the Blue Flag
+19-08-14 03:14:43 (2) [UnK] SenzacL* killed (1) VanscL with Barrett M82A1
+19-08-14 03:14:45 |D.Forc3|Maaxis. captured the Blue Flag
+19-08-14 03:14:47 |D.Forc3|Maaxis. scores for Alpha Team
+19-08-14 03:14:47 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Combat Knife
+19-08-14 03:14:51 (1) VanscL killed (2) |D.Forc3|M.* with HK MP5
+19-08-14 03:14:52 (1) Abelsito killed (2) [UnK] SenzacL* with Barrett M82A1
+19-08-14 03:14:54 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with HK MP5
+19-08-14 03:14:58 (2) |D.Forc3|M.* killed (1) Abelsito with HK MP5
+19-08-14 03:15:02 (2) sT.- YnGwi3 killed (1) VanscL with HK MP5
+19-08-14 03:15:07 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Spas-12
+19-08-14 03:15:07 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with HK MP5
+19-08-14 03:15:08 (1) Abelsito killed (2) [UnK] SenzacL* with Combat Knife
+19-08-14 03:15:11 (1) VanscL killed (2) |D.Forc3|M.* with Grenade
+19-08-14 03:15:13 (1) Abelsito killed (2) sT.- YnGwi3 with Barrett M82A1
+19-08-14 03:15:14 Abelsito captured the Blue Flag
+19-08-14 03:15:16 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Grenade
+19-08-14 03:15:17 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with HK MP5
+19-08-14 03:15:20 (1) VanscL killed (2) |D.Forc3|M.* with HK MP5
+19-08-14 03:15:20 (2) |D.Forc3|M.* killed (1) VanscL with HK MP5
+19-08-14 03:15:20 Abelsito scores for Alpha Team
+19-08-14 03:15:24 67.175.229.95:23073|67AB1B16330 requesting game...
+19-08-14 03:15:24 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Spas-12
+19-08-14 03:15:26 (2) [UnK] SenzacL* killed (1) VanscL with Barrett M82A1
+19-08-14 03:15:31 (2) |D.Forc3|M.* killed (1) Abelsito with HK MP5
+19-08-14 03:15:31 (1) VanscL killed (2) |D.Forc3|M.* with HK MP5
+19-08-14 03:15:31 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with Barrett M82A1
+19-08-14 03:15:31 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Grenade
+19-08-14 03:15:33 (2) sT.- YnGwi3 killed (1) VanscL with Grenade
+19-08-14 03:15:33 sT.- YnGwi3 captured the Red Flag
+19-08-14 03:15:40 sT.- YnGwi3 scores for Bravo Team
+19-08-14 03:15:40 (1) Abelsito killed (2) [UnK] SenzacL* with Grenade
+19-08-14 03:15:43 Abelsito captured the Blue Flag
+19-08-14 03:15:44 (1) VanscL killed (2) |D.Forc3|M.* with HK MP5
+19-08-14 03:15:46 sT.- YnGwi3 captured the Red Flag
+19-08-14 03:15:48 (2) [UnK] SenzacL* killed (1) Abelsito with Grenade
+19-08-14 03:15:49 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with Grenade
+19-08-14 03:15:49 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Combat Knife
+19-08-14 03:15:50 [UnK] SenzacL* returned the Blue Flag
+19-08-14 03:15:54 sT.- YnGwi3 scores for Bravo Team
+19-08-14 03:15:54 (1) VanscL killed (2) sT.- YnGwi3 with Grenade
+19-08-14 03:15:55 (2) sT.- YnGwi3 killed (1) VanscL with Grenade
+19-08-14 03:16:04 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with Spas-12
+19-08-14 03:16:04 (1) Abelsito killed (2) |D.Forc3|M.* with Steyr AUG
+19-08-14 03:16:05 (2) [UnK] SenzacL* killed (1) VanscL with Barrett M82A1
+19-08-14 03:16:05 Abelsito captured the Blue Flag
+19-08-14 03:16:07 (1) Abelsito killed (2) sT.- YnGwi3 with Steyr AUG
+19-08-14 03:16:07 (2) sT.- YnGwi3 killed (1) Abelsito with Grenade
+19-08-14 03:16:11 |D.Forc3|M.* returned the Blue Flag
+19-08-14 03:16:16 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Spas-12
+19-08-14 03:16:19 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Grenade
+19-08-14 03:16:27 (1) Abelsito killed (2) [UnK] SenzacL* with Steyr AUG
+19-08-14 03:16:32 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Combat Knife
+19-08-14 03:16:34 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Spas-12
+19-08-14 03:16:35 Abelsito captured the Blue Flag
+19-08-14 03:16:38 (1) VanscL killed (2) sT.- YnGwi3 with HK MP5
+19-08-14 03:16:38 (1) Abelsito killed (2) |D.Forc3|M.* with Steyr AUG
+19-08-14 03:16:41 Abelsito scores for Alpha Team
+19-08-14 03:16:43 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with HK MP5
+19-08-14 03:16:43 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Grenade
+19-08-14 03:16:46 VanscL captured the Blue Flag
+19-08-14 03:16:50 (2) sT.- YnGwi3 killed (1) VanscL with Spas-12
+19-08-14 03:16:50 (1) VanscL killed (2) sT.- YnGwi3 with Grenade
+19-08-14 03:16:52 (1) Abelsito killed (2) |D.Forc3|M.* with Steyr AUG
+19-08-14 03:16:52 Abelsito captured the Blue Flag
+19-08-14 03:16:58 [UnK] SenzacL* captured the Red Flag
+19-08-14 03:16:58 (1) VanscL killed (2) [UnK] SenzacL* with Grenade
+19-08-14 03:17:01 VanscL returned the Red Flag
+19-08-14 03:17:03 (2) sT.- YnGwi3 killed (1) Abelsito with Spas-12
+19-08-14 03:17:03 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Spas-12
+19-08-14 03:17:04 sT.- YnGwi3 captured the Red Flag
+19-08-14 03:17:06 sT.- YnGwi3 returned the Blue Flag
+19-08-14 03:17:07 (1) Abelsito killed (2) sT.- YnGwi3 with Steyr AUG
+19-08-14 03:17:08 |D.Forc3|Maaxis. captured the Blue Flag
+19-08-14 03:17:09 (2) [UnK] SenzacL* killed (1) VanscL with Chainsaw
+19-08-14 03:17:10 (1) Abelsito killed (2) [UnK] SenzacL* with Steyr AUG
+19-08-14 03:17:10 Abelsito returned the Red Flag
+19-08-14 03:17:14 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Grenade
+19-08-14 03:17:14 (2) sT.- YnGwi3 killed (1) Abelsito with Spas-12
+19-08-14 03:17:14 (1) Abelsito killed (2) sT.- YnGwi3 with Grenade
+19-08-14 03:17:15 |D.Forc3|Maaxis. scores for Alpha Team
+19-08-14 03:17:20 (1) VanscL killed (2) sT.- YnGwi3 with Grenade
+19-08-14 03:17:22 VanscL captured the Blue Flag
+19-08-14 03:17:23 (2) |D.Forc3|M.* killed (1) VanscL with HK MP5
+19-08-14 03:17:25 (1) Abelsito killed (2) [UnK] SenzacL* with Steyr AUG
+19-08-14 03:17:25 |D.Forc3|M.* returned the Blue Flag
+19-08-14 03:17:27 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Spas-12
+19-08-14 03:17:27 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with Spas-12
+19-08-14 03:17:30 (1) Abelsito killed (2) |D.Forc3|M.* with Combat Knife
+19-08-14 03:17:30 (2) |D.Forc3|M.* killed (1) Abelsito with HK MP5
+19-08-14 03:17:35 VanscL captured the Blue Flag
+19-08-14 03:17:35 (2) [UnK] SenzacL* killed (1) Abelsito with M79
+19-08-14 03:17:36 (2) |D.Forc3|M.* killed (1) VanscL with HK MP5
+19-08-14 03:17:37 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Grenade
+19-08-14 03:17:41 (1) Abelsito killed (2) |D.Forc3|M.* with Steyr AUG
+19-08-14 03:17:42 (1) Abelsito killed (2) sT.- YnGwi3 with Steyr AUG
+19-08-14 03:17:47 (2) |D.Forc3|M.* killed (1) Abelsito with HK MP5
+19-08-14 03:17:49 |D.Forc3|M.* returned the Blue Flag
+19-08-14 03:17:50 [UnK] SenzacL* captured the Red Flag
+19-08-14 03:17:52 (2) |D.Forc3|M.* killed (1) VanscL with Grenade
+19-08-14 03:17:52 (1) VanscL killed (2) [UnK] SenzacL* with HK MP5
+19-08-14 03:17:53 (1) Abelsito killed (2) |D.Forc3|M.* with Steyr AUG
+19-08-14 03:17:54 (1) Abelsito killed (2) sT.- YnGwi3 with Steyr AUG
+19-08-14 03:17:55 |D.Forc3|Maaxis. returned the Red Flag
+19-08-14 03:18:02 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Spas-12
+19-08-14 03:18:02 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with Grenade
+19-08-14 03:18:03 [UnK] SenzacL* captured the Red Flag
+19-08-14 03:18:10 (1) Abelsito killed (2) [UnK] SenzacL* with Steyr AUG
+19-08-14 03:18:10 (2) |D.Forc3|M.* killed (1) Abelsito with HK MP5
+19-08-14 03:18:10 VanscL returned the Red Flag
+19-08-14 03:18:10 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Spas-12
+19-08-14 03:18:12 (1) VanscL killed (2) sT.- YnGwi3 with Grenade
+19-08-14 03:18:13 VanscL captured the Blue Flag
+19-08-14 03:18:15 Time Left: 5 minutes
+19-08-14 03:18:17 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Combat Knife
+19-08-14 03:18:20 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with Spas-12
+19-08-14 03:18:21 VanscL scores for Alpha Team
+19-08-14 03:18:21 [UnK] SenzacL* captured the Red Flag
+19-08-14 03:18:21 (1) VanscL killed (2) [UnK] SenzacL* with Grenade
+19-08-14 03:18:24 (1) Abelsito killed (2) sT.- YnGwi3 with Steyr AUG
+19-08-14 03:18:28 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Grenade
+19-08-14 03:18:30 [UnK] SenzacL* captured the Red Flag
+19-08-14 03:18:30 (2) [UnK] SenzacL* killed (1) Abelsito with Chainsaw
+19-08-14 03:18:32 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Spas-12
+19-08-14 03:18:33 (2) [UnK] SenzacL* killed (1) VanscL with Grenade
+19-08-14 03:18:34 (1) Abelsito killed (2) sT.- YnGwi3 with Grenade
+19-08-14 03:18:34 |D.Forc3|Maaxis. returned the Red Flag
+19-08-14 03:18:36 |D.Forc3|Maaxis. captured the Blue Flag
+19-08-14 03:18:37 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with Grenade
+19-08-14 03:18:41 |D.Forc3|M.* returned the Blue Flag
+19-08-14 03:18:43 (1) VanscL killed (2) [UnK] SenzacL* with HK MP5
+19-08-14 03:18:47 (2) sT.- YnGwi3 killed (1) VanscL with Spas-12
+19-08-14 03:18:47 (1) VanscL killed (2) sT.- YnGwi3 with HK MP5
+19-08-14 03:18:50 (2) |D.Forc3|M.* killed (1) Abelsito with HK MP5
+19-08-14 03:18:53 (1) VanscL killed (2) |D.Forc3|M.* with Grenade
+19-08-14 03:18:53 [UnK] SenzacL* captured the Red Flag
+19-08-14 03:18:57 (1) Abelsito killed (2) sT.- YnGwi3 with Steyr AUG
+19-08-14 03:18:59 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with HK MP5
+19-08-14 03:18:59 [UnK] SenzacL* scores for Bravo Team
+19-08-14 03:19:02 (2) sT.- YnGwi3 killed (1) Abelsito with Grenade
+19-08-14 03:19:05 (2) sT.- YnGwi3 killed (1) VanscL with Spas-12
+19-08-14 03:19:07 sT.- YnGwi3 captured the Red Flag
+19-08-14 03:19:09 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with Grenade
+19-08-14 03:19:09 (1) Abelsito killed (2) sT.- YnGwi3 with Steyr AUG
+19-08-14 03:19:09 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Grenade
+19-08-14 03:19:10 (2) [UnK] SenzacL* killed (1) Abelsito with Chainsaw
+19-08-14 03:19:10 (1) Abelsito killed (2) [UnK] SenzacL* with Grenade
+19-08-14 03:19:13 VanscL returned the Red Flag
+19-08-14 03:19:15 Time Left: 4 minutes
+19-08-14 03:19:17 (1) VanscL killed (2) sT.- YnGwi3 with HK MP5
+19-08-14 03:19:17 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Spas-12
+19-08-14 03:19:22 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with Spas-12
+19-08-14 03:19:22 (2) [UnK] SenzacL* killed (1) Abelsito with M79
+19-08-14 03:19:23 (2) |D.Forc3|M.* killed (1) VanscL with HK MP5
+19-08-14 03:19:28 (2) sT.- YnGwi3 killed (1) VanscL with Spas-12
+19-08-14 03:19:28 sT.- YnGwi3 captured the Red Flag
+19-08-14 03:19:29 (1) Abelsito killed (2) [UnK] SenzacL* with Grenade
+19-08-14 03:19:30 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Spas-12
+19-08-14 03:19:30 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with Spas-12
+19-08-14 03:19:31 (2) |D.Forc3|M.* killed (1) Abelsito with Combat Knife
+19-08-14 03:19:32 (1) Abelsito killed (2) |D.Forc3|M.* with Steyr AUG
+19-08-14 03:19:35 |D.Forc3|Maaxis. returned the Red Flag
+19-08-14 03:19:41 (1) Abelsito killed (2) [UnK] SenzacL* with FN Minimi
+19-08-14 03:19:41 (2) [UnK] SenzacL* killed (1) Abelsito with M79
+19-08-14 03:19:46 (2) sT.- YnGwi3 killed (1) VanscL with Spas-12
+19-08-14 03:19:51 [UnK] SenzacL* captured the Red Flag
+19-08-14 03:19:52 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Spas-12
+19-08-14 03:19:53 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Grenade
+19-08-14 03:19:53 Abelsito captured the Blue Flag
+19-08-14 03:19:53 |D.Forc3|Maaxis. returned the Red Flag
+19-08-14 03:19:54 (1) Abelsito killed (2) |D.Forc3|M.* with Grenade
+19-08-14 03:19:59 (2) |D.Forc3|M.* killed (1) VanscL with HK MP5
+19-08-14 03:20:00 Abelsito scores for Alpha Team
+19-08-14 03:20:00 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Spas-12
+19-08-14 03:20:01 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with Grenade
+19-08-14 03:20:05 (1) Abelsito killed (2) [UnK] SenzacL* with M79
+19-08-14 03:20:09 (1) Abelsito killed (2) |D.Forc3|M.* with Grenade
+19-08-14 03:20:10 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with HK MP5
+19-08-14 03:20:12 (2) [UnK] SenzacL* killed (1) VanscL with Grenade
+19-08-14 03:20:15 Time Left: 3 minutes
+19-08-14 03:20:21 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Grenade
+19-08-14 03:20:23 (1) VanscL killed (2) |D.Forc3|M.* with HK MP5
+19-08-14 03:20:27 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Spas-12
+19-08-14 03:20:30 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with HK MP5
+19-08-14 03:20:30 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Grenade
+19-08-14 03:20:30 (1) Abelsito killed (2) [UnK] SenzacL* with M79
+19-08-14 03:20:32 (2) sT.- YnGwi3 killed (1) VanscL with HK MP5
+19-08-14 03:20:36 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Spas-12
+19-08-14 03:20:40 (1) Abelsito killed (2) sT.- YnGwi3 with M79
+19-08-14 03:20:41 Abelsito captured the Blue Flag
+19-08-14 03:20:41 (1) VanscL killed (2) [UnK] SenzacL* with Grenade
+19-08-14 03:20:46 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with HK MP5
+19-08-14 03:20:47 (1) Abelsito killed (2) sT.- YnGwi3 with M79
+19-08-14 03:20:50 (1) Abelsito killed (2) |D.Forc3|M.* with Grenade
+19-08-14 03:20:51 (2) [UnK] SenzacL* killed (1) Abelsito with M79
+19-08-14 03:20:53 [UnK] SenzacL* returned the Blue Flag
+19-08-14 03:20:53 (2) sT.- YnGwi3 killed (1) VanscL with HK MP5
+19-08-14 03:20:54 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Spas-12
+19-08-14 03:20:55 [Abelsito] SDKJADJKASKL
+19-08-14 03:20:59 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with HK MP5
+19-08-14 03:21:01 sT.- YnGwi3 captured the Red Flag
+19-08-14 03:21:01 (1) VanscL killed (2) sT.- YnGwi3 with HK MP5
+19-08-14 03:21:04 (2) |D.Forc3|M.* killed (1) VanscL with Grenade
+19-08-14 03:21:05 Abelsito captured the Blue Flag
+19-08-14 03:21:06 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Spas-12
+19-08-14 03:21:07 [UnK] SenzacL* captured the Red Flag
+19-08-14 03:21:07 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with M79
+19-08-14 03:21:10 (1) Abelsito killed (2) sT.- YnGwi3 with Grenade
+19-08-14 03:21:15 Time Left: 2 minutes
+19-08-14 03:21:16 sT.- YnGwi3 captured the Red Flag
+19-08-14 03:21:19 (2) sT.- YnGwi3 killed (1) VanscL with HK MP5
+19-08-14 03:21:21 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with Grenade
+19-08-14 03:21:23 (1) Abelsito killed (2) [UnK] SenzacL* with Grenade
+19-08-14 03:21:24 (1) Abelsito killed (2) |D.Forc3|M.* with M79
+19-08-14 03:21:29 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Spas-12
+19-08-14 03:21:31 |D.Forc3|M.* captured the Red Flag
+19-08-14 03:21:34 (2) sT.- YnGwi3 killed (1) VanscL with HK MP5
+19-08-14 03:21:39 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with M79
+19-08-14 03:21:39 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Spas-12
+19-08-14 03:21:39 (1) Abelsito killed (2) sT.- YnGwi3 with M79
+19-08-14 03:21:46 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Spas-12
+19-08-14 03:21:48 (2) sT.- YnGwi3 killed (1) VanscL with Grenade
+19-08-14 03:21:48 (1) VanscL killed (2) sT.- YnGwi3 with Grenade
+19-08-14 03:21:51 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with Grenade
+19-08-14 03:21:55 (1) VanscL killed (2) [UnK] SenzacL* with Grenade
+19-08-14 03:21:59 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with HK MP5
+19-08-14 03:22:03 (2) [UnK] SenzacL* killed (1) VanscL with Barrett M82A1
+19-08-14 03:22:04 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Combat Knife
+19-08-14 03:22:10 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with HK MP5
+19-08-14 03:22:15 Time Left: 1 minutes
+19-08-14 03:22:17 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Grenade
+19-08-14 03:22:19 (2) |D.Forc3|M.* killed (1) VanscL with Grenade
+19-08-14 03:22:21 (1) Abelsito killed (2) sT.- YnGwi3 with Combat Knife
+19-08-14 03:22:23 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with HK MP5
+19-08-14 03:22:27 (2) [UnK] SenzacL* killed (1) Abelsito with Barrett M82A1
+19-08-14 03:22:30 (2) |D.Forc3|M.* killed (1) VanscL with Grenade
+19-08-14 03:22:31 [UnK] SenzacL* returned the Blue Flag
+19-08-14 03:22:32 |D.Forc3|M.* scores for Bravo Team
+19-08-14 03:22:32 sT.- YnGwi3 captured the Red Flag
+19-08-14 03:22:33 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with HK MP5
+19-08-14 03:22:33 (2) sT.- YnGwi3 killed (1) Abelsito with HK MP5
+19-08-14 03:22:38 sT.- YnGwi3 scores for Bravo Team
+19-08-14 03:22:38 (2) |D.Forc3|M.* killed (1) VanscL with Grenade
+19-08-14 03:22:41 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Grenade
+19-08-14 03:22:41 (2) [UnK] SenzacL* killed (1) Abelsito with Barrett M82A1
+19-08-14 03:22:44 (2) sT.- YnGwi3 killed (1) |D.Forc3|Maaxis. with Grenade
+19-08-14 03:22:47 (2) [UnK] SenzacL* killed (1) Abelsito with Chainsaw
+19-08-14 03:22:49 (1) |D.Forc3|Maaxis. killed (2) [UnK] SenzacL* with Spas-12
+19-08-14 03:22:52 (2) sT.- YnGwi3 killed (1) VanscL with Grenade
+19-08-14 03:22:54 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Spas-12
+19-08-14 03:22:57 (1) |D.Forc3|Maaxis. killed (2) |D.Forc3|M.* with Spas-12
+19-08-14 03:22:58 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with Grenade
+19-08-14 03:22:59 (2) [UnK] SenzacL* killed (1) Abelsito with M79
+19-08-14 03:23:04 VanscL captured the Blue Flag
+19-08-14 03:23:04 (2) sT.- YnGwi3 killed (1) VanscL with Combat Knife
+19-08-14 03:23:05 (2) [UnK] SenzacL* killed (1) Abelsito with M79
+19-08-14 03:23:06 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Spas-12
+19-08-14 03:23:08 |D.Forc3|Maaxis. captured the Blue Flag
+19-08-14 03:23:09 [UnK] SenzacL* captured the Red Flag
+19-08-14 03:23:11 [VanscL] gg agbel
+19-08-14 03:23:12 (1) Abelsito killed (2) [UnK] SenzacL* with Combat Knife
+19-08-14 03:23:14 |D.Forc3|M.* captured the Red Flag
+19-08-14 03:23:14 (1) Abelsito killed (2) |D.Forc3|M.* with Grenade
+19-08-14 03:23:14 (2) |D.Forc3|M.* killed (1) Abelsito with Combat Knife
+19-08-14 03:23:15 [|D.Forc3|M.*] No!
+19-08-14 03:23:15 Can't load maps from mapslist
+19-08-14 03:23:15 Next map: ctf_Wretch
+19-08-14 03:23:16 [sT.- YnGwi3] Yes, Sir!
+19-08-14 03:23:16 [sT.- YnGwi3] It's All About Lag!
+19-08-14 03:23:16 [[UnK] SenzacL*] EZ
+19-08-14 03:23:17 [sT.- YnGwi3] I'm The King of rebound!!
+19-08-14 03:23:17 [sT.- YnGwi3] Son of a bitch!
+19-08-14 03:23:17 [sT.- YnGwi3] Anytime...
+19-08-14 03:23:17 [sT.- YnGwi3] Yeah
+19-08-14 03:23:20 [[UnK] SenzacL*] EZZZZ
+19-08-14 03:23:20 Wretch by AdamD
+19-08-14 03:23:21 [[UnK] SenzacL*] FACIÑ
+19-08-14 03:23:25 [|D.Forc3|Maaxis.] 3-2
+19-08-14 03:23:28 Abelsito captured the Blue Flag
+19-08-14 03:23:32 [UnK] SenzacL* captured the Red Flag
+19-08-14 03:23:33 (2) [UnK] SenzacL* killed (1) VanscL with M79
+19-08-14 03:23:33 (1) |D.Forc3|Maaxis. killed (2) sT.- YnGwi3 with Combat Knife
+19-08-14 03:23:36 (2) |D.Forc3|M.* killed (1) |D.Forc3|Maaxis. with Grenade
+19-08-14 03:23:37 VanscL captured the Blue Flag
+19-08-14 03:23:46 (2) [UnK] SenzacL* killed (1) VanscL with Chainsaw
+19-08-14 03:23:46 [UnK] SenzacL* returned the Blue Flag
+19-08-14 03:23:47 |D.Forc3|Maaxis. returned the Red Flag
+19-08-14 03:23:50 |D.Forc3|M.* captured the Red Flag
+19-08-14 03:23:52 (2) [UnK] SenzacL* killed (1) |D.Forc3|Maaxis. with Grenade
+19-08-14 03:23:56 |D.Forc3|M.* scores for Bravo Team
+19-08-14 03:23:57 (2) [UnK] SenzacL* killed (1) VanscL with M79
+19-08-14 03:24:00 (1) Abelsito killed (2) |D.Forc3|M.* with M79
+19-08-14 03:24:02 (2) sT.- YnGwi3 killed (1) VanscL with Barrett M82A1
+19-08-14 03:24:03 Abelsito captured the Blue Flag
+19-08-14 03:24:03 sT.- YnGwi3 captured the Red Flag
+19-08-14 03:24:04 (1) Abelsito killed (2) [UnK] SenzacL* with Grenade
+19-08-14 03:24:07 (1) Abelsito killed (2) sT.- YnGwi3 with M79
+19-08-14 03:24:07 Abelsito returned the Red Flag
+19-08-14 03:24:09 [UnK] SenzacL* has left bravo team.
+19-08-14 03:24:11 Abelsito scores for Alpha Team
+19-08-14 03:24:12 |D.Forc3|Maaxis. has left alpha team.
+19-08-14 03:24:12 sT.- YnGwi3 has left bravo team.
+19-08-14 03:24:15 (2) |D.Forc3|M.* killed (1) VanscL with Grenade
+19-08-14 03:24:17 |D.Forc3|M.* has left bravo team.
+19-08-14 03:24:27 Abelsito captured the Blue Flag
+19-08-14 03:24:33 Abelsito scores for Alpha Team
+19-08-14 03:24:46 Abelsito captured the Blue Flag
+19-08-14 03:24:47 VanscL has left alpha team.
+19-08-14 03:24:54 Abelsito scores for Alpha Team
+19-08-14 03:25:05 Abelsito captured the Blue Flag
+19-08-14 03:25:10 Abelsito has left alpha team.
+19-08-14 03:28:20 Time Left: 5 minutes
+19-08-14 03:29:20 Time Left: 4 minutes
+19-08-14 03:30:20 Time Left: 3 minutes
+19-08-14 03:31:20 Time Left: 2 minutes
+19-08-14 03:32:20 Time Left: 1 minutes
+19-08-14 03:33:20 Can't load maps from mapslist
+19-08-14 03:33:20 Next map: ctf_Wretch
+19-08-14 03:33:26 Wretch by AdamD
+19-08-14 03:38:26 Time Left: 5 minutes
+19-08-14 03:39:26 Time Left: 4 minutes
+19-08-14 03:40:26 Time Left: 3 minutes
+19-08-14 03:41:26 Time Left: 2 minutes
+19-08-14 03:42:26 Time Left: 1 minutes
+19-08-14 03:43:26 Can't load maps from mapslist
+19-08-14 03:43:26 Next map: ctf_Wretch
+19-08-14 03:43:31 Wretch by AdamD
+19-08-14 03:48:31 Time Left: 5 minutes
+19-08-14 03:49:31 Time Left: 4 minutes
+19-08-14 03:50:31 Time Left: 3 minutes
+19-08-14 03:51:31 Time Left: 2 minutes
+19-08-14 03:52:31 Time Left: 1 minutes
+19-08-14 03:53:31 Can't load maps from mapslist
+19-08-14 03:53:31 Next map: ctf_Wretch
+19-08-14 03:53:36 Wretch by AdamD
+19-08-14 03:58:36 Time Left: 5 minutes
+19-08-14 03:59:36 Time Left: 4 minutes
+19-08-14 04:00:36 Time Left: 3 minutes
+19-08-14 04:01:36 Time Left: 2 minutes
+19-08-14 04:02:36 Time Left: 1 minutes
+19-08-14 04:03:36 Can't load maps from mapslist
+19-08-14 04:03:36 Next map: ctf_Wretch
+19-08-14 04:03:42 Wretch by AdamD
+19-08-14 04:08:42 Time Left: 5 minutes
+19-08-14 04:09:42 Time Left: 4 minutes
+19-08-14 04:10:42 Time Left: 3 minutes
+19-08-14 04:11:42 Time Left: 2 minutes
+19-08-14 04:12:42 Time Left: 1 minutes
+19-08-14 04:13:42 Can't load maps from mapslist
+19-08-14 04:13:42 Next map: ctf_Wretch
+19-08-14 04:13:47 Wretch by AdamD
+19-08-14 04:18:47 Time Left: 5 minutes
+19-08-14 04:19:47 Time Left: 4 minutes
+19-08-14 04:20:47 Time Left: 3 minutes
+19-08-14 04:21:47 Time Left: 2 minutes
+19-08-14 04:22:47 Time Left: 1 minutes
+19-08-14 04:23:47 Can't load maps from mapslist
+19-08-14 04:23:47 Next map: ctf_Wretch
+19-08-14 04:23:52 Wretch by AdamD
+19-08-14 04:28:52 Time Left: 5 minutes
+19-08-14 04:29:52 Time Left: 4 minutes
+19-08-14 04:30:52 Time Left: 3 minutes
+19-08-14 04:31:52 Time Left: 2 minutes
+19-08-14 04:32:52 Time Left: 1 minutes
+19-08-14 04:33:52 Can't load maps from mapslist
+19-08-14 04:33:52 Next map: ctf_Wretch
+19-08-14 04:33:58 Wretch by AdamD
+19-08-14 04:38:58 Time Left: 5 minutes
+19-08-14 04:39:58 Time Left: 4 minutes
+19-08-14 04:40:58 Time Left: 3 minutes
+19-08-14 04:41:58 Time Left: 2 minutes
+19-08-14 04:42:58 Time Left: 1 minutes
+19-08-14 04:43:58 Can't load maps from mapslist
+19-08-14 04:43:58 Next map: ctf_Wretch
+19-08-14 04:44:03 Wretch by AdamD
+19-08-14 04:49:03 Time Left: 5 minutes
+19-08-14 04:50:03 Time Left: 4 minutes
+19-08-14 04:51:03 Time Left: 3 minutes
+19-08-14 04:52:03 Time Left: 2 minutes
+19-08-14 04:53:03 Time Left: 1 minutes
+19-08-14 04:54:03 Can't load maps from mapslist
+19-08-14 04:54:03 Next map: ctf_Wretch
+19-08-14 04:54:08 Wretch by AdamD
+19-08-14 04:59:08 Time Left: 5 minutes
+19-08-14 05:00:08 Time Left: 4 minutes
+19-08-14 05:01:08 Time Left: 3 minutes
+19-08-14 05:02:08 Time Left: 2 minutes
+19-08-14 05:03:08 Time Left: 1 minutes
+19-08-14 05:04:08 Can't load maps from mapslist
+19-08-14 05:04:08 Next map: ctf_Wretch
+19-08-14 05:04:14 Wretch by AdamD
+19-08-14 05:09:14 Time Left: 5 minutes
+19-08-14 05:10:14 Time Left: 4 minutes
+19-08-14 05:11:14 Time Left: 3 minutes
+19-08-14 05:12:14 Time Left: 2 minutes
+19-08-14 05:13:14 Time Left: 1 minutes
+19-08-14 05:14:14 Can't load maps from mapslist
+19-08-14 05:14:14 Next map: ctf_Wretch
+19-08-14 05:14:19 Wretch by AdamD
+19-08-14 05:19:19 Time Left: 5 minutes
+19-08-14 05:20:19 Time Left: 4 minutes
+19-08-14 05:21:19 Time Left: 3 minutes
+19-08-14 05:22:19 Time Left: 2 minutes
+19-08-14 05:23:19 Time Left: 1 minutes
+19-08-14 05:24:19 Can't load maps from mapslist
+19-08-14 05:24:19 Next map: ctf_Wretch
+19-08-14 05:24:24 Wretch by AdamD
+19-08-14 05:29:24 Time Left: 5 minutes
+19-08-14 05:30:24 Time Left: 4 minutes
+19-08-14 05:31:24 Time Left: 3 minutes
+19-08-14 05:32:24 Time Left: 2 minutes
+19-08-14 05:33:24 Time Left: 1 minutes
+19-08-14 05:34:24 Can't load maps from mapslist
+19-08-14 05:34:24 Next map: ctf_Wretch
+19-08-14 05:34:30 Wretch by AdamD
+19-08-14 05:39:30 Time Left: 5 minutes
+19-08-14 05:40:30 Time Left: 4 minutes
+19-08-14 05:41:30 Time Left: 3 minutes
+19-08-14 05:42:30 Time Left: 2 minutes
+19-08-14 05:43:30 Time Left: 1 minutes
+19-08-14 05:44:30 Can't load maps from mapslist
+19-08-14 05:44:30 Next map: ctf_Wretch
+19-08-14 05:44:35 Wretch by AdamD
+19-08-14 05:49:35 Time Left: 5 minutes
+19-08-14 05:50:35 Time Left: 4 minutes
+19-08-14 05:51:35 Time Left: 3 minutes
+19-08-14 05:52:35 Time Left: 2 minutes
+19-08-14 05:53:35 Time Left: 1 minutes
+19-08-14 05:54:35 Can't load maps from mapslist
+19-08-14 05:54:35 Next map: ctf_Wretch
+19-08-14 05:54:40 Wretch by AdamD
+19-08-14 05:59:40 Time Left: 5 minutes
+19-08-14 06:00:40 Time Left: 4 minutes
+19-08-14 06:01:40 Time Left: 3 minutes
+19-08-14 06:02:40 Time Left: 2 minutes
+19-08-14 06:03:40 Time Left: 1 minutes
+19-08-14 06:04:40 Can't load maps from mapslist
+19-08-14 06:04:40 Next map: ctf_Wretch
+19-08-14 06:04:46 Wretch by AdamD
+19-08-14 06:09:46 Time Left: 5 minutes
+19-08-14 06:10:46 Time Left: 4 minutes
+19-08-14 06:11:46 Time Left: 3 minutes
+19-08-14 06:12:46 Time Left: 2 minutes
+19-08-14 06:13:46 Time Left: 1 minutes
+19-08-14 06:14:45 Can't load maps from mapslist
+19-08-14 06:14:45 Next map: ctf_Wretch
+19-08-14 06:14:51 Wretch by AdamD
+19-08-14 06:19:51 Time Left: 5 minutes
+19-08-14 06:20:51 Time Left: 4 minutes
+19-08-14 06:21:51 Time Left: 3 minutes
+19-08-14 06:22:51 Time Left: 2 minutes
+19-08-14 06:23:51 Time Left: 1 minutes
+19-08-14 06:24:51 Can't load maps from mapslist
+19-08-14 06:24:51 Next map: ctf_Wretch
+19-08-14 06:24:56 Wretch by AdamD
+19-08-14 06:29:56 Time Left: 5 minutes
+19-08-14 06:30:56 Time Left: 4 minutes
+19-08-14 06:31:56 Time Left: 3 minutes
+19-08-14 06:32:56 Time Left: 2 minutes
+19-08-14 06:33:56 Time Left: 1 minutes
+19-08-14 06:34:56 Can't load maps from mapslist
+19-08-14 06:34:56 Next map: ctf_Wretch
+19-08-14 06:35:01 Wretch by AdamD
+19-08-14 06:40:01 Time Left: 5 minutes
+19-08-14 06:41:01 Time Left: 4 minutes
+19-08-14 06:42:01 Time Left: 3 minutes
+19-08-14 06:43:01 Time Left: 2 minutes
+19-08-14 06:44:01 Time Left: 1 minutes
+19-08-14 06:45:01 Can't load maps from mapslist
+19-08-14 06:45:01 Next map: ctf_Wretch
+19-08-14 06:45:07 Wretch by AdamD
+19-08-14 06:50:07 Time Left: 5 minutes
+19-08-14 06:51:07 Time Left: 4 minutes
+19-08-14 06:52:07 Time Left: 3 minutes
+19-08-14 06:53:07 Time Left: 2 minutes
+19-08-14 06:54:07 Time Left: 1 minutes
+19-08-14 06:55:07 Can't load maps from mapslist
+19-08-14 06:55:07 Next map: ctf_Wretch
+19-08-14 06:55:12 Wretch by AdamD
+19-08-14 07:00:12 Time Left: 5 minutes
+19-08-14 07:01:12 Time Left: 4 minutes
+19-08-14 07:02:12 Time Left: 3 minutes
+19-08-14 07:03:12 Time Left: 2 minutes
+19-08-14 07:04:12 Time Left: 1 minutes
+19-08-14 07:05:12 Can't load maps from mapslist
+19-08-14 07:05:12 Next map: ctf_Wretch
+19-08-14 07:05:17 Wretch by AdamD
+19-08-14 07:10:17 Time Left: 5 minutes
+19-08-14 07:11:17 Time Left: 4 minutes
+19-08-14 07:12:17 Time Left: 3 minutes
+19-08-14 07:13:17 Time Left: 2 minutes
+19-08-14 07:14:17 Time Left: 1 minutes
+19-08-14 07:15:17 Can't load maps from mapslist
+19-08-14 07:15:17 Next map: ctf_Wretch
+19-08-14 07:15:23 Wretch by AdamD
+19-08-14 07:20:23 Time Left: 5 minutes
+19-08-14 07:21:23 Time Left: 4 minutes
+19-08-14 07:22:23 Time Left: 3 minutes
+19-08-14 07:23:23 Time Left: 2 minutes
+19-08-14 07:24:23 Time Left: 1 minutes
+19-08-14 07:25:23 Can't load maps from mapslist
+19-08-14 07:25:23 Next map: ctf_Wretch
+19-08-14 07:25:28 Wretch by AdamD
+19-08-14 07:30:28 Time Left: 5 minutes
+19-08-14 07:31:28 Time Left: 4 minutes
+19-08-14 07:32:28 Time Left: 3 minutes
+19-08-14 07:33:28 Time Left: 2 minutes
+19-08-14 07:34:28 Time Left: 1 minutes
+19-08-14 07:35:28 Can't load maps from mapslist
+19-08-14 07:35:28 Next map: ctf_Wretch
+19-08-14 07:35:33 Wretch by AdamD
+19-08-14 07:40:33 Time Left: 5 minutes
+19-08-14 07:41:33 Time Left: 4 minutes
+19-08-14 07:42:33 Time Left: 3 minutes
+19-08-14 07:43:33 Time Left: 2 minutes
+19-08-14 07:44:33 Time Left: 1 minutes
+19-08-14 07:45:33 Can't load maps from mapslist
+19-08-14 07:45:33 Next map: ctf_Wretch
+19-08-14 07:45:39 Wretch by AdamD
+19-08-14 07:50:39 Time Left: 5 minutes
+19-08-14 07:51:39 Time Left: 4 minutes
+19-08-14 07:52:39 Time Left: 3 minutes
+19-08-14 07:53:39 Time Left: 2 minutes
+19-08-14 07:54:39 Time Left: 1 minutes
+19-08-14 07:55:39 Can't load maps from mapslist
+19-08-14 07:55:39 Next map: ctf_Wretch
+19-08-14 07:55:44 Wretch by AdamD
+19-08-14 08:00:44 Time Left: 5 minutes
+19-08-14 08:01:44 Time Left: 4 minutes
+19-08-14 08:02:44 Time Left: 3 minutes
+19-08-14 08:03:44 Time Left: 2 minutes
+19-08-14 08:04:44 Time Left: 1 minutes
+19-08-14 08:05:44 Can't load maps from mapslist
+19-08-14 08:05:44 Next map: ctf_Wretch
+19-08-14 08:05:49 Wretch by AdamD
+19-08-14 08:10:49 Time Left: 5 minutes
+19-08-14 08:11:49 Time Left: 4 minutes
+19-08-14 08:12:49 Time Left: 3 minutes
+19-08-14 08:13:49 Time Left: 2 minutes
+19-08-14 08:14:49 Time Left: 1 minutes
+19-08-14 08:15:49 Can't load maps from mapslist
+19-08-14 08:15:49 Next map: ctf_Wretch
+19-08-14 08:15:55 Wretch by AdamD
+19-08-14 08:20:55 Time Left: 5 minutes
+19-08-14 08:21:55 Time Left: 4 minutes
+19-08-14 08:22:55 Time Left: 3 minutes
+19-08-14 08:23:55 Time Left: 2 minutes
+19-08-14 08:24:55 Time Left: 1 minutes
+19-08-14 08:25:55 Can't load maps from mapslist
+19-08-14 08:25:55 Next map: ctf_Wretch
+19-08-14 08:26:00 Wretch by AdamD
+19-08-14 08:31:00 Time Left: 5 minutes
+19-08-14 08:32:00 Time Left: 4 minutes
+19-08-14 08:33:00 Time Left: 3 minutes
+19-08-14 08:34:00 Time Left: 2 minutes
+19-08-14 08:35:00 Time Left: 1 minutes
+19-08-14 08:36:00 Can't load maps from mapslist
+19-08-14 08:36:00 Next map: ctf_Wretch
+19-08-14 08:36:05 Wretch by AdamD
+19-08-14 08:41:05 Time Left: 5 minutes
+19-08-14 08:42:05 Time Left: 4 minutes
+19-08-14 08:43:05 Time Left: 3 minutes
+19-08-14 08:44:05 Time Left: 2 minutes
+19-08-14 08:45:05 Time Left: 1 minutes
+19-08-14 08:46:05 Can't load maps from mapslist
+19-08-14 08:46:05 Next map: ctf_Wretch
+19-08-14 08:46:11 Wretch by AdamD
+19-08-14 08:51:11 Time Left: 5 minutes
+19-08-14 08:52:11 Time Left: 4 minutes
+19-08-14 08:53:11 Time Left: 3 minutes
+19-08-14 08:54:11 Time Left: 2 minutes
+19-08-14 08:55:11 Time Left: 1 minutes
+19-08-14 08:56:11 Can't load maps from mapslist
+19-08-14 08:56:11 Next map: ctf_Wretch
+19-08-14 08:56:16 Wretch by AdamD
+19-08-14 09:01:16 Time Left: 5 minutes
+19-08-14 09:02:16 Time Left: 4 minutes
+19-08-14 09:03:16 Time Left: 3 minutes
+19-08-14 09:04:16 Time Left: 2 minutes
+19-08-14 09:05:16 Time Left: 1 minutes
+19-08-14 09:06:16 Can't load maps from mapslist
+19-08-14 09:06:16 Next map: ctf_Wretch
+19-08-14 09:06:21 Wretch by AdamD
+19-08-14 09:11:21 Time Left: 5 minutes
+19-08-14 09:12:21 Time Left: 4 minutes
+19-08-14 09:13:21 Time Left: 3 minutes
+19-08-14 09:14:21 Time Left: 2 minutes
+19-08-14 09:15:21 Time Left: 1 minutes
+19-08-14 09:16:21 Can't load maps from mapslist
+19-08-14 09:16:21 Next map: ctf_Wretch
+19-08-14 09:16:27 Wretch by AdamD
+19-08-14 09:21:27 Time Left: 5 minutes
+19-08-14 09:22:27 Time Left: 4 minutes
+19-08-14 09:23:27 Time Left: 3 minutes
+19-08-14 09:24:27 Time Left: 2 minutes
+19-08-14 09:25:27 Time Left: 1 minutes
+19-08-14 09:26:27 Can't load maps from mapslist
+19-08-14 09:26:27 Next map: ctf_Wretch
+19-08-14 09:26:32 Wretch by AdamD
+19-08-14 09:31:32 Time Left: 5 minutes
+19-08-14 09:32:32 Time Left: 4 minutes
+19-08-14 09:33:32 Time Left: 3 minutes
+19-08-14 09:34:32 Time Left: 2 minutes
+19-08-14 09:35:32 Time Left: 1 minutes
+19-08-14 09:36:32 Can't load maps from mapslist
+19-08-14 09:36:32 Next map: ctf_Wretch
+19-08-14 09:36:37 Wretch by AdamD
+19-08-14 09:41:37 Time Left: 5 minutes
+19-08-14 09:42:37 Time Left: 4 minutes
+19-08-14 09:43:37 Time Left: 3 minutes
+19-08-14 09:44:37 Time Left: 2 minutes
+19-08-14 09:45:37 Time Left: 1 minutes
+19-08-14 09:46:37 Can't load maps from mapslist
+19-08-14 09:46:37 Next map: ctf_Wretch
+19-08-14 09:46:42 Wretch by AdamD
+19-08-14 09:51:42 Time Left: 5 minutes
+19-08-14 09:52:42 Time Left: 4 minutes
+19-08-14 09:53:42 Time Left: 3 minutes
+19-08-14 09:54:42 Time Left: 2 minutes
+19-08-14 09:55:42 Time Left: 1 minutes
+19-08-14 09:56:42 Can't load maps from mapslist
+19-08-14 09:56:42 Next map: ctf_Wretch
+19-08-14 09:56:48 Wretch by AdamD
+19-08-14 10:01:48 Time Left: 5 minutes
+19-08-14 10:02:48 Time Left: 4 minutes
+19-08-14 10:03:48 Time Left: 3 minutes
+19-08-14 10:04:48 Time Left: 2 minutes
+19-08-14 10:05:48 Time Left: 1 minutes
+19-08-14 10:06:48 Can't load maps from mapslist
+19-08-14 10:06:48 Next map: ctf_Wretch
+19-08-14 10:06:53 Wretch by AdamD
+19-08-14 10:11:53 Time Left: 5 minutes
+19-08-14 10:12:53 Time Left: 4 minutes
+19-08-14 10:13:53 Time Left: 3 minutes
+19-08-14 10:14:53 Time Left: 2 minutes
+19-08-14 10:15:53 Time Left: 1 minutes
+19-08-14 10:16:53 Can't load maps from mapslist
+19-08-14 10:16:53 Next map: ctf_Wretch
+19-08-14 10:16:58 Wretch by AdamD
+19-08-14 10:21:58 Time Left: 5 minutes
+19-08-14 10:22:58 Time Left: 4 minutes
+19-08-14 10:23:58 Time Left: 3 minutes
+19-08-14 10:24:58 Time Left: 2 minutes
+19-08-14 10:25:58 Time Left: 1 minutes
+19-08-14 10:26:58 Can't load maps from mapslist
+19-08-14 10:26:58 Next map: ctf_Wretch
+19-08-14 10:27:04 Wretch by AdamD
+19-08-14 10:32:04 Time Left: 5 minutes
+19-08-14 10:33:04 Time Left: 4 minutes
+19-08-14 10:34:04 Time Left: 3 minutes
+19-08-14 10:35:04 Time Left: 2 minutes
+19-08-14 10:36:04 Time Left: 1 minutes
+19-08-14 10:37:04 Can't load maps from mapslist
+19-08-14 10:37:04 Next map: ctf_Wretch
+19-08-14 10:37:09 Wretch by AdamD
+19-08-14 10:42:09 Time Left: 5 minutes
+19-08-14 10:43:09 Time Left: 4 minutes
+19-08-14 10:44:09 Time Left: 3 minutes
+19-08-14 10:45:09 Time Left: 2 minutes
+19-08-14 10:46:09 Time Left: 1 minutes
+19-08-14 10:47:09 Can't load maps from mapslist
+19-08-14 10:47:09 Next map: ctf_Wretch
+19-08-14 10:47:14 Wretch by AdamD
+19-08-14 10:52:14 Time Left: 5 minutes
+19-08-14 10:53:14 Time Left: 4 minutes
+19-08-14 10:54:14 Time Left: 3 minutes
+19-08-14 10:55:14 Time Left: 2 minutes
+19-08-14 10:56:14 Time Left: 1 minutes
+19-08-14 10:57:14 Can't load maps from mapslist
+19-08-14 10:57:14 Next map: ctf_Wretch
+19-08-14 10:57:20 Wretch by AdamD
+19-08-14 11:02:20 Time Left: 5 minutes
+19-08-14 11:03:20 Time Left: 4 minutes
+19-08-14 11:04:20 Time Left: 3 minutes
+19-08-14 11:05:20 Time Left: 2 minutes
+19-08-14 11:06:20 Time Left: 1 minutes
+19-08-14 11:07:20 Can't load maps from mapslist
+19-08-14 11:07:20 Next map: ctf_Wretch
+19-08-14 11:07:25 Wretch by AdamD
+19-08-14 11:12:25 Time Left: 5 minutes
+19-08-14 11:13:25 Time Left: 4 minutes
+19-08-14 11:14:25 Time Left: 3 minutes
+19-08-14 11:15:25 Time Left: 2 minutes
+19-08-14 11:16:25 Time Left: 1 minutes
+19-08-14 11:17:25 Can't load maps from mapslist
+19-08-14 11:17:25 Next map: ctf_Wretch
+19-08-14 11:17:30 Wretch by AdamD
+19-08-14 11:22:30 Time Left: 5 minutes
+19-08-14 11:23:30 Time Left: 4 minutes
+19-08-14 11:24:30 Time Left: 3 minutes
+19-08-14 11:25:30 Time Left: 2 minutes
+19-08-14 11:26:30 Time Left: 1 minutes
+19-08-14 11:27:30 Can't load maps from mapslist
+19-08-14 11:27:30 Next map: ctf_Wretch
+19-08-14 11:27:36 Wretch by AdamD
+19-08-14 11:32:36 Time Left: 5 minutes
+19-08-14 11:33:36 Time Left: 4 minutes
+19-08-14 11:34:36 Time Left: 3 minutes
+19-08-14 11:35:36 Time Left: 2 minutes
+19-08-14 11:36:36 Time Left: 1 minutes
+19-08-14 11:37:36 Can't load maps from mapslist
+19-08-14 11:37:36 Next map: ctf_Wretch
+19-08-14 11:37:41 Wretch by AdamD
+19-08-14 11:42:41 Time Left: 5 minutes
+19-08-14 11:43:41 Time Left: 4 minutes
+19-08-14 11:44:41 Time Left: 3 minutes
+19-08-14 11:45:41 Time Left: 2 minutes
+19-08-14 11:46:41 Time Left: 1 minutes
+19-08-14 11:47:41 Can't load maps from mapslist
+19-08-14 11:47:41 Next map: ctf_Wretch
+19-08-14 11:47:46 Wretch by AdamD
+19-08-14 11:52:46 Time Left: 5 minutes
+19-08-14 11:53:46 Time Left: 4 minutes
+19-08-14 11:54:46 Time Left: 3 minutes
+19-08-14 11:55:46 Time Left: 2 minutes
+19-08-14 11:56:46 Time Left: 1 minutes
+19-08-14 11:57:46 Can't load maps from mapslist
+19-08-14 11:57:46 Next map: ctf_Wretch
+19-08-14 11:57:52 Wretch by AdamD
+19-08-14 12:02:52 Time Left: 5 minutes
+19-08-14 12:03:52 Time Left: 4 minutes
+19-08-14 12:04:52 Time Left: 3 minutes
+19-08-14 12:05:52 Time Left: 2 minutes
+19-08-14 12:06:52 Time Left: 1 minutes
+19-08-14 12:07:52 Can't load maps from mapslist
+19-08-14 12:07:52 Next map: ctf_Wretch
+19-08-14 12:07:57 Wretch by AdamD
+19-08-14 12:12:57 Time Left: 5 minutes
+19-08-14 12:13:57 Time Left: 4 minutes
+19-08-14 12:14:57 Time Left: 3 minutes
+19-08-14 12:15:57 Time Left: 2 minutes
+19-08-14 12:16:57 Time Left: 1 minutes
+19-08-14 12:17:57 Can't load maps from mapslist
+19-08-14 12:17:57 Next map: ctf_Wretch
+19-08-14 12:18:02 Wretch by AdamD
+19-08-14 12:23:02 Time Left: 5 minutes
+19-08-14 12:24:02 Time Left: 4 minutes
+19-08-14 12:25:02 Time Left: 3 minutes
+19-08-14 12:26:02 Time Left: 2 minutes
+19-08-14 12:27:02 Time Left: 1 minutes
+19-08-14 12:28:02 Can't load maps from mapslist
+19-08-14 12:28:02 Next map: ctf_Wretch
+19-08-14 12:28:08 Wretch by AdamD
+19-08-14 12:33:08 Time Left: 5 minutes
+19-08-14 12:34:08 Time Left: 4 minutes
+19-08-14 12:35:08 Time Left: 3 minutes
+19-08-14 12:36:08 Time Left: 2 minutes
+19-08-14 12:37:08 Time Left: 1 minutes
+19-08-14 12:38:08 Can't load maps from mapslist
+19-08-14 12:38:08 Next map: ctf_Wretch
+19-08-14 12:38:13 Wretch by AdamD
+19-08-14 12:43:13 Time Left: 5 minutes
+19-08-14 12:44:13 Time Left: 4 minutes
+19-08-14 12:45:13 Time Left: 3 minutes
+19-08-14 12:46:13 Time Left: 2 minutes
+19-08-14 12:47:13 Time Left: 1 minutes
+19-08-14 12:48:13 Can't load maps from mapslist
+19-08-14 12:48:13 Next map: ctf_Wretch
+19-08-14 12:48:18 Wretch by AdamD
+19-08-14 12:53:18 Time Left: 5 minutes
+19-08-14 12:54:18 Time Left: 4 minutes
+19-08-14 12:55:18 Time Left: 3 minutes
+19-08-14 12:56:18 Time Left: 2 minutes
+19-08-14 12:57:18 Time Left: 1 minutes
+19-08-14 12:58:18 Can't load maps from mapslist
+19-08-14 12:58:18 Next map: ctf_Wretch
+19-08-14 12:58:24 Wretch by AdamD
+19-08-14 13:03:23 Time Left: 5 minutes
+19-08-14 13:04:23 Time Left: 4 minutes
+19-08-14 13:05:23 Time Left: 3 minutes
+19-08-14 13:06:23 Time Left: 2 minutes
+19-08-14 13:07:23 Time Left: 1 minutes
+19-08-14 13:08:23 Can't load maps from mapslist
+19-08-14 13:08:23 Next map: ctf_Wretch
+19-08-14 13:08:29 Wretch by AdamD
+19-08-14 13:13:29 Time Left: 5 minutes
+19-08-14 13:14:29 Time Left: 4 minutes
+19-08-14 13:15:29 Time Left: 3 minutes
+19-08-14 13:16:29 Time Left: 2 minutes
+19-08-14 13:17:29 Time Left: 1 minutes
+19-08-14 13:18:29 Can't load maps from mapslist
+19-08-14 13:18:29 Next map: ctf_Wretch
+19-08-14 13:18:34 Wretch by AdamD
+19-08-14 13:23:34 Time Left: 5 minutes
+19-08-14 13:24:34 Time Left: 4 minutes
+19-08-14 13:25:34 Time Left: 3 minutes
+19-08-14 13:26:34 Time Left: 2 minutes
+19-08-14 13:27:34 Time Left: 1 minutes
+19-08-14 13:28:34 Can't load maps from mapslist
+19-08-14 13:28:34 Next map: ctf_Wretch
+19-08-14 13:28:39 Wretch by AdamD
+19-08-14 13:33:39 Time Left: 5 minutes
+19-08-14 13:34:39 Time Left: 4 minutes
+19-08-14 13:35:39 Time Left: 3 minutes
+19-08-14 13:36:39 Time Left: 2 minutes
+19-08-14 13:37:39 Time Left: 1 minutes
+19-08-14 13:38:39 Can't load maps from mapslist
+19-08-14 13:38:39 Next map: ctf_Wretch
+19-08-14 13:38:45 Wretch by AdamD
+19-08-14 13:43:45 Time Left: 5 minutes
+19-08-14 13:44:45 Time Left: 4 minutes
+19-08-14 13:45:45 Time Left: 3 minutes
+19-08-14 13:46:45 Time Left: 2 minutes
+19-08-14 13:47:45 Time Left: 1 minutes
+19-08-14 13:48:45 Can't load maps from mapslist
+19-08-14 13:48:45 Next map: ctf_Wretch
+19-08-14 13:48:50 Wretch by AdamD
+19-08-14 13:53:50 Time Left: 5 minutes
+19-08-14 13:54:50 Time Left: 4 minutes
+19-08-14 13:55:50 Time Left: 3 minutes
+19-08-14 13:56:50 Time Left: 2 minutes
+19-08-14 13:57:50 Time Left: 1 minutes
+19-08-14 13:58:50 Can't load maps from mapslist
+19-08-14 13:58:50 Next map: ctf_Wretch
+19-08-14 13:58:55 Wretch by AdamD
+19-08-14 14:03:55 Time Left: 5 minutes
+19-08-14 14:04:55 Time Left: 4 minutes
+19-08-14 14:05:55 Time Left: 3 minutes
+19-08-14 14:06:55 Time Left: 2 minutes
+19-08-14 14:06:57 188.163.98.68:14617|7253163CA4A requesting game...
+19-08-14 14:07:00 188.163.98.68:14617|7253163CA4A requesting game...
+19-08-14 14:07:02 188.163.98.68:14617|7253163CA4A requesting game...
+19-08-14 14:07:03 188.163.98.68:14617|7253163CA4A requesting game...
+19-08-14 14:07:55 Time Left: 1 minutes
+19-08-14 14:08:55 Can't load maps from mapslist
+19-08-14 14:08:55 Next map: ctf_Wretch
+19-08-14 14:09:01 Wretch by AdamD
+19-08-14 14:14:01 Time Left: 5 minutes
+19-08-14 14:15:01 Time Left: 4 minutes
+19-08-14 14:16:01 Time Left: 3 minutes
+19-08-14 14:17:01 Time Left: 2 minutes
+19-08-14 14:18:01 Time Left: 1 minutes
+19-08-14 14:19:01 Can't load maps from mapslist
+19-08-14 14:19:01 Next map: ctf_Wretch
+19-08-14 14:19:06 Wretch by AdamD
+19-08-14 14:24:06 Time Left: 5 minutes
+19-08-14 14:25:06 Time Left: 4 minutes
+19-08-14 14:26:06 Time Left: 3 minutes
+19-08-14 14:27:06 Time Left: 2 minutes
+19-08-14 14:28:06 Time Left: 1 minutes
+19-08-14 14:29:06 Can't load maps from mapslist
+19-08-14 14:29:06 Next map: ctf_Wretch
+19-08-14 14:29:11 Wretch by AdamD
+19-08-14 14:34:11 Time Left: 5 minutes
+19-08-14 14:35:11 Time Left: 4 minutes
+19-08-14 14:36:11 Time Left: 3 minutes
+19-08-14 14:37:11 Time Left: 2 minutes
+19-08-14 14:38:11 Time Left: 1 minutes
+19-08-14 14:39:11 Can't load maps from mapslist
+19-08-14 14:39:11 Next map: ctf_Wretch
+19-08-14 14:39:17 Wretch by AdamD
+19-08-14 14:44:17 Time Left: 5 minutes
+19-08-14 14:45:17 Time Left: 4 minutes
+19-08-14 14:46:17 Time Left: 3 minutes
+19-08-14 14:47:17 Time Left: 2 minutes
+19-08-14 14:48:17 Time Left: 1 minutes
+19-08-14 14:49:17 Can't load maps from mapslist
+19-08-14 14:49:17 Next map: ctf_Wretch
+19-08-14 14:49:22 Wretch by AdamD
+19-08-14 14:54:22 Time Left: 5 minutes
+19-08-14 14:55:22 Time Left: 4 minutes
+19-08-14 14:56:22 Time Left: 3 minutes
+19-08-14 14:57:22 Time Left: 2 minutes
+19-08-14 14:58:22 Time Left: 1 minutes
+19-08-14 14:59:22 Can't load maps from mapslist
+19-08-14 14:59:22 Next map: ctf_Wretch
+19-08-14 14:59:27 Wretch by AdamD
+19-08-14 15:04:27 Time Left: 5 minutes
+19-08-14 15:05:27 Time Left: 4 minutes
+19-08-14 15:06:27 Time Left: 3 minutes
+19-08-14 15:07:27 Time Left: 2 minutes
+19-08-14 15:08:27 Time Left: 1 minutes
+19-08-14 15:09:27 Can't load maps from mapslist
+19-08-14 15:09:27 Next map: ctf_Wretch
+19-08-14 15:09:33 Wretch by AdamD
+19-08-14 15:14:33 Time Left: 5 minutes
+19-08-14 15:15:33 Time Left: 4 minutes
+19-08-14 15:16:33 Time Left: 3 minutes
+19-08-14 15:17:33 Time Left: 2 minutes
+19-08-14 15:18:33 Time Left: 1 minutes
+19-08-14 15:19:33 Can't load maps from mapslist
+19-08-14 15:19:33 Next map: ctf_Wretch
+19-08-14 15:19:38 Wretch by AdamD
+19-08-14 15:24:38 Time Left: 5 minutes
+19-08-14 15:25:38 Time Left: 4 minutes
+19-08-14 15:26:26 191.189.20.210:7417|61F374EC18C requesting game...
+19-08-14 15:26:38 Time Left: 3 minutes
+19-08-14 15:27:38 Time Left: 2 minutes
+19-08-14 15:28:38 Time Left: 1 minutes
+19-08-14 15:29:38 Can't load maps from mapslist
+19-08-14 15:29:38 Next map: ctf_Wretch
+19-08-14 15:29:43 Wretch by AdamD
+19-08-14 15:34:43 Time Left: 5 minutes
+19-08-14 15:35:43 Time Left: 4 minutes
+19-08-14 15:36:43 Time Left: 3 minutes
+19-08-14 15:37:43 Time Left: 2 minutes
+19-08-14 15:38:43 Time Left: 1 minutes
+19-08-14 15:39:43 Can't load maps from mapslist
+19-08-14 15:39:43 Next map: ctf_Wretch
+19-08-14 15:39:49 Wretch by AdamD
+19-08-14 15:44:49 Time Left: 5 minutes
+19-08-14 15:45:49 Time Left: 4 minutes
+19-08-14 15:46:49 Time Left: 3 minutes
+19-08-14 15:47:49 Time Left: 2 minutes
+19-08-14 15:48:49 Time Left: 1 minutes
+19-08-14 15:49:49 Can't load maps from mapslist
+19-08-14 15:49:49 Next map: ctf_Wretch
+19-08-14 15:49:54 Wretch by AdamD
+19-08-14 15:54:54 Time Left: 5 minutes
+19-08-14 15:55:54 Time Left: 4 minutes
+19-08-14 15:56:54 Time Left: 3 minutes
+19-08-14 15:57:54 Time Left: 2 minutes
+19-08-14 15:58:54 Time Left: 1 minutes
+19-08-14 15:59:54 Can't load maps from mapslist
+19-08-14 15:59:54 Next map: ctf_Wretch
+19-08-14 15:59:59 Wretch by AdamD
+19-08-14 16:04:59 Time Left: 5 minutes
+19-08-14 16:05:59 Time Left: 4 minutes
+19-08-14 16:06:59 Time Left: 3 minutes
+19-08-14 16:07:59 Time Left: 2 minutes
+19-08-14 16:08:59 Time Left: 1 minutes
+19-08-14 16:09:59 Can't load maps from mapslist
+19-08-14 16:09:59 Next map: ctf_Wretch
+19-08-14 16:10:05 Wretch by AdamD
+19-08-14 16:15:05 Time Left: 5 minutes
+19-08-14 16:16:05 Time Left: 4 minutes
+19-08-14 16:17:05 Time Left: 3 minutes
+19-08-14 16:18:05 Time Left: 2 minutes
+19-08-14 16:19:05 Time Left: 1 minutes
+19-08-14 16:20:04 Can't load maps from mapslist
+19-08-14 16:20:04 Next map: ctf_Wretch
+19-08-14 16:20:10 Wretch by AdamD
+19-08-14 16:25:10 Time Left: 5 minutes
+19-08-14 16:26:10 Time Left: 4 minutes
+19-08-14 16:27:10 Time Left: 3 minutes
+19-08-14 16:28:10 Time Left: 2 minutes
+19-08-14 16:29:10 Time Left: 1 minutes
+19-08-14 16:30:10 Can't load maps from mapslist
+19-08-14 16:30:10 Next map: ctf_Wretch
+19-08-14 16:30:15 Wretch by AdamD
+19-08-14 16:35:15 Time Left: 5 minutes
+19-08-14 16:36:15 Time Left: 4 minutes
+19-08-14 16:37:15 Time Left: 3 minutes
+19-08-14 16:38:15 Time Left: 2 minutes
+19-08-14 16:39:15 Time Left: 1 minutes
+19-08-14 16:40:15 Can't load maps from mapslist
+19-08-14 16:40:15 Next map: ctf_Wretch
+19-08-14 16:40:20 Wretch by AdamD
+19-08-14 16:45:20 Time Left: 5 minutes
+19-08-14 16:46:20 Time Left: 4 minutes
+19-08-14 16:47:20 Time Left: 3 minutes
+19-08-14 16:48:20 Time Left: 2 minutes
+19-08-14 16:49:20 Time Left: 1 minutes
+19-08-14 16:50:20 Can't load maps from mapslist
+19-08-14 16:50:20 Next map: ctf_Wretch
+19-08-14 16:50:26 Wretch by AdamD
+19-08-14 16:55:26 Time Left: 5 minutes
+19-08-14 16:56:26 Time Left: 4 minutes
+19-08-14 16:57:26 Time Left: 3 minutes
+19-08-14 16:58:26 Time Left: 2 minutes
+19-08-14 16:59:26 Time Left: 1 minutes
+19-08-14 17:00:26 Can't load maps from mapslist
+19-08-14 17:00:26 Next map: ctf_Wretch
+19-08-14 17:00:31 Wretch by AdamD
+19-08-14 17:05:31 Time Left: 5 minutes
+19-08-14 17:06:31 Time Left: 4 minutes
+19-08-14 17:07:31 Time Left: 3 minutes
+19-08-14 17:08:31 Time Left: 2 minutes
+19-08-14 17:09:31 Time Left: 1 minutes
+19-08-14 17:10:31 Can't load maps from mapslist
+19-08-14 17:10:31 Next map: ctf_Wretch
+19-08-14 17:10:36 Wretch by AdamD
+19-08-14 17:15:36 Time Left: 5 minutes
+19-08-14 17:16:36 Time Left: 4 minutes
+19-08-14 17:17:36 Time Left: 3 minutes
+19-08-14 17:18:36 Time Left: 2 minutes
+19-08-14 17:19:36 Time Left: 1 minutes
+19-08-14 17:20:36 Can't load maps from mapslist
+19-08-14 17:20:36 Next map: ctf_Wretch
+19-08-14 17:20:42 Wretch by AdamD
+19-08-14 17:25:42 Time Left: 5 minutes
+19-08-14 17:26:42 Time Left: 4 minutes
+19-08-14 17:27:42 Time Left: 3 minutes
+19-08-14 17:28:42 Time Left: 2 minutes
+19-08-14 17:29:42 Time Left: 1 minutes
+19-08-14 17:30:42 Can't load maps from mapslist
+19-08-14 17:30:42 Next map: ctf_Wretch
+19-08-14 17:30:47 Wretch by AdamD
+19-08-14 17:35:47 Time Left: 5 minutes
+19-08-14 17:36:47 Time Left: 4 minutes
+19-08-14 17:37:47 Time Left: 3 minutes
+19-08-14 17:38:47 Time Left: 2 minutes
+19-08-14 17:39:47 Time Left: 1 minutes
+19-08-14 17:40:47 Can't load maps from mapslist
+19-08-14 17:40:47 Next map: ctf_Wretch
+19-08-14 17:40:52 Wretch by AdamD
+19-08-14 17:45:52 Time Left: 5 minutes
+19-08-14 17:46:52 Time Left: 4 minutes
+19-08-14 17:47:52 Time Left: 3 minutes
+19-08-14 17:48:52 Time Left: 2 minutes
+19-08-14 17:49:52 Time Left: 1 minutes
+19-08-14 17:50:52 Can't load maps from mapslist
+19-08-14 17:50:52 Next map: ctf_Wretch
+19-08-14 17:50:58 Wretch by AdamD
+19-08-14 17:55:58 Time Left: 5 minutes
+19-08-14 17:56:58 Time Left: 4 minutes
+19-08-14 17:57:58 Time Left: 3 minutes
+19-08-14 17:58:58 Time Left: 2 minutes
+19-08-14 17:59:58 Time Left: 1 minutes
+19-08-14 18:00:58 Can't load maps from mapslist
+19-08-14 18:00:58 Next map: ctf_Wretch
+19-08-14 18:01:03 Wretch by AdamD
+19-08-14 18:06:03 Time Left: 5 minutes
+19-08-14 18:07:03 Time Left: 4 minutes
+19-08-14 18:08:03 Time Left: 3 minutes
+19-08-14 18:09:03 Time Left: 2 minutes
+19-08-14 18:10:03 Time Left: 1 minutes
+19-08-14 18:11:03 Can't load maps from mapslist
+19-08-14 18:11:03 Next map: ctf_Wretch
+19-08-14 18:11:08 Wretch by AdamD
+19-08-14 18:16:08 Time Left: 5 minutes
+19-08-14 18:17:08 Time Left: 4 minutes
+19-08-14 18:18:08 Time Left: 3 minutes
+19-08-14 18:19:08 Time Left: 2 minutes
+19-08-14 18:20:08 Time Left: 1 minutes
+19-08-14 18:21:08 Can't load maps from mapslist
+19-08-14 18:21:08 Next map: ctf_Wretch
+19-08-14 18:21:14 Wretch by AdamD
+19-08-14 18:26:14 Time Left: 5 minutes
+19-08-14 18:27:14 Time Left: 4 minutes
+19-08-14 18:28:14 Time Left: 3 minutes
+19-08-14 18:29:14 Time Left: 2 minutes
+19-08-14 18:30:14 Time Left: 1 minutes
+19-08-14 18:31:14 Can't load maps from mapslist
+19-08-14 18:31:14 Next map: ctf_Wretch
+19-08-14 18:31:19 Wretch by AdamD
+19-08-14 18:36:19 Time Left: 5 minutes
+19-08-14 18:37:19 Time Left: 4 minutes
+19-08-14 18:38:19 Time Left: 3 minutes
+19-08-14 18:39:19 Time Left: 2 minutes
+19-08-14 18:40:19 Time Left: 1 minutes
+19-08-14 18:41:19 Can't load maps from mapslist
+19-08-14 18:41:19 Next map: ctf_Wretch
+19-08-14 18:41:24 Wretch by AdamD
+19-08-14 18:46:24 Time Left: 5 minutes
+19-08-14 18:47:24 Time Left: 4 minutes
+19-08-14 18:48:24 Time Left: 3 minutes
+19-08-14 18:49:24 Time Left: 2 minutes
+19-08-14 18:50:24 Time Left: 1 minutes
+19-08-14 18:51:24 Can't load maps from mapslist
+19-08-14 18:51:24 Next map: ctf_Wretch
+19-08-14 18:51:30 Wretch by AdamD
+19-08-14 18:56:30 Time Left: 5 minutes
+19-08-14 18:57:30 Time Left: 4 minutes
+19-08-14 18:58:30 Time Left: 3 minutes
+19-08-14 18:59:30 Time Left: 2 minutes
+19-08-14 19:00:30 Time Left: 1 minutes
+19-08-14 19:01:30 Can't load maps from mapslist
+19-08-14 19:01:30 Next map: ctf_Wretch
+19-08-14 19:01:35 Wretch by AdamD
+19-08-14 19:06:35 Time Left: 5 minutes
+19-08-14 19:07:35 Time Left: 4 minutes
+19-08-14 19:08:35 Time Left: 3 minutes
+19-08-14 19:09:35 Time Left: 2 minutes
+19-08-14 19:10:35 Time Left: 1 minutes
+19-08-14 19:11:35 Can't load maps from mapslist
+19-08-14 19:11:35 Next map: ctf_Wretch
+19-08-14 19:11:40 Wretch by AdamD
+19-08-14 19:16:40 Time Left: 5 minutes
+19-08-14 19:17:40 Time Left: 4 minutes
+19-08-14 19:18:40 Time Left: 3 minutes
+19-08-14 19:19:40 Time Left: 2 minutes
+19-08-14 19:20:40 Time Left: 1 minutes
+19-08-14 19:21:40 Can't load maps from mapslist
+19-08-14 19:21:40 Next map: ctf_Wretch
+19-08-14 19:21:46 Wretch by AdamD
+19-08-14 19:26:46 Time Left: 5 minutes
+19-08-14 19:27:46 Time Left: 4 minutes
+19-08-14 19:28:46 Time Left: 3 minutes
+19-08-14 19:29:46 Time Left: 2 minutes
+19-08-14 19:30:46 Time Left: 1 minutes
+19-08-14 19:31:46 Can't load maps from mapslist
+19-08-14 19:31:46 Next map: ctf_Wretch
+19-08-14 19:31:51 Wretch by AdamD
+19-08-14 19:36:51 Time Left: 5 minutes
+19-08-14 19:37:51 Time Left: 4 minutes
+19-08-14 19:38:51 Time Left: 3 minutes
+19-08-14 19:39:51 Time Left: 2 minutes
+19-08-14 19:40:51 Time Left: 1 minutes
+19-08-14 19:41:51 Can't load maps from mapslist
+19-08-14 19:41:51 Next map: ctf_Wretch
+19-08-14 19:41:56 Wretch by AdamD
+19-08-14 19:46:56 Time Left: 5 minutes
+19-08-14 19:47:56 Time Left: 4 minutes
+19-08-14 19:48:56 Time Left: 3 minutes
+19-08-14 19:49:56 Time Left: 2 minutes
+19-08-14 19:50:56 Time Left: 1 minutes
+19-08-14 19:51:56 Can't load maps from mapslist
+19-08-14 19:51:56 Next map: ctf_Wretch
+19-08-14 19:52:01 Wretch by AdamD
+19-08-14 19:57:01 Time Left: 5 minutes
+19-08-14 19:58:01 Time Left: 4 minutes
+19-08-14 19:59:01 Time Left: 3 minutes
+19-08-14 20:00:01 Time Left: 2 minutes
+19-08-14 20:01:01 Time Left: 1 minutes
+19-08-14 20:02:01 Can't load maps from mapslist
+19-08-14 20:02:01 Next map: ctf_Wretch
+19-08-14 20:02:07 Wretch by AdamD
+19-08-14 20:07:07 Time Left: 5 minutes
+19-08-14 20:08:07 Time Left: 4 minutes
+19-08-14 20:09:07 Time Left: 3 minutes
+19-08-14 20:10:07 Time Left: 2 minutes
+19-08-14 20:11:07 Time Left: 1 minutes
+19-08-14 20:12:07 Can't load maps from mapslist
+19-08-14 20:12:07 Next map: ctf_Wretch
+19-08-14 20:12:12 Wretch by AdamD
+19-08-14 20:17:12 Time Left: 5 minutes
+19-08-14 20:18:12 Time Left: 4 minutes
+19-08-14 20:19:12 Time Left: 3 minutes
+19-08-14 20:20:12 Time Left: 2 minutes
+19-08-14 20:21:12 Time Left: 1 minutes
+19-08-14 20:22:12 Can't load maps from mapslist
+19-08-14 20:22:12 Next map: ctf_Wretch
+19-08-14 20:22:17 Wretch by AdamD
+19-08-14 20:27:17 Time Left: 5 minutes
+19-08-14 20:28:17 Time Left: 4 minutes
+19-08-14 20:29:17 Time Left: 3 minutes
+19-08-14 20:30:17 Time Left: 2 minutes
+19-08-14 20:31:17 Time Left: 1 minutes
+19-08-14 20:32:17 Can't load maps from mapslist
+19-08-14 20:32:17 Next map: ctf_Wretch
+19-08-14 20:32:23 Wretch by AdamD
+19-08-14 20:37:23 Time Left: 5 minutes
+19-08-14 20:38:23 Time Left: 4 minutes
+19-08-14 20:39:23 Time Left: 3 minutes
+19-08-14 20:40:23 Time Left: 2 minutes
+19-08-14 20:41:23 Time Left: 1 minutes
+19-08-14 20:42:23 Can't load maps from mapslist
+19-08-14 20:42:23 Next map: ctf_Wretch
+19-08-14 20:42:28 Wretch by AdamD
+19-08-14 20:47:28 Time Left: 5 minutes
+19-08-14 20:48:28 Time Left: 4 minutes
+19-08-14 20:49:28 Time Left: 3 minutes
+19-08-14 20:50:28 Time Left: 2 minutes
+19-08-14 20:51:28 Time Left: 1 minutes
+19-08-14 20:52:28 Can't load maps from mapslist
+19-08-14 20:52:28 Next map: ctf_Wretch
+19-08-14 20:52:33 Wretch by AdamD
+19-08-14 20:57:33 Time Left: 5 minutes
+19-08-14 20:58:33 Time Left: 4 minutes
+19-08-14 20:59:33 Time Left: 3 minutes
+19-08-14 21:00:33 Time Left: 2 minutes
+19-08-14 21:01:33 Time Left: 1 minutes
+19-08-14 21:02:33 Can't load maps from mapslist
+19-08-14 21:02:33 Next map: ctf_Wretch
+19-08-14 21:02:39 Wretch by AdamD
+19-08-14 21:07:39 Time Left: 5 minutes
+19-08-14 21:08:39 Time Left: 4 minutes
+19-08-14 21:09:39 Time Left: 3 minutes
+19-08-14 21:10:39 Time Left: 2 minutes
+19-08-14 21:11:39 Time Left: 1 minutes
+19-08-14 21:12:39 Can't load maps from mapslist
+19-08-14 21:12:39 Next map: ctf_Wretch
+19-08-14 21:12:44 Wretch by AdamD
+19-08-14 21:17:44 Time Left: 5 minutes
+19-08-14 21:18:44 Time Left: 4 minutes
+19-08-14 21:19:44 Time Left: 3 minutes
+19-08-14 21:20:44 Time Left: 2 minutes
+19-08-14 21:21:44 Time Left: 1 minutes
+19-08-14 21:22:44 Can't load maps from mapslist
+19-08-14 21:22:44 Next map: ctf_Wretch
+19-08-14 21:22:49 Wretch by AdamD
+19-08-14 21:27:49 Time Left: 5 minutes
+19-08-14 21:28:49 Time Left: 4 minutes
+19-08-14 21:29:49 Time Left: 3 minutes
+19-08-14 21:30:49 Time Left: 2 minutes
+19-08-14 21:31:49 Time Left: 1 minutes
+19-08-14 21:32:49 Can't load maps from mapslist
+19-08-14 21:32:49 Next map: ctf_Wretch
+19-08-14 21:32:55 Wretch by AdamD
+19-08-14 21:37:55 Time Left: 5 minutes
+19-08-14 21:38:55 Time Left: 4 minutes
+19-08-14 21:39:55 Time Left: 3 minutes
+19-08-14 21:40:55 Time Left: 2 minutes
+19-08-14 21:41:55 Time Left: 1 minutes
+19-08-14 21:42:55 Can't load maps from mapslist
+19-08-14 21:42:55 Next map: ctf_Wretch
+19-08-14 21:43:00 Wretch by AdamD
+19-08-14 21:48:00 Time Left: 5 minutes
+19-08-14 21:49:00 Time Left: 4 minutes
+19-08-14 21:50:00 Time Left: 3 minutes
+19-08-14 21:51:00 Time Left: 2 minutes
+19-08-14 21:52:00 Time Left: 1 minutes
+19-08-14 21:53:00 Can't load maps from mapslist
+19-08-14 21:53:00 Next map: ctf_Wretch
+19-08-14 21:53:05 Wretch by AdamD
+19-08-14 21:58:05 Time Left: 5 minutes
+19-08-14 21:59:05 Time Left: 4 minutes
+19-08-14 22:00:05 Time Left: 3 minutes
+19-08-14 22:01:05 Time Left: 2 minutes
+19-08-14 22:02:05 Time Left: 1 minutes
+19-08-14 22:03:05 Can't load maps from mapslist
+19-08-14 22:03:05 Next map: ctf_Wretch
+19-08-14 22:03:11 Wretch by AdamD
+19-08-14 22:08:11 Time Left: 5 minutes
+19-08-14 22:09:11 Time Left: 4 minutes
+19-08-14 22:10:11 Time Left: 3 minutes
+19-08-14 22:11:11 Time Left: 2 minutes
+19-08-14 22:12:11 Time Left: 1 minutes
+19-08-14 22:13:11 Can't load maps from mapslist
+19-08-14 22:13:11 Next map: ctf_Wretch
+19-08-14 22:13:16 Wretch by AdamD
+19-08-14 22:18:16 Time Left: 5 minutes
+19-08-14 22:19:16 Time Left: 4 minutes
+19-08-14 22:20:16 Time Left: 3 minutes
+19-08-14 22:21:16 Time Left: 2 minutes
+19-08-14 22:22:16 Time Left: 1 minutes
+19-08-14 22:23:16 Can't load maps from mapslist
+19-08-14 22:23:16 Next map: ctf_Wretch
+19-08-14 22:23:21 Wretch by AdamD
+19-08-14 22:28:21 Time Left: 5 minutes
+19-08-14 22:29:21 Time Left: 4 minutes
+19-08-14 22:30:21 Time Left: 3 minutes
+19-08-14 22:31:21 Time Left: 2 minutes
+19-08-14 22:32:21 Time Left: 1 minutes
+19-08-14 22:33:21 Can't load maps from mapslist
+19-08-14 22:33:21 Next map: ctf_Wretch
+19-08-14 22:33:27 Wretch by AdamD
+19-08-14 22:38:27 Time Left: 5 minutes
+19-08-14 22:39:27 Time Left: 4 minutes
+19-08-14 22:40:27 Time Left: 3 minutes
+19-08-14 22:41:27 Time Left: 2 minutes
+19-08-14 22:42:27 Time Left: 1 minutes
+19-08-14 22:43:27 Can't load maps from mapslist
+19-08-14 22:43:27 Next map: ctf_Wretch
+19-08-14 22:43:32 Wretch by AdamD
+19-08-14 22:48:32 Time Left: 5 minutes
+19-08-14 22:49:32 Time Left: 4 minutes
+19-08-14 22:50:32 Time Left: 3 minutes
+19-08-14 22:51:32 Time Left: 2 minutes
+19-08-14 22:52:32 Time Left: 1 minutes
+19-08-14 22:53:32 Can't load maps from mapslist
+19-08-14 22:53:32 Next map: ctf_Wretch
+19-08-14 22:53:37 Wretch by AdamD
+19-08-14 22:58:37 Time Left: 5 minutes
+19-08-14 22:59:37 Time Left: 4 minutes
+19-08-14 23:00:37 Time Left: 3 minutes
+19-08-14 23:01:37 Time Left: 2 minutes
+19-08-14 23:02:37 Time Left: 1 minutes
+19-08-14 23:03:37 Can't load maps from mapslist
+19-08-14 23:03:37 Next map: ctf_Wretch
+19-08-14 23:03:43 Wretch by AdamD
+19-08-14 23:08:42 Time Left: 5 minutes
+19-08-14 23:09:42 Time Left: 4 minutes
+19-08-14 23:10:42 Time Left: 3 minutes
+19-08-14 23:11:42 Time Left: 2 minutes
+19-08-14 23:12:42 Time Left: 1 minutes
+19-08-14 23:13:42 Can't load maps from mapslist
+19-08-14 23:13:42 Next map: ctf_Wretch
+19-08-14 23:13:48 Wretch by AdamD
+19-08-14 23:18:48 Time Left: 5 minutes
+19-08-14 23:19:48 Time Left: 4 minutes
+19-08-14 23:20:48 Time Left: 3 minutes
+19-08-14 23:21:48 Time Left: 2 minutes
+19-08-14 23:22:48 Time Left: 1 minutes
+19-08-14 23:23:48 Can't load maps from mapslist
+19-08-14 23:23:48 Next map: ctf_Wretch
+19-08-14 23:23:53 Wretch by AdamD
+19-08-14 23:28:53 Time Left: 5 minutes
+19-08-14 23:29:53 Time Left: 4 minutes
+19-08-14 23:30:53 Time Left: 3 minutes
+19-08-14 23:31:53 Time Left: 2 minutes
+19-08-14 23:32:53 Time Left: 1 minutes
+19-08-14 23:33:53 Can't load maps from mapslist
+19-08-14 23:33:53 Next map: ctf_Wretch
+19-08-14 23:33:58 Wretch by AdamD
+19-08-14 23:38:58 Time Left: 5 minutes
+19-08-14 23:39:58 Time Left: 4 minutes
+19-08-14 23:40:58 Time Left: 3 minutes
+19-08-14 23:41:58 Time Left: 2 minutes
+19-08-14 23:42:58 Time Left: 1 minutes
+19-08-14 23:43:58 Can't load maps from mapslist
+19-08-14 23:43:58 Next map: ctf_Wretch
+19-08-14 23:44:04 Wretch by AdamD
+19-08-14 23:49:04 Time Left: 5 minutes
+19-08-14 23:50:04 Time Left: 4 minutes
+19-08-14 23:51:04 Time Left: 3 minutes
+19-08-14 23:52:04 Time Left: 2 minutes
+19-08-14 23:53:04 Time Left: 1 minutes
+19-08-14 23:54:04 Can't load maps from mapslist
+19-08-14 23:54:04 Next map: ctf_Wretch
+19-08-14 23:54:09 Wretch by AdamD
+19-08-14 23:59:09 Time Left: 5 minutes
+19-08-15 00:00:09 Time Left: 4 minutes
+19-08-15 00:01:09 Time Left: 3 minutes
+19-08-15 00:02:09 Time Left: 2 minutes
+19-08-15 00:03:09 Time Left: 1 minutes
+19-08-15 00:04:09 Can't load maps from mapslist
+19-08-15 00:04:09 Next map: ctf_Wretch
+19-08-15 00:04:14 Wretch by AdamD
+19-08-15 00:09:14 Time Left: 5 minutes
+19-08-15 00:10:14 Time Left: 4 minutes
+19-08-15 00:11:14 Time Left: 3 minutes
+19-08-15 00:12:14 Time Left: 2 minutes
+19-08-15 00:13:14 Time Left: 1 minutes
+19-08-15 00:14:14 Can't load maps from mapslist
+19-08-15 00:14:14 Next map: ctf_Wretch
+19-08-15 00:14:20 Wretch by AdamD
+19-08-15 00:19:20 Time Left: 5 minutes
+19-08-15 00:20:20 Time Left: 4 minutes
+19-08-15 00:21:20 Time Left: 3 minutes
+19-08-15 00:22:20 Time Left: 2 minutes
+19-08-15 00:23:20 Time Left: 1 minutes
+19-08-15 00:24:20 Can't load maps from mapslist
+19-08-15 00:24:20 Next map: ctf_Wretch
+19-08-15 00:24:25 Wretch by AdamD
+19-08-15 00:29:25 Time Left: 5 minutes
+19-08-15 00:30:25 Time Left: 4 minutes
+19-08-15 00:31:25 Time Left: 3 minutes
+19-08-15 00:32:25 Time Left: 2 minutes
+19-08-15 00:33:25 Time Left: 1 minutes
+19-08-15 00:34:25 Can't load maps from mapslist
+19-08-15 00:34:25 Next map: ctf_Wretch
+19-08-15 00:34:30 Wretch by AdamD
+19-08-15 00:39:30 Time Left: 5 minutes
+19-08-15 00:40:30 Time Left: 4 minutes
+19-08-15 00:41:30 Time Left: 3 minutes
+19-08-15 00:42:30 Time Left: 2 minutes
+19-08-15 00:43:30 Time Left: 1 minutes
+19-08-15 00:44:30 Can't load maps from mapslist
+19-08-15 00:44:30 Next map: ctf_Wretch
+19-08-15 00:44:36 Wretch by AdamD
+19-08-15 00:49:36 Time Left: 5 minutes
+19-08-15 00:50:36 Time Left: 4 minutes
+19-08-15 00:51:36 Time Left: 3 minutes
+19-08-15 00:52:36 Time Left: 2 minutes
+19-08-15 00:53:36 Time Left: 1 minutes
+19-08-15 00:54:36 Can't load maps from mapslist
+19-08-15 00:54:36 Next map: ctf_Wretch
+19-08-15 00:54:41 Wretch by AdamD
+19-08-15 00:59:41 Time Left: 5 minutes
+19-08-15 01:00:41 Time Left: 4 minutes
+19-08-15 01:01:41 Time Left: 3 minutes
+19-08-15 01:02:41 Time Left: 2 minutes
+19-08-15 01:03:41 Time Left: 1 minutes
+19-08-15 01:03:46 Signal received, shutting down
+19-08-15 01:03:46 Shutting down server...
+19-08-15 01:03:46 Shutting down FileServer...
+19-08-15 01:03:46 Shutting down admin server...

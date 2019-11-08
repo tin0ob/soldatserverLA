@@ -1,0 +1,32 @@
+18-11-22 18:16:38    Log Started
+18-11-22 18:16:38 Opened /home/tinolski/gathers/servers/gather20/soldat.ini
+18-11-22 18:16:38 Creating network interface.
+18-11-22 18:16:38 Loading Animations.
+18-11-22 18:16:38 Loading Lobby Servers List
+18-11-22 18:16:38 Loading Maps List
+18-11-22 18:16:38 Loading Map.
+18-11-22 18:16:38 Creating Weapons.
+18-11-22 18:16:38 Starting Game Server.
+18-11-22 18:16:38 TCP/IP File Server started
+18-11-22 18:16:50  Net - CrasheR connected 22-11-18 18:16:50
+18-11-22 18:17:44  Net - sk!T.Rattle connected 22-11-18 18:17:44
+18-11-22 18:18:56  Net - CrasheR disconnected 22-11-18 18:18:56
+18-11-22 18:18:58  Net - sk!T.Rattle disconnected 22-11-18 18:18:58
+18-11-22 18:21:16  Net - sk!T.Rattle connected 22-11-18 18:21:16
+18-11-22 18:21:18  Net - RtP| ShutercL connected 22-11-18 18:21:18
+18-11-22 18:22:19  Net - RtP| ShutercL disconnected 22-11-18 18:22:19
+18-11-22 18:22:21  Net - sk!T.Rattle disconnected 22-11-18 18:22:21
+18-11-22 18:22:22  Net - RtP| ShutercL connected 22-11-18 18:22:22
+18-11-22 18:22:24  Net - RtP| ShutercL disconnected 22-11-18 18:22:24
+18-11-22 18:28:56  Net - sk!T.Rattle connected 22-11-18 18:28:56
+18-11-22 18:29:14  Net - sk!T.Rattle disconnected 22-11-18 18:29:14
+18-11-22 18:46:38 TCP/IP File Server started
+18-11-22 19:16:38 TCP/IP File Server started
+18-11-22 19:46:38 TCP/IP File Server started
+18-11-22 20:03:45  Net - sk!T.Rattle connected 22-11-18 20:03:45
+18-11-22 20:05:09  Net - WildR4P` connected 22-11-18 20:05:09
+18-11-22 20:07:27  Net - sk!T.Rattle disconnected 22-11-18 20:07:27
+18-11-22 20:07:30  Net - WildR4P` disconnected 22-11-18 20:07:30
+18-11-22 20:16:38 TCP/IP File Server started
+18-11-22 20:46:38 TCP/IP File Server started
+18-11-22 21:16:38 TCP/IP File Server started

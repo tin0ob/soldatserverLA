@@ -1,0 +1,2093 @@
+19-04-17 07:23:12    Kill Log Started
+--- 19-04-19 03:11:25
+Major
+Major(1)
+Ak-74
+--- 19-04-19 03:11:45
+Major(1)
+Major(2)
+Desert Eagles
+--- 19-04-19 03:11:46
+Major(1)
+Major
+Desert Eagles
+--- 19-04-19 03:12:01
+Major
+Major(1)
+Ruger 77
+--- 19-04-19 03:12:32
+Major(2)
+Arnold
+Ak-74
+--- 19-04-19 03:12:41
+Major
+Major(1)
+Ruger 77
+--- 19-04-19 03:12:45
+Arnold
+Major(3)
+Barrett M82A1
+--- 19-04-19 03:12:48
+Major(2)
+Major(1)
+Ak-74
+--- 19-04-19 03:12:50
+Arnold
+Major(2)
+Barrett M82A1
+--- 19-04-19 03:13:05
+Major(2)
+Major(1)
+Hands
+--- 19-04-19 03:13:06
+Arnold
+Major(3)
+Barrett M82A1
+--- 19-04-19 03:13:13
+Arnold
+Major(2)
+Barrett M82A1
+--- 19-04-19 03:13:17
+Major(4)
+Major(1)
+Ak-74
+--- 19-04-19 03:13:25
+Arnold
+Major(3)
+Barrett M82A1
+--- 19-04-19 03:13:28
+Major
+Major(1)
+Ruger 77
+--- 19-04-19 03:13:29
+Arnold
+Major
+Desert Eagles
+--- 19-04-19 03:13:39
+Arnold
+Major(2)
+Grenade
+--- 19-04-19 03:13:49
+Major(3)
+Arnold
+XM214 Minigun
+--- 19-04-19 03:13:57
+Major(2)
+Arnold
+Ak-74
+--- 19-04-19 03:14:07
+Major(3)
+Major(1)
+XM214 Minigun
+--- 19-04-19 03:14:14
+Major(3)
+Major(1)
+Barrett M82A1
+--- 19-04-19 03:14:19
+Major(3)
+Major(1)
+Barrett M82A1
+--- 19-04-19 03:14:26
+Major(1)
+Major(5)
+XM214 Minigun
+--- 19-04-19 03:14:26
+Major(3)
+Major(1)
+Barrett M82A1
+--- 19-04-19 03:14:31
+Major(3)
+Major(1)
+Barrett M82A1
+--- 19-04-19 03:14:36
+Major(3)
+Undoundo
+Barrett M82A1
+--- 19-04-19 03:14:39
+Major(5)
+Major(1)
+Ak-74
+--- 19-04-19 03:14:40
+Major(4)
+Major(6)
+Ak-74
+--- 19-04-19 03:14:44
+Major(1)
+Major(2)
+XM214 Minigun
+--- 19-04-19 03:14:47
+Major(4)
+Major(1)
+Ak-74
+--- 19-04-19 03:14:48
+Major(5)
+Major(6)
+Ak-74
+--- 19-04-19 03:14:52
+Major(3)
+Major(6)
+Barrett M82A1
+--- 19-04-19 03:14:59
+Major(3)
+Major(6)
+Barrett M82A1
+--- 19-04-19 03:15:04
+Major(3)
+Major(1)
+Barrett M82A1
+--- 19-04-19 03:15:09
+Major(5)
+Major(6)
+Ak-74
+--- 19-04-19 03:15:11
+Major(5)
+Major(1)
+Ak-74
+--- 19-04-19 03:15:13
+Major(3)
+Major(6)
+Barrett M82A1
+--- 19-04-19 03:15:20
+Major(5)
+Major(1)
+Ak-74
+--- 19-04-19 03:15:21
+Major(3)
+Major(6)
+Barrett M82A1
+--- 19-04-19 03:15:26
+Major(3)
+Major(6)
+Barrett M82A1
+--- 19-04-19 03:15:26
+Major(3)
+Major(1)
+Barrett M82A1
+--- 19-04-19 03:15:36
+Major(4)
+Major(6)
+Ak-74
+--- 19-04-19 03:15:36
+Major(1)
+Major(2)
+Chainsaw
+--- 19-04-19 03:15:42
+Major(4)
+Major(6)
+Ak-74
+--- 19-04-19 03:15:43
+Major(2)
+Major(1)
+Ak-74
+--- 19-04-19 03:15:49
+Major(3)
+Major(1)
+Barrett M82A1
+--- 19-04-19 03:15:51
+Major
+Major(6)
+XM214 Minigun
+--- 19-04-19 03:15:55
+Major(3)
+Major(6)
+Barrett M82A1
+--- 19-04-19 03:15:56
+Major(5)
+Major(1)
+Ak-74
+--- 19-04-19 03:16:01
+Major
+Major(6)
+XM214 Minigun
+--- 19-04-19 03:16:01
+Major(5)
+Major(1)
+Hands
+--- 19-04-19 03:16:08
+Major(5)
+Major(6)
+Ak-74
+--- 19-04-19 03:16:08
+Major(5)
+Major(1)
+Ak-74
+--- 19-04-19 03:16:14
+Major(4)
+Major(1)
+Ak-74
+--- 19-04-19 03:16:14
+Major(5)
+Major(6)
+Ak-74
+--- 19-04-19 03:16:21
+Major(4)
+Major(6)
+Ak-74
+--- 19-04-19 03:16:24
+Major(2)
+Major(1)
+Ak-74
+--- 19-04-19 03:16:26
+Major
+Major(6)
+XM214 Minigun
+--- 19-04-19 03:16:32
+Major(5)
+Major(1)
+Ak-74
+--- 19-04-19 03:16:32
+Major
+Major(6)
+XM214 Minigun
+--- 19-04-19 03:16:39
+Major(2)
+Major(6)
+Ak-74
+--- 19-04-19 03:16:39
+Major(1)
+Major(4)
+Spas-12
+--- 19-04-19 03:16:40
+Major
+Major(1)
+XM214 Minigun
+--- 19-04-19 03:16:44
+Major(5)
+Major(6)
+Ak-74
+--- 19-04-19 03:16:51
+Major(4)
+Major(6)
+Ak-74
+--- 19-04-19 03:16:55
+Major
+Major(6)
+XM214 Minigun
+--- 19-04-19 03:16:58
+Major(1)
+Major(2)
+Spas-12
+--- 19-04-19 03:17:01
+Major(6)
+Major
+Hands
+--- 19-04-19 03:17:01
+Major
+Major(6)
+Hands
+--- 19-04-19 03:17:09
+Major(2)
+Major(6)
+Ak-74
+--- 19-04-19 03:17:13
+Major(1)
+Major
+Chainsaw
+--- 19-04-19 03:17:14
+Major(6)
+Major(2)
+HK MP5
+--- 19-04-19 03:17:18
+Major(6)
+Major(5)
+HK MP5
+--- 19-04-19 03:17:22
+Major(6)
+Major(4)
+HK MP5
+--- 19-04-19 03:17:22
+Major(4)
+Major(6)
+Ak-74
+--- 19-04-19 03:17:30
+Major(2)
+Major(6)
+XM214 Minigun
+--- 19-04-19 03:17:35
+Major(5)
+Major(6)
+Ak-74
+--- 19-04-19 03:17:41
+Major(5)
+Major(6)
+Ak-74
+--- 19-04-19 03:17:48
+Major(2)
+Major(6)
+XM214 Minigun
+--- 19-04-19 03:17:54
+Major(5)
+Major(6)
+Ak-74
+--- 19-04-19 03:18:00
+Major(5)
+Major(6)
+Ak-74
+--- 19-04-19 03:18:02
+Major(2)
+Major(1)
+XM214 Minigun
+--- 19-04-19 03:18:05
+Major(5)
+Major(6)
+Ak-74
+--- 19-04-19 03:18:12
+Major(5)
+Major(6)
+Ak-74
+--- 19-04-19 03:18:36
+Major(5)
+Major(6)
+Desert Eagles
+--- 19-04-19 03:18:39
+Major(5)
+Major(3)
+Desert Eagles
+--- 19-04-19 03:18:41
+Major(1)
+Major(5)
+Barrett M82A1
+--- 19-04-19 03:18:43
+Major
+Major(6)
+Desert Eagles
+--- 19-04-19 03:18:45
+Major(1)
+Major(2)
+Barrett M82A1
+--- 19-04-19 03:18:45
+Major(1)
+Major(4)
+Barrett M82A1
+--- 19-04-19 03:18:45
+Major
+Major(3)
+Desert Eagles
+--- 19-04-19 03:18:49
+Major(1)
+Major
+Barrett M82A1
+--- 19-04-19 03:18:56
+Major(4)
+Major(3)
+Desert Eagles
+--- 19-04-19 03:19:02
+Major(5)
+Major(3)
+FN Minimi
+--- 19-04-19 03:19:08
+Major(2)
+Major(3)
+M79
+--- 19-04-19 03:19:08
+Major(4)
+Major(6)
+Desert Eagles
+--- 19-04-19 03:19:13
+Major(5)
+Major(6)
+FN Minimi
+--- 19-04-19 03:19:14
+Major
+Major(3)
+XM214 Minigun
+--- 19-04-19 03:19:16
+Major(4)
+Major(1)
+Desert Eagles
+--- 19-04-19 03:19:24
+Major(1)
+Major(2)
+Barrett M82A1
+--- 19-04-19 03:19:24
+Major(1)
+Major
+Barrett M82A1
+--- 19-04-19 03:19:29
+Major(3)
+Major(4)
+Ak-74
+--- 19-04-19 03:19:33
+Major(2)
+Major(3)
+M79
+--- 19-04-19 03:19:35
+Major
+Major(6)
+FN Minimi
+--- 19-04-19 03:19:39
+Major(1)
+Major(2)
+Barrett M82A1
+--- 19-04-19 03:19:40
+Major(5)
+Major(1)
+FN Minimi
+--- 19-04-19 03:19:42
+Major(3)
+Major(5)
+HK MP5
+--- 19-04-19 03:19:46
+Major(4)
+Major(3)
+Ak-74
+--- 19-04-19 03:19:50
+Major(4)
+Major(1)
+Ak-74
+--- 19-04-19 03:19:52
+Major(3)
+Major(2)
+HK MP5
+--- 19-04-19 03:19:54
+Major(5)
+Major(3)
+FN Minimi
+--- 19-04-19 03:19:56
+Major(4)
+Major(6)
+Ak-74
+--- 19-04-19 03:19:58
+Major(1)
+Major(5)
+Barrett M82A1
+--- 19-04-19 03:20:00
+Major(2)
+Major(1)
+Steyr AUG
+--- 19-04-19 03:20:06
+Major(3)
+Major(2)
+Steyr AUG
+--- 19-04-19 03:20:08
+Major
+Major(6)
+FN Minimi
+--- 19-04-19 03:20:10
+Major
+Major(3)
+FN Minimi
+--- 19-04-19 03:20:18
+Major(5)
+Major(3)
+FN Minimi
+--- 19-04-19 03:20:22
+Major(6)
+Major
+Spas-12
+--- 19-04-19 03:20:22
+Major
+Major(6)
+FN Minimi
+--- 19-04-19 03:20:25
+Major(4)
+Major(3)
+Hands
+--- 19-04-19 03:20:35
+Major(4)
+Major(6)
+Ak-74
+--- 19-04-19 03:20:37
+Major(2)
+Major(3)
+Steyr AUG
+--- 19-04-19 03:20:41
+Major
+RiddcK
+FN Minimi
+--- 19-04-19 03:20:41
+Major
+Major(6)
+FN Minimi
+--- 19-04-19 03:20:44
+Major(1)
+Major
+Barrett M82A1
+--- 19-04-19 03:20:52
+Major(5)
+Major(3)
+FN Minimi
+--- 19-04-19 03:20:55
+Major(4)
+Major(6)
+Ak-74
+--- 19-04-19 03:20:56
+Major(1)
+Major(2)
+Barrett M82A1
+--- 19-04-19 03:21:01
+Major(4)
+Major(3)
+Ak-74
+--- 19-04-19 03:21:03
+RiddcK
+Major(5)
+M79
+--- 19-04-19 03:21:07
+Major(6)
+Major(4)
+HK MP5
+--- 19-04-19 03:21:10
+Major(2)
+Major(6)
+Ruger 77
+--- 19-04-19 03:21:11
+RiddcK
+Major
+M79
+--- 19-04-19 03:21:12
+Major(3)
+Major(2)
+Spas-12
+--- 19-04-19 03:21:19
+Major(4)
+Major(3)
+Ak-74
+--- 19-04-19 03:21:20
+Major(1)
+Major(5)
+Barrett M82A1
+--- 19-04-19 03:21:28
+RiddcK
+Major(5)
+M79
+--- 19-04-19 03:21:33
+Major(4)
+Major(3)
+Ak-74
+--- 19-04-19 03:21:37
+RiddcK
+Major(2)
+M79
+--- 19-04-19 03:21:44
+Major(4)
+Major(3)
+Ak-74
+--- 19-04-19 03:21:44
+Major(1)
+Major(4)
+Barrett M82A1
+--- 19-04-19 03:21:48
+Major(6)
+Major(5)
+Grenade
+--- 19-04-19 03:22:03
+RiddcK
+Major(2)
+Grenade
+--- 19-04-19 03:22:08
+Major(6)
+Major(4)
+Barrett M82A1
+--- 19-04-19 03:22:16
+RiddcK
+Major(5)
+FN Minimi
+--- 19-04-19 03:22:16
+Major(1)
+Major
+Barrett M82A1
+--- 19-04-19 03:22:19
+Major(4)
+Major(6)
+Ruger 77
+--- 19-04-19 03:22:22
+RiddcK
+Major(4)
+FN Minimi
+--- 19-04-19 03:22:26
+Major(1)
+Major(2)
+Barrett M82A1
+--- 19-04-19 03:22:30
+Major(5)
+Major(6)
+M79
+--- 19-04-19 03:22:34
+RiddcK
+Major
+Grenade
+--- 19-04-19 03:22:38
+Major(1)
+Major(2)
+Barrett M82A1
+--- 19-04-19 03:22:53
+Major(4)
+Major(1)
+Ak-74
+--- 19-04-19 03:22:53
+Major(5)
+Major(6)
+M79
+--- 19-04-19 03:23:02
+Major(6)
+Major(4)
+Barrett M82A1
+--- 19-04-19 03:23:03
+Major(1)
+Major
+Spas-12
+--- 19-04-19 03:23:10
+Major(2)
+Major(1)
+Grenade
+--- 19-04-19 03:23:14
+Major(6)
+Major(4)
+Barrett M82A1
+--- 19-04-19 03:23:17
+Major(5)
+Major(1)
+M79
+--- 19-04-19 03:23:18
+Major
+Major(3)
+FN Minimi
+--- 19-04-19 03:23:19
+Major(6)
+Major(5)
+Barrett M82A1
+--- 19-04-19 03:23:30
+Major(4)
+Major(1)
+Spas-12
+--- 19-04-19 03:23:30
+RiddcK
+Major
+Grenade
+--- 19-04-19 03:23:42
+Major(6)
+Major(5)
+Barrett M82A1
+--- 19-04-19 03:23:42
+Major(4)
+RiddcK
+Spas-12
+--- 19-04-19 03:23:45
+Major(4)
+Major(1)
+Spas-12
+--- 19-04-19 03:23:49
+RiddcK
+Major
+M79
+--- 19-04-19 03:23:53
+Ulath Von Dracula
+Major(5)
+M79
+--- 19-04-19 03:24:00
+Major(5)
+Major(5)
+M79
+--- 19-04-19 03:24:00
+Major(5)
+Major(1)
+M79
+--- 19-04-19 03:24:00
+Ulath Von Dracula
+Major
+Chainsaw
+--- 19-04-19 03:24:05
+Ulath Von Dracula
+Major(4)
+M79
+--- 19-04-19 03:24:06
+Major(5)
+Major(1)
+M79
+--- 19-04-19 03:24:09
+RiddcK
+Major
+M79
+--- 19-04-19 03:24:10
+Major(2)
+Major(3)
+Spas-12
+--- 19-04-19 03:24:11
+Major(5)
+Major(6)
+M79
+--- 19-04-19 03:24:14
+Ulath Von Dracula
+Major(2)
+M79
+--- 19-04-19 03:24:18
+RiddcK
+Major
+M79
+--- 19-04-19 03:24:19
+Major(1)
+Major(5)
+Grenade
+--- 19-04-19 03:24:21
+Major(2)
+Major(1)
+Spas-12
+--- 19-04-19 03:24:25
+Major(6)
+Major(6)
+Grenade
+--- 19-04-19 03:24:25
+Ulath Von Dracula
+Major(5)
+M79
+--- 19-04-19 03:24:27
+Major
+Ulath Von Dracula
+FN Minimi
+--- 19-04-19 03:24:31
+Major(1)
+Major(5)
+Chainsaw
+--- 19-04-19 03:24:34
+RiddcK
+RiddcK
+M79
+--- 19-04-19 03:24:34
+RiddcK
+Major(2)
+M79
+--- 19-04-19 03:24:38
+Ulath Von Dracula
+Major(5)
+Chainsaw
+--- 19-04-19 03:24:42
+Major(2)
+Major(3)
+Spas-12
+--- 19-04-19 03:24:44
+RiddcK
+Major(4)
+Grenade
+--- 19-04-19 03:24:46
+Ulath Von Dracula
+Major
+M79
+--- 19-04-19 03:24:49
+Major(2)
+Major(6)
+Spas-12
+--- 19-04-19 03:24:51
+RiddcK
+Major(4)
+M79
+--- 19-04-19 03:24:54
+RiddcK
+Major(2)
+M79
+--- 19-04-19 03:24:57
+Major(4)
+Ulath Von Dracula
+Ak-74
+--- 19-04-19 03:24:58
+Major(4)
+Major(1)
+Ak-74
+--- 19-04-19 03:25:01
+Major
+Ulath Von Dracula
+Chainsaw
+--- 19-04-19 03:25:03
+RiddcK
+Major(5)
+Grenade
+--- 19-04-19 03:25:08
+Major(6)
+Major(4)
+Barrett M82A1
+--- 19-04-19 03:25:11
+Major
+Ulath Von Dracula
+Chainsaw
+--- 19-04-19 03:25:17
+Major
+Ulath Von Dracula
+Chainsaw
+--- 19-04-19 03:25:18
+Ulath Von Dracula
+Major(4)
+Combat Knife
+--- 19-04-19 03:25:23
+Major
+Major(6)
+Chainsaw
+--- 19-04-19 03:25:27
+Ulath Von Dracula
+Ulath Von Dracula
+Grenade
+--- 19-04-19 03:25:27
+Major(3)
+Major(5)
+M79
+--- 19-04-19 03:25:28
+RiddcK
+Major
+Ak-74
+--- 19-04-19 03:25:33
+Major(2)
+RiddcK
+Hands
+--- 19-04-19 03:25:34
+Major(4)
+Major(3)
+Ak-74
+--- 19-04-19 03:25:34
+Major(5)
+Major(1)
+M79
+--- 19-04-19 03:25:46
+Major(6)
+Major
+Barrett M82A1
+--- 19-04-19 03:25:46
+RiddcK
+Major(4)
+M79
+--- 19-04-19 03:25:55
+Ulath Von Dracula
+Ulath Von Dracula
+Grenade
+--- 19-04-19 03:25:56
+Major(3)
+Major(4)
+XM214 Minigun
+--- 19-04-19 03:25:57
+Major(6)
+Major(2)
+Barrett M82A1
+--- 19-04-19 03:25:58
+Major(5)
+RiddcK
+M79
+--- 19-04-19 03:26:06
+Major(6)
+Major(5)
+Barrett M82A1
+--- 19-04-19 03:26:06
+Major(2)
+Ulath Von Dracula
+Desert Eagles
+--- 19-04-19 03:26:08
+RiddcK
+Major(2)
+Grenade
+--- 19-04-19 03:26:17
+Major
+Ulath Von Dracula
+FN Minimi
+--- 19-04-19 03:26:17
+Major(3)
+Major(2)
+XM214 Minigun
+--- 19-04-19 03:26:18
+Major(6)
+Major(4)
+Barrett M82A1
+--- 19-04-19 03:26:29
+Major(5)
+Major(3)
+M79
+--- 19-04-19 03:26:32
+Major(5)
+RiddcK
+M79
+--- 19-04-19 03:26:38
+RiddcK
+Major(2)
+LAW
+--- 19-04-19 03:26:40
+RiddcK
+Major(5)
+Grenade
+--- 19-04-19 03:26:44
+Major(1)
+Major
+Barrett M82A1
+--- 19-04-19 03:26:49
+Major(6)
+Major
+Barrett M82A1
+--- 19-04-19 03:26:52
+Major(5)
+Major(3)
+M79
+--- 19-04-19 03:26:56
+Major(5)
+Major(6)
+M79
+--- 19-04-19 03:26:56
+RiddcK
+Major
+Grenade
+--- 19-04-19 03:26:58
+Major(1)
+Major(2)
+Barrett M82A1
+--- 19-04-19 03:27:08
+Major(5)
+Major(6)
+M79
+--- 19-04-19 03:27:10
+Major(2)
+Major(1)
+Barrett M82A1
+--- 19-04-19 03:27:12
+Major(3)
+Major(5)
+Spas-12
+--- 19-04-19 03:27:21
+Major(6)
+Major(4)
+Barrett M82A1
+--- 19-04-19 03:27:22
+Major(5)
+Major(6)
+M79
+--- 19-04-19 03:27:32
+Major(5)
+Major(6)
+M79
+--- 19-04-19 03:27:33
+RiddcK
+Major(5)
+M79
+--- 19-04-19 03:27:39
+RiddcK
+Major(4)
+M79
+--- 19-04-19 03:27:40
+Major
+Major(3)
+M79
+--- 19-04-19 03:27:40
+Major
+Major(6)
+M79
+--- 19-04-19 03:27:40
+Major(5)
+RiddcK
+M79
+--- 19-04-19 03:27:42
+Major(1)
+Major(2)
+Chainsaw
+--- 19-04-19 03:27:51
+Major(1)
+Major(2)
+Barrett M82A1
+--- 19-04-19 03:27:52
+Major(5)
+Major(6)
+M79
+--- 19-04-19 03:27:56
+RiddcK
+Major(2)
+M79
+--- 19-04-19 03:28:01
+Major(6)
+Major
+Grenade
+--- 19-04-19 03:28:04
+RiddcK
+Major(4)
+M79
+--- 19-04-19 03:28:11
+Major(5)
+RiddcK
+M79
+--- 19-04-19 03:28:19
+Major
+Major(6)
+Ruger 77
+--- 19-04-19 03:28:19
+Major
+Major(3)
+Ruger 77
+--- 19-04-19 03:28:19
+Major(1)
+Major
+Chainsaw
+--- 19-04-19 03:28:22
+Major(1)
+Major(2)
+Chainsaw
+--- 19-04-19 03:28:41
+Major(1)
+Major(5)
+Chainsaw
+--- 19-04-19 03:28:45
+RiddcK
+Major(4)
+M79
+--- 19-04-19 03:28:49
+RiddcK
+Major(2)
+Grenade
+--- 19-04-19 03:28:50
+RiddcK
+Major(5)
+Grenade
+--- 19-04-19 03:28:50
+Major
+Major(6)
+Chainsaw
+--- 19-04-19 03:28:51
+Major(4)
+Major(1)
+Hands
+--- 19-04-19 03:28:52
+RiddcK
+RiddcK
+Grenade
+--- 19-04-19 03:29:01
+EndoMarian
+Major(4)
+Steyr AUG
+--- 19-04-19 03:29:02
+RiddcK
+Major
+M79
+--- 19-04-19 03:29:04
+Major(1)
+Major(2)
+Chainsaw
+--- 19-04-19 03:29:07
+RiddcK
+Major(4)
+M79
+--- 19-04-19 03:29:10
+RiddcK
+Major
+M79
+--- 19-04-19 03:29:16
+Major(4)
+EndoMarian
+Ak-74
+--- 19-04-19 03:29:19
+Major
+Major(1)
+Barrett M82A1
+--- 19-04-19 03:29:23
+RiddcK
+Major(2)
+M79
+--- 19-04-19 03:29:24
+RiddcK
+Major(7)
+Grenade
+--- 19-04-19 03:29:29
+Major(6)
+Major(2)
+Barrett M82A1
+--- 19-04-19 03:29:33
+EndoMarian
+Major
+Ak-74
+--- 19-04-19 03:29:38
+Major(2)
+Major(6)
+Steyr AUG
+--- 19-04-19 03:29:38
+RiddcK
+Major
+M79
+--- 19-04-19 03:29:39
+Major(5)
+Major(1)
+M79
+--- 19-04-19 03:29:44
+Major(2)
+Major(3)
+Steyr AUG
+--- 19-04-19 03:29:47
+RiddcK
+Major(5)
+M79
+--- 19-04-19 03:29:48
+Major(4)
+Major(6)
+Ak-74
+--- 19-04-19 03:30:06
+RiddcK
+Major(4)
+M79
+--- 19-04-19 03:30:07
+Major(4)
+RiddcK
+Grenade
+--- 19-04-19 03:30:09
+Major(2)
+Major(6)
+Steyr AUG
+--- 19-04-19 03:30:13
+Major(3)
+Major(2)
+Spas-12
+--- 19-04-19 03:30:15
+RiddcK
+Major(7)
+LAW
+--- 19-04-19 03:30:17
+Major(6)
+Major(4)
+Barrett M82A1
+--- 19-04-19 03:30:24
+Major(2)
+Major(6)
+Steyr AUG
+--- 19-04-19 03:30:27
+Major(5)
+Major(1)
+Grenade
+--- 19-04-19 03:30:27
+Major
+RiddcK
+Barrett M82A1
+--- 19-04-19 03:30:31
+Major(6)
+Major(4)
+Barrett M82A1
+--- 19-04-19 03:30:35
+Major
+Major(1)
+Barrett M82A1
+--- 19-04-19 03:30:36
+Major(6)
+Major(5)
+Barrett M82A1
+--- 19-04-19 03:30:44
+Major(4)
+Major(6)
+Grenade
+--- 19-04-19 03:30:45
+Major(5)
+Major(1)
+M79
+--- 19-04-19 03:30:49
+Major(2)
+Major(1)
+Grenade
+--- 19-04-19 03:30:52
+Major(2)
+Major(6)
+Steyr AUG
+--- 19-04-19 03:30:56
+Major(1)
+Major(5)
+XM214 Minigun
+--- 19-04-19 03:31:02
+Major(1)
+Major
+Grenade
+--- 19-04-19 03:31:07
+Major(2)
+Major(6)
+Steyr AUG
+--- 19-04-19 03:31:17
+Major(7)
+Major(6)
+Ak-74
+--- 19-04-19 03:31:22
+Major(7)
+Major(1)
+Ak-74
+--- 19-04-19 03:31:23
+Major(6)
+Major(7)
+HK MP5
+--- 19-04-19 03:31:26
+Major
+Major(6)
+Grenade
+--- 19-04-19 03:31:29
+Major
+Major(1)
+Ak-74
+--- 19-04-19 03:31:38
+Major(7)
+Major(1)
+Ak-74
+--- 19-04-19 03:31:38
+Major(6)
+Major(5)
+HK MP5
+--- 19-04-19 03:31:45
+Major(1)
+Major(7)
+Grenade
+--- 19-04-19 03:31:45
+Major(7)
+Major(1)
+Ak-74
+--- 19-04-19 03:31:52
+Major(5)
+Major
+Grenade
+--- 19-04-19 03:31:53
+Major(6)
+Major(7)
+HK MP5
+--- 19-04-19 03:31:54
+Major(5)
+Major(1)
+M79
+--- 19-04-19 03:31:58
+Major(6)
+Major(5)
+HK MP5
+--- 19-04-19 03:32:00
+Major(4)
+Major(3)
+USSOCOM
+--- 19-04-19 03:32:06
+Major(5)
+Major(1)
+M79
+--- 19-04-19 03:32:08
+Major(6)
+Major(7)
+HK MP5
+--- 19-04-19 03:32:10
+Major(5)
+Major(6)
+M79
+--- 19-04-19 03:32:17
+Major(2)
+Major(6)
+Hands
+--- 19-04-19 03:32:19
+Major
+Major(2)
+Ak-74
+--- 19-04-19 03:32:24
+Major(5)
+Major
+M79
+--- 19-04-19 03:32:28
+Major(5)
+Major(3)
+M79
+--- 19-04-19 03:32:28
+Major(6)
+Major(5)
+Barrett M82A1
+--- 19-04-19 03:32:35
+Major
+Major(7)
+HK MP5
+--- 19-04-19 03:32:43
+Major(1)
+Major(5)
+FN Minimi
+--- 19-04-19 03:32:47
+Major(6)
+Major(7)
+Barrett M82A1
+--- 19-04-19 03:32:48
+Major(4)
+Major
+USSOCOM
+--- 19-04-19 03:32:51
+Major(4)
+Major(3)
+USSOCOM
+--- 19-04-19 03:32:52
+Major(7)
+Major(2)
+HK MP5
+--- 19-04-19 03:32:55
+Major(6)
+Major(5)
+Barrett M82A1
+--- 19-04-19 03:32:55
+Major(6)
+Major(7)
+Barrett M82A1
+--- 19-04-19 03:33:00
+Major(6)
+Major(4)
+Barrett M82A1
+--- 19-04-19 03:33:02
+Major(7)
+Major
+Ak-74
+--- 19-04-19 03:33:03
+Major(2)
+Major(7)
+Spas-12
+--- 19-04-19 03:33:06
+Major(4)
+Major(2)
+M79
+--- 19-04-19 03:33:09
+Major(6)
+Major(4)
+Barrett M82A1
+--- 19-04-19 03:33:10
+Major(3)
+Major(5)
+Spas-12
+--- 19-04-19 03:33:15
+Major
+Major(7)
+Chainsaw
+--- 19-04-19 03:33:16
+Major(4)
+Major(6)
+Grenade
+--- 19-04-19 03:33:24
+Major
+Major(4)
+Chainsaw
+--- 19-04-19 03:33:27
+Major(7)
+Major
+Steyr AUG
+--- 19-04-19 03:33:31
+Major(4)
+Major(6)
+M79
+--- 19-04-19 03:33:33
+Major(5)
+Major(5)
+M79
+--- 19-04-19 03:33:41
+Major(6)
+Major(7)
+Chainsaw
+--- 19-04-19 03:33:46
+Major
+Major(5)
+Chainsaw
+--- 19-04-19 03:33:51
+Major(4)
+Major
+M79
+--- 19-04-19 03:33:56
+Major(7)
+Major(3)
+Ruger 77
+--- 19-04-19 03:33:56
+Major(4)
+Major(1)
+M79
+--- 19-04-19 03:33:58
+Major(2)
+Major(4)
+Grenade
+--- 19-04-19 03:34:00
+Major(5)
+Major(5)
+M79
+--- 19-04-19 03:34:00
+Major(6)
+Major(7)
+Chainsaw
+--- 19-04-19 03:34:04
+Major(6)
+Major(7)
+Chainsaw
+--- 19-04-19 03:34:04
+Major(6)
+Major(4)
+Chainsaw
+--- 19-04-19 03:34:05
+Major
+Major(5)
+Chainsaw
+--- 19-04-19 03:34:10
+Major
+Major(7)
+Chainsaw
+--- 19-04-19 03:34:10
+Major(5)
+Major(3)
+Chainsaw
+--- 19-04-19 03:34:11
+Major
+Major(5)
+Chainsaw
+--- 19-04-19 03:34:13
+Major(6)
+Major(4)
+Chainsaw
+--- 19-04-19 03:34:17
+Major
+Major(7)
+Chainsaw
+--- 19-04-19 03:34:18
+Major(5)
+Major
+Chainsaw
+--- 19-04-19 03:34:19
+Major(6)
+Major(5)
+Barrett M82A1
+--- 19-04-19 03:34:20
+Major(1)
+Major(4)
+M79
+--- 19-04-19 03:34:24
+Major(6)
+Major(7)
+Barrett M82A1
+--- 19-04-19 03:34:27
+Major(1)
+Major(5)
+Grenade
+--- 19-04-19 03:34:27
+Major(4)
+Major(1)
+M79
+--- 19-04-19 03:34:30
+Major(6)
+Major(4)
+Barrett M82A1
+--- 19-04-19 03:34:32
+Major
+Major(5)
+Chainsaw
+--- 19-04-19 03:34:33
+Major(1)
+Major(7)
+M79
+--- 19-04-19 03:34:35
+Major(6)
+Major(4)
+Barrett M82A1
+--- 19-04-19 03:34:38
+Major(7)
+Major
+Spas-12
+--- 19-04-19 03:34:39
+Major(6)
+Major(7)
+Barrett M82A1
+--- 19-04-19 03:34:42
+Major(5)
+Major(6)
+M79
+--- 19-04-19 03:34:47
+Major
+Major(7)
+M79
+--- 19-04-19 03:34:50
+Major(5)
+Major
+M79
+--- 19-04-19 03:34:54
+Major(7)
+Major(3)
+Spas-12
+--- 19-04-19 03:34:57
+Major(5)
+Major
+M79
+--- 19-04-19 03:34:57
+Major(4)
+Major(1)
+M79
+--- 19-04-19 03:35:00
+Major(5)
+Major(3)
+M79
+--- 19-04-19 03:35:03
+Major(4)
+Major(1)
+M79
+--- 19-04-19 03:35:04
+Major(5)
+Major
+M79
+--- 19-04-19 03:35:10
+Major(5)
+Major(2)
+M79
+--- 19-04-19 03:35:15
+Major(1)
+Major(1)
+M79
+--- 19-04-19 03:35:15
+Major(1)
+Major(7)
+M79
+--- 19-04-19 03:35:15
+Major(1)
+Major(4)
+M79
+--- 19-04-19 03:35:18
+Major
+Major(6)
+XM214 Minigun
+--- 19-04-19 03:35:20
+Major(2)
+Major(7)
+Spas-12
+--- 19-04-19 03:35:22
+Major(2)
+Major(4)
+Spas-12
+--- 19-04-19 03:35:25
+Major(6)
+Major(1)
+Barrett M82A1
+--- 19-04-19 03:35:25
+Major(6)
+Major(2)
+Barrett M82A1
+--- 19-04-19 03:35:31
+Major(5)
+Major(3)
+M79
+--- 19-04-19 03:35:35
+Major(1)
+Major(6)
+Chainsaw
+--- 19-04-19 03:35:40
+Major(5)
+Major(5)
+M79
+--- 19-04-19 03:35:40
+Major(5)
+Major(1)
+M79
+--- 19-04-19 03:35:45
+Major(6)
+Major
+Grenade
+--- 19-04-19 03:35:49
+Major(7)
+Major(2)
+Spas-12
+--- 19-04-19 03:35:49
+Major(6)
+Major(3)
+Barrett M82A1
+--- 19-04-19 03:35:53
+Major(6)
+Major(1)
+Barrett M82A1
+--- 19-04-19 03:35:56
+Danilo (COL)
+Major(5)
+Barrett M82A1
+--- 19-04-19 03:35:57
+Major(6)
+Major
+Barrett M82A1
+--- 19-04-19 03:35:58
+Danilo (COL)
+Major(6)
+USSOCOM
+--- 19-04-19 03:36:09
+Major(5)
+Danilo (COL)
+Chainsaw
+--- 19-04-19 03:36:10
+Major(2)
+Major(4)
+Spas-12
+--- 19-04-19 03:36:13
+Major(3)
+Major(6)
+Spas-12
+--- 19-04-19 03:36:14
+Major(2)
+Major(5)
+Spas-12
+--- 19-04-19 03:36:16
+Major
+Major(4)
+Chainsaw
+--- 19-04-19 03:36:20
+Major
+Major(5)
+Chainsaw
+--- 19-04-19 03:36:21
+Major(3)
+Major(6)
+Spas-12
+--- 19-04-19 03:36:24
+Major(4)
+Major(2)
+Ak-74
+--- 19-04-19 03:36:25
+Major
+Major(5)
+Chainsaw
+--- 19-04-19 03:36:28
+Major(1)
+Major(7)
+Chainsaw
+--- 19-04-19 03:36:33
+Major(3)
+Major(5)
+Spas-12
+--- 19-04-19 03:36:36
+Major
+Major
+Grenade
+--- 19-04-19 03:36:38
+Major(6)
+Major(1)
+Barrett M82A1
+--- 19-04-19 03:36:39
+Major(7)
+Major(3)
+Spas-12
+--- 19-04-19 03:36:46
+Major(1)
+Major(5)
+HK MP5
+--- 19-04-19 03:36:46
+Major(6)
+Major(1)
+Barrett M82A1
+--- 19-04-19 03:36:54
+Major(4)
+Major(3)
+Grenade
+--- 19-04-19 03:36:57
+Major(7)
+Major(1)
+Spas-12
+--- 19-04-19 03:36:58
+Major(2)
+Major(7)
+Spas-12
+--- 19-04-19 03:37:00
+Major(2)
+Major(5)
+Spas-12
+--- 19-04-19 03:37:02
+Major(6)
+Major(1)
+Grenade
+--- 19-04-19 03:37:05
+Major(7)
+Major(2)
+Spas-12
+--- 19-04-19 03:37:09
+Major(5)
+Major(3)
+Ak-74
+--- 19-04-19 03:37:11
+Major(2)
+Major(5)
+Spas-12
+--- 19-04-19 03:37:13
+Major(4)
+Major(2)
+Ak-74
+--- 19-04-19 03:37:13
+Major(6)
+Major(1)
+Barrett M82A1
+--- 19-04-19 03:37:20
+Major(2)
+Major(4)
+Spas-12
+--- 19-04-19 03:37:21
+Major(5)
+Major
+Ak-74
+--- 19-04-19 03:37:21
+Major(6)
+Major(1)
+Barrett M82A1
+--- 19-04-19 03:37:22
+Major(2)
+Major(6)
+Spas-12
+--- 19-04-19 03:37:25
+Major(7)
+Major(2)
+Spas-12
+--- 19-04-19 03:37:25
+Major(2)
+Major(7)
+Spas-12
+--- 19-04-19 03:37:34
+Major(7)
+Major(1)
+Spas-12
+--- 19-04-19 03:37:35
+Major
+Major(6)
+Chainsaw
+--- 19-04-19 03:37:35
+Major(4)
+Major(2)
+Ak-74
+--- 19-04-19 03:37:40
+Major(5)
+Major
+Ak-74
+--- 19-04-19 03:37:43
+Major(2)
+Major(6)
+XM214 Minigun
+--- 19-04-19 03:37:48
+Major(5)
+Major(3)
+Ak-74
+--- 19-04-19 03:37:51
+Major(2)
+Major(6)
+XM214 Minigun
+--- 19-04-19 03:37:58
+Major(4)
+Major(2)
+Ak-74
+--- 19-04-19 03:37:58
+Major(5)
+Major(3)
+Ak-74
+--- 19-04-19 03:37:59
+Major(7)
+Major(1)
+Spas-12
+--- 19-04-19 03:38:06
+Major(3)
+Major(5)
+Spas-12
+--- 19-04-19 03:38:06
+Major
+Major(7)
+Chainsaw
+--- 19-04-19 03:38:13
+Major(5)
+Major(3)
+Ak-74
+--- 19-04-19 03:38:16
+Major(4)
+Major(1)
+Ak-74
+--- 19-04-19 03:38:18
+Major(2)
+Major(4)
+XM214 Minigun
+--- 19-04-19 03:38:21
+Major(5)
+Major
+Grenade
+--- 19-04-19 03:38:21
+Major(5)
+Major(2)
+Grenade
+--- 19-04-19 03:38:27
+Major(1)
+Sheeteater
+Chainsaw
+--- 19-04-19 03:38:28
+Major(5)
+Major(3)
+Ak-74
+--- 19-04-19 03:38:44
+Major(8)
+Major(3)
+Spas-12
+--- 19-04-19 03:38:44
+Major(8)
+Major(2)
+Spas-12
+--- 19-04-19 03:38:45
+Major(8)
+Major
+Spas-12
+--- 19-04-19 03:38:50
+Major(8)
+Major
+Spas-12
+--- 19-04-19 03:38:50
+Major(8)
+Major(2)
+Spas-12
+--- 19-04-19 03:38:52
+Major(8)
+Major(3)
+Spas-12
+--- 19-04-19 03:38:56
+Major(8)
+Major
+Spas-12
+--- 19-04-19 03:38:57
+Major(8)
+Major(2)
+Spas-12
+--- 19-04-19 03:38:59
+Major(8)
+Major(3)
+Spas-12
+--- 19-04-19 03:39:02
+Major(8)
+Major(2)
+Spas-12
+--- 19-04-19 03:39:03
+Major(8)
+Major
+Spas-12
+--- 19-04-19 03:39:03
+Major
+Major(8)
+Ruger 77
+--- 19-04-19 03:39:09
+Major(2)
+Major(8)
+M79
+--- 19-04-19 03:39:14
+Major(8)
+Major
+Chainsaw
+--- 19-04-19 03:39:17
+Major(8)
+Major(3)
+Chainsaw
+--- 19-04-19 03:39:22
+Major(8)
+Major(3)
+Chainsaw
+--- 19-04-19 03:39:28
+Major(8)
+Major(3)
+Chainsaw
+--- 19-04-19 03:39:33
+Major(8)
+Major(3)
+Chainsaw
+--- 19-04-19 03:39:39
+Major(8)
+Major(3)
+Chainsaw
+--- 19-04-19 03:39:44
+Major(8)
+Major(3)
+Chainsaw
+--- 19-04-19 03:39:47
+Major(8)
+Major(3)
+Chainsaw
+--- 19-04-24 02:13:42
+RanKoR.cL
+TOKIMIKE
+M79
+--- 19-04-24 02:13:57
+TOKIMIKE
+RanKoR.cL
+XM214 Minigun
+--- 19-04-24 02:14:32
+RanKoR.cL
+TOKIMIKE
+USSOCOM
+--- 19-04-24 02:16:03
+RanKoR.cL
+TOKIMIKE
+XM214 Minigun
+--- 19-04-24 02:16:28
+TOKIMIKE
+RanKoR.cL
+M79
+--- 19-04-24 02:16:37
+RanKoR.cL
+TOKIMIKE
+Grenade
+--- 19-04-24 02:17:00
+TOKIMIKE
+RanKoR.cL
+Spas-12
+--- 19-04-24 02:17:14
+TOKIMIKE
+RanKoR.cL
+Chainsaw
+--- 19-04-24 02:17:23
+RanKoR.cL
+GENERAL Z
+M79
+--- 19-04-24 02:17:32
+GENERAL Z
+RanKoR.cL
+Barrett M82A1
+--- 19-04-24 02:18:00
+TOKIMIKE
+RanKoR.cL
+Chainsaw
+--- 19-04-24 02:18:18
+RanKoR.cL
+TOKIMIKE
+Combat Knife
+--- 19-04-24 02:20:09
+TOKIMIKE
+RanKoR.cL
+Barrett M82A1
+--- 19-04-24 02:20:17
+RanKoR.cL
+RanKoR.cL
+M79
+--- 19-04-24 02:20:47
+RanKoR.cL
+TOKIMIKE
+Barrett M82A1
+--- 19-04-24 02:22:16
+TOKIMIKE
+RanKoR.cL
+LAW
+--- 19-04-24 02:22:56
+TOKIMIKE
+RanKoR.cL
+LAW
+--- 19-04-24 02:23:20
+RanKoR.cL
+TOKIMIKE
+Grenade
+--- 19-04-24 02:23:37
+RanKoR.cL
+TOKIMIKE
+Grenade
+--- 19-04-24 02:23:49
+RanKoR.cL
+TOKIMIKE
+Combat Knife
+--- 19-04-24 02:23:55
+(GM) Galaxie
+RanKoR.cL
+HK MP5
+--- 19-04-24 02:24:06
+RanKoR.cL
+TOKIMIKE
+HK MP5
+--- 19-04-24 02:24:11
+RanKoR.cL
+(GM) Galaxie
+HK MP5
+--- 19-04-24 02:24:14
+RanKoR.cL
+TOKIMIKE
+HK MP5
+--- 19-04-24 02:24:17
+RanKoR.cL
+(GM) Galaxie
+HK MP5
+--- 19-04-24 02:24:24
+(GM) Galaxie
+RanKoR.cL
+HK MP5
+--- 19-04-24 02:24:32
+RanKoR.cL
+(GM) Galaxie
+Grenade
+--- 19-04-24 02:24:39
+(GM) Galaxie
+RanKoR.cL
+HK MP5
+--- 19-04-24 02:24:49
+RanKoR.cL
+TOKIMIKE
+HK MP5
+--- 19-04-24 02:24:55
+RanKoR.cL
+TOKIMIKE
+HK MP5
+--- 19-04-24 02:25:00
+(GM) Galaxie
+RanKoR.cL
+HK MP5
+--- 19-04-24 02:25:06
+RanKoR.cL
+(GM) Galaxie
+Grenade
+--- 19-04-24 02:25:14
+(GM) Galaxie
+RanKoR.cL
+HK MP5
+--- 19-04-24 02:25:41
+TOKIMIKE
+RanKoR.cL
+Spas-12
+--- 19-04-24 02:26:05
+TOKIMIKE
+RanKoR.cL
+Spas-12
+--- 19-04-24 02:26:12
+TOKIMIKE
+RanKoR.cL
+Spas-12
+--- 19-04-24 02:26:13
+RanKoR.cL
+TOKIMIKE
+Combat Knife
+--- 19-04-24 02:26:18
+RanKoR.cL
+TOKIMIKE
+Combat Knife
+--- 19-04-24 02:26:24
+TOKIMIKE
+RanKoR.cL
+Hands
+--- 19-04-24 02:26:42
+RanKoR.cL
+TOKIMIKE
+Combat Knife
+--- 19-04-24 02:27:24
+TOKIMIKE
+RanKoR.cL
+Spas-12
+--- 19-04-24 02:27:30
+TOKIMIKE
+RanKoR.cL
+Spas-12
+--- 19-04-24 02:27:35
+RanKoR.cL
+TOKIMIKE
+Spas-12
+--- 19-04-24 02:27:40
+RanKoR.cL
+TOKIMIKE
+Spas-12
+--- 19-04-24 02:27:46
+TOKIMIKE
+RanKoR.cL
+Ruger 77
+--- 19-04-24 02:28:02
+TOKIMIKE
+RanKoR.cL
+Ruger 77
+--- 19-04-24 02:28:39
+TOKIMIKE
+RanKoR.cL
+Ruger 77
+--- 19-04-24 02:28:56
+RanKoR.cL
+TOKIMIKE
+Chainsaw
+--- 19-04-24 02:29:01
+RanKoR.cL
+TOKIMIKE
+Chainsaw
+--- 19-04-24 02:29:16
+RanKoR.cL
+TOKIMIKE
+Chainsaw
+--- 19-04-24 02:30:08
+TOKIMIKE
+RanKoR.cL
+Spas-12
+--- 19-04-24 02:30:18
+TOKIMIKE
+RanKoR.cL
+Spas-12
+--- 19-04-24 02:30:26
+RanKoR.cL
+TOKIMIKE
+USSOCOM
+--- 19-04-24 02:30:32
+TOKIMIKE
+RanKoR.cL
+Steyr AUG
+--- 19-04-24 02:31:02
+RanKoR.cL
+TOKIMIKE
+M79
+--- 19-04-26 20:48:59
+Marcos | BRISA SKY
+Marcos | BRISA SKY
+Grenade

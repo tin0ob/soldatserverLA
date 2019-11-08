@@ -1,0 +1,1611 @@
+18-11-28 02:44:21    Console Log Started
+18-11-28 02:44:22 (RADIO)[cB.DrK] Enemy spotted up!
+18-11-28 02:44:23 (2) sT.- S E N Z A C L killed (1) N9nety N9ne with Grenade
+18-11-28 02:44:25 CrasheR captured the Blue Flag
+18-11-28 02:44:29 (2) sT.- YnGwi3 killed (1) CrasheR with HK MP5
+18-11-28 02:44:31 (1) cB.DrK killed (2) sT.- Enigma with Grenade
+18-11-28 02:44:33 sT.- S E N Z A C L returned the Blue Flag
+18-11-28 02:44:33 (RADIO)[cB.DrK] Enemy spotted up!
+18-11-28 02:44:35 (1) N9nety N9ne killed (2) sT.- YnGwi3 with Grenade
+18-11-28 02:44:44 CrasheR captured the Blue Flag
+18-11-28 02:44:45 (1) N9nety N9ne killed (2) sT.- Enigma with HK MP5
+18-11-28 02:44:45 (2) sT.- Enigma killed (1) N9nety N9ne with Grenade
+18-11-28 02:44:49 (2) sT.- YnGwi3 killed (1) CrasheR with HK MP5
+18-11-28 02:44:50 (1) cB.DrK killed (2) sT.- S E N Z A C L with Grenade
+18-11-28 02:44:51 [CrasheR] lell
+18-11-28 02:44:55 (2) sT.- Enigma killed (1) N9nety N9ne with Grenade
+18-11-28 02:44:56 (RADIO)[N9nety N9ne] Enemy spotted down!
+18-11-28 02:44:57 sT.- YnGwi3 returned the Blue Flag
+18-11-28 02:44:58 cB.DrK captured the Blue Flag
+18-11-28 02:44:59 (1) cB.DrK killed (2) sT.- YnGwi3 with Steyr AUG
+18-11-28 02:45:00 (2) sT.- S E N Z A C L killed (1) cB.DrK with Ruger 77
+18-11-28 02:45:05 sT.- Enigma returned the Blue Flag
+18-11-28 02:45:06 (1) CrasheR killed (2) sT.- YnGwi3 with Grenade
+18-11-28 02:45:06 (1) N9nety N9ne killed (2) sT.- Enigma with HK MP5
+18-11-28 02:45:10 N9nety N9ne captured the Blue Flag
+18-11-28 02:45:10 (1) CrasheR killed (2) sT.- Enigma with Ak-74
+18-11-28 02:45:11 (2) sT.- YnGwi3 killed (1) N9nety N9ne with HK MP5
+18-11-28 02:45:11 (2) sT.- Enigma killed (1) CrasheR with Grenade
+18-11-28 02:45:11 sT.- S E N Z A C L captured the Red Flag
+18-11-28 02:45:13 (1) cB.DrK killed (2) sT.- YnGwi3 with Steyr AUG
+18-11-28 02:45:14 (RADIO)[N9nety N9ne] Enemy flagger up!
+18-11-28 02:45:15 cB.DrK captured the Blue Flag
+18-11-28 02:45:15 (RADIO)[CrasheR] Friendly flagger middle!
+18-11-28 02:45:19 (2) sT.- S E N Z A C L killed (1) cB.DrK with Ruger 77
+18-11-28 02:45:21 (1) CrasheR killed (2) sT.- Enigma with Grenade
+18-11-28 02:45:23 [cB.DrK] ns
+18-11-28 02:45:25 (2) sT.- YnGwi3 killed (1) cB.DrK with Grenade
+18-11-28 02:45:27 (1) N9nety N9ne killed (2) sT.- S E N Z A C L with HK MP5
+18-11-28 02:45:27 sT.- YnGwi3 returned the Blue Flag
+18-11-28 02:45:28 (2) sT.- Enigma killed (1) CrasheR with Grenade
+18-11-28 02:45:29 sT.- Enigma captured the Red Flag
+18-11-28 02:45:29 sT.- Enigma scores for Bravo Team
+18-11-28 02:45:29 (2) sT.- Enigma killed (1) N9nety N9ne with Steyr AUG
+18-11-28 02:45:31 [CrasheR] What the hell are you?
+18-11-28 02:45:31 [N9nety N9ne] oof
+18-11-28 02:45:36 (1) N9nety N9ne killed (2) sT.- Enigma with Grenade
+18-11-28 02:45:37 (1) CrasheR killed (2) sT.- S E N Z A C L with Grenade
+18-11-28 02:45:46 (2) sT.- YnGwi3 killed (1) CrasheR with Grenade
+18-11-28 02:45:47 (RADIO)[CrasheR] Enemy spotted down!
+18-11-28 02:45:48 N9nety N9ne captured the Blue Flag
+18-11-28 02:45:48 (2) sT.- S E N Z A C L killed (1) N9nety N9ne with Ruger 77
+18-11-28 02:45:51 (1) cB.DrK killed (2) sT.- Enigma with Steyr AUG
+18-11-28 02:45:51 (2) sT.- S E N Z A C L killed (1) cB.DrK with Ruger 77
+18-11-28 02:45:53 (1) N9nety N9ne killed (2) sT.- YnGwi3 with Spas-12
+18-11-28 02:45:59 (1) cB.DrK killed (2) sT.- S E N Z A C L with Steyr AUG
+18-11-28 02:46:00 (2) sT.- Enigma killed (1) N9nety N9ne with Grenade
+18-11-28 02:46:01 Time Left: 5 minutes
+18-11-28 02:46:03 (1) CrasheR killed (2) sT.- Enigma with Ak-74
+18-11-28 02:46:04 (2) sT.- S E N Z A C L killed (1) cB.DrK with Ruger 77
+18-11-28 02:46:08 (2) sT.- Enigma killed (1) N9nety N9ne with Steyr AUG
+18-11-28 02:46:08 (2) sT.- Enigma killed (1) CrasheR with Grenade
+18-11-28 02:46:09 (RADIO)[CrasheR] Enemy spotted up!
+18-11-28 02:46:11 (RADIO)[N9nety N9ne] Enemy spotted up!
+18-11-28 02:46:15 (1) CrasheR killed (2) sT.- YnGwi3 with Ak-74
+18-11-28 02:46:17 (1) N9nety N9ne killed (2) sT.- Enigma with Spas-12
+18-11-28 02:46:19 (1) cB.DrK killed (2) sT.- S E N Z A C L with Grenade
+18-11-28 02:46:27 (1) cB.DrK killed (2) sT.- Enigma with Steyr AUG
+18-11-28 02:46:31 (2) sT.- YnGwi3 killed (1) cB.DrK with HK MP5
+18-11-28 02:46:31 (2) sT.- Enigma killed (1) CrasheR with Steyr AUG
+18-11-28 02:46:36 (2) sT.- S E N Z A C L killed (1) N9nety N9ne with Ruger 77
+18-11-28 02:46:36 N9nety N9ne is flooding the server
+18-11-28 02:46:37 sT.- YnGwi3 returned the Blue Flag
+18-11-28 02:46:38 (RADIO)[N9nety N9ne] Enemy spotted down!
+18-11-28 02:46:39 (TEAM)[N9nety N9ne] 2
+18-11-28 02:46:39 (2) sT.- Enigma killed (1) CrasheR with Combat Knife
+18-11-28 02:46:40 (RADIO)[CrasheR] Enemy spotted middle!
+18-11-28 02:46:43 (1) N9nety N9ne killed (2) sT.- YnGwi3 with Grenade
+18-11-28 02:46:43 cB.DrK captured the Blue Flag
+18-11-28 02:46:45 (2) sT.- S E N Z A C L killed (1) cB.DrK with Ruger 77
+18-11-28 02:46:45 (1) N9nety N9ne killed (2) sT.- Enigma with Spas-12
+18-11-28 02:46:49 sT.- Enigma returned the Blue Flag
+18-11-28 02:46:51 (1) CrasheR killed (2) sT.- YnGwi3 with Grenade
+18-11-28 02:46:51 (2) sT.- YnGwi3 killed (1) CrasheR with HK MP5
+18-11-28 02:46:52 (2) sT.- S E N Z A C L killed (1) N9nety N9ne with Ruger 77
+18-11-28 02:46:53 (1) N9nety N9ne killed (2) sT.- S E N Z A C L with Spas-12
+18-11-28 02:46:53 (RADIO)[N9nety N9ne] Enemy spotted down!
+18-11-28 02:46:55 [N9nety N9ne] Yeah
+18-11-28 02:46:56 (1) cB.DrK killed (2) sT.- Enigma with Steyr AUG
+18-11-28 02:46:57 (1) cB.DrK killed (2) sT.- YnGwi3 with Grenade
+18-11-28 02:47:00 cB.DrK captured the Blue Flag
+18-11-28 02:47:01 Time Left: 4 minutes
+18-11-28 02:47:01 (2) sT.- Enigma killed (1) CrasheR with Combat Knife
+18-11-28 02:47:03 (1) N9nety N9ne killed (2) sT.- S E N Z A C L with Spas-12
+18-11-28 02:47:03 (RADIO)[CrasheR] Enemy spotted up!
+18-11-28 02:47:04 (2) sT.- Enigma killed (1) cB.DrK with Grenade
+18-11-28 02:47:07 sT.- Enigma returned the Blue Flag
+18-11-28 02:47:08 (2) sT.- S E N Z A C L killed (1) N9nety N9ne with Ruger 77
+18-11-28 02:47:10 (RADIO)[N9nety N9ne] Enemy spotted middle!
+18-11-28 02:47:11 (1) CrasheR killed (2) sT.- YnGwi3 with Grenade
+18-11-28 02:47:11 (RADIO)[N9nety N9ne] Enemy spotted up!
+18-11-28 02:47:12 (1) cB.DrK killed (2) sT.- Enigma with Grenade
+18-11-28 02:47:14 (1) N9nety N9ne killed (2) sT.- S E N Z A C L with Grenade
+18-11-28 02:47:17 (2) sT.- Enigma killed (1) CrasheR with Steyr AUG
+18-11-28 02:47:20 (2) sT.- S E N Z A C L killed (1) cB.DrK with Ruger 77
+18-11-28 02:47:22 (1) N9nety N9ne killed (2) sT.- Enigma with Spas-12
+18-11-28 02:47:23 (2) sT.- S E N Z A C L killed (1) N9nety N9ne with Ruger 77
+18-11-28 02:47:25 (RADIO)[N9nety N9ne] Enemy spotted down!
+18-11-28 02:47:26 (TEAM)[N9nety N9ne] WEAK
+18-11-28 02:47:26 (1) cB.DrK killed (2) sT.- S E N Z A C L with Steyr AUG
+18-11-28 02:47:27 (RADIO)[N9nety N9ne] Enemy spotted middle!
+18-11-28 02:47:28 (2) sT.- YnGwi3 killed (1) CrasheR with HK MP5
+18-11-28 02:47:30 (1) N9nety N9ne killed (2) sT.- YnGwi3 with Spas-12
+18-11-28 02:47:33 (1) cB.DrK killed (2) sT.- Enigma with Combat Knife
+18-11-28 02:47:34 (2) sT.- YnGwi3 killed (1) N9nety N9ne with HK MP5
+18-11-28 02:47:36 (1) cB.DrK killed (2) sT.- S E N Z A C L with Combat Knife
+18-11-28 02:47:37 (RADIO)[N9nety N9ne] Enemy spotted up!
+18-11-28 02:47:40 (2) sT.- Enigma killed (1) cB.DrK with Steyr AUG
+18-11-28 02:47:42 (2) sT.- S E N Z A C L killed (1) CrasheR with Ruger 77
+18-11-28 02:47:44 (2) sT.- YnGwi3 killed (1) N9nety N9ne with Grenade
+18-11-28 02:47:50 (2) sT.- S E N Z A C L killed (1) cB.DrK with Grenade
+18-11-28 02:47:51 (2) sT.- Enigma killed (1) CrasheR with Steyr AUG
+18-11-28 02:47:52 (1) N9nety N9ne killed (2) sT.- YnGwi3 with Spas-12
+18-11-28 02:47:53 (RADIO)[CrasheR] Enemy spotted middle!
+18-11-28 02:47:54 (2) sT.- S E N Z A C L killed (1) N9nety N9ne with Ruger 77
+18-11-28 02:47:54 (1) N9nety N9ne killed (2) sT.- Enigma with Spas-12
+18-11-28 02:47:54 (TEAM)[CrasheR] ewak
+18-11-28 02:47:55 sT.- S E N Z A C L captured the Red Flag
+18-11-28 02:47:56 (RADIO)[N9nety N9ne] Enemy flagger down!
+18-11-28 02:47:57 (1) CrasheR killed (2) sT.- S E N Z A C L with Ak-74
+18-11-28 02:48:01 cB.DrK returned the Red Flag
+18-11-28 02:48:01 Time Left: 3 minutes
+18-11-28 02:48:04 (1) CrasheR killed (2) sT.- Enigma with Ak-74
+18-11-28 02:48:05 (RADIO)[CrasheR] Enemy spotted up!
+18-11-28 02:48:06 (2) sT.- YnGwi3 killed (1) N9nety N9ne with HK MP5
+18-11-28 02:48:07 (RADIO)[N9nety N9ne] Enemy spotted down!
+18-11-28 02:48:09 sT.- S E N Z A C L captured the Red Flag
+18-11-28 02:48:10 CrasheR returned the Red Flag
+18-11-28 02:48:11 (1) cB.DrK killed (2) sT.- S E N Z A C L with Steyr AUG
+18-11-28 02:48:13 (1) cB.DrK killed (2) sT.- YnGwi3 with Combat Knife
+18-11-28 02:48:16 (2) sT.- S E N Z A C L killed (1) CrasheR with Ruger 77
+18-11-28 02:48:18 (2) sT.- Enigma killed (1) cB.DrK with Combat Knife
+18-11-28 02:48:18 N9nety N9ne captured the Blue Flag
+18-11-28 02:48:20 (RADIO)[CrasheR] Friendly flagger up!
+18-11-28 02:48:22 (2) sT.- YnGwi3 killed (1) N9nety N9ne with HK MP5
+18-11-28 02:48:23 CrasheR captured the Blue Flag
+18-11-28 02:48:24 (1) cB.DrK killed (2) sT.- Enigma with Steyr AUG
+18-11-28 02:48:25 (1) cB.DrK killed (2) sT.- S E N Z A C L with Steyr AUG
+18-11-28 02:48:26 cB.DrK returned the Red Flag
+18-11-28 02:48:26 (2) sT.- YnGwi3 killed (1) CrasheR with HK MP5
+18-11-28 02:48:26 cB.DrK captured the Blue Flag
+18-11-28 02:48:27 (2) sT.- YnGwi3 killed (1) cB.DrK with HK MP5
+18-11-28 02:48:28 (RADIO)[CrasheR] Friendly flagger down!
+18-11-28 02:48:29 (2) sT.- YnGwi3 killed (1) N9nety N9ne with Combat Knife
+18-11-28 02:48:29 (1) N9nety N9ne killed (2) sT.- YnGwi3 with Spas-12
+18-11-28 02:48:29 [cB.DrK] lol
+18-11-28 02:48:35 (1) cB.DrK killed (2) sT.- Enigma with Steyr AUG
+18-11-28 02:48:35 cB.DrK captured the Blue Flag
+18-11-28 02:48:37 (1) N9nety N9ne killed (2) sT.- S E N Z A C L with Spas-12
+18-11-28 02:48:39 cB.DrK scores for Alpha Team
+18-11-28 02:48:41 (1) N9nety N9ne killed (2) sT.- YnGwi3 with Grenade
+18-11-28 02:48:45 (2) sT.- Enigma killed (1) N9nety N9ne with Grenade
+18-11-28 02:48:45 (2) sT.- Enigma killed (1) cB.DrK with Grenade
+18-11-28 02:48:46 (RADIO)[N9nety N9ne] Enemy spotted middle!
+18-11-28 02:48:47 (1) CrasheR killed (2) sT.- Enigma with Ak-74
+18-11-28 02:48:50 (1) cB.DrK killed (2) sT.- S E N Z A C L with Steyr AUG
+18-11-28 02:48:51 (2) sT.- YnGwi3 killed (1) N9nety N9ne with Grenade
+18-11-28 02:48:52 (RADIO)[N9nety N9ne] Enemy spotted middle!
+18-11-28 02:48:53 (1) cB.DrK killed (2) sT.- YnGwi3 with Steyr AUG
+18-11-28 02:48:54 (2) sT.- YnGwi3 killed (1) CrasheR with Grenade
+18-11-28 02:48:55 [CrasheR] Son of a bitch!
+18-11-28 02:48:57 (2) sT.- S E N Z A C L killed (1) cB.DrK with Grenade
+18-11-28 02:49:01 Time Left: 2 minutes
+18-11-28 02:49:02 (2) sT.- S E N Z A C L killed (1) CrasheR with Ruger 77
+18-11-28 02:49:03 (1) cB.DrK killed (2) sT.- Enigma with Grenade
+18-11-28 02:49:04 (1) cB.DrK killed (2) sT.- S E N Z A C L with Steyr AUG
+18-11-28 02:49:07 (2) sT.- YnGwi3 killed (1) N9nety N9ne with HK MP5
+18-11-28 02:49:08 (RADIO)[N9nety N9ne] Enemy spotted down!
+18-11-28 02:49:09 (RADIO)[cB.DrK] Enemy spotted down!
+18-11-28 02:49:11 (1) CrasheR killed (2) sT.- YnGwi3 with Grenade
+18-11-28 02:49:14 (1) cB.DrK killed (2) sT.- Enigma with Grenade
+18-11-28 02:49:14 (RADIO)[CrasheR] Enemy spotted down!
+18-11-28 02:49:17 CrasheR captured the Blue Flag
+18-11-28 02:49:17 (1) CrasheR killed (2) sT.- YnGwi3 with Grenade
+18-11-28 02:49:19 (1) cB.DrK killed (2) sT.- S E N Z A C L with Steyr AUG
+18-11-28 02:49:19 (2) sT.- S E N Z A C L killed (1) cB.DrK with Ruger 77
+18-11-28 02:49:19 (2) sT.- YnGwi3 killed (1) CrasheR with Grenade
+18-11-28 02:49:21 (RADIO)[CrasheR] Friendly flagger down!
+18-11-28 02:49:22 N9nety N9ne captured the Blue Flag
+18-11-28 02:49:24 (2) sT.- YnGwi3 killed (1) N9nety N9ne with HK MP5
+18-11-28 02:49:25 (RADIO)[N9nety N9ne] Enemy spotted middle!
+18-11-28 02:49:28 (2) sT.- YnGwi3 killed (1) CrasheR with Grenade
+18-11-28 02:49:29 (RADIO)[CrasheR] Enemy spotted down!
+18-11-28 02:49:30 (TEAM)[CrasheR] ewak
+18-11-28 02:49:33 (1) N9nety N9ne killed (2) sT.- Enigma with Spas-12
+18-11-28 02:49:33 sT.- YnGwi3 returned the Blue Flag
+18-11-28 02:49:33 cB.DrK captured the Blue Flag
+18-11-28 02:49:35 (2) sT.- S E N Z A C L killed (1) cB.DrK with Grenade
+18-11-28 02:49:36 sT.- S E N Z A C L returned the Blue Flag
+18-11-28 02:49:38 (2) sT.- YnGwi3 killed (1) N9nety N9ne with Grenade
+18-11-28 02:49:43 (2) sT.- Enigma killed (1) CrasheR with Ak-74
+18-11-28 02:49:45 (RADIO)[CrasheR] Enemy spotted down!
+18-11-28 02:49:46 (TEAM)[CrasheR] ewak
+18-11-28 02:49:47 (1) N9nety N9ne killed (2) sT.- YnGwi3 with Spas-12
+18-11-28 02:49:48 (2) sT.- S E N Z A C L killed (1) cB.DrK with Ruger 77
+18-11-28 02:49:49 sT.- Enigma captured the Red Flag
+18-11-28 02:49:49 (1) CrasheR killed (2) sT.- Enigma with Ak-74
+18-11-28 02:49:50 N9nety N9ne captured the Blue Flag
+18-11-28 02:49:53 (2) sT.- YnGwi3 killed (1) N9nety N9ne with HK MP5
+18-11-28 02:49:55 (RADIO)[N9nety N9ne] Enemy spotted middle!
+18-11-28 02:49:55 sT.- S E N Z A C L returned the Blue Flag
+18-11-28 02:49:55 CrasheR returned the Red Flag
+18-11-28 02:49:55 (RADIO)[N9nety N9ne] Enemy spotted middle!
+18-11-28 02:49:56 (1) cB.DrK killed (2) sT.- S E N Z A C L with Grenade
+18-11-28 02:49:58 (2) sT.- Enigma killed (1) CrasheR with Grenade
+18-11-28 02:50:01 (2) sT.- Enigma killed (1) cB.DrK with Grenade
+18-11-28 02:50:01 (1) N9nety N9ne killed (2) sT.- YnGwi3 with Spas-12
+18-11-28 02:50:01 Time Left: 1 minutes
+18-11-28 02:50:07 sT.- Enigma captured the Red Flag
+18-11-28 02:50:09 N9nety N9ne captured the Blue Flag
+18-11-28 02:50:11 (2) sT.- YnGwi3 killed (1) N9nety N9ne with HK MP5
+18-11-28 02:50:12 (1) CrasheR killed (2) sT.- S E N Z A C L with Ak-74
+18-11-28 02:50:12 (RADIO)[N9nety N9ne] Friendly flagger down!
+18-11-28 02:50:14 (1) CrasheR killed (2) sT.- Enigma with Ak-74
+18-11-28 02:50:16 (2) sT.- YnGwi3 killed (1) cB.DrK with Hands
+18-11-28 02:50:17 CrasheR returned the Red Flag
+18-11-28 02:50:17 sT.- YnGwi3 returned the Blue Flag
+18-11-28 02:50:20 (2) sT.- YnGwi3 killed (1) N9nety N9ne with Grenade
+18-11-28 02:50:21 (RADIO)[N9nety N9ne] Enemy spotted middle!
+18-11-28 02:50:22 (2) sT.- YnGwi3 killed (1) CrasheR with Combat Knife
+18-11-28 02:50:23 (RADIO)[CrasheR] Enemy spotted down!
+18-11-28 02:50:23 (1) cB.DrK killed (2) sT.- S E N Z A C L with Steyr AUG
+18-11-28 02:50:25 (TEAM)[CrasheR] weak
+18-11-28 02:50:26 (1) cB.DrK killed (2) sT.- Enigma with Combat Knife
+18-11-28 02:50:28 (2) sT.- YnGwi3 killed (1) cB.DrK with HK MP5
+18-11-28 02:50:29 (1) N9nety N9ne killed (2) sT.- YnGwi3 with Spas-12
+18-11-28 02:50:35 (2) sT.- S E N Z A C L killed (1) cB.DrK with Ruger 77
+18-11-28 02:50:36 [cB.DrK] I ain't got time to bleed!
+18-11-28 02:50:36 sT.- S E N Z A C L captured the Red Flag
+18-11-28 02:50:37 (2) sT.- YnGwi3 killed (1) CrasheR with HK MP5
+18-11-28 02:50:37 N9nety N9ne captured the Blue Flag
+18-11-28 02:50:38 (2) sT.- YnGwi3 killed (1) N9nety N9ne with HK MP5
+18-11-28 02:50:40 sT.- YnGwi3 returned the Blue Flag
+18-11-28 02:50:40 (RADIO)[N9nety N9ne] Enemy spotted middle!
+18-11-28 02:50:41 (2) sT.- Enigma killed (1) cB.DrK with Grenade
+18-11-28 02:50:43 (1) CrasheR killed (2) sT.- Enigma with Ak-74
+18-11-28 02:50:44 (1) CrasheR killed (2) sT.- YnGwi3 with Ak-74
+18-11-28 02:50:44 sT.- S E N Z A C L scores for Bravo Team
+18-11-28 02:50:49 (1) cB.DrK killed (2) sT.- S E N Z A C L with Steyr AUG
+18-11-28 02:50:49 (2) sT.- Enigma killed (1) CrasheR with Steyr AUG
+18-11-28 02:50:49 (1) CrasheR killed (2) sT.- Enigma with Combat Knife
+18-11-28 02:50:51 N9nety N9ne captured the Blue Flag
+18-11-28 02:50:51 (2) sT.- YnGwi3 killed (1) N9nety N9ne with Grenade
+18-11-28 02:50:53 (2) sT.- YnGwi3 killed (1) cB.DrK with HK MP5
+18-11-28 02:50:53 [N9nety N9ne] Yeah
+18-11-28 02:50:58 (2) sT.- YnGwi3 killed (1) CrasheR with Grenade
+18-11-28 02:50:59 (1) N9nety N9ne killed (2) sT.- YnGwi3 with Spas-12
+18-11-28 02:50:59 [CrasheR] Yeah
+18-11-28 02:51:01 Next map: Lobby
+18-11-28 02:51:03 [N9nety N9ne] Come'on!
+18-11-28 02:51:06 [sT.- Enigma] gg
+18-11-28 02:51:07 Lothic - Gothic Lobby Room
+18-11-28 02:51:08 [N9nety N9ne] Yes, Sir!
+18-11-28 02:51:21 [sT.- YnGwi3] !info
+18-11-28 02:51:21 /say Gather.SA (elapsed time 0:14:57) (206.81.24.116)
+18-11-28 02:51:21 /say Alpha: DrK - ItsFrosty  - Enigma (206.81.24.116)
+18-11-28 02:51:21 /say Bravo: CrasheR - SenzacL - YnGwi3 (206.81.24.116)
+18-11-28 02:51:21 /say Tiebreaker: ctf_Guardian (206.81.24.116)
+18-11-28 02:51:32 N9nety N9ne is flooding the server
+18-11-28 02:51:40 [sT.- YnGwi3] !map Ash
+18-11-28 02:51:43 (RADIO)[N9nety N9ne] Enemy spotted down!
+18-11-28 02:51:46 ctf_Ash by chakapoko maker
+18-11-28 02:52:07 (1) cB.DrK killed (2) sT.- Enigma with M79
+18-11-28 02:52:09 sT.- YnGwi3 captured the Red Flag
+18-11-28 02:52:13 [CrasheR] Yeah
+18-11-28 02:52:15 (2) sT.- Enigma killed (1) cB.DrK with Barrett M82A1
+18-11-28 02:52:18 sT.- YnGwi3 scores for Bravo Team
+18-11-28 02:52:20 N9nety N9ne captured the Blue Flag
+18-11-28 02:52:20 (1) cB.DrK killed (2) sT.- Enigma with Grenade
+18-11-28 02:52:22 (1) N9nety N9ne killed (2) sT.- YnGwi3 with Barrett M82A1
+18-11-28 02:52:22 (2) sT.- YnGwi3 killed (1) N9nety N9ne with HK MP5
+18-11-28 02:52:23 (1) cB.DrK killed (2) sT.- S E N Z A C L with M79
+18-11-28 02:52:23 [sT.- S E N Z A C L] go'?
+18-11-28 02:52:23 [sT.- YnGwi3] I am the law!
+18-11-28 02:52:27 cB.DrK captured the Blue Flag
+18-11-28 02:52:29 [CrasheR] Yes, Sir!
+18-11-28 02:52:30 (1) cB.DrK killed (2) sT.- YnGwi3 with M79
+18-11-28 02:52:30 [sT.- S E N Z A C L] R
+18-11-28 02:52:31 [sT.- S E N Z A C L] !R
+18-11-28 02:52:31 Restarting...
+18-11-28 02:52:36 ctf_Ash by chakapoko maker
+18-11-28 02:52:41 (2) sT.- Enigma killed (1) CrasheR with Steyr AUG
+18-11-28 02:52:42 (RADIO)[CrasheR] Enemy spotted up!
+18-11-28 02:52:43 [cB.DrK] ?
+18-11-28 02:52:46 (2) sT.- S E N Z A C L killed (1) N9nety N9ne with Grenade
+18-11-28 02:52:46 (1) N9nety N9ne killed (2) sT.- S E N Z A C L with Barrett M82A1
+18-11-28 02:52:46 sT.- YnGwi3 captured the Red Flag
+18-11-28 02:52:50 (RADIO)[N9nety N9ne] Enemy spotted middle!
+18-11-28 02:52:51 (1) cB.DrK killed (2) sT.- YnGwi3 with Grenade
+18-11-28 02:52:52 cB.DrK returned the Red Flag
+18-11-28 02:52:53 (1) N9nety N9ne killed (2) sT.- Enigma with Grenade
+18-11-28 02:52:54 (2) sT.- Enigma killed (1) N9nety N9ne with Grenade
+18-11-28 02:52:57 (1) cB.DrK killed (2) sT.- YnGwi3 with M79
+18-11-28 02:52:59 [sT.- YnGwi3] Yes, Sir!
+18-11-28 02:52:59 [sT.- YnGwi3] Come'on!
+18-11-28 02:52:59 [sT.- YnGwi3] Die!
+18-11-28 02:52:59 (2) sT.- Enigma killed (1) CrasheR with Steyr AUG
+18-11-28 02:53:05 (1) cB.DrK killed (2) sT.- Enigma with M79
+18-11-28 02:53:09 (1) cB.DrK killed (2) sT.- YnGwi3 with M79
+18-11-28 02:53:09 (1) CrasheR killed (2) sT.- S E N Z A C L with Barrett M82A1
+18-11-28 02:53:13 (1) CrasheR killed (2) sT.- Enigma with Barrett M82A1
+18-11-28 02:53:13 (2) sT.- Enigma killed (1) CrasheR with Grenade
+18-11-28 02:53:16 (1) cB.DrK killed (2) sT.- S E N Z A C L with M79
+18-11-28 02:53:17 N9nety N9ne captured the Blue Flag
+18-11-28 02:53:21 (2) sT.- Enigma killed (1) N9nety N9ne with Steyr AUG
+18-11-28 02:53:22 (RADIO)[N9nety N9ne] Friendly flagger down!
+18-11-28 02:53:27 sT.- YnGwi3 captured the Red Flag
+18-11-28 02:53:27 (2) sT.- S E N Z A C L killed (1) cB.DrK with M79
+18-11-28 02:53:28 (1) N9nety N9ne killed (2) sT.- YnGwi3 with HK MP5
+18-11-28 02:53:29 sT.- Enigma returned the Blue Flag
+18-11-28 02:53:31 (2) sT.- Enigma killed (1) N9nety N9ne with Steyr AUG
+18-11-28 02:53:31 (2) sT.- S E N Z A C L killed (1) cB.DrK with M79
+18-11-28 02:53:32 (RADIO)[N9nety N9ne] Enemy spotted down!
+18-11-28 02:53:33 (RADIO)[cB.DrK] Enemy flagger down!
+18-11-28 02:53:33 (TEAM)[N9nety N9ne] BASE
+18-11-28 02:53:34 sT.- Enigma captured the Red Flag
+18-11-28 02:53:37 (2) sT.- YnGwi3 killed (1) N9nety N9ne with Grenade
+18-11-28 02:53:42 (2) sT.- YnGwi3 killed (1) cB.DrK with HK MP5
+18-11-28 02:53:44 (2) sT.- YnGwi3 killed (1) CrasheR with HK MP5
+18-11-28 02:53:46 (2) sT.- S E N Z A C L killed (1) N9nety N9ne with M79
+18-11-28 02:53:48 (TEAM)[CrasheR] kct acertei brt e faca
+18-11-28 02:53:49 (1) cB.DrK killed (2) sT.- Enigma with M79
+18-11-28 02:53:51 (1) cB.DrK killed (2) sT.- S E N Z A C L with Combat Knife
+18-11-28 02:53:52 cB.DrK captured the Blue Flag
+18-11-28 02:53:53 sT.- YnGwi3 captured the Red Flag
+18-11-28 02:53:54 (2) sT.- YnGwi3 killed (1) cB.DrK with HK MP5
+18-11-28 02:53:57 (2) sT.- Enigma killed (1) N9nety N9ne with Steyr AUG
+18-11-28 02:53:58 (2) sT.- Enigma killed (1) CrasheR with Steyr AUG
+18-11-28 02:53:59 sT.- YnGwi3 returned the Blue Flag
+18-11-28 02:54:02 (2) sT.- Enigma killed (1) cB.DrK with Combat Knife
+18-11-28 02:54:02 sT.- YnGwi3 scores for Bravo Team
+18-11-28 02:54:02 (1) cB.DrK killed (2) sT.- YnGwi3 with M79
+18-11-28 02:54:02 [sT.- YnGwi3] Yes, Sir!
+18-11-28 02:54:04 (TEAM)[cB.DrK] ai trollaram
+18-11-28 02:54:05 (2) sT.- S E N Z A C L killed (1) CrasheR with M79
+18-11-28 02:54:09 (2) sT.- Enigma killed (1) N9nety N9ne with M79
+18-11-28 02:54:10 (2) sT.- S E N Z A C L killed (1) CrasheR with M79
+18-11-28 02:54:12 (1) cB.DrK killed (2) sT.- YnGwi3 with Combat Knife
+18-11-28 02:54:13 (TEAM)[CrasheR] b
+18-11-28 02:54:13 (2) sT.- Enigma killed (1) cB.DrK with Steyr AUG
+18-11-28 02:54:17 (1) N9nety N9ne killed (2) sT.- S E N Z A C L with HK MP5
+18-11-28 02:54:19 (2) sT.- Enigma killed (1) CrasheR with Steyr AUG
+18-11-28 02:54:22 (1) cB.DrK killed (2) sT.- Enigma with M79
+18-11-28 02:54:25 (2) sT.- S E N Z A C L killed (1) cB.DrK with M79
+18-11-28 02:54:30 sT.- S E N Z A C L captured the Red Flag
+18-11-28 02:54:30 N9nety N9ne captured the Blue Flag
+18-11-28 02:54:31 (2) sT.- Enigma killed (1) N9nety N9ne with Grenade
+18-11-28 02:54:33 (1) CrasheR killed (2) sT.- Enigma with Barrett M82A1
+18-11-28 02:54:34 (2) sT.- S E N Z A C L killed (1) cB.DrK with M79
+18-11-28 02:54:36 (RADIO)[cB.DrK] Enemy flagger middle!
+18-11-28 02:54:36 CrasheR captured the Blue Flag
+18-11-28 02:54:40 (1) N9nety N9ne killed (2) sT.- YnGwi3 with Spas-12
+18-11-28 02:54:43 (1) CrasheR killed (2) sT.- Enigma with Combat Knife
+18-11-28 02:54:44 (1) cB.DrK killed (2) sT.- S E N Z A C L with M79
+18-11-28 02:54:46 cB.DrK returned the Red Flag
+18-11-28 02:54:48 (1) cB.DrK killed (2) sT.- YnGwi3 with M79
+18-11-28 02:54:53 CrasheR scores for Alpha Team
+18-11-28 02:54:53 (2) sT.- S E N Z A C L killed (1) CrasheR with M79
+18-11-28 02:54:55 (2) sT.- Enigma killed (1) cB.DrK with M79
+18-11-28 02:54:57 (RADIO)[cB.DrK] Enemy spotted up!
+18-11-28 02:55:00 sT.- YnGwi3 captured the Red Flag
+18-11-28 02:55:01 (1) CrasheR killed (2) sT.- S E N Z A C L with Barrett M82A1
+18-11-28 02:55:03 (2) sT.- YnGwi3 killed (1) N9nety N9ne with HK MP5
+18-11-28 02:55:04 (RADIO)[N9nety N9ne] Enemy flagger down!
+18-11-28 02:55:05 CrasheR captured the Blue Flag
+18-11-28 02:55:07 (2) sT.- Enigma killed (1) cB.DrK with Grenade
+18-11-28 02:55:10 (2) sT.- S E N Z A C L killed (1) CrasheR with M79
+18-11-28 02:55:11 (1) CrasheR killed (2) sT.- S E N Z A C L with Barrett M82A1
+18-11-28 02:55:12 (1) N9nety N9ne killed (2) sT.- YnGwi3 with Spas-12
+18-11-28 02:55:15 sT.- Enigma returned the Blue Flag
+18-11-28 02:55:17 (2) sT.- YnGwi3 killed (1) CrasheR with HK MP5
+18-11-28 02:55:18 N9nety N9ne returned the Red Flag
+18-11-28 02:55:19 (2) sT.- S E N Z A C L killed (1) N9nety N9ne with M79
+18-11-28 02:55:20 [CrasheR] !p
+18-11-28 02:55:20 Pausing...
+18-11-28 02:55:20 (RADIO)[N9nety N9ne] Enemy spotted down!
+18-11-28 02:55:23 [sT.- Enigma] xD
+18-11-28 02:55:26 [CrasheR] ping
+18-11-28 02:55:29 [cB.DrK] lol, now I will miss it
+18-11-28 02:55:31 [cB.DrK] for sure
+18-11-28 02:55:32 (TEAM)[CrasheR] cu de internet por isso os caras n estavam morrendo
+18-11-28 02:55:56 (TEAM)[CrasheR] puta ódio dessa net
+18-11-28 02:56:06 [sT.- Enigma] i hope so
+18-11-28 02:56:13 [cB.DrK] yeah I will miss it
+18-11-28 02:56:16 (TEAM)[cB.DrK] base hot guys
+18-11-28 02:56:17 (RADIO)[N9nety N9ne] Enemy spotted down!
+18-11-28 02:56:20 (TEAM)[cB.DrK] we will need some help here
+18-11-28 02:56:23 [sT.- Enigma] close chatrutbate 
+18-11-28 02:56:23 [N9nety N9ne] Yes, Sir!
+18-11-28 02:56:26 [sT.- Enigma] crasher
+18-11-28 02:56:41 [cB.DrK] vamo band?
+18-11-28 02:56:41 [CrasheR] !p
+18-11-28 02:56:41 Paused!
+18-11-28 02:56:43 [CrasheR] !up
+18-11-28 02:56:43 Unpausing in: 3
+18-11-28 02:56:44 Unpausing in: 2
+18-11-28 02:56:45 (RADIO)[N9nety N9ne] Enemy spotted down!
+18-11-28 02:56:45 Unpausing in: 1
+18-11-28 02:56:46 Go!
+18-11-28 02:56:48 (2) sT.- Enigma killed (1) cB.DrK with Steyr AUG
+18-11-28 02:56:50 [cB.DrK] told you
+18-11-28 02:56:50 sT.- Enigma captured the Red Flag
+18-11-28 02:56:53 (2) sT.- Enigma killed (1) CrasheR with Steyr AUG
+18-11-28 02:56:55 (1) N9nety N9ne killed (2) sT.- YnGwi3 with Spas-12
+18-11-28 02:56:55 (1) cB.DrK killed (2) sT.- Enigma with M79
+18-11-28 02:56:57 (2) sT.- S E N Z A C L killed (1) N9nety N9ne with M79
+18-11-28 02:56:58 sT.- S E N Z A C L captured the Red Flag
+18-11-28 02:56:59 (RADIO)[N9nety N9ne] Enemy flagger down!
+18-11-28 02:57:00 (RADIO)[N9nety N9ne] Enemy spotted down!
+18-11-28 02:57:02 (2) sT.- S E N Z A C L killed (1) cB.DrK with M79
+18-11-28 02:57:02 (1) CrasheR killed (2) sT.- YnGwi3 with Barrett M82A1
+18-11-28 02:57:02 (1) CrasheR killed (2) sT.- Enigma with Barrett M82A1
+18-11-28 02:57:03 sT.- S E N Z A C L scores for Bravo Team
+18-11-28 02:57:07 (1) N9nety N9ne killed (2) sT.- S E N Z A C L with Grenade
+18-11-28 02:57:09 N9nety N9ne captured the Blue Flag
+18-11-28 02:57:11 (2) sT.- YnGwi3 killed (1) N9nety N9ne with HK MP5
+18-11-28 02:57:12 (2) sT.- Enigma killed (1) CrasheR with Grenade
+18-11-28 02:57:15 [CrasheR] Die!
+18-11-28 02:57:15 (1) cB.DrK killed (2) sT.- YnGwi3 with M79
+18-11-28 02:57:19 (2) sT.- S E N Z A C L killed (1) CrasheR with M79
+18-11-28 02:57:19 (2) sT.- YnGwi3 killed (1) cB.DrK with Combat Knife
+18-11-28 02:57:29 (2) sT.- Enigma killed (1) CrasheR with Steyr AUG
+18-11-28 02:57:31 (1) N9nety N9ne killed (2) sT.- YnGwi3 with HK MP5
+18-11-28 02:57:31 (1) cB.DrK killed (2) sT.- S E N Z A C L with M79
+18-11-28 02:57:33 (2) sT.- Enigma killed (1) N9nety N9ne with Steyr AUG
+18-11-28 02:57:34 (RADIO)[N9nety N9ne] Enemy spotted up!
+18-11-28 02:57:35 (2) sT.- Enigma killed (1) cB.DrK with Grenade
+18-11-28 02:57:37 sT.- Enigma captured the Red Flag
+18-11-28 02:57:38 (1) CrasheR killed (2) sT.- Enigma with Barrett M82A1
+18-11-28 02:57:46 N9nety N9ne captured the Blue Flag
+18-11-28 02:57:48 (1) cB.DrK killed (2) sT.- YnGwi3 with M79
+18-11-28 02:57:50 (1) cB.DrK killed (2) sT.- Enigma with Combat Knife
+18-11-28 02:57:53 (2) sT.- YnGwi3 killed (1) CrasheR with HK MP5
+18-11-28 02:57:55 (1) cB.DrK killed (2) sT.- YnGwi3 with M79
+18-11-28 02:57:58 N9nety N9ne returned the Red Flag
+18-11-28 02:57:59 (2) sT.- Enigma killed (1) N9nety N9ne with Steyr AUG
+18-11-28 02:57:59 (1) cB.DrK killed (2) sT.- Enigma with M79
+18-11-28 02:58:01 cB.DrK captured the Blue Flag
+18-11-28 02:58:01 sT.- S E N Z A C L captured the Red Flag
+18-11-28 02:58:05 [CrasheR] Die!
+18-11-28 02:58:07 (1) cB.DrK killed (2) sT.- YnGwi3 with M79
+18-11-28 02:58:07 (2) sT.- YnGwi3 killed (1) cB.DrK with HK MP5
+18-11-28 02:58:07 sT.- S E N Z A C L captured the Red Flag
+18-11-28 02:58:07 [CrasheR] Son of a bitch!
+18-11-28 02:58:10 sT.- Enigma returned the Blue Flag
+18-11-28 02:58:12 CrasheR returned the Red Flag
+18-11-28 02:58:12 (2) sT.- Enigma killed (1) N9nety N9ne with Steyr AUG
+18-11-28 02:58:12 sT.- Enigma captured the Red Flag
+18-11-28 02:58:12 (1) CrasheR killed (2) sT.- S E N Z A C L with Barrett M82A1
+18-11-28 02:58:16 (2) sT.- Enigma killed (1) CrasheR with Steyr AUG
+18-11-28 02:58:16 (1) CrasheR killed (2) sT.- Enigma with Barrett M82A1
+18-11-28 02:58:17 (2) sT.- YnGwi3 killed (1) N9nety N9ne with HK MP5
+18-11-28 02:58:18 cB.DrK returned the Red Flag
+18-11-28 02:58:19 (TEAM)[N9nety N9ne] BASE
+18-11-28 02:58:21 (2) sT.- YnGwi3 killed (1) cB.DrK with HK MP5
+18-11-28 02:58:23 (2) sT.- S E N Z A C L killed (1) N9nety N9ne with M79
+18-11-28 02:58:23 sT.- YnGwi3 captured the Red Flag
+18-11-28 02:58:24 (RADIO)[N9nety N9ne] Enemy flagger up!
+18-11-28 02:58:25 (1) cB.DrK killed (2) sT.- S E N Z A C L with Combat Knife
+18-11-28 02:58:28 (2) sT.- YnGwi3 killed (1) cB.DrK with HK MP5
+18-11-28 02:58:30 (1) cB.DrK killed (2) sT.- Enigma with Grenade
+18-11-28 02:58:30 (RADIO)[cB.DrK] Enemy flagger up!
+18-11-28 02:58:32 (2) sT.- YnGwi3 killed (1) CrasheR with HK MP5
+18-11-28 02:58:33 (2) sT.- S E N Z A C L killed (1) N9nety N9ne with Grenade
+18-11-28 02:58:33 sT.- YnGwi3 scores for Bravo Team
+18-11-28 02:58:35 (RADIO)[N9nety N9ne] Enemy spotted middle!
+18-11-28 02:58:35 (2) sT.- S E N Z A C L killed (1) cB.DrK with M79
+18-11-28 02:58:36 [sT.- S E N Z A C L] Yeah
+18-11-28 02:58:42 (2) sT.- YnGwi3 killed (1) CrasheR with HK MP5
+18-11-28 02:58:43 (2) sT.- S E N Z A C L killed (1) N9nety N9ne with Grenade
+18-11-28 02:58:43 (1) N9nety N9ne killed (2) sT.- S E N Z A C L with Grenade
+18-11-28 02:58:43 (1) cB.DrK killed (2) sT.- YnGwi3 with M79
+18-11-28 02:58:47 (2) sT.- Enigma killed (1) CrasheR with M79
+18-11-28 02:58:49 (RADIO)[CrasheR] Enemy spotted up!
+18-11-28 02:58:51 sT.- Enigma captured the Red Flag
+18-11-28 02:58:56 (1) CrasheR killed (2) sT.- Enigma with Ak-74
+18-11-28 02:58:56 [sT.- YnGwi3] Yes, Sir!
+18-11-28 02:58:58 CrasheR returned the Red Flag
+18-11-28 02:58:58 [cB.DrK] ...
+18-11-28 02:58:59 (2) sT.- S E N Z A C L killed (1) N9nety N9ne with M79
+18-11-28 02:59:02 Time Left: 5 minutes
+18-11-28 02:59:03 (1) cB.DrK killed (2) sT.- S E N Z A C L with M79
+18-11-28 02:59:04 (2) sT.- S E N Z A C L killed (1) cB.DrK with Grenade
+18-11-28 02:59:04 (2) sT.- YnGwi3 killed (1) CrasheR with Grenade
+18-11-28 02:59:06 (2) sT.- Enigma killed (1) N9nety N9ne with Combat Knife
+18-11-28 02:59:07 (TEAM)[N9nety N9ne] bnase
+18-11-28 02:59:08 sT.- Enigma captured the Red Flag
+18-11-28 02:59:11 (2) sT.- YnGwi3 killed (1) N9nety N9ne with HK MP5
+18-11-28 02:59:13 (RADIO)[N9nety N9ne] Enemy flagger down!
+18-11-28 02:59:13 [CrasheR] !p
+18-11-28 02:59:13 Pausing...
+18-11-28 02:59:15 [sT.- S E N Z A C L] Yeah
+18-11-28 02:59:18 [sT.- S E N Z A C L] XD
+18-11-28 02:59:22 [cB.DrK] third time now that I shoot someone and I suicide
+18-11-28 02:59:25 [cB.DrK] fucking retard game
+18-11-28 02:59:25 [sT.- S E N Z A C L] XDD
+18-11-28 02:59:29 (TEAM)[CrasheR] vo resetar meu modem
+18-11-28 02:59:29 [N9nety N9ne] Yeah
+18-11-28 02:59:36 CrasheR has left alpha team.
+18-11-28 03:00:37 177.205.23.159:23073|4D93886F25E requesting game...
+18-11-28 03:00:38 CrasheR joining game (177.205.23.159:23073) HWID:4D93886F25E
+18-11-28 03:00:38 CrasheR has joined alpha team.
+18-11-28 03:00:41 [N9nety N9ne] Got it!
+18-11-28 03:00:47 [sT.- Enigma] meu deus
+18-11-28 03:00:49 [CrasheR] wtf my ping
+18-11-28 03:00:50 [sT.- Enigma] crasher
+18-11-28 03:00:53 [sT.- S E N Z A C L] xddd
+18-11-28 03:00:56 [cB.DrK] bom reset no modem
+18-11-28 03:00:58 [sT.- YnGwi3] but its 
+18-11-28 03:00:58 [cB.DrK] EUAUHEHUAEUHHUAEUHAE
+18-11-28 03:00:58 [CrasheR] ahushsua
+18-11-28 03:01:00 [sT.- YnGwi3] stable
+18-11-28 03:01:00 [sT.- YnGwi3] xd
+18-11-28 03:01:02 [CrasheR] olha isso cara
+18-11-28 03:01:03 [cB.DrK] tua net é mto fudida
+18-11-28 03:01:04 [sT.- Enigma] HUEHUE KKK
+18-11-28 03:01:05 [sT.- Enigma] porra
+18-11-28 03:01:06 [cB.DrK] n sei como tu aguenta
+18-11-28 03:01:07 [CrasheR] mano
+18-11-28 03:01:11 [CrasheR] namoral
+18-11-28 03:01:12 [cB.DrK] não tem outra operadora ai não né?
+18-11-28 03:01:14 [cB.DrK] só esse lixo?
+18-11-28 03:01:14 [sT.- Enigma] lixo manito
+18-11-28 03:01:18 [cB.DrK] nem é horário de pico
+18-11-28 03:01:20 [cB.DrK] de madrugada
+18-11-28 03:01:23 [cB.DrK] era pra ser o melhor horário
+18-11-28 03:01:25 [cB.DrK] que lixo
+18-11-28 03:01:26 [CrasheR] era pra meu ping estar 16
+18-11-28 03:01:31 [cB.DrK] !up
+18-11-28 03:01:31 Unpausing in: 3
+18-11-28 03:01:32 Unpausing in: 2
+18-11-28 03:01:33 [sT.- YnGwi3] go
+18-11-28 03:01:33 [cB.DrK] vamo
+18-11-28 03:01:33 [CrasheR] amanha vou reclamar
+18-11-28 03:01:33 Unpausing in: 1
+18-11-28 03:01:34 Go!
+18-11-28 03:01:36 (RADIO)[N9nety N9ne] Enemy flagger down!
+18-11-28 03:01:41 sT.- Enigma scores for Bravo Team
+18-11-28 03:01:47 (2) sT.- Enigma killed (1) N9nety N9ne with Grenade
+18-11-28 03:01:49 (1) cB.DrK killed (2) sT.- S E N Z A C L with M79
+18-11-28 03:01:50 (2) sT.- Enigma killed (1) CrasheR with Steyr AUG
+18-11-28 03:01:56 (1) N9nety N9ne killed (2) sT.- Enigma with Ruger 77
+18-11-28 03:01:57 (2) sT.- YnGwi3 killed (1) CrasheR with HK MP5
+18-11-28 03:02:00 (2) sT.- S E N Z A C L killed (1) N9nety N9ne with Barrett M82A1
+18-11-28 03:02:02 (RADIO)[N9nety N9ne] Enemy spotted up!
+18-11-28 03:02:02 (1) CrasheR killed (2) sT.- S E N Z A C L with FN Minimi
+18-11-28 03:02:02 (1) N9nety N9ne killed (2) sT.- Enigma with Grenade
+18-11-28 03:02:02 (1) N9nety N9ne killed (2) sT.- YnGwi3 with Grenade
+18-11-28 03:02:11 (1) N9nety N9ne killed (2) sT.- YnGwi3 with Ruger 77
+18-11-28 03:02:12 (2) sT.- S E N Z A C L killed (1) CrasheR with Barrett M82A1
+18-11-28 03:02:13 (1) cB.DrK killed (2) sT.- Enigma with Grenade
+18-11-28 03:02:13 (2) sT.- Enigma killed (1) cB.DrK with Grenade
+18-11-28 03:02:15 N9nety N9ne captured the Blue Flag
+18-11-28 03:02:18 (2) sT.- YnGwi3 killed (1) N9nety N9ne with HK MP5
+18-11-28 03:02:21 (RADIO)[N9nety N9ne] Enemy spotted down!
+18-11-28 03:02:21 (2) sT.- S E N Z A C L killed (1) cB.DrK with Grenade
+18-11-28 03:02:22 [sT.- S E N Z A C L] Yeah
+18-11-28 03:02:23 (2) sT.- Enigma killed (1) CrasheR with M79
+18-11-28 03:02:23 (1) N9nety N9ne killed (2) sT.- YnGwi3 with Grenade
+18-11-28 03:02:24 Time Left: 4 minutes
+18-11-28 03:02:26 [CrasheR] wtf?
+18-11-28 03:02:29 sT.- Enigma returned the Blue Flag
+18-11-28 03:02:34 (2) sT.- YnGwi3 killed (1) N9nety N9ne with HK MP5
+18-11-28 03:02:34 (1) N9nety N9ne killed (2) sT.- YnGwi3 with Ruger 77
+18-11-28 03:02:37 [CrasheR] !p
+18-11-28 03:02:37 Pausing...
+18-11-28 03:02:39 [CrasheR] !sub
+18-11-28 03:02:39 /say Sub was called... (206.81.24.116)
+18-11-28 03:02:40 [sT.- YnGwi3] lel
+18-11-28 03:02:40 [sT.- Enigma] xD
+18-11-28 03:02:40 [N9nety N9ne] zzz
+18-11-28 03:02:41 [sT.- YnGwi3] jaja
+18-11-28 03:02:43 [sT.- S E N Z A C L] gogo
+18-11-28 03:02:45 [CrasheR] sem condições
+18-11-28 03:02:45 (TEAM)[cB.DrK] cara, deixa essa porra
+18-11-28 03:02:46 (TEAM)[cB.DrK] foda-se
+18-11-28 03:02:48 [sT.- YnGwi3] gogo while
+18-11-28 03:02:53 (TEAM)[cB.DrK] vamo jogar logo pra acabar
+18-11-28 03:02:56 (TEAM)[cB.DrK] n vai ter sub essa hora
+18-11-28 03:02:57 (TEAM)[CrasheR] mano eu fui jogar a faca dropou as duas armas de uma vez 
+18-11-28 03:03:01 (TEAM)[cB.DrK] EHUAUHSAHUEHAUHE
+18-11-28 03:03:05 [CrasheR] !up
+18-11-28 03:03:05 Unpausing in: 3
+18-11-28 03:03:06 [sT.- YnGwi3] 50  ping
+18-11-28 03:03:06 [sT.- YnGwi3] go
+18-11-28 03:03:06 (TEAM)[cB.DrK] vamo terminar vai
+18-11-28 03:03:06 Unpausing in: 2
+18-11-28 03:03:07 Unpausing in: 1
+18-11-28 03:03:08 Go!
+18-11-28 03:03:09 (2) sT.- Enigma killed (1) cB.DrK with M79
+18-11-28 03:03:09 (TEAM)[sT.- S E N Z A C L] HUEAHEUAEHAEUAH
+18-11-28 03:03:13 (2) sT.- S E N Z A C L killed (1) N9nety N9ne with Barrett M82A1
+18-11-28 03:03:13 (1) N9nety N9ne killed (2) sT.- Enigma with Ruger 77
+18-11-28 03:03:19 (1) cB.DrK killed (2) sT.- S E N Z A C L with M79
+18-11-28 03:03:21 (2) sT.- Enigma killed (1) CrasheR with Grenade
+18-11-28 03:03:27 (1) N9nety N9ne killed (2) sT.- YnGwi3 with Ruger 77
+18-11-28 03:03:28 (2) sT.- S E N Z A C L killed (1) N9nety N9ne with Barrett M82A1
+18-11-28 03:03:31 sT.- Enigma captured the Red Flag
+18-11-28 03:03:32 (2) sT.- S E N Z A C L killed (1) CrasheR with Barrett M82A1
+18-11-28 03:03:36 (2) sT.- Enigma killed (1) cB.DrK with M79
+18-11-28 03:03:36 (1) cB.DrK killed (2) sT.- Enigma with M79
+18-11-28 03:03:37 (1) N9nety N9ne killed (2) sT.- YnGwi3 with Grenade
+18-11-28 03:03:41 CrasheR returned the Red Flag
+18-11-28 03:03:41 sT.- S E N Z A C L captured the Red Flag
+18-11-28 03:03:42 (2) sT.- Enigma killed (1) N9nety N9ne with M79
+18-11-28 03:03:43 (1) CrasheR killed (2) sT.- S E N Z A C L with FN Minimi
+18-11-28 03:03:43 (1) cB.DrK killed (2) sT.- Enigma with M79
+18-11-28 03:03:47 (2) sT.- YnGwi3 killed (1) cB.DrK with HK MP5
+18-11-28 03:03:52 CrasheR captured the Blue Flag
+18-11-28 03:03:53 (1) CrasheR killed (2) sT.- YnGwi3 with FN Minimi
+18-11-28 03:03:55 Time Left: 3 minutes
+18-11-28 03:03:56 (2) sT.- S E N Z A C L killed (1) cB.DrK with Barrett M82A1
+18-11-28 03:03:58 [cB.DrK] lol dude
+18-11-28 03:03:59 (RADIO)[N9nety N9ne] Enemy spotted down!
+18-11-28 03:04:01 (1) cB.DrK killed (2) sT.- S E N Z A C L with Grenade
+18-11-28 03:04:02 CrasheR scores for Alpha Team
+18-11-28 03:04:03 (2) sT.- YnGwi3 killed (1) CrasheR with Grenade
+18-11-28 03:04:04 sT.- YnGwi3 captured the Red Flag
+18-11-28 03:04:04 (TEAM)[CrasheR] b
+18-11-28 03:04:06 (1) N9nety N9ne killed (2) sT.- YnGwi3 with Ruger 77
+18-11-28 03:04:07 N9nety N9ne returned the Red Flag
+18-11-28 03:04:08 (2) sT.- Enigma killed (1) cB.DrK with M79
+18-11-28 03:04:09 (1) CrasheR killed (2) sT.- Enigma with FN Minimi
+18-11-28 03:04:10 (2) sT.- S E N Z A C L killed (1) N9nety N9ne with Barrett M82A1
+18-11-28 03:04:11 (RADIO)[N9nety N9ne] Enemy spotted middle!
+18-11-28 03:04:13 (2) sT.- YnGwi3 killed (1) CrasheR with Grenade
+18-11-28 03:04:18 (2) sT.- Enigma killed (1) cB.DrK with Grenade
+18-11-28 03:04:21 sT.- S E N Z A C L captured the Red Flag
+18-11-28 03:04:22 (1) cB.DrK killed (2) sT.- YnGwi3 with Combat Knife
+18-11-28 03:04:24 (1) N9nety N9ne killed (2) sT.- S E N Z A C L with Barrett M82A1
+18-11-28 03:04:26 N9nety N9ne returned the Red Flag
+18-11-28 03:04:29 (2) sT.- Enigma killed (1) cB.DrK with Barrett M82A1
+18-11-28 03:04:31 (1) N9nety N9ne killed (2) sT.- Enigma with Barrett M82A1
+18-11-28 03:04:35 (2) sT.- YnGwi3 killed (1) CrasheR with HK MP5
+18-11-28 03:04:41 (1) cB.DrK killed (2) sT.- YnGwi3 with M79
+18-11-28 03:04:47 CrasheR captured the Blue Flag
+18-11-28 03:04:48 (2) sT.- Enigma killed (1) CrasheR with Combat Knife
+18-11-28 03:04:51 (TEAM)[CrasheR] ydnv dropu
+18-11-28 03:04:53 N9nety N9ne captured the Blue Flag
+18-11-28 03:04:53 (2) sT.- YnGwi3 killed (1) N9nety N9ne with HK MP5
+18-11-28 03:04:54 (1) cB.DrK killed (2) sT.- Enigma with M79
+18-11-28 03:04:54 cB.DrK captured the Blue Flag
+18-11-28 03:04:55 Time Left: 2 minutes
+18-11-28 03:04:56 (2) sT.- YnGwi3 killed (1) cB.DrK with HK MP5
+18-11-28 03:05:06 N9nety N9ne captured the Blue Flag
+18-11-28 03:05:10 (1) cB.DrK killed (2) sT.- S E N Z A C L with M79
+18-11-28 03:05:12 (1) cB.DrK killed (2) sT.- YnGwi3 with Grenade
+18-11-28 03:05:17 (2) sT.- Enigma killed (1) cB.DrK with Barrett M82A1
+18-11-28 03:05:21 (2) sT.- Enigma killed (1) N9nety N9ne with Barrett M82A1
+18-11-28 03:05:22 sT.- Enigma captured the Red Flag
+18-11-28 03:05:23 sT.- Enigma returned the Blue Flag
+18-11-28 03:05:23 (1) cB.DrK killed (2) sT.- Enigma with Grenade
+18-11-28 03:05:24 [N9nety N9ne] er
+18-11-28 03:05:24 CrasheR captured the Blue Flag
+18-11-28 03:05:25 [sT.- Enigma] YEAH!
+18-11-28 03:05:25 (2) sT.- YnGwi3 killed (1) cB.DrK with HK MP5
+18-11-28 03:05:25 (1) N9nety N9ne killed (2) sT.- S E N Z A C L with Combat Knife
+18-11-28 03:05:26 sT.- YnGwi3 captured the Red Flag
+18-11-28 03:05:29 (RADIO)[cB.DrK] Enemy flagger up!
+18-11-28 03:05:29 (1) N9nety N9ne killed (2) sT.- Enigma with Combat Knife
+18-11-28 03:05:32 (1) CrasheR killed (2) sT.- S E N Z A C L with M79
+18-11-28 03:05:34 (1) cB.DrK killed (2) sT.- YnGwi3 with M79
+18-11-28 03:05:37 (2) sT.- Enigma killed (1) cB.DrK with Barrett M82A1
+18-11-28 03:05:39 (2) sT.- Enigma killed (1) N9nety N9ne with Combat Knife
+18-11-28 03:05:40 sT.- Enigma captured the Red Flag
+18-11-28 03:05:41 (TEAM)[cB.DrK] lol dude
+18-11-28 03:05:43 (TEAM)[cB.DrK] seriously?
+18-11-28 03:05:46 (1) cB.DrK killed (2) sT.- YnGwi3 with M79
+18-11-28 03:05:47 (2) sT.- Enigma killed (1) N9nety N9ne with Barrett M82A1
+18-11-28 03:05:53 (2) sT.- YnGwi3 killed (1) cB.DrK with HK MP5
+18-11-28 03:05:53 [sT.- Enigma] YEAH!
+18-11-28 03:05:55 Time Left: 1 minutes
+18-11-28 03:05:56 [cB.DrK] ncie eat once again
+18-11-28 03:05:57 (2) sT.- YnGwi3 killed (1) N9nety N9ne with Grenade
+18-11-28 03:06:00 (2) sT.- S E N Z A C L killed (1) CrasheR with Barrett M82A1
+18-11-28 03:06:02 (1) cB.DrK killed (2) sT.- Enigma with M79
+18-11-28 03:06:04 sT.- S E N Z A C L returned the Blue Flag
+18-11-28 03:06:06 (1) N9nety N9ne killed (2) sT.- YnGwi3 with Barrett M82A1
+18-11-28 03:06:07 (2) sT.- Enigma killed (1) cB.DrK with Combat Knife
+18-11-28 03:06:09 (2) sT.- Enigma killed (1) N9nety N9ne with Grenade
+18-11-28 03:06:10 sT.- Enigma captured the Red Flag
+18-11-28 03:06:12 (RADIO)[cB.DrK] Enemy flagger down!
+18-11-28 03:06:14 CrasheR returned the Red Flag
+18-11-28 03:06:14 (1) CrasheR killed (2) sT.- Enigma with FN Minimi
+18-11-28 03:06:14 CrasheR captured the Blue Flag
+18-11-28 03:06:15 (2) sT.- YnGwi3 killed (1) CrasheR with Grenade
+18-11-28 03:06:17 (1) cB.DrK killed (2) sT.- YnGwi3 with M79
+18-11-28 03:06:19 cB.DrK captured the Blue Flag
+18-11-28 03:06:20 (2) sT.- S E N Z A C L killed (1) cB.DrK with Chainsaw
+18-11-28 03:06:20 sT.- S E N Z A C L returned the Blue Flag
+18-11-28 03:06:21 (2) sT.- S E N Z A C L killed (1) N9nety N9ne with Chainsaw
+18-11-28 03:06:25 (2) sT.- YnGwi3 killed (1) CrasheR with HK MP5
+18-11-28 03:06:28 (1) cB.DrK killed (2) sT.- YnGwi3 with M79
+18-11-28 03:06:30 (2) sT.- Enigma killed (1) N9nety N9ne with Ak-74
+18-11-28 03:06:30 (2) sT.- S E N Z A C L killed (1) cB.DrK with Grenade
+18-11-28 03:06:36 (1) cB.DrK killed (2) sT.- Enigma with M79
+18-11-28 03:06:37 (2) sT.- YnGwi3 killed (1) N9nety N9ne with HK MP5
+18-11-28 03:06:37 (1) N9nety N9ne killed (2) sT.- YnGwi3 with HK MP5
+18-11-28 03:06:38 CrasheR captured the Blue Flag
+18-11-28 03:06:40 (1) cB.DrK killed (2) sT.- Enigma with M79
+18-11-28 03:06:44 (1) cB.DrK killed (2) sT.- YnGwi3 with M79
+18-11-28 03:06:45 (2) sT.- S E N Z A C L killed (1) cB.DrK with Barrett M82A1
+18-11-28 03:06:47 (RADIO)[cB.DrK] Enemy spotted down!
+18-11-28 03:06:47 (1) N9nety N9ne killed (2) sT.- Enigma with HK MP5
+18-11-28 03:06:51 (2) sT.- S E N Z A C L killed (1) cB.DrK with Barrett M82A1
+18-11-28 03:06:51 [sT.- S E N Z A C L] Yeah
+18-11-28 03:06:53 CrasheR scores for Alpha Team
+18-11-28 03:06:53 N9nety N9ne captured the Blue Flag
+18-11-28 03:06:55 Next map: Lobby
+18-11-28 03:06:56 [sT.- YnGwi3] Yes, Sir!
+18-11-28 03:06:56 [sT.- Enigma] gg
+18-11-28 03:07:00 [sT.- Enigma] !tb
+18-11-28 03:07:00 /map ctf_Guardian (206.81.24.116)
+18-11-28 03:07:03 (TEAM)[CrasheR] mano dava p ganhar se eu n tivesse lag
+18-11-28 03:07:05 ctf_Guardian by SuoW
+18-11-28 03:07:10 (TEAM)[cB.DrK] relaxa, vamos ganhar essa
+18-11-28 03:07:11 (2) sT.- Enigma killed (1) CrasheR with Grenade
+18-11-28 03:07:12 sT.- S E N Z A C L captured the Red Flag
+18-11-28 03:07:13 (2) sT.- Enigma killed (1) cB.DrK with Combat Knife
+18-11-28 03:07:14 (2) sT.- S E N Z A C L killed (1) N9nety N9ne with M79
+18-11-28 03:07:14 [cB.DrK] !r
+18-11-28 03:07:14 Restarting...
+18-11-28 03:07:15 [cB.DrK] Engage at will!!!
+18-11-28 03:07:17 [sT.- YnGwi3] Yes, Sir!
+18-11-28 03:07:17 [cB.DrK] gl hf
+18-11-28 03:07:20 ctf_Guardian by SuoW
+18-11-28 03:07:23 (1) cB.DrK killed (2) sT.- S E N Z A C L with HK MP5
+18-11-28 03:07:25 (2) sT.- Enigma killed (1) cB.DrK with Steyr AUG
+18-11-28 03:07:25 (1) cB.DrK killed (2) sT.- Enigma with HK MP5
+18-11-28 03:07:31 CrasheR captured the Blue Flag
+18-11-28 03:07:31 (1) N9nety N9ne killed (2) sT.- S E N Z A C L with HK MP5
+18-11-28 03:07:32 (1) N9nety N9ne killed (2) sT.- YnGwi3 with HK MP5
+18-11-28 03:07:33 (2) sT.- Enigma killed (1) CrasheR with Combat Knife
+18-11-28 03:07:36 (1) cB.DrK killed (2) sT.- Enigma with HK MP5
+18-11-28 03:07:37 N9nety N9ne captured the Blue Flag
+18-11-28 03:07:38 (2) sT.- YnGwi3 killed (1) cB.DrK with Grenade
+18-11-28 03:07:41 (1) CrasheR killed (2) sT.- YnGwi3 with Grenade
+18-11-28 03:07:42 (2) sT.- S E N Z A C L killed (1) N9nety N9ne with Ruger 77
+18-11-28 03:07:42 sT.- S E N Z A C L captured the Red Flag
+18-11-28 03:07:43 sT.- S E N Z A C L returned the Blue Flag
+18-11-28 03:07:45 (1) cB.DrK killed (2) sT.- S E N Z A C L with HK MP5
+18-11-28 03:07:46 (2) sT.- Enigma killed (1) cB.DrK with Combat Knife
+18-11-28 03:07:47 sT.- Enigma captured the Red Flag
+18-11-28 03:07:48 (RADIO)[cB.DrK] Enemy flagger down!
+18-11-28 03:07:49 (RADIO)[cB.DrK] Enemy flagger down!
+18-11-28 03:07:49 (1) CrasheR killed (2) sT.- YnGwi3 with Combat Knife
+18-11-28 03:07:50 N9nety N9ne captured the Blue Flag
+18-11-28 03:07:51 (2) sT.- S E N Z A C L killed (1) CrasheR with Ruger 77
+18-11-28 03:07:52 (2) sT.- S E N Z A C L killed (1) N9nety N9ne with Ruger 77
+18-11-28 03:07:52 (1) N9nety N9ne killed (2) sT.- Enigma with HK MP5
+18-11-28 03:07:53 sT.- S E N Z A C L captured the Red Flag
+18-11-28 03:07:54 sT.- S E N Z A C L returned the Blue Flag
+18-11-28 03:07:56 (2) sT.- S E N Z A C L killed (1) cB.DrK with Ruger 77
+18-11-28 03:07:57 sT.- S E N Z A C L scores for Bravo Team
+18-11-28 03:08:03 (2) sT.- Enigma killed (1) N9nety N9ne with Steyr AUG
+18-11-28 03:08:03 (1) N9nety N9ne killed (2) sT.- S E N Z A C L with HK MP5
+18-11-28 03:08:04 (1) cB.DrK killed (2) sT.- YnGwi3 with Grenade
+18-11-28 03:08:05 (1) CrasheR killed (2) sT.- Enigma with FN Minimi
+18-11-28 03:08:06 cB.DrK captured the Blue Flag
+18-11-28 03:08:08 (2) sT.- S E N Z A C L killed (1) CrasheR with Ruger 77
+18-11-28 03:08:09 (1) N9nety N9ne killed (2) sT.- S E N Z A C L with Grenade
+18-11-28 03:08:12 cB.DrK scores for Alpha Team
+18-11-28 03:08:15 (2) sT.- YnGwi3 killed (1) N9nety N9ne with Spas-12
+18-11-28 03:08:15 (1) cB.DrK killed (2) sT.- YnGwi3 with HK MP5
+18-11-28 03:08:16 (1) cB.DrK killed (2) sT.- S E N Z A C L with HK MP5
+18-11-28 03:08:17 (RADIO)[N9nety N9ne] Enemy spotted middle!
+18-11-28 03:08:18 sT.- Enigma captured the Red Flag
+18-11-28 03:08:20 (2) sT.- Enigma killed (1) cB.DrK with Combat Knife
+18-11-28 03:08:21 (1) N9nety N9ne killed (2) sT.- Enigma with HK MP5
+18-11-28 03:08:24 N9nety N9ne returned the Red Flag
+18-11-28 03:08:25 (1) N9nety N9ne killed (2) sT.- YnGwi3 with HK MP5
+18-11-28 03:08:29 (1) cB.DrK killed (2) sT.- S E N Z A C L with HK MP5
+18-11-28 03:08:29 (2) sT.- Enigma killed (1) CrasheR with Steyr AUG
+18-11-28 03:08:34 (2) sT.- YnGwi3 killed (1) cB.DrK with Spas-12
+18-11-28 03:08:35 (1) N9nety N9ne killed (2) sT.- Enigma with HK MP5
+18-11-28 03:08:35 (RADIO)[cB.DrK] Enemy spotted middle!
+18-11-28 03:08:38 (1) CrasheR killed (2) sT.- YnGwi3 with FN Minimi
+18-11-28 03:08:38 (2) sT.- S E N Z A C L killed (1) CrasheR with Ruger 77
+18-11-28 03:08:41 (2) sT.- S E N Z A C L killed (1) N9nety N9ne with Ruger 77
+18-11-28 03:08:42 sT.- S E N Z A C L captured the Red Flag
+18-11-28 03:08:44 (1) cB.DrK killed (2) sT.- S E N Z A C L with HK MP5
+18-11-28 03:08:45 (2) sT.- Enigma killed (1) cB.DrK with Steyr AUG
+18-11-28 03:08:46 sT.- Enigma captured the Red Flag
+18-11-28 03:08:47 (1) CrasheR killed (2) sT.- Enigma with Grenade
+18-11-28 03:08:49 (2) sT.- YnGwi3 killed (1) N9nety N9ne with Spas-12
+18-11-28 03:08:50 (RADIO)[N9nety N9ne] Enemy spotted middle!
+18-11-28 03:08:51 (2) sT.- S E N Z A C L killed (1) cB.DrK with Ruger 77
+18-11-28 03:08:53 (RADIO)[cB.DrK] Enemy spotted up!
+18-11-28 03:08:54 CrasheR returned the Red Flag
+18-11-28 03:08:54 (2) sT.- YnGwi3 killed (1) CrasheR with Spas-12
+18-11-28 03:08:55 (RADIO)[CrasheR] Enemy spotted middle!
+18-11-28 03:08:57 (TEAM)[CrasheR] weak
+18-11-28 03:08:58 (1) cB.DrK killed (2) sT.- Enigma with HK MP5
+18-11-28 03:08:58 (1) N9nety N9ne killed (2) sT.- S E N Z A C L with HK MP5
+18-11-28 03:08:59 (2) sT.- YnGwi3 killed (1) cB.DrK with Spas-12
+18-11-28 03:09:02 (2) sT.- YnGwi3 killed (1) N9nety N9ne with Spas-12
+18-11-28 03:09:04 (RADIO)[N9nety N9ne] Enemy spotted middle!
+18-11-28 03:09:05 CrasheR captured the Blue Flag
+18-11-28 03:09:05 (1) cB.DrK killed (2) sT.- YnGwi3 with HK MP5
+18-11-28 03:09:05 (2) sT.- YnGwi3 killed (1) cB.DrK with Grenade
+18-11-28 03:09:08 (1) N9nety N9ne killed (2) sT.- S E N Z A C L with Grenade
+18-11-28 03:09:13 (2) sT.- Enigma killed (1) N9nety N9ne with Steyr AUG
+18-11-28 03:09:14 (2) sT.- YnGwi3 killed (1) CrasheR with Spas-12
+18-11-28 03:09:14 (1) cB.DrK killed (2) sT.- Enigma with HK MP5
+18-11-28 03:09:16 sT.- YnGwi3 returned the Blue Flag
+18-11-28 03:09:18 (1) cB.DrK killed (2) sT.- S E N Z A C L with HK MP5
+18-11-28 03:09:19 (2) sT.- YnGwi3 killed (1) CrasheR with Spas-12
+18-11-28 03:09:21 (1) N9nety N9ne killed (2) sT.- YnGwi3 with HK MP5
+18-11-28 03:09:22 (2) sT.- Enigma killed (1) N9nety N9ne with Steyr AUG
+18-11-28 03:09:23 (RADIO)[N9nety N9ne] Enemy spotted up!
+18-11-28 03:09:23 (2) sT.- S E N Z A C L killed (1) cB.DrK with Ruger 77
+18-11-28 03:09:26 sT.- Enigma captured the Red Flag
+18-11-28 03:09:29 (1) cB.DrK killed (2) sT.- S E N Z A C L with HK MP5
+18-11-28 03:09:29 (2) sT.- YnGwi3 killed (1) CrasheR with Grenade
+18-11-28 03:09:30 (1) N9nety N9ne killed (2) sT.- Enigma with HK MP5
+18-11-28 03:09:31 (2) sT.- YnGwi3 killed (1) N9nety N9ne with Spas-12
+18-11-28 03:09:32 (RADIO)[CrasheR] Enemy flagger down!
+18-11-28 03:09:36 (1) CrasheR killed (2) sT.- YnGwi3 with Ak-74
+18-11-28 03:09:38 cB.DrK returned the Red Flag
+18-11-28 03:09:40 (1) CrasheR killed (2) sT.- S E N Z A C L with Ak-74
+18-11-28 03:09:40 (1) N9nety N9ne killed (2) sT.- Enigma with HK MP5
+18-11-28 03:09:43 cB.DrK captured the Blue Flag
+18-11-28 03:09:43 (1) N9nety N9ne killed (2) sT.- YnGwi3 with Combat Knife
+18-11-28 03:09:47 (2) sT.- S E N Z A C L killed (1) N9nety N9ne with Ruger 77
+18-11-28 03:09:49 /say Sub was found: chub0 (206.81.24.116)
+18-11-28 03:09:49 cB.DrK scores for Alpha Team
+18-11-28 03:09:50 (2) sT.- S E N Z A C L killed (1) cB.DrK with Grenade
+18-11-28 03:09:50 (2) sT.- YnGwi3 killed (1) CrasheR with Spas-12
+18-11-28 03:09:54 sT.- Enigma captured the Red Flag
+18-11-28 03:09:55 (1) N9nety N9ne killed (2) sT.- Enigma with HK MP5
+18-11-28 03:09:56 (2) sT.- YnGwi3 killed (1) N9nety N9ne with Spas-12
+18-11-28 03:09:57 sT.- YnGwi3 captured the Red Flag
+18-11-28 03:09:58 (1) cB.DrK killed (2) sT.- YnGwi3 with HK MP5
+18-11-28 03:10:01 181.160.240.225:23073|1AB1A70909F requesting game...
+18-11-28 03:10:01 shioneD][chb0sp joining game (181.160.240.225:23073) HWID:1AB1A70909F
+18-11-28 03:10:01 shioneD][chb0sp has joined as spectator.
+18-11-28 03:10:01 (2) sT.- Enigma killed (1) CrasheR with Steyr AUG
+18-11-28 03:10:02 (1) N9nety N9ne killed (2) sT.- S E N Z A C L with Grenade
+18-11-28 03:10:07 (1) cB.DrK killed (2) sT.- YnGwi3 with HK MP5
+18-11-28 03:10:07 (2) sT.- S E N Z A C L killed (1) cB.DrK with Ruger 77
+18-11-28 03:10:08 [shioneD][chb0sp] sub o:?
+18-11-28 03:10:08 sT.- Enigma captured the Red Flag
+18-11-28 03:10:09 (2) sT.- Enigma killed (1) N9nety N9ne with Grenade
+18-11-28 03:10:10 (RADIO)[N9nety N9ne] Enemy flagger down!
+18-11-28 03:10:11 [cB.DrK] last map
+18-11-28 03:10:14 CrasheR captured the Blue Flag
+18-11-28 03:10:14 [shioneD][chb0sp] shitttt
+18-11-28 03:10:16 (1) CrasheR killed (2) sT.- Enigma with Ak-74
+18-11-28 03:10:16 [shioneD][chb0sp] shiitt
+18-11-28 03:10:16 (2) sT.- S E N Z A C L killed (1) cB.DrK with Ruger 77
+18-11-28 03:10:17 CrasheR returned the Red Flag
+18-11-28 03:10:17 (1) CrasheR killed (2) sT.- YnGwi3 with Ak-74
+18-11-28 03:10:18 [shioneD][chb0sp] hi frosty
+18-11-28 03:10:20 sT.- S E N Z A C L captured the Red Flag
+18-11-28 03:10:23 (1) N9nety N9ne killed (2) sT.- S E N Z A C L with HK MP5
+18-11-28 03:10:25 (2) sT.- YnGwi3 killed (1) CrasheR with Grenade
+18-11-28 03:10:25 (1) cB.DrK killed (2) sT.- YnGwi3 with Grenade
+18-11-28 03:10:26 (2) sT.- Enigma killed (1) N9nety N9ne with Grenade
+18-11-28 03:10:26 (1) cB.DrK killed (2) sT.- Enigma with HK MP5
+18-11-28 03:10:28 (TEAM)[CrasheR] b
+18-11-28 03:10:30 cB.DrK captured the Blue Flag
+18-11-28 03:10:30 cB.DrK scores for Alpha Team
+18-11-28 03:10:30 [N9nety N9ne] Yeah
+18-11-28 03:10:31 (2) sT.- S E N Z A C L killed (1) cB.DrK with Ruger 77
+18-11-28 03:10:34 (1) N9nety N9ne killed (2) sT.- S E N Z A C L with HK MP5
+18-11-28 03:10:35 (2) sT.- Enigma killed (1) CrasheR with Steyr AUG
+18-11-28 03:10:37 sT.- YnGwi3 captured the Red Flag
+18-11-28 03:10:37 (TEAM)[CrasheR] b 2
+18-11-28 03:10:38 (1) N9nety N9ne killed (2) sT.- YnGwi3 with Combat Knife
+18-11-28 03:10:39 (1) cB.DrK killed (2) sT.- Enigma with HK MP5
+18-11-28 03:10:43 (2) sT.- S E N Z A C L killed (1) CrasheR with Ruger 77
+18-11-28 03:10:44 N9nety N9ne captured the Blue Flag
+18-11-28 03:10:45 (2) sT.- YnGwi3 killed (1) N9nety N9ne with Spas-12
+18-11-28 03:10:47 sT.- S E N Z A C L captured the Red Flag
+18-11-28 03:10:47 (2) sT.- Enigma killed (1) cB.DrK with Hands
+18-11-28 03:10:50 (1) N9nety N9ne killed (2) sT.- S E N Z A C L with Grenade
+18-11-28 03:10:51 (1) CrasheR killed (2) sT.- YnGwi3 with Ak-74
+18-11-28 03:10:53 (1) N9nety N9ne killed (2) sT.- Enigma with HK MP5
+18-11-28 03:10:55 CrasheR captured the Blue Flag
+18-11-28 03:10:55 (2) sT.- S E N Z A C L killed (1) N9nety N9ne with Ruger 77
+18-11-28 03:10:55 (1) N9nety N9ne killed (2) sT.- S E N Z A C L with Combat Knife
+18-11-28 03:10:56 CrasheR returned the Red Flag
+18-11-28 03:10:57 (1) CrasheR killed (2) sT.- YnGwi3 with Ak-74
+18-11-28 03:11:01 CrasheR scores for Alpha Team
+18-11-28 03:11:02 (1) CrasheR killed (2) sT.- Enigma with Combat Knife
+18-11-28 03:11:05 (2) sT.- S E N Z A C L killed (1) N9nety N9ne with Ruger 77
+18-11-28 03:11:05 (2) sT.- S E N Z A C L killed (1) CrasheR with Ruger 77
+18-11-28 03:11:06 (RADIO)[N9nety N9ne] Enemy spotted up!
+18-11-28 03:11:07 (2) sT.- YnGwi3 killed (1) cB.DrK with Spas-12
+18-11-28 03:11:07 (TEAM)[CrasheR] v weak
+18-11-28 03:11:08 sT.- YnGwi3 captured the Red Flag
+18-11-28 03:11:10 (RADIO)[cB.DrK] Enemy flagger down!
+18-11-28 03:11:11 (2) sT.- Enigma killed (1) CrasheR with Grenade
+18-11-28 03:11:14 sT.- YnGwi3 scores for Bravo Team
+18-11-28 03:11:15 (2) sT.- YnGwi3 killed (1) N9nety N9ne with Spas-12
+18-11-28 03:11:15 (1) N9nety N9ne killed (2) sT.- YnGwi3 with Combat Knife
+18-11-28 03:11:19 (1) CrasheR killed (2) sT.- Enigma with Ak-74
+18-11-28 03:11:19 cB.DrK captured the Blue Flag
+18-11-28 03:11:20 (2) sT.- S E N Z A C L killed (1) CrasheR with Ruger 77
+18-11-28 03:11:23 (1) N9nety N9ne killed (2) sT.- YnGwi3 with HK MP5
+18-11-28 03:11:25 (2) sT.- S E N Z A C L killed (1) cB.DrK with Ruger 77
+18-11-28 03:11:26 (1) N9nety N9ne killed (2) sT.- S E N Z A C L with Combat Knife
+18-11-28 03:11:27 (2) sT.- Enigma killed (1) N9nety N9ne with Steyr AUG
+18-11-28 03:11:31 (2) sT.- YnGwi3 killed (1) N9nety N9ne with Spas-12
+18-11-28 03:11:31 CrasheR captured the Blue Flag
+18-11-28 03:11:33 sT.- YnGwi3 captured the Red Flag
+18-11-28 03:11:33 (1) cB.DrK killed (2) sT.- Enigma with HK MP5
+18-11-28 03:11:35 (2) sT.- YnGwi3 killed (1) CrasheR with Spas-12
+18-11-28 03:11:38 (1) N9nety N9ne killed (2) sT.- S E N Z A C L with HK MP5
+18-11-28 03:11:38 N9nety N9ne captured the Blue Flag
+18-11-28 03:11:39 (1) N9nety N9ne killed (2) sT.- YnGwi3 with HK MP5
+18-11-28 03:11:41 (1) N9nety N9ne killed (2) sT.- Enigma with HK MP5
+18-11-28 03:11:42 cB.DrK returned the Red Flag
+18-11-28 03:11:44 CrasheR captured the Blue Flag
+18-11-28 03:11:46 (2) sT.- Enigma killed (1) N9nety N9ne with Steyr AUG
+18-11-28 03:11:47 (1) CrasheR killed (2) sT.- S E N Z A C L with Combat Knife
+18-11-28 03:11:50 CrasheR scores for Alpha Team
+18-11-28 03:11:50 (2) sT.- YnGwi3 killed (1) CrasheR with Spas-12
+18-11-28 03:11:51 (1) cB.DrK killed (2) sT.- YnGwi3 with HK MP5
+18-11-28 03:11:51 (2) sT.- YnGwi3 killed (1) cB.DrK with Spas-12
+18-11-28 03:11:51 [CrasheR] Yeah
+18-11-28 03:11:54 sT.- Enigma captured the Red Flag
+18-11-28 03:11:55 (2) sT.- S E N Z A C L killed (1) CrasheR with Ruger 77
+18-11-28 03:11:56 (1) N9nety N9ne killed (2) sT.- Enigma with HK MP5
+18-11-28 03:11:57 (1) cB.DrK killed (2) sT.- S E N Z A C L with HK MP5
+18-11-28 03:11:59 (1) N9nety N9ne killed (2) sT.- YnGwi3 with Combat Knife
+18-11-28 03:12:01 (1) cB.DrK killed (2) sT.- Enigma with LAW
+18-11-28 03:12:02 (2) sT.- S E N Z A C L killed (1) N9nety N9ne with Ruger 77
+18-11-28 03:12:03 (1) CrasheR killed (2) sT.- S E N Z A C L with Combat Knife
+18-11-28 03:12:04 cB.DrK captured the Blue Flag
+18-11-28 03:12:04 (RADIO)[N9nety N9ne] Enemy spotted up!
+18-11-28 03:12:07 (1) cB.DrK killed (2) sT.- YnGwi3 with HK MP5
+18-11-28 03:12:09 (1) CrasheR killed (2) sT.- Enigma with Ak-74
+18-11-28 03:12:10 (2) sT.- S E N Z A C L killed (1) cB.DrK with Ruger 77
+18-11-28 03:12:12 (1) N9nety N9ne killed (2) sT.- S E N Z A C L with HK MP5
+18-11-28 03:12:12 N9nety N9ne captured the Blue Flag
+18-11-28 03:12:14 N9nety N9ne returned the Red Flag
+18-11-28 03:12:14 (2) sT.- Enigma killed (1) CrasheR with Steyr AUG
+18-11-28 03:12:15 N9nety N9ne scores for Alpha Team
+18-11-28 03:12:17 (2) sT.- YnGwi3 killed (1) N9nety N9ne with Spas-12
+18-11-28 03:12:18 sT.- YnGwi3 captured the Red Flag
+18-11-28 03:12:19 (2) sT.- Enigma killed (1) CrasheR with Grenade
+18-11-28 03:12:20 Time Left: 5 minutes
+18-11-28 03:12:20 (1) cB.DrK killed (2) sT.- S E N Z A C L with HK MP5
+18-11-28 03:12:20 (2) sT.- S E N Z A C L killed (1) cB.DrK with Ruger 77
+18-11-28 03:12:20 (RADIO)[CrasheR] Enemy flagger down!
+18-11-28 03:12:25 (2) sT.- Enigma killed (1) N9nety N9ne with Combat Knife
+18-11-28 03:12:25 [shioneD][chb0sp] 1-1?
+18-11-28 03:12:25 sT.- YnGwi3 scores for Bravo Team
+18-11-28 03:12:26 (1) CrasheR killed (2) sT.- Enigma with Ak-74
+18-11-28 03:12:26 [N9nety N9ne] Yeah
+18-11-28 03:12:26 [sT.- Enigma] x
+18-11-28 03:12:28 (2) sT.- YnGwi3 killed (1) CrasheR with Grenade
+18-11-28 03:12:29 (RADIO)[CrasheR] Enemy flagger down!
+18-11-28 03:12:29 [sT.- Enigma] sii
+18-11-28 03:12:30 (TEAM)[CrasheR] ewak
+18-11-28 03:12:32 cB.DrK captured the Blue Flag
+18-11-28 03:12:33 sT.- S E N Z A C L captured the Red Flag
+18-11-28 03:12:33 (TEAM)[CrasheR] b.
+18-11-28 03:12:34 (2) sT.- S E N Z A C L killed (1) N9nety N9ne with Ruger 77
+18-11-28 03:12:35 (1) cB.DrK killed (2) sT.- Enigma with Grenade
+18-11-28 03:12:36 (RADIO)[N9nety N9ne] Enemy flagger down!
+18-11-28 03:12:36 (1) CrasheR killed (2) sT.- S E N Z A C L with Grenade
+18-11-28 03:12:38 [sT.- YnGwi3] 1-0
+18-11-28 03:12:39 CrasheR returned the Red Flag
+18-11-28 03:12:41 [shioneD][chb0sp] remonten cauros
+18-11-28 03:12:42 (2) sT.- Enigma killed (1) CrasheR with Steyr AUG
+18-11-28 03:12:42 cB.DrK scores for Alpha Team
+18-11-28 03:12:43 (1) N9nety N9ne killed (2) sT.- YnGwi3 with HK MP5
+18-11-28 03:12:45 (2) sT.- S E N Z A C L killed (1) N9nety N9ne with Ruger 77
+18-11-28 03:12:46 (2) sT.- Enigma killed (1) cB.DrK with Grenade
+18-11-28 03:12:47 [sT.- YnGwi3] 1-oganamos
+18-11-28 03:12:47 sT.- Enigma captured the Red Flag
+18-11-28 03:12:48 (1) CrasheR killed (2) sT.- S E N Z A C L with Ak-74
+18-11-28 03:12:49 (1) CrasheR killed (2) sT.- Enigma with Ak-74
+18-11-28 03:12:51 CrasheR returned the Red Flag
+18-11-28 03:12:53 (1) cB.DrK killed (2) sT.- YnGwi3 with Grenade
+18-11-28 03:12:53 (2) sT.- YnGwi3 killed (1) cB.DrK with Grenade
+18-11-28 03:12:55 N9nety N9ne captured the Blue Flag
+18-11-28 03:12:57 (1) CrasheR killed (2) sT.- S E N Z A C L with Ak-74
+18-11-28 03:12:59 sT.- Enigma captured the Red Flag
+18-11-28 03:13:00 (2) sT.- YnGwi3 killed (1) N9nety N9ne with Spas-12
+18-11-28 03:13:01 (1) cB.DrK killed (2) sT.- Enigma with Grenade
+18-11-28 03:13:02 (RADIO)[N9nety N9ne] Friendly flagger down!
+18-11-28 03:13:03 (2) sT.- YnGwi3 killed (1) cB.DrK with Spas-12
+18-11-28 03:13:04 CrasheR captured the Blue Flag
+18-11-28 03:13:05 (2) sT.- S E N Z A C L killed (1) N9nety N9ne with M79
+18-11-28 03:13:07 sT.- S E N Z A C L captured the Red Flag
+18-11-28 03:13:09 (2) sT.- YnGwi3 killed (1) CrasheR with Spas-12
+18-11-28 03:13:10 sT.- Enigma captured the Red Flag
+18-11-28 03:13:11 cB.DrK captured the Blue Flag
+18-11-28 03:13:11 (1) cB.DrK killed (2) sT.- S E N Z A C L with HK MP5
+18-11-28 03:13:13 (1) N9nety N9ne killed (2) sT.- Enigma with HK MP5
+18-11-28 03:13:13 N9nety N9ne returned the Red Flag
+18-11-28 03:13:15 (1) cB.DrK killed (2) sT.- YnGwi3 with LAW
+18-11-28 03:13:16 CrasheR captured the Blue Flag
+18-11-28 03:13:20 Time Left: 4 minutes
+18-11-28 03:13:20 (1) cB.DrK killed (2) sT.- S E N Z A C L with Grenade
+18-11-28 03:13:22 (1) cB.DrK killed (2) sT.- Enigma with Grenade
+18-11-28 03:13:22 (2) sT.- Enigma killed (1) cB.DrK with Steyr AUG
+18-11-28 03:13:22 CrasheR scores for Alpha Team
+18-11-28 03:13:24 (2) sT.- YnGwi3 killed (1) CrasheR with Spas-12
+18-11-28 03:13:24 sT.- YnGwi3 captured the Red Flag
+18-11-28 03:13:25 (TEAM)[CrasheR] b
+18-11-28 03:13:28 (1) N9nety N9ne killed (2) sT.- YnGwi3 with HK MP5
+18-11-28 03:13:28 sT.- S E N Z A C L captured the Red Flag
+18-11-28 03:13:30 (2) sT.- Enigma killed (1) N9nety N9ne with Grenade
+18-11-28 03:13:30 sT.- S E N Z A C L scores for Bravo Team
+18-11-28 03:13:31 (1) CrasheR killed (2) sT.- Enigma with Hands
+18-11-28 03:13:33 CrasheR captured the Blue Flag
+18-11-28 03:13:36 (2) sT.- YnGwi3 killed (1) CrasheR with Grenade
+18-11-28 03:13:37 sT.- S E N Z A C L captured the Red Flag
+18-11-28 03:13:40 sT.- YnGwi3 captured the Red Flag
+18-11-28 03:13:41 (1) CrasheR killed (2) sT.- Enigma with Grenade
+18-11-28 03:13:41 (1) cB.DrK killed (2) sT.- S E N Z A C L with HK MP5
+18-11-28 03:13:41 cB.DrK captured the Blue Flag
+18-11-28 03:13:44 (1) CrasheR killed (2) sT.- YnGwi3 with Grenade
+18-11-28 03:13:46 (2) sT.- S E N Z A C L killed (1) CrasheR with Combat Knife
+18-11-28 03:13:47 (1) N9nety N9ne killed (2) sT.- Enigma with Combat Knife
+18-11-28 03:13:48 (2) sT.- S E N Z A C L killed (1) N9nety N9ne with Grenade
+18-11-28 03:13:51 sT.- YnGwi3 captured the Red Flag
+18-11-28 03:13:54 (1) CrasheR killed (2) sT.- Enigma with Combat Knife
+18-11-28 03:13:57 (1) cB.DrK killed (2) sT.- S E N Z A C L with LAW
+18-11-28 03:14:00 (2) sT.- Enigma killed (1) CrasheR with Grenade
+18-11-28 03:14:01 (1) N9nety N9ne killed (2) sT.- YnGwi3 with HK MP5
+18-11-28 03:14:01 sT.- Enigma captured the Red Flag
+18-11-28 03:14:05 (2) sT.- Enigma killed (1) N9nety N9ne with Ak-74
+18-11-28 03:14:10 (2) sT.- S E N Z A C L killed (1) cB.DrK with Combat Knife
+18-11-28 03:14:10 (1) CrasheR killed (2) sT.- S E N Z A C L with Ak-74
+18-11-28 03:14:13 CrasheR captured the Blue Flag
+18-11-28 03:14:16 (2) sT.- YnGwi3 killed (1) CrasheR with Spas-12
+18-11-28 03:14:17 sT.- YnGwi3 returned the Blue Flag
+18-11-28 03:14:18 (1) cB.DrK killed (2) sT.- YnGwi3 with HK MP5
+18-11-28 03:14:18 (2) sT.- Enigma killed (1) N9nety N9ne with Combat Knife
+18-11-28 03:14:18 (1) N9nety N9ne killed (2) sT.- Enigma with HK MP5
+18-11-28 03:14:19 (2) sT.- S E N Z A C L killed (1) cB.DrK with M79
+18-11-28 03:14:19 (RADIO)[N9nety N9ne] Enemy flagger down!
+18-11-28 03:14:20 Time Left: 3 minutes
+18-11-28 03:14:24 (1) N9nety N9ne killed (2) sT.- YnGwi3 with HK MP5
+18-11-28 03:14:26 (2) sT.- S E N Z A C L killed (1) CrasheR with Grenade
+18-11-28 03:14:26 (1) N9nety N9ne killed (2) sT.- Enigma with HK MP5
+18-11-28 03:14:26 sT.- S E N Z A C L captured the Red Flag
+18-11-28 03:14:30 (1) cB.DrK killed (2) sT.- YnGwi3 with Grenade
+18-11-28 03:14:31 (1) N9nety N9ne killed (2) sT.- S E N Z A C L with HK MP5
+18-11-28 03:14:34 (2) sT.- Enigma killed (1) cB.DrK with Steyr AUG
+18-11-28 03:14:35 (1) CrasheR killed (2) sT.- Enigma with Ak-74
+18-11-28 03:14:35 CrasheR returned the Red Flag
+18-11-28 03:14:37 (2) sT.- YnGwi3 killed (1) CrasheR with Spas-12
+18-11-28 03:14:41 (2) sT.- S E N Z A C L killed (1) cB.DrK with M79
+18-11-28 03:14:42 sT.- S E N Z A C L captured the Red Flag
+18-11-28 03:14:42 (2) sT.- Enigma killed (1) N9nety N9ne with Steyr AUG
+18-11-28 03:14:43 (1) N9nety N9ne killed (2) sT.- Enigma with Combat Knife
+18-11-28 03:14:44 (RADIO)[cB.DrK] Enemy flagger down!
+18-11-28 03:14:47 (1) N9nety N9ne killed (2) sT.- YnGwi3 with HK MP5
+18-11-28 03:14:49 CrasheR captured the Blue Flag
+18-11-28 03:14:50 (2) sT.- Enigma killed (1) N9nety N9ne with Grenade
+18-11-28 03:14:51 (1) CrasheR killed (2) sT.- S E N Z A C L with Ak-74
+18-11-28 03:14:51 (2) sT.- S E N Z A C L killed (1) CrasheR with Grenade
+18-11-28 03:14:52 (1) cB.DrK killed (2) sT.- Enigma with HK MP5
+18-11-28 03:14:56 (2) sT.- YnGwi3 killed (1) cB.DrK with Spas-12
+18-11-28 03:15:01 N9nety N9ne captured the Blue Flag
+18-11-28 03:15:01 N9nety N9ne returned the Red Flag
+18-11-28 03:15:02 (2) sT.- S E N Z A C L killed (1) N9nety N9ne with M79
+18-11-28 03:15:04 (1) cB.DrK killed (2) sT.- YnGwi3 with HK MP5
+18-11-28 03:15:05 sT.- Enigma returned the Blue Flag
+18-11-28 03:15:06 (2) sT.- S E N Z A C L killed (1) cB.DrK with M79
+18-11-28 03:15:07 sT.- Enigma captured the Red Flag
+18-11-28 03:15:08 (1) N9nety N9ne killed (2) sT.- S E N Z A C L with HK MP5
+18-11-28 03:15:09 (1) N9nety N9ne killed (2) sT.- Enigma with HK MP5
+18-11-28 03:15:15 (1) cB.DrK killed (2) sT.- S E N Z A C L with LAW
+18-11-28 03:15:17 (1) cB.DrK killed (2) sT.- Enigma with HK MP5
+18-11-28 03:15:18 (2) sT.- Enigma killed (1) cB.DrK with Grenade
+18-11-28 03:15:18 N9nety N9ne returned the Red Flag
+18-11-28 03:15:18 (2) sT.- YnGwi3 killed (1) N9nety N9ne with Combat Knife
+18-11-28 03:15:19 (1) CrasheR killed (2) sT.- YnGwi3 with Ak-74
+18-11-28 03:15:20 Time Left: 2 minutes
+18-11-28 03:15:24 sT.- S E N Z A C L captured the Red Flag
+18-11-28 03:15:25 (1) cB.DrK killed (2) sT.- S E N Z A C L with HK MP5
+18-11-28 03:15:26 (2) sT.- Enigma killed (1) N9nety N9ne with Grenade
+18-11-28 03:15:26 CrasheR captured the Blue Flag
+18-11-28 03:15:27 (1) CrasheR killed (2) sT.- YnGwi3 with Combat Knife
+18-11-28 03:15:28 (2) sT.- Enigma killed (1) cB.DrK with Ak-74
+18-11-28 03:15:28 sT.- Enigma captured the Red Flag
+18-11-28 03:15:30 (RADIO)[cB.DrK] Enemy flagger down!
+18-11-28 03:15:35 (1) cB.DrK killed (2) sT.- YnGwi3 with HK MP5
+18-11-28 03:15:36 (2) sT.- YnGwi3 killed (1) cB.DrK with Spas-12
+18-11-28 03:15:41 (1) N9nety N9ne killed (2) sT.- Enigma with HK MP5
+18-11-28 03:15:42 (1) cB.DrK killed (2) sT.- YnGwi3 with HK MP5
+18-11-28 03:15:44 (1) N9nety N9ne killed (2) sT.- S E N Z A C L with HK MP5
+18-11-28 03:15:45 N9nety N9ne returned the Red Flag
+18-11-28 03:15:47 (2) sT.- YnGwi3 killed (1) cB.DrK with HK MP5
+18-11-28 03:15:48 CrasheR scores for Alpha Team
+18-11-28 03:15:50 (2) sT.- Enigma killed (1) CrasheR with Grenade
+18-11-28 03:15:51 sT.- Enigma captured the Red Flag
+18-11-28 03:15:52 (TEAM)[CrasheR] v ewak
+18-11-28 03:15:53 (TEAM)[CrasheR] b
+18-11-28 03:15:53 (1) N9nety N9ne killed (2) sT.- Enigma with HK MP5
+18-11-28 03:15:54 (2) sT.- YnGwi3 killed (1) cB.DrK with Combat Knife
+18-11-28 03:15:55 (1) N9nety N9ne killed (2) sT.- S E N Z A C L with HK MP5
+18-11-28 03:15:56 N9nety N9ne returned the Red Flag
+18-11-28 03:15:57 (1) CrasheR killed (2) sT.- YnGwi3 with Ak-74
+18-11-28 03:16:00 (1) cB.DrK killed (2) sT.- Enigma with LAW
+18-11-28 03:16:01 N9nety N9ne captured the Blue Flag
+18-11-28 03:16:04 (1) cB.DrK killed (2) sT.- S E N Z A C L with HK MP5
+18-11-28 03:16:06 (2) sT.- Enigma killed (1) CrasheR with Ak-74
+18-11-28 03:16:06 Next map: Lobby
+18-11-28 03:16:06 N9nety N9ne scores for Alpha Team
+18-11-28 03:16:08 [N9nety N9ne] Come'on!
+18-11-28 03:16:08 [sT.- Enigma] gg
+18-11-28 03:16:08 [cB.DrK] gg
+18-11-28 03:16:08 [shioneD][chb0sp] o:
+18-11-28 03:16:08 [sT.- YnGwi3] gg
+18-11-28 03:16:09 cB.DrK has left alpha team.
+18-11-28 03:16:10 CrasheR has left alpha team.
+18-11-28 03:16:10 sT.- Enigma has left bravo team.
+18-11-28 03:16:11 [N9nety N9ne] gg
+18-11-28 03:16:11 [sT.- YnGwi3] tie xd
+18-11-28 03:16:11 shioneD][chb0sp has left spectators
+18-11-28 03:16:11 sT.- S E N Z A C L has left bravo team.
+18-11-28 03:16:12 Lothic - Gothic Lobby Room
+18-11-28 03:16:12 sT.- YnGwi3 has left bravo team.
+18-11-28 03:16:13 N9nety N9ne has left alpha team.
+18-11-28 03:21:12 Time Left: 5 minutes
+18-11-28 03:22:12 Time Left: 4 minutes
+18-11-28 03:23:12 Time Left: 3 minutes
+18-11-28 03:24:12 Time Left: 2 minutes
+18-11-28 03:25:12 Time Left: 1 minutes
+18-11-28 03:26:12 Next map: Lobby
+18-11-28 03:26:17 Lothic - Gothic Lobby Room
+18-11-28 03:31:17 Time Left: 5 minutes
+18-11-28 03:32:17 Time Left: 4 minutes
+18-11-28 03:33:17 Time Left: 3 minutes
+18-11-28 03:34:17 Time Left: 2 minutes
+18-11-28 03:35:17 Time Left: 1 minutes
+18-11-28 03:36:17 Next map: Lobby
+18-11-28 03:36:22 Lothic - Gothic Lobby Room
+18-11-28 03:41:22 Time Left: 5 minutes
+18-11-28 03:42:22 Time Left: 4 minutes
+18-11-28 03:43:22 Time Left: 3 minutes
+18-11-28 03:44:22 Time Left: 2 minutes
+18-11-28 03:45:22 Time Left: 1 minutes
+18-11-28 03:46:22 Next map: Lobby
+18-11-28 03:46:28 Lothic - Gothic Lobby Room
+18-11-28 03:51:28 Time Left: 5 minutes
+18-11-28 03:52:28 Time Left: 4 minutes
+18-11-28 03:53:28 Time Left: 3 minutes
+18-11-28 03:54:28 Time Left: 2 minutes
+18-11-28 03:55:28 Time Left: 1 minutes
+18-11-28 03:56:28 Next map: Lobby
+18-11-28 03:56:33 Lothic - Gothic Lobby Room
+18-11-28 04:01:33 Time Left: 5 minutes
+18-11-28 04:02:33 Time Left: 4 minutes
+18-11-28 04:03:33 Time Left: 3 minutes
+18-11-28 04:04:33 Time Left: 2 minutes
+18-11-28 04:05:33 Time Left: 1 minutes
+18-11-28 04:06:33 Next map: Lobby
+18-11-28 04:06:38 Lothic - Gothic Lobby Room
+18-11-28 04:11:38 Time Left: 5 minutes
+18-11-28 04:12:38 Time Left: 4 minutes
+18-11-28 04:13:38 Time Left: 3 minutes
+18-11-28 04:14:38 Time Left: 2 minutes
+18-11-28 04:15:38 Time Left: 1 minutes
+18-11-28 04:16:38 Next map: Lobby
+18-11-28 04:16:44 Lothic - Gothic Lobby Room
+18-11-28 04:21:44 Time Left: 5 minutes
+18-11-28 04:22:44 Time Left: 4 minutes
+18-11-28 04:23:44 Time Left: 3 minutes
+18-11-28 04:24:44 Time Left: 2 minutes
+18-11-28 04:25:44 Time Left: 1 minutes
+18-11-28 04:26:44 Next map: Lobby
+18-11-28 04:26:49 Lothic - Gothic Lobby Room
+18-11-28 04:31:49 Time Left: 5 minutes
+18-11-28 04:32:49 Time Left: 4 minutes
+18-11-28 04:33:49 Time Left: 3 minutes
+18-11-28 04:34:49 Time Left: 2 minutes
+18-11-28 04:35:49 Time Left: 1 minutes
+18-11-28 04:36:49 Next map: Lobby
+18-11-28 04:36:54 Lothic - Gothic Lobby Room
+18-11-28 04:41:54 Time Left: 5 minutes
+18-11-28 04:42:54 Time Left: 4 minutes
+18-11-28 04:43:54 Time Left: 3 minutes
+18-11-28 04:44:54 Time Left: 2 minutes
+18-11-28 04:45:54 Time Left: 1 minutes
+18-11-28 04:46:54 Next map: Lobby
+18-11-28 04:47:00 Lothic - Gothic Lobby Room
+18-11-28 04:52:00 Time Left: 5 minutes
+18-11-28 04:53:00 Time Left: 4 minutes
+18-11-28 04:54:00 Time Left: 3 minutes
+18-11-28 04:55:00 Time Left: 2 minutes
+18-11-28 04:56:00 Time Left: 1 minutes
+18-11-28 04:57:00 Next map: Lobby
+18-11-28 04:57:05 Lothic - Gothic Lobby Room
+18-11-28 05:02:05 Time Left: 5 minutes
+18-11-28 05:03:05 Time Left: 4 minutes
+18-11-28 05:04:05 Time Left: 3 minutes
+18-11-28 05:05:05 Time Left: 2 minutes
+18-11-28 05:06:05 Time Left: 1 minutes
+18-11-28 05:07:05 Next map: Lobby
+18-11-28 05:07:10 Lothic - Gothic Lobby Room
+18-11-28 05:12:10 Time Left: 5 minutes
+18-11-28 05:13:10 Time Left: 4 minutes
+18-11-28 05:14:10 Time Left: 3 minutes
+18-11-28 05:15:10 Time Left: 2 minutes
+18-11-28 05:16:10 Time Left: 1 minutes
+18-11-28 05:17:10 Next map: Lobby
+18-11-28 05:17:16 Lothic - Gothic Lobby Room
+18-11-28 05:22:16 Time Left: 5 minutes
+18-11-28 05:23:16 Time Left: 4 minutes
+18-11-28 05:24:16 Time Left: 3 minutes
+18-11-28 05:25:16 Time Left: 2 minutes
+18-11-28 05:26:16 Time Left: 1 minutes
+18-11-28 05:27:16 Next map: Lobby
+18-11-28 05:27:21 Lothic - Gothic Lobby Room
+18-11-28 05:32:21 Time Left: 5 minutes
+18-11-28 05:33:21 Time Left: 4 minutes
+18-11-28 05:34:21 Time Left: 3 minutes
+18-11-28 05:35:21 Time Left: 2 minutes
+18-11-28 05:36:21 Time Left: 1 minutes
+18-11-28 05:37:21 Next map: Lobby
+18-11-28 05:37:26 Lothic - Gothic Lobby Room
+18-11-28 05:42:26 Time Left: 5 minutes
+18-11-28 05:43:26 Time Left: 4 minutes
+18-11-28 05:44:26 Time Left: 3 minutes
+18-11-28 05:45:26 Time Left: 2 minutes
+18-11-28 05:46:26 Time Left: 1 minutes
+18-11-28 05:47:26 Next map: Lobby
+18-11-28 05:47:32 Lothic - Gothic Lobby Room
+18-11-28 05:52:32 Time Left: 5 minutes
+18-11-28 05:53:32 Time Left: 4 minutes
+18-11-28 05:54:32 Time Left: 3 minutes
+18-11-28 05:55:32 Time Left: 2 minutes
+18-11-28 05:56:32 Time Left: 1 minutes
+18-11-28 05:57:32 Next map: Lobby
+18-11-28 05:57:37 Lothic - Gothic Lobby Room
+18-11-28 06:02:37 Time Left: 5 minutes
+18-11-28 06:03:37 Time Left: 4 minutes
+18-11-28 06:04:37 Time Left: 3 minutes
+18-11-28 06:05:37 Time Left: 2 minutes
+18-11-28 06:06:37 Time Left: 1 minutes
+18-11-28 06:07:37 Next map: Lobby
+18-11-28 06:07:42 Lothic - Gothic Lobby Room
+18-11-28 06:12:42 Time Left: 5 minutes
+18-11-28 06:13:42 Time Left: 4 minutes
+18-11-28 06:14:42 Time Left: 3 minutes
+18-11-28 06:15:42 Time Left: 2 minutes
+18-11-28 06:16:42 Time Left: 1 minutes
+18-11-28 06:17:42 Next map: Lobby
+18-11-28 06:17:47 Lothic - Gothic Lobby Room
+18-11-28 06:22:47 Time Left: 5 minutes
+18-11-28 06:23:47 Time Left: 4 minutes
+18-11-28 06:24:47 Time Left: 3 minutes
+18-11-28 06:25:47 Time Left: 2 minutes
+18-11-28 06:26:47 Time Left: 1 minutes
+18-11-28 06:27:47 Next map: Lobby
+18-11-28 06:27:53 Lothic - Gothic Lobby Room
+18-11-28 06:32:53 Time Left: 5 minutes
+18-11-28 06:33:53 Time Left: 4 minutes
+18-11-28 06:34:53 Time Left: 3 minutes
+18-11-28 06:35:53 Time Left: 2 minutes
+18-11-28 06:36:53 Time Left: 1 minutes
+18-11-28 06:37:53 Next map: Lobby
+18-11-28 06:37:58 Lothic - Gothic Lobby Room
+18-11-28 06:42:58 Time Left: 5 minutes
+18-11-28 06:43:58 Time Left: 4 minutes
+18-11-28 06:44:58 Time Left: 3 minutes
+18-11-28 06:45:58 Time Left: 2 minutes
+18-11-28 06:46:58 Time Left: 1 minutes
+18-11-28 06:47:58 Next map: Lobby
+18-11-28 06:48:03 Lothic - Gothic Lobby Room
+18-11-28 06:53:03 Time Left: 5 minutes
+18-11-28 06:54:03 Time Left: 4 minutes
+18-11-28 06:55:03 Time Left: 3 minutes
+18-11-28 06:56:03 Time Left: 2 minutes
+18-11-28 06:57:03 Time Left: 1 minutes
+18-11-28 06:58:03 Next map: Lobby
+18-11-28 06:58:09 Lothic - Gothic Lobby Room
+18-11-28 07:03:09 Time Left: 5 minutes
+18-11-28 07:04:09 Time Left: 4 minutes
+18-11-28 07:05:09 Time Left: 3 minutes
+18-11-28 07:06:09 Time Left: 2 minutes
+18-11-28 07:07:09 Time Left: 1 minutes
+18-11-28 07:08:09 Next map: Lobby
+18-11-28 07:08:14 Lothic - Gothic Lobby Room
+18-11-28 07:13:14 Time Left: 5 minutes
+18-11-28 07:14:14 Time Left: 4 minutes
+18-11-28 07:15:14 Time Left: 3 minutes
+18-11-28 07:16:14 Time Left: 2 minutes
+18-11-28 07:17:14 Time Left: 1 minutes
+18-11-28 07:18:14 Next map: Lobby
+18-11-28 07:18:19 Lothic - Gothic Lobby Room
+18-11-28 07:23:19 Time Left: 5 minutes
+18-11-28 07:24:19 Time Left: 4 minutes
+18-11-28 07:25:19 Time Left: 3 minutes
+18-11-28 07:26:19 Time Left: 2 minutes
+18-11-28 07:27:19 Time Left: 1 minutes
+18-11-28 07:28:19 Next map: Lobby
+18-11-28 07:28:25 Lothic - Gothic Lobby Room
+18-11-28 07:33:25 Time Left: 5 minutes
+18-11-28 07:34:25 Time Left: 4 minutes
+18-11-28 07:35:25 Time Left: 3 minutes
+18-11-28 07:36:25 Time Left: 2 minutes
+18-11-28 07:37:25 Time Left: 1 minutes
+18-11-28 07:38:25 Next map: Lobby
+18-11-28 07:38:30 Lothic - Gothic Lobby Room
+18-11-28 07:43:30 Time Left: 5 minutes
+18-11-28 07:44:30 Time Left: 4 minutes
+18-11-28 07:45:30 Time Left: 3 minutes
+18-11-28 07:46:30 Time Left: 2 minutes
+18-11-28 07:47:30 Time Left: 1 minutes
+18-11-28 07:48:30 Next map: Lobby
+18-11-28 07:48:35 Lothic - Gothic Lobby Room
+18-11-28 07:53:35 Time Left: 5 minutes
+18-11-28 07:54:35 Time Left: 4 minutes
+18-11-28 07:55:35 Time Left: 3 minutes
+18-11-28 07:56:35 Time Left: 2 minutes
+18-11-28 07:57:35 Time Left: 1 minutes
+18-11-28 07:58:35 Next map: Lobby
+18-11-28 07:58:41 Lothic - Gothic Lobby Room
+18-11-28 08:03:41 Time Left: 5 minutes
+18-11-28 08:04:41 Time Left: 4 minutes
+18-11-28 08:05:41 Time Left: 3 minutes
+18-11-28 08:06:41 Time Left: 2 minutes
+18-11-28 08:07:41 Time Left: 1 minutes
+18-11-28 08:08:41 Next map: Lobby
+18-11-28 08:08:46 Lothic - Gothic Lobby Room
+18-11-28 08:13:46 Time Left: 5 minutes
+18-11-28 08:14:46 Time Left: 4 minutes
+18-11-28 08:15:46 Time Left: 3 minutes
+18-11-28 08:16:46 Time Left: 2 minutes
+18-11-28 08:17:46 Time Left: 1 minutes
+18-11-28 08:18:46 Next map: Lobby
+18-11-28 08:18:51 Lothic - Gothic Lobby Room
+18-11-28 08:23:51 Time Left: 5 minutes
+18-11-28 08:24:51 Time Left: 4 minutes
+18-11-28 08:25:51 Time Left: 3 minutes
+18-11-28 08:26:51 Time Left: 2 minutes
+18-11-28 08:27:51 Time Left: 1 minutes
+18-11-28 08:28:51 Next map: Lobby
+18-11-28 08:28:57 Lothic - Gothic Lobby Room
+18-11-28 08:33:57 Time Left: 5 minutes
+18-11-28 08:34:57 Time Left: 4 minutes
+18-11-28 08:35:57 Time Left: 3 minutes
+18-11-28 08:36:57 Time Left: 2 minutes
+18-11-28 08:37:57 Time Left: 1 minutes
+18-11-28 08:38:57 Next map: Lobby
+18-11-28 08:39:02 Lothic - Gothic Lobby Room
+18-11-28 08:44:02 Time Left: 5 minutes
+18-11-28 08:45:02 Time Left: 4 minutes
+18-11-28 08:46:02 Time Left: 3 minutes
+18-11-28 08:47:02 Time Left: 2 minutes
+18-11-28 08:48:02 Time Left: 1 minutes
+18-11-28 08:49:02 Next map: Lobby
+18-11-28 08:49:07 Lothic - Gothic Lobby Room
+18-11-28 08:54:07 Time Left: 5 minutes
+18-11-28 08:55:07 Time Left: 4 minutes
+18-11-28 08:56:07 Time Left: 3 minutes
+18-11-28 08:57:07 Time Left: 2 minutes
+18-11-28 08:58:07 Time Left: 1 minutes
+18-11-28 08:59:07 Next map: Lobby
+18-11-28 08:59:13 Lothic - Gothic Lobby Room
+18-11-28 09:04:13 Time Left: 5 minutes
+18-11-28 09:05:13 Time Left: 4 minutes
+18-11-28 09:06:13 Time Left: 3 minutes
+18-11-28 09:07:13 Time Left: 2 minutes
+18-11-28 09:08:13 Time Left: 1 minutes
+18-11-28 09:09:13 Next map: Lobby
+18-11-28 09:09:18 Lothic - Gothic Lobby Room
+18-11-28 09:14:18 Time Left: 5 minutes
+18-11-28 09:15:18 Time Left: 4 minutes
+18-11-28 09:16:18 Time Left: 3 minutes
+18-11-28 09:17:18 Time Left: 2 minutes
+18-11-28 09:18:18 Time Left: 1 minutes
+18-11-28 09:19:18 Next map: Lobby
+18-11-28 09:19:23 Lothic - Gothic Lobby Room
+18-11-28 09:24:23 Time Left: 5 minutes
+18-11-28 09:25:23 Time Left: 4 minutes
+18-11-28 09:26:23 Time Left: 3 minutes
+18-11-28 09:27:23 Time Left: 2 minutes
+18-11-28 09:28:23 Time Left: 1 minutes
+18-11-28 09:29:23 Next map: Lobby
+18-11-28 09:29:29 Lothic - Gothic Lobby Room
+18-11-28 09:34:28 Time Left: 5 minutes
+18-11-28 09:35:28 Time Left: 4 minutes
+18-11-28 09:36:28 Time Left: 3 minutes
+18-11-28 09:37:28 Time Left: 2 minutes
+18-11-28 09:38:28 Time Left: 1 minutes
+18-11-28 09:39:28 Next map: Lobby
+18-11-28 09:39:34 Lothic - Gothic Lobby Room
+18-11-28 09:44:34 Time Left: 5 minutes
+18-11-28 09:45:34 Time Left: 4 minutes
+18-11-28 09:46:34 Time Left: 3 minutes
+18-11-28 09:47:34 Time Left: 2 minutes
+18-11-28 09:48:34 Time Left: 1 minutes
+18-11-28 09:49:34 Next map: Lobby
+18-11-28 09:49:39 Lothic - Gothic Lobby Room
+18-11-28 09:54:39 Time Left: 5 minutes
+18-11-28 09:55:39 Time Left: 4 minutes
+18-11-28 09:56:39 Time Left: 3 minutes
+18-11-28 09:57:39 Time Left: 2 minutes
+18-11-28 09:58:39 Time Left: 1 minutes
+18-11-28 09:59:39 Next map: Lobby
+18-11-28 09:59:44 Lothic - Gothic Lobby Room
+18-11-28 10:04:44 Time Left: 5 minutes
+18-11-28 10:05:44 Time Left: 4 minutes
+18-11-28 10:06:44 Time Left: 3 minutes
+18-11-28 10:07:44 Time Left: 2 minutes
+18-11-28 10:08:44 Time Left: 1 minutes
+18-11-28 10:09:44 Next map: Lobby
+18-11-28 10:09:50 Lothic - Gothic Lobby Room
+18-11-28 10:14:50 Time Left: 5 minutes
+18-11-28 10:15:50 Time Left: 4 minutes
+18-11-28 10:16:50 Time Left: 3 minutes
+18-11-28 10:17:50 Time Left: 2 minutes
+18-11-28 10:18:50 Time Left: 1 minutes
+18-11-28 10:19:50 Next map: Lobby
+18-11-28 10:19:55 Lothic - Gothic Lobby Room
+18-11-28 10:24:55 Time Left: 5 minutes
+18-11-28 10:25:55 Time Left: 4 minutes
+18-11-28 10:26:55 Time Left: 3 minutes
+18-11-28 10:27:55 Time Left: 2 minutes
+18-11-28 10:28:55 Time Left: 1 minutes
+18-11-28 10:29:55 Next map: Lobby
+18-11-28 10:30:00 Lothic - Gothic Lobby Room
+18-11-28 10:35:00 Time Left: 5 minutes
+18-11-28 10:36:00 Time Left: 4 minutes
+18-11-28 10:37:00 Time Left: 3 minutes
+18-11-28 10:38:00 Time Left: 2 minutes
+18-11-28 10:39:00 Time Left: 1 minutes
+18-11-28 10:40:00 Next map: Lobby
+18-11-28 10:40:06 Lothic - Gothic Lobby Room
+18-11-28 10:45:06 Time Left: 5 minutes
+18-11-28 10:46:06 Time Left: 4 minutes
+18-11-28 10:47:06 Time Left: 3 minutes
+18-11-28 10:48:06 Time Left: 2 minutes
+18-11-28 10:49:06 Time Left: 1 minutes
+18-11-28 10:50:06 Next map: Lobby
+18-11-28 10:50:11 Lothic - Gothic Lobby Room
+18-11-28 10:55:11 Time Left: 5 minutes
+18-11-28 10:56:11 Time Left: 4 minutes
+18-11-28 10:57:11 Time Left: 3 minutes
+18-11-28 10:58:11 Time Left: 2 minutes
+18-11-28 10:59:11 Time Left: 1 minutes
+18-11-28 11:00:11 Next map: Lobby
+18-11-28 11:00:16 Lothic - Gothic Lobby Room
+18-11-28 11:05:16 Time Left: 5 minutes
+18-11-28 11:06:16 Time Left: 4 minutes
+18-11-28 11:07:16 Time Left: 3 minutes
+18-11-28 11:08:16 Time Left: 2 minutes
+18-11-28 11:09:16 Time Left: 1 minutes
+18-11-28 11:10:16 Next map: Lobby
+18-11-28 11:10:22 Lothic - Gothic Lobby Room
+18-11-28 11:15:22 Time Left: 5 minutes
+18-11-28 11:16:22 Time Left: 4 minutes
+18-11-28 11:17:22 Time Left: 3 minutes
+18-11-28 11:18:22 Time Left: 2 minutes
+18-11-28 11:19:22 Time Left: 1 minutes
+18-11-28 11:20:22 Next map: Lobby
+18-11-28 11:20:27 Lothic - Gothic Lobby Room
+18-11-28 11:25:27 Time Left: 5 minutes
+18-11-28 11:26:27 Time Left: 4 minutes
+18-11-28 11:27:27 Time Left: 3 minutes
+18-11-28 11:28:27 Time Left: 2 minutes
+18-11-28 11:29:27 Time Left: 1 minutes
+18-11-28 11:30:27 Next map: Lobby
+18-11-28 11:30:32 Lothic - Gothic Lobby Room
+18-11-28 11:35:32 Time Left: 5 minutes
+18-11-28 11:36:32 Time Left: 4 minutes
+18-11-28 11:37:32 Time Left: 3 minutes
+18-11-28 11:38:32 Time Left: 2 minutes
+18-11-28 11:39:32 Time Left: 1 minutes
+18-11-28 11:40:32 Next map: Lobby
+18-11-28 11:40:38 Lothic - Gothic Lobby Room
+18-11-28 11:45:38 Time Left: 5 minutes
+18-11-28 11:46:38 Time Left: 4 minutes
+18-11-28 11:47:38 Time Left: 3 minutes
+18-11-28 11:48:38 Time Left: 2 minutes
+18-11-28 11:49:38 Time Left: 1 minutes
+18-11-28 11:50:38 Next map: Lobby
+18-11-28 11:50:43 Lothic - Gothic Lobby Room
+18-11-28 11:55:43 Time Left: 5 minutes
+18-11-28 11:56:43 Time Left: 4 minutes
+18-11-28 11:57:43 Time Left: 3 minutes
+18-11-28 11:58:43 Time Left: 2 minutes
+18-11-28 11:59:43 Time Left: 1 minutes
+18-11-28 12:00:43 Next map: Lobby
+18-11-28 12:00:48 Lothic - Gothic Lobby Room
+18-11-28 12:05:48 Time Left: 5 minutes
+18-11-28 12:06:48 Time Left: 4 minutes
+18-11-28 12:07:48 Time Left: 3 minutes
+18-11-28 12:08:48 Time Left: 2 minutes
+18-11-28 12:09:48 Time Left: 1 minutes
+18-11-28 12:10:48 Next map: Lobby
+18-11-28 12:10:54 Lothic - Gothic Lobby Room
+18-11-28 12:15:54 Time Left: 5 minutes
+18-11-28 12:16:54 Time Left: 4 minutes
+18-11-28 12:17:54 Time Left: 3 minutes
+18-11-28 12:18:54 Time Left: 2 minutes
+18-11-28 12:19:54 Time Left: 1 minutes
+18-11-28 12:20:54 Next map: Lobby
+18-11-28 12:20:59 Lothic - Gothic Lobby Room
+18-11-28 12:25:59 Time Left: 5 minutes
+18-11-28 12:26:59 Time Left: 4 minutes
+18-11-28 12:27:59 Time Left: 3 minutes
+18-11-28 12:28:59 Time Left: 2 minutes
+18-11-28 12:29:59 Time Left: 1 minutes
+18-11-28 12:30:59 Next map: Lobby
+18-11-28 12:31:04 Lothic - Gothic Lobby Room
+18-11-28 12:36:04 Time Left: 5 minutes
+18-11-28 12:37:04 Time Left: 4 minutes
+18-11-28 12:38:04 Time Left: 3 minutes
+18-11-28 12:39:04 Time Left: 2 minutes
+18-11-28 12:40:04 Time Left: 1 minutes
+18-11-28 12:41:04 Next map: Lobby
+18-11-28 12:41:10 Lothic - Gothic Lobby Room
+18-11-28 12:46:10 Time Left: 5 minutes
+18-11-28 12:47:10 Time Left: 4 minutes
+18-11-28 12:48:10 Time Left: 3 minutes
+18-11-28 12:49:10 Time Left: 2 minutes
+18-11-28 12:50:10 Time Left: 1 minutes
+18-11-28 12:51:09 Next map: Lobby
+18-11-28 12:51:15 Lothic - Gothic Lobby Room
+18-11-28 12:56:15 Time Left: 5 minutes
+18-11-28 12:57:15 Time Left: 4 minutes
+18-11-28 12:58:15 Time Left: 3 minutes
+18-11-28 12:59:15 Time Left: 2 minutes
+18-11-28 13:00:15 Time Left: 1 minutes
+18-11-28 13:01:15 Next map: Lobby
+18-11-28 13:01:20 Lothic - Gothic Lobby Room
+18-11-28 13:06:20 Time Left: 5 minutes
+18-11-28 13:07:20 Time Left: 4 minutes
+18-11-28 13:08:20 Time Left: 3 minutes
+18-11-28 13:09:20 Time Left: 2 minutes
+18-11-28 13:10:20 Time Left: 1 minutes
+18-11-28 13:11:20 Next map: Lobby
+18-11-28 13:11:25 Lothic - Gothic Lobby Room
+18-11-28 13:16:25 Time Left: 5 minutes
+18-11-28 13:17:25 Time Left: 4 minutes
+18-11-28 13:18:25 Time Left: 3 minutes
+18-11-28 13:19:25 Time Left: 2 minutes
+18-11-28 13:20:25 Time Left: 1 minutes
+18-11-28 13:21:25 Next map: Lobby
+18-11-28 13:21:31 Lothic - Gothic Lobby Room
+18-11-28 13:26:31 Time Left: 5 minutes
+18-11-28 13:27:31 Time Left: 4 minutes
+18-11-28 13:28:31 Time Left: 3 minutes
+18-11-28 13:29:31 Time Left: 2 minutes
+18-11-28 13:30:31 Time Left: 1 minutes
+18-11-28 13:31:31 Next map: Lobby
+18-11-28 13:31:36 Lothic - Gothic Lobby Room
+18-11-28 13:36:36 Time Left: 5 minutes
+18-11-28 13:37:36 Time Left: 4 minutes
+18-11-28 13:38:36 Time Left: 3 minutes
+18-11-28 13:39:36 Time Left: 2 minutes
+18-11-28 13:40:36 Time Left: 1 minutes
+18-11-28 13:41:36 Next map: Lobby
+18-11-28 13:41:41 Lothic - Gothic Lobby Room
+18-11-28 13:46:41 Time Left: 5 minutes
+18-11-28 13:47:41 Time Left: 4 minutes
+18-11-28 13:48:41 Time Left: 3 minutes
+18-11-28 13:49:41 Time Left: 2 minutes
+18-11-28 13:49:55 Admin connected (31.223.35.221).
+18-11-28 13:49:56 /maxplayers (31.223.35.221)
+18-11-28 13:49:56 Max players is 16
+18-11-28 13:49:56 /maxrespawntime (31.223.35.221)
+18-11-28 13:49:56 Maximum Respawn time is 5 seconds
+18-11-28 13:49:56 /respawntime (31.223.35.221)
+18-11-28 13:49:56 Respawn time is 3 seconds
+18-11-28 13:49:56 /limit (31.223.35.221)
+18-11-28 13:49:56 Current kill/point/capture limit is 10
+18-11-28 13:49:56 /timelimit (31.223.35.221)
+18-11-28 13:49:56 Current time limit is 10 minutes
+18-11-28 13:49:56 /friendlyfire (31.223.35.221)
+18-11-28 13:49:56 Friendly Fire is 0
+18-11-28 13:49:56 /scripting (31.223.35.221)
+18-11-28 13:49:56 Scripting is currently Enabled (1)
+18-11-28 13:49:56 /balance (31.223.35.221)
+18-11-28 13:49:56 Bot Balance is off (0)
+18-11-28 13:49:56 /bonus (31.223.35.221)
+18-11-28 13:49:56 Current bonus frequency is 0
+18-11-28 13:49:56 /vote% (31.223.35.221)
+18-11-28 13:49:56 Voting percent is 60
+18-11-28 13:50:41 Time Left: 1 minutes
+18-11-28 13:51:41 Next map: Lobby
+18-11-28 13:51:47 Lothic - Gothic Lobby Room
+18-11-28 13:56:47 Time Left: 5 minutes
+18-11-28 13:57:47 Time Left: 4 minutes
+18-11-28 13:58:47 Time Left: 3 minutes
+18-11-28 13:59:47 Time Left: 2 minutes
+18-11-28 14:00:47 Time Left: 1 minutes
+18-11-28 14:01:47 Next map: Lobby
+18-11-28 14:01:52 Lothic - Gothic Lobby Room
+18-11-28 14:06:52 Time Left: 5 minutes
+18-11-28 14:07:52 Time Left: 4 minutes
+18-11-28 14:08:52 Time Left: 3 minutes
+18-11-28 14:09:52 Time Left: 2 minutes
+18-11-28 14:10:52 Time Left: 1 minutes
+18-11-28 14:11:52 Next map: Lobby
+18-11-28 14:11:57 Lothic - Gothic Lobby Room
+18-11-28 14:16:57 Time Left: 5 minutes
+18-11-28 14:17:57 Time Left: 4 minutes
+18-11-28 14:18:57 Time Left: 3 minutes
+18-11-28 14:19:57 Time Left: 2 minutes

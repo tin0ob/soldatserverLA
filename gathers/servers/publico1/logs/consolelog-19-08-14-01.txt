@@ -1,0 +1,139 @@
+19-08-14 02:16:11    Console Log Started
+19-08-14 02:16:11 Welcome to Soldat 1.7.1
+19-08-14 02:16:11  [*] Preparing scripts to be launched
+19-08-14 02:16:11  [*] Compiling AT -> antitele.pas...
+19-08-14 02:16:11  [*] AT compiled
+19-08-14 02:16:11  [*] Compiling SV -> ServerVisits.pas...
+19-08-14 02:16:11  [*] SV -> [Error] (30:16): Invalid number of parameters
+19-08-14 02:16:11  [*] Disabling SV
+19-08-14 02:16:11  [*] Compiling SWR -> core.pas...
+19-08-14 02:16:11  [*] SWR -> [Error] (56:15): Invalid number of parameters
+19-08-14 02:16:11  [*] Disabling SWR
+19-08-14 02:16:11  [*] Compiling W -> welcome.pas...
+19-08-14 02:16:11  [*] W -> [Hint] (21:10): Variable 'Result' never used
+19-08-14 02:16:11  [*] W compiled
+19-08-14 02:16:11  [*] Done
+19-08-14 02:16:11 Welcome Message Activated
+19-08-14 02:16:11 Kampf - remake by DarkCrusade
+19-08-14 02:16:11 Loaded weapons mod "Default mod v1.8"
+19-08-14 02:16:11  Connection for file server started. Port: 23023
+19-08-14 02:16:12 Registering server @ 88.99.234.252
+19-08-14 02:17:01 152.172.60.85:23073|3763775CC9C requesting game...
+19-08-14 02:17:02 152.172.60.85:23073|3763775CC9C requesting game...
+19-08-14 02:17:07 152.172.60.85:23073|3763775CC9C requesting game...
+19-08-14 02:17:09 152.172.60.85:23073|3763775CC9C requesting game...
+19-08-14 02:17:15 152.172.60.85:23073|3763775CC9C requesting game...
+19-08-14 02:17:15 191.84.71.179:23073|6EB1A67D575 requesting game...
+19-08-14 02:17:16 Abelsito joining game (152.172.60.85:23073) HWID:3763775CC9C
+19-08-14 02:17:16 Abelsito has joined alpha team.
+19-08-14 02:17:17 sk!T.Rattle joining game (191.84.71.179:23073) HWID:6EB1A67D575
+19-08-14 02:17:17 sk!T.Rattle has joined alpha team.
+19-08-14 02:17:17 186.11.101.167:37835|64995B15DC0 requesting game...
+19-08-14 02:17:18 sT.- YnGwi3 joining game (186.11.101.167:37835) HWID:64995B15DC0
+19-08-14 02:17:18 sT.- YnGwi3 has joined bravo team.
+19-08-14 02:17:22 sk!T.Rattle gets a ping warning
+19-08-14 02:17:23 190.211.167.106:23073|1496BAEC585 requesting game...
+19-08-14 02:17:25 (1) Abelsito killed (2) sT.- YnGwi3 with Grenade
+19-08-14 02:17:27 190.163.139.89:23073|5DFDDACB48D requesting game...
+19-08-14 02:17:29 190.211.167.106:23073|1496BAEC585 requesting game...
+19-08-14 02:17:31 VanscL joining game (190.211.167.106:23073) HWID:1496BAEC585
+19-08-14 02:17:31 VanscL has joined bravo team.
+19-08-14 02:17:31 [sk!T.Rattle] !map ctf_voland
+19-08-14 02:17:32 190.163.139.89:23073|5DFDDACB48D requesting game...
+19-08-14 02:17:32 (1) Abelsito killed (2) sT.- YnGwi3 with Steyr AUG
+19-08-14 02:17:33 [sT.- YnGwi3] esos cripts
+19-08-14 02:17:34 [UnK] SenzacL* joining game (190.163.139.89:23073) HWID:5DFDDACB48D
+19-08-14 02:17:34 [UnK] SenzacL* has joined alpha team.
+19-08-14 02:17:34 [sT.- YnGwi3] eran del link
+19-08-14 02:17:35 [sT.- YnGwi3] ?
+19-08-14 02:17:36 [sT.- YnGwi3] xd
+19-08-14 02:17:36 [sk!T.Rattle] !map ctf_Voland
+19-08-14 02:17:36 [VanscL] ese loco
+19-08-14 02:17:38 (1) Abelsito killed (2) VanscL with Steyr AUG
+19-08-14 02:17:40 (2) sT.- YnGwi3 killed (1) Abelsito with Grenade
+19-08-14 02:17:41 (1) [UnK] SenzacL* killed (2) sT.- YnGwi3 with Barrett M82A1
+19-08-14 02:17:42 [UnK] SenzacL* captured the Blue Flag
+19-08-14 02:17:47 190.164.217.117:23073|6771206FC2F requesting game...
+19-08-14 02:17:47 [sT.- YnGwi3] !map Guardian
+19-08-14 02:17:47 [sk!T.Rattle] es mi server y toy pasao en lag
+19-08-14 02:17:48 190.164.217.117:23073|6771206FC2F requesting game...
+19-08-14 02:17:49 (1) Abelsito killed (2) sT.- YnGwi3 with LAW
+19-08-14 02:17:54 (TEAM)[sk!T.Rattle] macri qlao
+19-08-14 02:17:55 (2) sT.- YnGwi3 killed (1) [UnK] SenzacL* with Combat Knife
+19-08-14 02:17:56 [[UnK] SenzacL*] /votemaaapp
+19-08-14 02:17:58 (2) sT.- YnGwi3 killed (1) Abelsito with HK MP5
+19-08-14 02:17:59 [sk!T.Rattle] para
+19-08-14 02:18:03 [sk!T.Rattle] voy a chantarle scripts
+19-08-14 02:18:08 (1) [UnK] SenzacL* killed (2) VanscL with Barrett M82A1
+19-08-14 02:18:10 [UnK] SenzacL* captured the Blue Flag
+19-08-14 02:18:10 [VanscL] !votate mapa qlo
+19-08-14 02:18:12 (1) [UnK] SenzacL* killed (2) VanscL with Barrett M82A1
+19-08-14 02:18:13 190.45.32.62:23073|2258920FBD8 requesting game...
+19-08-14 02:18:14 [sT.- YnGwi3] ok
+19-08-14 02:18:18 190.45.32.62:23073|2258920FBD8 requesting game...
+19-08-14 02:18:19 |D.Forc3|Maaxis. joining game (190.45.32.62:23073) HWID:2258920FBD8
+19-08-14 02:18:19 |D.Forc3|Maaxis. has joined bravo team.
+19-08-14 02:18:20 sT.- YnGwi3 has joined spectators.
+19-08-14 02:18:21 [UnK] SenzacL* scores for Alpha Team
+19-08-14 02:18:22 sT.- YnGwi3 has joined alpha team.
+19-08-14 02:18:23 sT.- YnGwi3 has joined bravo team.
+19-08-14 02:18:28 (2) |D.Forc3|Maaxis. killed (1) sk!T.Rattle with Spas-12
+19-08-14 02:18:31 VanscL captured the Red Flag
+19-08-14 02:18:33 [UnK] SenzacL* captured the Blue Flag
+19-08-14 02:18:37 (1) Abelsito killed (2) VanscL with Steyr AUG
+19-08-14 02:18:38 (2) |D.Forc3|Maaxis. killed (1) sk!T.Rattle with Grenade
+19-08-14 02:18:40 sk!T.Rattle has left alpha team.
+19-08-14 02:18:41 (1) [UnK] SenzacL* killed (2) |D.Forc3|Maaxis. with Barrett M82A1
+19-08-14 02:18:42 Abelsito returned the Red Flag
+19-08-14 02:18:43 (2) sT.- YnGwi3 killed (1) [UnK] SenzacL* with M79
+19-08-14 02:18:48 (2) sT.- YnGwi3 killed (1) [UnK] SenzacL* with M79
+19-08-14 02:18:48 Abelsito captured the Blue Flag
+19-08-14 02:18:48 Abelsito scores for Alpha Team
+19-08-14 02:18:49 sT.- YnGwi3 captured the Red Flag
+19-08-14 02:18:49 (1) Abelsito killed (2) sT.- YnGwi3 with Hands
+19-08-14 02:18:53 (1) Abelsito killed (2) |D.Forc3|Maaxis. with Grenade
+19-08-14 02:18:53 (2) |D.Forc3|Maaxis. killed (1) Abelsito with Grenade
+19-08-14 02:18:58 (2) VanscL killed (1) [UnK] SenzacL* with Steyr AUG
+19-08-14 02:18:59 (1) Abelsito killed (2) VanscL with Steyr AUG
+19-08-14 02:19:02 |D.Forc3|Maaxis. has left bravo team.
+19-08-14 02:19:02 (1) Abelsito killed (2) sT.- YnGwi3 with LAW
+19-08-14 02:19:03 45.232.92.170:44973|51D19415422 requesting game...
+19-08-14 02:19:04 190.45.32.62:23073|2258920FBD8 requesting game...
+19-08-14 02:19:05 |D.Forc3|Maaxis. joining game (190.45.32.62:23073) HWID:2258920FBD8
+19-08-14 02:19:05 |D.Forc3|Maaxis. has joined bravo team.
+19-08-14 02:19:07 45.232.92.170:44973|51D19415422 requesting game...
+19-08-14 02:19:08 (1) [UnK] SenzacL* killed (2) |D.Forc3|Maaxis. with Barrett M82A1
+19-08-14 02:19:09 (2) sT.- YnGwi3 killed (1) [UnK] SenzacL* with Grenade
+19-08-14 02:19:09 |D.Forc3|M.* joining game (45.232.92.170:44973) HWID:51D19415422
+19-08-14 02:19:09 |D.Forc3|M.* has joined alpha team.
+19-08-14 02:19:10 (1) Abelsito killed (2) VanscL with Combat Knife
+19-08-14 02:19:16 (2) |D.Forc3|Maaxis. killed (1) Abelsito with Ruger 77
+19-08-14 02:19:17 (1) |D.Forc3|M.* killed (2) sT.- YnGwi3 with Steyr AUG
+19-08-14 02:19:17 (2) sT.- YnGwi3 killed (1) |D.Forc3|M.* with Barrett M82A1
+19-08-14 02:19:18 (1) [UnK] SenzacL* killed (2) |D.Forc3|Maaxis. with Barrett M82A1
+19-08-14 02:19:22 [UnK] SenzacL* captured the Blue Flag
+19-08-14 02:19:22 (1) [UnK] SenzacL* killed (2) VanscL with Barrett M82A1
+19-08-14 02:19:26 (1) [UnK] SenzacL* killed (2) |D.Forc3|Maaxis. with Barrett M82A1
+19-08-14 02:19:29 (1) Abelsito killed (2) VanscL with Grenade
+19-08-14 02:19:33 (2) |D.Forc3|Maaxis. killed (1) Abelsito with Grenade
+19-08-14 02:19:34 [UnK] SenzacL* scores for Alpha Team
+19-08-14 02:19:41 (1) Abelsito killed (2) |D.Forc3|Maaxis. with LAW
+19-08-14 02:19:48 (1) [UnK] SenzacL* killed (2) VanscL with Barrett M82A1
+19-08-14 02:19:49 [Abelsito] devuelvete a tu pokebola vans
+19-08-14 02:19:51 (2) |D.Forc3|Maaxis. killed (1) [UnK] SenzacL* with Ruger 77
+19-08-14 02:19:52 No map has been voted
+19-08-14 02:20:01 (2) VanscL killed (1) |D.Forc3|M.* with Steyr AUG
+19-08-14 02:20:02 (1) [UnK] SenzacL* killed (2) VanscL with Grenade
+19-08-14 02:20:03 (1) Abelsito killed (2) |D.Forc3|Maaxis. with Steyr AUG
+19-08-14 02:20:04 [UnK] SenzacL* captured the Blue Flag
+19-08-14 02:20:07 (1) [UnK] SenzacL* killed (2) |D.Forc3|Maaxis. with Barrett M82A1
+19-08-14 02:20:08 (2) VanscL killed (1) [UnK] SenzacL* with Ak-74
+19-08-14 02:20:11 (1) Abelsito killed (2) sT.- YnGwi3 with Steyr AUG
+19-08-14 02:20:12 [|D.Forc3|M.*] skit vale callampa
+19-08-14 02:20:15 [|D.Forc3|M.*] xd
+19-08-14 02:20:15 (2) VanscL killed (1) [UnK] SenzacL* with Grenade
+19-08-14 02:20:17 (1) Abelsito killed (2) VanscL with Steyr AUG
+19-08-14 02:20:19 Signal received, shutting down
+19-08-14 02:20:19 Shutting down server...
+19-08-14 02:20:19 Shutting down FileServer...
+19-08-14 02:20:19 Shutting down admin server...

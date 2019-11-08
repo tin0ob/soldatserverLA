@@ -1,0 +1,61 @@
+18-11-19 11:34:58    Log Started
+18-11-19 11:34:58 Opened /home/gathers/servers/gather15/soldat.ini
+18-11-19 11:34:58 Creating network interface.
+18-11-19 11:34:58 Loading Animations.
+18-11-19 11:34:58 Loading Lobby Servers List
+18-11-19 11:34:58 Loading Maps List
+18-11-19 11:34:58 Loading Map.
+18-11-19 11:34:58 Creating Weapons.
+18-11-19 11:34:58 Starting Game Server.
+18-11-19 11:34:59 TCP/IP File Server started
+18-11-19 11:54:55  Net - sk!T.Rattle connected 19-11-18 11:54:55
+18-11-19 11:55:34  Net - sk!T.Rattle disconnected 19-11-18 11:55:34
+18-11-19 12:04:59 TCP/IP File Server started
+18-11-19 12:12:33  Net - sk!T.Rattle connected 19-11-18 12:12:33
+18-11-19 12:12:48  Net - sk!T.Rattle disconnected 19-11-18 12:12:48
+18-11-19 12:34:59 TCP/IP File Server started
+18-11-19 13:04:59 TCP/IP File Server started
+18-11-19 13:34:59 TCP/IP File Server started
+18-11-19 14:04:59 TCP/IP File Server started
+18-11-19 14:34:59 TCP/IP File Server started
+18-11-19 15:04:59 TCP/IP File Server started
+18-11-19 15:34:59 TCP/IP File Server started
+18-11-19 16:04:59 TCP/IP File Server started
+18-11-19 16:34:59 TCP/IP File Server started
+18-11-19 17:04:59 TCP/IP File Server started
+18-11-19 17:34:59 TCP/IP File Server started
+18-11-19 18:04:59 TCP/IP File Server started
+18-11-19 18:34:59 TCP/IP File Server started
+18-11-19 19:04:59 TCP/IP File Server started
+18-11-19 19:34:59 TCP/IP File Server started
+18-11-19 20:04:59 TCP/IP File Server started
+18-11-19 20:34:59 TCP/IP File Server started
+18-11-19 21:04:59 TCP/IP File Server started
+18-11-19 21:34:59 TCP/IP File Server started
+18-11-19 22:04:59 TCP/IP File Server started
+18-11-19 22:34:59 TCP/IP File Server started
+18-11-19 23:04:59 TCP/IP File Server started
+18-11-19 23:34:59 TCP/IP File Server started
+18-11-20 00:04:59 TCP/IP File Server started
+18-11-20 00:34:59 TCP/IP File Server started
+18-11-20 01:04:59 TCP/IP File Server started
+18-11-20 01:34:59 TCP/IP File Server started
+18-11-20 02:04:59 TCP/IP File Server started
+18-11-20 02:34:59 TCP/IP File Server started
+18-11-20 03:04:59 TCP/IP File Server started
+18-11-20 03:34:59 TCP/IP File Server started
+18-11-20 04:04:59 TCP/IP File Server started
+18-11-20 04:34:59 TCP/IP File Server started
+18-11-20 05:04:59 TCP/IP File Server started
+18-11-20 05:34:59 TCP/IP File Server started
+18-11-20 05:54:11  Net - Major connected 20-11-18 05:54:11
+18-11-20 05:54:37  Net - Major disconnected 20-11-18 05:54:37
+18-11-20 06:04:59 TCP/IP File Server started
+18-11-20 06:34:59 TCP/IP File Server started
+18-11-20 07:04:59 TCP/IP File Server started
+18-11-20 07:34:59 TCP/IP File Server started
+18-11-20 08:04:59 TCP/IP File Server started
+18-11-20 08:34:59 TCP/IP File Server started
+18-11-20 09:04:59 TCP/IP File Server started
+18-11-20 09:11:34 Destroying Devices.
+18-11-20 09:11:34    End of Log.

@@ -1,0 +1,15 @@
+19-01-02 15:07:47    Console Log Started
+19-01-02 15:07:47 Welcome to Soldat 1.7.1
+19-01-02 15:07:47  [*] Preparing scripts to be launched
+19-01-02 15:07:47  [*] [BasicCommands] Loading bytecode
+19-01-02 15:07:47  [*] [BasicCommands] Bytecode loaded
+19-01-02 15:07:47  [*] Done
+19-01-02 15:07:47 Lothic - Gothic Lobby Room
+19-01-02 15:07:47 Loaded weapons mod "Default mod v1.8"
+19-01-02 15:07:47  Connection for file server started. Port: 23012
+19-01-02 15:07:50 Admin connected (155.4.193.68).
+19-01-02 15:08:06 Admin connected (206.81.24.116).
+19-01-02 15:08:07 /say GatherBot v0.6 is now connected to server. (206.81.24.116)
+19-01-02 15:08:07 /password 8248 (206.81.24.116)
+19-01-02 15:08:07 Server password changed to 8248
+19-01-02 15:08:07 /say Server password was changed... (206.81.24.116)

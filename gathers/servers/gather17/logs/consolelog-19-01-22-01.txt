@@ -1,0 +1,39 @@
+19-01-22 22:58:08    Console Log Started
+19-01-22 22:58:08 Welcome to Soldat 1.7.1
+19-01-22 22:58:08  [*] Preparing scripts to be launched
+19-01-22 22:58:08  [*] [BasicCommands] Loading bytecode
+19-01-22 22:58:08  [*] [BasicCommands] Bytecode loaded
+19-01-22 22:58:08  [*] Done
+19-01-22 22:58:08 Lothic - Gothic Lobby Room
+19-01-22 22:58:09 Loaded weapons mod "Default mod v1.8"
+19-01-22 22:58:09  Connection for file server started. Port: 23011
+19-01-22 22:58:09 Admin connected (87.65.255.154).
+19-01-22 22:58:10 /maxplayers (87.65.255.154)
+19-01-22 22:58:10 Max players is 16
+19-01-22 22:58:10 /maxrespawntime (87.65.255.154)
+19-01-22 22:58:10 Maximum Respawn time is 5 seconds
+19-01-22 22:58:10 /respawntime (87.65.255.154)
+19-01-22 22:58:10 Respawn time is 3 seconds
+19-01-22 22:58:10 /limit (87.65.255.154)
+19-01-22 22:58:10 Current kill/point/capture limit is 10
+19-01-22 22:58:10 /timelimit (87.65.255.154)
+19-01-22 22:58:10 Current time limit is 10 minutes
+19-01-22 22:58:10 /friendlyfire (87.65.255.154)
+19-01-22 22:58:10 Friendly Fire is 0
+19-01-22 22:58:10 /scripting (87.65.255.154)
+19-01-22 22:58:10 Scripting is currently Enabled (1)
+19-01-22 22:58:10 /balance (87.65.255.154)
+19-01-22 22:58:10 Bot Balance is off (0)
+19-01-22 22:58:10 /bonus (87.65.255.154)
+19-01-22 22:58:10 Current bonus frequency is 0
+19-01-22 22:58:10 /vote% (87.65.255.154)
+19-01-22 22:58:10 Voting percent is 60
+19-01-22 22:58:11 Admin connected (155.4.193.68).
+19-01-22 22:58:13 Admin connected (206.81.24.116).
+19-01-22 22:58:14 /say GatherBot v0.6 is now connected to server. (206.81.24.116)
+19-01-22 22:58:14 /password 3470 (206.81.24.116)
+19-01-22 22:58:14 Server password changed to 3470
+19-01-22 22:58:14 /say Server password was changed... (206.81.24.116)
+19-01-22 22:58:18 Shutting down server...
+19-01-22 22:58:18 Shutting down FileServer...
+19-01-22 22:58:18 Shutting down admin server...

@@ -1,0 +1,35 @@
+19-01-22 22:58:30    Console Log Started
+19-01-22 22:58:30 Welcome to Soldat 1.7.1
+19-01-22 22:58:30  [*] Preparing scripts to be launched
+19-01-22 22:58:30  [*] [BasicCommands] Loading bytecode
+19-01-22 22:58:30  [*] [BasicCommands] Bytecode loaded
+19-01-22 22:58:30  [*] Done
+19-01-22 22:58:30 Lothic - Gothic Lobby Room
+19-01-22 22:58:30 Loaded weapons mod "Default mod v1.8"
+19-01-22 22:58:30  Connection for file server started. Port: 23012
+19-01-22 22:58:32 Admin connected (155.4.193.68).
+19-01-22 22:58:38 Admin connected (87.65.255.154).
+19-01-22 22:58:38 /maxplayers (87.65.255.154)
+19-01-22 22:58:38 Max players is 16
+19-01-22 22:58:38 /maxrespawntime (87.65.255.154)
+19-01-22 22:58:38 Maximum Respawn time is 5 seconds
+19-01-22 22:58:38 /respawntime (87.65.255.154)
+19-01-22 22:58:38 Respawn time is 3 seconds
+19-01-22 22:58:38 /limit (87.65.255.154)
+19-01-22 22:58:38 Current kill/point/capture limit is 10
+19-01-22 22:58:38 /timelimit (87.65.255.154)
+19-01-22 22:58:38 Current time limit is 10 minutes
+19-01-22 22:58:38 /friendlyfire (87.65.255.154)
+19-01-22 22:58:38 Friendly Fire is 0
+19-01-22 22:58:38 /scripting (87.65.255.154)
+19-01-22 22:58:38 Scripting is currently Enabled (1)
+19-01-22 22:58:38 /balance (87.65.255.154)
+19-01-22 22:58:38 Bot Balance is off (0)
+19-01-22 22:58:38 /bonus (87.65.255.154)
+19-01-22 22:58:38 Current bonus frequency is 0
+19-01-22 22:58:38 /vote% (87.65.255.154)
+19-01-22 22:58:38 Voting percent is 60
+19-01-22 22:58:58 Signal received, shutting down
+19-01-22 22:58:58 Shutting down server...
+19-01-22 22:58:58 Shutting down FileServer...
+19-01-22 22:58:58 Shutting down admin server...

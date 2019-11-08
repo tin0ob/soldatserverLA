@@ -1,0 +1,8 @@
+// All files specified below here will be 
+// compiled for use with any SoldatServer
+// Scripts. Use // to mark a comment.
+// Manual:
+// http://enesce.com/help/
+
+//SocketCore.pas
+antitele.pas

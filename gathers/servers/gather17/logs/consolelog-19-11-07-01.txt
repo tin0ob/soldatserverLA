@@ -1,0 +1,534 @@
+19-11-07 08:50:32    Console Log Started
+19-11-07 08:50:35 Lothic - Gothic Lobby Room
+19-11-07 08:55:35 Time Left: 5 minutes
+19-11-07 08:56:35 Time Left: 4 minutes
+19-11-07 08:57:35 Time Left: 3 minutes
+19-11-07 08:58:35 Time Left: 2 minutes
+19-11-07 08:59:35 Time Left: 1 minutes
+19-11-07 09:00:35 Next map: Lobby
+19-11-07 09:00:40 Lothic - Gothic Lobby Room
+19-11-07 09:05:40 Time Left: 5 minutes
+19-11-07 09:06:40 Time Left: 4 minutes
+19-11-07 09:07:40 Time Left: 3 minutes
+19-11-07 09:08:40 Time Left: 2 minutes
+19-11-07 09:09:40 Time Left: 1 minutes
+19-11-07 09:10:40 Next map: Lobby
+19-11-07 09:10:46 Lothic - Gothic Lobby Room
+19-11-07 09:15:46 Time Left: 5 minutes
+19-11-07 09:16:46 Time Left: 4 minutes
+19-11-07 09:17:46 Time Left: 3 minutes
+19-11-07 09:18:46 Time Left: 2 minutes
+19-11-07 09:19:46 Time Left: 1 minutes
+19-11-07 09:20:46 Next map: Lobby
+19-11-07 09:20:51 Lothic - Gothic Lobby Room
+19-11-07 09:25:51 Time Left: 5 minutes
+19-11-07 09:26:51 Time Left: 4 minutes
+19-11-07 09:27:51 Time Left: 3 minutes
+19-11-07 09:28:51 Time Left: 2 minutes
+19-11-07 09:29:51 Time Left: 1 minutes
+19-11-07 09:30:51 Next map: Lobby
+19-11-07 09:30:56 Lothic - Gothic Lobby Room
+19-11-07 09:35:56 Time Left: 5 minutes
+19-11-07 09:36:56 Time Left: 4 minutes
+19-11-07 09:37:56 Time Left: 3 minutes
+19-11-07 09:38:56 Time Left: 2 minutes
+19-11-07 09:39:56 Time Left: 1 minutes
+19-11-07 09:40:56 Next map: Lobby
+19-11-07 09:41:02 Lothic - Gothic Lobby Room
+19-11-07 09:46:02 Time Left: 5 minutes
+19-11-07 09:47:02 Time Left: 4 minutes
+19-11-07 09:48:02 Time Left: 3 minutes
+19-11-07 09:49:02 Time Left: 2 minutes
+19-11-07 09:50:02 Time Left: 1 minutes
+19-11-07 09:51:02 Next map: Lobby
+19-11-07 09:51:07 Lothic - Gothic Lobby Room
+19-11-07 09:56:07 Time Left: 5 minutes
+19-11-07 09:57:07 Time Left: 4 minutes
+19-11-07 09:58:07 Time Left: 3 minutes
+19-11-07 09:59:07 Time Left: 2 minutes
+19-11-07 10:00:07 Time Left: 1 minutes
+19-11-07 10:01:07 Next map: Lobby
+19-11-07 10:01:12 Lothic - Gothic Lobby Room
+19-11-07 10:06:12 Time Left: 5 minutes
+19-11-07 10:07:12 Time Left: 4 minutes
+19-11-07 10:08:12 Time Left: 3 minutes
+19-11-07 10:09:12 Time Left: 2 minutes
+19-11-07 10:10:12 Time Left: 1 minutes
+19-11-07 10:11:12 Next map: Lobby
+19-11-07 10:11:18 Lothic - Gothic Lobby Room
+19-11-07 10:16:18 Time Left: 5 minutes
+19-11-07 10:17:18 Time Left: 4 minutes
+19-11-07 10:18:18 Time Left: 3 minutes
+19-11-07 10:19:18 Time Left: 2 minutes
+19-11-07 10:20:18 Time Left: 1 minutes
+19-11-07 10:21:18 Next map: Lobby
+19-11-07 10:21:23 Lothic - Gothic Lobby Room
+19-11-07 10:26:23 Time Left: 5 minutes
+19-11-07 10:27:23 Time Left: 4 minutes
+19-11-07 10:28:23 Time Left: 3 minutes
+19-11-07 10:29:23 Time Left: 2 minutes
+19-11-07 10:30:23 Time Left: 1 minutes
+19-11-07 10:31:23 Next map: Lobby
+19-11-07 10:31:28 Lothic - Gothic Lobby Room
+19-11-07 10:36:28 Time Left: 5 minutes
+19-11-07 10:37:28 Time Left: 4 minutes
+19-11-07 10:38:28 Time Left: 3 minutes
+19-11-07 10:39:28 Time Left: 2 minutes
+19-11-07 10:40:28 Time Left: 1 minutes
+19-11-07 10:41:28 Next map: Lobby
+19-11-07 10:41:34 Lothic - Gothic Lobby Room
+19-11-07 10:46:34 Time Left: 5 minutes
+19-11-07 10:47:34 Time Left: 4 minutes
+19-11-07 10:48:34 Time Left: 3 minutes
+19-11-07 10:49:34 Time Left: 2 minutes
+19-11-07 10:50:34 Time Left: 1 minutes
+19-11-07 10:51:33 Next map: Lobby
+19-11-07 10:51:39 Lothic - Gothic Lobby Room
+19-11-07 10:56:39 Time Left: 5 minutes
+19-11-07 10:57:39 Time Left: 4 minutes
+19-11-07 10:58:39 Time Left: 3 minutes
+19-11-07 10:59:39 Time Left: 2 minutes
+19-11-07 11:00:39 Time Left: 1 minutes
+19-11-07 11:01:39 Next map: Lobby
+19-11-07 11:01:44 Lothic - Gothic Lobby Room
+19-11-07 11:06:44 Time Left: 5 minutes
+19-11-07 11:07:44 Time Left: 4 minutes
+19-11-07 11:08:44 Time Left: 3 minutes
+19-11-07 11:09:44 Time Left: 2 minutes
+19-11-07 11:10:44 Time Left: 1 minutes
+19-11-07 11:11:44 Next map: Lobby
+19-11-07 11:11:49 Lothic - Gothic Lobby Room
+19-11-07 11:16:49 Time Left: 5 minutes
+19-11-07 11:17:49 Time Left: 4 minutes
+19-11-07 11:18:49 Time Left: 3 minutes
+19-11-07 11:19:49 Time Left: 2 minutes
+19-11-07 11:20:49 Time Left: 1 minutes
+19-11-07 11:21:49 Next map: Lobby
+19-11-07 11:21:55 Lothic - Gothic Lobby Room
+19-11-07 11:26:55 Time Left: 5 minutes
+19-11-07 11:27:55 Time Left: 4 minutes
+19-11-07 11:28:55 Time Left: 3 minutes
+19-11-07 11:29:55 Time Left: 2 minutes
+19-11-07 11:30:55 Time Left: 1 minutes
+19-11-07 11:31:55 Next map: Lobby
+19-11-07 11:32:00 Lothic - Gothic Lobby Room
+19-11-07 11:37:00 Time Left: 5 minutes
+19-11-07 11:38:00 Time Left: 4 minutes
+19-11-07 11:39:00 Time Left: 3 minutes
+19-11-07 11:40:00 Time Left: 2 minutes
+19-11-07 11:41:00 Time Left: 1 minutes
+19-11-07 11:42:00 Next map: Lobby
+19-11-07 11:42:05 Lothic - Gothic Lobby Room
+19-11-07 11:47:05 Time Left: 5 minutes
+19-11-07 11:48:05 Time Left: 4 minutes
+19-11-07 11:49:05 Time Left: 3 minutes
+19-11-07 11:50:05 Time Left: 2 minutes
+19-11-07 11:51:05 Time Left: 1 minutes
+19-11-07 11:52:05 Next map: Lobby
+19-11-07 11:52:11 Lothic - Gothic Lobby Room
+19-11-07 11:57:11 Time Left: 5 minutes
+19-11-07 11:58:11 Time Left: 4 minutes
+19-11-07 11:59:11 Time Left: 3 minutes
+19-11-07 12:00:11 Time Left: 2 minutes
+19-11-07 12:01:11 Time Left: 1 minutes
+19-11-07 12:02:11 Next map: Lobby
+19-11-07 12:02:16 Lothic - Gothic Lobby Room
+19-11-07 12:07:16 Time Left: 5 minutes
+19-11-07 12:08:16 Time Left: 4 minutes
+19-11-07 12:09:16 Time Left: 3 minutes
+19-11-07 12:10:16 Time Left: 2 minutes
+19-11-07 12:11:16 Time Left: 1 minutes
+19-11-07 12:12:16 Next map: Lobby
+19-11-07 12:12:21 Lothic - Gothic Lobby Room
+19-11-07 12:17:21 Time Left: 5 minutes
+19-11-07 12:18:21 Time Left: 4 minutes
+19-11-07 12:19:21 Time Left: 3 minutes
+19-11-07 12:20:21 Time Left: 2 minutes
+19-11-07 12:21:21 Time Left: 1 minutes
+19-11-07 12:22:21 Next map: Lobby
+19-11-07 12:22:27 Lothic - Gothic Lobby Room
+19-11-07 12:27:27 Time Left: 5 minutes
+19-11-07 12:28:27 Time Left: 4 minutes
+19-11-07 12:29:27 Time Left: 3 minutes
+19-11-07 12:30:27 Time Left: 2 minutes
+19-11-07 12:31:27 Time Left: 1 minutes
+19-11-07 12:32:27 Next map: Lobby
+19-11-07 12:32:32 Lothic - Gothic Lobby Room
+19-11-07 12:37:32 Time Left: 5 minutes
+19-11-07 12:38:32 Time Left: 4 minutes
+19-11-07 12:39:32 Time Left: 3 minutes
+19-11-07 12:40:32 Time Left: 2 minutes
+19-11-07 12:41:32 Time Left: 1 minutes
+19-11-07 12:42:32 Next map: Lobby
+19-11-07 12:42:37 Lothic - Gothic Lobby Room
+19-11-07 12:47:37 Time Left: 5 minutes
+19-11-07 12:48:37 Time Left: 4 minutes
+19-11-07 12:49:37 Time Left: 3 minutes
+19-11-07 12:50:37 Time Left: 2 minutes
+19-11-07 12:51:37 Time Left: 1 minutes
+19-11-07 12:52:37 Next map: Lobby
+19-11-07 12:52:43 Lothic - Gothic Lobby Room
+19-11-07 12:57:43 Time Left: 5 minutes
+19-11-07 12:58:43 Time Left: 4 minutes
+19-11-07 12:59:43 Time Left: 3 minutes
+19-11-07 13:00:43 Time Left: 2 minutes
+19-11-07 13:01:43 Time Left: 1 minutes
+19-11-07 13:02:43 Next map: Lobby
+19-11-07 13:02:48 Lothic - Gothic Lobby Room
+19-11-07 13:07:48 Time Left: 5 minutes
+19-11-07 13:08:48 Time Left: 4 minutes
+19-11-07 13:09:48 Time Left: 3 minutes
+19-11-07 13:10:48 Time Left: 2 minutes
+19-11-07 13:11:48 Time Left: 1 minutes
+19-11-07 13:12:48 Next map: Lobby
+19-11-07 13:12:53 Lothic - Gothic Lobby Room
+19-11-07 13:17:53 Time Left: 5 minutes
+19-11-07 13:18:53 Time Left: 4 minutes
+19-11-07 13:19:53 Time Left: 3 minutes
+19-11-07 13:20:53 Time Left: 2 minutes
+19-11-07 13:21:53 Time Left: 1 minutes
+19-11-07 13:22:53 Next map: Lobby
+19-11-07 13:22:59 Lothic - Gothic Lobby Room
+19-11-07 13:27:59 Time Left: 5 minutes
+19-11-07 13:28:59 Time Left: 4 minutes
+19-11-07 13:29:59 Time Left: 3 minutes
+19-11-07 13:30:59 Time Left: 2 minutes
+19-11-07 13:31:59 Time Left: 1 minutes
+19-11-07 13:32:59 Next map: Lobby
+19-11-07 13:33:04 Lothic - Gothic Lobby Room
+19-11-07 13:38:04 Time Left: 5 minutes
+19-11-07 13:39:04 Time Left: 4 minutes
+19-11-07 13:40:04 Time Left: 3 minutes
+19-11-07 13:41:04 Time Left: 2 minutes
+19-11-07 13:42:04 Time Left: 1 minutes
+19-11-07 13:43:04 Next map: Lobby
+19-11-07 13:43:09 Lothic - Gothic Lobby Room
+19-11-07 13:48:09 Time Left: 5 minutes
+19-11-07 13:49:09 Time Left: 4 minutes
+19-11-07 13:50:09 Time Left: 3 minutes
+19-11-07 13:51:09 Time Left: 2 minutes
+19-11-07 13:52:09 Time Left: 1 minutes
+19-11-07 13:53:09 Next map: Lobby
+19-11-07 13:53:15 Lothic - Gothic Lobby Room
+19-11-07 13:58:15 Time Left: 5 minutes
+19-11-07 13:59:15 Time Left: 4 minutes
+19-11-07 14:00:15 Time Left: 3 minutes
+19-11-07 14:01:15 Time Left: 2 minutes
+19-11-07 14:02:15 Time Left: 1 minutes
+19-11-07 14:03:15 Next map: Lobby
+19-11-07 14:03:20 Lothic - Gothic Lobby Room
+19-11-07 14:08:20 Time Left: 5 minutes
+19-11-07 14:09:20 Time Left: 4 minutes
+19-11-07 14:10:20 Time Left: 3 minutes
+19-11-07 14:11:20 Time Left: 2 minutes
+19-11-07 14:12:20 Time Left: 1 minutes
+19-11-07 14:13:20 Next map: Lobby
+19-11-07 14:13:25 Lothic - Gothic Lobby Room
+19-11-07 14:18:25 Time Left: 5 minutes
+19-11-07 14:19:25 Time Left: 4 minutes
+19-11-07 14:20:25 Time Left: 3 minutes
+19-11-07 14:21:25 Time Left: 2 minutes
+19-11-07 14:22:25 Time Left: 1 minutes
+19-11-07 14:23:25 Next map: Lobby
+19-11-07 14:23:30 Lothic - Gothic Lobby Room
+19-11-07 14:28:30 Time Left: 5 minutes
+19-11-07 14:29:30 Time Left: 4 minutes
+19-11-07 14:30:30 Time Left: 3 minutes
+19-11-07 14:31:30 Time Left: 2 minutes
+19-11-07 14:32:30 Time Left: 1 minutes
+19-11-07 14:33:30 Next map: Lobby
+19-11-07 14:33:36 Lothic - Gothic Lobby Room
+19-11-07 14:38:36 Time Left: 5 minutes
+19-11-07 14:39:36 Time Left: 4 minutes
+19-11-07 14:40:36 Time Left: 3 minutes
+19-11-07 14:41:36 Time Left: 2 minutes
+19-11-07 14:42:36 Time Left: 1 minutes
+19-11-07 14:43:36 Next map: Lobby
+19-11-07 14:43:41 Lothic - Gothic Lobby Room
+19-11-07 14:48:41 Time Left: 5 minutes
+19-11-07 14:49:41 Time Left: 4 minutes
+19-11-07 14:50:41 Time Left: 3 minutes
+19-11-07 14:51:41 Time Left: 2 minutes
+19-11-07 14:52:41 Time Left: 1 minutes
+19-11-07 14:53:41 Next map: Lobby
+19-11-07 14:53:46 Lothic - Gothic Lobby Room
+19-11-07 14:58:46 Time Left: 5 minutes
+19-11-07 14:59:46 Time Left: 4 minutes
+19-11-07 15:00:46 Time Left: 3 minutes
+19-11-07 15:01:46 Time Left: 2 minutes
+19-11-07 15:02:46 Time Left: 1 minutes
+19-11-07 15:03:46 Next map: Lobby
+19-11-07 15:03:52 Lothic - Gothic Lobby Room
+19-11-07 15:08:52 Time Left: 5 minutes
+19-11-07 15:09:52 Time Left: 4 minutes
+19-11-07 15:10:52 Time Left: 3 minutes
+19-11-07 15:11:52 Time Left: 2 minutes
+19-11-07 15:12:52 Time Left: 1 minutes
+19-11-07 15:13:52 Next map: Lobby
+19-11-07 15:13:57 Lothic - Gothic Lobby Room
+19-11-07 15:18:57 Time Left: 5 minutes
+19-11-07 15:19:57 Time Left: 4 minutes
+19-11-07 15:20:57 Time Left: 3 minutes
+19-11-07 15:21:57 Time Left: 2 minutes
+19-11-07 15:22:57 Time Left: 1 minutes
+19-11-07 15:23:57 Next map: Lobby
+19-11-07 15:24:02 Lothic - Gothic Lobby Room
+19-11-07 15:29:02 Time Left: 5 minutes
+19-11-07 15:30:02 Time Left: 4 minutes
+19-11-07 15:31:02 Time Left: 3 minutes
+19-11-07 15:32:02 Time Left: 2 minutes
+19-11-07 15:33:02 Time Left: 1 minutes
+19-11-07 15:34:02 Next map: Lobby
+19-11-07 15:34:08 Lothic - Gothic Lobby Room
+19-11-07 15:39:08 Time Left: 5 minutes
+19-11-07 15:40:08 Time Left: 4 minutes
+19-11-07 15:41:08 Time Left: 3 minutes
+19-11-07 15:42:08 Time Left: 2 minutes
+19-11-07 15:43:08 Time Left: 1 minutes
+19-11-07 15:44:08 Next map: Lobby
+19-11-07 15:44:13 Lothic - Gothic Lobby Room
+19-11-07 15:49:13 Time Left: 5 minutes
+19-11-07 15:50:13 Time Left: 4 minutes
+19-11-07 15:51:13 Time Left: 3 minutes
+19-11-07 15:52:13 Time Left: 2 minutes
+19-11-07 15:53:13 Time Left: 1 minutes
+19-11-07 15:54:13 Next map: Lobby
+19-11-07 15:54:18 Lothic - Gothic Lobby Room
+19-11-07 15:59:18 Time Left: 5 minutes
+19-11-07 16:00:18 Time Left: 4 minutes
+19-11-07 16:01:18 Time Left: 3 minutes
+19-11-07 16:02:18 Time Left: 2 minutes
+19-11-07 16:03:18 Time Left: 1 minutes
+19-11-07 16:04:18 Next map: Lobby
+19-11-07 16:04:24 Lothic - Gothic Lobby Room
+19-11-07 16:09:24 Time Left: 5 minutes
+19-11-07 16:10:24 Time Left: 4 minutes
+19-11-07 16:11:24 Time Left: 3 minutes
+19-11-07 16:12:24 Time Left: 2 minutes
+19-11-07 16:13:24 Time Left: 1 minutes
+19-11-07 16:14:24 Next map: Lobby
+19-11-07 16:14:29 Lothic - Gothic Lobby Room
+19-11-07 16:19:29 Time Left: 5 minutes
+19-11-07 16:20:29 Time Left: 4 minutes
+19-11-07 16:21:29 Time Left: 3 minutes
+19-11-07 16:22:29 Time Left: 2 minutes
+19-11-07 16:23:29 Time Left: 1 minutes
+19-11-07 16:24:29 Next map: Lobby
+19-11-07 16:24:34 Lothic - Gothic Lobby Room
+19-11-07 16:29:34 Time Left: 5 minutes
+19-11-07 16:30:34 Time Left: 4 minutes
+19-11-07 16:31:34 Time Left: 3 minutes
+19-11-07 16:32:34 Time Left: 2 minutes
+19-11-07 16:33:34 Time Left: 1 minutes
+19-11-07 16:34:34 Next map: Lobby
+19-11-07 16:34:40 Lothic - Gothic Lobby Room
+19-11-07 16:39:40 Time Left: 5 minutes
+19-11-07 16:40:40 Time Left: 4 minutes
+19-11-07 16:41:40 Time Left: 3 minutes
+19-11-07 16:42:40 Time Left: 2 minutes
+19-11-07 16:43:40 Time Left: 1 minutes
+19-11-07 16:44:40 Next map: Lobby
+19-11-07 16:44:45 Lothic - Gothic Lobby Room
+19-11-07 16:49:45 Time Left: 5 minutes
+19-11-07 16:50:45 Time Left: 4 minutes
+19-11-07 16:51:45 Time Left: 3 minutes
+19-11-07 16:52:45 Time Left: 2 minutes
+19-11-07 16:53:45 Time Left: 1 minutes
+19-11-07 16:54:45 Next map: Lobby
+19-11-07 16:54:50 Lothic - Gothic Lobby Room
+19-11-07 16:59:50 Time Left: 5 minutes
+19-11-07 17:00:50 Time Left: 4 minutes
+19-11-07 17:01:50 Time Left: 3 minutes
+19-11-07 17:02:50 Time Left: 2 minutes
+19-11-07 17:03:50 Time Left: 1 minutes
+19-11-07 17:04:50 Next map: Lobby
+19-11-07 17:04:56 Lothic - Gothic Lobby Room
+19-11-07 17:09:56 Time Left: 5 minutes
+19-11-07 17:10:56 Time Left: 4 minutes
+19-11-07 17:11:56 Time Left: 3 minutes
+19-11-07 17:12:56 Time Left: 2 minutes
+19-11-07 17:13:56 Time Left: 1 minutes
+19-11-07 17:14:56 Next map: Lobby
+19-11-07 17:15:01 Lothic - Gothic Lobby Room
+19-11-07 17:20:01 Time Left: 5 minutes
+19-11-07 17:21:01 Time Left: 4 minutes
+19-11-07 17:22:01 Time Left: 3 minutes
+19-11-07 17:23:01 Time Left: 2 minutes
+19-11-07 17:24:01 Time Left: 1 minutes
+19-11-07 17:25:01 Next map: Lobby
+19-11-07 17:25:06 Lothic - Gothic Lobby Room
+19-11-07 17:30:06 Time Left: 5 minutes
+19-11-07 17:31:06 Time Left: 4 minutes
+19-11-07 17:32:06 Time Left: 3 minutes
+19-11-07 17:33:06 Time Left: 2 minutes
+19-11-07 17:34:06 Time Left: 1 minutes
+19-11-07 17:35:06 Next map: Lobby
+19-11-07 17:35:12 Lothic - Gothic Lobby Room
+19-11-07 17:40:11 Time Left: 5 minutes
+19-11-07 17:41:11 Time Left: 4 minutes
+19-11-07 17:42:11 Time Left: 3 minutes
+19-11-07 17:43:11 Time Left: 2 minutes
+19-11-07 17:44:11 Time Left: 1 minutes
+19-11-07 17:45:11 Next map: Lobby
+19-11-07 17:45:17 Lothic - Gothic Lobby Room
+19-11-07 17:50:17 Time Left: 5 minutes
+19-11-07 17:51:17 Time Left: 4 minutes
+19-11-07 17:52:17 Time Left: 3 minutes
+19-11-07 17:53:17 Time Left: 2 minutes
+19-11-07 17:54:17 Time Left: 1 minutes
+19-11-07 17:55:17 Next map: Lobby
+19-11-07 17:55:22 Lothic - Gothic Lobby Room
+19-11-07 18:00:22 Time Left: 5 minutes
+19-11-07 18:01:22 Time Left: 4 minutes
+19-11-07 18:02:22 Time Left: 3 minutes
+19-11-07 18:03:22 Time Left: 2 minutes
+19-11-07 18:04:22 Time Left: 1 minutes
+19-11-07 18:05:22 Next map: Lobby
+19-11-07 18:05:27 Lothic - Gothic Lobby Room
+19-11-07 18:10:27 Time Left: 5 minutes
+19-11-07 18:11:27 Time Left: 4 minutes
+19-11-07 18:12:27 Time Left: 3 minutes
+19-11-07 18:13:27 Time Left: 2 minutes
+19-11-07 18:14:27 Time Left: 1 minutes
+19-11-07 18:15:27 Next map: Lobby
+19-11-07 18:15:33 Lothic - Gothic Lobby Room
+19-11-07 18:20:33 Time Left: 5 minutes
+19-11-07 18:21:33 Time Left: 4 minutes
+19-11-07 18:22:33 Time Left: 3 minutes
+19-11-07 18:23:33 Time Left: 2 minutes
+19-11-07 18:24:33 Time Left: 1 minutes
+19-11-07 18:25:33 Next map: Lobby
+19-11-07 18:25:38 Lothic - Gothic Lobby Room
+19-11-07 18:30:38 Time Left: 5 minutes
+19-11-07 18:31:38 Time Left: 4 minutes
+19-11-07 18:32:38 Time Left: 3 minutes
+19-11-07 18:33:38 Time Left: 2 minutes
+19-11-07 18:34:38 Time Left: 1 minutes
+19-11-07 18:35:38 Next map: Lobby
+19-11-07 18:35:43 Lothic - Gothic Lobby Room
+19-11-07 18:40:43 Time Left: 5 minutes
+19-11-07 18:41:43 Time Left: 4 minutes
+19-11-07 18:42:43 Time Left: 3 minutes
+19-11-07 18:43:43 Time Left: 2 minutes
+19-11-07 18:44:43 Time Left: 1 minutes
+19-11-07 18:45:43 Next map: Lobby
+19-11-07 18:45:49 Lothic - Gothic Lobby Room
+19-11-07 18:50:49 Time Left: 5 minutes
+19-11-07 18:51:49 Time Left: 4 minutes
+19-11-07 18:52:49 Time Left: 3 minutes
+19-11-07 18:53:49 Time Left: 2 minutes
+19-11-07 18:54:49 Time Left: 1 minutes
+19-11-07 18:55:49 Next map: Lobby
+19-11-07 18:55:54 Lothic - Gothic Lobby Room
+19-11-07 19:00:54 Time Left: 5 minutes
+19-11-07 19:01:54 Time Left: 4 minutes
+19-11-07 19:02:54 Time Left: 3 minutes
+19-11-07 19:03:54 Time Left: 2 minutes
+19-11-07 19:04:54 Time Left: 1 minutes
+19-11-07 19:05:54 Next map: Lobby
+19-11-07 19:05:59 Lothic - Gothic Lobby Room
+19-11-07 19:10:59 Time Left: 5 minutes
+19-11-07 19:11:59 Time Left: 4 minutes
+19-11-07 19:12:59 Time Left: 3 minutes
+19-11-07 19:13:59 Time Left: 2 minutes
+19-11-07 19:14:59 Time Left: 1 minutes
+19-11-07 19:15:59 Next map: Lobby
+19-11-07 19:16:05 Lothic - Gothic Lobby Room
+19-11-07 19:21:05 Time Left: 5 minutes
+19-11-07 19:22:05 Time Left: 4 minutes
+19-11-07 19:23:05 Time Left: 3 minutes
+19-11-07 19:24:05 Time Left: 2 minutes
+19-11-07 19:25:05 Time Left: 1 minutes
+19-11-07 19:26:05 Next map: Lobby
+19-11-07 19:26:10 Lothic - Gothic Lobby Room
+19-11-07 19:31:10 Time Left: 5 minutes
+19-11-07 19:32:10 Time Left: 4 minutes
+19-11-07 19:33:10 Time Left: 3 minutes
+19-11-07 19:34:10 Time Left: 2 minutes
+19-11-07 19:35:10 Time Left: 1 minutes
+19-11-07 19:36:10 Next map: Lobby
+19-11-07 19:36:15 Lothic - Gothic Lobby Room
+19-11-07 19:41:15 Time Left: 5 minutes
+19-11-07 19:42:15 Time Left: 4 minutes
+19-11-07 19:43:15 Time Left: 3 minutes
+19-11-07 19:44:15 Time Left: 2 minutes
+19-11-07 19:45:15 Time Left: 1 minutes
+19-11-07 19:46:15 Next map: Lobby
+19-11-07 19:46:21 Lothic - Gothic Lobby Room
+19-11-07 19:51:21 Time Left: 5 minutes
+19-11-07 19:52:21 Time Left: 4 minutes
+19-11-07 19:53:21 Time Left: 3 minutes
+19-11-07 19:54:21 Time Left: 2 minutes
+19-11-07 19:55:21 Time Left: 1 minutes
+19-11-07 19:56:21 Next map: Lobby
+19-11-07 19:56:26 Lothic - Gothic Lobby Room
+19-11-07 20:01:26 Time Left: 5 minutes
+19-11-07 20:02:26 Time Left: 4 minutes
+19-11-07 20:03:26 Time Left: 3 minutes
+19-11-07 20:04:26 Time Left: 2 minutes
+19-11-07 20:05:26 Time Left: 1 minutes
+19-11-07 20:06:26 Next map: Lobby
+19-11-07 20:06:31 Lothic - Gothic Lobby Room
+19-11-07 20:11:31 Time Left: 5 minutes
+19-11-07 20:12:31 Time Left: 4 minutes
+19-11-07 20:13:31 Time Left: 3 minutes
+19-11-07 20:14:31 Time Left: 2 minutes
+19-11-07 20:15:31 Time Left: 1 minutes
+19-11-07 20:16:31 Next map: Lobby
+19-11-07 20:16:37 Lothic - Gothic Lobby Room
+19-11-07 20:21:37 Time Left: 5 minutes
+19-11-07 20:22:37 Time Left: 4 minutes
+19-11-07 20:23:37 Time Left: 3 minutes
+19-11-07 20:24:37 Time Left: 2 minutes
+19-11-07 20:25:37 Time Left: 1 minutes
+19-11-07 20:26:37 Next map: Lobby
+19-11-07 20:26:42 Lothic - Gothic Lobby Room
+19-11-07 20:31:42 Time Left: 5 minutes
+19-11-07 20:32:42 Time Left: 4 minutes
+19-11-07 20:33:42 Time Left: 3 minutes
+19-11-07 20:34:42 Time Left: 2 minutes
+19-11-07 20:35:42 Time Left: 1 minutes
+19-11-07 20:36:42 Next map: Lobby
+19-11-07 20:36:47 Lothic - Gothic Lobby Room
+19-11-07 20:41:47 Time Left: 5 minutes
+19-11-07 20:42:47 Time Left: 4 minutes
+19-11-07 20:43:47 Time Left: 3 minutes
+19-11-07 20:44:47 Time Left: 2 minutes
+19-11-07 20:45:47 Time Left: 1 minutes
+19-11-07 20:46:47 Next map: Lobby
+19-11-07 20:46:53 Lothic - Gothic Lobby Room
+19-11-07 20:51:53 Time Left: 5 minutes
+19-11-07 20:52:53 Time Left: 4 minutes
+19-11-07 20:53:53 Time Left: 3 minutes
+19-11-07 20:54:53 Time Left: 2 minutes
+19-11-07 20:55:53 Time Left: 1 minutes
+19-11-07 20:56:52 Next map: Lobby
+19-11-07 20:56:58 Lothic - Gothic Lobby Room
+19-11-07 21:01:58 Time Left: 5 minutes
+19-11-07 21:02:58 Time Left: 4 minutes
+19-11-07 21:03:58 Time Left: 3 minutes
+19-11-07 21:04:58 Time Left: 2 minutes
+19-11-07 21:05:58 Time Left: 1 minutes
+19-11-07 21:06:58 Next map: Lobby
+19-11-07 21:07:03 Lothic - Gothic Lobby Room
+19-11-07 21:12:03 Time Left: 5 minutes
+19-11-07 21:13:03 Time Left: 4 minutes
+19-11-07 21:14:03 Time Left: 3 minutes
+19-11-07 21:15:03 Time Left: 2 minutes
+19-11-07 21:16:03 Time Left: 1 minutes
+19-11-07 21:17:03 Next map: Lobby
+19-11-07 21:17:08 Lothic - Gothic Lobby Room
+19-11-07 21:22:08 Time Left: 5 minutes
+19-11-07 21:23:08 Time Left: 4 minutes
+19-11-07 21:24:08 Time Left: 3 minutes
+19-11-07 21:25:08 Time Left: 2 minutes
+19-11-07 21:26:08 Time Left: 1 minutes
+19-11-07 21:27:08 Next map: Lobby
+19-11-07 21:27:14 Lothic - Gothic Lobby Room
+19-11-07 21:32:14 Time Left: 5 minutes
+19-11-07 21:33:14 Time Left: 4 minutes
+19-11-07 21:34:14 Time Left: 3 minutes
+19-11-07 21:35:14 Time Left: 2 minutes
+19-11-07 21:36:14 Time Left: 1 minutes
+19-11-07 21:37:14 Next map: Lobby
+19-11-07 21:37:19 Lothic - Gothic Lobby Room

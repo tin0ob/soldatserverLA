@@ -1,0 +1,100 @@
+19-11-07 21:59:38    Log Started
+19-11-07 21:59:38 Opened /home/tino/gathers/servers/gather18/soldat.ini
+19-11-07 21:59:38 Creating network interface.
+19-11-07 21:59:38 Loading Animations.
+19-11-07 21:59:38 Loading Lobby Servers List
+19-11-07 21:59:38 Loading Maps List
+19-11-07 21:59:38 Loading Map.
+19-11-07 21:59:38 Creating Weapons.
+19-11-07 21:59:38 Starting Game Server.
+19-11-07 21:59:38 TCP/IP File Server started
+19-11-07 22:29:38 TCP/IP File Server started
+19-11-07 22:59:38 TCP/IP File Server started
+19-11-07 23:29:38 TCP/IP File Server started
+19-11-07 23:59:38 TCP/IP File Server started
+19-11-08 00:29:38 TCP/IP File Server started
+19-11-08 00:59:38 TCP/IP File Server started
+19-11-08 01:29:38 TCP/IP File Server started
+19-11-08 01:59:38 TCP/IP File Server started
+19-11-08 02:29:18 Loading Map.
+19-11-08 02:29:18 Creating Weapons.
+19-11-08 02:29:18 Starting Game Server.
+19-11-08 02:29:18 TCP/IP File Server started
+19-11-08 02:29:35  Net - Shatelia connected 8-11-19 02:29:35
+19-11-08 02:29:36  Net - SkiLLo connected 8-11-19 02:29:36
+19-11-08 02:29:38 TCP/IP File Server started
+19-11-08 02:29:39  Net - Shatelia disconnected 8-11-19 02:29:39
+19-11-08 02:29:41  Net - SkiLLo disconnected 8-11-19 02:29:41
+19-11-08 02:29:41  Net - Shatelia connected 8-11-19 02:29:41
+19-11-08 02:29:48  Net - Shatelia disconnected 8-11-19 02:29:48
+19-11-08 02:29:50  Net - Shatelia connected 8-11-19 02:29:50
+19-11-08 02:29:53  Net - SkiLLo connected 8-11-19 02:29:53
+19-11-08 02:29:59  Net - Shatelia connected 8-11-19 02:29:59
+19-11-08 02:30:09  Net - sk!T.Rattle connected 8-11-19 02:30:09
+19-11-08 02:30:22  Net - Enigma connected 8-11-19 02:30:22
+19-11-08 02:30:47  Net - Mr. Bait connected 8-11-19 02:30:47
+19-11-08 02:30:59  Net - SkiLLo connected 8-11-19 02:30:59
+19-11-08 02:31:24  Net - Drsoldat connected 8-11-19 02:31:24
+19-11-08 02:31:39  Net - sk!T.Rattle disconnected 8-11-19 02:31:39
+19-11-08 02:32:00  Net - SkiLLo connected 8-11-19 02:32:00
+19-11-08 02:32:01  Net - SkiLLo connected 8-11-19 02:32:01
+19-11-08 02:32:10  Net - sk!T.Rattle connected 8-11-19 02:32:10
+19-11-08 02:32:16  Net - Mr. Bait disconnected 8-11-19 02:32:16
+19-11-08 02:33:32  Net - Mr. Bait connected 8-11-19 02:33:32
+19-11-08 02:50:04  Net - sT.- YnGwi3 connected 8-11-19 02:50:04
+19-11-08 02:54:41  Net - SkiLLo disconnected 8-11-19 02:54:41
+19-11-08 02:54:42  Net - sk!T.Rattle disconnected 8-11-19 02:54:42
+19-11-08 02:54:42  Net - Enigma disconnected 8-11-19 02:54:42
+19-11-08 02:54:42  Net - Drsoldat disconnected 8-11-19 02:54:42
+19-11-08 02:54:43  Net - sT.- YnGwi3 disconnected 8-11-19 02:54:43
+19-11-08 02:54:43  Net - Mr. Bait disconnected 8-11-19 02:54:43
+19-11-08 02:54:43  Net - Shatelia disconnected 8-11-19 02:54:43
+19-11-08 02:55:28 Loading Map.
+19-11-08 02:55:28 Creating Weapons.
+19-11-08 02:55:28 Starting Game Server.
+19-11-08 02:55:28 TCP/IP File Server started
+19-11-08 02:55:39  Net - Drsoldat connected 8-11-19 02:55:39
+19-11-08 02:55:44  Net - sk!T.Rattle connected 8-11-19 02:55:44
+19-11-08 02:55:45  Net - Shatelia connected 8-11-19 02:55:45
+19-11-08 02:55:51  Net - Shatelia connected 8-11-19 02:55:51
+19-11-08 02:55:59  Net - sT.- YnGwi3 connected 8-11-19 02:55:59
+19-11-08 02:56:12  Net - nP [KillMe!] connected 8-11-19 02:56:12
+19-11-08 02:56:23  Net - Enigma connected 8-11-19 02:56:23
+19-11-08 02:57:47  Net - sk!T.Rattle disconnected 8-11-19 02:57:47
+19-11-08 02:57:51  Net - sk!T.Rattle connected 8-11-19 02:57:51
+19-11-08 02:59:38 TCP/IP File Server started
+19-11-08 03:06:30  Net - ITS NOT ME ITS THE SERVR connected 8-11-19 03:06:30
+19-11-08 03:18:21  Net - SkiLLo connected 8-11-19 03:18:21
+19-11-08 03:19:21  Net - SkiLLo disconnected 8-11-19 03:19:21
+19-11-08 03:29:38 TCP/IP File Server started
+19-11-08 03:29:45  Net - Shatelia disconnected 8-11-19 03:29:45
+19-11-08 03:29:46  Net - sk!T.Rattle disconnected 8-11-19 03:29:46
+19-11-08 03:29:46  Net - Enigma disconnected 8-11-19 03:29:46
+19-11-08 03:29:46  Net - Drsoldat disconnected 8-11-19 03:29:46
+19-11-08 03:29:47  Net - nP [KillMe!] disconnected 8-11-19 03:29:47
+19-11-08 03:29:48  Net - sT.- YnGwi3 disconnected 8-11-19 03:29:48
+19-11-08 03:40:52  Net - ITS NOT ME ITS THE SERVR disconnected 8-11-19 03:40:52
+19-11-08 03:59:38 TCP/IP File Server started
+19-11-08 04:29:38 TCP/IP File Server started
+19-11-08 04:59:38 TCP/IP File Server started
+19-11-08 05:29:38 TCP/IP File Server started
+19-11-08 05:59:38 TCP/IP File Server started
+19-11-08 06:29:38 TCP/IP File Server started
+19-11-08 06:59:38 TCP/IP File Server started
+19-11-08 07:29:38 TCP/IP File Server started
+19-11-08 07:59:38 TCP/IP File Server started
+19-11-08 08:29:38 TCP/IP File Server started
+19-11-08 08:59:38 TCP/IP File Server started
+19-11-08 09:29:38 TCP/IP File Server started
+19-11-08 09:59:38 TCP/IP File Server started
+19-11-08 10:29:38 TCP/IP File Server started
+19-11-08 10:59:38 TCP/IP File Server started
+19-11-08 11:29:38 TCP/IP File Server started
+19-11-08 11:59:38 TCP/IP File Server started
+19-11-08 12:29:38 TCP/IP File Server started
+19-11-08 12:59:38 TCP/IP File Server started
+19-11-08 13:29:38 TCP/IP File Server started
+19-11-08 13:59:38 TCP/IP File Server started
+19-11-08 14:29:38 TCP/IP File Server started
+19-11-08 14:59:38 TCP/IP File Server started
+19-11-08 15:29:38 TCP/IP File Server started

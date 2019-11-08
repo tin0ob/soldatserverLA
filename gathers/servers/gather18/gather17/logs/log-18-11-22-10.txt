@@ -1,0 +1,18 @@
+18-11-22 18:16:38    Log Started
+18-11-22 18:16:38 Opened /home/tinolski/gathers/servers/gather19/soldat.ini
+18-11-22 18:16:38 Creating network interface.
+18-11-22 18:16:38 Loading Animations.
+18-11-22 18:16:38 Loading Lobby Servers List
+18-11-22 18:16:38 Loading Maps List
+18-11-22 18:16:38 Loading Map.
+18-11-22 18:16:38 Creating Weapons.
+18-11-22 18:16:38 Starting Game Server.
+18-11-22 18:16:38 TCP/IP File Server started
+18-11-22 18:17:02  Net - sk!T.Rattle connected 22-11-18 18:17:02
+18-11-22 18:17:40  Net - sk!T.Rattle disconnected 22-11-18 18:17:40
+18-11-22 18:46:38 TCP/IP File Server started
+18-11-22 19:16:38 TCP/IP File Server started
+18-11-22 19:46:38 TCP/IP File Server started
+18-11-22 20:16:38 TCP/IP File Server started
+18-11-22 20:46:38 TCP/IP File Server started
+18-11-22 21:16:38 TCP/IP File Server started

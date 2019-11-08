@@ -1,0 +1,8 @@
+19-03-15 16:38:36    Log Started
+19-03-15 16:38:36 Opened /home/tino/gathers/servers/publico1/soldat.ini
+19-03-15 16:38:36 Creating network interface.
+19-03-15 16:38:36 Loading Animations.
+19-03-15 16:38:36 Loading Lobby Servers List
+19-03-15 16:38:36 Loading Maps List
+19-03-15 16:38:36 Destroying Devices.
+19-03-15 16:38:36    End of Log.

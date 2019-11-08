@@ -1,0 +1,10 @@
+19-01-02 15:10:15    Log Started
+19-01-02 15:10:15 Opened /home/tinolski/gathers/servers/gather18/soldat.ini
+19-01-02 15:10:15 Creating network interface.
+19-01-02 15:10:15 Loading Animations.
+19-01-02 15:10:15 Loading Lobby Servers List
+19-01-02 15:10:15 Loading Maps List
+19-01-02 15:10:15 Loading Map.
+19-01-02 15:10:15 Creating Weapons.
+19-01-02 15:10:15 Starting Game Server.
+19-01-02 15:10:15 TCP/IP File Server started

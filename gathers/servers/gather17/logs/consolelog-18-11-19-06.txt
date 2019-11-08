@@ -1,0 +1,12 @@
+18-11-19 10:49:12    Console Log Started
+18-11-19 10:49:12 Welcome to Soldat 1.7.1
+18-11-19 10:49:12  [*] Preparing scripts to be launched
+18-11-19 10:49:12  [*] [BasicCommands] Loading bytecode
+18-11-19 10:49:12  [*] [BasicCommands] Bytecode loaded
+18-11-19 10:49:12  [*] Done
+18-11-19 10:49:12 Lothic - Gothic Lobby Room
+18-11-19 10:49:12 Loaded weapons mod "Default mod v1.8"
+18-11-19 10:49:13  Connection for file server started. Port: 23083
+18-11-19 10:49:36 Shutting down server...
+18-11-19 10:49:36 Shutting down FileServer...
+18-11-19 10:49:36 Shutting down admin server...

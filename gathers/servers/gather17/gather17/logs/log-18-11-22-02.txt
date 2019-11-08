@@ -1,0 +1,6 @@
+18-11-22 17:36:59    Log Started
+18-11-22 17:36:59 Opened /home/tinolski/gathers/servers/gather19/soldat.ini
+18-11-22 17:36:59 Creating network interface.
+18-11-22 17:36:59 Loading Animations.
+18-11-22 17:36:59 Loading Lobby Servers List
+18-11-22 17:36:59 Loading Maps List

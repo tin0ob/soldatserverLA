@@ -1,0 +1,27 @@
+19-11-07 08:50:32    Log Started
+19-11-07 08:50:32 Opened /home/tino/gathers/servers/gather17/soldat.ini
+19-11-07 09:14:12 TCP/IP File Server started
+19-11-07 09:44:12 TCP/IP File Server started
+19-11-07 10:14:12 TCP/IP File Server started
+19-11-07 10:44:12 TCP/IP File Server started
+19-11-07 11:14:12 TCP/IP File Server started
+19-11-07 11:44:12 TCP/IP File Server started
+19-11-07 12:14:12 TCP/IP File Server started
+19-11-07 12:44:12 TCP/IP File Server started
+19-11-07 13:14:12 TCP/IP File Server started
+19-11-07 13:44:12 TCP/IP File Server started
+19-11-07 14:14:12 TCP/IP File Server started
+19-11-07 14:44:12 TCP/IP File Server started
+19-11-07 15:14:12 TCP/IP File Server started
+19-11-07 15:44:12 TCP/IP File Server started
+19-11-07 16:14:12 TCP/IP File Server started
+19-11-07 16:44:12 TCP/IP File Server started
+19-11-07 17:14:12 TCP/IP File Server started
+19-11-07 17:44:12 TCP/IP File Server started
+19-11-07 18:14:12 TCP/IP File Server started
+19-11-07 18:44:12 TCP/IP File Server started
+19-11-07 19:14:12 TCP/IP File Server started
+19-11-07 19:44:12 TCP/IP File Server started
+19-11-07 20:14:12 TCP/IP File Server started
+19-11-07 20:44:12 TCP/IP File Server started
+19-11-07 21:14:12 TCP/IP File Server started

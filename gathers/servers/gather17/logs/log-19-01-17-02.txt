@@ -1,0 +1,16 @@
+19-01-17 00:34:29    Log Started
+19-01-17 00:34:29 Opened /home/tino/gathers/servers/gather17/soldat.ini
+19-01-17 00:34:29 Creating network interface.
+19-01-17 00:34:29 Loading Animations.
+19-01-17 00:34:29 Loading Lobby Servers List
+19-01-17 00:34:29 Loading Maps List
+19-01-17 00:34:29 Loading Map.
+19-01-17 00:34:29 Creating Weapons.
+19-01-17 00:34:29 Starting Game Server.
+19-01-17 00:34:29 TCP/IP File Server started
+19-01-17 00:36:21  Net - sk!T.Rattle connected 17-1-19 00:36:21
+19-01-17 00:36:23  Net - sk!T.Rattle disconnected 17-1-19 00:36:23
+19-01-17 00:38:12  Net - sk!T.Rattle connected 17-1-19 00:38:12
+19-01-17 00:38:15  Net - sk!T.Rattle disconnected 17-1-19 00:38:15
+19-01-17 00:45:42  Net - sk!T.Rattle connected 17-1-19 00:45:42
+19-01-17 00:52:57  Net - sk!T.Rattle disconnected 17-1-19 00:52:57

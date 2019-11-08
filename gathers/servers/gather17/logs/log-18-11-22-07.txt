@@ -1,0 +1,14 @@
+18-11-22 18:03:43    Log Started
+18-11-22 18:03:43 Opened /home/tinolski/gathers/servers/gather20/soldat.ini
+18-11-22 18:03:43 Creating network interface.
+18-11-22 18:03:43 Loading Animations.
+18-11-22 18:03:43 Loading Lobby Servers List
+18-11-22 18:03:43 Loading Maps List
+18-11-22 18:03:43 Loading Map.
+18-11-22 18:03:43 Creating Weapons.
+18-11-22 18:03:43 Starting Game Server.
+18-11-22 18:03:43 TCP/IP File Server started
+18-11-22 18:07:20  Net - sk!T.Rattle connected 22-11-18 18:07:20
+18-11-22 18:07:31  Net - sk!T.Rattle disconnected 22-11-18 18:07:31
+18-11-22 18:16:30 Destroying Devices.
+18-11-22 18:16:30    End of Log.

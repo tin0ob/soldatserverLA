@@ -1,0 +1,20 @@
+19-03-15 16:38:44    Log Started
+19-03-15 16:38:44 Opened /home/tino/gathers/servers/publico1/soldat.ini
+19-03-15 16:38:44 Creating network interface.
+19-03-15 16:38:44 Loading Animations.
+19-03-15 16:38:44 Loading Lobby Servers List
+19-03-15 16:38:44 Loading Maps List
+19-03-15 16:38:44 Loading Map.
+19-03-15 16:38:44 Creating Weapons.
+19-03-15 16:38:44 Starting Game Server.
+19-03-15 16:38:44 TCP/IP File Server started
+19-03-15 16:39:32  Net - sk!T.Rattle connected 15-3-19 16:39:32
+19-03-15 16:39:41  Net - sk!T.Rattle disconnected 15-3-19 16:39:41
+19-03-15 17:08:44 TCP/IP File Server started
+19-03-15 17:38:44 TCP/IP File Server started
+19-03-15 18:08:44 TCP/IP File Server started
+19-03-15 18:38:44 TCP/IP File Server started
+19-03-15 18:53:44  Net - sk!T.Rattle connected 15-3-19 18:53:44
+19-03-15 18:53:46  Net - sk!T.Rattle disconnected 15-3-19 18:53:46
+19-03-15 18:56:34 Destroying Devices.
+19-03-15 18:56:34    End of Log.

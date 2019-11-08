@@ -1,0 +1,3106 @@
+19-01-22 02:10:37    Console Log Started
+19-01-22 02:10:39 sT.- YnGwi3 has left spectators
+19-01-22 02:10:40 (TEAM)[sk!T.chub0] shit happens
+19-01-22 02:10:42 (TEAM)[sk!T.chub0] shit happens
+19-01-22 02:10:45 [|hu3| CrasheR] someone sub chub0
+19-01-22 02:10:47 (TEAM)[|hu3| CrasheR] rlx bro
+19-01-22 02:10:57 [|hu3| CrasheR] mand3s
+19-01-22 02:10:58 [|hu3| CrasheR] !sub
+19-01-22 02:10:58 /say Sub was called... (206.81.24.116)
+19-01-22 02:10:59 sk!T.chub0 has left bravo team.
+19-01-22 02:11:01 [sT.- Mand3s] !b
+19-01-22 02:11:01 sT.- Mand3s has joined bravo team.
+19-01-22 02:11:01 181.160.131.94:23073|34B05B4CF39 requesting game...
+19-01-22 02:11:05 [|hu3| CrasheR] !soff
+19-01-22 02:11:05 /say Sub call was cancelled... (206.81.24.116)
+19-01-22 02:11:06 sk!T.chub0 joining game (181.160.131.94:23073) HWID:34B05B4CF39
+19-01-22 02:11:06 sk!T.chub0 has joined as spectator.
+19-01-22 02:11:09 [sT.- Mand3s] entras?
+19-01-22 02:11:10 [|hu3| CrasheR] !up
+19-01-22 02:11:10 Unpausing in: 3
+19-01-22 02:11:11 Unpausing in: 2
+19-01-22 02:11:12 Unpausing in: 1
+19-01-22 02:11:13 Go!
+19-01-22 02:11:14 [sk!T.chub0] juega tuj
+19-01-22 02:11:15 (2) sT.- Mand3s killed (1) |hu3|  pala with Steyr AUG
+19-01-22 02:11:16 |hu3| BanKai. scores for Alpha Team
+19-01-22 02:11:17 [sk!T.chub0] tengo mucho lag
+19-01-22 02:11:21 :|dp|: Saitama captured the Red Flag
+19-01-22 02:11:21 [sk!T.chub0] xD
+19-01-22 02:11:23 [sk!T.chub0] xD
+19-01-22 02:11:24 (2) |hu3| CrasheR killed (1) OXiD:// Slasher with Ak-74
+19-01-22 02:11:24 (1) OXiD:// Slasher killed (2) |hu3| CrasheR with Grenade
+19-01-22 02:11:24 (1) |hu3|  pala killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 02:11:24 sk!T.chub0 gets a ping warning
+19-01-22 02:11:26 |hu3|  pala returned the Red Flag
+19-01-22 02:11:28 |hu3|  pala captured the Blue Flag
+19-01-22 02:11:29 Time Left: 2 minutes
+19-01-22 02:11:29 sT.- Mand3s captured the Red Flag
+19-01-22 02:11:30 (1) OXiD:// Slasher killed (2) sT.- Mand3s with HK MP5
+19-01-22 02:11:30 (2) :|dp|: Saitama killed (1) |hu3|  pala with Grenade
+19-01-22 02:11:31 :|dp|: Saitama returned the Blue Flag
+19-01-22 02:11:32 OXiD:// Slasher returned the Red Flag
+19-01-22 02:11:33 |hu3| BanKai. captured the Blue Flag
+19-01-22 02:11:34 [sk!T.chub0] gracias mandes
+19-01-22 02:11:34 (2) :|dp|: Saitama killed (1) OXiD:// Slasher with Grenade
+19-01-22 02:11:35 sk!T.chub0 has left spectators
+19-01-22 02:11:36 (2) :|dp|: Saitama killed (1) |hu3| BanKai. with Spas-12
+19-01-22 02:11:37 :|dp|: Saitama returned the Blue Flag
+19-01-22 02:11:40 (1) OXiD:// Slasher killed (2) :|dp|: Saitama with Grenade
+19-01-22 02:11:42 (1) |hu3| BanKai. killed (2) sT.- Mand3s with Spas-12
+19-01-22 02:11:46 (1) |hu3| BanKai. killed (2) |hu3| CrasheR with Spas-12
+19-01-22 02:11:47 (2) :|dp|: Saitama killed (1) |hu3| BanKai. with Spas-12
+19-01-22 02:11:48 (RADIO)[|hu3| CrasheR] Enemy spotted down!
+19-01-22 02:11:48 (2) sT.- Mand3s killed (1) OXiD:// Slasher with Grenade
+19-01-22 02:11:53 (1) |hu3|  pala killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 02:11:55 (1) OXiD:// Slasher killed (2) sT.- Mand3s with HK MP5
+19-01-22 02:11:57 (1) OXiD:// Slasher killed (2) |hu3| CrasheR with HK MP5
+19-01-22 02:11:58 |hu3|  pala captured the Blue Flag
+19-01-22 02:12:02 (1) |hu3|  pala killed (2) :|dp|: Saitama with Grenade
+19-01-22 02:12:03 (2) sT.- Mand3s killed (1) |hu3| BanKai. with HK MP5
+19-01-22 02:12:03 (2) |hu3| CrasheR killed (1) |hu3|  pala with Steyr AUG
+19-01-22 02:12:03 (1) OXiD:// Slasher killed (2) sT.- Mand3s with HK MP5
+19-01-22 02:12:04 [|hu3|  pala] Yeah
+19-01-22 02:12:05 |hu3| CrasheR returned the Blue Flag
+19-01-22 02:12:11 (2) |hu3| CrasheR killed (1) OXiD:// Slasher with Steyr AUG
+19-01-22 02:12:15 (2) |hu3| CrasheR killed (1) OXiD:// Slasher with Combat Knife
+19-01-22 02:12:15 |hu3|  pala captured the Blue Flag
+19-01-22 02:12:18 |hu3| CrasheR captured the Red Flag
+19-01-22 02:12:21 (1) |hu3|  pala killed (2) sT.- Mand3s with Steyr AUG
+19-01-22 02:12:22 (1) |hu3|  pala killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 02:12:23 (2) |hu3| CrasheR killed (1) |hu3| BanKai. with Steyr AUG
+19-01-22 02:12:25 |hu3| CrasheR captured the Red Flag
+19-01-22 02:12:29 Time Left: 1 minutes
+19-01-22 02:12:29 (2) |hu3| CrasheR killed (1) OXiD:// Slasher with Steyr AUG
+19-01-22 02:12:30 (2) sT.- Mand3s killed (1) |hu3| BanKai. with Grenade
+19-01-22 02:12:35 (1) |hu3|  pala killed (2) sT.- Mand3s with Steyr AUG
+19-01-22 02:12:36 (1) OXiD:// Slasher killed (2) :|dp|: Saitama with HK MP5
+19-01-22 02:12:38 [sT.- Mand3s] Die!
+19-01-22 02:12:42 :|dp|: Saitama captured the Red Flag
+19-01-22 02:12:43 (1) OXiD:// Slasher killed (2) sT.- Mand3s with Grenade
+19-01-22 02:12:47 (1) |hu3|  pala killed (2) |hu3| CrasheR with Steyr AUG
+19-01-22 02:12:49 (2) :|dp|: Saitama killed (1) |hu3| BanKai. with Spas-12
+19-01-22 02:12:52 (1) OXiD:// Slasher killed (2) sT.- Mand3s with HK MP5
+19-01-22 02:12:53 OXiD:// Slasher captured the Blue Flag
+19-01-22 02:12:54 |hu3| BanKai. captured the Blue Flag
+19-01-22 02:12:54 (1) |hu3|  pala killed (2) |hu3| CrasheR with Steyr AUG
+19-01-22 02:12:55 (2) :|dp|: Saitama killed (1) |hu3|  pala with Spas-12
+19-01-22 02:12:59 (2) sT.- Mand3s killed (1) OXiD:// Slasher with Grenade
+19-01-22 02:13:00 (RADIO)[OXiD:// Slasher] Enemy flagger down!
+19-01-22 02:13:01 |hu3| BanKai. captured the Blue Flag
+19-01-22 02:13:03 OXiD:// Slasher captured the Blue Flag
+19-01-22 02:13:04 (2) sT.- Mand3s killed (1) |hu3| BanKai. with Grenade
+19-01-22 02:13:09 (1) |hu3|  pala killed (2) |hu3| CrasheR with Grenade
+19-01-22 02:13:14 (2) sT.- Mand3s killed (1) OXiD:// Slasher with HK MP5
+19-01-22 02:13:16 (1) |hu3|  pala killed (2) sT.- Mand3s with Steyr AUG
+19-01-22 02:13:17 |hu3|  pala captured the Blue Flag
+19-01-22 02:13:23 [|hu3|  pala] Yeah
+19-01-22 02:13:24 |hu3| CrasheR returned the Blue Flag
+19-01-22 02:13:24 (2) :|dp|: Saitama killed (1) |hu3| BanKai. with Spas-12
+19-01-22 02:13:26 (2) sT.- Mand3s killed (1) |hu3|  pala with HK MP5
+19-01-22 02:13:27 :|dp|: Saitama scores for Bravo Team
+19-01-22 02:13:27 sT.- Mand3s captured the Red Flag
+19-01-22 02:13:27 OXiD:// Slasher captured the Blue Flag
+19-01-22 02:13:29 Next map: Lobby
+19-01-22 02:13:30 [|hu3|  pala] guyeh
+19-01-22 02:13:34 Lothic - Gothic Lobby Room
+19-01-22 02:13:45 [|hu3| CrasheR] pq saiu da sala pala safado
+19-01-22 02:13:51 [|hu3|  pala] aqui fica lag
+19-01-22 02:13:53 [|hu3|  pala] pc de pobre
+19-01-22 02:13:54 [|hu3|  pala] hue
+19-01-22 02:13:59 (TEAM)[sT.- Mand3s] map?
+19-01-22 02:14:15 (TEAM)[:|dp|: Saitama] nem manjo muito 
+19-01-22 02:14:19 [|hu3|  pala] map
+19-01-22 02:14:23 [sT.- Mand3s] !map ctf_Ash
+19-01-22 02:14:23 (TEAM)[:|dp|: Saitama] bora ash mesmo
+19-01-22 02:14:24 [|hu3|  pala] Yes, Sir!
+19-01-22 02:14:25 (TEAM)[:|dp|: Saitama] uhasduh
+19-01-22 02:14:26 (TEAM)[|hu3| CrasheR] D:
+19-01-22 02:14:27 (TEAM)[sT.- Mand3s] only def, ill atck
+19-01-22 02:14:28 ctf_Ash by chakapoko maker
+19-01-22 02:14:38 (1) |hu3|  pala killed (2) |hu3| CrasheR with Steyr AUG
+19-01-22 02:14:39 (2) :|dp|: Saitama killed (1) OXiD:// Slasher with Spas-12
+19-01-22 02:14:42 (RADIO)[OXiD:// Slasher] Enemy flagger down!
+19-01-22 02:14:47 |hu3| BanKai. captured the Blue Flag
+19-01-22 02:14:49 (2) |hu3| CrasheR killed (1) |hu3| BanKai. with Barrett M82A1
+19-01-22 02:14:50 sT.- Mand3s returned the Blue Flag
+19-01-22 02:14:51 (2) :|dp|: Saitama killed (1) |hu3|  pala with Spas-12
+19-01-22 02:14:51 (1) |hu3|  pala killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 02:14:52 (1) OXiD:// Slasher killed (2) |hu3| CrasheR with Grenade
+19-01-22 02:14:53 (RADIO)[|hu3| CrasheR] Enemy spotted down!
+19-01-22 02:14:54 (TEAM)[sT.- Mand3s] we
+19-01-22 02:14:55 (2) sT.- Mand3s killed (1) OXiD:// Slasher with Barrett M82A1
+19-01-22 02:15:01 (1) |hu3|  pala killed (2) |hu3| CrasheR with Steyr AUG
+19-01-22 02:15:03 (2) sT.- Mand3s killed (1) OXiD:// Slasher with Barrett M82A1
+19-01-22 02:15:03 (2) :|dp|: Saitama killed (1) |hu3|  pala with Hands
+19-01-22 02:15:05 sT.- Mand3s captured the Red Flag
+19-01-22 02:15:10 (2) |hu3| CrasheR killed (1) |hu3| BanKai. with Barrett M82A1
+19-01-22 02:15:13 sT.- Mand3s scores for Bravo Team
+19-01-22 02:15:14 (2) |hu3| CrasheR killed (1) OXiD:// Slasher with Barrett M82A1
+19-01-22 02:15:19 (2) |hu3| CrasheR killed (1) OXiD:// Slasher with Barrett M82A1
+19-01-22 02:15:26 [|hu3|  pala] hue
+19-01-22 02:15:27 (1) OXiD:// Slasher killed (2) |hu3| CrasheR with HK MP5
+19-01-22 02:15:28 [:|dp|: Saitama] UYDSAU]
+19-01-22 02:15:29 (RADIO)[|hu3| CrasheR] Enemy spotted up!
+19-01-22 02:15:32 (2) :|dp|: Saitama killed (1) OXiD:// Slasher with Grenade
+19-01-22 02:15:32 (1) |hu3|  pala killed (2) sT.- Mand3s with Steyr AUG
+19-01-22 02:15:34 (2) |hu3| CrasheR killed (1) |hu3| BanKai. with Grenade
+19-01-22 02:15:47 (2) |hu3| CrasheR killed (1) |hu3| BanKai. with Barrett M82A1
+19-01-22 02:15:49 (1) OXiD:// Slasher killed (2) :|dp|: Saitama with HK MP5
+19-01-22 02:15:50 (2) sT.- Mand3s killed (1) |hu3|  pala with Grenade
+19-01-22 02:15:51 [|hu3|  pala] Yeah
+19-01-22 02:15:52 (2) |hu3| CrasheR killed (1) OXiD:// Slasher with Barrett M82A1
+19-01-22 02:15:57 (2) |hu3| CrasheR killed (1) |hu3| BanKai. with Barrett M82A1
+19-01-22 02:15:59 (1) |hu3|  pala killed (2) :|dp|: Saitama with Grenade
+19-01-22 02:16:01 sT.- Mand3s captured the Red Flag
+19-01-22 02:16:04 OXiD:// Slasher captured the Blue Flag
+19-01-22 02:16:09 (2) :|dp|: Saitama killed (1) OXiD:// Slasher with Combat Knife
+19-01-22 02:16:10 :|dp|: Saitama returned the Blue Flag
+19-01-22 02:16:12 sT.- Mand3s scores for Bravo Team
+19-01-22 02:16:14 (1) |hu3|  pala killed (2) sT.- Mand3s with Grenade
+19-01-22 02:16:15 (2) |hu3| CrasheR killed (1) |hu3|  pala with Barrett M82A1
+19-01-22 02:16:18 (1) |hu3| BanKai. killed (2) :|dp|: Saitama with Barrett M82A1
+19-01-22 02:16:24 (1) OXiD:// Slasher killed (2) |hu3| CrasheR with HK MP5
+19-01-22 02:16:25 |hu3| BanKai. captured the Blue Flag
+19-01-22 02:16:26 (1) |hu3|  pala killed (2) :|dp|: Saitama with Grenade
+19-01-22 02:16:27 (RADIO)[|hu3| CrasheR] Enemy flagger down!
+19-01-22 02:16:27 sT.- Mand3s captured the Red Flag
+19-01-22 02:16:29 (TEAM)[:|dp|: Saitama] YBOT
+19-01-22 02:16:31 (2) sT.- Mand3s killed (1) |hu3| BanKai. with Barrett M82A1
+19-01-22 02:16:31 sT.- Mand3s returned the Blue Flag
+19-01-22 02:16:35 sT.- Mand3s scores for Bravo Team
+19-01-22 02:16:39 (2) :|dp|: Saitama killed (1) |hu3|  pala with Spas-12
+19-01-22 02:16:42 |hu3| BanKai. captured the Blue Flag
+19-01-22 02:16:42 (2) |hu3| CrasheR killed (1) OXiD:// Slasher with Barrett M82A1
+19-01-22 02:16:42 |hu3| CrasheR captured the Red Flag
+19-01-22 02:16:45 (RADIO)[OXiD:// Slasher] Friendly flagger down!
+19-01-22 02:16:45 (1) |hu3|  pala killed (2) sT.- Mand3s with Grenade
+19-01-22 02:16:50 (1) |hu3|  pala killed (2) :|dp|: Saitama with Barrett M82A1
+19-01-22 02:16:54 (1) |hu3|  pala killed (2) |hu3| CrasheR with Barrett M82A1
+19-01-22 02:16:56 |hu3|  pala returned the Red Flag
+19-01-22 02:17:04 (2) :|dp|: Saitama killed (1) |hu3| BanKai. with Spas-12
+19-01-22 02:17:06 OXiD:// Slasher captured the Blue Flag
+19-01-22 02:17:07 (2) |hu3| CrasheR killed (1) OXiD:// Slasher with Grenade
+19-01-22 02:17:10 (2) |hu3| CrasheR killed (1) |hu3| BanKai. with Barrett M82A1
+19-01-22 02:17:10 :|dp|: Saitama returned the Blue Flag
+19-01-22 02:17:10 |hu3|  pala captured the Blue Flag
+19-01-22 02:17:11 (1) OXiD:// Slasher killed (2) |hu3| CrasheR with Combat Knife
+19-01-22 02:17:12 sT.- Mand3s captured the Red Flag
+19-01-22 02:17:17 (1) |hu3|  pala killed (2) sT.- Mand3s with Barrett M82A1
+19-01-22 02:17:18 (TEAM)[sT.- Mand3s] low
+19-01-22 02:17:19 |hu3|  pala returned the Red Flag
+19-01-22 02:17:24 (2) sT.- Mand3s killed (1) OXiD:// Slasher with Barrett M82A1
+19-01-22 02:17:25 (2) :|dp|: Saitama killed (1) |hu3|  pala with Spas-12
+19-01-22 02:17:26 (2) sT.- Mand3s killed (1) |hu3| BanKai. with USSOCOM
+19-01-22 02:17:27 :|dp|: Saitama returned the Blue Flag
+19-01-22 02:17:27 :|dp|: Saitama captured the Red Flag
+19-01-22 02:17:30 (2) sT.- Mand3s killed (1) |hu3| BanKai. with Barrett M82A1
+19-01-22 02:17:31 (2) |hu3| CrasheR killed (1) OXiD:// Slasher with Barrett M82A1
+19-01-22 02:17:36 |hu3|  pala captured the Blue Flag
+19-01-22 02:17:37 (1) |hu3|  pala killed (2) :|dp|: Saitama with Combat Knife
+19-01-22 02:17:37 (2) :|dp|: Saitama killed (1) |hu3|  pala with Spas-12
+19-01-22 02:17:38 sT.- Mand3s captured the Red Flag
+19-01-22 02:17:39 sT.- Mand3s returned the Blue Flag
+19-01-22 02:17:40 sT.- Mand3s scores for Bravo Team
+19-01-22 02:17:43 (2) :|dp|: Saitama killed (1) |hu3| BanKai. with Spas-12
+19-01-22 02:17:45 (1) |hu3|  pala killed (2) :|dp|: Saitama with Barrett M82A1
+19-01-22 02:17:45 |hu3| CrasheR captured the Red Flag
+19-01-22 02:17:47 |hu3|  pala captured the Blue Flag
+19-01-22 02:17:51 (1) |hu3|  pala killed (2) |hu3| CrasheR with Barrett M82A1
+19-01-22 02:17:51 (1) OXiD:// Slasher killed (2) :|dp|: Saitama with HK MP5
+19-01-22 02:17:52 (RADIO)[|hu3| CrasheR] Enemy flagger down!
+19-01-22 02:17:53 (RADIO)[|hu3| CrasheR] Friendly flagger down!
+19-01-22 02:17:54 |hu3|  pala returned the Red Flag
+19-01-22 02:17:58 (1) OXiD:// Slasher killed (2) :|dp|: Saitama with HK MP5
+19-01-22 02:17:59 (2) sT.- Mand3s killed (1) |hu3|  pala with Barrett M82A1
+19-01-22 02:18:00 sT.- Mand3s returned the Blue Flag
+19-01-22 02:18:03 (2) :|dp|: Saitama killed (1) OXiD:// Slasher with Spas-12
+19-01-22 02:18:03 sT.- Mand3s captured the Red Flag
+19-01-22 02:18:04 |hu3| BanKai. captured the Blue Flag
+19-01-22 02:18:05 (2) sT.- Mand3s killed (1) |hu3|  pala with Barrett M82A1
+19-01-22 02:18:08 (2) |hu3| CrasheR killed (1) OXiD:// Slasher with Barrett M82A1
+19-01-22 02:18:09 (1) |hu3| BanKai. killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 02:18:15 (1) |hu3|  pala killed (2) :|dp|: Saitama with Barrett M82A1
+19-01-22 02:18:18 (2) |hu3| CrasheR killed (1) |hu3| BanKai. with Barrett M82A1
+19-01-22 02:18:21 (1) OXiD:// Slasher killed (2) :|dp|: Saitama with Grenade
+19-01-22 02:18:21 |hu3| CrasheR returned the Blue Flag
+19-01-22 02:18:23 (2) sT.- Mand3s killed (1) OXiD:// Slasher with Barrett M82A1
+19-01-22 02:18:26 sT.- Mand3s scores for Bravo Team
+19-01-22 02:18:27 [OXiD:// Slasher] ta foda
+19-01-22 02:18:28 (2) sT.- Mand3s killed (1) |hu3|  pala with Barrett M82A1
+19-01-22 02:18:29 (1) |hu3| BanKai. killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 02:18:30 [|hu3|  pala] !P
+19-01-22 02:18:30 Pausing...
+19-01-22 02:18:32 [|hu3|  pala] LOL
+19-01-22 02:18:36 [sT.- Mand3s] ?
+19-01-22 02:18:43 [|hu3|  pala] im bug
+19-01-22 02:18:45 [sT.- Mand3s] oh
+19-01-22 02:18:47 [|hu3|  pala] !up
+19-01-22 02:18:47 Unpausing in: 3
+19-01-22 02:18:48 Unpausing in: 2
+19-01-22 02:18:49 Unpausing in: 1
+19-01-22 02:18:50 [|hu3| CrasheR] !p
+19-01-22 02:18:50 Unpausing was cancelled...
+19-01-22 02:18:54 [|hu3| CrasheR] q acontece pala?
+19-01-22 02:18:58 [OXiD:// Slasher] !up
+19-01-22 02:18:58 Unpausing in: 3
+19-01-22 02:18:59 Unpausing in: 2
+19-01-22 02:19:00 Unpausing in: 1
+19-01-22 02:19:01 Go!
+19-01-22 02:19:01 |hu3| BanKai. captured the Blue Flag
+19-01-22 02:19:04 (2) sT.- Mand3s killed (1) |hu3| BanKai. with Barrett M82A1
+19-01-22 02:19:07 sT.- Mand3s returned the Blue Flag
+19-01-22 02:19:07 (1) |hu3|  pala killed (2) :|dp|: Saitama with Barrett M82A1
+19-01-22 02:19:08 |hu3| CrasheR captured the Red Flag
+19-01-22 02:19:08 (2) |hu3| CrasheR killed (1) OXiD:// Slasher with Barrett M82A1
+19-01-22 02:19:11 (RADIO)[OXiD:// Slasher] Friendly flagger up!
+19-01-22 02:19:12 (2) sT.- Mand3s killed (1) |hu3| BanKai. with Grenade
+19-01-22 02:19:13 (1) |hu3|  pala killed (2) :|dp|: Saitama with Barrett M82A1
+19-01-22 02:19:17 |hu3| CrasheR scores for Bravo Team
+19-01-22 02:19:18 (1) |hu3|  pala killed (2) sT.- Mand3s with Barrett M82A1
+19-01-22 02:19:21 |hu3|  pala captured the Blue Flag
+19-01-22 02:19:23 (2) |hu3| CrasheR killed (1) |hu3|  pala with Combat Knife
+19-01-22 02:19:24 (2) :|dp|: Saitama killed (1) OXiD:// Slasher with Spas-12
+19-01-22 02:19:24 (1) OXiD:// Slasher killed (2) :|dp|: Saitama with Combat Knife
+19-01-22 02:19:26 |hu3| CrasheR returned the Blue Flag
+19-01-22 02:19:29 (1) |hu3| BanKai. killed (2) |hu3| CrasheR with Steyr AUG
+19-01-22 02:19:30 (2) sT.- Mand3s killed (1) OXiD:// Slasher with Barrett M82A1
+19-01-22 02:19:30 |hu3| BanKai. captured the Blue Flag
+19-01-22 02:19:30 sT.- Mand3s captured the Red Flag
+19-01-22 02:19:30 (TEAM)[|hu3| CrasheR] base
+19-01-22 02:19:33 (1) |hu3| BanKai. killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 02:19:34 (2) |hu3| CrasheR killed (1) |hu3| BanKai. with Grenade
+19-01-22 02:19:36 |hu3| CrasheR returned the Blue Flag
+19-01-22 02:19:43 (2) :|dp|: Saitama killed (1) |hu3| BanKai. with Steyr AUG
+19-01-22 02:19:44 (1) OXiD:// Slasher killed (2) |hu3| CrasheR with HK MP5
+19-01-22 02:19:46 sT.- Mand3s scores for Bravo Team
+19-01-22 02:19:46 (RADIO)[|hu3| CrasheR] Enemy spotted up!
+19-01-22 02:19:47 (1) |hu3|  pala killed (2) sT.- Mand3s with Barrett M82A1
+19-01-22 02:19:50 |hu3|  pala captured the Blue Flag
+19-01-22 02:19:52 (1) OXiD:// Slasher killed (2) :|dp|: Saitama with Combat Knife
+19-01-22 02:19:58 (1) OXiD:// Slasher killed (2) :|dp|: Saitama with HK MP5
+19-01-22 02:19:59 Time Left: 5 minutes
+19-01-22 02:20:01 (TEAM)[:|dp|: Saitama] YBOT
+19-01-22 02:20:02 |hu3| CrasheR captured the Red Flag
+19-01-22 02:20:03 (2) sT.- Mand3s killed (1) OXiD:// Slasher with Grenade
+19-01-22 02:20:05 (2) sT.- Mand3s killed (1) |hu3|  pala with Grenade
+19-01-22 02:20:05 sT.- Mand3s returned the Blue Flag
+19-01-22 02:20:06 (TEAM)[|hu3|  pala] lol
+19-01-22 02:20:07 (1) |hu3| BanKai. killed (2) |hu3| CrasheR with Spas-12
+19-01-22 02:20:08 (TEAM)[|hu3|  pala] to mt bugado
+19-01-22 02:20:09 [|hu3| CrasheR] qqqq
+19-01-22 02:20:10 (2) sT.- Mand3s killed (1) OXiD:// Slasher with Barrett M82A1
+19-01-22 02:20:10 |hu3| BanKai. returned the Red Flag
+19-01-22 02:20:12 (2) |hu3| CrasheR killed (1) |hu3| BanKai. with Combat Knife
+19-01-22 02:20:12 :|dp|: Saitama captured the Red Flag
+19-01-22 02:20:12 (2) sT.- Mand3s killed (1) |hu3|  pala with USSOCOM
+19-01-22 02:20:16 (1) OXiD:// Slasher killed (2) sT.- Mand3s with Grenade
+19-01-22 02:20:16 (2) sT.- Mand3s killed (1) OXiD:// Slasher with USSOCOM
+19-01-22 02:20:22 (1) OXiD:// Slasher killed (2) |hu3| CrasheR with HK MP5
+19-01-22 02:20:23 :|dp|: Saitama scores for Bravo Team
+19-01-22 02:20:28 (2) |hu3| CrasheR killed (1) |hu3|  pala with Combat Knife
+19-01-22 02:20:28 (2) sT.- Mand3s killed (1) |hu3| BanKai. with USSOCOM
+19-01-22 02:20:31 (2) |hu3| CrasheR killed (1) OXiD:// Slasher with Combat Knife
+19-01-22 02:20:36 (1) |hu3|  pala killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 02:20:36 (1) OXiD:// Slasher killed (2) sT.- Mand3s with Grenade
+19-01-22 02:20:36 (1) |hu3| BanKai. killed (2) |hu3| CrasheR with Spas-12
+19-01-22 02:20:37 (2) |hu3| CrasheR killed (1) |hu3| BanKai. with Grenade
+19-01-22 02:20:41 |hu3|  pala captured the Blue Flag
+19-01-22 02:20:44 (2) sT.- Mand3s killed (1) OXiD:// Slasher with USSOCOM
+19-01-22 02:20:44 (2) :|dp|: Saitama killed (1) |hu3|  pala with M79
+19-01-22 02:20:46 :|dp|: Saitama returned the Blue Flag
+19-01-22 02:20:47 (1) |hu3| BanKai. killed (2) |hu3| CrasheR with Spas-12
+19-01-22 02:20:48 |hu3| BanKai. captured the Blue Flag
+19-01-22 02:20:48 (2) :|dp|: Saitama killed (1) |hu3| BanKai. with M79
+19-01-22 02:20:51 (1) |hu3|  pala killed (2) sT.- Mand3s with Steyr AUG
+19-01-22 02:20:57 [|hu3| CrasheR] Die!
+19-01-22 02:20:59 Time Left: 4 minutes
+19-01-22 02:21:03 (2) sT.- Mand3s killed (1) |hu3| BanKai. with Barrett M82A1
+19-01-22 02:21:23 (1) OXiD:// Slasher killed (2) sT.- Mand3s with HK MP5
+19-01-22 02:21:24 (1) |hu3| BanKai. killed (2) :|dp|: Saitama with Spas-12
+19-01-22 02:21:24 [|hu3| CrasheR] xD
+19-01-22 02:21:26 |hu3| BanKai. captured the Blue Flag
+19-01-22 02:21:28 (1) OXiD:// Slasher killed (2) sT.- Mand3s with HK MP5
+19-01-22 02:21:34 (1) OXiD:// Slasher killed (2) :|dp|: Saitama with HK MP5
+19-01-22 02:21:35 (2) sT.- Mand3s killed (1) OXiD:// Slasher with Grenade
+19-01-22 02:21:38 (1) |hu3|  pala killed (2) |hu3| CrasheR with Grenade
+19-01-22 02:21:39 [|hu3| CrasheR] qqq
+19-01-22 02:21:40 (1) |hu3|  pala killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 02:21:42 sT.- Mand3s captured the Red Flag
+19-01-22 02:21:43 (2) sT.- Mand3s killed (1) |hu3| BanKai. with Barrett M82A1
+19-01-22 02:21:45 (2) |hu3| CrasheR killed (1) OXiD:// Slasher with Barrett M82A1
+19-01-22 02:21:45 sT.- Mand3s returned the Blue Flag
+19-01-22 02:21:49 (1) |hu3| BanKai. killed (2) |hu3| CrasheR with Combat Knife
+19-01-22 02:21:52 sT.- Mand3s scores for Bravo Team
+19-01-22 02:21:58 (1) OXiD:// Slasher killed (2) |hu3| CrasheR with Combat Knife
+19-01-22 02:21:59 Time Left: 3 minutes
+19-01-22 02:22:01 (1) |hu3|  pala killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 02:22:03 sT.- Mand3s captured the Red Flag
+19-01-22 02:22:05 |hu3| BanKai. captured the Blue Flag
+19-01-22 02:22:05 (2) :|dp|: Saitama killed (1) |hu3|  pala with Spas-12
+19-01-22 02:22:07 (1) OXiD:// Slasher killed (2) sT.- Mand3s with HK MP5
+19-01-22 02:22:08 [sT.- Mand3s] No!
+19-01-22 02:22:09 (2) |hu3| CrasheR killed (1) OXiD:// Slasher with Barrett M82A1
+19-01-22 02:22:13 (1) |hu3|  pala killed (2) |hu3| CrasheR with Steyr AUG
+19-01-22 02:22:14 (1) |hu3| BanKai. killed (2) :|dp|: Saitama with Grenade
+19-01-22 02:22:21 OXiD:// Slasher returned the Red Flag
+19-01-22 02:22:21 |hu3| BanKai. scores for Alpha Team
+19-01-22 02:22:21 (1) |hu3|  pala killed (2) sT.- Mand3s with Steyr AUG
+19-01-22 02:22:23 |hu3| CrasheR captured the Red Flag
+19-01-22 02:22:25 (1) |hu3|  pala killed (2) :|dp|: Saitama with Grenade
+19-01-22 02:22:25 (2) :|dp|: Saitama killed (1) |hu3|  pala with Combat Knife
+19-01-22 02:22:26 (1) OXiD:// Slasher killed (2) |hu3| CrasheR with Grenade
+19-01-22 02:22:28 OXiD:// Slasher returned the Red Flag
+19-01-22 02:22:30 (2) sT.- Mand3s killed (1) |hu3| BanKai. with USSOCOM
+19-01-22 02:22:33 (1) OXiD:// Slasher killed (2) |hu3| CrasheR with HK MP5
+19-01-22 02:22:34 (RADIO)[|hu3| CrasheR] Enemy spotted up!
+19-01-22 02:22:36 sT.- Mand3s captured the Red Flag
+19-01-22 02:22:38 (1) |hu3|  pala killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 02:22:44 OXiD:// Slasher captured the Blue Flag
+19-01-22 02:22:45 (1) |hu3|  pala killed (2) sT.- Mand3s with Steyr AUG
+19-01-22 02:22:45 :|dp|: Saitama captured the Red Flag
+19-01-22 02:22:46 [sT.- Mand3s] No!
+19-01-22 02:22:52 (1) OXiD:// Slasher killed (2) |hu3| CrasheR with HK MP5
+19-01-22 02:22:52 (2) |hu3| CrasheR killed (1) OXiD:// Slasher with Combat Knife
+19-01-22 02:22:56 sT.- Mand3s returned the Blue Flag
+19-01-22 02:22:57 (2) |hu3| CrasheR killed (1) |hu3| BanKai. with Combat Knife
+19-01-22 02:22:59 Time Left: 2 minutes
+19-01-22 02:23:03 (2) sT.- Mand3s killed (1) OXiD:// Slasher with Barrett M82A1
+19-01-22 02:23:03 (1) OXiD:// Slasher killed (2) sT.- Mand3s with HK MP5
+19-01-22 02:23:04 [sT.- Mand3s] Die!
+19-01-22 02:23:06 (1) |hu3|  pala killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 02:23:08 (1) |hu3|  pala killed (2) |hu3| CrasheR with Steyr AUG
+19-01-22 02:23:09 |hu3|  pala returned the Red Flag
+19-01-22 02:23:09 [|hu3| CrasheR] qqq
+19-01-22 02:23:12 (2) sT.- Mand3s killed (1) |hu3|  pala with Grenade
+19-01-22 02:23:12 [|hu3| CrasheR] paia
+19-01-22 02:23:12 |hu3| BanKai. captured the Blue Flag
+19-01-22 02:23:13 (2) sT.- Mand3s killed (1) |hu3| BanKai. with USSOCOM
+19-01-22 02:23:17 :|dp|: Saitama captured the Red Flag
+19-01-22 02:23:19 (1) OXiD:// Slasher killed (2) :|dp|: Saitama with HK MP5
+19-01-22 02:23:20 OXiD:// Slasher returned the Red Flag
+19-01-22 02:23:20 (2) sT.- Mand3s killed (1) |hu3|  pala with Barrett M82A1
+19-01-22 02:23:20 (1) |hu3|  pala killed (2) sT.- Mand3s with Grenade
+19-01-22 02:23:26 |hu3| BanKai. captured the Blue Flag
+19-01-22 02:23:28 (1) OXiD:// Slasher killed (2) :|dp|: Saitama with HK MP5
+19-01-22 02:23:30 (2) sT.- Mand3s killed (1) |hu3| BanKai. with USSOCOM
+19-01-22 02:23:33 |hu3| CrasheR returned the Blue Flag
+19-01-22 02:23:38 (2) |hu3| CrasheR killed (1) |hu3|  pala with Barrett M82A1
+19-01-22 02:23:40 (2) :|dp|: Saitama killed (1) OXiD:// Slasher with Ak-74
+19-01-22 02:23:40 (1) OXiD:// Slasher killed (2) :|dp|: Saitama with HK MP5
+19-01-22 02:23:42 (1) |hu3| BanKai. killed (2) |hu3| CrasheR with Spas-12
+19-01-22 02:23:43 (RADIO)[|hu3| CrasheR] Enemy spotted up!
+19-01-22 02:23:45 (2) sT.- Mand3s killed (1) |hu3|  pala with Barrett M82A1
+19-01-22 02:23:45 sT.- Mand3s captured the Red Flag
+19-01-22 02:23:48 |hu3| BanKai. captured the Blue Flag
+19-01-22 02:23:48 (1) OXiD:// Slasher killed (2) sT.- Mand3s with Grenade
+19-01-22 02:23:50 (2) :|dp|: Saitama killed (1) OXiD:// Slasher with Steyr AUG
+19-01-22 02:23:54 (1) |hu3|  pala killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 02:23:55 (2) |hu3| CrasheR killed (1) |hu3| BanKai. with Combat Knife
+19-01-22 02:23:58 |hu3|  pala returned the Red Flag
+19-01-22 02:23:58 (2) sT.- Mand3s killed (1) |hu3|  pala with Barrett M82A1
+19-01-22 02:23:59 OXiD:// Slasher captured the Blue Flag
+19-01-22 02:23:59 Time Left: 1 minutes
+19-01-22 02:24:01 (2) sT.- Mand3s killed (1) |hu3| BanKai. with USSOCOM
+19-01-22 02:24:03 (1) OXiD:// Slasher killed (2) sT.- Mand3s with HK MP5
+19-01-22 02:24:04 OXiD:// Slasher scores for Alpha Team
+19-01-22 02:24:05 [sT.- Mand3s] Die!
+19-01-22 02:24:05 OXiD:// Slasher returned the Red Flag
+19-01-22 02:24:06 (2) |hu3| CrasheR killed (1) |hu3|  pala with Barrett M82A1
+19-01-22 02:24:06 (2) |hu3| CrasheR killed (1) OXiD:// Slasher with Barrett M82A1
+19-01-22 02:24:10 |hu3| CrasheR captured the Red Flag
+19-01-22 02:24:11 (2) sT.- Mand3s killed (1) |hu3| BanKai. with Barrett M82A1
+19-01-22 02:24:12 (1) |hu3|  pala killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 02:24:16 (2) sT.- Mand3s killed (1) OXiD:// Slasher with Grenade
+19-01-22 02:24:18 Next map: Lobby
+19-01-22 02:24:18 |hu3| CrasheR scores for Bravo Team
+19-01-22 02:24:19 [|hu3| CrasheR] Hurraaaa!!!
+19-01-22 02:24:23 Lothic - Gothic Lobby Room
+19-01-22 02:24:24 [|hu3| CrasheR] ggwp
+19-01-22 02:24:40 [|hu3|  pala] I'll be back!
+19-01-22 02:24:42 [sT.- Mand3s] !tb
+19-01-22 02:24:42 /map ctf_Hormone (206.81.24.116)
+19-01-22 02:24:43 [|hu3| CrasheR] qm ganho o primeiro mapa?
+19-01-22 02:24:45 [sT.- Mand3s] oh
+19-01-22 02:24:47 Hormone by Metsänaperot
+19-01-22 02:24:49 [sT.- Mand3s] wanna play other map?
+19-01-22 02:24:53 sT.- Mand3s captured the Red Flag
+19-01-22 02:24:53 [|hu3| CrasheR] we won both
+19-01-22 02:24:54 [|hu3| CrasheR] XD
+19-01-22 02:24:55 (2) sT.- Mand3s killed (1) |hu3|  pala with Barrett M82A1
+19-01-22 02:24:55 (1) |hu3|  pala killed (2) :|dp|: Saitama with Grenade
+19-01-22 02:24:57 [sT.- Mand3s] rly?
+19-01-22 02:25:00 (1) OXiD:// Slasher killed (2) |hu3| CrasheR with HK MP5
+19-01-22 02:25:02 (1) OXiD:// Slasher killed (2) sT.- Mand3s with HK MP5
+19-01-22 02:25:03 [sT.- Mand3s] we lose wretch i think
+19-01-22 02:25:06 |hu3|  pala returned the Red Flag
+19-01-22 02:25:07 [OXiD:// Slasher] a gente ganhou o primeiro
+19-01-22 02:25:07 (1) |hu3| BanKai. killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 02:25:09 (1) |hu3|  pala killed (2) |hu3| CrasheR with Steyr AUG
+19-01-22 02:25:12 (1) OXiD:// Slasher killed (2) :|dp|: Saitama with HK MP5
+19-01-22 02:25:13 [|hu3| CrasheR] serio
+19-01-22 02:25:15 (1) OXiD:// Slasher killed (2) |hu3| CrasheR with Combat Knife
+19-01-22 02:25:17 (2) sT.- Mand3s killed (1) OXiD:// Slasher with Barrett M82A1
+19-01-22 02:25:19 [OXiD:// Slasher] sim
+19-01-22 02:25:19 [:|dp|: Saitama] Yes, we loose first map
+19-01-22 02:25:24 (1) |hu3| BanKai. killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 02:25:24 (2) sT.- Mand3s killed (1) |hu3|  pala with Barrett M82A1
+19-01-22 02:25:25 OXiD:// Slasher captured the Blue Flag
+19-01-22 02:25:27 (2) sT.- Mand3s killed (1) |hu3| BanKai. with USSOCOM
+19-01-22 02:25:27 (1) |hu3| BanKai. killed (2) sT.- Mand3s with Grenade
+19-01-22 02:25:31 (1) |hu3|  pala killed (2) |hu3| CrasheR with Steyr AUG
+19-01-22 02:25:34 sT.- Mand3s captured the Red Flag
+19-01-22 02:25:34 (1) |hu3| BanKai. killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 02:25:37 (1) |hu3|  pala killed (2) |hu3| CrasheR with Grenade
+19-01-22 02:25:40 [|hu3| CrasheR] ok
+19-01-22 02:25:41 [|hu3| CrasheR] !r
+19-01-22 02:25:41 Restarting...
+19-01-22 02:25:46 (TEAM)[sT.- Mand3s] who rush
+19-01-22 02:25:46 Hormone by Metsänaperot
+19-01-22 02:25:49 |hu3| CrasheR captured the Red Flag
+19-01-22 02:25:50 (TEAM)[|hu3| CrasheR] nme
+19-01-22 02:25:50 OXiD:// Slasher captured the Blue Flag
+19-01-22 02:25:54 (2) :|dp|: Saitama killed (1) |hu3| BanKai. with Barrett M82A1
+19-01-22 02:25:54 (2) sT.- Mand3s killed (1) OXiD:// Slasher with Grenade
+19-01-22 02:25:54 |hu3| CrasheR returned the Blue Flag
+19-01-22 02:25:55 (1) |hu3|  pala killed (2) :|dp|: Saitama with Grenade
+19-01-22 02:26:00 (2) |hu3| CrasheR killed (1) |hu3| BanKai. with M79
+19-01-22 02:26:00 |hu3| CrasheR scores for Bravo Team
+19-01-22 02:26:02 (1) |hu3|  pala killed (2) sT.- Mand3s with Steyr AUG
+19-01-22 02:26:02 :|dp|: Saitama captured the Red Flag
+19-01-22 02:26:04 (1) OXiD:// Slasher killed (2) |hu3| CrasheR with XM214 Minigun
+19-01-22 02:26:07 OXiD:// Slasher captured the Blue Flag
+19-01-22 02:26:07 (2) sT.- Mand3s killed (1) |hu3|  pala with Steyr AUG
+19-01-22 02:26:09 (2) sT.- Mand3s killed (1) |hu3| BanKai. with Grenade
+19-01-22 02:26:11 (2) sT.- Mand3s killed (1) OXiD:// Slasher with Grenade
+19-01-22 02:26:12 sT.- Mand3s returned the Blue Flag
+19-01-22 02:26:18 :|dp|: Saitama scores for Bravo Team
+19-01-22 02:26:18 (1) |hu3|  pala killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 02:26:19 (1) |hu3|  pala killed (2) sT.- Mand3s with Steyr AUG
+19-01-22 02:26:19 |hu3|  pala captured the Blue Flag
+19-01-22 02:26:19 (2) sT.- Mand3s killed (1) |hu3|  pala with Grenade
+19-01-22 02:26:20 OXiD:// Slasher captured the Blue Flag
+19-01-22 02:26:22 (2) |hu3| CrasheR killed (1) OXiD:// Slasher with M79
+19-01-22 02:26:24 |hu3| CrasheR returned the Blue Flag
+19-01-22 02:26:25 :|dp|: Saitama captured the Red Flag
+19-01-22 02:26:25 (1) |hu3|  pala killed (2) |hu3| CrasheR with Steyr AUG
+19-01-22 02:26:26 (2) sT.- Mand3s killed (1) |hu3| BanKai. with Steyr AUG
+19-01-22 02:26:28 OXiD:// Slasher captured the Blue Flag
+19-01-22 02:26:30 (2) :|dp|: Saitama killed (1) |hu3|  pala with Barrett M82A1
+19-01-22 02:26:33 (1) |hu3| BanKai. killed (2) |hu3| CrasheR with Grenade
+19-01-22 02:26:34 (1) OXiD:// Slasher killed (2) sT.- Mand3s with HK MP5
+19-01-22 02:26:39 (1) |hu3|  pala killed (2) :|dp|: Saitama with Grenade
+19-01-22 02:26:41 |hu3|  pala returned the Red Flag
+19-01-22 02:26:42 (2) |hu3| CrasheR killed (1) |hu3| BanKai. with M79
+19-01-22 02:26:42 (2) sT.- Mand3s killed (1) |hu3|  pala with Steyr AUG
+19-01-22 02:26:44 (2) sT.- Mand3s killed (1) OXiD:// Slasher with Steyr AUG
+19-01-22 02:26:46 :|dp|: Saitama captured the Red Flag
+19-01-22 02:26:52 |hu3| CrasheR returned the Blue Flag
+19-01-22 02:26:52 OXiD:// Slasher captured the Blue Flag
+19-01-22 02:26:55 (2) sT.- Mand3s killed (1) |hu3| BanKai. with Steyr AUG
+19-01-22 02:26:57 (1) |hu3|  pala killed (2) :|dp|: Saitama with LAW
+19-01-22 02:26:58 (2) |hu3| CrasheR killed (1) OXiD:// Slasher with Combat Knife
+19-01-22 02:26:59 |hu3|  pala returned the Red Flag
+19-01-22 02:27:00 |hu3| CrasheR returned the Blue Flag
+19-01-22 02:27:03 (1) |hu3|  pala killed (2) sT.- Mand3s with Barrett M82A1
+19-01-22 02:27:05 :|dp|: Saitama captured the Red Flag
+19-01-22 02:27:05 OXiD:// Slasher captured the Blue Flag
+19-01-22 02:27:09 (1) |hu3|  pala killed (2) |hu3| CrasheR with Barrett M82A1
+19-01-22 02:27:11 (2) sT.- Mand3s killed (1) |hu3| BanKai. with Steyr AUG
+19-01-22 02:27:17 (1) OXiD:// Slasher killed (2) sT.- Mand3s with HK MP5
+19-01-22 02:27:21 (1) |hu3| BanKai. killed (2) |hu3| CrasheR with Steyr AUG
+19-01-22 02:27:24 (2) sT.- Mand3s killed (1) OXiD:// Slasher with Steyr AUG
+19-01-22 02:27:25 sT.- Mand3s returned the Blue Flag
+19-01-22 02:27:25 :|dp|: Saitama scores for Bravo Team
+19-01-22 02:27:26 sT.- Mand3s captured the Red Flag
+19-01-22 02:27:26 (1) |hu3| BanKai. killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 02:27:29 (1) |hu3|  pala killed (2) |hu3| CrasheR with Barrett M82A1
+19-01-22 02:27:31 OXiD:// Slasher captured the Blue Flag
+19-01-22 02:27:35 (2) :|dp|: Saitama killed (1) |hu3| BanKai. with LAW
+19-01-22 02:27:39 (2) :|dp|: Saitama killed (1) OXiD:// Slasher with Grenade
+19-01-22 02:27:42 |hu3| CrasheR returned the Blue Flag
+19-01-22 02:27:42 (1) |hu3| BanKai. killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 02:27:42 (2) :|dp|: Saitama killed (1) |hu3|  pala with Spas-12
+19-01-22 02:27:44 sT.- Mand3s scores for Bravo Team
+19-01-22 02:27:44 (2) |hu3| CrasheR killed (1) |hu3| BanKai. with M79
+19-01-22 02:27:45 (2) sT.- Mand3s killed (1) OXiD:// Slasher with Combat Knife
+19-01-22 02:27:49 :|dp|: Saitama captured the Red Flag
+19-01-22 02:27:50 (2) sT.- Mand3s killed (1) |hu3|  pala with Steyr AUG
+19-01-22 02:27:53 (1) OXiD:// Slasher killed (2) sT.- Mand3s with HK MP5
+19-01-22 02:27:53 OXiD:// Slasher captured the Blue Flag
+19-01-22 02:27:58 (2) sT.- Mand3s killed (1) |hu3| BanKai. with Steyr AUG
+19-01-22 02:27:58 (1) OXiD:// Slasher killed (2) |hu3| CrasheR with HK MP5
+19-01-22 02:28:01 (2) :|dp|: Saitama killed (1) |hu3|  pala with LAW
+19-01-22 02:28:02 (2) sT.- Mand3s killed (1) OXiD:// Slasher with Steyr AUG
+19-01-22 02:28:05 |hu3| CrasheR returned the Blue Flag
+19-01-22 02:28:06 :|dp|: Saitama scores for Bravo Team
+19-01-22 02:28:06 (1) OXiD:// Slasher killed (2) :|dp|: Saitama with HK MP5
+19-01-22 02:28:07 (2) :|dp|: Saitama killed (1) |hu3|  pala with Grenade
+19-01-22 02:28:07 OXiD:// Slasher captured the Blue Flag
+19-01-22 02:28:08 (2) |hu3| CrasheR killed (1) |hu3| BanKai. with M79
+19-01-22 02:28:14 :|dp|: Saitama captured the Red Flag
+19-01-22 02:28:17 (1) OXiD:// Slasher killed (2) :|dp|: Saitama with HK MP5
+19-01-22 02:28:19 (2) sT.- Mand3s killed (1) OXiD:// Slasher with Steyr AUG
+19-01-22 02:28:21 |hu3| BanKai. returned the Red Flag
+19-01-22 02:28:21 sT.- Mand3s returned the Blue Flag
+19-01-22 02:28:22 (2) |hu3| CrasheR killed (1) |hu3| BanKai. with M79
+19-01-22 02:28:25 OXiD:// Slasher captured the Blue Flag
+19-01-22 02:28:25 :|dp|: Saitama captured the Red Flag
+19-01-22 02:28:32 (1) OXiD:// Slasher killed (2) |hu3| CrasheR with HK MP5
+19-01-22 02:28:33 (2) sT.- Mand3s killed (1) OXiD:// Slasher with Steyr AUG
+19-01-22 02:28:35 (1) |hu3| BanKai. killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 02:28:35 (1) |hu3|  pala killed (2) sT.- Mand3s with Ak-74
+19-01-22 02:28:36 |hu3|  pala captured the Blue Flag
+19-01-22 02:28:40 OXiD:// Slasher returned the Red Flag
+19-01-22 02:28:40 :|dp|: Saitama captured the Red Flag
+19-01-22 02:28:42 (1) OXiD:// Slasher killed (2) |hu3| CrasheR with HK MP5
+19-01-22 02:28:47 (2) sT.- Mand3s killed (1) OXiD:// Slasher with Grenade
+19-01-22 02:28:47 (1) OXiD:// Slasher killed (2) sT.- Mand3s with HK MP5
+19-01-22 02:28:51 (2) |hu3| CrasheR killed (1) |hu3| BanKai. with M79
+19-01-22 02:28:53 (2) |hu3| CrasheR killed (1) |hu3|  pala with Grenade
+19-01-22 02:28:55 :|dp|: Saitama returned the Blue Flag
+19-01-22 02:28:55 (2) :|dp|: Saitama killed (1) OXiD:// Slasher with Spas-12
+19-01-22 02:29:00 (1) |hu3| BanKai. killed (2) |hu3| CrasheR with Steyr AUG
+19-01-22 02:29:00 (1) OXiD:// Slasher killed (2) sT.- Mand3s with Grenade
+19-01-22 02:29:02 (1) |hu3|  pala killed (2) :|dp|: Saitama with HK MP5
+19-01-22 02:29:03 OXiD:// Slasher captured the Blue Flag
+19-01-22 02:29:05 |hu3|  pala returned the Red Flag
+19-01-22 02:29:07 :|dp|: Saitama captured the Red Flag
+19-01-22 02:29:09 (2) :|dp|: Saitama killed (1) |hu3|  pala with Spas-12
+19-01-22 02:29:11 (1) OXiD:// Slasher killed (2) sT.- Mand3s with HK MP5
+19-01-22 02:29:11 (2) sT.- Mand3s killed (1) OXiD:// Slasher with Grenade
+19-01-22 02:29:14 sT.- Mand3s returned the Blue Flag
+19-01-22 02:29:16 (1) OXiD:// Slasher killed (2) |hu3| CrasheR with HK MP5
+19-01-22 02:29:17 OXiD:// Slasher captured the Blue Flag
+19-01-22 02:29:18 (1) |hu3|  pala killed (2) :|dp|: Saitama with Grenade
+19-01-22 02:29:19 OXiD:// Slasher returned the Red Flag
+19-01-22 02:29:21 (2) sT.- Mand3s killed (1) |hu3|  pala with Steyr AUG
+19-01-22 02:29:22 (1) OXiD:// Slasher killed (2) sT.- Mand3s with HK MP5
+19-01-22 02:29:23 (2) |hu3| CrasheR killed (1) |hu3| BanKai. with Grenade
+19-01-22 02:29:23 |hu3| CrasheR captured the Red Flag
+19-01-22 02:29:27 |hu3|  pala captured the Blue Flag
+19-01-22 02:29:29 (2) :|dp|: Saitama killed (1) OXiD:// Slasher with Spas-12
+19-01-22 02:29:33 sT.- Mand3s returned the Blue Flag
+19-01-22 02:29:33 (1) |hu3|  pala killed (2) :|dp|: Saitama with Grenade
+19-01-22 02:29:36 (1) |hu3| BanKai. killed (2) |hu3| CrasheR with Steyr AUG
+19-01-22 02:29:38 OXiD:// Slasher captured the Blue Flag
+19-01-22 02:29:38 (2) sT.- Mand3s killed (1) |hu3|  pala with Steyr AUG
+19-01-22 02:29:39 |hu3| BanKai. returned the Red Flag
+19-01-22 02:29:40 (1) OXiD:// Slasher killed (2) sT.- Mand3s with HK MP5
+19-01-22 02:29:42 :|dp|: Saitama captured the Red Flag
+19-01-22 02:29:46 (2) |hu3| CrasheR killed (1) |hu3|  pala with M79
+19-01-22 02:29:48 (1) OXiD:// Slasher killed (2) :|dp|: Saitama with HK MP5
+19-01-22 02:29:48 OXiD:// Slasher returned the Red Flag
+19-01-22 02:29:50 (2) sT.- Mand3s killed (1) OXiD:// Slasher with Steyr AUG
+19-01-22 02:29:53 |hu3| CrasheR returned the Blue Flag
+19-01-22 02:29:54 (2) |hu3| CrasheR killed (1) |hu3| BanKai. with Grenade
+19-01-22 02:29:55 :|dp|: Saitama captured the Red Flag
+19-01-22 02:29:57 (1) |hu3|  pala killed (2) |hu3| CrasheR with Ak-74
+19-01-22 02:29:58 OXiD:// Slasher captured the Blue Flag
+19-01-22 02:30:01 [|hu3| BanKai.] That
+19-01-22 02:30:01 (1) OXiD:// Slasher killed (2) :|dp|: Saitama with HK MP5
+19-01-22 02:30:04 |hu3| CrasheR captured the Red Flag
+19-01-22 02:30:07 (1) |hu3|  pala killed (2) |hu3| CrasheR with Ak-74
+19-01-22 02:30:12 (2) sT.- Mand3s killed (1) |hu3|  pala with Steyr AUG
+19-01-22 02:30:13 OXiD:// Slasher returned the Red Flag
+19-01-22 02:30:14 (1) OXiD:// Slasher killed (2) :|dp|: Saitama with HK MP5
+19-01-22 02:30:14 (2) sT.- Mand3s killed (1) OXiD:// Slasher with Steyr AUG
+19-01-22 02:30:16 |hu3| CrasheR returned the Blue Flag
+19-01-22 02:30:18 (2) sT.- Mand3s killed (1) OXiD:// Slasher with Steyr AUG
+19-01-22 02:30:19 :|dp|: Saitama captured the Red Flag
+19-01-22 02:30:20 (1) |hu3|  pala killed (2) sT.- Mand3s with Ak-74
+19-01-22 02:30:20 [|hu3| BanKai.] Dad
+19-01-22 02:30:22 (1) |hu3|  pala killed (2) |hu3| CrasheR with Ak-74
+19-01-22 02:30:23 [sT.- Mand3s] ??
+19-01-22 02:30:25 OXiD:// Slasher captured the Blue Flag
+19-01-22 02:30:31 (2) :|dp|: Saitama killed (1) OXiD:// Slasher with Spas-12
+19-01-22 02:30:33 sT.- Mand3s returned the Blue Flag
+19-01-22 02:30:36 (2) |hu3| CrasheR killed (1) |hu3| BanKai. with Combat Knife
+19-01-22 02:30:36 :|dp|: Saitama scores for Bravo Team
+19-01-22 02:30:36 (2) sT.- Mand3s killed (1) |hu3|  pala with Combat Knife
+19-01-22 02:30:36 (1) OXiD:// Slasher killed (2) :|dp|: Saitama with HK MP5
+19-01-22 02:30:37 OXiD:// Slasher captured the Blue Flag
+19-01-22 02:30:42 |hu3| CrasheR captured the Red Flag
+19-01-22 02:30:43 (1) |hu3|  pala killed (2) sT.- Mand3s with Ak-74
+19-01-22 02:30:44 [|hu3| BanKai.] It dosent finish
+19-01-22 02:30:46 [|hu3| BanKai.] ?
+19-01-22 02:30:46 Time Left: 5 minutes
+19-01-22 02:30:50 (1) |hu3|  pala killed (2) :|dp|: Saitama with Ak-74
+19-01-22 02:30:50 (2) :|dp|: Saitama killed (1) |hu3|  pala with Spas-12
+19-01-22 02:30:57 (1) |hu3| BanKai. killed (2) |hu3| CrasheR with Steyr AUG
+19-01-22 02:30:57 |hu3| BanKai. returned the Red Flag
+19-01-22 02:30:58 (1) OXiD:// Slasher killed (2) sT.- Mand3s with Combat Knife
+19-01-22 02:30:59 :|dp|: Saitama captured the Red Flag
+19-01-22 02:31:03 (1) |hu3| BanKai. killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 02:31:05 (2) sT.- Mand3s killed (1) OXiD:// Slasher with Steyr AUG
+19-01-22 02:31:06 (2) |hu3| CrasheR killed (1) |hu3| BanKai. with M79
+19-01-22 02:31:06 |hu3|  pala returned the Red Flag
+19-01-22 02:31:08 sT.- Mand3s returned the Blue Flag
+19-01-22 02:31:08 sT.- Mand3s captured the Red Flag
+19-01-22 02:31:10 OXiD:// Slasher captured the Blue Flag
+19-01-22 02:31:10 |hu3| CrasheR captured the Red Flag
+19-01-22 02:31:14 (2) sT.- Mand3s killed (1) |hu3|  pala with Steyr AUG
+19-01-22 02:31:20 (1) |hu3|  pala killed (2) |hu3| CrasheR with Ak-74
+19-01-22 02:31:20 (2) sT.- Mand3s killed (1) |hu3|  pala with Steyr AUG
+19-01-22 02:31:23 :|dp|: Saitama captured the Red Flag
+19-01-22 02:31:27 (2) :|dp|: Saitama killed (1) |hu3|  pala with LAW
+19-01-22 02:31:31 (1) |hu3| BanKai. killed (2) |hu3| CrasheR with Steyr AUG
+19-01-22 02:31:31 (2) |hu3| CrasheR killed (1) OXiD:// Slasher with M79
+19-01-22 02:31:33 [sT.- Mand3s] No!
+19-01-22 02:31:34 (1) |hu3|  pala killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 02:31:35 |hu3| BanKai. captured the Blue Flag
+19-01-22 02:31:37 OXiD:// Slasher returned the Red Flag
+19-01-22 02:31:37 |hu3| CrasheR captured the Red Flag
+19-01-22 02:31:37 [:|dp|: Saitama] No!
+19-01-22 02:31:39 (2) sT.- Mand3s killed (1) |hu3| BanKai. with Steyr AUG
+19-01-22 02:31:40 :|dp|: Saitama returned the Blue Flag
+19-01-22 02:31:40 OXiD:// Slasher captured the Blue Flag
+19-01-22 02:31:42 (1) |hu3|  pala killed (2) |hu3| CrasheR with Grenade
+19-01-22 02:31:44 [|hu3| CrasheR] xDD
+19-01-22 02:31:46 |hu3|  pala returned the Red Flag
+19-01-22 02:31:46 Time Left: 4 minutes
+19-01-22 02:31:47 (1) |hu3|  pala killed (2) sT.- Mand3s with Steyr AUG
+19-01-22 02:31:48 (2) sT.- Mand3s killed (1) OXiD:// Slasher with Grenade
+19-01-22 02:31:49 |hu3| CrasheR captured the Red Flag
+19-01-22 02:31:49 (1) |hu3|  pala killed (2) |hu3| CrasheR with Grenade
+19-01-22 02:31:51 |hu3|  pala captured the Blue Flag
+19-01-22 02:31:52 (2) :|dp|: Saitama killed (1) |hu3|  pala with Spas-12
+19-01-22 02:31:52 (1) |hu3| BanKai. killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 02:31:54 |hu3| CrasheR returned the Blue Flag
+19-01-22 02:31:55 OXiD:// Slasher captured the Blue Flag
+19-01-22 02:31:56 (2) sT.- Mand3s killed (1) |hu3| BanKai. with Steyr AUG
+19-01-22 02:31:57 sT.- Mand3s captured the Red Flag
+19-01-22 02:32:01 (1) |hu3|  pala killed (2) |hu3| CrasheR with Steyr AUG
+19-01-22 02:32:04 (2) :|dp|: Saitama killed (1) |hu3|  pala with Spas-12
+19-01-22 02:32:10 (2) :|dp|: Saitama killed (1) |hu3|  pala with LAW
+19-01-22 02:32:13 (1) OXiD:// Slasher killed (2) |hu3| CrasheR with Combat Knife
+19-01-22 02:32:17 (2) sT.- Mand3s killed (1) OXiD:// Slasher with Steyr AUG
+19-01-22 02:32:17 (2) :|dp|: Saitama killed (1) |hu3|  pala with Spas-12
+19-01-22 02:32:18 (2) sT.- Mand3s killed (1) |hu3| BanKai. with Steyr AUG
+19-01-22 02:32:20 :|dp|: Saitama returned the Blue Flag
+19-01-22 02:32:20 sT.- Mand3s scores for Bravo Team
+19-01-22 02:32:21 (1) OXiD:// Slasher killed (2) sT.- Mand3s with HK MP5
+19-01-22 02:32:23 (1) OXiD:// Slasher killed (2) :|dp|: Saitama with HK MP5
+19-01-22 02:32:23 OXiD:// Slasher captured the Blue Flag
+19-01-22 02:32:24 (2) |hu3| CrasheR killed (1) OXiD:// Slasher with HK MP5
+19-01-22 02:32:26 (1) |hu3| BanKai. killed (2) |hu3| CrasheR with Steyr AUG
+19-01-22 02:32:31 :|dp|: Saitama captured the Red Flag
+19-01-22 02:32:32 OXiD:// Slasher captured the Blue Flag
+19-01-22 02:32:34 (2) |hu3| CrasheR killed (1) |hu3| BanKai. with HK MP5
+19-01-22 02:32:36 (1) OXiD:// Slasher killed (2) :|dp|: Saitama with HK MP5
+19-01-22 02:32:38 |hu3| CrasheR captured the Red Flag
+19-01-22 02:32:39 (1) |hu3|  pala killed (2) sT.- Mand3s with Steyr AUG
+19-01-22 02:32:43 (1) OXiD:// Slasher killed (2) :|dp|: Saitama with Grenade
+19-01-22 02:32:46 (2) sT.- Mand3s killed (1) OXiD:// Slasher with Steyr AUG
+19-01-22 02:32:46 (1) |hu3| BanKai. killed (2) sT.- Mand3s with Steyr AUG
+19-01-22 02:32:46 Time Left: 3 minutes
+19-01-22 02:32:49 (1) |hu3| BanKai. killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 02:32:50 |hu3| BanKai. captured the Blue Flag
+19-01-22 02:32:52 (2) sT.- Mand3s killed (1) |hu3| BanKai. with Steyr AUG
+19-01-22 02:32:52 (1) OXiD:// Slasher killed (2) |hu3| CrasheR with HK MP5
+19-01-22 02:32:53 |hu3|  pala captured the Blue Flag
+19-01-22 02:32:54 (1) |hu3|  pala killed (2) sT.- Mand3s with Steyr AUG
+19-01-22 02:32:57 (2) |hu3| CrasheR killed (1) |hu3|  pala with HK MP5
+19-01-22 02:32:59 |hu3| CrasheR returned the Blue Flag
+19-01-22 02:33:00 OXiD:// Slasher returned the Red Flag
+19-01-22 02:33:00 OXiD:// Slasher captured the Blue Flag
+19-01-22 02:33:01 sT.- Mand3s captured the Red Flag
+19-01-22 02:33:02 (2) |hu3| CrasheR killed (1) |hu3| BanKai. with Hands
+19-01-22 02:33:04 (1) OXiD:// Slasher killed (2) :|dp|: Saitama with HK MP5
+19-01-22 02:33:05 (2) |hu3| CrasheR killed (1) |hu3|  pala with Combat Knife
+19-01-22 02:33:09 (2) |hu3| CrasheR killed (1) |hu3| BanKai. with HK MP5
+19-01-22 02:33:11 (2) :|dp|: Saitama killed (1) OXiD:// Slasher with Spas-12
+19-01-22 02:33:12 (1) |hu3|  pala killed (2) |hu3| CrasheR with Ak-74
+19-01-22 02:33:13 :|dp|: Saitama returned the Blue Flag
+19-01-22 02:33:15 sT.- Mand3s scores for Bravo Team
+19-01-22 02:33:17 (1) |hu3| BanKai. killed (2) sT.- Mand3s with Steyr AUG
+19-01-22 02:33:19 |hu3| CrasheR captured the Red Flag
+19-01-22 02:33:19 |hu3| BanKai. captured the Blue Flag
+19-01-22 02:33:23 (2) |hu3| CrasheR killed (1) OXiD:// Slasher with HK MP5
+19-01-22 02:33:23 (1) OXiD:// Slasher killed (2) |hu3| CrasheR with HK MP5
+19-01-22 02:33:25 (2) :|dp|: Saitama killed (1) |hu3| BanKai. with Spas-12
+19-01-22 02:33:26 |hu3|  pala returned the Red Flag
+19-01-22 02:33:28 (2) :|dp|: Saitama killed (1) |hu3|  pala with Spas-12
+19-01-22 02:33:30 sT.- Mand3s captured the Red Flag
+19-01-22 02:33:30 |hu3| CrasheR captured the Red Flag
+19-01-22 02:33:33 sT.- Mand3s returned the Blue Flag
+19-01-22 02:33:34 OXiD:// Slasher captured the Blue Flag
+19-01-22 02:33:34 (1) |hu3|  pala killed (2) :|dp|: Saitama with Ak-74
+19-01-22 02:33:36 (2) |hu3| CrasheR killed (1) |hu3|  pala with HK MP5
+19-01-22 02:33:37 (2) sT.- Mand3s killed (1) OXiD:// Slasher with Steyr AUG
+19-01-22 02:33:38 sT.- Mand3s returned the Blue Flag
+19-01-22 02:33:38 |hu3| CrasheR scores for Bravo Team
+19-01-22 02:33:41 (1) |hu3| BanKai. killed (2) :|dp|: Saitama with Steyr AUG
+19-01-22 02:33:44 (2) sT.- Mand3s killed (1) OXiD:// Slasher with Steyr AUG
+19-01-22 02:33:45 (2) sT.- Mand3s killed (1) |hu3|  pala with Steyr AUG
+19-01-22 02:33:46 Time Left: 2 minutes
+19-01-22 02:33:49 (2) :|dp|: Saitama killed (1) |hu3| BanKai. with Spas-12
+19-01-22 02:33:52 (1) |hu3|  pala killed (2) |hu3| CrasheR with HK MP5
+19-01-22 02:33:53 :|dp|: Saitama captured the Red Flag
+19-01-22 02:33:54 OXiD:// Slasher captured the Blue Flag
+19-01-22 02:33:58 (2) sT.- Mand3s killed (1) OXiD:// Slasher with Combat Knife
+19-01-22 02:34:00 (1) |hu3| BanKai. killed (2) |hu3| CrasheR with Steyr AUG
+19-01-22 02:34:00 sT.- Mand3s returned the Blue Flag
+19-01-22 02:34:01 Next map: Lobby
+19-01-22 02:34:01 :|dp|: Saitama scores for Bravo Team
+19-01-22 02:34:02 [sT.- Mand3s] Yeah
+19-01-22 02:34:02 OXiD:// Slasher has left alpha team.
+19-01-22 02:34:03 (TEAM)[|hu3|  pala] uheu
+19-01-22 02:34:04 [:|dp|: Saitama] gg
+19-01-22 02:34:05 |hu3|  pala has left alpha team.
+19-01-22 02:34:06 [sT.- Mand3s] crasher
+19-01-22 02:34:06 Lothic - Gothic Lobby Room
+19-01-22 02:34:07 |hu3| CrasheR has left bravo team.
+19-01-22 02:34:07 [sT.- Mand3s] cw
+19-01-22 02:34:09 sT.- Mand3s has left bravo team.
+19-01-22 02:34:13 |hu3| BanKai. has left alpha team.
+19-01-22 02:34:20 :|dp|: Saitama has left bravo team.
+19-01-22 02:39:06 Time Left: 5 minutes
+19-01-22 02:40:06 Time Left: 4 minutes
+19-01-22 02:41:06 Time Left: 3 minutes
+19-01-22 02:42:06 Time Left: 2 minutes
+19-01-22 02:43:06 Time Left: 1 minutes
+19-01-22 02:44:06 Next map: Lobby
+19-01-22 02:44:12 Lothic - Gothic Lobby Room
+19-01-22 02:49:12 Time Left: 5 minutes
+19-01-22 02:50:12 Time Left: 4 minutes
+19-01-22 02:51:12 Time Left: 3 minutes
+19-01-22 02:52:12 Time Left: 2 minutes
+19-01-22 02:53:12 Time Left: 1 minutes
+19-01-22 02:54:12 Next map: Lobby
+19-01-22 02:54:17 Lothic - Gothic Lobby Room
+19-01-22 02:59:17 Time Left: 5 minutes
+19-01-22 03:00:17 Time Left: 4 minutes
+19-01-22 03:01:17 Time Left: 3 minutes
+19-01-22 03:02:17 Time Left: 2 minutes
+19-01-22 03:03:17 Time Left: 1 minutes
+19-01-22 03:04:17 Next map: Lobby
+19-01-22 03:04:22 Lothic - Gothic Lobby Room
+19-01-22 03:09:22 Time Left: 5 minutes
+19-01-22 03:10:22 Time Left: 4 minutes
+19-01-22 03:11:22 Time Left: 3 minutes
+19-01-22 03:12:22 Time Left: 2 minutes
+19-01-22 03:13:22 Time Left: 1 minutes
+19-01-22 03:14:22 Next map: Lobby
+19-01-22 03:14:28 Lothic - Gothic Lobby Room
+19-01-22 03:19:28 Time Left: 5 minutes
+19-01-22 03:20:28 Time Left: 4 minutes
+19-01-22 03:21:28 Time Left: 3 minutes
+19-01-22 03:22:28 Time Left: 2 minutes
+19-01-22 03:23:28 Time Left: 1 minutes
+19-01-22 03:24:28 Next map: Lobby
+19-01-22 03:24:33 Lothic - Gothic Lobby Room
+19-01-22 03:29:33 Time Left: 5 minutes
+19-01-22 03:30:33 Time Left: 4 minutes
+19-01-22 03:31:33 Time Left: 3 minutes
+19-01-22 03:32:33 Time Left: 2 minutes
+19-01-22 03:33:33 Time Left: 1 minutes
+19-01-22 03:34:33 Next map: Lobby
+19-01-22 03:34:38 Lothic - Gothic Lobby Room
+19-01-22 03:39:38 Time Left: 5 minutes
+19-01-22 03:40:38 Time Left: 4 minutes
+19-01-22 03:41:38 Time Left: 3 minutes
+19-01-22 03:42:38 Time Left: 2 minutes
+19-01-22 03:43:38 Time Left: 1 minutes
+19-01-22 03:44:38 Next map: Lobby
+19-01-22 03:44:44 Lothic - Gothic Lobby Room
+19-01-22 03:49:44 Time Left: 5 minutes
+19-01-22 03:50:44 Time Left: 4 minutes
+19-01-22 03:51:44 Time Left: 3 minutes
+19-01-22 03:52:44 Time Left: 2 minutes
+19-01-22 03:53:44 Time Left: 1 minutes
+19-01-22 03:54:44 Next map: Lobby
+19-01-22 03:54:49 Lothic - Gothic Lobby Room
+19-01-22 03:59:49 Time Left: 5 minutes
+19-01-22 04:00:49 Time Left: 4 minutes
+19-01-22 04:01:49 Time Left: 3 minutes
+19-01-22 04:02:49 Time Left: 2 minutes
+19-01-22 04:03:49 Time Left: 1 minutes
+19-01-22 04:04:49 Next map: Lobby
+19-01-22 04:04:54 Lothic - Gothic Lobby Room
+19-01-22 04:09:54 Time Left: 5 minutes
+19-01-22 04:10:54 Time Left: 4 minutes
+19-01-22 04:11:54 Time Left: 3 minutes
+19-01-22 04:12:54 Time Left: 2 minutes
+19-01-22 04:13:54 Time Left: 1 minutes
+19-01-22 04:14:54 Next map: Lobby
+19-01-22 04:15:00 Lothic - Gothic Lobby Room
+19-01-22 04:20:00 Time Left: 5 minutes
+19-01-22 04:21:00 Time Left: 4 minutes
+19-01-22 04:22:00 Time Left: 3 minutes
+19-01-22 04:23:00 Time Left: 2 minutes
+19-01-22 04:24:00 Time Left: 1 minutes
+19-01-22 04:25:00 Next map: Lobby
+19-01-22 04:25:05 Lothic - Gothic Lobby Room
+19-01-22 04:30:05 Time Left: 5 minutes
+19-01-22 04:31:05 Time Left: 4 minutes
+19-01-22 04:32:05 Time Left: 3 minutes
+19-01-22 04:33:05 Time Left: 2 minutes
+19-01-22 04:34:05 Time Left: 1 minutes
+19-01-22 04:35:05 Next map: Lobby
+19-01-22 04:35:10 Lothic - Gothic Lobby Room
+19-01-22 04:40:10 Time Left: 5 minutes
+19-01-22 04:41:10 Time Left: 4 minutes
+19-01-22 04:42:10 Time Left: 3 minutes
+19-01-22 04:43:10 Time Left: 2 minutes
+19-01-22 04:44:10 Time Left: 1 minutes
+19-01-22 04:45:10 Next map: Lobby
+19-01-22 04:45:16 Lothic - Gothic Lobby Room
+19-01-22 04:50:16 Time Left: 5 minutes
+19-01-22 04:51:16 Time Left: 4 minutes
+19-01-22 04:52:16 Time Left: 3 minutes
+19-01-22 04:53:16 Time Left: 2 minutes
+19-01-22 04:54:16 Time Left: 1 minutes
+19-01-22 04:55:16 Next map: Lobby
+19-01-22 04:55:21 Lothic - Gothic Lobby Room
+19-01-22 05:00:21 Time Left: 5 minutes
+19-01-22 05:01:21 Time Left: 4 minutes
+19-01-22 05:02:21 Time Left: 3 minutes
+19-01-22 05:03:21 Time Left: 2 minutes
+19-01-22 05:04:21 Time Left: 1 minutes
+19-01-22 05:05:21 Next map: Lobby
+19-01-22 05:05:26 Lothic - Gothic Lobby Room
+19-01-22 05:10:26 Time Left: 5 minutes
+19-01-22 05:11:26 Time Left: 4 minutes
+19-01-22 05:12:26 Time Left: 3 minutes
+19-01-22 05:13:26 Time Left: 2 minutes
+19-01-22 05:14:26 Time Left: 1 minutes
+19-01-22 05:15:26 Next map: Lobby
+19-01-22 05:15:32 Lothic - Gothic Lobby Room
+19-01-22 05:20:32 Time Left: 5 minutes
+19-01-22 05:21:32 Time Left: 4 minutes
+19-01-22 05:22:32 Time Left: 3 minutes
+19-01-22 05:23:32 Time Left: 2 minutes
+19-01-22 05:24:32 Time Left: 1 minutes
+19-01-22 05:25:31 Next map: Lobby
+19-01-22 05:25:37 Lothic - Gothic Lobby Room
+19-01-22 05:30:37 Time Left: 5 minutes
+19-01-22 05:31:37 Time Left: 4 minutes
+19-01-22 05:32:37 Time Left: 3 minutes
+19-01-22 05:33:37 Time Left: 2 minutes
+19-01-22 05:34:37 Time Left: 1 minutes
+19-01-22 05:35:37 Next map: Lobby
+19-01-22 05:35:42 Lothic - Gothic Lobby Room
+19-01-22 05:40:42 Time Left: 5 minutes
+19-01-22 05:41:42 Time Left: 4 minutes
+19-01-22 05:42:42 Time Left: 3 minutes
+19-01-22 05:43:42 Time Left: 2 minutes
+19-01-22 05:44:42 Time Left: 1 minutes
+19-01-22 05:45:42 Next map: Lobby
+19-01-22 05:45:47 Lothic - Gothic Lobby Room
+19-01-22 05:50:47 Time Left: 5 minutes
+19-01-22 05:51:47 Time Left: 4 minutes
+19-01-22 05:52:47 Time Left: 3 minutes
+19-01-22 05:53:47 Time Left: 2 minutes
+19-01-22 05:54:47 Time Left: 1 minutes
+19-01-22 05:55:47 Next map: Lobby
+19-01-22 05:55:53 Lothic - Gothic Lobby Room
+19-01-22 06:00:53 Time Left: 5 minutes
+19-01-22 06:01:53 Time Left: 4 minutes
+19-01-22 06:02:53 Time Left: 3 minutes
+19-01-22 06:03:53 Time Left: 2 minutes
+19-01-22 06:04:53 Time Left: 1 minutes
+19-01-22 06:05:53 Next map: Lobby
+19-01-22 06:05:58 Lothic - Gothic Lobby Room
+19-01-22 06:10:58 Time Left: 5 minutes
+19-01-22 06:11:58 Time Left: 4 minutes
+19-01-22 06:12:58 Time Left: 3 minutes
+19-01-22 06:13:58 Time Left: 2 minutes
+19-01-22 06:14:58 Time Left: 1 minutes
+19-01-22 06:15:58 Next map: Lobby
+19-01-22 06:16:03 Lothic - Gothic Lobby Room
+19-01-22 06:21:03 Time Left: 5 minutes
+19-01-22 06:22:03 Time Left: 4 minutes
+19-01-22 06:23:03 Time Left: 3 minutes
+19-01-22 06:24:03 Time Left: 2 minutes
+19-01-22 06:25:03 Time Left: 1 minutes
+19-01-22 06:26:03 Next map: Lobby
+19-01-22 06:26:09 Lothic - Gothic Lobby Room
+19-01-22 06:31:09 Time Left: 5 minutes
+19-01-22 06:32:09 Time Left: 4 minutes
+19-01-22 06:33:09 Time Left: 3 minutes
+19-01-22 06:34:09 Time Left: 2 minutes
+19-01-22 06:35:09 Time Left: 1 minutes
+19-01-22 06:36:09 Next map: Lobby
+19-01-22 06:36:14 Lothic - Gothic Lobby Room
+19-01-22 06:41:14 Time Left: 5 minutes
+19-01-22 06:42:14 Time Left: 4 minutes
+19-01-22 06:43:14 Time Left: 3 minutes
+19-01-22 06:44:14 Time Left: 2 minutes
+19-01-22 06:45:14 Time Left: 1 minutes
+19-01-22 06:46:14 Next map: Lobby
+19-01-22 06:46:19 Lothic - Gothic Lobby Room
+19-01-22 06:51:19 Time Left: 5 minutes
+19-01-22 06:52:19 Time Left: 4 minutes
+19-01-22 06:53:19 Time Left: 3 minutes
+19-01-22 06:54:19 Time Left: 2 minutes
+19-01-22 06:55:19 Time Left: 1 minutes
+19-01-22 06:56:19 Next map: Lobby
+19-01-22 06:56:25 Lothic - Gothic Lobby Room
+19-01-22 07:01:25 Time Left: 5 minutes
+19-01-22 07:02:25 Time Left: 4 minutes
+19-01-22 07:03:25 Time Left: 3 minutes
+19-01-22 07:04:25 Time Left: 2 minutes
+19-01-22 07:05:25 Time Left: 1 minutes
+19-01-22 07:06:25 Next map: Lobby
+19-01-22 07:06:30 Lothic - Gothic Lobby Room
+19-01-22 07:11:30 Time Left: 5 minutes
+19-01-22 07:12:30 Time Left: 4 minutes
+19-01-22 07:13:30 Time Left: 3 minutes
+19-01-22 07:14:30 Time Left: 2 minutes
+19-01-22 07:15:30 Time Left: 1 minutes
+19-01-22 07:16:30 Next map: Lobby
+19-01-22 07:16:35 Lothic - Gothic Lobby Room
+19-01-22 07:21:35 Time Left: 5 minutes
+19-01-22 07:22:35 Time Left: 4 minutes
+19-01-22 07:23:35 Time Left: 3 minutes
+19-01-22 07:24:35 Time Left: 2 minutes
+19-01-22 07:25:35 Time Left: 1 minutes
+19-01-22 07:26:35 Next map: Lobby
+19-01-22 07:26:41 Lothic - Gothic Lobby Room
+19-01-22 07:31:41 Time Left: 5 minutes
+19-01-22 07:32:41 Time Left: 4 minutes
+19-01-22 07:33:41 Time Left: 3 minutes
+19-01-22 07:34:41 Time Left: 2 minutes
+19-01-22 07:35:41 Time Left: 1 minutes
+19-01-22 07:36:41 Next map: Lobby
+19-01-22 07:36:46 Lothic - Gothic Lobby Room
+19-01-22 07:41:46 Time Left: 5 minutes
+19-01-22 07:42:46 Time Left: 4 minutes
+19-01-22 07:43:46 Time Left: 3 minutes
+19-01-22 07:44:46 Time Left: 2 minutes
+19-01-22 07:45:46 Time Left: 1 minutes
+19-01-22 07:46:46 Next map: Lobby
+19-01-22 07:46:51 Lothic - Gothic Lobby Room
+19-01-22 07:51:51 Time Left: 5 minutes
+19-01-22 07:52:51 Time Left: 4 minutes
+19-01-22 07:53:51 Time Left: 3 minutes
+19-01-22 07:54:51 Time Left: 2 minutes
+19-01-22 07:55:51 Time Left: 1 minutes
+19-01-22 07:56:51 Next map: Lobby
+19-01-22 07:56:57 Lothic - Gothic Lobby Room
+19-01-22 08:01:57 Time Left: 5 minutes
+19-01-22 08:02:57 Time Left: 4 minutes
+19-01-22 08:03:57 Time Left: 3 minutes
+19-01-22 08:04:57 Time Left: 2 minutes
+19-01-22 08:05:57 Time Left: 1 minutes
+19-01-22 08:06:57 Next map: Lobby
+19-01-22 08:07:02 Lothic - Gothic Lobby Room
+19-01-22 08:12:02 Time Left: 5 minutes
+19-01-22 08:13:02 Time Left: 4 minutes
+19-01-22 08:14:02 Time Left: 3 minutes
+19-01-22 08:15:02 Time Left: 2 minutes
+19-01-22 08:16:02 Time Left: 1 minutes
+19-01-22 08:17:02 Next map: Lobby
+19-01-22 08:17:07 Lothic - Gothic Lobby Room
+19-01-22 08:22:07 Time Left: 5 minutes
+19-01-22 08:23:07 Time Left: 4 minutes
+19-01-22 08:24:07 Time Left: 3 minutes
+19-01-22 08:25:07 Time Left: 2 minutes
+19-01-22 08:26:07 Time Left: 1 minutes
+19-01-22 08:27:07 Next map: Lobby
+19-01-22 08:27:13 Lothic - Gothic Lobby Room
+19-01-22 08:32:13 Time Left: 5 minutes
+19-01-22 08:33:13 Time Left: 4 minutes
+19-01-22 08:34:13 Time Left: 3 minutes
+19-01-22 08:35:13 Time Left: 2 minutes
+19-01-22 08:36:13 Time Left: 1 minutes
+19-01-22 08:37:13 Next map: Lobby
+19-01-22 08:37:18 Lothic - Gothic Lobby Room
+19-01-22 08:42:18 Time Left: 5 minutes
+19-01-22 08:43:18 Time Left: 4 minutes
+19-01-22 08:44:18 Time Left: 3 minutes
+19-01-22 08:45:18 Time Left: 2 minutes
+19-01-22 08:46:18 Time Left: 1 minutes
+19-01-22 08:47:18 Next map: Lobby
+19-01-22 08:47:23 Lothic - Gothic Lobby Room
+19-01-22 08:52:23 Time Left: 5 minutes
+19-01-22 08:53:23 Time Left: 4 minutes
+19-01-22 08:54:23 Time Left: 3 minutes
+19-01-22 08:55:23 Time Left: 2 minutes
+19-01-22 08:56:23 Time Left: 1 minutes
+19-01-22 08:57:23 Next map: Lobby
+19-01-22 08:57:28 Lothic - Gothic Lobby Room
+19-01-22 09:02:28 Time Left: 5 minutes
+19-01-22 09:03:28 Time Left: 4 minutes
+19-01-22 09:04:28 Time Left: 3 minutes
+19-01-22 09:05:28 Time Left: 2 minutes
+19-01-22 09:06:28 Time Left: 1 minutes
+19-01-22 09:07:28 Next map: Lobby
+19-01-22 09:07:34 Lothic - Gothic Lobby Room
+19-01-22 09:12:34 Time Left: 5 minutes
+19-01-22 09:13:34 Time Left: 4 minutes
+19-01-22 09:14:34 Time Left: 3 minutes
+19-01-22 09:15:34 Time Left: 2 minutes
+19-01-22 09:16:34 Time Left: 1 minutes
+19-01-22 09:17:34 Next map: Lobby
+19-01-22 09:17:39 Lothic - Gothic Lobby Room
+19-01-22 09:22:39 Time Left: 5 minutes
+19-01-22 09:23:39 Time Left: 4 minutes
+19-01-22 09:24:39 Time Left: 3 minutes
+19-01-22 09:25:39 Time Left: 2 minutes
+19-01-22 09:26:39 Time Left: 1 minutes
+19-01-22 09:27:39 Next map: Lobby
+19-01-22 09:27:44 Lothic - Gothic Lobby Room
+19-01-22 09:32:44 Time Left: 5 minutes
+19-01-22 09:33:44 Time Left: 4 minutes
+19-01-22 09:34:44 Time Left: 3 minutes
+19-01-22 09:35:44 Time Left: 2 minutes
+19-01-22 09:36:44 Time Left: 1 minutes
+19-01-22 09:37:44 Next map: Lobby
+19-01-22 09:37:50 Lothic - Gothic Lobby Room
+19-01-22 09:42:50 Time Left: 5 minutes
+19-01-22 09:43:50 Time Left: 4 minutes
+19-01-22 09:44:50 Time Left: 3 minutes
+19-01-22 09:45:50 Time Left: 2 minutes
+19-01-22 09:46:50 Time Left: 1 minutes
+19-01-22 09:47:50 Next map: Lobby
+19-01-22 09:47:55 Lothic - Gothic Lobby Room
+19-01-22 09:52:55 Time Left: 5 minutes
+19-01-22 09:53:55 Time Left: 4 minutes
+19-01-22 09:54:55 Time Left: 3 minutes
+19-01-22 09:55:55 Time Left: 2 minutes
+19-01-22 09:56:55 Time Left: 1 minutes
+19-01-22 09:57:55 Next map: Lobby
+19-01-22 09:58:00 Lothic - Gothic Lobby Room
+19-01-22 10:03:00 Time Left: 5 minutes
+19-01-22 10:04:00 Time Left: 4 minutes
+19-01-22 10:05:00 Time Left: 3 minutes
+19-01-22 10:06:00 Time Left: 2 minutes
+19-01-22 10:07:00 Time Left: 1 minutes
+19-01-22 10:08:00 Next map: Lobby
+19-01-22 10:08:06 Lothic - Gothic Lobby Room
+19-01-22 10:13:06 Time Left: 5 minutes
+19-01-22 10:14:06 Time Left: 4 minutes
+19-01-22 10:15:06 Time Left: 3 minutes
+19-01-22 10:16:06 Time Left: 2 minutes
+19-01-22 10:17:06 Time Left: 1 minutes
+19-01-22 10:18:06 Next map: Lobby
+19-01-22 10:18:11 Lothic - Gothic Lobby Room
+19-01-22 10:23:11 Time Left: 5 minutes
+19-01-22 10:24:11 Time Left: 4 minutes
+19-01-22 10:25:11 Time Left: 3 minutes
+19-01-22 10:26:11 Time Left: 2 minutes
+19-01-22 10:27:11 Time Left: 1 minutes
+19-01-22 10:28:11 Next map: Lobby
+19-01-22 10:28:16 Lothic - Gothic Lobby Room
+19-01-22 10:33:16 Time Left: 5 minutes
+19-01-22 10:34:16 Time Left: 4 minutes
+19-01-22 10:35:16 Time Left: 3 minutes
+19-01-22 10:36:16 Time Left: 2 minutes
+19-01-22 10:37:16 Time Left: 1 minutes
+19-01-22 10:38:16 Next map: Lobby
+19-01-22 10:38:22 Lothic - Gothic Lobby Room
+19-01-22 10:43:22 Time Left: 5 minutes
+19-01-22 10:44:22 Time Left: 4 minutes
+19-01-22 10:45:22 Time Left: 3 minutes
+19-01-22 10:46:22 Time Left: 2 minutes
+19-01-22 10:47:22 Time Left: 1 minutes
+19-01-22 10:48:22 Next map: Lobby
+19-01-22 10:48:27 Lothic - Gothic Lobby Room
+19-01-22 10:53:27 Time Left: 5 minutes
+19-01-22 10:54:27 Time Left: 4 minutes
+19-01-22 10:55:27 Time Left: 3 minutes
+19-01-22 10:56:27 Time Left: 2 minutes
+19-01-22 10:57:27 Time Left: 1 minutes
+19-01-22 10:58:27 Next map: Lobby
+19-01-22 10:58:32 Lothic - Gothic Lobby Room
+19-01-22 11:03:32 Time Left: 5 minutes
+19-01-22 11:04:32 Time Left: 4 minutes
+19-01-22 11:05:32 Time Left: 3 minutes
+19-01-22 11:06:32 Time Left: 2 minutes
+19-01-22 11:07:32 Time Left: 1 minutes
+19-01-22 11:08:32 Next map: Lobby
+19-01-22 11:08:38 Lothic - Gothic Lobby Room
+19-01-22 11:13:38 Time Left: 5 minutes
+19-01-22 11:14:38 Time Left: 4 minutes
+19-01-22 11:15:38 Time Left: 3 minutes
+19-01-22 11:16:38 Time Left: 2 minutes
+19-01-22 11:17:38 Time Left: 1 minutes
+19-01-22 11:18:38 Next map: Lobby
+19-01-22 11:18:43 Lothic - Gothic Lobby Room
+19-01-22 11:23:43 Time Left: 5 minutes
+19-01-22 11:24:43 Time Left: 4 minutes
+19-01-22 11:25:43 Time Left: 3 minutes
+19-01-22 11:26:43 Time Left: 2 minutes
+19-01-22 11:27:43 Time Left: 1 minutes
+19-01-22 11:28:43 Next map: Lobby
+19-01-22 11:28:48 Lothic - Gothic Lobby Room
+19-01-22 11:33:48 Time Left: 5 minutes
+19-01-22 11:34:48 Time Left: 4 minutes
+19-01-22 11:35:48 Time Left: 3 minutes
+19-01-22 11:36:48 Time Left: 2 minutes
+19-01-22 11:37:48 Time Left: 1 minutes
+19-01-22 11:38:48 Next map: Lobby
+19-01-22 11:38:54 Lothic - Gothic Lobby Room
+19-01-22 11:43:54 Time Left: 5 minutes
+19-01-22 11:44:54 Time Left: 4 minutes
+19-01-22 11:45:54 Time Left: 3 minutes
+19-01-22 11:46:54 Time Left: 2 minutes
+19-01-22 11:47:54 Time Left: 1 minutes
+19-01-22 11:48:54 Next map: Lobby
+19-01-22 11:48:57 Admin connected (31.223.39.202).
+19-01-22 11:48:58 /maxplayers (31.223.39.202)
+19-01-22 11:48:58 Max players is 16
+19-01-22 11:48:58 /maxrespawntime (31.223.39.202)
+19-01-22 11:48:58 Maximum Respawn time is 5 seconds
+19-01-22 11:48:58 /respawntime (31.223.39.202)
+19-01-22 11:48:58 Respawn time is 3 seconds
+19-01-22 11:48:58 /limit (31.223.39.202)
+19-01-22 11:48:58 Current kill/point/capture limit is 10
+19-01-22 11:48:58 /timelimit (31.223.39.202)
+19-01-22 11:48:58 Current time limit is 10 minutes
+19-01-22 11:48:58 /friendlyfire (31.223.39.202)
+19-01-22 11:48:58 Friendly Fire is 0
+19-01-22 11:48:58 /scripting (31.223.39.202)
+19-01-22 11:48:58 Scripting is currently Enabled (1)
+19-01-22 11:48:58 /balance (31.223.39.202)
+19-01-22 11:48:58 Bot Balance is off (0)
+19-01-22 11:48:58 /bonus (31.223.39.202)
+19-01-22 11:48:58 Current bonus frequency is 0
+19-01-22 11:48:58 /vote% (31.223.39.202)
+19-01-22 11:48:58 Voting percent is 60
+19-01-22 11:48:59 Lothic - Gothic Lobby Room
+19-01-22 11:53:59 Time Left: 5 minutes
+19-01-22 11:54:59 Time Left: 4 minutes
+19-01-22 11:55:59 Time Left: 3 minutes
+19-01-22 11:56:59 Time Left: 2 minutes
+19-01-22 11:57:59 Time Left: 1 minutes
+19-01-22 11:58:59 Next map: Lobby
+19-01-22 11:59:04 Lothic - Gothic Lobby Room
+19-01-22 12:04:04 Time Left: 5 minutes
+19-01-22 12:05:04 Time Left: 4 minutes
+19-01-22 12:06:04 Time Left: 3 minutes
+19-01-22 12:07:04 Time Left: 2 minutes
+19-01-22 12:08:04 Time Left: 1 minutes
+19-01-22 12:09:04 Next map: Lobby
+19-01-22 12:09:10 Lothic - Gothic Lobby Room
+19-01-22 12:14:09 Time Left: 5 minutes
+19-01-22 12:15:09 Time Left: 4 minutes
+19-01-22 12:16:09 Time Left: 3 minutes
+19-01-22 12:17:09 Time Left: 2 minutes
+19-01-22 12:18:09 Time Left: 1 minutes
+19-01-22 12:19:09 Next map: Lobby
+19-01-22 12:19:15 Lothic - Gothic Lobby Room
+19-01-22 12:24:15 Time Left: 5 minutes
+19-01-22 12:25:15 Time Left: 4 minutes
+19-01-22 12:26:15 Time Left: 3 minutes
+19-01-22 12:27:15 Time Left: 2 minutes
+19-01-22 12:28:15 Time Left: 1 minutes
+19-01-22 12:29:15 Next map: Lobby
+19-01-22 12:29:20 Lothic - Gothic Lobby Room
+19-01-22 12:34:20 Time Left: 5 minutes
+19-01-22 12:35:20 Time Left: 4 minutes
+19-01-22 12:36:20 Time Left: 3 minutes
+19-01-22 12:37:20 Time Left: 2 minutes
+19-01-22 12:38:20 Time Left: 1 minutes
+19-01-22 12:39:20 Next map: Lobby
+19-01-22 12:39:25 Lothic - Gothic Lobby Room
+19-01-22 12:44:25 Time Left: 5 minutes
+19-01-22 12:45:25 Time Left: 4 minutes
+19-01-22 12:46:25 Time Left: 3 minutes
+19-01-22 12:47:25 Time Left: 2 minutes
+19-01-22 12:48:25 Time Left: 1 minutes
+19-01-22 12:49:25 Next map: Lobby
+19-01-22 12:49:31 Lothic - Gothic Lobby Room
+19-01-22 12:54:31 Time Left: 5 minutes
+19-01-22 12:55:31 Time Left: 4 minutes
+19-01-22 12:56:31 Time Left: 3 minutes
+19-01-22 12:57:31 Time Left: 2 minutes
+19-01-22 12:58:31 Time Left: 1 minutes
+19-01-22 12:59:31 Next map: Lobby
+19-01-22 12:59:36 Lothic - Gothic Lobby Room
+19-01-22 13:04:36 Time Left: 5 minutes
+19-01-22 13:05:36 Time Left: 4 minutes
+19-01-22 13:06:36 Time Left: 3 minutes
+19-01-22 13:07:36 Time Left: 2 minutes
+19-01-22 13:08:36 Time Left: 1 minutes
+19-01-22 13:09:36 Next map: Lobby
+19-01-22 13:09:41 Lothic - Gothic Lobby Room
+19-01-22 13:14:41 Time Left: 5 minutes
+19-01-22 13:15:41 Time Left: 4 minutes
+19-01-22 13:16:41 Time Left: 3 minutes
+19-01-22 13:17:41 Time Left: 2 minutes
+19-01-22 13:18:41 Time Left: 1 minutes
+19-01-22 13:19:41 Next map: Lobby
+19-01-22 13:19:47 Lothic - Gothic Lobby Room
+19-01-22 13:24:47 Time Left: 5 minutes
+19-01-22 13:25:47 Time Left: 4 minutes
+19-01-22 13:26:47 Time Left: 3 minutes
+19-01-22 13:27:47 Time Left: 2 minutes
+19-01-22 13:28:47 Time Left: 1 minutes
+19-01-22 13:29:47 Next map: Lobby
+19-01-22 13:29:52 Lothic - Gothic Lobby Room
+19-01-22 13:34:52 Time Left: 5 minutes
+19-01-22 13:35:52 Time Left: 4 minutes
+19-01-22 13:36:52 Time Left: 3 minutes
+19-01-22 13:37:52 Time Left: 2 minutes
+19-01-22 13:38:52 Time Left: 1 minutes
+19-01-22 13:39:52 Next map: Lobby
+19-01-22 13:39:57 Lothic - Gothic Lobby Room
+19-01-22 13:44:57 Time Left: 5 minutes
+19-01-22 13:45:57 Time Left: 4 minutes
+19-01-22 13:46:57 Time Left: 3 minutes
+19-01-22 13:47:57 Time Left: 2 minutes
+19-01-22 13:48:57 Time Left: 1 minutes
+19-01-22 13:49:57 Next map: Lobby
+19-01-22 13:50:03 Lothic - Gothic Lobby Room
+19-01-22 13:55:03 Time Left: 5 minutes
+19-01-22 13:56:03 Time Left: 4 minutes
+19-01-22 13:57:03 Time Left: 3 minutes
+19-01-22 13:58:03 Time Left: 2 minutes
+19-01-22 13:59:03 Time Left: 1 minutes
+19-01-22 14:00:03 Next map: Lobby
+19-01-22 14:00:08 Lothic - Gothic Lobby Room
+19-01-22 14:05:11 Time Left: 5 minutes
+19-01-22 14:06:11 Time Left: 4 minutes
+19-01-22 14:07:11 Time Left: 3 minutes
+19-01-22 14:08:11 Time Left: 2 minutes
+19-01-22 14:09:11 Time Left: 1 minutes
+19-01-22 14:10:11 Next map: Lobby
+19-01-22 14:10:17 Lothic - Gothic Lobby Room
+19-01-22 14:15:17 Time Left: 5 minutes
+19-01-22 14:16:17 Time Left: 4 minutes
+19-01-22 14:17:17 Time Left: 3 minutes
+19-01-22 14:18:17 Time Left: 2 minutes
+19-01-22 14:19:17 Time Left: 1 minutes
+19-01-22 14:20:17 Next map: Lobby
+19-01-22 14:20:22 Lothic - Gothic Lobby Room
+19-01-22 14:25:22 Time Left: 5 minutes
+19-01-22 14:26:22 Time Left: 4 minutes
+19-01-22 14:27:22 Time Left: 3 minutes
+19-01-22 14:28:22 Time Left: 2 minutes
+19-01-22 14:29:22 Time Left: 1 minutes
+19-01-22 14:30:22 Next map: Lobby
+19-01-22 14:30:27 Lothic - Gothic Lobby Room
+19-01-22 14:35:27 Time Left: 5 minutes
+19-01-22 14:36:27 Time Left: 4 minutes
+19-01-22 14:37:27 Time Left: 3 minutes
+19-01-22 14:38:27 Time Left: 2 minutes
+19-01-22 14:39:27 Time Left: 1 minutes
+19-01-22 14:40:27 Next map: Lobby
+19-01-22 14:40:33 Lothic - Gothic Lobby Room
+19-01-22 14:45:33 Time Left: 5 minutes
+19-01-22 14:46:33 Time Left: 4 minutes
+19-01-22 14:47:33 Time Left: 3 minutes
+19-01-22 14:48:33 Time Left: 2 minutes
+19-01-22 14:49:33 Time Left: 1 minutes
+19-01-22 14:50:33 Next map: Lobby
+19-01-22 14:50:38 Lothic - Gothic Lobby Room
+19-01-22 14:55:38 Time Left: 5 minutes
+19-01-22 14:56:38 Time Left: 4 minutes
+19-01-22 14:57:38 Time Left: 3 minutes
+19-01-22 14:58:38 Time Left: 2 minutes
+19-01-22 14:59:38 Time Left: 1 minutes
+19-01-22 15:00:38 Next map: Lobby
+19-01-22 15:00:43 Lothic - Gothic Lobby Room
+19-01-22 15:05:43 Time Left: 5 minutes
+19-01-22 15:06:43 Time Left: 4 minutes
+19-01-22 15:07:43 Time Left: 3 minutes
+19-01-22 15:08:43 Time Left: 2 minutes
+19-01-22 15:09:43 Time Left: 1 minutes
+19-01-22 15:10:43 Next map: Lobby
+19-01-22 15:10:49 Lothic - Gothic Lobby Room
+19-01-22 15:15:49 Time Left: 5 minutes
+19-01-22 15:16:49 Time Left: 4 minutes
+19-01-22 15:17:49 Time Left: 3 minutes
+19-01-22 15:18:49 Time Left: 2 minutes
+19-01-22 15:19:49 Time Left: 1 minutes
+19-01-22 15:20:49 Next map: Lobby
+19-01-22 15:20:54 Lothic - Gothic Lobby Room
+19-01-22 15:25:54 Time Left: 5 minutes
+19-01-22 15:26:54 Time Left: 4 minutes
+19-01-22 15:27:54 Time Left: 3 minutes
+19-01-22 15:28:54 Time Left: 2 minutes
+19-01-22 15:29:54 Time Left: 1 minutes
+19-01-22 15:30:54 Next map: Lobby
+19-01-22 15:30:59 Lothic - Gothic Lobby Room
+19-01-22 15:35:59 Time Left: 5 minutes
+19-01-22 15:36:59 Time Left: 4 minutes
+19-01-22 15:37:59 Time Left: 3 minutes
+19-01-22 15:38:59 Time Left: 2 minutes
+19-01-22 15:39:59 Time Left: 1 minutes
+19-01-22 15:40:59 Next map: Lobby
+19-01-22 15:41:05 Lothic - Gothic Lobby Room
+19-01-22 15:46:05 Time Left: 5 minutes
+19-01-22 15:47:05 Time Left: 4 minutes
+19-01-22 15:48:05 Time Left: 3 minutes
+19-01-22 15:49:05 Time Left: 2 minutes
+19-01-22 15:50:05 Time Left: 1 minutes
+19-01-22 15:51:05 Next map: Lobby
+19-01-22 15:51:10 Lothic - Gothic Lobby Room
+19-01-22 15:54:01 85.23.116.203:23073|73FB3ADE506 requesting game...
+19-01-22 15:56:10 Time Left: 5 minutes
+19-01-22 15:57:10 Time Left: 4 minutes
+19-01-22 15:58:10 Time Left: 3 minutes
+19-01-22 15:59:10 Time Left: 2 minutes
+19-01-22 16:00:10 Time Left: 1 minutes
+19-01-22 16:01:10 Next map: Lobby
+19-01-22 16:01:15 Lothic - Gothic Lobby Room
+19-01-22 16:06:15 Time Left: 5 minutes
+19-01-22 16:07:15 Time Left: 4 minutes
+19-01-22 16:08:15 Time Left: 3 minutes
+19-01-22 16:09:15 Time Left: 2 minutes
+19-01-22 16:10:15 Time Left: 1 minutes
+19-01-22 16:11:15 Next map: Lobby
+19-01-22 16:11:21 Lothic - Gothic Lobby Room
+19-01-22 16:16:21 Time Left: 5 minutes
+19-01-22 16:17:21 Time Left: 4 minutes
+19-01-22 16:18:21 Time Left: 3 minutes
+19-01-22 16:19:21 Time Left: 2 minutes
+19-01-22 16:20:21 Time Left: 1 minutes
+19-01-22 16:21:21 Next map: Lobby
+19-01-22 16:21:26 Lothic - Gothic Lobby Room
+19-01-22 16:26:26 Time Left: 5 minutes
+19-01-22 16:27:26 Time Left: 4 minutes
+19-01-22 16:28:26 Time Left: 3 minutes
+19-01-22 16:29:26 Time Left: 2 minutes
+19-01-22 16:30:26 Time Left: 1 minutes
+19-01-22 16:31:26 Next map: Lobby
+19-01-22 16:31:31 Lothic - Gothic Lobby Room
+19-01-22 16:36:31 Time Left: 5 minutes
+19-01-22 16:37:31 Time Left: 4 minutes
+19-01-22 16:38:31 Time Left: 3 minutes
+19-01-22 16:39:31 Time Left: 2 minutes
+19-01-22 16:40:31 Time Left: 1 minutes
+19-01-22 16:41:31 Next map: Lobby
+19-01-22 16:41:37 Lothic - Gothic Lobby Room
+19-01-22 16:46:36 Time Left: 5 minutes
+19-01-22 16:47:36 Time Left: 4 minutes
+19-01-22 16:48:36 Time Left: 3 minutes
+19-01-22 16:49:36 Time Left: 2 minutes
+19-01-22 16:50:36 Time Left: 1 minutes
+19-01-22 16:51:36 Next map: Lobby
+19-01-22 16:51:42 Lothic - Gothic Lobby Room
+19-01-22 16:56:42 Time Left: 5 minutes
+19-01-22 16:57:42 Time Left: 4 minutes
+19-01-22 16:58:42 Time Left: 3 minutes
+19-01-22 16:59:42 Time Left: 2 minutes
+19-01-22 17:00:42 Time Left: 1 minutes
+19-01-22 17:01:42 Next map: Lobby
+19-01-22 17:01:47 Lothic - Gothic Lobby Room
+19-01-22 17:06:47 Time Left: 5 minutes
+19-01-22 17:07:47 Time Left: 4 minutes
+19-01-22 17:08:47 Time Left: 3 minutes
+19-01-22 17:09:47 Time Left: 2 minutes
+19-01-22 17:10:47 Time Left: 1 minutes
+19-01-22 17:11:47 Next map: Lobby
+19-01-22 17:11:52 Lothic - Gothic Lobby Room
+19-01-22 17:16:52 Time Left: 5 minutes
+19-01-22 17:17:52 Time Left: 4 minutes
+19-01-22 17:18:52 Time Left: 3 minutes
+19-01-22 17:19:52 Time Left: 2 minutes
+19-01-22 17:20:52 Time Left: 1 minutes
+19-01-22 17:21:52 Next map: Lobby
+19-01-22 17:21:58 Lothic - Gothic Lobby Room
+19-01-22 17:26:58 Time Left: 5 minutes
+19-01-22 17:27:58 Time Left: 4 minutes
+19-01-22 17:28:58 Time Left: 3 minutes
+19-01-22 17:29:58 Time Left: 2 minutes
+19-01-22 17:30:58 Time Left: 1 minutes
+19-01-22 17:31:58 Next map: Lobby
+19-01-22 17:32:03 Lothic - Gothic Lobby Room
+19-01-22 17:37:03 Time Left: 5 minutes
+19-01-22 17:38:03 Time Left: 4 minutes
+19-01-22 17:39:03 Time Left: 3 minutes
+19-01-22 17:40:03 Time Left: 2 minutes
+19-01-22 17:41:03 Time Left: 1 minutes
+19-01-22 17:42:03 Next map: Lobby
+19-01-22 17:42:08 Lothic - Gothic Lobby Room
+19-01-22 17:47:08 Time Left: 5 minutes
+19-01-22 17:48:08 Time Left: 4 minutes
+19-01-22 17:49:08 Time Left: 3 minutes
+19-01-22 17:50:08 Time Left: 2 minutes
+19-01-22 17:51:08 Time Left: 1 minutes
+19-01-22 17:52:08 Next map: Lobby
+19-01-22 17:52:14 Lothic - Gothic Lobby Room
+19-01-22 17:57:14 Time Left: 5 minutes
+19-01-22 17:58:14 Time Left: 4 minutes
+19-01-22 17:59:14 Time Left: 3 minutes
+19-01-22 18:00:14 Time Left: 2 minutes
+19-01-22 18:01:14 Time Left: 1 minutes
+19-01-22 18:02:14 Next map: Lobby
+19-01-22 18:02:19 Lothic - Gothic Lobby Room
+19-01-22 18:07:19 Time Left: 5 minutes
+19-01-22 18:08:19 Time Left: 4 minutes
+19-01-22 18:09:19 Time Left: 3 minutes
+19-01-22 18:10:19 Time Left: 2 minutes
+19-01-22 18:11:19 Time Left: 1 minutes
+19-01-22 18:12:19 Next map: Lobby
+19-01-22 18:12:24 Lothic - Gothic Lobby Room
+19-01-22 18:17:24 Time Left: 5 minutes
+19-01-22 18:18:24 Time Left: 4 minutes
+19-01-22 18:19:24 Time Left: 3 minutes
+19-01-22 18:20:24 Time Left: 2 minutes
+19-01-22 18:21:24 Time Left: 1 minutes
+19-01-22 18:22:24 Next map: Lobby
+19-01-22 18:22:30 Lothic - Gothic Lobby Room
+19-01-22 18:27:30 Time Left: 5 minutes
+19-01-22 18:28:30 Time Left: 4 minutes
+19-01-22 18:29:30 Time Left: 3 minutes
+19-01-22 18:30:30 Time Left: 2 minutes
+19-01-22 18:31:30 Time Left: 1 minutes
+19-01-22 18:32:30 Next map: Lobby
+19-01-22 18:32:35 Lothic - Gothic Lobby Room
+19-01-22 18:37:35 Time Left: 5 minutes
+19-01-22 18:38:35 Time Left: 4 minutes
+19-01-22 18:39:35 Time Left: 3 minutes
+19-01-22 18:40:35 Time Left: 2 minutes
+19-01-22 18:41:35 Time Left: 1 minutes
+19-01-22 18:42:35 Next map: Lobby
+19-01-22 18:42:40 Lothic - Gothic Lobby Room
+19-01-22 18:47:40 Time Left: 5 minutes
+19-01-22 18:48:40 Time Left: 4 minutes
+19-01-22 18:49:40 Time Left: 3 minutes
+19-01-22 18:50:40 Time Left: 2 minutes
+19-01-22 18:51:40 Time Left: 1 minutes
+19-01-22 18:52:40 Next map: Lobby
+19-01-22 18:52:46 Lothic - Gothic Lobby Room
+19-01-22 18:57:46 Time Left: 5 minutes
+19-01-22 18:58:46 Time Left: 4 minutes
+19-01-22 18:59:46 Time Left: 3 minutes
+19-01-22 19:00:46 Time Left: 2 minutes
+19-01-22 19:01:46 Time Left: 1 minutes
+19-01-22 19:02:46 Next map: Lobby
+19-01-22 19:02:51 Lothic - Gothic Lobby Room
+19-01-22 19:07:51 Time Left: 5 minutes
+19-01-22 19:08:51 Time Left: 4 minutes
+19-01-22 19:09:51 Time Left: 3 minutes
+19-01-22 19:10:51 Time Left: 2 minutes
+19-01-22 19:11:51 Time Left: 1 minutes
+19-01-22 19:12:51 Next map: Lobby
+19-01-22 19:12:56 Lothic - Gothic Lobby Room
+19-01-22 19:17:56 Time Left: 5 minutes
+19-01-22 19:18:56 Time Left: 4 minutes
+19-01-22 19:19:56 Time Left: 3 minutes
+19-01-22 19:20:56 Time Left: 2 minutes
+19-01-22 19:21:56 Time Left: 1 minutes
+19-01-22 19:22:56 Next map: Lobby
+19-01-22 19:23:02 Lothic - Gothic Lobby Room
+19-01-22 19:28:02 Time Left: 5 minutes
+19-01-22 19:29:02 Time Left: 4 minutes
+19-01-22 19:30:02 Time Left: 3 minutes
+19-01-22 19:31:02 Time Left: 2 minutes
+19-01-22 19:32:02 Time Left: 1 minutes
+19-01-22 19:33:02 Next map: Lobby
+19-01-22 19:33:07 Lothic - Gothic Lobby Room
+19-01-22 19:38:07 Time Left: 5 minutes
+19-01-22 19:39:07 Time Left: 4 minutes
+19-01-22 19:40:07 Time Left: 3 minutes
+19-01-22 19:41:07 Time Left: 2 minutes
+19-01-22 19:42:07 Time Left: 1 minutes
+19-01-22 19:43:07 Next map: Lobby
+19-01-22 19:43:12 Lothic - Gothic Lobby Room
+19-01-22 19:48:12 Time Left: 5 minutes
+19-01-22 19:49:12 Time Left: 4 minutes
+19-01-22 19:50:12 Time Left: 3 minutes
+19-01-22 19:51:12 Time Left: 2 minutes
+19-01-22 19:52:12 Time Left: 1 minutes
+19-01-22 19:53:12 Next map: Lobby
+19-01-22 19:53:18 Lothic - Gothic Lobby Room
+19-01-22 19:58:17 Time Left: 5 minutes
+19-01-22 19:59:17 Time Left: 4 minutes
+19-01-22 20:00:17 Time Left: 3 minutes
+19-01-22 20:01:17 Time Left: 2 minutes
+19-01-22 20:02:17 Time Left: 1 minutes
+19-01-22 20:03:17 Next map: Lobby
+19-01-22 20:03:23 Lothic - Gothic Lobby Room
+19-01-22 20:08:23 Time Left: 5 minutes
+19-01-22 20:09:23 Time Left: 4 minutes
+19-01-22 20:10:23 Time Left: 3 minutes
+19-01-22 20:11:23 Time Left: 2 minutes
+19-01-22 20:12:23 Time Left: 1 minutes
+19-01-22 20:13:23 Next map: Lobby
+19-01-22 20:13:28 Lothic - Gothic Lobby Room
+19-01-22 20:18:28 Time Left: 5 minutes
+19-01-22 20:19:28 Time Left: 4 minutes
+19-01-22 20:20:28 Time Left: 3 minutes
+19-01-22 20:21:28 Time Left: 2 minutes
+19-01-22 20:22:28 Time Left: 1 minutes
+19-01-22 20:23:28 Next map: Lobby
+19-01-22 20:23:33 Lothic - Gothic Lobby Room
+19-01-22 20:28:33 Time Left: 5 minutes
+19-01-22 20:29:33 Time Left: 4 minutes
+19-01-22 20:30:33 Time Left: 3 minutes
+19-01-22 20:31:33 Time Left: 2 minutes
+19-01-22 20:32:33 Time Left: 1 minutes
+19-01-22 20:33:33 Next map: Lobby
+19-01-22 20:33:39 Lothic - Gothic Lobby Room
+19-01-22 20:38:39 Time Left: 5 minutes
+19-01-22 20:39:39 Time Left: 4 minutes
+19-01-22 20:40:39 Time Left: 3 minutes
+19-01-22 20:41:39 Time Left: 2 minutes
+19-01-22 20:42:39 Time Left: 1 minutes
+19-01-22 20:43:39 Next map: Lobby
+19-01-22 20:43:44 Lothic - Gothic Lobby Room
+19-01-22 20:48:44 Time Left: 5 minutes
+19-01-22 20:49:44 Time Left: 4 minutes
+19-01-22 20:50:44 Time Left: 3 minutes
+19-01-22 20:51:44 Time Left: 2 minutes
+19-01-22 20:52:44 Time Left: 1 minutes
+19-01-22 20:53:44 Next map: Lobby
+19-01-22 20:53:49 Lothic - Gothic Lobby Room
+19-01-22 20:58:49 Time Left: 5 minutes
+19-01-22 20:59:49 Time Left: 4 minutes
+19-01-22 21:00:49 Time Left: 3 minutes
+19-01-22 21:01:49 Time Left: 2 minutes
+19-01-22 21:02:49 Time Left: 1 minutes
+19-01-22 21:03:49 Next map: Lobby
+19-01-22 21:03:55 Lothic - Gothic Lobby Room
+19-01-22 21:08:55 Time Left: 5 minutes
+19-01-22 21:09:55 Time Left: 4 minutes
+19-01-22 21:10:55 Time Left: 3 minutes
+19-01-22 21:11:55 Time Left: 2 minutes
+19-01-22 21:12:55 Time Left: 1 minutes
+19-01-22 21:13:55 Next map: Lobby
+19-01-22 21:14:00 Lothic - Gothic Lobby Room
+19-01-22 21:19:00 Time Left: 5 minutes
+19-01-22 21:20:00 Time Left: 4 minutes
+19-01-22 21:21:00 Time Left: 3 minutes
+19-01-22 21:22:00 Time Left: 2 minutes
+19-01-22 21:23:00 Time Left: 1 minutes
+19-01-22 21:24:00 Next map: Lobby
+19-01-22 21:24:05 Lothic - Gothic Lobby Room
+19-01-22 21:29:05 Time Left: 5 minutes
+19-01-22 21:30:05 Time Left: 4 minutes
+19-01-22 21:31:05 Time Left: 3 minutes
+19-01-22 21:32:05 Time Left: 2 minutes
+19-01-22 21:33:05 Time Left: 1 minutes
+19-01-22 21:34:05 Next map: Lobby
+19-01-22 21:34:11 Lothic - Gothic Lobby Room
+19-01-22 21:39:11 Time Left: 5 minutes
+19-01-22 21:40:11 Time Left: 4 minutes
+19-01-22 21:41:11 Time Left: 3 minutes
+19-01-22 21:42:11 Time Left: 2 minutes
+19-01-22 21:43:11 Time Left: 1 minutes
+19-01-22 21:44:11 Next map: Lobby
+19-01-22 21:44:16 Lothic - Gothic Lobby Room
+19-01-22 21:49:16 Time Left: 5 minutes
+19-01-22 21:50:16 Time Left: 4 minutes
+19-01-22 21:51:16 Time Left: 3 minutes
+19-01-22 21:52:16 Time Left: 2 minutes
+19-01-22 21:53:16 Time Left: 1 minutes
+19-01-22 21:54:11 /password 3470 (206.81.24.116)
+19-01-22 21:54:11 Server password changed to 3470
+19-01-22 21:54:11 /say Server password was changed... (206.81.24.116)
+19-01-22 21:54:13 /loadcon soldat.ini (206.81.24.116)
+19-01-22 21:54:13 Config reloaded soldat.ini
+19-01-22 21:54:13 Lothic - Gothic Lobby Room
+19-01-22 21:54:13 Loaded weapons mod "Default mod v1.8"
+19-01-22 21:54:13 Port already open
+19-01-22 21:54:13  Connection for file server started. Port: 23011
+19-01-22 21:54:14 /loadwep weapons (206.81.24.116)
+19-01-22 21:54:14 Loaded weapons mod "Default mod v1.8"
+19-01-22 21:54:31 177.136.147.127:56721|1E4A0B5EB1C requesting game...
+19-01-22 21:54:32 152.172.44.26:23073|5D324D12DA7 requesting game...
+19-01-22 21:54:33 kyuubi joining game (177.136.147.127:56721) HWID:1E4A0B5EB1C
+19-01-22 21:54:33 kyuubi has joined alpha team.
+19-01-22 21:54:35 /\ joining game (152.172.44.26:23073) HWID:5D324D12DA7
+19-01-22 21:54:35 /\ has joined as spectator.
+19-01-22 21:54:39 [/\] !info
+19-01-22 21:54:39 /say Captains.SA (elapsed time 0:00:26) (206.81.24.116)
+19-01-22 21:54:39 /say Players: LeprosycL - /\ - k1u - Rattle (206.81.24.116)
+19-01-22 21:54:39 /say Alpha: Enigma (206.81.24.116)
+19-01-22 21:54:39 /say Bravo: chub0 (206.81.24.116)
+19-01-22 21:54:39 /say First pick: Bravo (206.81.24.116)
+19-01-22 21:54:39 /say Tiebreaker: ctf_Blade (206.81.24.116)
+19-01-22 21:54:43 /\ has left spectators
+19-01-22 21:54:47 152.172.44.26:23073|5D324D12DA7 requesting game...
+19-01-22 21:54:48 /\ joining game (152.172.44.26:23073) HWID:5D324D12DA7
+19-01-22 21:54:48 /\ has joined as spectator.
+19-01-22 21:54:50 181.160.73.90:23073|34B05B4CF39 requesting game...
+19-01-22 21:54:53 sk!T.chub0 joining game (181.160.73.90:23073) HWID:34B05B4CF39
+19-01-22 21:54:53 sk!T.chub0 has joined bravo team.
+19-01-22 21:55:03 [/\] !b
+19-01-22 21:55:03 /\ has joined bravo team.
+19-01-22 21:55:10 169.57.213.65:23073|2247C0D9684 requesting game...
+19-01-22 21:55:12 sk!T.Rattle joining game (169.57.213.65:23073) HWID:2247C0D9684
+19-01-22 21:55:12 sk!T.Rattle has joined alpha team.
+19-01-22 21:55:16 /\ has left bravo team.
+19-01-22 21:55:17 186.11.22.228:32543|24E929C2A38 requesting game...
+19-01-22 21:55:19 152.172.44.26:23073|5D324D12DA7 requesting game...
+19-01-22 21:55:20 /\ joining game (152.172.44.26:23073) HWID:5D324D12DA7
+19-01-22 21:55:20 /\ has joined bravo team.
+19-01-22 21:55:24 sT.- Enigma joining game (186.11.22.228:32543) HWID:24E929C2A38
+19-01-22 21:55:24 sT.- Enigma has joined bravo team.
+19-01-22 21:55:28 [sT.- Enigma] !1
+19-01-22 21:55:28 sT.- Enigma has joined alpha team.
+19-01-22 21:55:31 [kyuubi] who knows charlie brown jr?
+19-01-22 21:55:44 [kyuubi] rock band from brasil
+19-01-22 21:55:46 [kyuubi] the singer died
+19-01-22 21:55:54 [sT.- Enigma] go spec
+19-01-22 21:55:57 [sk!T.Rattle] kyu 0 ping
+19-01-22 21:55:59 [kyuubi] then the one who played
+19-01-22 21:56:02 sk!T.Rattle has joined spectators.
+19-01-22 21:56:08 (TEAM)[sT.- Enigma] go spec
+19-01-22 21:56:10 [kyuubi] i dont know the name xd
+19-01-22 21:56:15 kyuubi has joined spectators.
+19-01-22 21:56:20 [kyuubi] that shit similar to guitar
+19-01-22 21:56:25 [/\] !info
+19-01-22 21:56:25 [sT.- Enigma] !info
+19-01-22 21:56:25 /say Captains.SA (elapsed time 0:02:12) (206.81.24.116)
+19-01-22 21:56:25 /say Players: LeprosycL - /\ - k1u - Rattle (206.81.24.116)
+19-01-22 21:56:25 /say Alpha: Enigma (206.81.24.116)
+19-01-22 21:56:25 /say Bravo: chub0 (206.81.24.116)
+19-01-22 21:56:25 /say First pick: Bravo (206.81.24.116)
+19-01-22 21:56:25 /say Tiebreaker: ctf_Blade (206.81.24.116)
+19-01-22 21:56:25 /say Captains.SA (elapsed time 0:02:12) (206.81.24.116)
+19-01-22 21:56:25 /say Players: LeprosycL - /\ - k1u - Rattle (206.81.24.116)
+19-01-22 21:56:25 /say Alpha: Enigma (206.81.24.116)
+19-01-22 21:56:25 /say Bravo: chub0 (206.81.24.116)
+19-01-22 21:56:25 /say First pick: Bravo (206.81.24.116)
+19-01-22 21:56:25 /say Tiebreaker: ctf_Blade (206.81.24.116)
+19-01-22 21:56:26 [kyuubi] suicided
+19-01-22 21:56:32 [sT.- Enigma] ratlle y lepo
+19-01-22 21:56:32 [sk!T.chub0] i choose this madafaka
+19-01-22 21:56:36 [sT.- Enigma] rattle y lepro
+19-01-22 21:56:39 186.104.83.202:23073|461517D7001 requesting game...
+19-01-22 21:56:40 LeprosycL joining game (186.104.83.202:23073) HWID:461517D7001
+19-01-22 21:56:40 LeprosycL has joined as spectator.
+19-01-22 21:56:44 sk!T.Rattle has joined alpha team.
+19-01-22 21:56:45 [kyuubi] then i join what team?
+19-01-22 21:56:47 kyuubi has joined bravo team.
+19-01-22 21:56:50 [LeprosycL] !a}
+19-01-22 21:56:52 [LeprosycL] !a
+19-01-22 21:56:52 LeprosycL has joined alpha team.
+19-01-22 21:56:52 [sT.- Enigma] el guaton al arco
+19-01-22 21:57:01 [LeprosycL] y tu hermana
+19-01-22 21:57:03 (TEAM)[sT.- Enigma] cual?
+19-01-22 21:57:06 (TEAM)[LeprosycL] rotten
+19-01-22 21:57:07 [sk!T.Rattle] tengo lag
+19-01-22 21:57:10 [LeprosycL] xuuuu
+19-01-22 21:57:12 [LeprosycL] gg wp
+19-01-22 21:57:22 [kyuubi] "i see on the tv what they talk about the young, isnt serious"
+19-01-22 21:57:34 Admin connected (31.223.39.202).
+19-01-22 21:57:34 /maxplayers (31.223.39.202)
+19-01-22 21:57:34 Max players is 16
+19-01-22 21:57:34 /maxrespawntime (31.223.39.202)
+19-01-22 21:57:34 Maximum Respawn time is 5 seconds
+19-01-22 21:57:34 /respawntime (31.223.39.202)
+19-01-22 21:57:34 Respawn time is 3 seconds
+19-01-22 21:57:34 /limit (31.223.39.202)
+19-01-22 21:57:34 Current kill/point/capture limit is 10
+19-01-22 21:57:34 /timelimit (31.223.39.202)
+19-01-22 21:57:34 Current time limit is 10 minutes
+19-01-22 21:57:34 /friendlyfire (31.223.39.202)
+19-01-22 21:57:34 Friendly Fire is 0
+19-01-22 21:57:34 /scripting (31.223.39.202)
+19-01-22 21:57:34 Scripting is currently Enabled (1)
+19-01-22 21:57:34 /balance (31.223.39.202)
+19-01-22 21:57:34 Bot Balance is off (0)
+19-01-22 21:57:34 /bonus (31.223.39.202)
+19-01-22 21:57:34 Current bonus frequency is 0
+19-01-22 21:57:34 /vote% (31.223.39.202)
+19-01-22 21:57:34 Voting percent is 60
+19-01-22 21:57:57 [kyuubi] ahahah xD
+19-01-22 21:57:57 [sT.- Enigma] !map rotten
+19-01-22 21:58:02 (RADIO)[kyuubi] Enemy spotted up!
+19-01-22 21:58:02 Rotten by Biggles
+19-01-22 21:58:07 [kyuubi] !r
+19-01-22 21:58:07 Restarting...
+19-01-22 21:58:08 [LeprosycL] Come'on!
+19-01-22 21:58:11 (TEAM)[sk!T.chub0] im top
+19-01-22 21:58:12 Rotten by Biggles
+19-01-22 21:58:16 (TEAM)[sk!T.Rattle] mid
+19-01-22 21:58:17 (2) /\ killed (1) sT.- Enigma with Ak-74
+19-01-22 21:58:18 (TEAM)[sT.- Enigma] ENEMY TOP
+19-01-22 21:58:19 (1) LeprosycL killed (2) kyuubi with Grenade
+19-01-22 21:58:21 sk!T.Rattle captured the Blue Flag
+19-01-22 21:58:21 (2) /\ killed (1) LeprosycL with Ak-74
+19-01-22 21:58:21 (TEAM)[kyuubi] basei host
+19-01-22 21:58:23 (2) /\ killed (1) sk!T.Rattle with Ak-74
+19-01-22 21:58:26 (2) sk!T.chub0 killed (1) sT.- Enigma with Steyr AUG
+19-01-22 21:58:27 (1) LeprosycL killed (2) sk!T.chub0 with Ruger 77
+19-01-22 21:58:29 (2) kyuubi killed (1) LeprosycL with Ak-74
+19-01-22 21:58:30 (RADIO)[LeprosycL] Enemy spotted up!
+19-01-22 21:58:31 (TEAM)[sk!T.Rattle] mid
+19-01-22 21:58:31 (RADIO)[/\] Enemy spotted down!
+19-01-22 21:58:32 (1) sT.- Enigma killed (2) /\ with Grenade
+19-01-22 21:58:36 (1) sT.- Enigma killed (2) kyuubi with HK MP5
+19-01-22 21:58:37 (1) sk!T.Rattle killed (2) sk!T.chub0 with Ruger 77
+19-01-22 21:58:38 (RADIO)[kyuubi] Enemy spotted up!
+19-01-22 21:58:39 (RADIO)[sk!T.chub0] Enemy spotted down!
+19-01-22 21:58:40 (2) /\ killed (1) sk!T.Rattle with Grenade
+19-01-22 21:58:41 (TEAM)[sk!T.Rattle] loow
+19-01-22 21:58:42 (1) sT.- Enigma killed (2) kyuubi with Grenade
+19-01-22 21:58:44 (1) sk!T.Rattle killed (2) /\ with Grenade
+19-01-22 21:58:44 (2) sk!T.chub0 killed (1) sT.- Enigma with Steyr AUG
+19-01-22 21:58:44 (1) LeprosycL killed (2) sk!T.chub0 with Grenade
+19-01-22 21:58:47 (2) kyuubi killed (1) LeprosycL with LAW
+19-01-22 21:58:51 (2) kyuubi killed (1) sk!T.Rattle with Ak-74
+19-01-22 21:58:52 (TEAM)[sk!T.Rattle] up
+19-01-22 21:58:53 (2) /\ killed (1) sT.- Enigma with Ak-74
+19-01-22 21:58:55 (TEAM)[sT.- Enigma] ENEMY TOP
+19-01-22 21:58:56 (1) sk!T.Rattle killed (2) /\ with Grenade
+19-01-22 21:58:57 LeprosycL captured the Blue Flag
+19-01-22 21:58:58 (2) sk!T.chub0 killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 21:58:59 (2) kyuubi killed (1) LeprosycL with Grenade
+19-01-22 21:58:59 sk!T.chub0 captured the Red Flag
+19-01-22 21:59:00 (2) sk!T.chub0 killed (1) sT.- Enigma with Combat Knife
+19-01-22 21:59:01 [sT.- Enigma] YEAH!
+19-01-22 21:59:01 kyuubi returned the Blue Flag
+19-01-22 21:59:02 (RADIO)[LeprosycL] Enemy flagger up!
+19-01-22 21:59:03 (TEAM)[sT.- Enigma] ENEMY MID
+19-01-22 21:59:06 (1) LeprosycL killed (2) /\ with Ruger 77
+19-01-22 21:59:07 [/\] wat
+19-01-22 21:59:08 sk!T.chub0 scores for Bravo Team
+19-01-22 21:59:09 (2) sk!T.chub0 killed (1) LeprosycL with Steyr AUG
+19-01-22 21:59:13 (1) sT.- Enigma killed (2) /\ with HK MP5
+19-01-22 21:59:13 (2) kyuubi killed (1) sk!T.Rattle with Ak-74
+19-01-22 21:59:14 (2) sk!T.chub0 killed (1) sT.- Enigma with Steyr AUG
+19-01-22 21:59:15 (TEAM)[sk!T.Rattle] up
+19-01-22 21:59:15 (1) LeprosycL killed (2) kyuubi with Ruger 77
+19-01-22 21:59:17 (RADIO)[kyuubi] Enemy spotted down!
+19-01-22 21:59:21 (2) /\ killed (1) sk!T.Rattle with Grenade
+19-01-22 21:59:21 (1) sk!T.Rattle killed (2) /\ with Ruger 77
+19-01-22 21:59:21 (1) LeprosycL killed (2) kyuubi with Ruger 77
+19-01-22 21:59:22 LeprosycL captured the Blue Flag
+19-01-22 21:59:24 (RADIO)[kyuubi] Enemy flagger middle!
+19-01-22 21:59:25 (2) sk!T.chub0 killed (1) sT.- Enigma with Steyr AUG
+19-01-22 21:59:27 (TEAM)[sT.- Enigma] ENEMY IN BASE
+19-01-22 21:59:28 LeprosycL scores for Alpha Team
+19-01-22 21:59:30 (1) sT.- Enigma killed (2) kyuubi with Grenade
+19-01-22 21:59:30 (2) /\ killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 21:59:30 (1) LeprosycL killed (2) /\ with Ruger 77
+19-01-22 21:59:33 sk!T.chub0 captured the Red Flag
+19-01-22 21:59:34 (1) LeprosycL killed (2) sk!T.chub0 with Ruger 77
+19-01-22 21:59:36 (1) sk!T.Rattle killed (2) /\ with Grenade
+19-01-22 21:59:37 LeprosycL returned the Red Flag
+19-01-22 21:59:40 (2) kyuubi killed (1) sT.- Enigma with Ak-74
+19-01-22 21:59:41 (2) kyuubi killed (1) LeprosycL with Ak-74
+19-01-22 21:59:42 (RADIO)[LeprosycL] Enemy spotted up!
+19-01-22 21:59:43 (2) /\ killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 21:59:44 kyuubi captured the Red Flag
+19-01-22 21:59:45 (TEAM)[sk!T.Rattle] up
+19-01-22 21:59:46 (TEAM)[sk!T.Rattle] loow
+19-01-22 21:59:47 (1) sT.- Enigma killed (2) kyuubi with HK MP5
+19-01-22 21:59:48 (2) /\ killed (1) sT.- Enigma with Steyr AUG
+19-01-22 21:59:48 (2) sk!T.chub0 killed (1) LeprosycL with Grenade
+19-01-22 21:59:49 (RADIO)[LeprosycL] Enemy spotted down!
+19-01-22 21:59:52 LeprosycL returned the Red Flag
+19-01-22 21:59:53 (1) LeprosycL killed (2) /\ with Grenade
+19-01-22 21:59:54 [/\] xd
+19-01-22 21:59:55 (1) sk!T.Rattle killed (2) sk!T.chub0 with Ruger 77
+19-01-22 21:59:57 (TEAM)[sT.- Enigma] ENEMY MID
+19-01-22 21:59:57 (RADIO)[sk!T.chub0] Enemy spotted down!
+19-01-22 21:59:58 (TEAM)[sk!T.Rattle] mid
+19-01-22 21:59:59 (RADIO)[sk!T.chub0] Enemy spotted up!
+19-01-22 22:00:00 (2) /\ killed (1) sT.- Enigma with Grenade
+19-01-22 22:00:03 (1) LeprosycL killed (2) kyuubi with Ruger 77
+19-01-22 22:00:04 (2) sk!T.chub0 killed (1) sk!T.Rattle with Ak-74
+19-01-22 22:00:05 (RADIO)[kyuubi] Enemy spotted middle!
+19-01-22 22:00:07 LeprosycL captured the Blue Flag
+19-01-22 22:00:07 (2) sk!T.chub0 killed (1) LeprosycL with Grenade
+19-01-22 22:00:08 (RADIO)[LeprosycL] Enemy spotted up!
+19-01-22 22:00:10 (1) sT.- Enigma killed (2) /\ with Steyr AUG
+19-01-22 22:00:10 (2) /\ killed (1) sT.- Enigma with Grenade
+19-01-22 22:00:12 (2) kyuubi killed (1) sk!T.Rattle with Grenade
+19-01-22 22:00:13 (TEAM)[sk!T.Rattle] up
+19-01-22 22:00:16 (1) sT.- Enigma killed (2) kyuubi with Ak-74
+19-01-22 22:00:16 (1) sT.- Enigma killed (2) sk!T.chub0 with Grenade
+19-01-22 22:00:17 (2) sk!T.chub0 killed (1) LeprosycL with Grenade
+19-01-22 22:00:19 (2) /\ killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 22:00:20 (TEAM)[sk!T.Rattle] up
+19-01-22 22:00:20 (RADIO)[LeprosycL] Enemy spotted up!
+19-01-22 22:00:21 /\ captured the Red Flag
+19-01-22 22:00:26 (2) /\ killed (1) sT.- Enigma with Steyr AUG
+19-01-22 22:00:26 (1) sT.- Enigma killed (2) /\ with Grenade
+19-01-22 22:00:28 (1) LeprosycL killed (2) sk!T.chub0 with Grenade
+19-01-22 22:00:28 (TEAM)[/\] base
+19-01-22 22:00:30 kyuubi captured the Red Flag
+19-01-22 22:00:31 (1) sk!T.Rattle killed (2) kyuubi with Combat Knife
+19-01-22 22:00:31 LeprosycL captured the Blue Flag
+19-01-22 22:00:31 sk!T.Rattle returned the Red Flag
+19-01-22 22:00:32 (2) /\ killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 22:00:35 (TEAM)[sk!T.Rattle] up
+19-01-22 22:00:35 (2) /\ killed (1) LeprosycL with Steyr AUG
+19-01-22 22:00:35 /\ returned the Blue Flag
+19-01-22 22:00:36 [LeprosycL] No!
+19-01-22 22:00:40 (2) kyuubi killed (1) sT.- Enigma with LAW
+19-01-22 22:00:42 (1) sk!T.Rattle killed (2) kyuubi with Ruger 77
+19-01-22 22:00:47 (2) /\ killed (1) LeprosycL with Grenade
+19-01-22 22:00:48 (2) /\ killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 22:00:49 (TEAM)[sk!T.Rattle] up
+19-01-22 22:00:52 /\ captured the Red Flag
+19-01-22 22:00:53 kyuubi captured the Red Flag
+19-01-22 22:00:54 (1) LeprosycL killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:00:54 (1) sk!T.Rattle killed (2) /\ with Ruger 77
+19-01-22 22:00:55 (2) kyuubi killed (1) LeprosycL with LAW
+19-01-22 22:00:56 (RADIO)[LeprosycL] Friendly flagger down!
+19-01-22 22:00:59 (1) sk!T.Rattle killed (2) sk!T.chub0 with Combat Knife
+19-01-22 22:00:59 (2) /\ killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 22:01:00 sT.- Enigma returned the Red Flag
+19-01-22 22:01:02 (2) kyuubi killed (1) sT.- Enigma with Ak-74
+19-01-22 22:01:03 (TEAM)[sT.- Enigma] ENEMY IN BASE
+19-01-22 22:01:04 (2) /\ killed (1) LeprosycL with Steyr AUG
+19-01-22 22:01:04 kyuubi captured the Red Flag
+19-01-22 22:01:05 [LeprosycL] Die!
+19-01-22 22:01:07 (1) sk!T.Rattle killed (2) kyuubi with Ruger 77
+19-01-22 22:01:11 (1) LeprosycL killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:01:11 (2) /\ killed (1) sT.- Enigma with Steyr AUG
+19-01-22 22:01:12 (1) sT.- Enigma killed (2) /\ with Grenade
+19-01-22 22:01:13 sk!T.Rattle captured the Blue Flag
+19-01-22 22:01:13 [sT.- Enigma] k-bOOm!!
+19-01-22 22:01:13 (RADIO)[/\] Enemy flagger middle!
+19-01-22 22:01:14 (2) kyuubi killed (1) sk!T.Rattle with LAW
+19-01-22 22:01:15 LeprosycL returned the Red Flag
+19-01-22 22:01:16 kyuubi returned the Blue Flag
+19-01-22 22:01:17 (2) sk!T.chub0 killed (1) LeprosycL with Steyr AUG
+19-01-22 22:01:18 (RADIO)[LeprosycL] Enemy spotted down!
+19-01-22 22:01:22 (2) /\ killed (1) sT.- Enigma with Steyr AUG
+19-01-22 22:01:23 (2) sk!T.chub0 killed (1) LeprosycL with Combat Knife
+19-01-22 22:01:24 [LeprosycL] No!
+19-01-22 22:01:24 kyuubi captured the Red Flag
+19-01-22 22:01:26 (2) sk!T.chub0 killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 22:01:31 kyuubi scores for Bravo Team
+19-01-22 22:01:32 (2) sk!T.chub0 killed (1) LeprosycL with Grenade
+19-01-22 22:01:34 (1) sk!T.Rattle killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:01:35 sT.- Enigma captured the Blue Flag
+19-01-22 22:01:35 (1) sT.- Enigma killed (2) kyuubi with Ak-74
+19-01-22 22:01:36 (RADIO)[sk!T.chub0] Enemy spotted up!
+19-01-22 22:01:37 (2) /\ killed (1) sT.- Enigma with Steyr AUG
+19-01-22 22:01:38 (2) /\ killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 22:01:40 (TEAM)[sk!T.Rattle] mid
+19-01-22 22:01:42 sk!T.chub0 returned the Blue Flag
+19-01-22 22:01:45 (2) /\ killed (1) sT.- Enigma with Steyr AUG
+19-01-22 22:01:45 (1) sT.- Enigma killed (2) /\ with Grenade
+19-01-22 22:01:45 LeprosycL captured the Blue Flag
+19-01-22 22:01:52 (1) sT.- Enigma killed (2) kyuubi with Grenade
+19-01-22 22:01:52 LeprosycL scores for Alpha Team
+19-01-22 22:01:54 (1) sk!T.Rattle killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:01:55 [sT.- Enigma] YEAH!
+19-01-22 22:01:57 /\ captured the Red Flag
+19-01-22 22:01:57 (2) /\ killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 22:01:57 (1) LeprosycL killed (2) /\ with Grenade
+19-01-22 22:02:02 (1) LeprosycL killed (2) kyuubi with Ruger 77
+19-01-22 22:02:03 (2) sk!T.chub0 killed (1) sT.- Enigma with Steyr AUG
+19-01-22 22:02:03 LeprosycL captured the Blue Flag
+19-01-22 22:02:04 (1) sk!T.Rattle killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:02:05 (2) /\ killed (1) LeprosycL with Steyr AUG
+19-01-22 22:02:06 (RADIO)[sk!T.chub0] Enemy spotted up!
+19-01-22 22:02:10 (1) sT.- Enigma killed (2) sk!T.chub0 with Grenade
+19-01-22 22:02:11 (RADIO)[sk!T.chub0] Enemy spotted down!
+19-01-22 22:02:16 (2) kyuubi killed (1) sT.- Enigma with Grenade
+19-01-22 22:02:17 (1) LeprosycL killed (2) /\ with Ruger 77
+19-01-22 22:02:18 (RADIO)[/\] Enemy spotted up!
+19-01-22 22:02:18 (1) LeprosycL killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:02:20 (2) kyuubi killed (1) LeprosycL with Grenade
+19-01-22 22:02:20 (1) LeprosycL killed (2) kyuubi with Combat Knife
+19-01-22 22:02:21 [LeprosycL] Come'on!
+19-01-22 22:02:22 (RADIO)[kyuubi] Enemy spotted up!
+19-01-22 22:02:23 sk!T.Rattle captured the Blue Flag
+19-01-22 22:02:24 (2) sk!T.chub0 killed (1) sk!T.Rattle with Ruger 77
+19-01-22 22:02:25 sk!T.chub0 returned the Blue Flag
+19-01-22 22:02:26 (1) sT.- Enigma killed (2) kyuubi with Combat Knife
+19-01-22 22:02:26 (2) sk!T.chub0 killed (1) sT.- Enigma with Grenade
+19-01-22 22:02:27 [sT.- Enigma] YEAH!
+19-01-22 22:02:29 (1) LeprosycL killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:02:30 (2) /\ killed (1) LeprosycL with Steyr AUG
+19-01-22 22:02:32 (RADIO)[LeprosycL] Enemy spotted up!
+19-01-22 22:02:34 (2) kyuubi killed (1) sk!T.Rattle with Grenade
+19-01-22 22:02:35 (TEAM)[sk!T.Rattle] loow
+19-01-22 22:02:37 (1) LeprosycL killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:02:38 (1) sT.- Enigma killed (2) kyuubi with Ak-74
+19-01-22 22:02:39 (2) /\ killed (1) sT.- Enigma with Steyr AUG
+19-01-22 22:02:39 (1) sT.- Enigma killed (2) /\ with Ak-74
+19-01-22 22:02:41 (2) sk!T.chub0 killed (1) LeprosycL with Ruger 77
+19-01-22 22:02:42 (RADIO)[LeprosycL] Enemy spotted down!
+19-01-22 22:02:43 (TEAM)[sT.- Enigma] EFC LOW
+19-01-22 22:02:45 sk!T.Rattle captured the Blue Flag
+19-01-22 22:02:46 (2) sk!T.chub0 killed (1) sT.- Enigma with Ruger 77
+19-01-22 22:02:46 (1) sk!T.Rattle killed (2) kyuubi with Grenade
+19-01-22 22:02:47 (2) /\ killed (1) sk!T.Rattle with Grenade
+19-01-22 22:02:48 (2) sk!T.chub0 killed (1) LeprosycL with Ruger 77
+19-01-22 22:02:49 [LeprosycL] Die!
+19-01-22 22:02:49 sk!T.chub0 captured the Red Flag
+19-01-22 22:02:51 (1) sT.- Enigma killed (2) sk!T.chub0 with Ak-74
+19-01-22 22:02:55 (2) /\ killed (1) LeprosycL with Steyr AUG
+19-01-22 22:02:55 (1) sk!T.Rattle killed (2) /\ with Ruger 77
+19-01-22 22:02:57 [LeprosycL] Return the flag!
+19-01-22 22:02:57 (2) kyuubi killed (1) sk!T.Rattle with Ak-74
+19-01-22 22:03:00 sT.- Enigma captured the Blue Flag
+19-01-22 22:03:01 sk!T.chub0 captured the Red Flag
+19-01-22 22:03:03 (2) /\ killed (1) sT.- Enigma with Grenade
+19-01-22 22:03:04 [sT.- Enigma] YEAH!
+19-01-22 22:03:04 /\ returned the Blue Flag
+19-01-22 22:03:05 (2) sk!T.chub0 killed (1) sk!T.Rattle with Combat Knife
+19-01-22 22:03:08 LeprosycL captured the Blue Flag
+19-01-22 22:03:12 Time Left: 5 minutes
+19-01-22 22:03:13 sT.- Enigma captured the Blue Flag
+19-01-22 22:03:14 (2) /\ killed (1) sT.- Enigma with Grenade
+19-01-22 22:03:16 /\ returned the Blue Flag
+19-01-22 22:03:17 (RADIO)[kyuubi] Enemy spotted middle!
+19-01-22 22:03:18 (2) sk!T.chub0 killed (1) LeprosycL with M79
+19-01-22 22:03:19 [LeprosycL] Return the flag!
+19-01-22 22:03:21 sk!T.chub0 scores for Bravo Team
+19-01-22 22:03:21 kyuubi captured the Red Flag
+19-01-22 22:03:22 (RADIO)[kyuubi] Friendly flagger middle!
+19-01-22 22:03:25 (1) sk!T.Rattle killed (2) kyuubi with Ruger 77
+19-01-22 22:03:25 (2) kyuubi killed (1) sk!T.Rattle with LAW
+19-01-22 22:03:26 (TEAM)[sk!T.Rattle] mid
+19-01-22 22:03:27 sk!T.chub0 captured the Red Flag
+19-01-22 22:03:28 LeprosycL captured the Blue Flag
+19-01-22 22:03:31 (RADIO)[kyuubi] Enemy flagger middle!
+19-01-22 22:03:31 (2) /\ killed (1) LeprosycL with Steyr AUG
+19-01-22 22:03:31 (2) /\ killed (1) sT.- Enigma with Steyr AUG
+19-01-22 22:03:34 [LeprosycL] ??A
+19-01-22 22:03:35 kyuubi returned the Blue Flag
+19-01-22 22:03:36 sk!T.chub0 scores for Bravo Team
+19-01-22 22:03:36 (2) sk!T.chub0 killed (1) sk!T.Rattle with M79
+19-01-22 22:03:38 LeprosycL captured the Blue Flag
+19-01-22 22:03:41 (1) LeprosycL killed (2) kyuubi with Combat Knife
+19-01-22 22:03:41 (2) /\ killed (1) LeprosycL with Steyr AUG
+19-01-22 22:03:43 /\ returned the Blue Flag
+19-01-22 22:03:46 (2) /\ killed (1) sT.- Enigma with Steyr AUG
+19-01-22 22:03:47 (2) sk!T.chub0 killed (1) LeprosycL with M79
+19-01-22 22:03:47 (TEAM)[sT.- Enigma] ENEMY MID
+19-01-22 22:03:48 [LeprosycL] No!
+19-01-22 22:03:48 [LeprosycL] Come'on!
+19-01-22 22:03:48 sk!T.chub0 captured the Red Flag
+19-01-22 22:03:48 (1) sk!T.Rattle killed (2) kyuubi with Combat Knife
+19-01-22 22:03:49 (RADIO)[LeprosycL] Enemy flagger up!
+19-01-22 22:03:50 (2) sk!T.chub0 killed (1) sT.- Enigma with M79
+19-01-22 22:03:51 (TEAM)[sT.- Enigma] EFC LOW
+19-01-22 22:03:52 (2) /\ killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 22:03:53 (1) LeprosycL killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:03:53 (TEAM)[sk!T.Rattle] up
+19-01-22 22:03:57 (RADIO)[sk!T.chub0] Enemy spotted down!
+19-01-22 22:04:00 (2) sk!T.chub0 killed (1) LeprosycL with Ruger 77
+19-01-22 22:04:00 (1) sT.- Enigma killed (2) /\ with Grenade
+19-01-22 22:04:01 (2) kyuubi killed (1) sT.- Enigma with Ak-74
+19-01-22 22:04:03 (1) sk!T.Rattle killed (2) kyuubi with Ruger 77
+19-01-22 22:04:04 (RADIO)[kyuubi] Enemy spotted middle!
+19-01-22 22:04:04 (TEAM)[sT.- Enigma] ENEMY LOW
+19-01-22 22:04:05 sk!T.Rattle captured the Blue Flag
+19-01-22 22:04:07 (TEAM)[kyuubi] falhg
+19-01-22 22:04:07 (2) /\ killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 22:04:09 (1) LeprosycL killed (2) /\ with Ruger 77
+19-01-22 22:04:10 (2) /\ killed (1) LeprosycL with Combat Knife
+19-01-22 22:04:11 kyuubi returned the Blue Flag
+19-01-22 22:04:12 (2) sk!T.chub0 killed (1) sT.- Enigma with Grenade
+19-01-22 22:04:12 (1) sT.- Enigma killed (2) sk!T.chub0 with Barrett M82A1
+19-01-22 22:04:12 Time Left: 4 minutes
+19-01-22 22:04:15 (RADIO)[sk!T.chub0] Enemy spotted up!
+19-01-22 22:04:15 [/\] RETURN THE FLAG BEBE!
+19-01-22 22:04:16 kyuubi captured the Red Flag
+19-01-22 22:04:18 /\ captured the Red Flag
+19-01-22 22:04:20 (2) sk!T.chub0 killed (1) LeprosycL with M79
+19-01-22 22:04:21 (2) sk!T.chub0 killed (1) sk!T.Rattle with Combat Knife
+19-01-22 22:04:23 /\ scores for Bravo Team
+19-01-22 22:04:24 kyuubi captured the Red Flag
+19-01-22 22:04:24 (TEAM)[LeprosycL] WN
+19-01-22 22:04:27 (2) /\ killed (1) sT.- Enigma with Grenade
+19-01-22 22:04:30 (1) LeprosycL killed (2) sk!T.chub0 with Grenade
+19-01-22 22:04:30 (2) sk!T.chub0 killed (1) LeprosycL with M79
+19-01-22 22:04:32 (1) sk!T.Rattle killed (2) /\ with Ruger 77
+19-01-22 22:04:32 (2) /\ killed (1) sk!T.Rattle with Grenade
+19-01-22 22:04:38 /\ captured the Red Flag
+19-01-22 22:04:38 (2) sk!T.chub0 killed (1) LeprosycL with Grenade
+19-01-22 22:04:39 (1) sT.- Enigma killed (2) sk!T.chub0 with HK MP5
+19-01-22 22:04:40 /\ scores for Bravo Team
+19-01-22 22:04:40 (2) /\ killed (1) sT.- Enigma with Grenade
+19-01-22 22:04:42 (TEAM)[sk!T.chub0] XD
+19-01-22 22:04:47 (2) sk!T.chub0 killed (1) sT.- Enigma with M79
+19-01-22 22:04:47 sk!T.Rattle captured the Blue Flag
+19-01-22 22:04:47 (1) sT.- Enigma killed (2) /\ with Grenade
+19-01-22 22:04:48 (1) LeprosycL killed (2) kyuubi with Grenade
+19-01-22 22:04:48 (TEAM)[sT.- Enigma] ENEMY TOP
+19-01-22 22:04:49 (TEAM)[sT.- Enigma] Flag lost!
+19-01-22 22:04:49 (RADIO)[kyuubi] Enemy flagger up!
+19-01-22 22:04:50 sk!T.chub0 captured the Red Flag
+19-01-22 22:04:54 sk!T.Rattle returned the Red Flag
+19-01-22 22:04:54 (1) LeprosycL killed (2) /\ with Ruger 77
+19-01-22 22:04:54 (1) sk!T.Rattle killed (2) sk!T.chub0 with Combat Knife
+19-01-22 22:04:54 [/\] DiEeeEeee ;d!
+19-01-22 22:04:58 (1) sk!T.Rattle killed (2) kyuubi with Ruger 77
+19-01-22 22:04:58 (2) kyuubi killed (1) sT.- Enigma with Ak-74
+19-01-22 22:04:59 (2) /\ killed (1) LeprosycL with Steyr AUG
+19-01-22 22:05:00 (RADIO)[kyuubi] Friendly flagger up!
+19-01-22 22:05:03 sT.- Enigma captured the Blue Flag
+19-01-22 22:05:05 (2) /\ killed (1) sT.- Enigma with Steyr AUG
+19-01-22 22:05:05 (1) LeprosycL killed (2) /\ with Ruger 77
+19-01-22 22:05:08 (1) LeprosycL killed (2) kyuubi with Ruger 77
+19-01-22 22:05:08 sk!T.chub0 returned the Blue Flag
+19-01-22 22:05:10 (1) sk!T.Rattle killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:05:12 Time Left: 3 minutes
+19-01-22 22:05:13 (RADIO)[sk!T.chub0] Enemy spotted down!
+19-01-22 22:05:14 (2) kyuubi killed (1) sT.- Enigma with LAW
+19-01-22 22:05:14 (2) /\ killed (1) LeprosycL with Grenade
+19-01-22 22:05:16 (2) kyuubi killed (1) sk!T.Rattle with Grenade
+19-01-22 22:05:19 /\ captured the Red Flag
+19-01-22 22:05:19 [sT.- Enigma] kyu hacker
+19-01-22 22:05:20 (1) LeprosycL killed (2) /\ with Ruger 77
+19-01-22 22:05:21 sk!T.Rattle returned the Red Flag
+19-01-22 22:05:22 [/\] xd
+19-01-22 22:05:22 (1) LeprosycL killed (2) kyuubi with Ruger 77
+19-01-22 22:05:23 (2) sk!T.chub0 killed (1) LeprosycL with Steyr AUG
+19-01-22 22:05:24 [kyuubi] sure
+19-01-22 22:05:25 (2) sk!T.chub0 killed (1) sT.- Enigma with Steyr AUG
+19-01-22 22:05:27 [kyuubi] im hellsik
+19-01-22 22:05:28 sk!T.chub0 captured the Red Flag
+19-01-22 22:05:30 (1) sk!T.Rattle killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:05:31 sk!T.Rattle returned the Red Flag
+19-01-22 22:05:33 (1) sT.- Enigma killed (2) kyuubi with Ak-74
+19-01-22 22:05:34 (2) /\ killed (1) LeprosycL with Steyr AUG
+19-01-22 22:05:36 (2) /\ killed (1) sT.- Enigma with Grenade
+19-01-22 22:05:37 /\ captured the Red Flag
+19-01-22 22:05:38 (2) sk!T.chub0 killed (1) sk!T.Rattle with Ruger 77
+19-01-22 22:05:39 (TEAM)[sk!T.Rattle] mid
+19-01-22 22:05:43 /\ scores for Bravo Team
+19-01-22 22:05:43 (2) kyuubi killed (1) LeprosycL with LAW
+19-01-22 22:05:48 (2) /\ killed (1) sT.- Enigma with Steyr AUG
+19-01-22 22:05:49 sk!T.Rattle captured the Blue Flag
+19-01-22 22:05:52 (2) /\ killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 22:05:52 (1) LeprosycL killed (2) /\ with Ruger 77
+19-01-22 22:05:53 (2) sk!T.chub0 killed (1) LeprosycL with Ruger 77
+19-01-22 22:05:57 kyuubi returned the Blue Flag
+19-01-22 22:05:58 (2) sk!T.chub0 killed (1) sT.- Enigma with Ruger 77
+19-01-22 22:06:01 (2) sk!T.chub0 killed (1) sk!T.Rattle with Combat Knife
+19-01-22 22:06:04 (1) LeprosycL killed (2) kyuubi with Combat Knife
+19-01-22 22:06:06 (RADIO)[kyuubi] Enemy spotted down!
+19-01-22 22:06:08 (2) /\ killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 22:06:10 (1) LeprosycL killed (2) kyuubi with Ruger 77
+19-01-22 22:06:12 LeprosycL captured the Blue Flag
+19-01-22 22:06:12 sk!T.chub0 captured the Red Flag
+19-01-22 22:06:12 (RADIO)[kyuubi] Enemy flagger up!
+19-01-22 22:06:12 Time Left: 2 minutes
+19-01-22 22:06:13 (1) sT.- Enigma killed (2) /\ with Barrett M82A1
+19-01-22 22:06:14 [kyuubi] wwak
+19-01-22 22:06:15 (2) sk!T.chub0 killed (1) sT.- Enigma with Ruger 77
+19-01-22 22:06:16 (1) LeprosycL killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:06:16 (2) sk!T.chub0 killed (1) LeprosycL with Ruger 77
+19-01-22 22:06:17 (TEAM)[sT.- Enigma] [PREPARE TO CAP]
+19-01-22 22:06:17 [LeprosycL] Return the flag!
+19-01-22 22:06:19 sk!T.Rattle captured the Blue Flag
+19-01-22 22:06:23 (2) /\ killed (1) sT.- Enigma with Steyr AUG
+19-01-22 22:06:23 (1) LeprosycL killed (2) kyuubi with Ruger 77
+19-01-22 22:06:24 sk!T.Rattle returned the Red Flag
+19-01-22 22:06:24 (1) LeprosycL killed (2) /\ with Ruger 77
+19-01-22 22:06:27 (2) sk!T.chub0 killed (1) LeprosycL with Combat Knife
+19-01-22 22:06:28 sk!T.Rattle scores for Alpha Team
+19-01-22 22:06:28 [LeprosycL] No!
+19-01-22 22:06:34 (2) kyuubi killed (1) LeprosycL with LAW
+19-01-22 22:06:36 kyuubi captured the Red Flag
+19-01-22 22:06:36 (1) sT.- Enigma killed (2) /\ with M79
+19-01-22 22:06:37 (1) sk!T.Rattle killed (2) kyuubi with Ruger 77
+19-01-22 22:06:37 sT.- Enigma captured the Blue Flag
+19-01-22 22:06:40 (RADIO)[kyuubi] Enemy spotted down!
+19-01-22 22:06:42 (2) /\ killed (1) sT.- Enigma with Steyr AUG
+19-01-22 22:06:42 (2) kyuubi killed (1) sk!T.Rattle with Ak-74
+19-01-22 22:06:43 (TEAM)[sk!T.Rattle] up
+19-01-22 22:06:44 (TEAM)[sk!T.Rattle] loow
+19-01-22 22:06:44 (2) /\ killed (1) LeprosycL with Steyr AUG
+19-01-22 22:06:46 [LeprosycL] PFF
+19-01-22 22:06:47 (2) sk!T.chub0 killed (1) sT.- Enigma with M79
+19-01-22 22:06:48 sk!T.chub0 returned the Blue Flag
+19-01-22 22:06:50 (1) LeprosycL killed (2) kyuubi with Ruger 77
+19-01-22 22:06:50 /\ captured the Red Flag
+19-01-22 22:06:50 (1) sk!T.Rattle killed (2) /\ with Ruger 77
+19-01-22 22:07:02 (1) sk!T.Rattle killed (2) kyuubi with Combat Knife
+19-01-22 22:07:02 (1) sT.- Enigma killed (2) sk!T.chub0 with Grenade
+19-01-22 22:07:05 (1) sk!T.Rattle killed (2) /\ with Ruger 77
+19-01-22 22:07:05 (2) /\ killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 22:07:10 (2) kyuubi killed (1) LeprosycL with Grenade
+19-01-22 22:07:11 [LeprosycL] Come'on!
+19-01-22 22:07:11 [LeprosycL] No!
+19-01-22 22:07:12 Time Left: 1 minutes
+19-01-22 22:07:13 (2) sk!T.chub0 killed (1) sT.- Enigma with Steyr AUG
+19-01-22 22:07:15 (1) sk!T.Rattle killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:07:17 (2) kyuubi killed (1) LeprosycL with LAW
+19-01-22 22:07:18 (2) /\ killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 22:07:20 (1) sT.- Enigma killed (2) kyuubi with M79
+19-01-22 22:07:20 (TEAM)[sk!T.Rattle] mid
+19-01-22 22:07:21 (RADIO)[kyuubi] Enemy spotted down!
+19-01-22 22:07:22 (RADIO)[kyuubi] Enemy spotted middle!
+19-01-22 22:07:22 (RADIO)[kyuubi] Enemy spotted middle!
+19-01-22 22:07:26 (1) LeprosycL killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:07:27 (RADIO)[sk!T.chub0] Enemy spotted down!
+19-01-22 22:07:29 (2) kyuubi killed (1) sT.- Enigma with Ak-74
+19-01-22 22:07:31 (1) sk!T.Rattle killed (2) /\ with Ruger 77
+19-01-22 22:07:33 LeprosycL captured the Blue Flag
+19-01-22 22:07:36 (2) sk!T.chub0 killed (1) sk!T.Rattle with Ak-74
+19-01-22 22:07:38 (2) sk!T.chub0 killed (1) LeprosycL with Combat Knife
+19-01-22 22:07:39 /\ returned the Blue Flag
+19-01-22 22:07:45 (2) sk!T.chub0 killed (1) sk!T.Rattle with Ak-74
+19-01-22 22:07:51 (2) /\ killed (1) sk!T.Rattle with Grenade
+19-01-22 22:07:53 /\ captured the Red Flag
+19-01-22 22:07:53 (2) /\ killed (1) LeprosycL with Steyr AUG
+19-01-22 22:07:56 (RADIO)[kyuubi] Friendly flagger down!
+19-01-22 22:07:56 (1) sk!T.Rattle killed (2) kyuubi with Ruger 77
+19-01-22 22:07:57 (1) sT.- Enigma killed (2) /\ with Combat Knife
+19-01-22 22:07:57 sk!T.chub0 captured the Red Flag
+19-01-22 22:07:59 (2) sk!T.chub0 killed (1) sT.- Enigma with Ak-74
+19-01-22 22:08:02 sk!T.chub0 scores for Bravo Team
+19-01-22 22:08:04 (2) kyuubi killed (1) LeprosycL with LAW
+19-01-22 22:08:08 (1) sT.- Enigma killed (2) kyuubi with HK MP5
+19-01-22 22:08:12 (2) /\ killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 22:08:12 Next map: Lobby
+19-01-22 22:08:13 [kyuubi] gg
+19-01-22 22:08:17 Lothic - Gothic Lobby Room
+19-01-22 22:08:18 [sk!T.chub0] gg
+19-01-22 22:08:20 [kyuubi] and i dont hack
+19-01-22 22:08:26 [kyuubi] i only hacked im my life in gunbound xD
+19-01-22 22:08:31 [/\] xD
+19-01-22 22:08:34 [kyuubi] then i memorized the trico's table
+19-01-22 22:08:39 [sT.- Enigma] fuking haker
+19-01-22 22:08:41 [/\] xD
+19-01-22 22:08:42 [kyuubi] -.-
+19-01-22 22:08:45 [/\] gunbound
+19-01-22 22:08:45 [kyuubi] what the fuck enigma?
+19-01-22 22:08:47 [/\] doesnt work now?
+19-01-22 22:08:54 [/\] i recently download that
+19-01-22 22:08:57 [/\] and i cant play
+19-01-22 22:08:57 [kyuubi] there is a server
+19-01-22 22:09:02 [/\] softnyx
+19-01-22 22:09:06 [kyuubi] but now is ptw
+19-01-22 22:09:07 (TEAM)[sk!T.chub0] map
+19-01-22 22:09:10 [kyuubi] i think
+19-01-22 22:09:15 [/\] always was ptw
+19-01-22 22:09:16 [sk!T.Rattle] go pls
+19-01-22 22:09:28 [kyuubi] here they kidnaped the white dragon
+19-01-22 22:09:30 (TEAM)[sk!T.chub0] gunbound make us a master of law
+19-01-22 22:09:30 [kyuubi] for his account
+19-01-22 22:09:31 [kyuubi] xD
+19-01-22 22:09:33 [sk!T.chub0] !maps
+19-01-22 22:09:34 /pm 3 Maps list: (206.81.24.116)
+19-01-22 22:09:34 (PM) To: sk!T.chub0 From: Server Admin Message: Maps list:
+19-01-22 22:09:34 /pm 3 ctf_Aftermath, ctf_Amnesia, ctf_Arabic, ctf_Ash, ctf_B2b (206.81.24.116)
+19-01-22 22:09:34 (PM) To: sk!T.chub0 From: Server Admin Message: ctf_Aftermath, ctf_Amnesia, ctf_Arabic, ctf_Ash, ctf_B2b
+19-01-22 22:09:34 /pm 3 ctf_Blade, ctf_Campeche, ctf_Catch, ctf_Cobra, ctf_Crucifix (206.81.24.116)
+19-01-22 22:09:34 (PM) To: sk!T.chub0 From: Server Admin Message: ctf_Blade, ctf_Campeche, ctf_Catch, ctf_Cobra, ctf_Crucifix
+19-01-22 22:09:34 /pm 3 ctf_Death, ctf_Division, ctf_Dropdown, ctf_Equinox, ctf_Fl (206.81.24.116)
+19-01-22 22:09:34 (PM) To: sk!T.chub0 From: Server Admin Message: ctf_Death, ctf_Division, ctf_Dropdown, ctf_Equinox, ctf_Fl
+19-01-22 22:09:34 /pm 3 ctf_Guardian, ctf_Hormone, ctf_Horror, ctf_IceBeam, ctf_Junglefall (206.81.24.116)
+19-01-22 22:09:34 (PM) To: sk!T.chub0 From: Server Admin Message: ctf_Guardian, ctf_Hormone, ctf_Horror, ctf_IceBeam, ctf_Junglefall
+19-01-22 22:09:34 /pm 3 ctf_Kampf, ctf_Lanubya, ctf_Laos, ctf_Lava, ctf_Maya (206.81.24.116)
+19-01-22 22:09:34 (PM) To: sk!T.chub0 From: Server Admin Message: ctf_Kampf, ctf_Lanubya, ctf_Laos, ctf_Lava, ctf_Maya
+19-01-22 22:09:34 /pm 3 ctf_Mayapan, ctf_Mine, ctf_MFM, ctf_Nuubia, ctf_Paradigm (206.81.24.116)
+19-01-22 22:09:34 (PM) To: sk!T.chub0 From: Server Admin Message: ctf_Mayapan, ctf_Mine, ctf_MFM, ctf_Nuubia, ctf_Paradigm
+19-01-22 22:09:34 /pm 3 ctf_Pod, ctf_Raspberry, ctf_Rotten, ctf_Ruins, ctf_Run (206.81.24.116)
+19-01-22 22:09:34 (PM) To: sk!T.chub0 From: Server Admin Message: ctf_Pod, ctf_Raspberry, ctf_Rotten, ctf_Ruins, ctf_Run
+19-01-22 22:09:34 /pm 3 ctf_Scorpion, ctf_Snakebite, ctf_Spark, ctf_Steel, ctf_Triumph (206.81.24.116)
+19-01-22 22:09:34 (PM) To: sk!T.chub0 From: Server Admin Message: ctf_Scorpion, ctf_Snakebite, ctf_Spark, ctf_Steel, ctf_Triumph
+19-01-22 22:09:34 /pm 3 ctf_Viet, ctf_Voland, ctf_Wretch, ctf_X (206.81.24.116)
+19-01-22 22:09:34 (PM) To: sk!T.chub0 From: Server Admin Message: ctf_Viet, ctf_Voland, ctf_Wretch, ctf_X
+19-01-22 22:09:42 [sk!T.chub0] !map ctf_Dropdown
+19-01-22 22:09:45 (TEAM)[sT.- Enigma] ENEMY LOW
+19-01-22 22:09:46 (TEAM)[sT.- Enigma] ENEMY MID
+19-01-22 22:09:47 ctf_Dropdown2 by Boxo (WPs by KC)
+19-01-22 22:09:50 (RADIO)[kyuubi] Enemy spotted up!
+19-01-22 22:09:51 (RADIO)[kyuubi] Enemy spotted middle!
+19-01-22 22:09:52 (RADIO)[kyuubi] Enemy spotted middle!
+19-01-22 22:09:54 (2) sk!T.chub0 killed (1) sT.- Enigma with Grenade
+19-01-22 22:09:55 (1) sk!T.Rattle killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:09:59 (2) kyuubi killed (1) sk!T.Rattle with Ak-74
+19-01-22 22:10:00 (TEAM)[sk!T.Rattle] up
+19-01-22 22:10:02 (2) /\ killed (1) sT.- Enigma with Grenade
+19-01-22 22:10:02 (2) kyuubi killed (1) LeprosycL with LAW
+19-01-22 22:10:05 kyuubi captured the Red Flag
+19-01-22 22:10:07 (2) /\ killed (1) sk!T.Rattle with Grenade
+19-01-22 22:10:11 [kyuubi] afk?A
+19-01-22 22:10:14 (1) sT.- Enigma killed (2) kyuubi with Grenade
+19-01-22 22:10:16 (2) sk!T.chub0 killed (1) sT.- Enigma with Ruger 77
+19-01-22 22:10:18 [LeprosycL] !r
+19-01-22 22:10:18 Restarting...
+19-01-22 22:10:19 [sk!T.chub0] No!
+19-01-22 22:10:21 [sk!T.Rattle] gl hf
+19-01-22 22:10:23 (TEAM)[sk!T.Rattle] low
+19-01-22 22:10:23 ctf_Dropdown2 by Boxo (WPs by KC)
+19-01-22 22:10:24 [sk!T.chub0] hf
+19-01-22 22:10:30 (2) /\ killed (1) sk!T.Rattle with LAW
+19-01-22 22:10:32 (1) LeprosycL killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:10:34 (RADIO)[sk!T.chub0] Enemy spotted down!
+19-01-22 22:10:36 (1) LeprosycL killed (2) kyuubi with Grenade
+19-01-22 22:10:37 (RADIO)[kyuubi] Enemy spotted up!
+19-01-22 22:10:38 (2) /\ killed (1) sT.- Enigma with Steyr AUG
+19-01-22 22:10:39 (1) sk!T.Rattle killed (2) /\ with Ruger 77
+19-01-22 22:10:42 (1) LeprosycL killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:10:42 (2) sk!T.chub0 killed (1) LeprosycL with Grenade
+19-01-22 22:10:46 (2) /\ killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 22:10:51 (2) /\ killed (1) sT.- Enigma with Grenade
+19-01-22 22:10:52 (1) sT.- Enigma killed (2) kyuubi with Grenade
+19-01-22 22:10:52 [sT.- Enigma] k-bOOm!!
+19-01-22 22:10:53 (1) LeprosycL killed (2) /\ with Grenade
+19-01-22 22:10:54 (TEAM)[kyuubi] def
+19-01-22 22:10:54 (1) LeprosycL killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:10:55 LeprosycL captured the Blue Flag
+19-01-22 22:10:58 (1) sk!T.Rattle killed (2) kyuubi with Ruger 77
+19-01-22 22:11:00 (RADIO)[kyuubi] Enemy flagger middle!
+19-01-22 22:11:00 (2) /\ killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 22:11:01 sT.- Enigma captured the Blue Flag
+19-01-22 22:11:04 (1) LeprosycL killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:11:06 sT.- Enigma scores for Alpha Team
+19-01-22 22:11:08 (TEAM)[sk!T.chub0] io top
+19-01-22 22:11:09 (1) sk!T.Rattle killed (2) /\ with Ruger 77
+19-01-22 22:11:11 (1) LeprosycL killed (2) kyuubi with Ruger 77
+19-01-22 22:11:12 (1) sk!T.Rattle killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:11:13 (2) sk!T.chub0 killed (1) sk!T.Rattle with M79
+19-01-22 22:11:16 (2) /\ killed (1) sT.- Enigma with Steyr AUG
+19-01-22 22:11:20 (TEAM)[sT.- Enigma] ENEMY TOP
+19-01-22 22:11:22 (1) LeprosycL killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:11:23 (1) sk!T.Rattle killed (2) /\ with Grenade
+19-01-22 22:11:25 sk!T.Rattle captured the Blue Flag
+19-01-22 22:11:27 (1) LeprosycL killed (2) kyuubi with Ruger 77
+19-01-22 22:11:27 (1) sk!T.Rattle killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:11:27 (2) sk!T.chub0 killed (1) sk!T.Rattle with Grenade
+19-01-22 22:11:29 LeprosycL captured the Blue Flag
+19-01-22 22:11:31 (1) sT.- Enigma killed (2) /\ with HK MP5
+19-01-22 22:11:32 (RADIO)[LeprosycL] Friendly flagger middle!
+19-01-22 22:11:33 (1) sT.- Enigma killed (2) kyuubi with Combat Knife
+19-01-22 22:11:34 LeprosycL captured the Blue Flag
+19-01-22 22:11:36 (2) /\ killed (1) sT.- Enigma with Steyr AUG
+19-01-22 22:11:37 (2) sk!T.chub0 killed (1) sk!T.Rattle with M79
+19-01-22 22:11:37 (TEAM)[kyuubi] sry
+19-01-22 22:11:37 LeprosycL scores for Alpha Team
+19-01-22 22:11:38 (TEAM)[sT.- Enigma] ENEMY MID
+19-01-22 22:11:38 (TEAM)[sk!T.Rattle] mid
+19-01-22 22:11:40 (1) LeprosycL killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:11:40 (2) /\ killed (1) LeprosycL with Steyr AUG
+19-01-22 22:11:43 /\ captured the Red Flag
+19-01-22 22:11:44 (2) /\ killed (1) sk!T.Rattle with LAW
+19-01-22 22:11:48 sk!T.chub0 captured the Red Flag
+19-01-22 22:11:48 (2) sk!T.chub0 killed (1) sT.- Enigma with Barrett M82A1
+19-01-22 22:11:50 (2) kyuubi killed (1) LeprosycL with Ak-74
+19-01-22 22:11:50 (1) LeprosycL killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:11:51 [LeprosycL] Return the flag!
+19-01-22 22:11:53 /\ captured the Red Flag
+19-01-22 22:11:54 (1) sT.- Enigma killed (2) kyuubi with HK MP5
+19-01-22 22:11:54 (2) kyuubi killed (1) sT.- Enigma with LAW
+19-01-22 22:11:55 /\ scores for Bravo Team
+19-01-22 22:11:58 (2) sk!T.chub0 killed (1) sk!T.Rattle with Barrett M82A1
+19-01-22 22:11:59 (TEAM)[sk!T.Rattle] mid
+19-01-22 22:12:00 (TEAM)[sk!T.Rattle] loow
+19-01-22 22:12:05 (1) LeprosycL killed (2) kyuubi with Ruger 77
+19-01-22 22:12:07 (2) /\ killed (1) sT.- Enigma with Grenade
+19-01-22 22:12:07 (RADIO)[kyuubi] Enemy spotted up!
+19-01-22 22:12:09 (2) sk!T.chub0 killed (1) sk!T.Rattle with Barrett M82A1
+19-01-22 22:12:09 (1) sk!T.Rattle killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:12:11 [sk!T.Rattle] q laag
+19-01-22 22:12:13 (1) sT.- Enigma killed (2) /\ with Grenade
+19-01-22 22:12:14 (1) LeprosycL killed (2) kyuubi with Grenade
+19-01-22 22:12:16 (1) LeprosycL killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:12:18 LeprosycL captured the Blue Flag
+19-01-22 22:12:20 (1) sk!T.Rattle killed (2) kyuubi with Ruger 77
+19-01-22 22:12:22 (2) /\ killed (1) sk!T.Rattle with Grenade
+19-01-22 22:12:24 (TEAM)[sk!T.Rattle] loow
+19-01-22 22:12:24 (1) sT.- Enigma killed (2) /\ with HK MP5
+19-01-22 22:12:25 LeprosycL scores for Alpha Team
+19-01-22 22:12:25 (2) sk!T.chub0 killed (1) sT.- Enigma with Barrett M82A1
+19-01-22 22:12:27 (TEAM)[sT.- Enigma] ENEMY TOP
+19-01-22 22:12:30 (2) sk!T.chub0 killed (1) LeprosycL with Barrett M82A1
+19-01-22 22:12:31 (RADIO)[LeprosycL] Enemy spotted up!
+19-01-22 22:12:32 (1) sk!T.Rattle killed (2) kyuubi with Ruger 77
+19-01-22 22:12:33 sk!T.chub0 captured the Red Flag
+19-01-22 22:12:34 (RADIO)[kyuubi] Enemy spotted down!
+19-01-22 22:12:34 (2) /\ killed (1) sk!T.Rattle with Grenade
+19-01-22 22:12:35 (TEAM)[sk!T.Rattle] loow
+19-01-22 22:12:36 (1) LeprosycL killed (2) sk!T.chub0 with Grenade
+19-01-22 22:12:38 sT.- Enigma returned the Red Flag
+19-01-22 22:12:39 (1) LeprosycL killed (2) /\ with Ruger 77
+19-01-22 22:12:40 [/\] awkdfhsdkfj
+19-01-22 22:12:43 LeprosycL captured the Blue Flag
+19-01-22 22:12:43 (2) sk!T.chub0 killed (1) LeprosycL with Barrett M82A1
+19-01-22 22:12:44 (RADIO)[LeprosycL] Enemy spotted middle!
+19-01-22 22:12:45 (1) sk!T.Rattle killed (2) kyuubi with Grenade
+19-01-22 22:12:47 (RADIO)[LeprosycL] Enemy spotted up!
+19-01-22 22:12:49 (1) sT.- Enigma killed (2) /\ with Grenade
+19-01-22 22:12:50 [/\] DiEeeEeee ;d!
+19-01-22 22:12:50 (2) kyuubi killed (1) sk!T.Rattle with Ak-74
+19-01-22 22:12:54 (2) kyuubi killed (1) sT.- Enigma with Grenade
+19-01-22 22:12:55 (2) sk!T.chub0 killed (1) LeprosycL with Barrett M82A1
+19-01-22 22:12:55 [sT.- Enigma] YEAH!
+19-01-22 22:12:57 (1) sk!T.Rattle killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:12:59 (RADIO)[sk!T.chub0] Enemy spotted down!
+19-01-22 22:13:00 (1) sk!T.Rattle killed (2) kyuubi with Grenade
+19-01-22 22:13:01 (RADIO)[kyuubi] Enemy spotted down!
+19-01-22 22:13:06 (2) kyuubi killed (1) sk!T.Rattle with Ak-74
+19-01-22 22:13:07 (2) /\ killed (1) LeprosycL with Steyr AUG
+19-01-22 22:13:07 (TEAM)[sk!T.Rattle] up
+19-01-22 22:13:08 (1) sT.- Enigma killed (2) sk!T.chub0 with M79
+19-01-22 22:13:09 (RADIO)[sk!T.chub0] Enemy spotted up!
+19-01-22 22:13:09 (TEAM)[LeprosycL] WENA
+19-01-22 22:13:11 sT.- Enigma captured the Blue Flag
+19-01-22 22:13:13 (2) kyuubi killed (1) sT.- Enigma with Ak-74
+19-01-22 22:13:14 (2) /\ killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 22:13:14 /\ captured the Red Flag
+19-01-22 22:13:15 (2) /\ killed (1) LeprosycL with Grenade
+19-01-22 22:13:16 (TEAM)[sk!T.Rattle] basiaa
+19-01-22 22:13:16 kyuubi returned the Blue Flag
+19-01-22 22:13:20 (2) sk!T.chub0 killed (1) LeprosycL with Barrett M82A1
+19-01-22 22:13:21 (1) sk!T.Rattle killed (2) kyuubi with Ruger 77
+19-01-22 22:13:22 /\ scores for Bravo Team
+19-01-22 22:13:23 (2) sk!T.chub0 killed (1) sT.- Enigma with Grenade
+19-01-22 22:13:24 (TEAM)[sT.- Enigma] ENEMY IN BASE
+19-01-22 22:13:26 (2) sk!T.chub0 killed (1) LeprosycL with Barrett M82A1
+19-01-22 22:13:27 (2) /\ killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 22:13:27 sk!T.chub0 captured the Red Flag
+19-01-22 22:13:28 (TEAM)[LeprosycL] BASE PO
+19-01-22 22:13:31 (2) /\ killed (1) sT.- Enigma with Grenade
+19-01-22 22:13:33 (1) LeprosycL killed (2) kyuubi with Grenade
+19-01-22 22:13:34 (1) sk!T.Rattle killed (2) /\ with Ruger 77
+19-01-22 22:13:36 (TEAM)[kyuubi] nice job
+19-01-22 22:13:39 (2) sk!T.chub0 killed (1) LeprosycL with Barrett M82A1
+19-01-22 22:13:39 (2) sk!T.chub0 killed (1) sk!T.Rattle with Barrett M82A1
+19-01-22 22:13:40 sk!T.chub0 scores for Bravo Team
+19-01-22 22:13:42 (2) /\ killed (1) sT.- Enigma with Steyr AUG
+19-01-22 22:13:44 (TEAM)[LeprosycL] NOVATOS
+19-01-22 22:13:52 (1) sk!T.Rattle killed (2) /\ with Ruger 77
+19-01-22 22:13:54 (2) sk!T.chub0 killed (1) LeprosycL with Barrett M82A1
+19-01-22 22:13:55 (1) LeprosycL killed (2) sk!T.chub0 with Grenade
+19-01-22 22:13:57 (RADIO)[LeprosycL] Enemy spotted middle!
+19-01-22 22:13:57 (2) /\ killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 22:13:59 (TEAM)[sk!T.Rattle] loow
+19-01-22 22:14:00 (1) LeprosycL killed (2) kyuubi with Grenade
+19-01-22 22:14:05 [sT.- Enigma] YEAH!
+19-01-22 22:14:05 [sT.- Enigma] k-bOOm!!
+19-01-22 22:14:09 (1) sk!T.Rattle killed (2) kyuubi with Ruger 77
+19-01-22 22:14:12 (1) sT.- Enigma killed (2) /\ with Ak-74
+19-01-22 22:14:13 (2) sk!T.chub0 killed (1) LeprosycL with Steyr AUG
+19-01-22 22:14:15 (2) kyuubi killed (1) sT.- Enigma with Ak-74
+19-01-22 22:14:18 (2) kyuubi killed (1) sk!T.Rattle with LAW
+19-01-22 22:14:18 (1) sk!T.Rattle killed (2) kyuubi with Combat Knife
+19-01-22 22:14:22 (2) sk!T.chub0 killed (1) sT.- Enigma with Grenade
+19-01-22 22:14:23 (1) LeprosycL killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:14:25 (1) LeprosycL killed (2) /\ with Ruger 77
+19-01-22 22:14:25 (2) /\ killed (1) LeprosycL with Grenade
+19-01-22 22:14:29 (1) sk!T.Rattle killed (2) kyuubi with Combat Knife
+19-01-22 22:14:31 (RADIO)[kyuubi] Enemy spotted down!
+19-01-22 22:14:32 (RADIO)[kyuubi] Enemy spotted down!
+19-01-22 22:14:33 (TEAM)[kyuubi] y23
+19-01-22 22:14:33 (2) /\ killed (1) sT.- Enigma with LAW
+19-01-22 22:14:35 (1) LeprosycL killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:14:35 (1) sk!T.Rattle killed (2) /\ with Ruger 77
+19-01-22 22:14:35 (2) /\ killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 22:14:36 (RADIO)[sk!T.chub0] Enemy spotted up!
+19-01-22 22:14:39 (RADIO)[sk!T.chub0] Enemy spotted up!
+19-01-22 22:14:41 (1) LeprosycL killed (2) kyuubi with Ruger 77
+19-01-22 22:14:43 (2) /\ killed (1) LeprosycL with Steyr AUG
+19-01-22 22:14:43 (1) LeprosycL killed (2) /\ with Grenade
+19-01-22 22:14:43 (1) LeprosycL killed (2) sk!T.chub0 with Grenade
+19-01-22 22:14:44 [/\] CHI CHEEÑOOOOOOOOOOOOL ! ! !
+19-01-22 22:14:45 (RADIO)[kyuubi] Enemy spotted up!
+19-01-22 22:14:45 [sk!T.chub0] ahjahda
+19-01-22 22:14:46 [LeprosycL] MALO SQLS
+19-01-22 22:14:47 sT.- Enigma captured the Blue Flag
+19-01-22 22:14:49 (1) sk!T.Rattle killed (2) kyuubi with Ruger 77
+19-01-22 22:14:53 (TEAM)[sT.- Enigma] ENEMY LOW
+19-01-22 22:14:53 (2) /\ killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 22:14:55 (1) LeprosycL killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:14:56 sT.- Enigma scores for Alpha Team
+19-01-22 22:14:59 (1) sT.- Enigma killed (2) /\ with M79
+19-01-22 22:14:59 (2) kyuubi killed (1) LeprosycL with Ak-74
+19-01-22 22:15:06 (2) /\ killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 22:15:07 (2) sk!T.chub0 killed (1) LeprosycL with Ruger 77
+19-01-22 22:15:09 kyuubi captured the Red Flag
+19-01-22 22:15:11 (1) sT.- Enigma killed (2) kyuubi with Grenade
+19-01-22 22:15:12 (2) sk!T.chub0 killed (1) sT.- Enigma with Ruger 77
+19-01-22 22:15:12 (1) LeprosycL killed (2) sk!T.chub0 with Grenade
+19-01-22 22:15:14 (2) /\ killed (1) LeprosycL with LAW
+19-01-22 22:15:14 (1) LeprosycL killed (2) /\ with Grenade
+19-01-22 22:15:15 [LeprosycL] Die!
+19-01-22 22:15:15 [/\] wtf
+19-01-22 22:15:19 (1) sk!T.Rattle killed (2) kyuubi with Ruger 77
+19-01-22 22:15:21 sk!T.Rattle captured the Blue Flag
+19-01-22 22:15:21 (2) /\ killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 22:15:23 (1) LeprosycL killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:15:23 Time Left: 5 minutes
+19-01-22 22:15:24 (2) /\ killed (1) sT.- Enigma with LAW
+19-01-22 22:15:27 (RADIO)[sk!T.chub0] Enemy spotted middle!
+19-01-22 22:15:31 (1) LeprosycL killed (2) kyuubi with Grenade
+19-01-22 22:15:32 (RADIO)[kyuubi] Enemy spotted up!
+19-01-22 22:15:32 (1) sT.- Enigma killed (2) /\ with M79
+19-01-22 22:15:36 (1) sT.- Enigma killed (2) sk!T.chub0 with M79
+19-01-22 22:15:39 (2) kyuubi killed (1) sk!T.Rattle with Ak-74
+19-01-22 22:15:40 (TEAM)[sk!T.Rattle] up
+19-01-22 22:15:41 (TEAM)[sk!T.Rattle] loow
+19-01-22 22:15:42 (1) sT.- Enigma killed (2) /\ with M79
+19-01-22 22:15:43 (2) sk!T.chub0 killed (1) sT.- Enigma with M79
+19-01-22 22:15:44 (2) kyuubi killed (1) LeprosycL with Ak-74
+19-01-22 22:15:44 (TEAM)[sT.- Enigma] ENEMY MID
+19-01-22 22:15:45 [LeprosycL] Die!
+19-01-22 22:15:45 (1) sk!T.Rattle killed (2) kyuubi with Ruger 77
+19-01-22 22:15:47 (2) sk!T.chub0 killed (1) sk!T.Rattle with M79
+19-01-22 22:15:49 (TEAM)[sk!T.Rattle] mid
+19-01-22 22:15:51 (2) sk!T.chub0 killed (1) sT.- Enigma with M79
+19-01-22 22:15:55 sk!T.chub0 captured the Red Flag
+19-01-22 22:15:55 (1) sk!T.Rattle killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:15:56 (2) kyuubi killed (1) LeprosycL with LAW
+19-01-22 22:15:58 (2) /\ killed (1) sk!T.Rattle with Grenade
+19-01-22 22:15:58 (1) sT.- Enigma killed (2) kyuubi with M79
+19-01-22 22:16:01 (TEAM)[sT.- Enigma] ENEMY IN BASE
+19-01-22 22:16:03 (1) sT.- Enigma killed (2) /\ with M79
+19-01-22 22:16:04 [sT.- Enigma] YEAH!
+19-01-22 22:16:08 (2) sk!T.chub0 killed (1) LeprosycL with Steyr AUG
+19-01-22 22:16:08 [LeprosycL] Die!
+19-01-22 22:16:09 (RADIO)[LeprosycL] Enemy spotted up!
+19-01-22 22:16:11 (RADIO)[kyuubi] Enemy spotted down!
+19-01-22 22:16:11 (2) /\ killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 22:16:13 (TEAM)[sk!T.Rattle] loow
+19-01-22 22:16:15 kyuubi captured the Red Flag
+19-01-22 22:16:16 (2) kyuubi killed (1) LeprosycL with Ak-74
+19-01-22 22:16:17 (2) sk!T.chub0 killed (1) sT.- Enigma with Steyr AUG
+19-01-22 22:16:20 (2) /\ killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 22:16:20 (1) sk!T.Rattle killed (2) kyuubi with Grenade
+19-01-22 22:16:21 [LeprosycL] gg no team
+19-01-22 22:16:21 (RADIO)[kyuubi] Friendly flagger middle!
+19-01-22 22:16:23 /\ captured the Red Flag
+19-01-22 22:16:23 Time Left: 4 minutes
+19-01-22 22:16:25 /\ scores for Bravo Team
+19-01-22 22:16:25 (1) LeprosycL killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:16:29 (RADIO)[sk!T.chub0] Enemy spotted middle!
+19-01-22 22:16:30 (2) /\ killed (1) LeprosycL with Steyr AUG
+19-01-22 22:16:30 (1) sT.- Enigma killed (2) kyuubi with M79
+19-01-22 22:16:30 (RADIO)[sk!T.chub0] Friendly flagger up!
+19-01-22 22:16:31 (RADIO)[kyuubi] Enemy spotted middle!
+19-01-22 22:16:31 (1) sT.- Enigma killed (2) /\ with Combat Knife
+19-01-22 22:16:33 (2) sk!T.chub0 killed (1) sT.- Enigma with Steyr AUG
+19-01-22 22:16:33 (RADIO)[kyuubi] Enemy spotted up!
+19-01-22 22:16:35 (RADIO)[sT.- Enigma] Enemy flagger up!
+19-01-22 22:16:35 (2) kyuubi killed (1) sk!T.Rattle with Grenade
+19-01-22 22:16:37 (1) sk!T.Rattle killed (2) sk!T.chub0 with Grenade
+19-01-22 22:16:40 (1) LeprosycL killed (2) /\ with Grenade
+19-01-22 22:16:46 (1) sT.- Enigma killed (2) kyuubi with Grenade
+19-01-22 22:16:46 (2) sk!T.chub0 killed (1) LeprosycL with Grenade
+19-01-22 22:16:47 (1) sT.- Enigma killed (2) sk!T.chub0 with M79
+19-01-22 22:16:51 (2) /\ killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 22:16:57 (2) sk!T.chub0 killed (1) LeprosycL with Grenade
+19-01-22 22:16:58 (2) kyuubi killed (1) sk!T.Rattle with LAW
+19-01-22 22:16:59 (RADIO)[LeprosycL] Enemy spotted middle!
+19-01-22 22:17:00 (TEAM)[sk!T.Rattle] mid
+19-01-22 22:17:01 (2) /\ killed (1) sT.- Enigma with Steyr AUG
+19-01-22 22:17:02 (1) LeprosycL killed (2) kyuubi with Ruger 77
+19-01-22 22:17:03 (1) LeprosycL killed (2) /\ with Ruger 77
+19-01-22 22:17:10 (1) LeprosycL killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:17:10 (2) sk!T.chub0 killed (1) LeprosycL with Steyr AUG
+19-01-22 22:17:11 (RADIO)[sk!T.chub0] Enemy spotted up!
+19-01-22 22:17:13 (2) /\ killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 22:17:14 (1) sT.- Enigma killed (2) kyuubi with Barrett M82A1
+19-01-22 22:17:15 (RADIO)[kyuubi] Enemy spotted middle!
+19-01-22 22:17:16 (2) sk!T.chub0 killed (1) sT.- Enigma with M79
+19-01-22 22:17:17 (TEAM)[sT.- Enigma] ENEMY LOW
+19-01-22 22:17:17 (TEAM)[sk!T.Rattle] loow
+19-01-22 22:17:23 (1) LeprosycL killed (2) /\ with Ruger 77
+19-01-22 22:17:23 Time Left: 3 minutes
+19-01-22 22:17:23 (1) sk!T.Rattle killed (2) sk!T.chub0 with Grenade
+19-01-22 22:17:24 (1) LeprosycL killed (2) kyuubi with Ruger 77
+19-01-22 22:17:28 LeprosycL captured the Blue Flag
+19-01-22 22:17:29 (1) sT.- Enigma killed (2) kyuubi with Barrett M82A1
+19-01-22 22:17:30 (2) /\ killed (1) LeprosycL with Steyr AUG
+19-01-22 22:17:31 (2) /\ killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 22:17:33 (2) /\ killed (1) sT.- Enigma with Steyr AUG
+19-01-22 22:17:35 /\ returned the Blue Flag
+19-01-22 22:17:39 (2) /\ killed (1) sk!T.Rattle with LAW
+19-01-22 22:17:39 (1) sk!T.Rattle killed (2) /\ with Ruger 77
+19-01-22 22:17:39 (RADIO)[sk!T.chub0] Enemy spotted up!
+19-01-22 22:17:40 (TEAM)[sk!T.Rattle] mid
+19-01-22 22:17:42 (TEAM)[sk!T.Rattle] wealk
+19-01-22 22:17:44 (1) sT.- Enigma killed (2) sk!T.chub0 with Barrett M82A1
+19-01-22 22:17:45 [/\] !p
+19-01-22 22:17:45 Pausing...
+19-01-22 22:17:46 [LeprosycL] Come'on!
+19-01-22 22:17:49 (TEAM)[sk!T.Rattle] saquen auto
+19-01-22 22:17:54 (TEAM)[LeprosycL] CALLAO
+19-01-22 22:18:03 (TEAM)[sk!T.Rattle] las 3 flag las hice yo weta te cubri con granas bien
+19-01-22 22:18:11 [kyuubi] today is day to celebrate, how much is counting to this world ends!
+19-01-22 22:18:12 (TEAM)[LeprosycL] ?
+19-01-22 22:18:17 (TEAM)[LeprosycL] DONDE TENI 3 FLAG
+19-01-22 22:18:21 (TEAM)[sk!T.Rattle] las de vo
+19-01-22 22:18:27 [kyuubi] he has a parachute
+19-01-22 22:18:27 (TEAM)[LeprosycL] AJAJJAJAJA
+19-01-22 22:18:27 (TEAM)[sT.- Enigma] ustedes me dan asco
+19-01-22 22:18:36 (TEAM)[sT.- Enigma] solo yo juego
+19-01-22 22:18:36 (TEAM)[sk!T.Rattle] veniai saliendo y te cubri
+19-01-22 22:18:38 [/\] !up
+19-01-22 22:18:39 Unpausing in: 3
+19-01-22 22:18:40 (TEAM)[sk!T.Rattle] :S
+19-01-22 22:18:40 Unpausing in: 2
+19-01-22 22:18:41 Unpausing in: 1
+19-01-22 22:18:42 Go!
+19-01-22 22:18:42 (2) kyuubi killed (1) LeprosycL with Ak-74
+19-01-22 22:18:45 (2) /\ killed (1) sT.- Enigma with Steyr AUG
+19-01-22 22:18:48 sk!T.Rattle captured the Blue Flag
+19-01-22 22:18:49 (2) kyuubi killed (1) sk!T.Rattle with Ak-74
+19-01-22 22:18:49 (TEAM)[sT.- Enigma] ENEMY LOW
+19-01-22 22:18:51 (1) sT.- Enigma killed (2) /\ with Grenade
+19-01-22 22:18:55 (1) sT.- Enigma killed (2) sk!T.chub0 with Ak-74
+19-01-22 22:18:58 (2) /\ killed (1) LeprosycL with Steyr AUG
+19-01-22 22:19:01 (2) kyuubi killed (1) sT.- Enigma with Grenade
+19-01-22 22:19:01 (1) sT.- Enigma killed (2) kyuubi with Ak-74
+19-01-22 22:19:05 (2) sk!T.chub0 killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 22:19:06 (1) LeprosycL killed (2) /\ with Ruger 77
+19-01-22 22:19:08 LeprosycL captured the Blue Flag
+19-01-22 22:19:09 (1) LeprosycL killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:19:10 (2) kyuubi killed (1) LeprosycL with Ak-74
+19-01-22 22:19:14 (2) /\ killed (1) sT.- Enigma with Steyr AUG
+19-01-22 22:19:16 (2) sk!T.chub0 killed (1) sk!T.Rattle with Ruger 77
+19-01-22 22:19:20 Time Left: 2 minutes
+19-01-22 22:19:20 (TEAM)[sk!T.Rattle] loow
+19-01-22 22:19:21 (1) sT.- Enigma killed (2) /\ with Ruger 77
+19-01-22 22:19:23 (1) sT.- Enigma killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:19:25 (RADIO)[sk!T.chub0] Enemy spotted middle!
+19-01-22 22:19:26 (1) sT.- Enigma killed (2) kyuubi with Ruger 77
+19-01-22 22:19:28 (2) /\ killed (1) sT.- Enigma with Steyr AUG
+19-01-22 22:19:30 (2) sk!T.chub0 killed (1) sk!T.Rattle with Ruger 77
+19-01-22 22:19:30 (1) sk!T.Rattle killed (2) sk!T.chub0 with Grenade
+19-01-22 22:19:33 (2) kyuubi killed (1) LeprosycL with Ak-74
+19-01-22 22:19:33 [LeprosycL] Die!
+19-01-22 22:19:37 (2) sk!T.chub0 killed (1) sT.- Enigma with Ruger 77
+19-01-22 22:19:39 (1) sk!T.Rattle killed (2) kyuubi with Ruger 77
+19-01-22 22:19:40 (1) LeprosycL killed (2) sk!T.chub0 with Grenade
+19-01-22 22:19:42 (RADIO)[kyuubi] Enemy spotted up!
+19-01-22 22:19:43 (TEAM)[kyuubi] erak
+19-01-22 22:19:45 (2) kyuubi killed (1) LeprosycL with Grenade
+19-01-22 22:19:45 (2) kyuubi killed (1) sk!T.Rattle with Ak-74
+19-01-22 22:19:50 (TEAM)[sT.- Enigma] ENEMY TOP
+19-01-22 22:19:54 (1) LeprosycL killed (2) kyuubi with Ruger 77
+19-01-22 22:19:55 (2) /\ killed (1) sk!T.Rattle with LAW
+19-01-22 22:19:55 (RADIO)[kyuubi] Enemy spotted up!
+19-01-22 22:19:55 (TEAM)[sk!T.Rattle] loow
+19-01-22 22:19:57 (2) sk!T.chub0 killed (1) sT.- Enigma with Ruger 77
+19-01-22 22:19:57 (2) /\ killed (1) LeprosycL with Grenade
+19-01-22 22:19:59 (TEAM)[sT.- Enigma] ENEMY MID
+19-01-22 22:20:01 (1) sk!T.Rattle killed (2) /\ with Ruger 77
+19-01-22 22:20:05 (1) LeprosycL killed (2) kyuubi with Ruger 77
+19-01-22 22:20:06 (1) sT.- Enigma killed (2) sk!T.chub0 with HK MP5
+19-01-22 22:20:08 (TEAM)[kyuubi] base is hot
+19-01-22 22:20:09 (2) /\ killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 22:20:09 (TEAM)[kyuubi] 3
+19-01-22 22:20:11 (1) LeprosycL killed (2) /\ with Ruger 77
+19-01-22 22:20:11 (2) sk!T.chub0 killed (1) sT.- Enigma with Ruger 77
+19-01-22 22:20:16 (2) kyuubi killed (1) LeprosycL with Ak-74
+19-01-22 22:20:17 (1) sk!T.Rattle killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:20:18 (RADIO)[LeprosycL] Enemy spotted up!
+19-01-22 22:20:18 (RADIO)[LeprosycL] Enemy spotted middle!
+19-01-22 22:20:20 Time Left: 1 minutes
+19-01-22 22:20:23 sk!T.Rattle captured the Blue Flag
+19-01-22 22:20:24 (2) kyuubi killed (1) sk!T.Rattle with Ak-74
+19-01-22 22:20:26 (2) /\ killed (1) sT.- Enigma with Grenade
+19-01-22 22:20:28 (2) /\ killed (1) LeprosycL with Steyr AUG
+19-01-22 22:20:30 (TEAM)[sT.- Enigma] ENEMY IN BASE
+19-01-22 22:20:31 (1) sk!T.Rattle killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:20:36 (2) kyuubi killed (1) sk!T.Rattle with Ak-74
+19-01-22 22:20:37 (1) LeprosycL killed (2) kyuubi with Ruger 77
+19-01-22 22:20:41 (2) /\ killed (1) sT.- Enigma with Steyr AUG
+19-01-22 22:20:42 (1) LeprosycL killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:20:42 (1) sk!T.Rattle killed (2) /\ with Ruger 77
+19-01-22 22:20:43 (1) LeprosycL killed (2) kyuubi with Ruger 77
+19-01-22 22:20:44 LeprosycL captured the Blue Flag
+19-01-22 22:20:47 (RADIO)[kyuubi] Enemy flagger middle!
+19-01-22 22:20:49 (2) /\ killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 22:20:54 LeprosycL scores for Alpha Team
+19-01-22 22:20:57 (2) /\ killed (1) LeprosycL with Steyr AUG
+19-01-22 22:20:58 /\ captured the Red Flag
+19-01-22 22:20:59 (2) /\ killed (1) sk!T.Rattle with LAW
+19-01-22 22:21:00 (1) sT.- Enigma killed (2) kyuubi with Barrett M82A1
+19-01-22 22:21:01 (TEAM)[LeprosycL] pega 1
+19-01-22 22:21:01 (RADIO)[kyuubi] Enemy spotted down!
+19-01-22 22:21:02 (RADIO)[kyuubi] Friendly flagger down!
+19-01-22 22:21:02 (2) sk!T.chub0 killed (1) LeprosycL with Grenade
+19-01-22 22:21:03 (2) /\ killed (1) sT.- Enigma with Steyr AUG
+19-01-22 22:21:04 (RADIO)[sT.- Enigma] Enemy flagger down!
+19-01-22 22:21:07 /\ scores for Bravo Team
+19-01-22 22:21:09 (1) sT.- Enigma killed (2) sk!T.chub0 with HK MP5
+19-01-22 22:21:12 (2) /\ killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 22:21:16 sT.- Enigma captured the Blue Flag
+19-01-22 22:21:16 (1) LeprosycL killed (2) /\ with Ruger 77
+19-01-22 22:21:20 Next map: Lobby
+19-01-22 22:21:25 Lothic - Gothic Lobby Room
+19-01-22 22:21:31 [kyuubi] and i dont hack mothafucka!
+19-01-22 22:21:32 [sk!T.Rattle] !ginfo
+19-01-22 22:21:32 /say Captains.SA (elapsed time 0:27:19) (206.81.24.116)
+19-01-22 22:21:32 /say Players: LeprosycL - /\ - k1u - Rattle (206.81.24.116)
+19-01-22 22:21:32 /say Alpha: Enigma (206.81.24.116)
+19-01-22 22:21:32 /say Bravo: chub0 (206.81.24.116)
+19-01-22 22:21:32 /say First pick: Bravo (206.81.24.116)
+19-01-22 22:21:32 /say Tiebreaker: ctf_Blade (206.81.24.116)
+19-01-22 22:21:33 [sk!T.chub0] !tb
+19-01-22 22:21:33 /map ctf_Blade (206.81.24.116)
+19-01-22 22:21:36 [LeprosycL] No!
+19-01-22 22:21:36 [/\] we know that kiu
+19-01-22 22:21:39 Blade by Zakath
+19-01-22 22:21:40 [kyuubi] ty :D
+19-01-22 22:21:45 (2) /\ killed (1) sk!T.Rattle with Grenade
+19-01-22 22:21:46 (1) sk!T.Rattle killed (2) /\ with Grenade
+19-01-22 22:21:46 (1) LeprosycL killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:21:48 (2) kyuubi killed (1) LeprosycL with LAW
+19-01-22 22:21:49 [LeprosycL] Yes, Sir!
+19-01-22 22:21:50 (1) sT.- Enigma killed (2) kyuubi with Grenade
+19-01-22 22:21:50 (2) kyuubi killed (1) sT.- Enigma with Grenade
+19-01-22 22:21:52 (RADIO)[kyuubi] Enemy spotted middle!
+19-01-22 22:21:55 (1) sk!T.Rattle killed (2) /\ with Grenade
+19-01-22 22:21:59 (RADIO)[LeprosycL] Enemy spotted down!
+19-01-22 22:22:00 (2) kyuubi killed (1) sk!T.Rattle with Ak-74
+19-01-22 22:22:05 (2) sk!T.chub0 killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 22:22:05 (1) LeprosycL killed (2) sk!T.chub0 with Grenade
+19-01-22 22:22:07 (2) /\ killed (1) sT.- Enigma with Grenade
+19-01-22 22:22:08 (TEAM)[sT.- Enigma] ENEMY MID
+19-01-22 22:22:09 (TEAM)[sT.- Enigma] Flag lost!
+19-01-22 22:22:12 (1) LeprosycL killed (2) sk!T.chub0 with Grenade
+19-01-22 22:22:13 kyuubi captured the Red Flag
+19-01-22 22:22:15 (1) sT.- Enigma killed (2) kyuubi with HK MP5
+19-01-22 22:22:16 (1) sT.- Enigma killed (2) /\ with HK MP5
+19-01-22 22:22:17 (2) sk!T.chub0 killed (1) LeprosycL with Combat Knife
+19-01-22 22:22:17 [LeprosycL] No!
+19-01-22 22:22:18 sT.- Enigma returned the Red Flag
+19-01-22 22:22:20 (TEAM)[/\] throw it before
+19-01-22 22:22:23 (2) /\ killed (1) sT.- Enigma with Steyr AUG
+19-01-22 22:22:25 (2) kyuubi killed (1) sk!T.Rattle with LAW
+19-01-22 22:22:32 (2) /\ killed (1) sT.- Enigma with Grenade
+19-01-22 22:22:34 (1) LeprosycL killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:22:36 (1) sk!T.Rattle killed (2) /\ with Ruger 77
+19-01-22 22:22:40 (RADIO)[kyuubi] Enemy spotted middle!
+19-01-22 22:22:41 (TEAM)[kyuubi] ok
+19-01-22 22:22:44 (2) /\ killed (1) sk!T.Rattle with Grenade
+19-01-22 22:22:48 (2) /\ killed (1) sT.- Enigma with Steyr AUG
+19-01-22 22:22:48 (1) LeprosycL killed (2) kyuubi with Ruger 77
+19-01-22 22:22:48 (TEAM)[sT.- Enigma] ENEMY IN BASE
+19-01-22 22:22:49 LeprosycL captured the Blue Flag
+19-01-22 22:22:51 (TEAM)[kyuubi] shit
+19-01-22 22:22:52 /\ captured the Red Flag
+19-01-22 22:22:53 (2) /\ killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 22:22:53 (1) sT.- Enigma killed (2) /\ with HK MP5
+19-01-22 22:22:54 (1) LeprosycL killed (2) kyuubi with Ruger 77
+19-01-22 22:22:55 (RADIO)[/\] Enemy spotted middle!
+19-01-22 22:22:55 (RADIO)[/\] Enemy spotted middle!
+19-01-22 22:22:56 sT.- Enigma captured the Blue Flag
+19-01-22 22:22:56 (RADIO)[/\] Enemy spotted middle!
+19-01-22 22:22:56 (TEAM)[kyuubi] baaase
+19-01-22 22:22:58 sT.- Enigma scores for Alpha Team
+19-01-22 22:23:01 (2) /\ killed (1) LeprosycL with Steyr AUG
+19-01-22 22:23:01 (RADIO)[LeprosycL] Enemy spotted middle!
+19-01-22 22:23:02 sk!T.chub0 captured the Red Flag
+19-01-22 22:23:04 (1) sT.- Enigma killed (2) sk!T.chub0 with HK MP5
+19-01-22 22:23:06 (1) sT.- Enigma killed (2) /\ with Grenade
+19-01-22 22:23:08 (TEAM)[/\] kiu
+19-01-22 22:23:09 (1) LeprosycL killed (2) kyuubi with Ruger 77
+19-01-22 22:23:10 sk!T.Rattle captured the Blue Flag
+19-01-22 22:23:10 (TEAM)[/\] put 
+19-01-22 22:23:11 (RADIO)[sT.- Enigma] Enemy flagger down!
+19-01-22 22:23:11 (2) /\ killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 22:23:14 sT.- Enigma captured the Blue Flag
+19-01-22 22:23:16 (RADIO)[LeprosycL] Enemy spotted middle!
+19-01-22 22:23:20 (2) sk!T.chub0 killed (1) LeprosycL with Combat Knife
+19-01-22 22:23:20 (1) LeprosycL killed (2) sk!T.chub0 with Grenade
+19-01-22 22:23:21 (1) sT.- Enigma killed (2) kyuubi with Grenade
+19-01-22 22:23:21 sk!T.Rattle returned the Red Flag
+19-01-22 22:23:24 (TEAM)[kyuubi] put what?
+19-01-22 22:23:26 (1) sT.- Enigma killed (2) /\ with Combat Knife
+19-01-22 22:23:28 sT.- Enigma scores for Alpha Team
+19-01-22 22:23:29 (1) sk!T.Rattle killed (2) kyuubi with Ruger 77
+19-01-22 22:23:29 (TEAM)[/\] glasses
+19-01-22 22:23:32 (2) /\ killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 22:23:33 (2) sk!T.chub0 killed (1) sT.- Enigma with Barrett M82A1
+19-01-22 22:23:34 LeprosycL captured the Blue Flag
+19-01-22 22:23:35 (2) kyuubi killed (1) LeprosycL with Ak-74
+19-01-22 22:23:35 (TEAM)[sT.- Enigma] ENEMY LOW
+19-01-22 22:23:37 [LeprosycL] puta ql
+19-01-22 22:23:37 [/\] RETURN THE FLAG BEBE!
+19-01-22 22:23:38 (1) sT.- Enigma killed (2) sk!T.chub0 with Combat Knife
+19-01-22 22:23:38 [LeprosycL] chuiter
+19-01-22 22:23:38 kyuubi returned the Blue Flag
+19-01-22 22:23:40 (1) sk!T.Rattle killed (2) /\ with Ruger 77
+19-01-22 22:23:42 [/\] vo no morsite
+19-01-22 22:23:43 [/\] mojon
+19-01-22 22:23:45 (1) sk!T.Rattle killed (2) kyuubi with Ruger 77
+19-01-22 22:23:48 sk!T.Rattle captured the Blue Flag
+19-01-22 22:23:49 (2) /\ killed (1) sk!T.Rattle with Grenade
+19-01-22 22:23:49 sT.- Enigma captured the Blue Flag
+19-01-22 22:23:49 (1) sT.- Enigma killed (2) /\ with HK MP5
+19-01-22 22:23:49 (2) sk!T.chub0 killed (1) LeprosycL with Combat Knife
+19-01-22 22:23:49 [kyuubi] go screw yourself
+19-01-22 22:23:51 (RADIO)[LeprosycL] Enemy spotted down!
+19-01-22 22:23:52 (2) kyuubi killed (1) sT.- Enigma with Ak-74
+19-01-22 22:23:53 (RADIO)[LeprosycL] Enemy spotted down!
+19-01-22 22:23:54 (RADIO)[LeprosycL] Enemy spotted down!
+19-01-22 22:23:54 sk!T.Rattle captured the Blue Flag
+19-01-22 22:23:56 (1) LeprosycL killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:23:57 (1) sk!T.Rattle killed (2) kyuubi with Ruger 77
+19-01-22 22:23:59 (RADIO)[kyuubi] Friendly flagger middle!
+19-01-22 22:24:00 LeprosycL returned the Red Flag
+19-01-22 22:24:00 (RADIO)[kyuubi] Enemy flagger down!
+19-01-22 22:24:01 (2) /\ killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 22:24:03 (1) LeprosycL killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:24:03 [/\] DiEeeEeee ;d!
+19-01-22 22:24:04 (RADIO)[sk!T.chub0] Enemy spotted down!
+19-01-22 22:24:04 (1) sT.- Enigma killed (2) /\ with HK MP5
+19-01-22 22:24:04 sT.- Enigma captured the Blue Flag
+19-01-22 22:24:08 (1) LeprosycL killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:24:08 sT.- Enigma scores for Alpha Team
+19-01-22 22:24:11 (2) kyuubi killed (1) sT.- Enigma with LAW
+19-01-22 22:24:11 (1) sT.- Enigma killed (2) kyuubi with HK MP5
+19-01-22 22:24:12 (2) /\ killed (1) LeprosycL with Steyr AUG
+19-01-22 22:24:13 (RADIO)[kyuubi] Enemy spotted middle!
+19-01-22 22:24:19 (2) kyuubi killed (1) sk!T.Rattle with Ak-74
+19-01-22 22:24:20 (1) sT.- Enigma killed (2) /\ with HK MP5
+19-01-22 22:24:20 (TEAM)[sk!T.Rattle] mid
+19-01-22 22:24:24 (2) kyuubi killed (1) sT.- Enigma with Ak-74
+19-01-22 22:24:24 (TEAM)[sT.- Enigma] ENEMY LOW
+19-01-22 22:24:25 (1) sk!T.Rattle killed (2) kyuubi with Ruger 77
+19-01-22 22:24:25 (TEAM)[sT.- Enigma] ENEMY MID
+19-01-22 22:24:27 (RADIO)[kyuubi] Enemy spotted middle!
+19-01-22 22:24:31 (2) /\ killed (1) sk!T.Rattle with Grenade
+19-01-22 22:24:32 (1) LeprosycL killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:24:35 (1) sT.- Enigma killed (2) /\ with HK MP5
+19-01-22 22:24:36 (2) kyuubi killed (1) LeprosycL with Grenade
+19-01-22 22:24:37 [LeprosycL] No!
+19-01-22 22:24:38 (RADIO)[LeprosycL] Enemy spotted middle!
+19-01-22 22:24:38 (2) kyuubi killed (1) sk!T.Rattle with LAW
+19-01-22 22:24:39 (2) sk!T.chub0 killed (1) sT.- Enigma with Spas-12
+19-01-22 22:24:40 (TEAM)[sk!T.Rattle] Base 1
+19-01-22 22:24:41 kyuubi captured the Red Flag
+19-01-22 22:24:43 /\ returned the Blue Flag
+19-01-22 22:24:44 (TEAM)[kyuubi] cao
+19-01-22 22:24:45 (2) sk!T.chub0 killed (1) LeprosycL with Grenade
+19-01-22 22:24:46 /\ captured the Red Flag
+19-01-22 22:24:46 (1) sT.- Enigma killed (2) kyuubi with HK MP5
+19-01-22 22:24:46 /\ scores for Bravo Team
+19-01-22 22:24:46 (RADIO)[LeprosycL] Enemy spotted down!
+19-01-22 22:24:48 (RADIO)[LeprosycL] Enemy spotted down!
+19-01-22 22:24:50 (1) LeprosycL killed (2) sk!T.chub0 with Grenade
+19-01-22 22:24:51 (1) sk!T.Rattle killed (2) /\ with Ruger 77
+19-01-22 22:24:52 (RADIO)[/\] Enemy spotted middle!
+19-01-22 22:24:54 sk!T.Rattle captured the Blue Flag
+19-01-22 22:24:55 (2) kyuubi killed (1) sk!T.Rattle with Ak-74
+19-01-22 22:24:57 (RADIO)[kyuubi] Friendly flagger down!
+19-01-22 22:24:58 (TEAM)[sk!T.Rattle] akoppo
+19-01-22 22:24:58 LeprosycL captured the Blue Flag
+19-01-22 22:24:58 (RADIO)[sT.- Enigma] Enemy flagger down!
+19-01-22 22:25:04 (1) sk!T.Rattle killed (2) kyuubi with Ruger 77
+19-01-22 22:25:04 (1) sT.- Enigma killed (2) /\ with HK MP5
+19-01-22 22:25:06 LeprosycL scores for Alpha Team
+19-01-22 22:25:12 (2) kyuubi killed (1) sT.- Enigma with Ak-74
+19-01-22 22:25:13 (2) sk!T.chub0 killed (1) LeprosycL with Spas-12
+19-01-22 22:25:13 (2) /\ killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 22:25:14 (RADIO)[LeprosycL] Enemy spotted up!
+19-01-22 22:25:16 (TEAM)[sk!T.Rattle] loow
+19-01-22 22:25:16 (TEAM)[sk!T.Rattle] mid
+19-01-22 22:25:17 (1) LeprosycL killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:25:19 (2) kyuubi killed (1) LeprosycL with Ak-74
+19-01-22 22:25:20 (1) sT.- Enigma killed (2) kyuubi with HK MP5
+19-01-22 22:25:23 (RADIO)[kyuubi] Enemy spotted middle!
+19-01-22 22:25:25 (2) /\ killed (1) sk!T.Rattle with HK MP5
+19-01-22 22:25:26 (1) LeprosycL killed (2) /\ with Grenade
+19-01-22 22:25:27 (2) kyuubi killed (1) sT.- Enigma with Grenade
+19-01-22 22:25:29 [/\] los qlaos vacas
+19-01-22 22:25:30 [/\] sakjdakw
+19-01-22 22:25:32 (1) LeprosycL killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:25:33 (2) kyuubi killed (1) sk!T.Rattle with LAW
+19-01-22 22:25:34 (TEAM)[sk!T.Rattle] mid
+19-01-22 22:25:37 (2) /\ killed (1) sT.- Enigma with Grenade
+19-01-22 22:25:37 (1) sT.- Enigma killed (2) /\ with Grenade
+19-01-22 22:25:39 (1) sk!T.Rattle killed (2) kyuubi with Ruger 77
+19-01-22 22:25:42 (1) LeprosycL killed (2) sk!T.chub0 with Grenade
+19-01-22 22:25:45 (1) LeprosycL killed (2) /\ with Grenade
+19-01-22 22:25:49 (2) kyuubi killed (1) sk!T.Rattle with Ak-74
+19-01-22 22:25:51 (TEAM)[sk!T.Rattle] mid
+19-01-22 22:25:51 (2) /\ killed (1) LeprosycL with Grenade
+19-01-22 22:25:52 [LeprosycL] Die!
+19-01-22 22:25:53 (2) sk!T.chub0 killed (1) sT.- Enigma with Combat Knife
+19-01-22 22:25:57 (1) sk!T.Rattle killed (2) kyuubi with Grenade
+19-01-22 22:25:58 (2) sk!T.chub0 killed (1) sk!T.Rattle with Ruger 77
+19-01-22 22:25:59 [/\] DiEeeEeee ;d!
+19-01-22 22:26:00 (1) sT.- Enigma killed (2) sk!T.chub0 with Spas-12
+19-01-22 22:26:03 (2) /\ killed (1) LeprosycL with Steyr AUG
+19-01-22 22:26:05 (2) /\ killed (1) sk!T.Rattle with Combat Knife
+19-01-22 22:26:07 /\ captured the Red Flag
+19-01-22 22:26:08 (1) LeprosycL killed (2) /\ with Ruger 77
+19-01-22 22:26:08 (2) kyuubi killed (1) sT.- Enigma with Grenade
+19-01-22 22:26:10 [/\] waton ql
+19-01-22 22:26:11 (2) sk!T.chub0 killed (1) sk!T.Rattle with M79
+19-01-22 22:26:11 [/\] muerete luego
+19-01-22 22:26:15 (1) sT.- Enigma killed (2) sk!T.chub0 with Desert Eagles
+19-01-22 22:26:15 LeprosycL returned the Red Flag
+19-01-22 22:26:16 (1) LeprosycL killed (2) kyuubi with Ruger 77
+19-01-22 22:26:17 (RADIO)[LeprosycL] Enemy spotted down!
+19-01-22 22:26:18 (RADIO)[kyuubi] Enemy spotted middle!
+19-01-22 22:26:19 (2) /\ killed (1) sT.- Enigma with Grenade
+19-01-22 22:26:19 (TEAM)[sT.- Enigma] ENEMY MID
+19-01-22 22:26:22 (2) /\ killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 22:26:24 (RADIO)[sk!T.chub0] Enemy spotted down!
+19-01-22 22:26:27 (2) sk!T.chub0 killed (1) LeprosycL with Steyr AUG
+19-01-22 22:26:28 (RADIO)[LeprosycL] Enemy spotted middle!
+19-01-22 22:26:29 (1) LeprosycL killed (2) kyuubi with Grenade
+19-01-22 22:26:29 (1) sT.- Enigma killed (2) /\ with Desert Eagles
+19-01-22 22:26:30 (1) sk!T.Rattle killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:26:39 Time Left: 5 minutes
+19-01-22 22:26:39 (RADIO)[/\] Enemy flagger down!
+19-01-22 22:26:39 (2) kyuubi killed (1) sk!T.Rattle with Ak-74
+19-01-22 22:26:40 (1) LeprosycL killed (2) kyuubi with Ruger 77
+19-01-22 22:26:41 (2) sk!T.chub0 killed (1) LeprosycL with M79
+19-01-22 22:26:42 sT.- Enigma captured the Blue Flag
+19-01-22 22:26:43 (RADIO)[LeprosycL] Enemy spotted middle!
+19-01-22 22:26:45 (RADIO)[LeprosycL] Enemy spotted down!
+19-01-22 22:26:47 (1) LeprosycL killed (2) /\ with Combat Knife
+19-01-22 22:26:48 (2) kyuubi killed (1) sT.- Enigma with Ak-74
+19-01-22 22:26:49 LeprosycL captured the Blue Flag
+19-01-22 22:26:49 LeprosycL scores for Alpha Team
+19-01-22 22:26:49 (1) LeprosycL killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:26:53 [LeprosycL] LACRA
+19-01-22 22:26:57 (2) kyuubi killed (1) sk!T.Rattle with Ak-74
+19-01-22 22:26:58 (TEAM)[sk!T.Rattle] mid
+19-01-22 22:26:59 (2) /\ killed (1) LeprosycL with Steyr AUG
+19-01-22 22:26:59 (1) LeprosycL killed (2) /\ with Ruger 77
+19-01-22 22:27:03 (1) sk!T.Rattle killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:27:04 (1) sk!T.Rattle killed (2) kyuubi with Ruger 77
+19-01-22 22:27:04 (2) kyuubi killed (1) sk!T.Rattle with Grenade
+19-01-22 22:27:05 [sT.- Enigma] YEAH!
+19-01-22 22:27:10 (2) /\ killed (1) LeprosycL with Steyr AUG
+19-01-22 22:27:10 (2) sk!T.chub0 killed (1) sT.- Enigma with Ruger 77
+19-01-22 22:27:11 kyuubi returned the Blue Flag
+19-01-22 22:27:15 (2) kyuubi killed (1) sk!T.Rattle with Ak-74
+19-01-22 22:27:16 (2) /\ killed (1) LeprosycL with Steyr AUG
+19-01-22 22:27:18 kyuubi captured the Red Flag
+19-01-22 22:27:18 (1) sT.- Enigma killed (2) kyuubi with Grenade
+19-01-22 22:27:19 (2) sk!T.chub0 killed (1) sT.- Enigma with Ruger 77
+19-01-22 22:27:20 (1) sk!T.Rattle killed (2) /\ with Ruger 77
+19-01-22 22:27:20 (RADIO)[sT.- Enigma] Enemy flagger down!
+19-01-22 22:27:22 sk!T.chub0 captured the Red Flag
+19-01-22 22:27:22 [/\] xd
+19-01-22 22:27:24 (1) sk!T.Rattle killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:27:27 kyuubi captured the Red Flag
+19-01-22 22:27:28 (2) /\ killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 22:27:30 (1) sT.- Enigma killed (2) kyuubi with Desert Eagles
+19-01-22 22:27:31 (1) LeprosycL killed (2) /\ with Ruger 77
+19-01-22 22:27:32 [sT.- Enigma] YEAH!
+19-01-22 22:27:33 (2) sk!T.chub0 killed (1) LeprosycL with Ruger 77
+19-01-22 22:27:33 [LeprosycL] No!
+19-01-22 22:27:34 (TEAM)[kyuubi] lol
+19-01-22 22:27:35 sk!T.chub0 captured the Red Flag
+19-01-22 22:27:35 (1) sT.- Enigma killed (2) sk!T.chub0 with Desert Eagles
+19-01-22 22:27:37 (2) kyuubi killed (1) sT.- Enigma with LAW
+19-01-22 22:27:39 kyuubi captured the Red Flag
+19-01-22 22:27:39 Time Left: 4 minutes
+19-01-22 22:27:41 kyuubi scores for Bravo Team
+19-01-22 22:27:43 (1) sk!T.Rattle killed (2) kyuubi with Ruger 77
+19-01-22 22:27:44 (RADIO)[LeprosycL] Enemy spotted down!
+19-01-22 22:27:44 (2) sk!T.chub0 killed (1) sk!T.Rattle with Ak-74
+19-01-22 22:27:47 (TEAM)[sk!T.Rattle] ajo souelta
+19-01-22 22:27:50 /\ captured the Red Flag
+19-01-22 22:27:51 (1) sT.- Enigma killed (2) /\ with Grenade
+19-01-22 22:27:54 (RADIO)[/\] Friendly flagger down!
+19-01-22 22:27:54 (RADIO)[/\] Friendly flagger down!
+19-01-22 22:27:54 sk!T.Rattle captured the Blue Flag
+19-01-22 22:27:56 (2) sk!T.chub0 killed (1) LeprosycL with Steyr AUG
+19-01-22 22:27:57 (RADIO)[/\] Enemy spotted middle!
+19-01-22 22:27:58 (1) sT.- Enigma killed (2) kyuubi with Desert Eagles
+19-01-22 22:27:58 (RADIO)[LeprosycL] Enemy spotted down!
+19-01-22 22:28:01 sk!T.Rattle returned the Red Flag
+19-01-22 22:28:03 (2) /\ killed (1) sT.- Enigma with Steyr AUG
+19-01-22 22:28:03 (TEAM)[sT.- Enigma] ENEMY MID
+19-01-22 22:28:04 (TEAM)[sT.- Enigma] Flag lost!
+19-01-22 22:28:06 (1) sk!T.Rattle killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:28:07 sk!T.Rattle scores for Alpha Team
+19-01-22 22:28:10 (2) kyuubi killed (1) sk!T.Rattle with LAW
+19-01-22 22:28:12 (TEAM)[sk!T.Rattle] mid
+19-01-22 22:28:15 (1) sk!T.Rattle killed (2) kyuubi with Spas-12
+19-01-22 22:28:15 (TEAM)[sT.- Enigma] ENEMY LOW
+19-01-22 22:28:17 (2) /\ killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 22:28:18 (2) sk!T.chub0 killed (1) sT.- Enigma with Barrett M82A1
+19-01-22 22:28:19 /\ captured the Red Flag
+19-01-22 22:28:22 (1) LeprosycL killed (2) kyuubi with Ruger 77
+19-01-22 22:28:24 (RADIO)[LeprosycL] Friendly flagger down!
+19-01-22 22:28:25 (1) sk!T.Rattle killed (2) /\ with Ruger 77
+19-01-22 22:28:25 (2) sk!T.chub0 killed (1) sT.- Enigma with Combat Knife
+19-01-22 22:28:26 LeprosycL returned the Red Flag
+19-01-22 22:28:26 sk!T.chub0 captured the Red Flag
+19-01-22 22:28:27 (TEAM)[sT.- Enigma] ENEMY IN BASE
+19-01-22 22:28:29 (2) kyuubi killed (1) LeprosycL with Ak-74
+19-01-22 22:28:29 (2) sk!T.chub0 killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 22:28:29 (1) LeprosycL killed (2) kyuubi with Ruger 77
+19-01-22 22:28:29 (RADIO)[sT.- Enigma] Enemy flagger up!
+19-01-22 22:28:33 (1) sT.- Enigma killed (2) sk!T.chub0 with Grenade
+19-01-22 22:28:35 /\ captured the Red Flag
+19-01-22 22:28:39 LeprosycL captured the Blue Flag
+19-01-22 22:28:39 Time Left: 3 minutes
+19-01-22 22:28:43 (1) LeprosycL killed (2) kyuubi with Grenade
+19-01-22 22:28:45 (RADIO)[kyuubi] Enemy flagger down!
+19-01-22 22:28:46 (2) sk!T.chub0 killed (1) LeprosycL with Barrett M82A1
+19-01-22 22:28:47 (RADIO)[kyuubi] Enemy flagger down!
+19-01-22 22:28:47 [LeprosycL] Die!
+19-01-22 22:28:48 (1) sk!T.Rattle killed (2) /\ with Ruger 77
+19-01-22 22:28:49 sk!T.chub0 returned the Blue Flag
+19-01-22 22:28:50 sk!T.Rattle captured the Blue Flag
+19-01-22 22:28:51 sk!T.chub0 captured the Red Flag
+19-01-22 22:28:51 (2) kyuubi killed (1) sT.- Enigma with Ak-74
+19-01-22 22:28:51 (RADIO)[LeprosycL] Enemy spotted down!
+19-01-22 22:28:55 (2) /\ killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 22:28:58 LeprosycL captured the Blue Flag
+19-01-22 22:29:00 (TEAM)[sT.- Enigma] ENEMY LOW
+19-01-22 22:29:01 (2) kyuubi killed (1) LeprosycL with Ak-74
+19-01-22 22:29:02 [LeprosycL] No!
+19-01-22 22:29:02 (RADIO)[LeprosycL] Enemy spotted up!
+19-01-22 22:29:06 (2) /\ killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 22:29:07 kyuubi returned the Blue Flag
+19-01-22 22:29:07 sT.- Enigma returned the Red Flag
+19-01-22 22:29:08 (2) sk!T.chub0 killed (1) LeprosycL with Barrett M82A1
+19-01-22 22:29:08 (1) LeprosycL killed (2) sk!T.chub0 with Grenade
+19-01-22 22:29:08 kyuubi captured the Red Flag
+19-01-22 22:29:08 sT.- Enigma captured the Blue Flag
+19-01-22 22:29:09 (RADIO)[LeprosycL] Friendly flagger up!
+19-01-22 22:29:12 (1) sT.- Enigma killed (2) kyuubi with Barrett M82A1
+19-01-22 22:29:13 (2) /\ killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 22:29:14 (1) LeprosycL killed (2) /\ with Ruger 77
+19-01-22 22:29:15 (2) sk!T.chub0 killed (1) sT.- Enigma with Hands
+19-01-22 22:29:17 (RADIO)[sT.- Enigma] Enemy flagger down!
+19-01-22 22:29:20 LeprosycL returned the Red Flag
+19-01-22 22:29:22 kyuubi returned the Blue Flag
+19-01-22 22:29:22 (2) kyuubi killed (1) sk!T.Rattle with Grenade
+19-01-22 22:29:23 (1) sT.- Enigma killed (2) sk!T.chub0 with Grenade
+19-01-22 22:29:23 [sk!T.Rattle] Touch3
+19-01-22 22:29:24 (TEAM)[sk!T.Rattle] loow
+19-01-22 22:29:27 (2) /\ killed (1) LeprosycL with Steyr AUG
+19-01-22 22:29:28 [LeprosycL] Die!
+19-01-22 22:29:29 [/\] p'?
+19-01-22 22:29:32 kyuubi captured the Red Flag
+19-01-22 22:29:35 (2) /\ killed (1) sT.- Enigma with Grenade
+19-01-22 22:29:36 (1) LeprosycL killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:29:36 (1) sk!T.Rattle killed (2) /\ with Grenade
+19-01-22 22:29:37 (RADIO)[sk!T.chub0] Enemy spotted down!
+19-01-22 22:29:39 Time Left: 2 minutes
+19-01-22 22:29:40 sk!T.Rattle captured the Blue Flag
+19-01-22 22:29:40 (1) LeprosycL killed (2) kyuubi with Ruger 77
+19-01-22 22:29:41 (2) /\ killed (1) sk!T.Rattle with Grenade
+19-01-22 22:29:41 (1) LeprosycL killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:29:41 (2) sk!T.chub0 killed (1) LeprosycL with Steyr AUG
+19-01-22 22:29:42 sT.- Enigma captured the Blue Flag
+19-01-22 22:29:42 [LeprosycL] Return the flag!
+19-01-22 22:29:43 /\ captured the Red Flag
+19-01-22 22:29:46 kyuubi captured the Red Flag
+19-01-22 22:29:50 (1) sk!T.Rattle killed (2) /\ with Ruger 77
+19-01-22 22:29:51 (1) LeprosycL killed (2) sk!T.chub0 with Grenade
+19-01-22 22:29:53 [/\] nice grenade kiuu
+19-01-22 22:29:54 (RADIO)[sk!T.chub0] Enemy spotted down!
+19-01-22 22:29:57 /\ captured the Red Flag
+19-01-22 22:29:57 (1) LeprosycL killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:29:58 (1) LeprosycL killed (2) kyuubi with Grenade
+19-01-22 22:29:59 [sk!T.chub0] t!p
+19-01-22 22:30:00 [sk!T.chub0] !p
+19-01-22 22:30:00 Pausing...
+19-01-22 22:30:01 [LeprosycL] Return the flag!
+19-01-22 22:30:01 [LeprosycL] Come'on!
+19-01-22 22:30:04 [sk!T.Rattle] gg
+19-01-22 22:30:06 (TEAM)[kyuubi] im playing good
+19-01-22 22:30:07 [LeprosycL] ISI
+19-01-22 22:30:08 [sk!T.Rattle] wp
+19-01-22 22:30:09 [sk!T.Rattle] easy
+19-01-22 22:30:11 [sk!T.Rattle] con ratle
+19-01-22 22:30:17 [LeprosycL] CON EL BOT
+19-01-22 22:30:20 [sk!T.Rattle] cha
+19-01-22 22:30:22 [sk!T.Rattle] el bot es mejor
+19-01-22 22:30:22 [/\] tengo al bot kiu
+19-01-22 22:30:30 [/\] xD+
+19-01-22 22:30:31 [sk!T.Rattle] ya rindanse
+19-01-22 22:30:46 (TEAM)[sk!T.Rattle] enigma matalo
+19-01-22 22:30:49 (TEAM)[sk!T.Rattle] podi
+19-01-22 22:30:53 (TEAM)[sT.- Enigma] dispare ya
+19-01-22 22:31:00 (TEAM)[sk!T.Rattle] perdimos
+19-01-22 22:31:06 (TEAM)[sT.- Enigma] xD
+19-01-22 22:31:13 [LeprosycL] Come'on!
+19-01-22 22:31:41 [kyuubi] do we need to wait this much?
+19-01-22 22:31:47 [sk!T.Rattle] suffer
+19-01-22 22:31:51 [LeprosycL] chubo ql
+19-01-22 22:31:53 [sk!T.Rattle] existence is pain
+19-01-22 22:32:31 [LeprosycL] q wea el chubo
+19-01-22 22:32:35 [sk!T.Rattle] tara bien
+19-01-22 22:32:37 [LeprosycL] se lo culeo el tio
+19-01-22 22:32:37 [sk!T.Rattle] tara bien
+19-01-22 22:32:41 [kyuubi] chuuuuuuumbo you nooob
+19-01-22 22:32:42 [sk!T.Rattle] sha
+19-01-22 22:32:43 [kyuubi] come baack
+19-01-22 22:32:52 [sk!T.chub0] yaa
+19-01-22 22:32:54 [sk!T.Rattle] gogo
+19-01-22 22:32:54 [sk!T.chub0] go?
+19-01-22 22:32:55 [kyuubi] thank god
+19-01-22 22:32:58 [sk!T.Rattle] !up
+19-01-22 22:32:58 [sk!T.chub0] !up
+19-01-22 22:32:58 Unpausing in: 3
+19-01-22 22:32:58 [kyuubi] !up
+19-01-22 22:32:59 Unpausing in: 3
+19-01-22 22:33:00 Unpausing in: 2
+19-01-22 22:33:01 Unpausing in: 1
+19-01-22 22:33:02 Go!
+19-01-22 22:33:05 (1) LeprosycL killed (2) sk!T.chub0 with Grenade
+19-01-22 22:33:07 (2) /\ killed (1) sk!T.Rattle with Steyr AUG
+19-01-22 22:33:08 (2) kyuubi killed (1) LeprosycL with HK MP5
+19-01-22 22:33:09 [LeprosycL] Die!
+19-01-22 22:33:11 (TEAM)[sT.- Enigma] ENEMY MID
+19-01-22 22:33:12 sk!T.chub0 captured the Red Flag
+19-01-22 22:33:13 (1) sk!T.Rattle killed (2) /\ with Ruger 77
+19-01-22 22:33:16 (1) sT.- Enigma killed (2) kyuubi with Barrett M82A1
+19-01-22 22:33:19 (RADIO)[kyuubi] Enemy spotted down!
+19-01-22 22:33:20 /\ captured the Red Flag
+19-01-22 22:33:23 (1) LeprosycL killed (2) /\ with Grenade
+19-01-22 22:33:25 kyuubi captured the Red Flag
+19-01-22 22:33:26 (2) sk!T.chub0 killed (1) sT.- Enigma with Steyr AUG
+19-01-22 22:33:27 (2) kyuubi killed (1) sk!T.Rattle with Ak-74
+19-01-22 22:33:31 sT.- Enigma captured the Blue Flag
+19-01-22 22:33:34 (2) /\ killed (1) LeprosycL with Grenade
+19-01-22 22:33:35 (1) sT.- Enigma killed (2) sk!T.chub0 with Barrett M82A1
+19-01-22 22:33:35 [LeprosycL] Die!
+19-01-22 22:33:40 Time Left: 1 minutes
+19-01-22 22:33:41 (1) sT.- Enigma killed (2) sk!T.chub0 with Barrett M82A1
+19-01-22 22:33:41 (1) LeprosycL killed (2) /\ with Combat Knife
+19-01-22 22:33:49 (2) sk!T.chub0 killed (1) sk!T.Rattle with Grenade
+19-01-22 22:33:50 (2) kyuubi killed (1) LeprosycL with Ak-74
+19-01-22 22:33:52 (TEAM)[sk!T.Rattle] mid
+19-01-22 22:33:53 (RADIO)[LeprosycL] Enemy spotted down!
+19-01-22 22:33:53 (1) sT.- Enigma killed (2) sk!T.chub0 with Barrett M82A1
+19-01-22 22:33:55 (2) /\ killed (1) sT.- Enigma with Steyr AUG
+19-01-22 22:33:55 (1) LeprosycL killed (2) /\ with Combat Knife
+19-01-22 22:33:56 kyuubi captured the Red Flag
+19-01-22 22:33:57 LeprosycL captured the Blue Flag
+19-01-22 22:33:58 (2) /\ killed (1) LeprosycL with Grenade
+19-01-22 22:33:59 [LeprosycL] No!
+19-01-22 22:33:59 [sT.- Enigma] YEAH!
+19-01-22 22:34:00 [/\] CHI CHEEÑOOOOOOOOOOOOL ! ! !
+19-01-22 22:34:01 sk!T.Rattle captured the Blue Flag
+19-01-22 22:34:01 [/\] ESH EL DIA DEL PLATANOUUUUUUUUUU!
+19-01-22 22:34:02 /\ captured the Red Flag
+19-01-22 22:34:03 [/\] NO PUEDEN CON TANTO DULZZOOORRR!! 
+19-01-22 22:34:04 (2) sk!T.chub0 killed (1) LeprosycL with M79
+19-01-22 22:34:05 (RADIO)[LeprosycL] Enemy spotted down!
+19-01-22 22:34:07 (RADIO)[LeprosycL] Enemy spotted down!
+19-01-22 22:34:09 (1) sk!T.Rattle killed (2) sk!T.chub0 with Ruger 77
+19-01-22 22:34:09 (2) sk!T.chub0 killed (1) sk!T.Rattle with M79
+19-01-22 22:34:10 (1) sT.- Enigma killed (2) kyuubi with Grenade
+19-01-22 22:34:10 (1) sT.- Enigma killed (2) /\ with Barrett M82A1
+19-01-22 22:34:11 sT.- Enigma captured the Blue Flag
+19-01-22 22:34:12 [LeprosycL] Yes, Sir!
+19-01-22 22:34:12 sT.- Enigma returned the Red Flag
+19-01-22 22:34:14 sT.- Enigma scores for Alpha Team
+19-01-22 22:34:19 (2) sk!T.chub0 killed (1) sk!T.Rattle with Ruger 77
+19-01-22 22:34:22 (2) kyuubi killed (1) LeprosycL with LAW
+19-01-22 22:34:23 (2) /\ killed (1) sT.- Enigma with Steyr AUG
+19-01-22 22:34:30 (2) kyuubi killed (1) sT.- Enigma with Ak-74
+19-01-22 22:34:31 kyuubi captured the Red Flag
+19-01-22 22:34:32 (1) sT.- Enigma killed (2) /\ with Grenade
+19-01-22 22:34:33 (1) sk!T.Rattle killed (2) sk!T.chub0 with Combat Knife
+19-01-22 22:34:33 [sk!T.chub0] Yeah
+19-01-22 22:34:34 sk!T.Rattle captured the Blue Flag
+19-01-22 22:34:35 sk!T.Rattle returned the Red Flag
+19-01-22 22:34:36 (2) kyuubi killed (1) sk!T.Rattle with Ak-74
+19-01-22 22:34:39 (1) sT.- Enigma killed (2) kyuubi with Barrett M82A1
+19-01-22 22:34:40 Next map: Lobby
+19-01-22 22:34:42 /\ has left bravo team.
+19-01-22 22:34:42 [sk!T.chub0] gg
+19-01-22 22:34:42 [sk!T.Rattle] mi flag
+19-01-22 22:34:42 kyuubi has left bravo team.
+19-01-22 22:34:43 sk!T.chub0 has left bravo team.
+19-01-22 22:34:43 LeprosycL has left alpha team.
+19-01-22 22:34:44 [sk!T.Rattle] gg
+19-01-22 22:34:45 sT.- Enigma has left alpha team.
+19-01-22 22:34:45 sk!T.Rattle has left alpha team.
+19-01-22 22:34:46 Lothic - Gothic Lobby Room
+19-01-22 22:39:46 Time Left: 5 minutes
+19-01-22 22:40:46 Time Left: 4 minutes
+19-01-22 22:41:46 Time Left: 3 minutes
+19-01-22 22:42:46 Time Left: 2 minutes
+19-01-22 22:43:46 Time Left: 1 minutes
+19-01-22 22:44:46 Next map: Lobby
+19-01-22 22:44:51 Lothic - Gothic Lobby Room
+19-01-22 22:49:51 Time Left: 5 minutes
+19-01-22 22:50:51 Time Left: 4 minutes
+19-01-22 22:51:34 Signal received, shutting down
+19-01-22 22:51:34 Shutting down server...
+19-01-22 22:51:34 Shutting down FileServer...
+19-01-22 22:51:34 Shutting down admin server...

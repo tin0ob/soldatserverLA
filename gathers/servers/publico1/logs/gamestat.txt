@@ -1,0 +1,10 @@
+In-Game Statistics
+Players: 0
+Map: ctf_Snakebite
+Gamemode: Capture the Flag
+Timeleft: 3:39
+Team 1: 0
+Team 2: 0
+Team 3: 0
+Team 4: 0
+Players list: (name/kills/deaths/team/ping)

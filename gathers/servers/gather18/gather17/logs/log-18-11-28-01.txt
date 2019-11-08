@@ -1,0 +1,35 @@
+18-11-28 02:44:21    Log Started
+18-11-28 02:44:21 Opened /home/tinolski/gathers/servers/gather17/soldat.ini
+18-11-28 02:59:36  Net - CrasheR disconnected 28-11-18 02:59:36
+18-11-28 03:00:38  Net - CrasheR connected 28-11-18 03:00:38
+18-11-28 03:07:06 TCP/IP File Server started
+18-11-28 03:10:01  Net - shioneD][chb0sp connected 28-11-18 03:10:01
+18-11-28 03:16:09  Net - cB.DrK disconnected 28-11-18 03:16:09
+18-11-28 03:16:10  Net - CrasheR disconnected 28-11-18 03:16:10
+18-11-28 03:16:10  Net - sT.- Enigma disconnected 28-11-18 03:16:10
+18-11-28 03:16:11  Net - shioneD][chb0sp disconnected 28-11-18 03:16:11
+18-11-28 03:16:11  Net - sT.- S E N Z A C L disconnected 28-11-18 03:16:11
+18-11-28 03:16:12  Net - sT.- YnGwi3 disconnected 28-11-18 03:16:12
+18-11-28 03:16:13  Net - N9nety N9ne disconnected 28-11-18 03:16:13
+18-11-28 03:37:06 TCP/IP File Server started
+18-11-28 04:07:06 TCP/IP File Server started
+18-11-28 04:37:06 TCP/IP File Server started
+18-11-28 05:07:06 TCP/IP File Server started
+18-11-28 05:37:06 TCP/IP File Server started
+18-11-28 06:07:06 TCP/IP File Server started
+18-11-28 06:37:06 TCP/IP File Server started
+18-11-28 07:07:06 TCP/IP File Server started
+18-11-28 07:37:06 TCP/IP File Server started
+18-11-28 08:07:06 TCP/IP File Server started
+18-11-28 08:37:06 TCP/IP File Server started
+18-11-28 09:07:06 TCP/IP File Server started
+18-11-28 09:37:06 TCP/IP File Server started
+18-11-28 10:07:06 TCP/IP File Server started
+18-11-28 10:37:06 TCP/IP File Server started
+18-11-28 11:07:06 TCP/IP File Server started
+18-11-28 11:37:06 TCP/IP File Server started
+18-11-28 12:07:06 TCP/IP File Server started
+18-11-28 12:37:06 TCP/IP File Server started
+18-11-28 13:07:06 TCP/IP File Server started
+18-11-28 13:37:06 TCP/IP File Server started
+18-11-28 14:07:06 TCP/IP File Server started

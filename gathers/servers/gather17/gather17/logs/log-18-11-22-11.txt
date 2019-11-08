@@ -1,0 +1,236 @@
+18-11-22 21:37:06    Log Started
+18-11-22 21:37:06 Opened /home/tinolski/gathers/servers/gather17/soldat.ini
+18-11-22 21:37:06 Creating network interface.
+18-11-22 21:37:06 Loading Animations.
+18-11-22 21:37:06 Loading Lobby Servers List
+18-11-22 21:37:06 Loading Maps List
+18-11-22 21:37:06 Loading Map.
+18-11-22 21:37:06 Creating Weapons.
+18-11-22 21:37:06 Starting Game Server.
+18-11-22 21:37:06 TCP/IP File Server started
+18-11-22 21:37:49  Net - sk!T.Rattle connected 22-11-18 21:37:49
+18-11-22 21:38:51  Net - sk!T.Rattle disconnected 22-11-18 21:38:51
+18-11-22 21:41:08  Net - S***X connected 22-11-18 21:41:08
+18-11-22 21:41:29  Net - S***X disconnected 22-11-18 21:41:29
+18-11-22 21:51:05  Net - sk!T.Rattle connected 22-11-18 21:51:05
+18-11-22 21:51:31  Net - cB.DrK connected 22-11-18 21:51:31
+18-11-22 21:53:35  Net - sk!T.Rattle disconnected 22-11-18 21:53:35
+18-11-22 21:53:37  Net - cB.DrK disconnected 22-11-18 21:53:37
+18-11-22 21:53:47 Loading Map.
+18-11-22 21:53:47 Creating Weapons.
+18-11-22 21:53:47 Starting Game Server.
+18-11-22 21:53:47 TCP/IP File Server started
+18-11-22 21:54:08  Net - sk!T.Rattle connected 22-11-18 21:54:08
+18-11-22 21:54:12  Net - chb0jA best lag na connected 22-11-18 21:54:12
+18-11-22 21:54:15  Net - twitch.tv/ReallyF1re connected 22-11-18 21:54:15
+18-11-22 21:54:19  Net - cB.DrK connected 22-11-18 21:54:19
+18-11-22 21:54:26  Net - cB.DrK connected 22-11-18 21:54:26
+18-11-22 21:54:45  Net - extrakt09- connected 22-11-18 21:54:45
+18-11-22 21:55:07  Net - Cobra connected 22-11-18 21:55:07
+18-11-22 21:55:20  Net - extrakt09- connected 22-11-18 21:55:20
+18-11-22 22:01:06  Net - RtP| ShutercL connected 22-11-18 22:01:06
+18-11-22 22:02:54  Net - RtP| ShutercL disconnected 22-11-18 22:02:54
+18-11-22 22:06:54  Net - sk!T.Rattle disconnected 22-11-18 22:06:54
+18-11-22 22:06:57  Net - sk!T.Rattle connected 22-11-18 22:06:57
+18-11-22 22:06:58  Net - sk!T.Rattle disconnected 22-11-18 22:06:58
+18-11-22 22:07:00  Net - sk!T.Rattle connected 22-11-18 22:07:00
+18-11-22 22:07:06 TCP/IP File Server started
+18-11-22 22:10:43  Net - IA\Mati ^.^ connected 22-11-18 22:10:43
+18-11-22 22:10:51  Net - extrakt09- connected 22-11-18 22:10:51
+18-11-22 22:10:53  Net - IA\Mati ^.^ connected 22-11-18 22:10:53
+18-11-22 22:11:12  Net - extrakt09- disconnected 22-11-18 22:11:12
+18-11-22 22:12:15  Net - IA\Mati ^.^ disconnected 22-11-18 22:12:15
+18-11-22 22:12:27  Net - CrasheR connected 22-11-18 22:12:27
+18-11-22 22:12:36  Net - IA\Mati ^.^ connected 22-11-18 22:12:36
+18-11-22 22:14:13  Net - CrasheR connected 22-11-18 22:14:13
+18-11-22 22:14:15  Net - IA\Mati ^.^ connected 22-11-18 22:14:15
+18-11-22 22:15:14  Net - IA\Mati ^.^ disconnected 22-11-18 22:15:14
+18-11-22 22:20:27  Net - #lf.Winter connected 22-11-18 22:20:27
+18-11-22 22:23:07  Net - #lf.Winter disconnected 22-11-18 22:23:07
+18-11-22 22:32:27  Net - twitch.tv/ReallyF1re disconnected 22-11-18 22:32:27
+18-11-22 22:32:30  Net - cB.DrK disconnected 22-11-18 22:32:30
+18-11-22 22:32:30  Net - Cobra disconnected 22-11-18 22:32:30
+18-11-22 22:32:30  Net - CrasheR disconnected 22-11-18 22:32:30
+18-11-22 22:32:31  Net - sk!T.Rattle disconnected 22-11-18 22:32:31
+18-11-22 22:32:32  Net - chb0jA best lag na disconnected 22-11-18 22:32:32
+18-11-22 22:37:07 TCP/IP File Server started
+18-11-22 23:07:07 TCP/IP File Server started
+18-11-22 23:37:07 TCP/IP File Server started
+18-11-22 23:37:48 Loading Map.
+18-11-22 23:37:48 Creating Weapons.
+18-11-22 23:37:48 Starting Game Server.
+18-11-22 23:37:48 TCP/IP File Server started
+18-11-22 23:38:07  Net - CrasheR connected 22-11-18 23:38:07
+18-11-22 23:38:24  Net - sk!T.Rattle connected 22-11-18 23:38:24
+18-11-22 23:38:36  Net - im:// STACHURA ATX7 ~~> connected 22-11-18 23:38:36
+18-11-22 23:38:37  Net - cB.DrK connected 22-11-18 23:38:37
+18-11-22 23:38:37  Net - Sgt. ShioN connected 22-11-18 23:38:37
+18-11-22 23:38:40  Net - cB.DrK connected 22-11-18 23:38:40
+18-11-22 23:38:47  Net - twitch.tv/ReallyF1re connected 22-11-18 23:38:47
+18-11-22 23:38:53  Net - chb0jA best lag na connected 22-11-18 23:38:53
+18-11-22 23:39:04  Net - sT' HartCheat] connected 22-11-18 23:39:04
+18-11-22 23:39:46  Net - cB.Usso connected 22-11-18 23:39:46
+18-11-22 23:40:07  Net - sT' HartCheat] disconnected 22-11-18 23:40:07
+18-11-22 23:40:14  Net - HartCheat] connected 22-11-18 23:40:14
+18-11-22 23:53:22  Net - HartCheat] disconnected 22-11-18 23:53:22
+18-11-22 23:53:28  Net - im:// STACHURA ATX7 ~~> connected 22-11-18 23:53:28
+18-11-22 23:53:36  Net - im:// STACHURA ATX7 ~~> connected 22-11-18 23:53:36
+18-11-22 23:53:43  Net - HartCheat] connected 22-11-18 23:53:43
+18-11-22 23:53:52  Net - HartCheat] disconnected 22-11-18 23:53:52
+18-11-22 23:53:57  Net - HartCheat] connected 22-11-18 23:53:57
+18-11-22 23:54:07  Net - HartCheat] disconnected 22-11-18 23:54:07
+18-11-22 23:54:10  Net - Sgt. ShioN connected 22-11-18 23:54:10
+18-11-22 23:54:13  Net - HartCheat] connected 22-11-18 23:54:13
+18-11-22 23:54:20  Net - Sgt. ShioN disconnected 22-11-18 23:54:20
+18-11-22 23:54:22  Net - Sgt. ShioN connected 22-11-18 23:54:22
+18-11-23 00:04:11  Net - Sgt. ShioN disconnected 23-11-18 00:04:11
+18-11-23 00:04:19  Net - HartCheat] disconnected 23-11-18 00:04:19
+18-11-23 00:04:22  Net - CrasheR disconnected 23-11-18 00:04:22
+18-11-23 00:04:23  Net - sk!T.Rattle disconnected 23-11-18 00:04:23
+18-11-23 00:04:25  Net - cB.DrK disconnected 23-11-18 00:04:25
+18-11-23 00:04:25  Net - twitch.tv/ReallyF1re disconnected 23-11-18 00:04:25
+18-11-23 00:04:25  Net - chb0jA best lag na disconnected 23-11-18 00:04:25
+18-11-23 00:04:25  Net - cB.Usso disconnected 23-11-18 00:04:25
+18-11-23 00:04:25  Net - im:// STACHURA ATX7 ~~> disconnected 23-11-18 00:04:25
+18-11-23 00:07:07 TCP/IP File Server started
+18-11-23 00:37:07 TCP/IP File Server started
+18-11-23 01:07:07 TCP/IP File Server started
+18-11-23 01:37:07 TCP/IP File Server started
+18-11-23 01:44:14 Loading Map.
+18-11-23 01:44:14 Creating Weapons.
+18-11-23 01:44:14 Starting Game Server.
+18-11-23 01:44:14 TCP/IP File Server started
+18-11-23 01:44:57  Net - im:// STACHURA ATX7 ~~> connected 23-11-18 01:44:57
+18-11-23 01:44:59  Net - HartCheat] connected 23-11-18 01:44:59
+18-11-23 01:45:01  Net - chb0jA connected 23-11-18 01:45:01
+18-11-23 01:45:03  Net - chb0jA connected 23-11-18 01:45:03
+18-11-23 01:45:11  Net - CrasheR connected 23-11-18 01:45:11
+18-11-23 01:45:13  Net - HartCheat] disconnected 23-11-18 01:45:13
+18-11-23 01:45:14  Net - twitch.tv/ReallyF1re connected 23-11-18 01:45:14
+18-11-23 01:45:25  Net - HartCheat] connected 23-11-18 01:45:25
+18-11-23 01:45:30  Net - WildR4P` connected 23-11-18 01:45:30
+18-11-23 01:46:10  Net - sT.- S E N Z A C L connected 23-11-18 01:46:10
+18-11-23 01:46:12  Net - twitch.tv/ReallyF1re connected 23-11-18 01:46:12
+18-11-23 01:46:34  Net - twitch.tv/ReallyF1re disconnected 23-11-18 01:46:34
+18-11-23 01:46:37  Net - twitch.tv/ReallyF1re connected 23-11-18 01:46:37
+18-11-23 02:07:06 TCP/IP File Server started
+18-11-23 02:08:35  Net - extrakt09- connected 23-11-18 02:08:35
+18-11-23 02:11:05  Net - extrakt09- disconnected 23-11-18 02:11:05
+18-11-23 02:11:37  Net - extrakt09- connected 23-11-18 02:11:37
+18-11-23 02:19:22  Net - im:// STACHURA ATX7 ~~> disconnected 23-11-18 02:19:22
+18-11-23 02:19:22  Net - CrasheR disconnected 23-11-18 02:19:22
+18-11-23 02:19:23  Net - twitch.tv/ReallyF1re disconnected 23-11-18 02:19:23
+18-11-23 02:19:23  Net - HartCheat] disconnected 23-11-18 02:19:23
+18-11-23 02:19:23  Net - WildR4P` disconnected 23-11-18 02:19:23
+18-11-23 02:19:24  Net - sT.- S E N Z A C L disconnected 23-11-18 02:19:24
+18-11-23 02:19:25  Net - chb0jA disconnected 23-11-18 02:19:25
+18-11-23 02:19:30  Net - extrakt09- disconnected 23-11-18 02:19:30
+18-11-23 02:37:07 TCP/IP File Server started
+18-11-23 02:40:53 Loading Map.
+18-11-23 02:40:53 Creating Weapons.
+18-11-23 02:40:53 Starting Game Server.
+18-11-23 02:40:53 TCP/IP File Server started
+18-11-23 02:41:11  Net - chb0jA connected 23-11-18 02:41:11
+18-11-23 02:41:17  Net - chb0jA connected 23-11-18 02:41:17
+18-11-23 02:41:21  Net - A connected 23-11-18 02:41:21
+18-11-23 02:41:23  Net - A disconnected 23-11-18 02:41:23
+18-11-23 02:41:32  Net - cB.Usso connected 23-11-18 02:41:32
+18-11-23 02:41:38  Net - cB.Usso connected 23-11-18 02:41:38
+18-11-23 02:41:40  Net - im:// CONTRA ATX7 ~~> connected 23-11-18 02:41:40
+18-11-23 02:41:45  Net - twitch.tv/ReallyF1re connected 23-11-18 02:41:45
+18-11-23 02:42:23  Net - Cobra connected 23-11-18 02:42:23
+18-11-23 02:42:30  Net - cB.DrK connected 23-11-18 02:42:30
+18-11-23 02:42:36  Net - CrasheR connected 23-11-18 02:42:36
+18-11-23 02:43:02  Net - U SAID, CHEAT? connected 23-11-18 02:43:02
+18-11-23 03:02:29  Net - Cobra disconnected 23-11-18 03:02:29
+18-11-23 03:03:09  Net - U SAID, CHEAT? connected 23-11-18 03:03:09
+18-11-23 03:07:06 TCP/IP File Server started
+18-11-23 03:10:32  Net - WildR4P` connected 23-11-18 03:10:32
+18-11-23 03:19:29  Net - WildR4P` disconnected 23-11-18 03:19:29
+18-11-23 03:19:32  Net - twitch.tv/ReallyF1re disconnected 23-11-18 03:19:32
+18-11-23 03:19:33  Net - cB.DrK disconnected 23-11-18 03:19:33
+18-11-23 03:19:34  Net - cB.Usso disconnected 23-11-18 03:19:34
+18-11-23 03:19:34  Net - CrasheR disconnected 23-11-18 03:19:34
+18-11-23 03:19:35  Net - im:// CONTRA ATX7 ~~> disconnected 23-11-18 03:19:35
+18-11-23 03:19:38  Net - U SAID, CHEAT? disconnected 23-11-18 03:19:38
+18-11-23 03:20:25  Net - chb0jA disconnected 23-11-18 03:20:25
+18-11-23 03:37:07 TCP/IP File Server started
+18-11-23 04:07:07 TCP/IP File Server started
+18-11-23 04:24:59 Loading Map.
+18-11-23 04:24:59 Creating Weapons.
+18-11-23 04:24:59 Starting Game Server.
+18-11-23 04:24:59 TCP/IP File Server started
+18-11-23 04:25:21  Net - CrasheR connected 23-11-18 04:25:21
+18-11-23 04:25:39  Net - cB.DrK connected 23-11-18 04:25:39
+18-11-23 04:25:40  Net - chb0jA connected 23-11-18 04:25:40
+18-11-23 04:25:43  Net - chb0jA connected 23-11-18 04:25:43
+18-11-23 04:25:48  Net - cB.DrK disconnected 23-11-18 04:25:48
+18-11-23 04:26:02  Net - cB.DrK connected 23-11-18 04:26:02
+18-11-23 04:26:23  Net - WildR4P` connected 23-11-18 04:26:23
+18-11-23 04:26:33  Net - extrakt09- connected 23-11-18 04:26:33
+18-11-23 04:26:38  Net - extrakt09- connected 23-11-18 04:26:38
+18-11-23 04:29:39  Net - *gov connected 23-11-18 04:29:39
+18-11-23 04:37:06 TCP/IP File Server started
+18-11-23 04:37:13  Net - CrasheR connected 23-11-18 04:37:13
+18-11-23 04:37:19  Net - CrasheR disconnected 23-11-18 04:37:19
+18-11-23 04:37:23  Net - CrasheR connected 23-11-18 04:37:23
+18-11-23 05:06:56  Net - chb0jA disconnected 23-11-18 05:06:56
+18-11-23 05:06:57  Net - CrasheR disconnected 23-11-18 05:06:57
+18-11-23 05:06:58  Net - extrakt09- disconnected 23-11-18 05:06:58
+18-11-23 05:06:59  Net - *gov disconnected 23-11-18 05:06:59
+18-11-23 05:06:59  Net - cB.DrK disconnected 23-11-18 05:06:59
+18-11-23 05:07:01  Net - WildR4P` disconnected 23-11-18 05:07:01
+18-11-23 05:07:06 TCP/IP File Server started
+18-11-23 05:37:07 TCP/IP File Server started
+18-11-23 06:07:07 TCP/IP File Server started
+18-11-23 06:37:07 TCP/IP File Server started
+18-11-23 07:07:07 TCP/IP File Server started
+18-11-23 07:37:07 TCP/IP File Server started
+18-11-23 08:07:07 TCP/IP File Server started
+18-11-23 08:37:07 TCP/IP File Server started
+18-11-23 09:07:07 TCP/IP File Server started
+18-11-23 09:37:07 TCP/IP File Server started
+18-11-23 10:07:07 TCP/IP File Server started
+18-11-23 10:37:07 TCP/IP File Server started
+18-11-23 11:07:07 TCP/IP File Server started
+18-11-23 11:37:07 TCP/IP File Server started
+18-11-23 12:07:07 TCP/IP File Server started
+18-11-23 12:37:07 TCP/IP File Server started
+18-11-23 13:07:06 TCP/IP File Server started
+18-11-23 13:37:07 TCP/IP File Server started
+18-11-23 14:07:06 TCP/IP File Server started
+18-11-23 14:37:06 TCP/IP File Server started
+18-11-23 15:07:06 TCP/IP File Server started
+18-11-23 15:37:06 TCP/IP File Server started
+18-11-23 16:07:06 TCP/IP File Server started
+18-11-23 16:37:06 TCP/IP File Server started
+18-11-23 17:07:06 TCP/IP File Server started
+18-11-23 17:37:06 TCP/IP File Server started
+18-11-23 18:07:06 TCP/IP File Server started
+18-11-23 18:37:06 TCP/IP File Server started
+18-11-23 19:07:06 TCP/IP File Server started
+18-11-23 19:37:06 TCP/IP File Server started
+18-11-23 19:45:21  Net - sk!T.Rattle connected 23-11-18 19:45:21
+18-11-23 19:45:24  Net - SS ~ Fxghta connected 23-11-18 19:45:24
+18-11-23 19:45:24  Net - sk!T.Rattle disconnected 23-11-18 19:45:24
+18-11-23 19:45:26  Net - sk!T.Rattle connected 23-11-18 19:45:26
+18-11-23 19:45:27  Net - SS ~ Fxghta disconnected 23-11-18 19:45:27
+18-11-23 19:45:30  Net - sk!T.Rattle disconnected 23-11-18 19:45:30
+18-11-23 20:07:06 TCP/IP File Server started
+18-11-23 20:37:06 TCP/IP File Server started
+18-11-23 21:06:09  Net - extrakt09- connected 23-11-18 21:06:09
+18-11-23 21:06:21  Net - extrakt09- disconnected 23-11-18 21:06:21
+18-11-23 21:07:06 TCP/IP File Server started
+18-11-23 21:37:06 TCP/IP File Server started
+18-11-23 22:07:06 TCP/IP File Server started
+18-11-23 22:37:06 TCP/IP File Server started
+18-11-23 23:07:06 TCP/IP File Server started
+18-11-23 23:37:06 TCP/IP File Server started
+18-11-24 00:07:06 TCP/IP File Server started
+18-11-24 00:37:06 TCP/IP File Server started
+18-11-24 01:07:06 TCP/IP File Server started
+18-11-24 01:37:06 TCP/IP File Server started
+18-11-24 02:07:06 TCP/IP File Server started
+18-11-24 02:37:07 TCP/IP File Server started
+18-11-24 03:07:06 TCP/IP File Server started
+18-11-24 03:37:06 TCP/IP File Server started

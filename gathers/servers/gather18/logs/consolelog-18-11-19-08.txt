@@ -1,0 +1,18 @@
+18-11-19 10:51:40    Console Log Started
+18-11-19 10:51:40 Welcome to Soldat 1.7.1
+18-11-19 10:51:40  [*] Preparing scripts to be launched
+18-11-19 10:51:40  [*] [BasicCommands] Loading bytecode
+18-11-19 10:51:40  [*] [BasicCommands] Bytecode loaded
+18-11-19 10:51:40  [*] Done
+18-11-19 10:51:40 Lothic - Gothic Lobby Room
+18-11-19 10:51:40 Loaded weapons mod "Default mod v1.8"
+18-11-19 10:51:40  Connection for file server started. Port: 23011
+18-11-19 10:51:41 Registering server @ 88.99.234.252
+18-11-19 10:52:08 191.85.163.53 added to Game Admins via Request Password
+18-11-19 10:52:08 191.85.163.53:23073|745CB17698B requesting game...
+18-11-19 10:52:09 sk!T.Rattle joining game (191.85.163.53:23073) HWID:745CB17698B
+18-11-19 10:52:09 sk!T.Rattle has joined alpha team.
+18-11-19 10:52:22 sk!T.Rattle has left alpha team.
+18-11-19 10:56:23 Shutting down server...
+18-11-19 10:56:23 Shutting down FileServer...
+18-11-19 10:56:23 Shutting down admin server...

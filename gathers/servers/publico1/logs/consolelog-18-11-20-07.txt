@@ -1,0 +1,27 @@
+18-11-20 12:02:30    Console Log Started
+18-11-20 12:02:30 Welcome to Soldat 1.7.1
+18-11-20 12:02:30  [*] Preparing scripts to be launched
+18-11-20 12:02:30  [*] [BasicCommands] Loading bytecode
+18-11-20 12:02:30  [*] [BasicCommands] Bytecode loaded
+18-11-20 12:02:30  [*] Done
+18-11-20 12:02:30 Lothic - Gothic Lobby Room
+18-11-20 12:02:30 Loaded weapons mod "Default mod v1.8"
+18-11-20 12:02:30  Connection for file server started. Port: 23011
+18-11-20 12:03:01 191.85.172.209 added to Game Admins via Request Password
+18-11-20 12:03:01 191.85.172.209:23073|745CB17698B requesting game...
+18-11-20 12:03:02 sk!T.Rattle joining game (191.85.172.209:23073) HWID:745CB17698B
+18-11-20 12:03:02 sk!T.Rattle has joined alpha team.
+18-11-20 12:03:16 sk!T.Rattle has left alpha team.
+18-11-20 12:03:17 191.85.172.209:23073|745CB17698B requesting game...
+18-11-20 12:03:18 sk!T.Rattle joining game (191.85.172.209:23073) HWID:745CB17698B
+18-11-20 12:03:18 sk!T.Rattle has joined alpha team.
+18-11-20 12:03:39 sk!T.Rattle has left alpha team.
+18-11-20 12:05:54 Admin connected (95.67.64.106).
+18-11-20 12:05:54 /say GatherBot Dev v0.6 is now connected to server. (95.67.64.106)
+18-11-20 12:05:54 /password 0000 (95.67.64.106)
+18-11-20 12:05:54 Server password changed to 0000
+18-11-20 12:05:54 /say Server password was changed... (95.67.64.106)
+18-11-20 12:06:50 Signal received, shutting down
+18-11-20 12:06:50 Shutting down server...
+18-11-20 12:06:50 Shutting down FileServer...
+18-11-20 12:06:50 Shutting down admin server...

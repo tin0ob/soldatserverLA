@@ -1,0 +1,10 @@
+19-11-07 21:41:12    Log Started
+19-11-07 21:41:12 Opened /home/tino/gathers/servers/gather17/soldat.ini
+19-11-07 21:41:12 Creating network interface.
+19-11-07 21:41:12 Loading Animations.
+19-11-07 21:41:12 Loading Lobby Servers List
+19-11-07 21:41:12 Loading Maps List
+19-11-07 21:41:12 Loading Map.
+19-11-07 21:41:12 Creating Weapons.
+19-11-07 21:41:12 Starting Game Server.
+19-11-07 21:41:12 TCP/IP File Server started

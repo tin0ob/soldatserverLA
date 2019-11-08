@@ -1,0 +1,152 @@
+18-11-22 10:35:49    Console Log Started
+18-11-22 10:35:49 Welcome to Soldat 1.7.1
+18-11-22 10:35:49  [*] Preparing scripts to be launched
+18-11-22 10:35:49  [*] [BasicCommands] Loading bytecode
+18-11-22 10:35:49  [*] [BasicCommands] Bytecode loaded
+18-11-22 10:35:49  [*] Done
+18-11-22 10:35:49 Lothic - Gothic Lobby Room
+18-11-22 10:35:49 Loaded weapons mod "Default mod v1.8"
+18-11-22 10:35:50  Connection for file server started. Port: 23011
+18-11-22 10:36:46 Admin connected (206.81.24.116).
+18-11-22 10:36:46 /say GatherBot v0.6 is now connected to server. (206.81.24.116)
+18-11-22 10:36:46 /password 6748 (206.81.24.116)
+18-11-22 10:36:46 Server password changed to 6748
+18-11-22 10:36:46 /say Server password was changed... (206.81.24.116)
+18-11-22 10:40:50 Time Left: 5 minutes
+18-11-22 10:40:50 Admin connected (206.81.24.116).
+18-11-22 10:40:50 /say GatherBot v0.6 is now connected to server. (206.81.24.116)
+18-11-22 10:40:50 /password 6748 (206.81.24.116)
+18-11-22 10:40:50 Server password changed to 6748
+18-11-22 10:40:50 /say Server password was changed... (206.81.24.116)
+18-11-22 10:41:50 Time Left: 4 minutes
+18-11-22 10:42:50 Time Left: 3 minutes
+18-11-22 10:43:50 Time Left: 2 minutes
+18-11-22 10:44:50 Time Left: 1 minutes
+18-11-22 10:45:50 Next map: Lobby
+18-11-22 10:45:55 Lothic - Gothic Lobby Room
+18-11-22 10:50:55 Time Left: 5 minutes
+18-11-22 10:51:55 Time Left: 4 minutes
+18-11-22 10:52:55 Time Left: 3 minutes
+18-11-22 10:53:55 Time Left: 2 minutes
+18-11-22 10:54:55 Time Left: 1 minutes
+18-11-22 10:55:55 Next map: Lobby
+18-11-22 10:56:00 Lothic - Gothic Lobby Room
+18-11-22 11:01:00 Time Left: 5 minutes
+18-11-22 11:02:00 Time Left: 4 minutes
+18-11-22 11:03:00 Time Left: 3 minutes
+18-11-22 11:04:00 Time Left: 2 minutes
+18-11-22 11:05:00 Time Left: 1 minutes
+18-11-22 11:06:00 Next map: Lobby
+18-11-22 11:06:06 Lothic - Gothic Lobby Room
+18-11-22 11:11:06 Time Left: 5 minutes
+18-11-22 11:12:06 Time Left: 4 minutes
+18-11-22 11:13:06 Time Left: 3 minutes
+18-11-22 11:14:06 Time Left: 2 minutes
+18-11-22 11:15:06 Time Left: 1 minutes
+18-11-22 11:16:06 Next map: Lobby
+18-11-22 11:16:11 Lothic - Gothic Lobby Room
+18-11-22 11:21:11 Time Left: 5 minutes
+18-11-22 11:22:11 Time Left: 4 minutes
+18-11-22 11:23:11 Time Left: 3 minutes
+18-11-22 11:24:11 Time Left: 2 minutes
+18-11-22 11:25:11 Time Left: 1 minutes
+18-11-22 11:26:11 Next map: Lobby
+18-11-22 11:26:16 Lothic - Gothic Lobby Room
+18-11-22 11:30:31 Admin connected (109.133.26.87).
+18-11-22 11:30:32 /maxplayers (109.133.26.87)
+18-11-22 11:30:32 Max players is 16
+18-11-22 11:30:32 /maxrespawntime (109.133.26.87)
+18-11-22 11:30:32 Maximum Respawn time is 5 seconds
+18-11-22 11:30:32 /respawntime (109.133.26.87)
+18-11-22 11:30:32 Respawn time is 3 seconds
+18-11-22 11:30:32 /limit (109.133.26.87)
+18-11-22 11:30:32 Current kill/point/capture limit is 10
+18-11-22 11:30:32 /timelimit (109.133.26.87)
+18-11-22 11:30:32 Current time limit is 10 minutes
+18-11-22 11:30:32 /friendlyfire (109.133.26.87)
+18-11-22 11:30:32 Friendly Fire is 0
+18-11-22 11:30:32 /scripting (109.133.26.87)
+18-11-22 11:30:32 Scripting is currently Enabled (1)
+18-11-22 11:30:32 /balance (109.133.26.87)
+18-11-22 11:30:32 Bot Balance is off (0)
+18-11-22 11:30:32 /bonus (109.133.26.87)
+18-11-22 11:30:32 Current bonus frequency is 0
+18-11-22 11:30:32 /vote% (109.133.26.87)
+18-11-22 11:30:32 Voting percent is 60
+18-11-22 11:31:15 Admin connected (109.133.26.87).
+18-11-22 11:31:15 /maxplayers (109.133.26.87)
+18-11-22 11:31:15 Max players is 16
+18-11-22 11:31:15 /maxrespawntime (109.133.26.87)
+18-11-22 11:31:15 Maximum Respawn time is 5 seconds
+18-11-22 11:31:15 /respawntime (109.133.26.87)
+18-11-22 11:31:15 Respawn time is 3 seconds
+18-11-22 11:31:15 /limit (109.133.26.87)
+18-11-22 11:31:15 Current kill/point/capture limit is 10
+18-11-22 11:31:15 /timelimit (109.133.26.87)
+18-11-22 11:31:15 Current time limit is 10 minutes
+18-11-22 11:31:15 /friendlyfire (109.133.26.87)
+18-11-22 11:31:15 Friendly Fire is 0
+18-11-22 11:31:15 /scripting (109.133.26.87)
+18-11-22 11:31:15 Scripting is currently Enabled (1)
+18-11-22 11:31:15 /balance (109.133.26.87)
+18-11-22 11:31:15 Bot Balance is off (0)
+18-11-22 11:31:15 /bonus (109.133.26.87)
+18-11-22 11:31:15 Current bonus frequency is 0
+18-11-22 11:31:15 /vote% (109.133.26.87)
+18-11-22 11:31:15 Voting percent is 60
+18-11-22 11:31:16 Time Left: 5 minutes
+18-11-22 11:31:21 Admin connected (109.133.26.87).
+18-11-22 11:31:21 Admin connected (109.133.26.87).
+18-11-22 11:31:21 /maxplayers (109.133.26.87)
+18-11-22 11:31:21 Max players is 16
+18-11-22 11:31:21 /maxrespawntime (109.133.26.87)
+18-11-22 11:31:21 Maximum Respawn time is 5 seconds
+18-11-22 11:31:21 /respawntime (109.133.26.87)
+18-11-22 11:31:21 Respawn time is 3 seconds
+18-11-22 11:31:21 /limit (109.133.26.87)
+18-11-22 11:31:21 Current kill/point/capture limit is 10
+18-11-22 11:31:21 /timelimit (109.133.26.87)
+18-11-22 11:31:21 Current time limit is 10 minutes
+18-11-22 11:31:21 /friendlyfire (109.133.26.87)
+18-11-22 11:31:21 Friendly Fire is 0
+18-11-22 11:31:21 /scripting (109.133.26.87)
+18-11-22 11:31:21 Scripting is currently Enabled (1)
+18-11-22 11:31:21 /balance (109.133.26.87)
+18-11-22 11:31:21 Bot Balance is off (0)
+18-11-22 11:31:22 /bonus (109.133.26.87)
+18-11-22 11:31:22 Current bonus frequency is 0
+18-11-22 11:31:22 /vote% (109.133.26.87)
+18-11-22 11:31:22 Voting percent is 60
+18-11-22 11:31:22 /maxplayers (109.133.26.87)
+18-11-22 11:31:22 Max players is 16
+18-11-22 11:31:22 /maxrespawntime (109.133.26.87)
+18-11-22 11:31:22 Maximum Respawn time is 5 seconds
+18-11-22 11:31:22 /respawntime (109.133.26.87)
+18-11-22 11:31:22 Respawn time is 3 seconds
+18-11-22 11:31:22 /limit (109.133.26.87)
+18-11-22 11:31:22 Current kill/point/capture limit is 10
+18-11-22 11:31:22 /timelimit (109.133.26.87)
+18-11-22 11:31:22 Current time limit is 10 minutes
+18-11-22 11:31:22 /friendlyfire (109.133.26.87)
+18-11-22 11:31:22 Friendly Fire is 0
+18-11-22 11:31:22 /scripting (109.133.26.87)
+18-11-22 11:31:22 Scripting is currently Enabled (1)
+18-11-22 11:31:22 /balance (109.133.26.87)
+18-11-22 11:31:22 Bot Balance is off (0)
+18-11-22 11:31:22 /bonus (109.133.26.87)
+18-11-22 11:31:22 Current bonus frequency is 0
+18-11-22 11:31:22 /vote% (109.133.26.87)
+18-11-22 11:31:22 Voting percent is 60
+18-11-22 11:32:16 Time Left: 4 minutes
+18-11-22 11:33:16 Time Left: 3 minutes
+18-11-22 11:34:16 Time Left: 2 minutes
+18-11-22 11:35:16 Time Left: 1 minutes
+18-11-22 11:36:16 Next map: Lobby
+18-11-22 11:36:22 Lothic - Gothic Lobby Room
+18-11-22 11:41:22 Time Left: 5 minutes
+18-11-22 11:42:22 Time Left: 4 minutes
+18-11-22 11:43:22 Time Left: 3 minutes
+18-11-22 11:44:22 Time Left: 2 minutes
+18-11-22 11:45:22 Time Left: 1 minutes
+18-11-22 11:46:22 Next map: Lobby
+18-11-22 11:46:27 Lothic - Gothic Lobby Room

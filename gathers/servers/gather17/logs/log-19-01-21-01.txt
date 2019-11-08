@@ -1,0 +1,106 @@
+19-01-21 23:35:50    Log Started
+19-01-21 23:35:50 Opened /home/tino/gathers/servers/gather17/soldat.ini
+19-01-21 23:43:29  Net - WildR4P`(1) disconnected 21-1-19 23:43:29
+19-01-21 23:43:42  Net - |hu3| CrasheR disconnected 21-1-19 23:43:42
+19-01-21 23:43:42  Net - sk!T.Rattle disconnected 21-1-19 23:43:42
+19-01-21 23:43:43  Net - OXiD:// Slasher disconnected 21-1-19 23:43:43
+19-01-21 23:43:43  Net - |hu3|  pala disconnected 21-1-19 23:43:43
+19-01-21 23:43:44  Net - Predikt (SN) disconnected 21-1-19 23:43:44
+19-01-21 23:55:05 TCP/IP File Server started
+19-01-22 00:25:05 TCP/IP File Server started
+19-01-22 00:54:06 Loading Map.
+19-01-22 00:54:06 Creating Weapons.
+19-01-22 00:54:06 Starting Game Server.
+19-01-22 00:54:06 TCP/IP File Server started
+19-01-22 00:54:33  Net - Predikt (SN) connected 22-1-19 00:54:33
+19-01-22 00:54:37  Net - Factory connected 22-1-19 00:54:37
+19-01-22 00:54:41  Net - Predikt (SN) connected 22-1-19 00:54:41
+19-01-22 00:54:43  Net - Factory connected 22-1-19 00:54:43
+19-01-22 00:54:57  Net - :|dp|: Saitama connected 22-1-19 00:54:57
+19-01-22 00:55:05  Net - UnD @ Mago connected 22-1-19 00:55:05
+19-01-22 00:55:05 TCP/IP File Server started
+19-01-22 00:55:44  Net - |hu3| CrasheR connected 22-1-19 00:55:44
+19-01-22 00:55:51  Net - |hu3| CrasheR connected 22-1-19 00:55:51
+19-01-22 00:56:40  Net - sk!T.Rattle connected 22-1-19 00:56:40
+19-01-22 01:13:46  Net - sk!T.Rattle disconnected 22-1-19 01:13:46
+19-01-22 01:15:17  Net - //\// Elwy connected 22-1-19 01:15:17
+19-01-22 01:20:54  Net - Factory disconnected 22-1-19 01:20:54
+19-01-22 01:20:55  Net - UnD @ Mago disconnected 22-1-19 01:20:55
+19-01-22 01:20:56  Net - //\// Elwy disconnected 22-1-19 01:20:56
+19-01-22 01:20:57  Net - Predikt (SN) disconnected 22-1-19 01:20:57
+19-01-22 01:20:58  Net - :|dp|: Saitama disconnected 22-1-19 01:20:58
+19-01-22 01:20:58  Net - |hu3| CrasheR disconnected 22-1-19 01:20:58
+19-01-22 01:25:05 TCP/IP File Server started
+19-01-22 01:27:43 Loading Map.
+19-01-22 01:27:43 Creating Weapons.
+19-01-22 01:27:43 Starting Game Server.
+19-01-22 01:27:43 TCP/IP File Server started
+19-01-22 01:27:55  Net - Predikt (SN) connected 22-1-19 01:27:55
+19-01-22 01:27:56  Net - |hu3| CrasheR connected 22-1-19 01:27:56
+19-01-22 01:27:57  Net - |hu3| CrasheR disconnected 22-1-19 01:27:57
+19-01-22 01:27:59  Net - |hu3| CrasheR connected 22-1-19 01:27:59
+19-01-22 01:28:01  Net - Predikt (SN) connected 22-1-19 01:28:01
+19-01-22 01:28:40  Net - //\// Elwy connected 22-1-19 01:28:40
+19-01-22 01:28:46  Net - Ox* r0x.pT! connected 22-1-19 01:28:46
+19-01-22 01:28:49  Net - Ox* r0x.pT! disconnected 22-1-19 01:28:49
+19-01-22 01:29:02  Net - OXiD://r0x.pT! connected 22-1-19 01:29:02
+19-01-22 01:29:06  Net - OXiD://r0x.pT! connected 22-1-19 01:29:06
+19-01-22 01:29:50  Net - OXiD:// Slasher connected 22-1-19 01:29:50
+19-01-22 01:30:16  Net - Griffith connected 22-1-19 01:30:16
+19-01-22 01:37:51  Net - sk!T.chub0 connected 22-1-19 01:37:51
+19-01-22 01:39:49  Net - sk!T.chub0 disconnected 22-1-19 01:39:49
+19-01-22 01:40:58  Net - OXiD://r0x.pT! disconnected 22-1-19 01:40:58
+19-01-22 01:41:05  Net - OXiD://r0x! connected 22-1-19 01:41:05
+19-01-22 01:41:09  Net - OXiD://r0x! connected 22-1-19 01:41:09
+19-01-22 01:44:43  Net - |hu3|  pala connected 22-1-19 01:44:43
+19-01-22 01:50:15  Net - |hu3|  pala disconnected 22-1-19 01:50:15
+19-01-22 01:51:41  Net - OXiD://r0x! disconnected 22-1-19 01:51:41
+19-01-22 01:51:41  Net - OXiD:// Slasher disconnected 22-1-19 01:51:41
+19-01-22 01:51:42  Net - |hu3| CrasheR disconnected 22-1-19 01:51:42
+19-01-22 01:51:42  Net - Predikt (SN) disconnected 22-1-19 01:51:42
+19-01-22 01:51:44  Net - //\// Elwy disconnected 22-1-19 01:51:44
+19-01-22 01:51:51  Net - Griffith disconnected 22-1-19 01:51:51
+19-01-22 01:55:05 TCP/IP File Server started
+19-01-22 02:25:05 TCP/IP File Server started
+19-01-22 02:55:05 TCP/IP File Server started
+19-01-22 03:25:05 TCP/IP File Server started
+19-01-22 03:55:05 TCP/IP File Server started
+19-01-22 04:25:05 TCP/IP File Server started
+19-01-22 04:55:05 TCP/IP File Server started
+19-01-22 05:25:05 TCP/IP File Server started
+19-01-22 05:55:05 TCP/IP File Server started
+19-01-22 06:25:05 TCP/IP File Server started
+19-01-22 06:55:05 TCP/IP File Server started
+19-01-22 07:25:05 TCP/IP File Server started
+19-01-22 07:55:05 TCP/IP File Server started
+19-01-22 08:25:05 TCP/IP File Server started
+19-01-22 08:55:05 TCP/IP File Server started
+19-01-22 09:25:05 TCP/IP File Server started
+19-01-22 09:55:05 TCP/IP File Server started
+19-01-22 10:25:05 TCP/IP File Server started
+19-01-22 10:55:05 TCP/IP File Server started
+19-01-22 11:25:05 TCP/IP File Server started
+19-01-22 11:55:05 TCP/IP File Server started
+19-01-22 12:25:05 TCP/IP File Server started
+19-01-22 12:55:05 TCP/IP File Server started
+19-01-22 13:25:05 TCP/IP File Server started
+19-01-22 13:55:05 TCP/IP File Server started
+19-01-22 14:25:05 TCP/IP File Server started
+19-01-22 14:55:05 TCP/IP File Server started
+19-01-22 15:25:05 TCP/IP File Server started
+19-01-22 15:55:05 TCP/IP File Server started
+19-01-22 16:25:05 TCP/IP File Server started
+19-01-22 16:55:05 TCP/IP File Server started
+19-01-22 17:25:05 TCP/IP File Server started
+19-01-22 17:55:05 TCP/IP File Server started
+19-01-22 18:25:05 TCP/IP File Server started
+19-01-22 18:55:05 TCP/IP File Server started
+19-01-22 19:25:05 TCP/IP File Server started
+19-01-22 19:55:05 TCP/IP File Server started
+19-01-22 20:25:05 TCP/IP File Server started
+19-01-22 20:55:05 TCP/IP File Server started
+19-01-22 21:25:05 TCP/IP File Server started
+19-01-22 21:55:05 TCP/IP File Server started
+19-01-22 22:25:06 TCP/IP File Server started
+19-01-22 22:51:34 Destroying Devices.
+19-01-22 22:51:35    End of Log.

@@ -1,0 +1,459 @@
+19-10-28 05:12:24    Log Started
+19-10-28 05:12:24 Opened /home/tino/gathers/servers/gather18/soldat.ini
+19-10-28 05:14:14 TCP/IP File Server started
+19-10-28 05:44:14 TCP/IP File Server started
+19-10-28 06:14:14 TCP/IP File Server started
+19-10-28 06:44:14 TCP/IP File Server started
+19-10-28 07:14:14 TCP/IP File Server started
+19-10-28 07:44:14 TCP/IP File Server started
+19-10-28 08:14:14 TCP/IP File Server started
+19-10-28 08:44:14 TCP/IP File Server started
+19-10-28 09:14:14 TCP/IP File Server started
+19-10-28 09:44:14 TCP/IP File Server started
+19-10-28 10:14:14 TCP/IP File Server started
+19-10-28 10:44:14 TCP/IP File Server started
+19-10-28 11:14:14 TCP/IP File Server started
+19-10-28 11:44:14 TCP/IP File Server started
+19-10-28 12:14:14 TCP/IP File Server started
+19-10-28 12:44:14 TCP/IP File Server started
+19-10-28 13:14:14 TCP/IP File Server started
+19-10-28 13:44:14 TCP/IP File Server started
+19-10-28 14:14:14 TCP/IP File Server started
+19-10-28 14:44:14 TCP/IP File Server started
+19-10-28 15:14:14 TCP/IP File Server started
+19-10-28 15:44:14 TCP/IP File Server started
+19-10-28 16:14:14 TCP/IP File Server started
+19-10-28 16:44:14 TCP/IP File Server started
+19-10-28 17:14:14 TCP/IP File Server started
+19-10-28 17:44:14 TCP/IP File Server started
+19-10-28 18:14:14 TCP/IP File Server started
+19-10-28 18:44:14 TCP/IP File Server started
+19-10-28 19:14:14 TCP/IP File Server started
+19-10-28 19:44:14 TCP/IP File Server started
+19-10-28 20:14:14 TCP/IP File Server started
+19-10-28 20:44:14 TCP/IP File Server started
+19-10-28 21:14:14 TCP/IP File Server started
+19-10-28 21:44:14 TCP/IP File Server started
+19-10-28 22:14:14 TCP/IP File Server started
+19-10-28 22:44:14 TCP/IP File Server started
+19-10-28 23:14:14 TCP/IP File Server started
+19-10-28 23:44:14 TCP/IP File Server started
+19-10-29 00:14:14 TCP/IP File Server started
+19-10-29 00:44:14 TCP/IP File Server started
+19-10-29 01:14:14 TCP/IP File Server started
+19-10-29 01:37:06 Loading Map.
+19-10-29 01:37:06 Creating Weapons.
+19-10-29 01:37:06 Starting Game Server.
+19-10-29 01:37:06 TCP/IP File Server started
+19-10-29 01:37:27  Net - #1 Enigma connected 29-10-19 01:37:27
+19-10-29 01:37:42  Net - INFEST THE RATS' NEST connected 29-10-19 01:37:42
+19-10-29 01:37:47  Net - magic pringles can connected 29-10-19 01:37:47
+19-10-29 01:38:09  Net - later Super ShioN connected 29-10-19 01:38:09
+19-10-29 01:38:09  Net - later Super ShioN connected 29-10-19 01:38:09
+19-10-29 01:38:15  Net - Encarnarei Ntu Cadaver connected 29-10-19 01:38:15
+19-10-29 01:38:16  Net - later Super ShioN connected 29-10-19 01:38:16
+19-10-29 01:38:18  Net - later Super ShioN disconnected 29-10-19 01:38:18
+19-10-29 01:38:20  Net - later Super ShioN connected 29-10-19 01:38:20
+19-10-29 01:38:25  Net - later Super ShioN connected 29-10-19 01:38:25
+19-10-29 01:38:34  Net - Encarnarei Ntu Cadaver connected 29-10-19 01:38:34
+19-10-29 01:39:34  Net - #1 Enigma connected 29-10-19 01:39:34
+19-10-29 01:39:41  Net - INFEST THE RATS' NEST connected 29-10-19 01:39:41
+19-10-29 01:40:57  Net - HartCheat] connected 29-10-19 01:40:57
+19-10-29 01:44:14 TCP/IP File Server started
+19-10-29 01:52:44  Net - Encarnarei Ntu Cadaver disconnected 29-10-19 01:52:44
+19-10-29 01:52:44  Net - #1 Enigma disconnected 29-10-19 01:52:44
+19-10-29 01:52:47  Net - #1 Enigma connected 29-10-19 01:52:47
+19-10-29 01:52:49  Net - Encarnarei Ntu Cadaver connected 29-10-19 01:52:49
+19-10-29 01:52:50  Net - #1 Enigma connected 29-10-19 01:52:50
+19-10-29 02:03:17  Net - HartCheat] disconnected 29-10-19 02:03:17
+19-10-29 02:03:18  Net - INFEST THE RATS' NEST disconnected 29-10-19 02:03:18
+19-10-29 02:03:18  Net - #1 Enigma disconnected 29-10-19 02:03:18
+19-10-29 02:03:19  Net - later Super ShioN disconnected 29-10-19 02:03:19
+19-10-29 02:03:19  Net - magic pringles can disconnected 29-10-19 02:03:19
+19-10-29 02:03:22  Net - Encarnarei Ntu Cadaver disconnected 29-10-19 02:03:22
+19-10-29 02:06:49  Net - later Super ShioN connected 29-10-19 02:06:49
+19-10-29 02:06:50  Net - later Super ShioN connected 29-10-19 02:06:50
+19-10-29 02:06:56  Net - later Super ShioN disconnected 29-10-19 02:06:56
+19-10-29 02:14:14 TCP/IP File Server started
+19-10-29 02:44:14 TCP/IP File Server started
+19-10-29 03:14:14 TCP/IP File Server started
+19-10-29 03:30:03 Loading Map.
+19-10-29 03:30:03 Creating Weapons.
+19-10-29 03:30:03 Starting Game Server.
+19-10-29 03:30:03 TCP/IP File Server started
+19-10-29 03:30:20  Net - #1 Enigma connected 29-10-19 03:30:20
+19-10-29 03:30:25  Net - #1 Mand3s connected 29-10-19 03:30:25
+19-10-29 03:30:49  Net - nP [KillMe!] connected 29-10-19 03:30:49
+19-10-29 03:31:14  Net - nP [KillMe!] disconnected 29-10-19 03:31:14
+19-10-29 03:31:17  Net - ElvisLikeBag *PP* connected 29-10-19 03:31:17
+19-10-29 03:31:21  Net - Warfar3 connected 29-10-19 03:31:21
+19-10-29 03:31:21  Net - ElvisLikeBag *PP* disconnected 29-10-19 03:31:21
+19-10-29 03:31:23  Net - Warfar3 connected 29-10-19 03:31:23
+19-10-29 03:31:31  Net - ElvisLikeBag *PP* connected 29-10-19 03:31:31
+19-10-29 03:31:33  Net - Piriyaya connected 29-10-19 03:31:33
+19-10-29 03:31:55  Net - Piriyaya connected 29-10-19 03:31:55
+19-10-29 03:32:27  Net - nP [KillMe!] connected 29-10-19 03:32:27
+19-10-29 03:32:32  Net - Warfar3 disconnected 29-10-19 03:32:32
+19-10-29 03:32:37  Net - Warfar3 connected 29-10-19 03:32:37
+19-10-29 03:32:41  Net - nP [KillMe!] connected 29-10-19 03:32:41
+19-10-29 03:32:44  Net - nP [KillMe!] disconnected 29-10-19 03:32:44
+19-10-29 03:32:55  Net - nP [KillMe!] connected 29-10-19 03:32:55
+19-10-29 03:33:20  Net - ElvisLikeBag *PP* connected 29-10-19 03:33:20
+19-10-29 03:33:21  Net - #1 Enigma connected 29-10-19 03:33:21
+19-10-29 03:33:43  Net - #1 Enigma connected 29-10-19 03:33:43
+19-10-29 03:33:57  Net - Piriyaya connected 29-10-19 03:33:57
+19-10-29 03:33:57  Net - nP [KillMe!] connected 29-10-19 03:33:57
+19-10-29 03:34:05  Net - Warfar3 connected 29-10-19 03:34:05
+19-10-29 03:34:06  Net - nP [KillMe!] disconnected 29-10-19 03:34:06
+19-10-29 03:34:07  Net - Piriyaya connected 29-10-19 03:34:07
+19-10-29 03:34:08  Net - nP [KillMe!] connected 29-10-19 03:34:08
+19-10-29 03:34:13  Net - nP [KillMe!] disconnected 29-10-19 03:34:13
+19-10-29 03:34:15  Net - nP [KillMe!] connected 29-10-19 03:34:15
+19-10-29 03:34:49  Net - Warfar3 connected 29-10-19 03:34:49
+19-10-29 03:44:14 TCP/IP File Server started
+19-10-29 04:06:47  Net - #1 Mand3s disconnected 29-10-19 04:06:47
+19-10-29 04:06:47  Net - Piriyaya disconnected 29-10-19 04:06:47
+19-10-29 04:06:48  Net - Warfar3 disconnected 29-10-19 04:06:48
+19-10-29 04:06:50  Net - nP [KillMe!] disconnected 29-10-19 04:06:50
+19-10-29 04:06:50  Net - ElvisLikeBag *PP* disconnected 29-10-19 04:06:50
+19-10-29 04:06:53  Net - #1 Enigma disconnected 29-10-19 04:06:53
+19-10-29 04:14:14 TCP/IP File Server started
+19-10-29 04:44:14 TCP/IP File Server started
+19-10-29 05:14:14 TCP/IP File Server started
+19-10-29 05:44:14 TCP/IP File Server started
+19-10-29 06:14:14 TCP/IP File Server started
+19-10-29 06:44:14 TCP/IP File Server started
+19-10-29 07:14:14 TCP/IP File Server started
+19-10-29 07:44:14 TCP/IP File Server started
+19-10-29 08:14:14 TCP/IP File Server started
+19-10-29 08:44:14 TCP/IP File Server started
+19-10-29 09:14:14 TCP/IP File Server started
+19-10-29 09:44:14 TCP/IP File Server started
+19-10-29 10:14:14 TCP/IP File Server started
+19-10-29 10:44:14 TCP/IP File Server started
+19-10-29 11:14:14 TCP/IP File Server started
+19-10-29 11:44:14 TCP/IP File Server started
+19-10-29 12:14:14 TCP/IP File Server started
+19-10-29 12:44:14 TCP/IP File Server started
+19-10-29 13:14:14 TCP/IP File Server started
+19-10-29 13:44:14 TCP/IP File Server started
+19-10-29 14:14:14 TCP/IP File Server started
+19-10-29 14:44:14 TCP/IP File Server started
+19-10-29 15:14:14 TCP/IP File Server started
+19-10-29 15:44:14 TCP/IP File Server started
+19-10-29 16:14:14 TCP/IP File Server started
+19-10-29 16:44:14 TCP/IP File Server started
+19-10-29 17:14:14 TCP/IP File Server started
+19-10-29 17:44:14 TCP/IP File Server started
+19-10-29 18:14:14 TCP/IP File Server started
+19-10-29 18:44:14 TCP/IP File Server started
+19-10-29 19:14:14 TCP/IP File Server started
+19-10-29 19:44:14 TCP/IP File Server started
+19-10-29 20:14:14 TCP/IP File Server started
+19-10-29 20:44:14 TCP/IP File Server started
+19-10-29 21:14:14 TCP/IP File Server started
+19-10-29 21:44:14 TCP/IP File Server started
+19-10-29 22:14:14 TCP/IP File Server started
+19-10-29 22:44:14 TCP/IP File Server started
+19-10-29 23:14:14 TCP/IP File Server started
+19-10-29 23:44:14 TCP/IP File Server started
+19-10-30 00:14:14 TCP/IP File Server started
+19-10-30 00:44:14 TCP/IP File Server started
+19-10-30 01:14:14 TCP/IP File Server started
+19-10-30 01:44:14 TCP/IP File Server started
+19-10-30 02:14:14 TCP/IP File Server started
+19-10-30 02:44:14 TCP/IP File Server started
+19-10-30 03:14:14 TCP/IP File Server started
+19-10-30 03:44:14 TCP/IP File Server started
+19-10-30 04:14:14 TCP/IP File Server started
+19-10-30 04:44:14 TCP/IP File Server started
+19-10-30 05:14:14 TCP/IP File Server started
+19-10-30 05:44:14 TCP/IP File Server started
+19-10-30 06:14:14 TCP/IP File Server started
+19-10-30 06:44:14 TCP/IP File Server started
+19-10-30 07:14:14 TCP/IP File Server started
+19-10-30 07:44:14 TCP/IP File Server started
+19-10-30 08:14:14 TCP/IP File Server started
+19-10-30 08:44:14 TCP/IP File Server started
+19-10-30 09:14:14 TCP/IP File Server started
+19-10-30 09:44:14 TCP/IP File Server started
+19-10-30 10:14:14 TCP/IP File Server started
+19-10-30 10:44:14 TCP/IP File Server started
+19-10-30 11:14:14 TCP/IP File Server started
+19-10-30 11:44:14 TCP/IP File Server started
+19-10-30 12:14:14 TCP/IP File Server started
+19-10-30 12:44:14 TCP/IP File Server started
+19-10-30 13:14:14 TCP/IP File Server started
+19-10-30 13:44:14 TCP/IP File Server started
+19-10-30 14:14:14 TCP/IP File Server started
+19-10-30 14:44:14 TCP/IP File Server started
+19-10-30 15:14:14 TCP/IP File Server started
+19-10-30 15:44:14 TCP/IP File Server started
+19-10-30 16:14:14 TCP/IP File Server started
+19-10-30 16:44:14 TCP/IP File Server started
+19-10-30 17:14:14 TCP/IP File Server started
+19-10-30 17:44:14 TCP/IP File Server started
+19-10-30 18:14:14 TCP/IP File Server started
+19-10-30 18:44:14 TCP/IP File Server started
+19-10-30 19:14:14 TCP/IP File Server started
+19-10-30 19:44:14 TCP/IP File Server started
+19-10-30 20:14:14 TCP/IP File Server started
+19-10-30 20:44:14 TCP/IP File Server started
+19-10-30 21:14:14 TCP/IP File Server started
+19-10-30 21:44:14 TCP/IP File Server started
+19-10-30 22:14:14 TCP/IP File Server started
+19-10-30 22:44:14 TCP/IP File Server started
+19-10-30 23:14:14 TCP/IP File Server started
+19-10-30 23:44:14 TCP/IP File Server started
+19-10-31 00:14:14 TCP/IP File Server started
+19-10-31 00:28:37 Loading Map.
+19-10-31 00:28:37 Creating Weapons.
+19-10-31 00:28:37 Starting Game Server.
+19-10-31 00:28:37 TCP/IP File Server started
+19-10-31 00:29:40  Net - d4zy connected 31-10-19 00:29:40
+19-10-31 00:29:41  Net - sT.- SeenzacL* connected 31-10-19 00:29:41
+19-10-31 00:29:43  Net - D.Forc3| Maaxis* [PP] connected 31-10-19 00:29:43
+19-10-31 00:29:46  Net - D.Forc3| Maaxis* [PP] connected 31-10-19 00:29:46
+19-10-31 00:29:46  Net - sT.- YnGwi3 connected 31-10-19 00:29:46
+19-10-31 00:29:47  Net - sT.- YnGwi3 connected 31-10-19 00:29:47
+19-10-31 00:29:47  Net - D.Forc3| Maaxis* [PP] disconnected 31-10-19 00:29:47
+19-10-31 00:29:48  Net - sT.- SeenzacL* connected 31-10-19 00:29:48
+19-10-31 00:29:50  Net - D.Forc3| Maaxis* [PP] connected 31-10-19 00:29:50
+19-10-31 00:29:54  Net - D.Forc3| Maaxis* [PP] disconnected 31-10-19 00:29:54
+19-10-31 00:30:14  Net - d4zy connected 31-10-19 00:30:14
+19-10-31 00:30:30  Net - d4zy connected 31-10-19 00:30:30
+19-10-31 00:30:40  Net - SuperSaiyanFlow connected 31-10-19 00:30:40
+19-10-31 00:30:49  Net - d4zy connected 31-10-19 00:30:49
+19-10-31 00:31:06  Net - sT.- YnGwi3 disconnected 31-10-19 00:31:06
+19-10-31 00:31:09  Net - sT.- YnGwi3 connected 31-10-19 00:31:09
+19-10-31 00:31:10  Net - d4zy disconnected 31-10-19 00:31:10
+19-10-31 00:31:22  Net - d4zy connected 31-10-19 00:31:22
+19-10-31 00:31:36  Net - SuperSaiyanFlow disconnected 31-10-19 00:31:36
+19-10-31 00:31:44  Net - Equilibrium connected 31-10-19 00:31:44
+19-10-31 00:32:31  Net - Equilibrium disconnected 31-10-19 00:32:31
+19-10-31 00:32:44  Net - Urraka connected 31-10-19 00:32:44
+19-10-31 00:35:55  Net - nP [KillMe!] connected 31-10-19 00:35:55
+19-10-31 00:36:03  Net - nP [KillMe!] connected 31-10-19 00:36:03
+19-10-31 00:39:04  Net - d4zy connected 31-10-19 00:39:04
+19-10-31 00:39:13  Net - d4zy connected 31-10-19 00:39:13
+19-10-31 00:39:17  Net - D.Forc3| Maaxis* [PP] connected 31-10-19 00:39:17
+19-10-31 00:39:35  Net - sT.- SeenzacL* connected 31-10-19 00:39:35
+19-10-31 00:39:56  Net - sT.- YnGwi3 connected 31-10-19 00:39:56
+19-10-31 00:40:25  Net - sT.- YnGwi3 disconnected 31-10-19 00:40:25
+19-10-31 00:40:27  Net - sT.- YnGwi3 connected 31-10-19 00:40:27
+19-10-31 00:40:30  Net - sT.- SeenzacL* connected 31-10-19 00:40:30
+19-10-31 00:40:41  Net - sT.- YnGwi3 disconnected 31-10-19 00:40:41
+19-10-31 00:40:41  Net - nP [KillMe!] connected 31-10-19 00:40:41
+19-10-31 00:40:52  Net - D.Forc3| Maaxis* [PP] connected 31-10-19 00:40:52
+19-10-31 00:40:57  Net - Urraka disconnected 31-10-19 00:40:57
+19-10-31 00:40:59  Net - D.Forc3| Maaxis* [PP] disconnected 31-10-19 00:40:59
+19-10-31 00:41:00  Net - sT.- SeenzacL* disconnected 31-10-19 00:41:00
+19-10-31 00:41:00  Net - nP [KillMe!] disconnected 31-10-19 00:41:00
+19-10-31 00:41:00  Net - d4zy disconnected 31-10-19 00:41:00
+19-10-31 00:41:23 Loading Map.
+19-10-31 00:41:23 Creating Weapons.
+19-10-31 00:41:23 Starting Game Server.
+19-10-31 00:41:23 TCP/IP File Server started
+19-10-31 00:41:31  Net - sT.- SeenzacL* connected 31-10-19 00:41:31
+19-10-31 00:41:34  Net - sT.- SeenzacL* disconnected 31-10-19 00:41:34
+19-10-31 00:41:35  Net - Urraka connected 31-10-19 00:41:35
+19-10-31 00:41:35  Net - D.Forc3| Maaxis* [PP] connected 31-10-19 00:41:35
+19-10-31 00:41:43  Net - D.Forc3| Maaxis* [PP] disconnected 31-10-19 00:41:43
+19-10-31 00:41:46  Net - d4zy connected 31-10-19 00:41:46
+19-10-31 00:41:46  Net - D.Forc3| Maaxis* [PP] connected 31-10-19 00:41:46
+19-10-31 00:42:04  Net - D.Forc3| Maaxis* [PP] disconnected 31-10-19 00:42:04
+19-10-31 00:42:07  Net - d4zy disconnected 31-10-19 00:42:07
+19-10-31 00:42:11  Net - nP [KillMe!] connected 31-10-19 00:42:11
+19-10-31 00:42:14  Net - D.Forc3| Maaxis* [PP] connected 31-10-19 00:42:14
+19-10-31 00:42:43  Net - polola connected 31-10-19 00:42:43
+19-10-31 00:43:00  Net - D.Forc3| Maaxis* [PP] disconnected 31-10-19 00:43:00
+19-10-31 00:43:01  Net - nP [KillMe!] disconnected 31-10-19 00:43:01
+19-10-31 00:43:05  Net - polola disconnected 31-10-19 00:43:05
+19-10-31 00:44:14 TCP/IP File Server started
+19-10-31 00:45:31  Net - Urraka disconnected 31-10-19 00:45:31
+19-10-31 01:14:14 TCP/IP File Server started
+19-10-31 01:44:14 TCP/IP File Server started
+19-10-31 02:14:14 TCP/IP File Server started
+19-10-31 02:44:14 TCP/IP File Server started
+19-10-31 03:14:14 TCP/IP File Server started
+19-10-31 03:20:48 Loading Map.
+19-10-31 03:20:48 Creating Weapons.
+19-10-31 03:20:48 Starting Game Server.
+19-10-31 03:20:48 TCP/IP File Server started
+19-10-31 03:21:09  Net - D.Forc3| Maaxis* [PP] connected 31-10-19 03:21:09
+19-10-31 03:21:24  Net - nP [KillMe!] connected 31-10-19 03:21:24
+19-10-31 03:21:24  Net - soldat://na.gather.solda connected 31-10-19 03:21:24
+19-10-31 03:21:26  Net - soldat://na.gather.solda disconnected 31-10-19 03:21:26
+19-10-31 03:21:29  Net - sT.- SeenzacL* connected 31-10-19 03:21:29
+19-10-31 03:21:32  Net - sT.- SeenzacL* connected 31-10-19 03:21:32
+19-10-31 03:21:34  Net - #1 Mand3s connected 31-10-19 03:21:34
+19-10-31 03:21:38  Net - soldat://na.gather.solda connected 31-10-19 03:21:38
+19-10-31 03:21:40  Net - #1 Mand3s disconnected 31-10-19 03:21:40
+19-10-31 03:21:42  Net - #1 Mand3s connected 31-10-19 03:21:42
+19-10-31 03:24:02  Net - Cross.cL connected 31-10-19 03:24:02
+19-10-31 03:24:54  Net - #1 Mand3s connected 31-10-19 03:24:54
+19-10-31 03:25:07  Net - D.Forc3| Maaxis* [PP] connected 31-10-19 03:25:07
+19-10-31 03:25:41  Net - D.Forc3| Maaxis* [PP] disconnected 31-10-19 03:25:41
+19-10-31 03:25:42  Net - #1 Mand3s disconnected 31-10-19 03:25:42
+19-10-31 03:25:43  Net - sT.- SeenzacL* disconnected 31-10-19 03:25:43
+19-10-31 03:25:54  Net - 1 connected 31-10-19 03:25:54
+19-10-31 03:25:54  Net - nP [KillMe!] disconnected 31-10-19 03:25:54
+19-10-31 03:26:02  Net - 7 connected 31-10-19 03:26:02
+19-10-31 03:26:09  Net - 6 connected 31-10-19 03:26:09
+19-10-31 03:26:11  Net - 1 disconnected 31-10-19 03:26:11
+19-10-31 03:26:19  Net - 0 connected 31-10-19 03:26:19
+19-10-31 03:26:20  Net - 7 disconnected 31-10-19 03:26:20
+19-10-31 03:26:24  Net - 5 connected 31-10-19 03:26:24
+19-10-31 03:26:24  Net - 0 disconnected 31-10-19 03:26:24
+19-10-31 03:26:24  Net - 6 disconnected 31-10-19 03:26:24
+19-10-31 03:26:27  Net - 5 disconnected 31-10-19 03:26:27
+19-10-31 03:26:30  Net - 7 connected 31-10-19 03:26:30
+19-10-31 03:26:33  Net - 3 connected 31-10-19 03:26:33
+19-10-31 03:26:35  Net - 000 connected 31-10-19 03:26:35
+19-10-31 03:26:38  Net - 8 connected 31-10-19 03:26:38
+19-10-31 03:26:49  Net - 8 disconnected 31-10-19 03:26:49
+19-10-31 03:26:52  Net - 000 disconnected 31-10-19 03:26:52
+19-10-31 03:26:52  Net - 8 connected 31-10-19 03:26:52
+19-10-31 03:26:55  Net - 000 connected 31-10-19 03:26:55
+19-10-31 03:27:40  Net - 000 connected 31-10-19 03:27:40
+19-10-31 03:27:53  Net - 7 connected 31-10-19 03:27:53
+19-10-31 03:27:56  Net - 3 connected 31-10-19 03:27:56
+19-10-31 03:27:57  Net - 8 connected 31-10-19 03:27:57
+19-10-31 03:37:29  Net - Haste connected 31-10-19 03:37:29
+19-10-31 03:39:44  Net - Haste disconnected 31-10-19 03:39:44
+19-10-31 03:44:14 TCP/IP File Server started
+19-10-31 03:51:45  Net - Cross.cL disconnected 31-10-19 03:51:45
+19-10-31 03:51:50  Net - Cross.cL connected 31-10-19 03:51:50
+19-10-31 03:52:23  Net - 8 disconnected 31-10-19 03:52:23
+19-10-31 03:52:27  Net - 8 connected 31-10-19 03:52:27
+19-10-31 03:52:30  Net - 8 connected 31-10-19 03:52:30
+19-10-31 03:52:34  Net - 8 connected 31-10-19 03:52:34
+19-10-31 04:02:25  Net - 7 disconnected 31-10-19 04:02:25
+19-10-31 04:02:28  Net - 000 disconnected 31-10-19 04:02:28
+19-10-31 04:02:29  Net - soldat://na.gather.solda disconnected 31-10-19 04:02:29
+19-10-31 04:02:30  Net - 8 disconnected 31-10-19 04:02:30
+19-10-31 04:02:32  Net - 3 disconnected 31-10-19 04:02:32
+19-10-31 04:02:39  Net - Cross.cL disconnected 31-10-19 04:02:39
+19-10-31 04:14:14 TCP/IP File Server started
+19-10-31 04:44:14 TCP/IP File Server started
+19-10-31 05:14:14 TCP/IP File Server started
+19-10-31 05:44:14 TCP/IP File Server started
+19-10-31 06:14:14 TCP/IP File Server started
+19-10-31 06:44:14 TCP/IP File Server started
+19-10-31 07:14:14 TCP/IP File Server started
+19-10-31 07:44:14 TCP/IP File Server started
+19-10-31 08:14:14 TCP/IP File Server started
+19-10-31 08:44:14 TCP/IP File Server started
+19-10-31 09:14:14 TCP/IP File Server started
+19-10-31 09:44:14 TCP/IP File Server started
+19-10-31 10:14:14 TCP/IP File Server started
+19-10-31 10:44:14 TCP/IP File Server started
+19-10-31 11:14:14 TCP/IP File Server started
+19-10-31 11:44:14 TCP/IP File Server started
+19-10-31 12:14:14 TCP/IP File Server started
+19-10-31 12:44:14 TCP/IP File Server started
+19-10-31 13:14:14 TCP/IP File Server started
+19-10-31 13:44:14 TCP/IP File Server started
+19-10-31 14:14:14 TCP/IP File Server started
+19-10-31 14:44:14 TCP/IP File Server started
+19-10-31 14:55:42  Net - *>Spread<* connected 31-10-19 14:55:42
+19-10-31 14:55:51  Net - *>Spread<* disconnected 31-10-19 14:55:51
+19-10-31 15:14:14 TCP/IP File Server started
+19-10-31 15:44:14 TCP/IP File Server started
+19-10-31 16:14:14 TCP/IP File Server started
+19-10-31 16:44:14 TCP/IP File Server started
+19-10-31 17:14:14 TCP/IP File Server started
+19-10-31 17:44:14 TCP/IP File Server started
+19-10-31 18:14:14 TCP/IP File Server started
+19-10-31 18:44:14 TCP/IP File Server started
+19-10-31 19:14:14 TCP/IP File Server started
+19-10-31 19:44:14 TCP/IP File Server started
+19-10-31 20:14:14 TCP/IP File Server started
+19-10-31 20:44:14 TCP/IP File Server started
+19-10-31 21:14:14 TCP/IP File Server started
+19-10-31 21:44:14 TCP/IP File Server started
+19-10-31 22:14:14 TCP/IP File Server started
+19-10-31 22:44:14 TCP/IP File Server started
+19-10-31 23:14:14 TCP/IP File Server started
+19-10-31 23:44:14 TCP/IP File Server started
+19-11-01 00:14:14 TCP/IP File Server started
+19-11-01 00:44:14 TCP/IP File Server started
+19-11-01 00:47:38  Net - 7 connected 1-11-19 00:47:38
+19-11-01 00:48:06  Net - 7 disconnected 1-11-19 00:48:06
+19-11-01 01:14:14 TCP/IP File Server started
+19-11-01 01:44:14 TCP/IP File Server started
+19-11-01 02:14:14 TCP/IP File Server started
+19-11-01 02:44:14 TCP/IP File Server started
+19-11-01 03:14:14 TCP/IP File Server started
+19-11-01 03:44:14 TCP/IP File Server started
+19-11-01 04:14:14 TCP/IP File Server started
+19-11-01 04:44:14 TCP/IP File Server started
+19-11-01 05:14:14 TCP/IP File Server started
+19-11-01 05:44:14 TCP/IP File Server started
+19-11-01 06:14:14 TCP/IP File Server started
+19-11-01 06:44:14 TCP/IP File Server started
+19-11-01 07:14:14 TCP/IP File Server started
+19-11-01 07:44:14 TCP/IP File Server started
+19-11-01 08:14:14 TCP/IP File Server started
+19-11-01 08:44:14 TCP/IP File Server started
+19-11-01 09:14:14 TCP/IP File Server started
+19-11-01 09:44:14 TCP/IP File Server started
+19-11-01 10:14:14 TCP/IP File Server started
+19-11-01 10:44:14 TCP/IP File Server started
+19-11-01 11:14:14 TCP/IP File Server started
+19-11-01 11:44:14 TCP/IP File Server started
+19-11-01 12:14:14 TCP/IP File Server started
+19-11-01 12:44:14 TCP/IP File Server started
+19-11-01 13:14:14 TCP/IP File Server started
+19-11-01 13:44:14 TCP/IP File Server started
+19-11-01 14:14:14 TCP/IP File Server started
+19-11-01 14:44:14 TCP/IP File Server started
+19-11-01 15:14:14 TCP/IP File Server started
+19-11-01 15:44:14 TCP/IP File Server started
+19-11-01 16:14:14 TCP/IP File Server started
+19-11-01 16:44:14 TCP/IP File Server started
+19-11-01 17:14:14 TCP/IP File Server started
+19-11-01 17:44:14 TCP/IP File Server started
+19-11-01 18:14:14 TCP/IP File Server started
+19-11-01 18:44:14 TCP/IP File Server started
+19-11-01 19:14:14 TCP/IP File Server started
+19-11-01 19:44:14 TCP/IP File Server started
+19-11-01 20:14:14 TCP/IP File Server started
+19-11-01 20:44:14 TCP/IP File Server started
+19-11-01 21:14:14 TCP/IP File Server started
+19-11-01 21:44:14 TCP/IP File Server started
+19-11-01 22:14:14 TCP/IP File Server started
+19-11-01 22:44:14 TCP/IP File Server started
+19-11-01 23:14:14 TCP/IP File Server started
+19-11-01 23:44:14 TCP/IP File Server started
+19-11-02 00:14:14 TCP/IP File Server started
+19-11-02 00:44:14 TCP/IP File Server started
+19-11-02 01:14:14 TCP/IP File Server started
+19-11-02 01:44:14 TCP/IP File Server started
+19-11-02 02:14:14 TCP/IP File Server started
+19-11-02 02:44:14 TCP/IP File Server started
+19-11-02 03:14:14 TCP/IP File Server started
+19-11-02 03:18:55 Loading Map.
+19-11-02 03:18:55 Creating Weapons.
+19-11-02 03:18:55 Starting Game Server.
+19-11-02 03:18:55 TCP/IP File Server started
+19-11-02 03:19:45  Net - Major connected 2-11-19 03:19:45
+19-11-02 03:19:53  Net - *CAPPY XCX connected 2-11-19 03:19:53
+19-11-02 03:19:54  Net - Btk'Sulfur connected 2-11-19 03:19:54
+19-11-02 03:19:56  Net - Mr. Bait connected 2-11-19 03:19:56
+19-11-02 03:19:57  Net - Harron connected 2-11-19 03:19:57
+19-11-02 03:20:36  Net - Harron disconnected 2-11-19 03:20:36
+19-11-02 03:20:51  Net - Harron connected 2-11-19 03:20:51
+19-11-02 03:21:21  Net - Btk'7ens4 connected 2-11-19 03:21:21
+19-11-02 03:21:34  Net - Btk'7ens4 connected 2-11-19 03:21:34
+19-11-02 03:44:14 TCP/IP File Server started
+19-11-02 03:54:25  Net - *CAPPY XCX disconnected 2-11-19 03:54:25
+19-11-02 03:54:27  Net - Major disconnected 2-11-19 03:54:27
+19-11-02 03:54:28  Net - Mr. Bait disconnected 2-11-19 03:54:28
+19-11-02 03:54:29  Net - Btk'Sulfur disconnected 2-11-19 03:54:29
+19-11-02 03:54:30  Net - Harron disconnected 2-11-19 03:54:30
+19-11-02 03:54:30  Net - Btk'7ens4 disconnected 2-11-19 03:54:30
+19-11-02 04:14:14 TCP/IP File Server started
+19-11-02 04:44:14 TCP/IP File Server started
+19-11-02 05:14:14 TCP/IP File Server started
+19-11-02 05:44:14 TCP/IP File Server started

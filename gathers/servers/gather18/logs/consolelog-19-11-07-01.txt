@@ -1,0 +1,3648 @@
+19-11-07 21:59:38    Console Log Started
+19-11-07 21:59:38 Welcome to Soldat 1.7.1
+19-11-07 21:59:38  [*] Preparing scripts to be launched
+19-11-07 21:59:38  [*] [BasicCommands] Compilation started
+19-11-07 21:59:38  [*] [BasicCommands] Compilation complete
+19-11-07 21:59:38  [*] [BasicCommands] Loading bytecode
+19-11-07 21:59:38  [*] [BasicCommands] Bytecode loaded
+19-11-07 21:59:38  [*] [GUtils] Compilation started
+19-11-07 21:59:38  [*] [GUtils] [Warning] main.pas(97:34): "True and" is not needed
+19-11-07 21:59:38  [*] [GUtils] Compilation complete
+19-11-07 21:59:38  [*] [GUtils] Loading bytecode
+19-11-07 21:59:38  [*] [GUtils] Bytecode loaded
+19-11-07 21:59:38  [*] Done
+19-11-07 21:59:38 Lothic - Gothic Lobby Room
+19-11-07 21:59:38 Loaded weapons mod "Default v1.8"
+19-11-07 21:59:38  Connection for file server started. Port: 23012
+19-11-07 21:59:45 Admin connected (79.136.24.196).
+19-11-07 21:59:51 Admin connected (176.36.24.247).
+19-11-07 21:59:52 /maxplayers (176.36.24.247)
+19-11-07 21:59:52 Max players is 16
+19-11-07 21:59:52 /maxrespawntime (176.36.24.247)
+19-11-07 21:59:52 Maximum Respawn time is 5 seconds
+19-11-07 21:59:52 /respawntime (176.36.24.247)
+19-11-07 21:59:52 Respawn time is 3 seconds
+19-11-07 21:59:52 /limit (176.36.24.247)
+19-11-07 21:59:52 Current kill/point/capture limit is 10
+19-11-07 21:59:52 /timelimit (176.36.24.247)
+19-11-07 21:59:52 Current time limit is 10 minutes
+19-11-07 21:59:52 /friendlyfire (176.36.24.247)
+19-11-07 21:59:52 Friendly Fire is 0
+19-11-07 21:59:52 /scripting (176.36.24.247)
+19-11-07 21:59:52 Scripting is currently Enabled (1)
+19-11-07 21:59:52 /balance (176.36.24.247)
+19-11-07 21:59:52 Bot Balance is off (0)
+19-11-07 21:59:52 /bonus (176.36.24.247)
+19-11-07 21:59:52 Current bonus frequency is 0
+19-11-07 21:59:52 /vote% (176.36.24.247)
+19-11-07 21:59:52 Voting percent is 60
+19-11-07 22:00:07 Admin connected (206.81.24.116).
+19-11-07 22:00:08 /say GatherBot v0.6 is now connected to server. (206.81.24.116)
+19-11-07 22:00:08 /password 2123 (206.81.24.116)
+19-11-07 22:00:08 Server password changed to 2123
+19-11-07 22:00:08 /say Server password was changed... (206.81.24.116)
+19-11-07 22:04:38 Time Left: 5 minutes
+19-11-07 22:05:38 Time Left: 4 minutes
+19-11-07 22:06:38 Time Left: 3 minutes
+19-11-07 22:07:38 Time Left: 2 minutes
+19-11-07 22:08:38 Time Left: 1 minutes
+19-11-07 22:09:38 Next map: Lobby
+19-11-07 22:09:44 Lothic - Gothic Lobby Room
+19-11-07 22:14:44 Time Left: 5 minutes
+19-11-07 22:15:44 Time Left: 4 minutes
+19-11-07 22:16:44 Time Left: 3 minutes
+19-11-07 22:17:44 Time Left: 2 minutes
+19-11-07 22:18:44 Time Left: 1 minutes
+19-11-07 22:19:44 Next map: Lobby
+19-11-07 22:19:49 Lothic - Gothic Lobby Room
+19-11-07 22:24:49 Time Left: 5 minutes
+19-11-07 22:25:49 Time Left: 4 minutes
+19-11-07 22:26:49 Time Left: 3 minutes
+19-11-07 22:27:49 Time Left: 2 minutes
+19-11-07 22:28:49 Time Left: 1 minutes
+19-11-07 22:29:49 Next map: Lobby
+19-11-07 22:29:54 Lothic - Gothic Lobby Room
+19-11-07 22:34:54 Time Left: 5 minutes
+19-11-07 22:35:54 Time Left: 4 minutes
+19-11-07 22:36:54 Time Left: 3 minutes
+19-11-07 22:37:54 Time Left: 2 minutes
+19-11-07 22:38:54 Time Left: 1 minutes
+19-11-07 22:39:54 Next map: Lobby
+19-11-07 22:40:00 Lothic - Gothic Lobby Room
+19-11-07 22:45:00 Time Left: 5 minutes
+19-11-07 22:46:00 Time Left: 4 minutes
+19-11-07 22:47:00 Time Left: 3 minutes
+19-11-07 22:48:00 Time Left: 2 minutes
+19-11-07 22:49:00 Time Left: 1 minutes
+19-11-07 22:50:00 Next map: Lobby
+19-11-07 22:50:05 Lothic - Gothic Lobby Room
+19-11-07 22:55:05 Time Left: 5 minutes
+19-11-07 22:56:05 Time Left: 4 minutes
+19-11-07 22:57:05 Time Left: 3 minutes
+19-11-07 22:58:05 Time Left: 2 minutes
+19-11-07 22:59:05 Time Left: 1 minutes
+19-11-07 23:00:05 Next map: Lobby
+19-11-07 23:00:10 Lothic - Gothic Lobby Room
+19-11-07 23:05:10 Time Left: 5 minutes
+19-11-07 23:06:10 Time Left: 4 minutes
+19-11-07 23:07:10 Time Left: 3 minutes
+19-11-07 23:08:10 Time Left: 2 minutes
+19-11-07 23:09:10 Time Left: 1 minutes
+19-11-07 23:10:10 Next map: Lobby
+19-11-07 23:10:16 Lothic - Gothic Lobby Room
+19-11-07 23:15:16 Time Left: 5 minutes
+19-11-07 23:16:16 Time Left: 4 minutes
+19-11-07 23:17:16 Time Left: 3 minutes
+19-11-07 23:18:16 Time Left: 2 minutes
+19-11-07 23:19:16 Time Left: 1 minutes
+19-11-07 23:20:16 Next map: Lobby
+19-11-07 23:20:21 Lothic - Gothic Lobby Room
+19-11-07 23:25:21 Time Left: 5 minutes
+19-11-07 23:26:21 Time Left: 4 minutes
+19-11-07 23:27:21 Time Left: 3 minutes
+19-11-07 23:28:21 Time Left: 2 minutes
+19-11-07 23:29:21 Time Left: 1 minutes
+19-11-07 23:30:21 Next map: Lobby
+19-11-07 23:30:26 Lothic - Gothic Lobby Room
+19-11-07 23:35:26 Time Left: 5 minutes
+19-11-07 23:36:26 Time Left: 4 minutes
+19-11-07 23:37:26 Time Left: 3 minutes
+19-11-07 23:38:26 Time Left: 2 minutes
+19-11-07 23:39:26 Time Left: 1 minutes
+19-11-07 23:40:26 Next map: Lobby
+19-11-07 23:40:32 Lothic - Gothic Lobby Room
+19-11-07 23:45:32 Time Left: 5 minutes
+19-11-07 23:46:32 Time Left: 4 minutes
+19-11-07 23:47:32 Time Left: 3 minutes
+19-11-07 23:48:32 Time Left: 2 minutes
+19-11-07 23:49:32 Time Left: 1 minutes
+19-11-07 23:50:32 Next map: Lobby
+19-11-07 23:50:37 Lothic - Gothic Lobby Room
+19-11-07 23:55:37 Time Left: 5 minutes
+19-11-07 23:56:37 Time Left: 4 minutes
+19-11-07 23:57:37 Time Left: 3 minutes
+19-11-07 23:58:37 Time Left: 2 minutes
+19-11-07 23:59:37 Time Left: 1 minutes
+19-11-08 00:00:37 Next map: Lobby
+19-11-08 00:00:42 Lothic - Gothic Lobby Room
+19-11-08 00:05:42 Time Left: 5 minutes
+19-11-08 00:06:42 Time Left: 4 minutes
+19-11-08 00:07:42 Time Left: 3 minutes
+19-11-08 00:08:42 Time Left: 2 minutes
+19-11-08 00:09:42 Time Left: 1 minutes
+19-11-08 00:10:42 Next map: Lobby
+19-11-08 00:10:48 Lothic - Gothic Lobby Room
+19-11-08 00:15:48 Time Left: 5 minutes
+19-11-08 00:16:48 Time Left: 4 minutes
+19-11-08 00:17:48 Time Left: 3 minutes
+19-11-08 00:18:48 Time Left: 2 minutes
+19-11-08 00:19:48 Time Left: 1 minutes
+19-11-08 00:20:48 Next map: Lobby
+19-11-08 00:20:53 Lothic - Gothic Lobby Room
+19-11-08 00:25:53 Time Left: 5 minutes
+19-11-08 00:26:53 Time Left: 4 minutes
+19-11-08 00:27:53 Time Left: 3 minutes
+19-11-08 00:28:53 Time Left: 2 minutes
+19-11-08 00:29:53 Time Left: 1 minutes
+19-11-08 00:30:53 Next map: Lobby
+19-11-08 00:30:58 Lothic - Gothic Lobby Room
+19-11-08 00:35:58 Time Left: 5 minutes
+19-11-08 00:36:58 Time Left: 4 minutes
+19-11-08 00:37:58 Time Left: 3 minutes
+19-11-08 00:38:58 Time Left: 2 minutes
+19-11-08 00:39:58 Time Left: 1 minutes
+19-11-08 00:40:58 Next map: Lobby
+19-11-08 00:41:04 Lothic - Gothic Lobby Room
+19-11-08 00:46:04 Time Left: 5 minutes
+19-11-08 00:47:04 Time Left: 4 minutes
+19-11-08 00:48:04 Time Left: 3 minutes
+19-11-08 00:49:04 Time Left: 2 minutes
+19-11-08 00:50:04 Time Left: 1 minutes
+19-11-08 00:51:04 Next map: Lobby
+19-11-08 00:51:09 Lothic - Gothic Lobby Room
+19-11-08 00:56:09 Time Left: 5 minutes
+19-11-08 00:57:09 Time Left: 4 minutes
+19-11-08 00:58:09 Time Left: 3 minutes
+19-11-08 00:59:09 Time Left: 2 minutes
+19-11-08 01:00:09 Time Left: 1 minutes
+19-11-08 01:01:09 Next map: Lobby
+19-11-08 01:01:14 Lothic - Gothic Lobby Room
+19-11-08 01:06:14 Time Left: 5 minutes
+19-11-08 01:07:14 Time Left: 4 minutes
+19-11-08 01:08:14 Time Left: 3 minutes
+19-11-08 01:09:14 Time Left: 2 minutes
+19-11-08 01:10:14 Time Left: 1 minutes
+19-11-08 01:11:14 Next map: Lobby
+19-11-08 01:11:20 Lothic - Gothic Lobby Room
+19-11-08 01:16:20 Time Left: 5 minutes
+19-11-08 01:17:20 Time Left: 4 minutes
+19-11-08 01:18:20 Time Left: 3 minutes
+19-11-08 01:19:20 Time Left: 2 minutes
+19-11-08 01:20:20 Time Left: 1 minutes
+19-11-08 01:21:19 Next map: Lobby
+19-11-08 01:21:25 Lothic - Gothic Lobby Room
+19-11-08 01:26:25 Time Left: 5 minutes
+19-11-08 01:27:25 Time Left: 4 minutes
+19-11-08 01:28:25 Time Left: 3 minutes
+19-11-08 01:29:25 Time Left: 2 minutes
+19-11-08 01:30:25 Time Left: 1 minutes
+19-11-08 01:31:25 Next map: Lobby
+19-11-08 01:31:30 Lothic - Gothic Lobby Room
+19-11-08 01:36:30 Time Left: 5 minutes
+19-11-08 01:37:30 Time Left: 4 minutes
+19-11-08 01:38:30 Time Left: 3 minutes
+19-11-08 01:39:30 Time Left: 2 minutes
+19-11-08 01:40:30 Time Left: 1 minutes
+19-11-08 01:41:30 Next map: Lobby
+19-11-08 01:41:35 Lothic - Gothic Lobby Room
+19-11-08 01:46:35 Time Left: 5 minutes
+19-11-08 01:47:35 Time Left: 4 minutes
+19-11-08 01:48:35 Time Left: 3 minutes
+19-11-08 01:49:35 Time Left: 2 minutes
+19-11-08 01:50:35 Time Left: 1 minutes
+19-11-08 01:51:35 Next map: Lobby
+19-11-08 01:51:41 Lothic - Gothic Lobby Room
+19-11-08 01:56:41 Time Left: 5 minutes
+19-11-08 01:57:41 Time Left: 4 minutes
+19-11-08 01:58:41 Time Left: 3 minutes
+19-11-08 01:59:41 Time Left: 2 minutes
+19-11-08 02:00:41 Time Left: 1 minutes
+19-11-08 02:01:41 Next map: Lobby
+19-11-08 02:01:46 Lothic - Gothic Lobby Room
+19-11-08 02:06:46 Time Left: 5 minutes
+19-11-08 02:07:46 Time Left: 4 minutes
+19-11-08 02:08:46 Time Left: 3 minutes
+19-11-08 02:09:46 Time Left: 2 minutes
+19-11-08 02:10:46 Time Left: 1 minutes
+19-11-08 02:11:46 Next map: Lobby
+19-11-08 02:11:51 Lothic - Gothic Lobby Room
+19-11-08 02:16:51 Time Left: 5 minutes
+19-11-08 02:17:51 Time Left: 4 minutes
+19-11-08 02:18:51 Time Left: 3 minutes
+19-11-08 02:19:51 Time Left: 2 minutes
+19-11-08 02:20:51 Time Left: 1 minutes
+19-11-08 02:21:51 Next map: Lobby
+19-11-08 02:21:57 Lothic - Gothic Lobby Room
+19-11-08 02:26:57 Time Left: 5 minutes
+19-11-08 02:27:57 Time Left: 4 minutes
+19-11-08 02:28:57 Time Left: 3 minutes
+19-11-08 02:29:17 /password 8351 (206.81.24.116)
+19-11-08 02:29:17 Server password changed to 8351
+19-11-08 02:29:17 /say Server password was changed... (206.81.24.116)
+19-11-08 02:29:18 /loadcon soldat.ini (206.81.24.116)
+19-11-08 02:29:18 Config reloaded soldat.ini
+19-11-08 02:29:18 Lothic - Gothic Lobby Room
+19-11-08 02:29:18 Loaded weapons mod "Default v1.8"
+19-11-08 02:29:18 Port already open
+19-11-08 02:29:18  Connection for file server started. Port: 23012
+19-11-08 02:29:19 /loadwep weapons (206.81.24.116)
+19-11-08 02:29:19 Loaded weapons mod "Default v1.8"
+19-11-08 02:29:33 200.97.219.42:23073|554851DFE2D requesting game...
+19-11-08 02:29:34 181.229.113.202:23073|6F72ADCE33A requesting game...
+19-11-08 02:29:35 Shatelia joining game (181.229.113.202:23073) HWID:6F72ADCE33A
+19-11-08 02:29:35 Shatelia has joined as spectator.
+19-11-08 02:29:36 SkiLLo joining game (200.97.219.42:23073) HWID:554851DFE2D
+19-11-08 02:29:36 SkiLLo has joined alpha team.
+19-11-08 02:29:38 [SkiLLo] !tb
+19-11-08 02:29:38 /map ctf_Nuubia (206.81.24.116)
+19-11-08 02:29:39 Shatelia has left spectators
+19-11-08 02:29:41 181.229.113.202:23073|6F72ADCE33A requesting game...
+19-11-08 02:29:41 SkiLLo has left alpha team.
+19-11-08 02:29:41 Shatelia joining game (181.229.113.202:23073) HWID:6F72ADCE33A
+19-11-08 02:29:41 Shatelia has joined as spectator.
+19-11-08 02:29:43 by Troskal and friends
+19-11-08 02:29:48 Shatelia has left spectators
+19-11-08 02:29:49 181.229.113.202:23073|6F72ADCE33A requesting game...
+19-11-08 02:29:50 Shatelia joining game (181.229.113.202:23073) HWID:6F72ADCE33A
+19-11-08 02:29:50 Shatelia has joined as spectator.
+19-11-08 02:29:52 200.97.219.42:23073|554851DFE2D requesting game...
+19-11-08 02:29:53 SkiLLo joining game (200.97.219.42:23073) HWID:554851DFE2D
+19-11-08 02:29:53 SkiLLo has joined alpha team.
+19-11-08 02:29:54 [Shatelia] !info
+19-11-08 02:29:54 /say Gather.SA (elapsed time 0:00:36) (206.81.24.116)
+19-11-08 02:29:54 /say Alpha: Yukkz - Bait] - DrSoldat (206.81.24.116)
+19-11-08 02:29:54 /say Bravo:  - Shatelia - Rattle (206.81.24.116)
+19-11-08 02:29:54 /say Tiebreaker: ctf_Nuubia (206.81.24.116)
+19-11-08 02:29:59 [Shatelia] !b
+19-11-08 02:29:59 Shatelia has joined bravo team.
+19-11-08 02:30:06 191.84.69.132:23073|129D768533E requesting game...
+19-11-08 02:30:07 (1) SkiLLo killed (2) Shatelia with Steyr AUG
+19-11-08 02:30:08 SkiLLo captured the Blue Flag
+19-11-08 02:30:09 sk!T.Rattle joining game (191.84.69.132:23073) HWID:129D768533E
+19-11-08 02:30:09 sk!T.Rattle has joined bravo team.
+19-11-08 02:30:09 <=	AUTH HWID:129D768533E (206.81.24.116)
+19-11-08 02:30:09 Authentication is required for HWID: 129D768533E
+19-11-08 02:30:12 (1) SkiLLo killed (2) sk!T.Rattle with Grenade
+19-11-08 02:30:14 (1) SkiLLo killed (2) Shatelia with Steyr AUG
+19-11-08 02:30:19 190.101.27.12:23073|36DB9B79633 requesting game...
+19-11-08 02:30:22 Enigma joining game (190.101.27.12:23073) HWID:36DB9B79633
+19-11-08 02:30:22 Enigma has joined bravo team.
+19-11-08 02:30:22 (2) sk!T.Rattle killed (1) SkiLLo with Hands
+19-11-08 02:30:22 sk!T.Rattle returned the Blue Flag
+19-11-08 02:30:28 (1) SkiLLo killed (2) Shatelia with Grenade
+19-11-08 02:30:31 (2) sk!T.Rattle killed (1) SkiLLo with Ruger 77
+19-11-08 02:30:33 Enigma captured the Red Flag
+19-11-08 02:30:40 (2) sk!T.Rattle killed (1) SkiLLo with Grenade
+19-11-08 02:30:42 [Enigma] I need backup!
+19-11-08 02:30:42 [Enigma] Son of a bitch!
+19-11-08 02:30:42 181.165.66.96:23073|34AAE3AAE25 requesting game...
+19-11-08 02:30:45 (2) Shatelia killed (1) SkiLLo with Combat Knife
+19-11-08 02:30:46 [sk!T.Rattle] !auth
+19-11-08 02:30:46 Shatelia captured the Red Flag
+19-11-08 02:30:46 /say You should use "!auth" command at Discord, not here! (206.81.24.116)
+19-11-08 02:30:47 Mr. Bait joining game (181.165.66.96:23073) HWID:34AAE3AAE25
+19-11-08 02:30:47 Mr. Bait has joined alpha team.
+19-11-08 02:30:47 <=	AUTH HWID:34AAE3AAE25 (206.81.24.116)
+19-11-08 02:30:47 Authentication is required for HWID: 34AAE3AAE25
+19-11-08 02:30:49 (2) sk!T.Rattle killed (1) Mr. Bait with Grenade
+19-11-08 02:30:50 Shatelia captured the Red Flag
+19-11-08 02:30:55 (2) Enigma killed (1) Mr. Bait with Combat Knife
+19-11-08 02:30:56 (2) Enigma killed (1) SkiLLo with Combat Knife
+19-11-08 02:30:59 [Shatelia] !msg Dr get in
+19-11-08 02:30:59 SkiLLo has joined spectators.
+19-11-08 02:31:04 Shatelia scores for Bravo Team
+19-11-08 02:31:06 Enigma captured the Red Flag
+19-11-08 02:31:08 (2) sk!T.Rattle killed (1) Mr. Bait with Ruger 77
+19-11-08 02:31:13 Enigma scores for Bravo Team
+19-11-08 02:31:16 Shatelia captured the Red Flag
+19-11-08 02:31:16 (2) sk!T.Rattle killed (1) Mr. Bait with Ruger 77
+19-11-08 02:31:22 24.253.93.226:23073|36050C7E6C6 requesting game...
+19-11-08 02:31:24 Drsoldat joining game (24.253.93.226:23073) HWID:36050C7E6C6
+19-11-08 02:31:24 Drsoldat has joined alpha team.
+19-11-08 02:31:24 [Drsoldat] Yes, Sir!
+19-11-08 02:31:24 (2) sk!T.Rattle killed (1) Mr. Bait with Ruger 77
+19-11-08 02:31:25 Shatelia scores for Bravo Team
+19-11-08 02:31:28 Enigma captured the Red Flag
+19-11-08 02:31:29 (2) sk!T.Rattle killed (1) Drsoldat with Hands
+19-11-08 02:31:33 Shatelia captured the Red Flag
+19-11-08 02:31:33 (2) sk!T.Rattle killed (1) Mr. Bait with Ruger 77
+19-11-08 02:31:36 (2) sk!T.Rattle killed (1) Drsoldat with Ruger 77
+19-11-08 02:31:39 sk!T.Rattle has been kicked.(191.84.69.132)
+19-11-08 02:31:41 (2) Shatelia killed (1) Mr. Bait with Grenade
+19-11-08 02:31:44 (2) Shatelia killed (1) Drsoldat with Grenade
+19-11-08 02:31:45 [Enigma] !ubd
+19-11-08 02:31:46 [Enigma] !ub
+19-11-08 02:31:50 [Drsoldat] Medic!
+19-11-08 02:31:52 [Mr. Bait] xd
+19-11-08 02:31:58 [Mr. Bait] que es eso de auth
+19-11-08 02:32:00 SkiLLo has joined bravo team.
+19-11-08 02:32:01 SkiLLo has joined alpha team.
+19-11-08 02:32:08 191.84.69.132:23073|129D768533E requesting game...
+19-11-08 02:32:10 sk!T.Rattle joining game (191.84.69.132:23073) HWID:129D768533E
+19-11-08 02:32:10 sk!T.Rattle has joined bravo team.
+19-11-08 02:32:10 <=	AUTH HWID:129D768533E (206.81.24.116)
+19-11-08 02:32:10 Authentication is required for HWID: 129D768533E
+19-11-08 02:32:16 Mr. Bait has been kicked.(181.165.66.96)
+19-11-08 02:32:17 (1) SkiLLo killed (2) Shatelia with Spas-12
+19-11-08 02:32:21 [Shatelia] jajajajaj
+19-11-08 02:32:25 [Enigma] que petes
+19-11-08 02:32:28 (1) SkiLLo killed (2) sk!T.Rattle with Grenade
+19-11-08 02:32:31 Shatelia captured the Red Flag
+19-11-08 02:32:35 =>	AUTH HWID:129D768533E TOKEN:833303
+19-11-08 02:32:36 <=	AUTH OK HWID:129D768533E (206.81.24.116)
+19-11-08 02:32:36 Authentication of HWID:129D768533E completed.
+19-11-08 02:32:36 [Enigma] !ub
+19-11-08 02:32:38 [sk!T.Rattle] listo
+19-11-08 02:32:40 (1) SkiLLo killed (2) Shatelia with Spas-12
+19-11-08 02:32:40 sk!T.Rattle captured the Red Flag
+19-11-08 02:32:41 (1) SkiLLo killed (2) sk!T.Rattle with Grenade
+19-11-08 02:32:41 SkiLLo returned the Red Flag
+19-11-08 02:32:44 SkiLLo captured the Blue Flag
+19-11-08 02:32:45 (1) SkiLLo killed (2) Enigma with Spas-12
+19-11-08 02:32:48 [sk!T.Rattle] porque hay que autentificarse
+19-11-08 02:32:48 (1) SkiLLo killed (2) Shatelia with Spas-12
+19-11-08 02:32:49 (1) SkiLLo killed (2) sk!T.Rattle with Spas-12
+19-11-08 02:32:51 [Shatelia] Va seguir asi por un rato
+19-11-08 02:32:55 (2) Shatelia killed (1) SkiLLo with HK MP5
+19-11-08 02:32:56 [Enigma] te caxan el pc
+19-11-08 02:32:58 Shatelia returned the Blue Flag
+19-11-08 02:33:02 Shatelia captured the Red Flag
+19-11-08 02:33:04 [Enigma] les dan los datos a la polo
+19-11-08 02:33:04 [sk!T.Rattle] la cia
+19-11-08 02:33:05 (2) Shatelia killed (1) SkiLLo with Grenade
+19-11-08 02:33:08 (2) sk!T.Rattle killed (1) Drsoldat with Ruger 77
+19-11-08 02:33:11 (1) SkiLLo killed (2) sk!T.Rattle with Spas-12
+19-11-08 02:33:14 (1) SkiLLo killed (2) Enigma with Grenade
+19-11-08 02:33:21 (1) SkiLLo killed (2) sk!T.Rattle with Spas-12
+19-11-08 02:33:24 (1) SkiLLo killed (2) Enigma with Spas-12
+19-11-08 02:33:26 [Shatelia] El grupo halcon en nuestro caso :$
+19-11-08 02:33:30 (1) SkiLLo killed (2) sk!T.Rattle with Grenade
+19-11-08 02:33:31 181.165.66.96:23073|34AAE3AAE25 requesting game...
+19-11-08 02:33:31 Shatelia captured the Red Flag
+19-11-08 02:33:32 Mr. Bait joining game (181.165.66.96:23073) HWID:34AAE3AAE25
+19-11-08 02:33:32 Mr. Bait has joined alpha team.
+19-11-08 02:33:32 <=	AUTH HWID:34AAE3AAE25 (206.81.24.116)
+19-11-08 02:33:32 Authentication is required for HWID: 34AAE3AAE25
+19-11-08 02:33:33 (1) Drsoldat killed (2) Enigma with Spas-12
+19-11-08 02:33:33 SkiLLo captured the Blue Flag
+19-11-08 02:33:33 (2) sk!T.Rattle killed (1) Drsoldat with Combat Knife
+19-11-08 02:33:34 [Drsoldat] Yes, Sir!
+19-11-08 02:33:36 (2) sk!T.Rattle killed (1) SkiLLo with Grenade
+19-11-08 02:33:36 (1) SkiLLo killed (2) sk!T.Rattle with Spas-12
+19-11-08 02:33:38 Enigma returned the Blue Flag
+19-11-08 02:33:40 Shatelia scores for Bravo Team
+19-11-08 02:33:40 [Shatelia] Easier than my sister!
+19-11-08 02:33:43 [sk!T.Rattle] I am the law!
+19-11-08 02:33:43 (RADIO)[Mr. Bait] Friendly flagger up!
+19-11-08 02:33:44 [Shatelia] Nuh Uh!
+19-11-08 02:33:47 (2) Enigma killed (1) Mr. Bait with Combat Knife
+19-11-08 02:33:49 (TEAM)[SkiLLo] map guys
+19-11-08 02:33:51 (2) Shatelia killed (1) Drsoldat with HK MP5
+19-11-08 02:33:51 (1) Drsoldat killed (2) Shatelia with Spas-12
+19-11-08 02:33:51 (1) SkiLLo killed (2) Enigma with Spas-12
+19-11-08 02:33:52 (2) Shatelia killed (1) Mr. Bait with Grenade
+19-11-08 02:33:53 (1) SkiLLo killed (2) sk!T.Rattle with Spas-12
+19-11-08 02:33:55 (TEAM)[Drsoldat] gaurd
+19-11-08 02:33:55 [Mr. Bait] no me deja copiar
+19-11-08 02:33:58 [SkiLLo] !map guardian
+19-11-08 02:34:01 [Shatelia] Recorda nomas
+19-11-08 02:34:01 [Enigma] aa pero escribelo
+19-11-08 02:34:02 [sk!T.Rattle] escribe coso de auth
+19-11-08 02:34:03 [Shatelia] Ya fue
+19-11-08 02:34:04 ctf_Guardian by SuoW
+19-11-08 02:34:05 [sk!T.Rattle] no webeen con este mapa culiaoç
+19-11-08 02:34:08 (1) SkiLLo killed (2) Enigma with Combat Knife
+19-11-08 02:34:11 SkiLLo captured the Blue Flag
+19-11-08 02:34:11 (1) Mr. Bait killed (2) Shatelia with Steyr AUG
+19-11-08 02:34:16 (2) Enigma killed (1) Mr. Bait with Grenade
+19-11-08 02:34:18 Enigma captured the Red Flag
+19-11-08 02:34:19 (2) sk!T.Rattle killed (1) SkiLLo with Ruger 77
+19-11-08 02:34:22 (2) Enigma killed (1) Drsoldat with FN Minimi
+19-11-08 02:34:22 sk!T.Rattle returned the Blue Flag
+19-11-08 02:34:23 (2) Enigma killed (1) Mr. Bait with FN Minimi
+19-11-08 02:34:26 [Drsoldat] !R
+19-11-08 02:34:26 Restarting...
+19-11-08 02:34:28 (TEAM)[sk!T.Rattle] voy mid
+19-11-08 02:34:28 (TEAM)[Drsoldat] INC MID KILL THEM!
+19-11-08 02:34:29 (TEAM)[Drsoldat] FFC MID - HELP AND CLEAR THE BASE!!
+19-11-08 02:34:31 (TEAM)[Enigma] k
+19-11-08 02:34:31 ctf_Guardian by SuoW
+19-11-08 02:34:32 (RADIO)[Shatelia] INC TOP
+19-11-08 02:34:36 (2) Enigma killed (1) SkiLLo with FN Minimi
+19-11-08 02:34:38 [SkiLLo] wtf
+19-11-08 02:34:38 =>	AUTH HWID:34AAE3AAE25 TOKEN:084786
+19-11-08 02:34:38 <=	AUTH OK HWID:34AAE3AAE25 (206.81.24.116)
+19-11-08 02:34:38 Authentication of HWID:34AAE3AAE25 completed.
+19-11-08 02:34:39 (2) Enigma killed (1) Mr. Bait with FN Minimi
+19-11-08 02:34:39 (1) Drsoldat killed (2) sk!T.Rattle with Grenade
+19-11-08 02:34:40 (1) Drsoldat killed (2) Enigma with FN Minimi
+19-11-08 02:34:40 (2) Enigma killed (1) Drsoldat with FN Minimi
+19-11-08 02:34:42 [Shatelia] Alto lag Enigma
+19-11-08 02:34:43 [Enigma] triplee
+19-11-08 02:34:45 (TEAM)[Drsoldat] FFC HIGH - HELP AND CLEAR THE BASE!!
+19-11-08 02:34:48 [SkiLLo] warp more
+19-11-08 02:34:50 (2) sk!T.Rattle killed (1) Drsoldat with Ruger 77
+19-11-08 02:34:51 Enigma captured the Red Flag
+19-11-08 02:34:52 [Enigma] yo?
+19-11-08 02:34:55 [SkiLLo] fix it enig
+19-11-08 02:35:01 (1) Drsoldat killed (2) Shatelia with Hands
+19-11-08 02:35:01 [Mr. Bait] listo, nose para que es eso pero lo hice
+19-11-08 02:35:02 (1) Drsoldat killed (2) Enigma with Spas-12
+19-11-08 02:35:03 [Shatelia] Si vos
+19-11-08 02:35:03 Drsoldat returned the Red Flag
+19-11-08 02:35:05 Drsoldat captured the Blue Flag
+19-11-08 02:35:05 (2) sk!T.Rattle killed (1) Drsoldat with Ruger 77
+19-11-08 02:35:07 (2) sk!T.Rattle killed (1) SkiLLo with Ruger 77
+19-11-08 02:35:10 (2) Enigma killed (1) Mr. Bait with FN Minimi
+19-11-08 02:35:11 [SkiLLo] !r
+19-11-08 02:35:11 Restarting...
+19-11-08 02:35:12 [Drsoldat] Yes, Sir!
+19-11-08 02:35:12 [sk!T.Rattle] gl hf
+19-11-08 02:35:15 [Shatelia] Para que no se pasen por vos
+19-11-08 02:35:15 (TEAM)[SkiLLo] INC ~ TOP
+19-11-08 02:35:16 ctf_Guardian by SuoW
+19-11-08 02:35:17 [Shatelia] Creo
+19-11-08 02:35:21 (1) Mr. Bait killed (2) Enigma with Steyr AUG
+19-11-08 02:35:22 (1) Drsoldat killed (2) sk!T.Rattle with LAW
+19-11-08 02:35:22 (2) Shatelia killed (1) SkiLLo with Grenade
+19-11-08 02:35:24 (1) Mr. Bait killed (2) Shatelia with Steyr AUG
+19-11-08 02:35:25 (RADIO)[sk!T.Rattle] Enemy spotted middle!
+19-11-08 02:35:25 (RADIO)[Shatelia] INC TOP
+19-11-08 02:35:26 (TEAM)[Shatelia] [%LOW HP]
+19-11-08 02:35:27 (2) Enigma killed (1) Mr. Bait with FN Minimi
+19-11-08 02:35:28 (TEAM)[Shatelia] CLEAR! ATTACK NOW!
+19-11-08 02:35:29 (2) Enigma killed (1) SkiLLo with Combat Knife
+19-11-08 02:35:29 (TEAM)[Mr. Bait] Enemies inc Top
+19-11-08 02:35:31 Enigma captured the Red Flag
+19-11-08 02:35:31 Drsoldat captured the Blue Flag
+19-11-08 02:35:33 (2) Shatelia killed (1) Mr. Bait with Grenade
+19-11-08 02:35:33 (TEAM)[Mr. Bait] EFC Low  vvv
+19-11-08 02:35:36 (1) Drsoldat killed (2) Shatelia with Grenade
+19-11-08 02:35:38 (1) SkiLLo killed (2) sk!T.Rattle with Grenade
+19-11-08 02:35:38 (2) sk!T.Rattle killed (1) SkiLLo with Ruger 77
+19-11-08 02:35:39 (TEAM)[SkiLLo] EFC ~ LOW
+19-11-08 02:35:40 Drsoldat returned the Red Flag
+19-11-08 02:35:43 Drsoldat scores for Alpha Team
+19-11-08 02:35:43 (1) Mr. Bait killed (2) Shatelia with Steyr AUG
+19-11-08 02:35:43 (2) Enigma killed (1) Mr. Bait with HK MP5
+19-11-08 02:35:44 (1) Drsoldat killed (2) Enigma with Spas-12
+19-11-08 02:35:47 (1) SkiLLo killed (2) sk!T.Rattle with Steyr AUG
+19-11-08 02:35:47 (RADIO)[Shatelia] INC LOW
+19-11-08 02:35:49 (RADIO)[sk!T.Rattle] Enemy spotted down!
+19-11-08 02:35:53 (1) SkiLLo killed (2) Enigma with Steyr AUG
+19-11-08 02:35:54 (1) SkiLLo killed (2) sk!T.Rattle with Grenade
+19-11-08 02:35:55 Drsoldat captured the Blue Flag
+19-11-08 02:35:56 (2) Shatelia killed (1) Drsoldat with Combat Knife
+19-11-08 02:35:57 [Drsoldat] Yes, Sir!
+19-11-08 02:35:58 SkiLLo captured the Blue Flag
+19-11-08 02:36:00 (2) Enigma killed (1) SkiLLo with Grenade
+19-11-08 02:36:00 (1) Mr. Bait killed (2) Shatelia with Grenade
+19-11-08 02:36:01 (RADIO)[Shatelia] INC MID
+19-11-08 02:36:01 (TEAM)[Shatelia] [%LOW HP]
+19-11-08 02:36:05 sk!T.Rattle returned the Blue Flag
+19-11-08 02:36:05 (2) Enigma killed (1) Drsoldat with Ruger 77
+19-11-08 02:36:05 (1) Drsoldat killed (2) Enigma with LAW
+19-11-08 02:36:06 (2) Shatelia killed (1) Mr. Bait with Grenade
+19-11-08 02:36:08 (1) SkiLLo killed (2) Shatelia with Steyr AUG
+19-11-08 02:36:10 (RADIO)[Shatelia] INC MID
+19-11-08 02:36:11 sk!T.Rattle captured the Red Flag
+19-11-08 02:36:13 (2) sk!T.Rattle killed (1) Drsoldat with Ruger 77
+19-11-08 02:36:13 [Enigma] Die!
+19-11-08 02:36:14 (TEAM)[Drsoldat] EFC GOING LOW - KILL HIM!
+19-11-08 02:36:14 (1) Mr. Bait killed (2) Enigma with Steyr AUG
+19-11-08 02:36:18 Mr. Bait captured the Blue Flag
+19-11-08 02:36:19 (1) SkiLLo killed (2) Shatelia with Steyr AUG
+19-11-08 02:36:20 (2) sk!T.Rattle killed (1) Mr. Bait with Ruger 77
+19-11-08 02:36:21 (1) SkiLLo killed (2) sk!T.Rattle with Steyr AUG
+19-11-08 02:36:22 (2) Enigma killed (1) SkiLLo with Steyr AUG
+19-11-08 02:36:22 (1) Drsoldat killed (2) Enigma with Spas-12
+19-11-08 02:36:23 (TEAM)[Shatelia] Help our flagger!
+19-11-08 02:36:23 Drsoldat captured the Blue Flag
+19-11-08 02:36:25 Drsoldat returned the Red Flag
+19-11-08 02:36:26 (2) Shatelia killed (1) Drsoldat with HK MP5
+19-11-08 02:36:27 (1) Mr. Bait killed (2) Shatelia with Grenade
+19-11-08 02:36:32 (1) Drsoldat killed (2) Enigma with Spas-12
+19-11-08 02:36:32 Mr. Bait captured the Blue Flag
+19-11-08 02:36:34 (2) Shatelia killed (1) Mr. Bait with Grenade
+19-11-08 02:36:36 (1) Drsoldat killed (2) Shatelia with Grenade
+19-11-08 02:36:37 [Shatelia] Debe ser por Dog Chow!
+19-11-08 02:36:38 (TEAM)[Shatelia] |B A S E|
+19-11-08 02:36:38 (1) Drsoldat killed (2) Enigma with LAW
+19-11-08 02:36:39 (1) SkiLLo killed (2) sk!T.Rattle with Steyr AUG
+19-11-08 02:36:40 Drsoldat captured the Blue Flag
+19-11-08 02:36:44 (2) Enigma killed (1) Drsoldat with FN Minimi
+19-11-08 02:36:46 (1) Mr. Bait killed (2) Shatelia with Steyr AUG
+19-11-08 02:36:46 sk!T.Rattle returned the Blue Flag
+19-11-08 02:36:46 (RADIO)[Shatelia] INC MID
+19-11-08 02:36:47 (1) SkiLLo killed (2) sk!T.Rattle with Grenade
+19-11-08 02:36:49 (2) Enigma killed (1) Mr. Bait with FN Minimi
+19-11-08 02:36:50 (TEAM)[Mr. Bait] Enemies inc Top
+19-11-08 02:36:50 (1) SkiLLo killed (2) Enigma with Combat Knife
+19-11-08 02:36:50 (2) Enigma killed (1) SkiLLo with FN Minimi
+19-11-08 02:36:50 (TEAM)[Mr. Bait]   ~*BASE HOT*~
+19-11-08 02:36:55 (2) sk!T.Rattle killed (1) Drsoldat with Ruger 77
+19-11-08 02:36:56 (1) SkiLLo killed (2) Shatelia with Grenade
+19-11-08 02:36:56 (TEAM)[Drsoldat] INC MID KILL THEM!
+19-11-08 02:36:58 (2) sk!T.Rattle killed (1) Mr. Bait with Ruger 77
+19-11-08 02:36:58 (TEAM)[Mr. Bait]   ~*BASE HOT*~
+19-11-08 02:36:59 (1) SkiLLo killed (2) Enigma with Steyr AUG
+19-11-08 02:37:00 sk!T.Rattle captured the Red Flag
+19-11-08 02:37:03 SkiLLo captured the Blue Flag
+19-11-08 02:37:04 (2) Shatelia killed (1) SkiLLo with Grenade
+19-11-08 02:37:05 Shatelia returned the Blue Flag
+19-11-08 02:37:05 (TEAM)[SkiLLo] EFC ~ LOW
+19-11-08 02:37:06 (TEAM)[Shatelia] Help our flagger!
+19-11-08 02:37:06 (1) Mr. Bait killed (2) Enigma with Steyr AUG
+19-11-08 02:37:08 (1) Drsoldat killed (2) Shatelia with Spas-12
+19-11-08 02:37:08 sk!T.Rattle scores for Bravo Team
+19-11-08 02:37:10 (1) Drsoldat killed (2) sk!T.Rattle with Spas-12
+19-11-08 02:37:12 Mr. Bait captured the Blue Flag
+19-11-08 02:37:13 (2) Shatelia killed (1) Drsoldat with HK MP5
+19-11-08 02:37:18 (2) Enigma killed (1) Mr. Bait with Grenade
+19-11-08 02:37:19 (TEAM)[Mr. Bait]  Prepare to CAP!!!
+19-11-08 02:37:19 (2) Enigma killed (1) SkiLLo with Spas-12
+19-11-08 02:37:19 Enigma captured the Red Flag
+19-11-08 02:37:19 Enigma returned the Blue Flag
+19-11-08 02:37:20 (2) sk!T.Rattle killed (1) Drsoldat with Grenade
+19-11-08 02:37:21 (TEAM)[Mr. Bait] EFC Low  vvv
+19-11-08 02:37:21 (TEAM)[SkiLLo] EFC ~ LOW
+19-11-08 02:37:23 (1) Mr. Bait killed (2) Shatelia with Steyr AUG
+19-11-08 02:37:24 (RADIO)[Shatelia] INC TOP
+19-11-08 02:37:25 (TEAM)[Shatelia] CAP THAT SHIT CHABON! (>_<*)
+19-11-08 02:37:26 (1) Mr. Bait killed (2) sk!T.Rattle with LAW
+19-11-08 02:37:26 Enigma scores for Bravo Team
+19-11-08 02:37:29 (1) Mr. Bait killed (2) Enigma with Steyr AUG
+19-11-08 02:37:30 Mr. Bait captured the Blue Flag
+19-11-08 02:37:30 (RADIO)[Enigma] Enemy spotted down!
+19-11-08 02:37:31 (1) Drsoldat killed (2) Shatelia with Grenade
+19-11-08 02:37:32 (RADIO)[Shatelia] INC MID
+19-11-08 02:37:33 (TEAM)[Shatelia] EFC MID
+19-11-08 02:37:36 (2) Enigma killed (1) SkiLLo with Spas-12
+19-11-08 02:37:36 Mr. Bait scores for Alpha Team
+19-11-08 02:37:37 (2) sk!T.Rattle killed (1) Drsoldat with Combat Knife
+19-11-08 02:37:40 (1) SkiLLo killed (2) sk!T.Rattle with Steyr AUG
+19-11-08 02:37:42 (1) SkiLLo killed (2) Shatelia with Steyr AUG
+19-11-08 02:37:42 Enigma captured the Red Flag
+19-11-08 02:37:43 (RADIO)[Shatelia] INC MID
+19-11-08 02:37:44 (2) Enigma killed (1) SkiLLo with Spas-12
+19-11-08 02:37:44 (TEAM)[Shatelia] [%LOW HP]
+19-11-08 02:37:45 (TEAM)[SkiLLo] EFC ~ LOW
+19-11-08 02:37:48 (2) sk!T.Rattle killed (1) Mr. Bait with Ruger 77
+19-11-08 02:37:49 (TEAM)[Mr. Bait] EFC Low  vvv
+19-11-08 02:37:49 (TEAM)[Mr. Bait] Weak - Weak!!!
+19-11-08 02:37:50 (2) sk!T.Rattle killed (1) Drsoldat with Grenade
+19-11-08 02:37:53 Enigma scores for Bravo Team
+19-11-08 02:37:54 (1) SkiLLo killed (2) Enigma with Combat Knife
+19-11-08 02:37:55 SkiLLo captured the Blue Flag
+19-11-08 02:37:57 (2) Shatelia killed (1) SkiLLo with HK MP5
+19-11-08 02:37:58 (2) Shatelia killed (1) Mr. Bait with HK MP5
+19-11-08 02:38:02 Shatelia returned the Blue Flag
+19-11-08 02:38:06 (1) Mr. Bait killed (2) Enigma with Steyr AUG
+19-11-08 02:38:08 (2) Shatelia killed (1) SkiLLo with HK MP5
+19-11-08 02:38:10 (2) Shatelia killed (1) Mr. Bait with HK MP5
+19-11-08 02:38:10 (2) sk!T.Rattle killed (1) Drsoldat with Ruger 77
+19-11-08 02:38:10 (1) Drsoldat killed (2) sk!T.Rattle with FN Minimi
+19-11-08 02:38:11 (TEAM)[Mr. Bait]   ~*BASE HOT*~
+19-11-08 02:38:12 (TEAM)[Drsoldat] MEM ID
+19-11-08 02:38:13 Shatelia captured the Red Flag
+19-11-08 02:38:14 (2) Enigma killed (1) SkiLLo with Grenade
+19-11-08 02:38:15 (TEAM)[SkiLLo] EFC ~ MID
+19-11-08 02:38:18 (2) Enigma killed (1) Drsoldat with FN Minimi
+19-11-08 02:38:19 (1) SkiLLo killed (2) Enigma with Steyr AUG
+19-11-08 02:38:19 Shatelia scores for Bravo Team
+19-11-08 02:38:20 (1) Mr. Bait killed (2) sk!T.Rattle with Grenade
+19-11-08 02:38:22 (TEAM)[Drsoldat] top leaking
+19-11-08 02:38:24 (TEAM)[Drsoldat] top leaking
+19-11-08 02:38:24 (TEAM)[Drsoldat] top leaking
+19-11-08 02:38:25 (2) Enigma killed (1) Mr. Bait with Combat Knife
+19-11-08 02:38:26 SkiLLo captured the Blue Flag
+19-11-08 02:38:27 (2) Enigma killed (1) SkiLLo with Grenade
+19-11-08 02:38:32 sk!T.Rattle captured the Red Flag
+19-11-08 02:38:33 (1) Drsoldat killed (2) sk!T.Rattle with Grenade
+19-11-08 02:38:35 (1) SkiLLo killed (2) Shatelia with Grenade
+19-11-08 02:38:35 (RADIO)[sk!T.Rattle] Enemy spotted down!
+19-11-08 02:38:38 (1) Mr. Bait killed (2) Enigma with Steyr AUG
+19-11-08 02:38:38 (TEAM)[Shatelia] |B A S E|
+19-11-08 02:38:39 [Enigma] Die!
+19-11-08 02:38:40 Mr. Bait captured the Blue Flag
+19-11-08 02:38:42 (2) sk!T.Rattle killed (1) SkiLLo with Grenade
+19-11-08 02:38:45 (1) Drsoldat killed (2) Shatelia with LAW
+19-11-08 02:38:47 (1) SkiLLo killed (2) Enigma with Grenade
+19-11-08 02:38:48 (1) Drsoldat killed (2) sk!T.Rattle with FN Minimi
+19-11-08 02:38:51 Mr. Bait returned the Red Flag
+19-11-08 02:38:51 (2) Shatelia killed (1) Drsoldat with HK MP5
+19-11-08 02:38:53 Mr. Bait scores for Alpha Team
+19-11-08 02:38:54 (2) Shatelia killed (1) Mr. Bait with Combat Knife
+19-11-08 02:38:54 Shatelia captured the Red Flag
+19-11-08 02:38:54 (1) SkiLLo killed (2) Shatelia with Steyr AUG
+19-11-08 02:38:57 (1) Drsoldat killed (2) Enigma with FN Minimi
+19-11-08 02:38:58 (RADIO)[Shatelia] INC MID
+19-11-08 02:39:01 (1) Drsoldat killed (2) sk!T.Rattle with FN Minimi
+19-11-08 02:39:04 (1) Mr. Bait killed (2) Shatelia with Steyr AUG
+19-11-08 02:39:06 Drsoldat captured the Blue Flag
+19-11-08 02:39:07 Enigma captured the Red Flag
+19-11-08 02:39:07 (TEAM)[Shatelia] EFC DOWN
+19-11-08 02:39:11 (2) sk!T.Rattle killed (1) SkiLLo with Ruger 77
+19-11-08 02:39:13 Mr. Bait captured the Blue Flag
+19-11-08 02:39:13 (2) sk!T.Rattle killed (1) Drsoldat with Ruger 77
+19-11-08 02:39:13 (TEAM)[SkiLLo] EFC ~ LOW
+19-11-08 02:39:14 (1) Mr. Bait killed (2) sk!T.Rattle with LAW
+19-11-08 02:39:15 (TEAM)[Shatelia] Help our flagger!
+19-11-08 02:39:15 (TEAM)[Mr. Bait] FFC Low vvv
+19-11-08 02:39:16 (TEAM)[Mr. Bait] EFC Low  vvv
+19-11-08 02:39:16 [Enigma] Die!
+19-11-08 02:39:16 Enigma returned the Blue Flag
+19-11-08 02:39:18 (RADIO)[sk!T.Rattle] Enemy flagger down!
+19-11-08 02:39:19 (2) Shatelia killed (1) SkiLLo with HK MP5
+19-11-08 02:39:21 Enigma scores for Bravo Team
+19-11-08 02:39:22 (1) Mr. Bait killed (2) sk!T.Rattle with Steyr AUG
+19-11-08 02:39:23 (2) Enigma killed (1) Mr. Bait with M79
+19-11-08 02:39:28 (1) Drsoldat killed (2) sk!T.Rattle with LAW
+19-11-08 02:39:28 (2) Enigma killed (1) Mr. Bait with M79
+19-11-08 02:39:29 Enigma captured the Red Flag
+19-11-08 02:39:29 (1) Drsoldat killed (2) Shatelia with FN Minimi
+19-11-08 02:39:30 (TEAM)[Shatelia] |B A S E|
+19-11-08 02:39:30 (TEAM)[Mr. Bait] EFC Low  vvv
+19-11-08 02:39:31 (TEAM)[Shatelia] 2
+19-11-08 02:39:31 (TEAM)[Shatelia] [%LOW HP]
+19-11-08 02:39:31 SkiLLo captured the Blue Flag
+19-11-08 02:39:32 (TEAM)[Shatelia] EFC DOWN
+19-11-08 02:39:36 (1) Drsoldat killed (2) sk!T.Rattle with Grenade
+19-11-08 02:39:39 (2) Enigma killed (1) SkiLLo with M79
+19-11-08 02:39:40 (1) Mr. Bait killed (2) Enigma with Steyr AUG
+19-11-08 02:39:42 (TEAM)[Shatelia] jajaj
+19-11-08 02:39:43 (TEAM)[Shatelia] que carjaoa
+19-11-08 02:39:43 Mr. Bait returned the Red Flag
+19-11-08 02:39:46 sk!T.Rattle captured the Red Flag
+19-11-08 02:39:46 Mr. Bait captured the Blue Flag
+19-11-08 02:39:48 (2) Enigma killed (1) Mr. Bait with Combat Knife
+19-11-08 02:39:49 sk!T.Rattle returned the Blue Flag
+19-11-08 02:39:52 (TEAM)[Shatelia] Help our flagger!
+19-11-08 02:39:53 Enigma captured the Red Flag
+19-11-08 02:39:53 Drsoldat captured the Blue Flag
+19-11-08 02:39:53 (1) SkiLLo killed (2) Enigma with Steyr AUG
+19-11-08 02:39:53 Shatelia captured the Red Flag
+19-11-08 02:39:55 (1) SkiLLo killed (2) Shatelia with Steyr AUG
+19-11-08 02:39:55 (1) Drsoldat killed (2) sk!T.Rattle with Grenade
+19-11-08 02:39:57 SkiLLo returned the Red Flag
+19-11-08 02:40:00 (1) SkiLLo killed (2) Enigma with Steyr AUG
+19-11-08 02:40:02 Drsoldat scores for Alpha Team
+19-11-08 02:40:03 (1) SkiLLo killed (2) Shatelia with Steyr AUG
+19-11-08 02:40:09 Enigma captured the Red Flag
+19-11-08 02:40:09 (2) sk!T.Rattle killed (1) Drsoldat with Ruger 77
+19-11-08 02:40:11 (1) SkiLLo killed (2) Enigma with Grenade
+19-11-08 02:40:11 (2) sk!T.Rattle killed (1) Mr. Bait with Ruger 77
+19-11-08 02:40:12 (2) Shatelia killed (1) SkiLLo with Combat Knife
+19-11-08 02:40:14 (TEAM)[Shatelia] Help our flagger!
+19-11-08 02:40:14 Shatelia captured the Red Flag
+19-11-08 02:40:15 (TEAM)[Shatelia] FF LOW
+19-11-08 02:40:16 (1) Drsoldat killed (2) sk!T.Rattle with FN Minimi
+19-11-08 02:40:16 Time Left: 5 minutes
+19-11-08 02:40:18 (2) Enigma killed (1) Drsoldat with Spas-12
+19-11-08 02:40:19 (2) Enigma killed (1) Mr. Bait with Spas-12
+19-11-08 02:40:20 (1) SkiLLo killed (2) Shatelia with Steyr AUG
+19-11-08 02:40:22 (2) Enigma killed (1) SkiLLo with Combat Knife
+19-11-08 02:40:23 [SkiLLo] Die!
+19-11-08 02:40:23 Enigma captured the Red Flag
+19-11-08 02:40:23 Enigma scores for Bravo Team
+19-11-08 02:40:24 (TEAM)[Shatelia] ;)
+19-11-08 02:40:28 (1) Mr. Bait killed (2) Enigma with Grenade
+19-11-08 02:40:29 (1) Mr. Bait killed (2) Shatelia with Steyr AUG
+19-11-08 02:40:30 (RADIO)[Enigma] Enemy spotted down!
+19-11-08 02:40:30 (RADIO)[Shatelia] INC TOP
+19-11-08 02:40:30 (TEAM)[Shatelia] |B A S E|
+19-11-08 02:40:31 (1) SkiLLo killed (2) sk!T.Rattle with Steyr AUG
+19-11-08 02:40:31 (TEAM)[Shatelia] 3
+19-11-08 02:40:32 Drsoldat captured the Blue Flag
+19-11-08 02:40:32 (RADIO)[sk!T.Rattle] Enemy spotted up!
+19-11-08 02:40:36 (2) Shatelia killed (1) SkiLLo with HK MP5
+19-11-08 02:40:37 (TEAM)[SkiLLo] INC ~ MID
+19-11-08 02:40:37 (2) Shatelia killed (1) Mr. Bait with HK MP5
+19-11-08 02:40:38 (TEAM)[Mr. Bait]  Prepare to CAP!!!
+19-11-08 02:40:39 Drsoldat scores for Alpha Team
+19-11-08 02:40:40 (1) SkiLLo killed (2) Enigma with Steyr AUG
+19-11-08 02:40:40 (2) Enigma killed (1) Drsoldat with FN Minimi
+19-11-08 02:40:41 (2) sk!T.Rattle killed (1) SkiLLo with Ruger 77
+19-11-08 02:40:41 Shatelia captured the Red Flag
+19-11-08 02:40:44 (TEAM)[SkiLLo] EFC ~ LOW
+19-11-08 02:40:45 (1) Mr. Bait killed (2) sk!T.Rattle with Steyr AUG
+19-11-08 02:40:46 (TEAM)[Shatelia] FF LOW
+19-11-08 02:40:48 (1) SkiLLo killed (2) Shatelia with Grenade
+19-11-08 02:40:48 (TEAM)[Shatelia] |B A S E|
+19-11-08 02:40:49 (TEAM)[Shatelia] FF LOW
+19-11-08 02:40:49 (TEAM)[Mr. Bait] EFC Low  vvv
+19-11-08 02:40:49 (TEAM)[Shatelia] |B A S E|
+19-11-08 02:40:49 (TEAM)[Shatelia] FF LOW
+19-11-08 02:40:50 (1) SkiLLo killed (2) Enigma with Steyr AUG
+19-11-08 02:40:50 (2) sk!T.Rattle killed (1) Drsoldat with Grenade
+19-11-08 02:40:51 (TEAM)[Drsoldat] EFC GOING LOW - KILL HIM!
+19-11-08 02:40:51 (TEAM)[Drsoldat] INC LOW KILL THEM!
+19-11-08 02:40:52 (2) sk!T.Rattle killed (1) SkiLLo with Ruger 77
+19-11-08 02:40:53 (TEAM)[SkiLLo] EFC ~ LOW
+19-11-08 02:40:54 sk!T.Rattle captured the Red Flag
+19-11-08 02:40:54 (2) Shatelia killed (1) Mr. Bait with HK MP5
+19-11-08 02:40:55 (TEAM)[Shatelia] Help our flagger!
+19-11-08 02:40:55 (TEAM)[Mr. Bait] EFC Low  vvv
+19-11-08 02:40:59 (1) Drsoldat killed (2) Enigma with FN Minimi
+19-11-08 02:40:59 (2) Enigma killed (1) Drsoldat with Ak-74
+19-11-08 02:40:59 sk!T.Rattle scores for Bravo Team
+19-11-08 02:41:01 (1) SkiLLo killed (2) Shatelia with Steyr AUG
+19-11-08 02:41:02 (TEAM)[Shatelia] |B A S E|
+19-11-08 02:41:03 (TEAM)[Shatelia] EFC DOWN
+19-11-08 02:41:03 (TEAM)[Drsoldat] go top
+19-11-08 02:41:03 (2) Enigma killed (1) Mr. Bait with Combat Knife
+19-11-08 02:41:04 (TEAM)[Drsoldat] omfg
+19-11-08 02:41:05 (TEAM)[Shatelia] 2
+19-11-08 02:41:07 (1) Drsoldat killed (2) sk!T.Rattle with FN Minimi
+19-11-08 02:41:09 (2) Shatelia killed (1) Drsoldat with Combat Knife
+19-11-08 02:41:13 Enigma captured the Red Flag
+19-11-08 02:41:13 (2) Shatelia killed (1) Mr. Bait with HK MP5
+19-11-08 02:41:13 (1) Mr. Bait killed (2) Shatelia with Grenade
+19-11-08 02:41:14 (RADIO)[Shatelia] INC MID
+19-11-08 02:41:15 (2) sk!T.Rattle killed (1) SkiLLo with Ruger 77
+19-11-08 02:41:15 (TEAM)[Shatelia] [%LOW HP]
+19-11-08 02:41:16 (TEAM)[SkiLLo] EFC ~ LOW
+19-11-08 02:41:16 Time Left: 4 minutes
+19-11-08 02:41:16 (RADIO)[Shatelia] INC TOP
+19-11-08 02:41:17 (TEAM)[Mr. Bait] EFC Low  vvv
+19-11-08 02:41:17 (TEAM)[Shatelia] 2
+19-11-08 02:41:19 (2) sk!T.Rattle killed (1) Drsoldat with Ruger 77
+19-11-08 02:41:20 Enigma scores for Bravo Team
+19-11-08 02:41:21 (2) sk!T.Rattle killed (1) SkiLLo with Combat Knife
+19-11-08 02:41:21 (1) SkiLLo killed (2) sk!T.Rattle with Steyr AUG
+19-11-08 02:41:24 (2) Shatelia killed (1) Mr. Bait with HK MP5
+19-11-08 02:41:24 (1) Mr. Bait killed (2) Shatelia with Grenade
+19-11-08 02:41:25 (TEAM)[Shatelia] CLEAR! ATTACK NOW!
+19-11-08 02:41:28 (1) Drsoldat killed (2) Enigma with Grenade
+19-11-08 02:41:29 (RADIO)[Enigma] Friendly flagger middle!
+19-11-08 02:41:30 (2) sk!T.Rattle killed (1) Mr. Bait with Ruger 77
+19-11-08 02:41:31 (1) SkiLLo killed (2) sk!T.Rattle with Steyr AUG
+19-11-08 02:41:32 (RADIO)[sk!T.Rattle] Enemy spotted up!
+19-11-08 02:41:36 (1) Drsoldat killed (2) Shatelia with LAW
+19-11-08 02:41:37 (RADIO)[Shatelia] INC MID
+19-11-08 02:41:39 (2) Enigma killed (1) SkiLLo with HK MP5
+19-11-08 02:41:39 Mr. Bait captured the Blue Flag
+19-11-08 02:41:40 (1) Drsoldat killed (2) sk!T.Rattle with FN Minimi
+19-11-08 02:41:40 (2) Shatelia killed (1) Drsoldat with Combat Knife
+19-11-08 02:41:42 (RADIO)[sk!T.Rattle] Enemy spotted down!
+19-11-08 02:41:42 (TEAM)[Drsoldat] INC MID KILL THEM!
+19-11-08 02:41:43 (RADIO)[sk!T.Rattle] Enemy flagger down!
+19-11-08 02:41:43 (2) Enigma killed (1) Mr. Bait with HK MP5
+19-11-08 02:41:44 (TEAM)[Mr. Bait] FFC Low vvv
+19-11-08 02:41:45 (1) SkiLLo killed (2) Enigma with Grenade
+19-11-08 02:41:45 (TEAM)[Mr. Bait] Enemies inc Mid
+19-11-08 02:41:45 (TEAM)[Mr. Bait]   ~*BASE HOT*~
+19-11-08 02:41:49 SkiLLo captured the Blue Flag
+19-11-08 02:41:49 (1) Drsoldat killed (2) Shatelia with LAW
+19-11-08 02:41:50 (TEAM)[Shatelia] EFC MID
+19-11-08 02:41:52 Drsoldat captured the Blue Flag
+19-11-08 02:41:52 (2) sk!T.Rattle killed (1) SkiLLo with Grenade
+19-11-08 02:41:52 (1) SkiLLo killed (2) sk!T.Rattle with Combat Knife
+19-11-08 02:41:54 (TEAM)[SkiLLo] INC ~ MID
+19-11-08 02:41:56 Drsoldat scores for Alpha Team
+19-11-08 02:41:56 (2) Enigma killed (1) Drsoldat with Grenade
+19-11-08 02:41:57 Enigma captured the Red Flag
+19-11-08 02:41:57 (2) Shatelia killed (1) Mr. Bait with HK MP5
+19-11-08 02:41:59 (TEAM)[Mr. Bait] EFC Low  vvv
+19-11-08 02:41:59 (TEAM)[Mr. Bait] Weak - Weak!!!
+19-11-08 02:41:59 (2) Enigma killed (1) SkiLLo with M79
+19-11-08 02:41:59 (TEAM)[Mr. Bait] EFC Low  vvv
+19-11-08 02:41:59 (TEAM)[Mr. Bait] Weak - Weak!!!
+19-11-08 02:41:59 (TEAM)[SkiLLo] EFC ~ LOW
+19-11-08 02:42:02 (TEAM)[SkiLLo] EFC ~ MID
+19-11-08 02:42:02 (TEAM)[SkiLLo] EFC ~ LOW
+19-11-08 02:42:02 (TEAM)[SkiLLo] INC ~ LOW
+19-11-08 02:42:04 (2) sk!T.Rattle killed (1) Drsoldat with Ruger 77
+19-11-08 02:42:04 Enigma scores for Bravo Team
+19-11-08 02:42:07 (1) SkiLLo killed (2) Enigma with Steyr AUG
+19-11-08 02:42:09 (1) Mr. Bait killed (2) sk!T.Rattle with Grenade
+19-11-08 02:42:09 (1) SkiLLo killed (2) Shatelia with Combat Knife
+19-11-08 02:42:10 (RADIO)[sk!T.Rattle] Enemy spotted down!
+19-11-08 02:42:10 (TEAM)[Shatelia] EFC DOWN
+19-11-08 02:42:10 SkiLLo captured the Blue Flag
+19-11-08 02:42:12 (TEAM)[Drsoldat] 3 isdiots gouinf mifd
+19-11-08 02:42:15 (2) sk!T.Rattle killed (1) Mr. Bait with Ruger 77
+19-11-08 02:42:16 Time Left: 3 minutes
+19-11-08 02:42:16 (1) Drsoldat killed (2) Shatelia with Grenade
+19-11-08 02:42:17 SkiLLo scores for Alpha Team
+19-11-08 02:42:19 (1) SkiLLo killed (2) Enigma with Steyr AUG
+19-11-08 02:42:21 (1) Drsoldat killed (2) sk!T.Rattle with FN Minimi
+19-11-08 02:42:22 (RADIO)[sk!T.Rattle] Enemy spotted down!
+19-11-08 02:42:25 (2) Shatelia killed (1) SkiLLo with HK MP5
+19-11-08 02:42:26 (2) Enigma killed (1) Drsoldat with LAW
+19-11-08 02:42:30 (2) Enigma killed (1) Mr. Bait with Spas-12
+19-11-08 02:42:32 (2) Enigma killed (1) Drsoldat with Spas-12
+19-11-08 02:42:32 (1) SkiLLo killed (2) Enigma with Steyr AUG
+19-11-08 02:42:33 sk!T.Rattle captured the Red Flag
+19-11-08 02:42:35 (1) Mr. Bait killed (2) Shatelia with Grenade
+19-11-08 02:42:35 (1) SkiLLo killed (2) sk!T.Rattle with Steyr AUG
+19-11-08 02:42:36 SkiLLo returned the Red Flag
+19-11-08 02:42:37 (RADIO)[Shatelia] INC LOW
+19-11-08 02:42:37 (RADIO)[Shatelia] INC MID
+19-11-08 02:42:37 (RADIO)[sk!T.Rattle] Enemy spotted down!
+19-11-08 02:42:37 (TEAM)[Shatelia] 2
+19-11-08 02:42:40 SkiLLo captured the Blue Flag
+19-11-08 02:42:41 (1) Drsoldat killed (2) Enigma with FN Minimi
+19-11-08 02:42:41 (2) sk!T.Rattle killed (1) SkiLLo with Ruger 77
+19-11-08 02:42:43 (2) sk!T.Rattle killed (1) Drsoldat with Ruger 77
+19-11-08 02:42:44 (TEAM)[SkiLLo] INC ~ MID
+19-11-08 02:42:46 Shatelia captured the Red Flag
+19-11-08 02:42:49 (1) SkiLLo killed (2) Shatelia with Steyr AUG
+19-11-08 02:42:50 SkiLLo returned the Red Flag
+19-11-08 02:42:50 (RADIO)[Shatelia] INC LOW
+19-11-08 02:42:51 (RADIO)[Shatelia] INC MID
+19-11-08 02:42:52 (2) Enigma killed (1) SkiLLo with Grenade
+19-11-08 02:42:53 Drsoldat captured the Blue Flag
+19-11-08 02:42:53 (TEAM)[Shatelia] |B A S E|
+19-11-08 02:42:53 (1) Mr. Bait killed (2) Enigma with Steyr AUG
+19-11-08 02:42:53 (2) Enigma killed (1) Mr. Bait with Spas-12
+19-11-08 02:42:55 (TEAM)[SkiLLo] EFC ~ MID
+19-11-08 02:42:59 (1) SkiLLo killed (2) sk!T.Rattle with Steyr AUG
+19-11-08 02:42:59 (1) Drsoldat killed (2) Enigma with M79
+19-11-08 02:43:00 (2) Shatelia killed (1) SkiLLo with HK MP5
+19-11-08 02:43:00 (RADIO)[Enigma] Enemy spotted down!
+19-11-08 02:43:01 (TEAM)[SkiLLo] INC ~ LOW
+19-11-08 02:43:02 (2) Shatelia killed (1) Drsoldat with HK MP5
+19-11-08 02:43:03 Shatelia returned the Blue Flag
+19-11-08 02:43:04 (1) Mr. Bait killed (2) Shatelia with Grenade
+19-11-08 02:43:04 (RADIO)[Shatelia] INC MID
+19-11-08 02:43:07 (1) Mr. Bait killed (2) Enigma with LAW
+19-11-08 02:43:09 (1) Drsoldat killed (2) sk!T.Rattle with M79
+19-11-08 02:43:10 (RADIO)[sk!T.Rattle] Enemy spotted middle!
+19-11-08 02:43:14 (1) Mr. Bait killed (2) Shatelia with Steyr AUG
+19-11-08 02:43:15 (TEAM)[Shatelia] |B A S E|
+19-11-08 02:43:15 (TEAM)[Shatelia] EFC DOWN
+19-11-08 02:43:16 Drsoldat captured the Blue Flag
+19-11-08 02:43:16 (TEAM)[Shatelia] [%LOW HP]
+19-11-08 02:43:16 Time Left: 2 minutes
+19-11-08 02:43:16 (1) Mr. Bait killed (2) Enigma with Grenade
+19-11-08 02:43:19 (1) SkiLLo killed (2) sk!T.Rattle with Steyr AUG
+19-11-08 02:43:20 (TEAM)[Mr. Bait]  Prepare to CAP!!!
+19-11-08 02:43:21 (1) SkiLLo killed (2) Shatelia with Combat Knife
+19-11-08 02:43:23 (2) Enigma killed (1) Mr. Bait with FN Minimi
+19-11-08 02:43:23 Drsoldat scores for Alpha Team
+19-11-08 02:43:25 (1) Drsoldat killed (2) Enigma with M79
+19-11-08 02:43:25 (2) Enigma killed (1) Drsoldat with FN Minimi
+19-11-08 02:43:31 (2) sk!T.Rattle killed (1) SkiLLo with Ruger 77
+19-11-08 02:43:31 (1) Mr. Bait killed (2) Shatelia with Steyr AUG
+19-11-08 02:43:31 [SkiLLo] Die!
+19-11-08 02:43:32 (2) sk!T.Rattle killed (1) Drsoldat with Grenade
+19-11-08 02:43:33 (2) Enigma killed (1) Mr. Bait with FN Minimi
+19-11-08 02:43:34 sk!T.Rattle captured the Red Flag
+19-11-08 02:43:35 (TEAM)[Shatelia] Help our flagger!
+19-11-08 02:43:38 (2) Enigma killed (1) SkiLLo with FN Minimi
+19-11-08 02:43:41 (1) Drsoldat killed (2) sk!T.Rattle with Grenade
+19-11-08 02:43:41 (1) Drsoldat killed (2) Shatelia with Grenade
+19-11-08 02:43:41 (1) Drsoldat killed (2) Enigma with M79
+19-11-08 02:43:42 [Drsoldat] Yes, Sir!
+19-11-08 02:43:43 (TEAM)[Enigma] ...
+19-11-08 02:43:44 Mr. Bait captured the Blue Flag
+19-11-08 02:43:44 Mr. Bait returned the Red Flag
+19-11-08 02:43:47 (1) Drsoldat killed (2) Enigma with Grenade
+19-11-08 02:43:48 (2) sk!T.Rattle killed (1) Drsoldat with Ruger 77
+19-11-08 02:43:49 (1) SkiLLo killed (2) Shatelia with Steyr AUG
+19-11-08 02:43:50 (2) sk!T.Rattle killed (1) SkiLLo with Grenade
+19-11-08 02:43:51 (TEAM)[Shatelia] EFC DOWN
+19-11-08 02:43:53 Mr. Bait scores for Alpha Team
+19-11-08 02:43:54 (2) sk!T.Rattle killed (1) Mr. Bait with Ruger 77
+19-11-08 02:43:54 (1) Drsoldat killed (2) Enigma with M79
+19-11-08 02:43:54 (TEAM)[Mr. Bait]   ~*BASE HOT*~
+19-11-08 02:43:56 (2) Shatelia killed (1) Drsoldat with Grenade
+19-11-08 02:43:57 sk!T.Rattle captured the Red Flag
+19-11-08 02:44:00 sk!T.Rattle captured the Red Flag
+19-11-08 02:44:00 (1) Mr. Bait killed (2) sk!T.Rattle with Steyr AUG
+19-11-08 02:44:02 (1) Mr. Bait killed (2) Shatelia with Steyr AUG
+19-11-08 02:44:03 (1) Mr. Bait killed (2) Enigma with LAW
+19-11-08 02:44:03 (RADIO)[Shatelia] INC MID
+19-11-08 02:44:04 (TEAM)[Mr. Bait]  Prepare to CAP!!!
+19-11-08 02:44:05 SkiLLo returned the Red Flag
+19-11-08 02:44:05 (RADIO)[Shatelia] INC LOW
+19-11-08 02:44:07 Drsoldat captured the Blue Flag
+19-11-08 02:44:08 (1) Drsoldat killed (2) sk!T.Rattle with LAW
+19-11-08 02:44:13 (2) Enigma killed (1) SkiLLo with Steyr AUG
+19-11-08 02:44:14 (2) sk!T.Rattle killed (1) Mr. Bait with Ruger 77
+19-11-08 02:44:14 (1) Drsoldat killed (2) Enigma with Grenade
+19-11-08 02:44:15 (TEAM)[SkiLLo] Clear!
+19-11-08 02:44:15 [SkiLLo] I am the law!
+19-11-08 02:44:15 [Drsoldat] Yes, Sir!
+19-11-08 02:44:15 Next map: Lobby
+19-11-08 02:44:15 Drsoldat scores for Alpha Team
+19-11-08 02:44:16 Time Left: 1 minutes
+19-11-08 02:44:16 [Drsoldat] Bleed, bastard.
+19-11-08 02:44:17 [Drsoldat] Medic!
+19-11-08 02:44:17 [SkiLLo] gg
+19-11-08 02:44:17 [Mr. Bait] gg
+19-11-08 02:44:18 [Drsoldat] I am the law!
+19-11-08 02:44:18 [sk!T.Rattle] gg
+19-11-08 02:44:18 (TEAM)[Shatelia] Yep
+19-11-08 02:44:20 (TEAM)[Enigma] RATTLE QL
+19-11-08 02:44:20 Lothic - Gothic Lobby Room
+19-11-08 02:44:25 (TEAM)[Drsoldat] ehhehe nabs going mid
+19-11-08 02:44:25 (TEAM)[sk!T.Rattle] no cubrieron
+19-11-08 02:44:26 (TEAM)[Drsoldat] go top
+19-11-08 02:44:27 (TEAM)[Drsoldat] gg
+19-11-08 02:44:28 (TEAM)[sk!T.Rattle] mapa culiao malo
+19-11-08 02:44:31 (TEAM)[sk!T.Rattle] roten
+19-11-08 02:44:34 [sk!T.Rattle] !map ctf_Rotten
+19-11-08 02:44:36 (TEAM)[Mr. Bait] Enemies inc Top
+19-11-08 02:44:37 (TEAM)[Shatelia] Excusas no :P
+19-11-08 02:44:38 (TEAM)[SkiLLo] INC ~ TOP
+19-11-08 02:44:39 Rotten by Biggles
+19-11-08 02:44:42 (RADIO)[Shatelia] INC TOP
+19-11-08 02:44:45 (2) Enigma killed (1) SkiLLo with Combat Knife
+19-11-08 02:44:47 (1) Drsoldat killed (2) Enigma with LAW
+19-11-08 02:44:50 (2) sk!T.Rattle killed (1) SkiLLo with Ruger 77
+19-11-08 02:44:51 (1) Mr. Bait killed (2) Shatelia with Steyr AUG
+19-11-08 02:44:54 (RADIO)[Shatelia] INC TOP
+19-11-08 02:44:56 (2) Enigma killed (1) Mr. Bait with Grenade
+19-11-08 02:44:57 (1) Drsoldat killed (2) sk!T.Rattle with Grenade
+19-11-08 02:44:57 (1) SkiLLo killed (2) Enigma with Steyr AUG
+19-11-08 02:44:58 (1) Drsoldat killed (2) Shatelia with FN Minimi
+19-11-08 02:45:01 Drsoldat captured the Blue Flag
+19-11-08 02:45:02 (2) sk!T.Rattle killed (1) Drsoldat with Ruger 77
+19-11-08 02:45:03 (2) sk!T.Rattle killed (1) SkiLLo with Ruger 77
+19-11-08 02:45:04 (TEAM)[SkiLLo] INC ~ TOP
+19-11-08 02:45:07 (1) Drsoldat killed (2) sk!T.Rattle with FN Minimi
+19-11-08 02:45:09 (2) Shatelia killed (1) Drsoldat with Combat Knife
+19-11-08 02:45:09 (2) Enigma killed (1) Mr. Bait with FN Minimi
+19-11-08 02:45:09 (1) Drsoldat killed (2) Shatelia with Grenade
+19-11-08 02:45:09 (1) Mr. Bait killed (2) Enigma with Grenade
+19-11-08 02:45:15 (2) Enigma killed (1) Drsoldat with FN Minimi
+19-11-08 02:45:15 (1) SkiLLo killed (2) Shatelia with Steyr AUG
+19-11-08 02:45:16 (TEAM)[Drsoldat] INC LOW KILL THEM!
+19-11-08 02:45:16 (2) sk!T.Rattle killed (1) SkiLLo with Ruger 77
+19-11-08 02:45:17 (TEAM)[SkiLLo] INC ~ TOP
+19-11-08 02:45:18 (1) Mr. Bait killed (2) Enigma with Steyr AUG
+19-11-08 02:45:18 (2) Enigma killed (1) Mr. Bait with Grenade
+19-11-08 02:45:22 sk!T.Rattle captured the Red Flag
+19-11-08 02:45:22 (1) SkiLLo killed (2) sk!T.Rattle with Steyr AUG
+19-11-08 02:45:25 (2) Enigma killed (1) Drsoldat with FN Minimi
+19-11-08 02:45:25 SkiLLo returned the Red Flag
+19-11-08 02:45:26 (TEAM)[Drsoldat] INC LOW KILL THEM!
+19-11-08 02:45:26 (1) Mr. Bait killed (2) Enigma with LAW
+19-11-08 02:45:26 (2) Shatelia killed (1) Mr. Bait with Combat Knife
+19-11-08 02:45:31 (2) Shatelia killed (1) SkiLLo with M79
+19-11-08 02:45:35 (1) Drsoldat killed (2) Shatelia with FN Minimi
+19-11-08 02:45:37 (TEAM)[Mr. Bait]   ~*BASE HOT*~
+19-11-08 02:45:37 (2) sk!T.Rattle killed (1) Drsoldat with Grenade
+19-11-08 02:45:38 (2) Enigma killed (1) Mr. Bait with FN Minimi
+19-11-08 02:45:39 Enigma captured the Red Flag
+19-11-08 02:45:39 [Drsoldat] Yes, Sir!
+19-11-08 02:45:40 (TEAM)[Mr. Bait] Weak - Weak!!!
+19-11-08 02:45:41 (TEAM)[Shatelia] EFC?
+19-11-08 02:45:41 (1) SkiLLo killed (2) sk!T.Rattle with Steyr AUG
+19-11-08 02:45:42 [Enigma] WTF
+19-11-08 02:45:45 (2) Shatelia killed (1) Drsoldat with Combat Knife
+19-11-08 02:45:45 (1) Drsoldat killed (2) Shatelia with FN Minimi
+19-11-08 02:45:47 [Drsoldat] Yes, Sir!
+19-11-08 02:45:48 (1) Mr. Bait killed (2) Enigma with Steyr AUG
+19-11-08 02:45:50 (2) Shatelia killed (1) Mr. Bait with Combat Knife
+19-11-08 02:45:53 (TEAM)[Mr. Bait] Enemies inc Top
+19-11-08 02:45:54 sk!T.Rattle captured the Red Flag
+19-11-08 02:45:54 (1) SkiLLo killed (2) sk!T.Rattle with Grenade
+19-11-08 02:45:58 (1) Drsoldat killed (2) Enigma with LAW
+19-11-08 02:46:01 (2) Shatelia killed (1) SkiLLo with M79
+19-11-08 02:46:01 (2) sk!T.Rattle killed (1) Mr. Bait with Grenade
+19-11-08 02:46:01 (TEAM)[SkiLLo] INC ~ TOP
+19-11-08 02:46:02 (TEAM)[Mr. Bait]   ~*BASE HOT*~
+19-11-08 02:46:03 (RADIO)[Shatelia] INC MID
+19-11-08 02:46:03 (TEAM)[Shatelia] |B A S E|
+19-11-08 02:46:04 sk!T.Rattle captured the Red Flag
+19-11-08 02:46:04 Drsoldat captured the Blue Flag
+19-11-08 02:46:05 (TEAM)[Mr. Bait] EFC  Top  ^^^
+19-11-08 02:46:05 (2) Enigma killed (1) Drsoldat with HK MP5
+19-11-08 02:46:07 Shatelia returned the Blue Flag
+19-11-08 02:46:09 (TEAM)[Shatelia] CLEAR! ATTACK NOW!
+19-11-08 02:46:11 (TEAM)[Shatelia] Help our flagger!
+19-11-08 02:46:11 (1) Mr. Bait killed (2) Shatelia with Steyr AUG
+19-11-08 02:46:12 (1) Mr. Bait killed (2) sk!T.Rattle with Steyr AUG
+19-11-08 02:46:14 (2) Enigma killed (1) SkiLLo with HK MP5
+19-11-08 02:46:15 Mr. Bait returned the Red Flag
+19-11-08 02:46:15 [SkiLLo] Die!
+19-11-08 02:46:16 (1) Drsoldat killed (2) Enigma with FN Minimi
+19-11-08 02:46:18 (1) Drsoldat killed (2) sk!T.Rattle with FN Minimi
+19-11-08 02:46:18 (RADIO)[Shatelia] INC LOW
+19-11-08 02:46:19 (TEAM)[sk!T.Rattle] base
+19-11-08 02:46:20 Drsoldat captured the Blue Flag
+19-11-08 02:46:22 (1) SkiLLo killed (2) Shatelia with Steyr AUG
+19-11-08 02:46:22 (2) Enigma killed (1) Drsoldat with FN Minimi
+19-11-08 02:46:23 (2) Enigma killed (1) Mr. Bait with FN Minimi
+19-11-08 02:46:25 (TEAM)[Shatelia] EFC DOWN
+19-11-08 02:46:25 (TEAM)[Shatelia] pit
+19-11-08 02:46:26 (TEAM)[Mr. Bait] pit
+19-11-08 02:46:26 (1) SkiLLo killed (2) sk!T.Rattle with Steyr AUG
+19-11-08 02:46:28 (RADIO)[sk!T.Rattle] Enemy spotted up!
+19-11-08 02:46:30 (1) Drsoldat killed (2) Enigma with FN Minimi
+19-11-08 02:46:32 (TEAM)[Enigma] PIT
+19-11-08 02:46:33 (1) SkiLLo killed (2) Shatelia with Steyr AUG
+19-11-08 02:46:34 (2) Enigma killed (1) SkiLLo with FN Minimi
+19-11-08 02:46:35 (TEAM)[SkiLLo] INC ~ LOW
+19-11-08 02:46:35 (1) Mr. Bait killed (2) sk!T.Rattle with Grenade
+19-11-08 02:46:36 (2) Enigma killed (1) Drsoldat with FN Minimi
+19-11-08 02:46:38 Enigma returned the Blue Flag
+19-11-08 02:46:40 (1) Drsoldat killed (2) Shatelia with Grenade
+19-11-08 02:46:43 (1) Drsoldat killed (2) Enigma with FN Minimi
+19-11-08 02:46:45 (RADIO)[Enigma] Enemy spotted down!
+19-11-08 02:46:47 (2) Shatelia killed (1) Mr. Bait with Grenade
+19-11-08 02:46:48 (1) Drsoldat killed (2) sk!T.Rattle with FN Minimi
+19-11-08 02:46:50 (2) Shatelia killed (1) Drsoldat with M79
+19-11-08 02:46:51 (RADIO)[Shatelia] INC TOP
+19-11-08 02:46:52 (1) SkiLLo killed (2) Shatelia with Steyr AUG
+19-11-08 02:46:52 (2) Enigma killed (1) SkiLLo with HK MP5
+19-11-08 02:46:53 (TEAM)[SkiLLo] INC ~ TOP
+19-11-08 02:46:54 (TEAM)[Drsoldat] INC HIGH KILL THEM!
+19-11-08 02:46:57 Enigma captured the Red Flag
+19-11-08 02:46:58 (1) SkiLLo killed (2) Enigma with Steyr AUG
+19-11-08 02:47:00 (1) SkiLLo killed (2) sk!T.Rattle with Steyr AUG
+19-11-08 02:47:01 Mr. Bait captured the Blue Flag
+19-11-08 02:47:01 (TEAM)[Shatelia] |B A S E|
+19-11-08 02:47:02 (RADIO)[sk!T.Rattle] Enemy spotted down!
+19-11-08 02:47:03 (TEAM)[Shatelia] EFC TOP
+19-11-08 02:47:04 (1) Drsoldat killed (2) Enigma with LAW
+19-11-08 02:47:09 (2) Shatelia killed (1) Mr. Bait with Grenade
+19-11-08 02:47:09 (1) Mr. Bait killed (2) Shatelia with Steyr AUG
+19-11-08 02:47:11 Drsoldat captured the Blue Flag
+19-11-08 02:47:11 sk!T.Rattle captured the Red Flag
+19-11-08 02:47:13 (2) sk!T.Rattle killed (1) SkiLLo with Combat Knife
+19-11-08 02:47:14 (1) Mr. Bait killed (2) sk!T.Rattle with Grenade
+19-11-08 02:47:15 (TEAM)[SkiLLo] EFC ~ TOP
+19-11-08 02:47:16 (2) Enigma killed (1) Mr. Bait with Steyr AUG
+19-11-08 02:47:17 (1) Drsoldat killed (2) Enigma with Grenade
+19-11-08 02:47:17 (2) Shatelia killed (1) Drsoldat with Combat Knife
+19-11-08 02:47:18 (TEAM)[Mr. Bait] FFC Mid -------
+19-11-08 02:47:18 (1) Drsoldat killed (2) Shatelia with Grenade
+19-11-08 02:47:19 [Drsoldat] Yes, Sir!
+19-11-08 02:47:19 (TEAM)[Shatelia] FF LOW
+19-11-08 02:47:21 (TEAM)[Shatelia] FF MID
+19-11-08 02:47:21 [Drsoldat] I am the law!
+19-11-08 02:47:22 SkiLLo returned the Red Flag
+19-11-08 02:47:24 (1) SkiLLo killed (2) sk!T.Rattle with Steyr AUG
+19-11-08 02:47:24 Mr. Bait captured the Blue Flag
+19-11-08 02:47:27 (1) Drsoldat killed (2) Enigma with FN Minimi
+19-11-08 02:47:29 (2) Shatelia killed (1) Drsoldat with Combat Knife
+19-11-08 02:47:29 (1) Drsoldat killed (2) Shatelia with FN Minimi
+19-11-08 02:47:30 [Drsoldat] Yes, Sir!
+19-11-08 02:47:31 [Drsoldat] Return the flag!
+19-11-08 02:47:32 Mr. Bait scores for Alpha Team
+19-11-08 02:47:33 (2) sk!T.Rattle killed (1) SkiLLo with Ruger 77
+19-11-08 02:47:35 (1) Mr. Bait killed (2) sk!T.Rattle with Steyr AUG
+19-11-08 02:47:36 (2) sk!T.Rattle killed (1) Mr. Bait with Grenade
+19-11-08 02:47:37 (2) Shatelia killed (1) SkiLLo with Grenade
+19-11-08 02:47:38 (2) Enigma killed (1) Drsoldat with Steyr AUG
+19-11-08 02:47:39 (TEAM)[Drsoldat] INC HIGH KILL THEM!
+19-11-08 02:47:42 (2) Shatelia killed (1) Mr. Bait with Grenade
+19-11-08 02:47:43 (2) sk!T.Rattle killed (1) Drsoldat with Ruger 77
+19-11-08 02:47:43 (1) SkiLLo killed (2) sk!T.Rattle with Steyr AUG
+19-11-08 02:47:44 (TEAM)[Mr. Bait] routes
+19-11-08 02:47:45 Enigma captured the Red Flag
+19-11-08 02:47:46 (1) Mr. Bait killed (2) Enigma with Steyr AUG
+19-11-08 02:47:48 (TEAM)[Drsoldat] INC MID KILL THEM!
+19-11-08 02:47:48 (RADIO)[Shatelia] INC TOP
+19-11-08 02:47:50 (TEAM)[Drsoldat] EFC GOING MID- KILL HIM!
+19-11-08 02:47:53 (2) sk!T.Rattle killed (1) SkiLLo with Ruger 77
+19-11-08 02:47:53 (1) Drsoldat killed (2) Shatelia with FN Minimi
+19-11-08 02:47:59 (1) Drsoldat killed (2) Enigma with FN Minimi
+19-11-08 02:48:00 (2) Shatelia killed (1) Mr. Bait with Combat Knife
+19-11-08 02:48:01 (1) SkiLLo killed (2) sk!T.Rattle with Steyr AUG
+19-11-08 02:48:02 [Mr. Bait] nr
+19-11-08 02:48:03 (1) SkiLLo killed (2) Shatelia with Grenade
+19-11-08 02:48:03 (RADIO)[Shatelia] INC TOP
+19-11-08 02:48:04 [Mr. Bait] nt
+19-11-08 02:48:07 Drsoldat captured the Blue Flag
+19-11-08 02:48:07 (2) Shatelia killed (1) Drsoldat with Grenade
+19-11-08 02:48:11 (1) Mr. Bait killed (2) sk!T.Rattle with Steyr AUG
+19-11-08 02:48:12 (RADIO)[sk!T.Rattle] Enemy spotted down!
+19-11-08 02:48:15 (2) Enigma killed (1) Mr. Bait with FN Minimi
+19-11-08 02:48:16 (2) Shatelia killed (1) SkiLLo with Grenade
+19-11-08 02:48:16 (TEAM)[Mr. Bait] Enemies inc Top
+19-11-08 02:48:21 (2) Enigma killed (1) Drsoldat with Grenade
+19-11-08 02:48:21 (1) Drsoldat killed (2) Enigma with FN Minimi
+19-11-08 02:48:23 sk!T.Rattle captured the Red Flag
+19-11-08 02:48:25 (1) Drsoldat killed (2) sk!T.Rattle with FN Minimi
+19-11-08 02:48:26 (1) Mr. Bait killed (2) Shatelia with Steyr AUG
+19-11-08 02:48:27 SkiLLo returned the Red Flag
+19-11-08 02:48:28 (RADIO)[Shatelia] INC TOP
+19-11-08 02:48:30 (2) Enigma killed (1) Drsoldat with Grenade
+19-11-08 02:48:30 (1) Drsoldat killed (2) Enigma with FN Minimi
+19-11-08 02:48:37 (2) Enigma killed (1) Mr. Bait with Combat Knife
+19-11-08 02:48:38 (1) Drsoldat killed (2) Shatelia with Grenade
+19-11-08 02:48:38 (TEAM)[Mr. Bait] Enemies inc Top
+19-11-08 02:48:39 (1) Drsoldat killed (2) Enigma with FN Minimi
+19-11-08 02:48:40 (TEAM)[Mr. Bait] 2
+19-11-08 02:48:40 Drsoldat captured the Blue Flag
+19-11-08 02:48:40 (TEAM)[Shatelia] |B A S E|
+19-11-08 02:48:42 (RADIO)[Enigma] Enemy spotted up!
+19-11-08 02:48:43 (1) SkiLLo killed (2) Shatelia with Combat Knife
+19-11-08 02:48:44 (2) sk!T.Rattle killed (1) Drsoldat with Ruger 77
+19-11-08 02:48:49 Mr. Bait captured the Blue Flag
+19-11-08 02:48:52 (1) SkiLLo killed (2) sk!T.Rattle with Steyr AUG
+19-11-08 02:48:53 (2) Enigma killed (1) Mr. Bait with FN Minimi
+19-11-08 02:48:54 Drsoldat captured the Blue Flag
+19-11-08 02:48:55 (TEAM)[Mr. Bait] Enemies inc Mid
+19-11-08 02:48:55 (TEAM)[Mr. Bait] Enemies inc Top
+19-11-08 02:48:56 (2) Shatelia killed (1) Drsoldat with Spas-12
+19-11-08 02:48:58 Shatelia returned the Blue Flag
+19-11-08 02:48:58 Enigma captured the Red Flag
+19-11-08 02:48:59 (1) SkiLLo killed (2) Enigma with Grenade
+19-11-08 02:48:59 SkiLLo returned the Red Flag
+19-11-08 02:48:59 (2) Enigma killed (1) SkiLLo with Combat Knife
+19-11-08 02:49:00 (1) Mr. Bait killed (2) Shatelia with Steyr AUG
+19-11-08 02:49:01 (2) sk!T.Rattle killed (1) Mr. Bait with Grenade
+19-11-08 02:49:03 (1) Drsoldat killed (2) sk!T.Rattle with FN Minimi
+19-11-08 02:49:04 (RADIO)[Shatelia] INC TOP
+19-11-08 02:49:08 (1) Mr. Bait killed (2) Enigma with Grenade
+19-11-08 02:49:08 (2) Enigma killed (1) Mr. Bait with Grenade
+19-11-08 02:49:11 (2) sk!T.Rattle killed (1) Drsoldat with Ruger 77
+19-11-08 02:49:12 (1) SkiLLo killed (2) Shatelia with Steyr AUG
+19-11-08 02:49:13 (2) sk!T.Rattle killed (1) SkiLLo with Ruger 77
+19-11-08 02:49:13 (TEAM)[SkiLLo] INC ~ TOP
+19-11-08 02:49:18 (TEAM)[Shatelia] |B A S E|
+19-11-08 02:49:19 (2) sk!T.Rattle killed (1) SkiLLo with Combat Knife
+19-11-08 02:49:20 (1) Drsoldat killed (2) Enigma with FN Minimi
+19-11-08 02:49:20 (1) SkiLLo killed (2) sk!T.Rattle with Grenade
+19-11-08 02:49:26 (1) Mr. Bait killed (2) sk!T.Rattle with Grenade
+19-11-08 02:49:26 (2) Enigma killed (1) Mr. Bait with FN Minimi
+19-11-08 02:49:27 (1) Drsoldat killed (2) Shatelia with FN Minimi
+19-11-08 02:49:29 (TEAM)[Shatelia] Che hay leaks
+19-11-08 02:49:29 (TEAM)[Shatelia] Help our flagger!
+19-11-08 02:49:30 (2) Enigma killed (1) SkiLLo with FN Minimi
+19-11-08 02:49:32 (2) sk!T.Rattle killed (1) Drsoldat with Ruger 77
+19-11-08 02:49:32 (TEAM)[SkiLLo] INC ~ LOW
+19-11-08 02:49:34 (TEAM)[Drsoldat] INC HIGH KILL THEM!
+19-11-08 02:49:34 (1) Mr. Bait killed (2) Enigma with Steyr AUG
+19-11-08 02:49:35 (RADIO)[Enigma] Enemy spotted down!
+19-11-08 02:49:37 (1) SkiLLo killed (2) Shatelia with Grenade
+19-11-08 02:49:39 Mr. Bait captured the Blue Flag
+19-11-08 02:49:39 Time Left: 5 minutes
+19-11-08 02:49:40 (2) sk!T.Rattle killed (1) Mr. Bait with Combat Knife
+19-11-08 02:49:40 (1) SkiLLo killed (2) sk!T.Rattle with Steyr AUG
+19-11-08 02:49:41 [Mr. Bait] Son of a bitch!
+19-11-08 02:49:41 (2) Enigma killed (1) SkiLLo with Grenade
+19-11-08 02:49:43 (1) Drsoldat killed (2) Enigma with FN Minimi
+19-11-08 02:49:44 (1) Drsoldat killed (2) Shatelia with LAW
+19-11-08 02:49:46 (2) sk!T.Rattle killed (1) Drsoldat with Ruger 77
+19-11-08 02:49:51 (2) Enigma killed (1) Mr. Bait with Combat Knife
+19-11-08 02:49:51 (TEAM)[Drsoldat] INC MID KILL THEM!
+19-11-08 02:49:52 (2) Shatelia killed (1) SkiLLo with Grenade
+19-11-08 02:49:53 (TEAM)[Mr. Bait] Enemies inc Mid
+19-11-08 02:49:53 (TEAM)[Mr. Bait]   ~*BASE HOT*~
+19-11-08 02:49:53 (1) Mr. Bait killed (2) Shatelia with Grenade
+19-11-08 02:49:53 (2) sk!T.Rattle killed (1) Drsoldat with Ruger 77
+19-11-08 02:49:58 (1) SkiLLo killed (2) sk!T.Rattle with Steyr AUG
+19-11-08 02:50:01 (2) Enigma killed (1) Mr. Bait with FN Minimi
+19-11-08 02:50:01 (1) SkiLLo killed (2) Enigma with Steyr AUG
+19-11-08 02:50:02 191.119.62.240:3875|64995B15DC0 requesting game...
+19-11-08 02:50:03 (1) SkiLLo killed (2) Shatelia with Hands
+19-11-08 02:50:04 sT.- YnGwi3 joining game (191.119.62.240:3875) HWID:64995B15DC0
+19-11-08 02:50:04 sT.- YnGwi3 has joined as spectator.
+19-11-08 02:50:04 (RADIO)[Shatelia] INC TOP
+19-11-08 02:50:05 Drsoldat captured the Blue Flag
+19-11-08 02:50:05 (TEAM)[Shatelia] |B A S E|
+19-11-08 02:50:07 [sT.- YnGwi3] !info
+19-11-08 02:50:07 /say Gather.SA (elapsed time 0:20:49) (206.81.24.116)
+19-11-08 02:50:07 /say Alpha: Yukkz - Bait] - DrSoldat (206.81.24.116)
+19-11-08 02:50:07 /say Bravo:  - Shatelia - Rattle (206.81.24.116)
+19-11-08 02:50:07 /say Tiebreaker: ctf_Nuubia (206.81.24.116)
+19-11-08 02:50:08 (2) sk!T.Rattle killed (1) Drsoldat with Grenade
+19-11-08 02:50:09 (TEAM)[Drsoldat] INC HIGH KILL THEM!
+19-11-08 02:50:09 [Drsoldat] Yes, Sir!
+19-11-08 02:50:14 (2) Enigma killed (1) SkiLLo with FN Minimi
+19-11-08 02:50:14 [SkiLLo] Die!
+19-11-08 02:50:14 Mr. Bait captured the Blue Flag
+19-11-08 02:50:15 (1) Drsoldat killed (2) Enigma with FN Minimi
+19-11-08 02:50:15 (2) Enigma killed (1) Drsoldat with Combat Knife
+19-11-08 02:50:16 (2) Shatelia killed (1) Mr. Bait with HK MP5
+19-11-08 02:50:16 sk!T.Rattle returned the Blue Flag
+19-11-08 02:50:20 (1) SkiLLo killed (2) Shatelia with Steyr AUG
+19-11-08 02:50:21 (2) sk!T.Rattle killed (1) Drsoldat with Ruger 77
+19-11-08 02:50:22 (RADIO)[Shatelia] INC TOP
+19-11-08 02:50:22 (2) Enigma killed (1) SkiLLo with FN Minimi
+19-11-08 02:50:23 (TEAM)[SkiLLo] INC ~ TOP
+19-11-08 02:50:23 (1) Mr. Bait killed (2) sk!T.Rattle with Grenade
+19-11-08 02:50:26 (1) Drsoldat killed (2) Enigma with Grenade
+19-11-08 02:50:29 (2) Shatelia killed (1) Drsoldat with HK MP5
+19-11-08 02:50:29 (2) sk!T.Rattle killed (1) Mr. Bait with Ruger 77
+19-11-08 02:50:30 (1) SkiLLo killed (2) Shatelia with Steyr AUG
+19-11-08 02:50:30 (TEAM)[Mr. Bait] Enemies inc Low
+19-11-08 02:50:31 (TEAM)[Mr. Bait]   ~*BASE HOT*~
+19-11-08 02:50:31 (RADIO)[Shatelia] INC TOP
+19-11-08 02:50:31 (TEAM)[Shatelia] [%LOW HP]
+19-11-08 02:50:33 (2) Enigma killed (1) SkiLLo with Steyr AUG
+19-11-08 02:50:33 sk!T.Rattle captured the Red Flag
+19-11-08 02:50:35 (1) Mr. Bait killed (2) sk!T.Rattle with Steyr AUG
+19-11-08 02:50:35 Mr. Bait returned the Red Flag
+19-11-08 02:50:35 (TEAM)[Shatelia] FF TOP
+19-11-08 02:50:38 (2) Enigma killed (1) Drsoldat with Steyr AUG
+19-11-08 02:50:39 Time Left: 4 minutes
+19-11-08 02:50:44 (2) sk!T.Rattle killed (1) Drsoldat with Ruger 77
+19-11-08 02:50:45 (1) Mr. Bait killed (2) Enigma with Steyr AUG
+19-11-08 02:50:46 (2) sk!T.Rattle killed (1) SkiLLo with Ruger 77
+19-11-08 02:50:47 (TEAM)[SkiLLo] INC ~ LOW
+19-11-08 02:50:48 sk!T.Rattle captured the Red Flag
+19-11-08 02:50:49 (1) Mr. Bait killed (2) sk!T.Rattle with LAW
+19-11-08 02:50:50 [sk!T.Rattle] nice
+19-11-08 02:50:51 (1) Mr. Bait killed (2) Shatelia with Steyr AUG
+19-11-08 02:50:52 (2) Enigma killed (1) Mr. Bait with HK MP5
+19-11-08 02:50:53 (1) Drsoldat killed (2) Enigma with LAW
+19-11-08 02:50:54 [Mr. Bait] ty
+19-11-08 02:50:57 Drsoldat captured the Blue Flag
+19-11-08 02:50:58 (1) SkiLLo killed (2) Shatelia with Steyr AUG
+19-11-08 02:50:59 (2) Enigma killed (1) Drsoldat with Grenade
+19-11-08 02:51:00 (2) sk!T.Rattle killed (1) SkiLLo with Ruger 77
+19-11-08 02:51:02 (TEAM)[SkiLLo] EFC ~ MID
+19-11-08 02:51:02 Enigma returned the Blue Flag
+19-11-08 02:51:04 (1) Mr. Bait killed (2) sk!T.Rattle with Steyr AUG
+19-11-08 02:51:05 (RADIO)[sk!T.Rattle] Enemy spotted down!
+19-11-08 02:51:07 (1) Drsoldat killed (2) Enigma with FN Minimi
+19-11-08 02:51:07 (TEAM)[Shatelia] |B A S E|
+19-11-08 02:51:08 (RADIO)[Enigma] Enemy spotted up!
+19-11-08 02:51:08 Mr. Bait captured the Blue Flag
+19-11-08 02:51:11 (2) Shatelia killed (1) Mr. Bait with HK MP5
+19-11-08 02:51:13 (2) Enigma killed (1) Drsoldat with Combat Knife
+19-11-08 02:51:13 (1) SkiLLo killed (2) Shatelia with Spas-12
+19-11-08 02:51:14 sk!T.Rattle returned the Blue Flag
+19-11-08 02:51:17 (1) SkiLLo killed (2) sk!T.Rattle with Spas-12
+19-11-08 02:51:21 (1) Mr. Bait killed (2) Enigma with Steyr AUG
+19-11-08 02:51:25 (2) Shatelia killed (1) Mr. Bait with HK MP5
+19-11-08 02:51:25 (2) Enigma killed (1) SkiLLo with Combat Knife
+19-11-08 02:51:26 [SkiLLo] Die!
+19-11-08 02:51:26 (1) Drsoldat killed (2) Shatelia with FN Minimi
+19-11-08 02:51:28 (TEAM)[Mr. Bait] Enemies inc Top
+19-11-08 02:51:28 (RADIO)[Shatelia] INC MID
+19-11-08 02:51:29 (TEAM)[SkiLLo] INC ~ TOP
+19-11-08 02:51:31 (1) Drsoldat killed (2) Enigma with LAW
+19-11-08 02:51:31 sk!T.Rattle captured the Red Flag
+19-11-08 02:51:33 (2) Enigma killed (1) Mr. Bait with Grenade
+19-11-08 02:51:33 (TEAM)[Mr. Bait]   ~*BASE HOT*~
+19-11-08 02:51:34 (2) sk!T.Rattle killed (1) Drsoldat with Ruger 77
+19-11-08 02:51:34 (1) SkiLLo killed (2) sk!T.Rattle with Spas-12
+19-11-08 02:51:35 (TEAM)[Mr. Bait] Enemies inc Low
+19-11-08 02:51:35 (TEAM)[Mr. Bait]   ~*BASE HOT*~
+19-11-08 02:51:38 [Shatelia] ?
+19-11-08 02:51:39 SkiLLo returned the Red Flag
+19-11-08 02:51:39 (RADIO)[Shatelia] INC TOP
+19-11-08 02:51:39 Time Left: 3 minutes
+19-11-08 02:51:40 (1) Mr. Bait killed (2) Enigma with LAW
+19-11-08 02:51:44 (1) SkiLLo killed (2) sk!T.Rattle with Spas-12
+19-11-08 02:51:47 (2) Shatelia killed (1) Drsoldat with Grenade
+19-11-08 02:51:49 Mr. Bait captured the Blue Flag
+19-11-08 02:51:51 Enigma captured the Red Flag
+19-11-08 02:51:52 (2) sk!T.Rattle killed (1) Mr. Bait with Ruger 77
+19-11-08 02:51:52 (1) SkiLLo killed (2) Shatelia with Grenade
+19-11-08 02:51:53 (TEAM)[Shatelia] Help our flagger!
+19-11-08 02:51:54 (1) Drsoldat killed (2) Enigma with Grenade
+19-11-08 02:51:55 (TEAM)[Shatelia] FF TOP
+19-11-08 02:51:57 Drsoldat returned the Red Flag
+19-11-08 02:51:58 (2) sk!T.Rattle killed (1) Drsoldat with Combat Knife
+19-11-08 02:51:59 (1) Mr. Bait killed (2) sk!T.Rattle with Steyr AUG
+19-11-08 02:52:00 (TEAM)[Drsoldat] INC HIGH KILL THEM!
+19-11-08 02:52:03 (2) Enigma killed (1) Mr. Bait with Steyr AUG
+19-11-08 02:52:04 (TEAM)[Mr. Bait]   ~*BASE HOT*~
+19-11-08 02:52:04 (1) SkiLLo killed (2) Shatelia with Spas-12
+19-11-08 02:52:05 Enigma captured the Red Flag
+19-11-08 02:52:06 (1) Drsoldat killed (2) Enigma with Grenade
+19-11-08 02:52:07 Drsoldat returned the Red Flag
+19-11-08 02:52:09 (1) Mr. Bait killed (2) sk!T.Rattle with Steyr AUG
+19-11-08 02:52:13 (1) Drsoldat killed (2) Shatelia with FN Minimi
+19-11-08 02:52:15 (RADIO)[Shatelia] INC TOP
+19-11-08 02:52:15 (TEAM)[Shatelia] |B A S E|
+19-11-08 02:52:16 (TEAM)[Shatelia] 2
+19-11-08 02:52:16 (2) sk!T.Rattle killed (1) Mr. Bait with Grenade
+19-11-08 02:52:18 Enigma captured the Red Flag
+19-11-08 02:52:19 (1) Drsoldat killed (2) sk!T.Rattle with LAW
+19-11-08 02:52:19 (TEAM)[Mr. Bait]   ~*BASE HOT*~
+19-11-08 02:52:20 (TEAM)[Mr. Bait] EFC  Top  ^^^
+19-11-08 02:52:20 (TEAM)[SkiLLo] EFC ~ TOP
+19-11-08 02:52:21 (RADIO)[Enigma] Enemy spotted down!
+19-11-08 02:52:21 [sk!T.Rattle] D:
+19-11-08 02:52:24 (1) SkiLLo killed (2) Shatelia with Grenade
+19-11-08 02:52:25 (TEAM)[Shatelia] |B A S E|
+19-11-08 02:52:25 SkiLLo captured the Blue Flag
+19-11-08 02:52:26 (2) Enigma killed (1) Mr. Bait with Combat Knife
+19-11-08 02:52:27 (1) Drsoldat killed (2) Enigma with Grenade
+19-11-08 02:52:29 (TEAM)[Mr. Bait] FFC Mid -------
+19-11-08 02:52:29 (2) sk!T.Rattle killed (1) Drsoldat with Ruger 77
+19-11-08 02:52:33 SkiLLo returned the Red Flag
+19-11-08 02:52:36 (1) Drsoldat killed (2) sk!T.Rattle with FN Minimi
+19-11-08 02:52:38 (1) Drsoldat killed (2) Shatelia with FN Minimi
+19-11-08 02:52:39 Time Left: 2 minutes
+19-11-08 02:52:40 (1) Drsoldat killed (2) Enigma with FN Minimi
+19-11-08 02:52:43 SkiLLo scores for Alpha Team
+19-11-08 02:52:45 (1) Drsoldat killed (2) sk!T.Rattle with LAW
+19-11-08 02:52:48 (2) Shatelia killed (1) Mr. Bait with Combat Knife
+19-11-08 02:52:49 (2) Shatelia killed (1) SkiLLo with HK MP5
+19-11-08 02:52:49 Drsoldat captured the Blue Flag
+19-11-08 02:52:49 (TEAM)[SkiLLo] INC ~ TOP
+19-11-08 02:52:50 [Mr. Bait] ufff
+19-11-08 02:52:51 Shatelia captured the Red Flag
+19-11-08 02:52:52 (TEAM)[SkiLLo] EFC ~ TOP
+19-11-08 02:52:52 (1) Mr. Bait killed (2) Shatelia with Steyr AUG
+19-11-08 02:52:54 (TEAM)[Shatelia] FF TOP
+19-11-08 02:52:56 (1) Mr. Bait killed (2) Enigma with Steyr AUG
+19-11-08 02:52:57 sk!T.Rattle captured the Red Flag
+19-11-08 02:52:58 (1) SkiLLo killed (2) Shatelia with Grenade
+19-11-08 02:52:58 (2) Shatelia killed (1) SkiLLo with HK MP5
+19-11-08 02:52:58 (1) Mr. Bait killed (2) sk!T.Rattle with LAW
+19-11-08 02:52:59 (TEAM)[Shatelia] |B A S E|
+19-11-08 02:53:00 (RADIO)[Shatelia] INC MID
+19-11-08 02:53:00 (TEAM)[Shatelia] |B A S E|
+19-11-08 02:53:00 (RADIO)[Shatelia] INC MID
+19-11-08 02:53:01 Drsoldat returned the Red Flag
+19-11-08 02:53:01 (2) Enigma killed (1) Drsoldat with Grenade
+19-11-08 02:53:02 Enigma returned the Blue Flag
+19-11-08 02:53:08 Enigma captured the Red Flag
+19-11-08 02:53:11 [sT.- YnGwi3] last?
+19-11-08 02:53:12 (1) SkiLLo killed (2) sk!T.Rattle with Spas-12
+19-11-08 02:53:13 (1) SkiLLo killed (2) Enigma with Spas-12
+19-11-08 02:53:13 (1) Mr. Bait killed (2) Shatelia with Steyr AUG
+19-11-08 02:53:14 SkiLLo returned the Red Flag
+19-11-08 02:53:15 [Shatelia] Oki Doki!
+19-11-08 02:53:15 (2) sk!T.Rattle killed (1) Mr. Bait with Combat Knife
+19-11-08 02:53:16 (TEAM)[Shatelia] |B A S E|
+19-11-08 02:53:17 Drsoldat captured the Blue Flag
+19-11-08 02:53:17 (TEAM)[Mr. Bait] Enemies inc Top
+19-11-08 02:53:23 (1) SkiLLo killed (2) sk!T.Rattle with Spas-12
+19-11-08 02:53:24 (2) Shatelia killed (1) Mr. Bait with HK MP5
+19-11-08 02:53:25 Shatelia captured the Red Flag
+19-11-08 02:53:25 (TEAM)[Mr. Bait]   ~*BASE HOT*~
+19-11-08 02:53:26 (TEAM)[Mr. Bait] Weak - Weak!!!
+19-11-08 02:53:27 (1) Drsoldat killed (2) Shatelia with FN Minimi
+19-11-08 02:53:29 (2) sk!T.Rattle killed (1) SkiLLo with Ruger 77
+19-11-08 02:53:30 (TEAM)[SkiLLo] INC ~ TOP
+19-11-08 02:53:32 (2) sk!T.Rattle killed (1) Drsoldat with Ruger 77
+19-11-08 02:53:32 sk!T.Rattle captured the Red Flag
+19-11-08 02:53:33 Mr. Bait captured the Blue Flag
+19-11-08 02:53:37 (1) SkiLLo killed (2) sk!T.Rattle with Spas-12
+19-11-08 02:53:38 (TEAM)[Shatelia] EFC TOP
+19-11-08 02:53:39 Time Left: 1 minutes
+19-11-08 02:53:40 SkiLLo returned the Red Flag
+19-11-08 02:53:40 Shatelia captured the Red Flag
+19-11-08 02:53:42 (1) Mr. Bait killed (2) Enigma with Steyr AUG
+19-11-08 02:53:43 (1) Mr. Bait killed (2) Shatelia with Steyr AUG
+19-11-08 02:53:44 (1) Drsoldat killed (2) sk!T.Rattle with LAW
+19-11-08 02:53:44 (2) sk!T.Rattle killed (1) Drsoldat with Combat Knife
+19-11-08 02:53:45 (TEAM)[Shatelia] bue
+19-11-08 02:53:45 (TEAM)[Shatelia] Help our flagger!
+19-11-08 02:53:46 [Drsoldat] Yes, Sir!
+19-11-08 02:53:50 (1) Drsoldat killed (2) Enigma with FN Minimi
+19-11-08 02:53:52 SkiLLo returned the Red Flag
+19-11-08 02:53:52 Mr. Bait scores for Alpha Team
+19-11-08 02:53:53 (1) Drsoldat killed (2) sk!T.Rattle with LAW
+19-11-08 02:53:57 (2) Shatelia killed (1) Drsoldat with HK MP5
+19-11-08 02:53:58 (1) SkiLLo killed (2) Shatelia with Spas-12
+19-11-08 02:54:00 Enigma captured the Red Flag
+19-11-08 02:54:02 (2) sk!T.Rattle killed (1) SkiLLo with Ruger 77
+19-11-08 02:54:02 (2) Enigma killed (1) Mr. Bait with M79
+19-11-08 02:54:03 (TEAM)[Mr. Bait]   ~*BASE HOT*~
+19-11-08 02:54:03 (2) sk!T.Rattle killed (1) Drsoldat with Combat Knife
+19-11-08 02:54:04 (TEAM)[Drsoldat] EFC GOING HIGH - KILL HIM!
+19-11-08 02:54:04 (TEAM)[Mr. Bait] EFC  Top  ^^^
+19-11-08 02:54:07 (TEAM)[Shatelia] CLEAR! ATTACK NOW!
+19-11-08 02:54:10 (2) Shatelia killed (1) Mr. Bait with Combat Knife
+19-11-08 02:54:10 Enigma scores for Bravo Team
+19-11-08 02:54:10 sk!T.Rattle captured the Red Flag
+19-11-08 02:54:11 [Mr. Bait] Son of a bitch!
+19-11-08 02:54:14 (1) Drsoldat killed (2) sk!T.Rattle with FN Minimi
+19-11-08 02:54:15 SkiLLo returned the Red Flag
+19-11-08 02:54:16 (1) Drsoldat killed (2) Shatelia with LAW
+19-11-08 02:54:16 (RADIO)[Shatelia] INC TOP
+19-11-08 02:54:21 (1) SkiLLo killed (2) Enigma with Spas-12
+19-11-08 02:54:24 [sT.- YnGwi3] +2 na
+19-11-08 02:54:27 (2) Shatelia killed (1) Drsoldat with Combat Knife
+19-11-08 02:54:29 (2) Shatelia killed (1) SkiLLo with HK MP5
+19-11-08 02:54:30 Shatelia captured the Red Flag
+19-11-08 02:54:30 [Drsoldat] Yes, Sir!
+19-11-08 02:54:33 (1) Mr. Bait killed (2) Shatelia with Steyr AUG
+19-11-08 02:54:33 (2) sk!T.Rattle killed (1) Mr. Bait with Ruger 77
+19-11-08 02:54:34 (TEAM)[Mr. Bait] EFC  Top  ^^^
+19-11-08 02:54:34 Enigma captured the Red Flag
+19-11-08 02:54:34 (TEAM)[Mr. Bait] Weak - Weak!!!
+19-11-08 02:54:35 (1) SkiLLo killed (2) sk!T.Rattle with Spas-12
+19-11-08 02:54:35 (TEAM)[Shatelia] CAP THAT SHIT CHABON! (>_<*)
+19-11-08 02:54:36 (2) Enigma killed (1) Drsoldat with Combat Knife
+19-11-08 02:54:38 Shatelia captured the Red Flag
+19-11-08 02:54:39 [Drsoldat] first map
+19-11-08 02:54:39 Shatelia scores for Bravo Team
+19-11-08 02:54:39 Next map: Lobby
+19-11-08 02:54:41 [sk!T.Rattle] gg
+19-11-08 02:54:41 SkiLLo has left alpha team.
+19-11-08 02:54:41 [Enigma] GG
+19-11-08 02:54:42 sk!T.Rattle has left bravo team.
+19-11-08 02:54:42 Enigma has left bravo team.
+19-11-08 02:54:42 [Shatelia] Golden cap
+19-11-08 02:54:42 Drsoldat has left alpha team.
+19-11-08 02:54:43 sT.- YnGwi3 has left spectators
+19-11-08 02:54:43 Mr. Bait has left alpha team.
+19-11-08 02:54:43 Shatelia has left bravo team.
+19-11-08 02:54:45 Lothic - Gothic Lobby Room
+19-11-08 02:55:27 /password 6582 (206.81.24.116)
+19-11-08 02:55:27 Server password changed to 6582
+19-11-08 02:55:27 /say Server password was changed... (206.81.24.116)
+19-11-08 02:55:28 /loadcon soldat.ini (206.81.24.116)
+19-11-08 02:55:28 Config reloaded soldat.ini
+19-11-08 02:55:28 Lothic - Gothic Lobby Room
+19-11-08 02:55:28 Loaded weapons mod "Default v1.8"
+19-11-08 02:55:28 Port already open
+19-11-08 02:55:28  Connection for file server started. Port: 23012
+19-11-08 02:55:29 /loadwep weapons (206.81.24.116)
+19-11-08 02:55:29 Loaded weapons mod "Default v1.8"
+19-11-08 02:55:37 24.253.93.226:23073|36050C7E6C6 requesting game...
+19-11-08 02:55:39 Drsoldat joining game (24.253.93.226:23073) HWID:36050C7E6C6
+19-11-08 02:55:39 Drsoldat has joined alpha team.
+19-11-08 02:55:42 191.84.69.132:23073|129D768533E requesting game...
+19-11-08 02:55:44 sk!T.Rattle joining game (191.84.69.132:23073) HWID:129D768533E
+19-11-08 02:55:44 sk!T.Rattle has joined bravo team.
+19-11-08 02:55:44 181.229.113.202:23073|6F72ADCE33A requesting game...
+19-11-08 02:55:45 Shatelia joining game (181.229.113.202:23073) HWID:6F72ADCE33A
+19-11-08 02:55:45 Shatelia has joined as spectator.
+19-11-08 02:55:48 [Shatelia] !info
+19-11-08 02:55:48 /say Gather.SA (elapsed time 0:00:20) (206.81.24.116)
+19-11-08 02:55:48 /say Alpha:  - DrSoldat - Shatelia (206.81.24.116)
+19-11-08 02:55:48 /say Bravo: YnGw3 - nP - Rattle (206.81.24.116)
+19-11-08 02:55:48 /say Tiebreaker: ctf_Rotten (206.81.24.116)
+19-11-08 02:55:48 [sk!T.Rattle] please no gaurdain
+19-11-08 02:55:51 [Shatelia] !a
+19-11-08 02:55:51 Shatelia has joined alpha team.
+19-11-08 02:55:58 191.119.62.240:3875|64995B15DC0 requesting game...
+19-11-08 02:55:59 sT.- YnGwi3 joining game (191.119.62.240:3875) HWID:64995B15DC0
+19-11-08 02:55:59 sT.- YnGwi3 has joined bravo team.
+19-11-08 02:56:05 [Shatelia] Guardian ta re piola que decis 
+19-11-08 02:56:09 186.11.83.144:52767|203166FE5D6 requesting game...
+19-11-08 02:56:12 nP [KillMe!] joining game (186.11.83.144:52767) HWID:203166FE5D6
+19-11-08 02:56:12 nP [KillMe!] has joined bravo team.
+19-11-08 02:56:22 190.101.27.12:23073|36DB9B79633 requesting game...
+19-11-08 02:56:23 Enigma joining game (190.101.27.12:23073) HWID:36DB9B79633
+19-11-08 02:56:23 Enigma has joined alpha team.
+19-11-08 02:56:27 [sk!T.Rattle] es muy rapido para mis ojos
+19-11-08 02:56:34 [Shatelia] jajajaja
+19-11-08 02:56:38 [sk!T.Rattle] que vuelva voland
+19-11-08 02:56:39 [sk!T.Rattle] y laos
+19-11-08 02:56:43 [nP [KillMe!]] jajaaj rattle 
+19-11-08 02:56:45 [Shatelia] No taria mal voland
+19-11-08 02:56:47 [nP [KillMe!]] ajajaaj ni te acuerdas de mi xd
+19-11-08 02:56:48 [sT.- YnGwi3] votemap
+19-11-08 02:56:51 [Shatelia] !map ctf_Voland
+19-11-08 02:56:52 [sk!T.Rattle] obvio que si
+19-11-08 02:56:57 Voland
+19-11-08 02:57:04 [nP [KillMe!]] como estas compadre
+19-11-08 02:57:10 (1) Drsoldat killed (2) sk!T.Rattle with FN Minimi
+19-11-08 02:57:12 [sk!T.Rattle] bien y tu
+19-11-08 02:57:13 Shatelia captured the Blue Flag
+19-11-08 02:57:16 [sT.- YnGwi3] this? xd
+19-11-08 02:57:18 [nP [KillMe!]] bien bien volviendo
+19-11-08 02:57:21 [sk!T.Rattle] siempre fue tu nombre killme?
+19-11-08 02:57:21 (1) Drsoldat killed (2) sk!T.Rattle with Grenade
+19-11-08 02:57:23 [nP [KillMe!]] tu tambien?
+19-11-08 02:57:26 [Shatelia] Las bolas sT.- YnGwi3
+19-11-08 02:57:29 [nP [KillMe!]] fue bug o tapping creo
+19-11-08 02:57:31 [sk!T.Rattle] yo nunca me fui
+19-11-08 02:57:31 [Shatelia] Hacemos tiempo nomas
+19-11-08 02:57:32 (1) Drsoldat killed (2) nP [KillMe!] with LAW
+19-11-08 02:57:32 [nP [KillMe!]]  ni me acuerdo XD
+19-11-08 02:57:35 Shatelia scores for Alpha Team
+19-11-08 02:57:35 (1) Drsoldat killed (2) sk!T.Rattle with FN Minimi
+19-11-08 02:57:37 [Enigma] !info
+19-11-08 02:57:37 /say Gather.SA (elapsed time 0:02:09) (206.81.24.116)
+19-11-08 02:57:37 /say Alpha:  - DrSoldat - Shatelia (206.81.24.116)
+19-11-08 02:57:37 /say Bravo: YnGw3 - nP - Rattle (206.81.24.116)
+19-11-08 02:57:37 /say Tiebreaker: ctf_Rotten (206.81.24.116)
+19-11-08 02:57:42 [Enigma] !map spark
+19-11-08 02:57:43 (TEAM)[Shatelia] wretch?
+19-11-08 02:57:44 [sk!T.Rattle] QUEE
+19-11-08 02:57:44 [sT.- YnGwi3] Yes, Sir!
+19-11-08 02:57:45 (RADIO)[sT.- YnGwi3] Friendly flagger middle!
+19-11-08 02:57:45 (TEAM)[Drsoldat] ok
+19-11-08 02:57:47 Spark - By Vauat
+19-11-08 02:57:47 sk!T.Rattle has left bravo team.
+19-11-08 02:57:47 (TEAM)[sT.- YnGwi3] yo robo
+19-11-08 02:57:49 191.84.69.132:23073|129D768533E requesting game...
+19-11-08 02:57:49 [nP [KillMe!]] has sabido del iszil?
+19-11-08 02:57:51 sk!T.Rattle joining game (191.84.69.132:23073) HWID:129D768533E
+19-11-08 02:57:51 sk!T.Rattle has joined bravo team.
+19-11-08 02:57:54 (1) Enigma killed (2) nP [KillMe!] with FN Minimi
+19-11-08 02:57:56 Enigma captured the Blue Flag
+19-11-08 02:57:56 sT.- YnGwi3 captured the Red Flag
+19-11-08 02:57:58 (1) Shatelia killed (2) sT.- YnGwi3 with Spas-12
+19-11-08 02:57:58 [nP [KillMe!]] !r
+19-11-08 02:57:58 Restarting...
+19-11-08 02:57:58 [Shatelia] Nuh Uh!
+19-11-08 02:58:00 [sT.- YnGwi3] go
+19-11-08 02:58:00 (TEAM)[sk!T.Rattle] quie hago
+19-11-08 02:58:01 [Shatelia] Oki Doki!
+19-11-08 02:58:03 Spark - By Vauat
+19-11-08 02:58:03 [Shatelia] Debe ser por Dog Chow!
+19-11-08 02:58:06 (TEAM)[nP [KillMe!]] no conozco el mapa
+19-11-08 02:58:07 (TEAM)[Drsoldat] weretvch
+19-11-08 02:58:08 (1) Shatelia killed (2) sk!T.Rattle with Grenade
+19-11-08 02:58:09 (2) sk!T.Rattle killed (1) Shatelia with Ruger 77
+19-11-08 02:58:09 [nP [KillMe!]] !r
+19-11-08 02:58:09 Restarting...
+19-11-08 02:58:10 (TEAM)[Shatelia] Help our flagger!
+19-11-08 02:58:12 (RADIO)[Shatelia] INC LOW
+19-11-08 02:58:12 (TEAM)[sT.- YnGwi3] de
+19-11-08 02:58:13 (TEAM)[Drsoldat] wretch??
+19-11-08 02:58:14 (TEAM)[Enigma] go madafaka
+19-11-08 02:58:14 Spark - By Vauat
+19-11-08 02:58:15 (TEAM)[Shatelia] su8re
+19-11-08 02:58:18 (2) sT.- YnGwi3 killed (1) Enigma with Grenade
+19-11-08 02:58:21 (TEAM)[Enigma] go bitch
+19-11-08 02:58:21 (1) Shatelia killed (2) sT.- YnGwi3 with Steyr AUG
+19-11-08 02:58:21 (2) sT.- YnGwi3 killed (1) Drsoldat with Grenade
+19-11-08 02:58:22 [sT.- YnGwi3] afk
+19-11-08 02:58:23 (1) Shatelia killed (2) nP [KillMe!] with Combat Knife
+19-11-08 02:58:27 (2) sk!T.Rattle killed (1) Shatelia with Combat Knife
+19-11-08 02:58:27 (TEAM)[Shatelia] Drsoldat
+19-11-08 02:58:28 (TEAM)[sT.- YnGwi3] es cortito el mapa
+19-11-08 02:58:31 [Enigma] dr soldat refuse to play
+19-11-08 02:58:32 (TEAM)[nP [KillMe!]] desmuteate inwiie
+19-11-08 02:58:32 (TEAM)[sk!T.Rattle] voy a defender
+19-11-08 02:58:34 (TEAM)[Shatelia] let's go this one
+19-11-08 02:58:36 (TEAM)[Drsoldat] enigma why youre caliing yourself a bitch?
+19-11-08 02:58:38 (TEAM)[sT.- YnGwi3] si avanzamos nosotros avanza tmb rattle
+19-11-08 02:58:38 (2) sk!T.Rattle killed (1) Enigma with Steyr AUG
+19-11-08 02:58:39 [Drsoldat] !r
+19-11-08 02:58:39 Restarting...
+19-11-08 02:58:40 [Drsoldat] OK
+19-11-08 02:58:44 (TEAM)[Shatelia] hf
+19-11-08 02:58:44 (TEAM)[Enigma] this is a good map
+19-11-08 02:58:45 (TEAM)[Enigma] xD
+19-11-08 02:58:45 Spark - By Vauat
+19-11-08 02:58:47 (TEAM)[Drsoldat] ok ^^
+19-11-08 02:58:49 (2) sT.- YnGwi3 killed (1) Shatelia with Grenade
+19-11-08 02:58:49 (TEAM)[Drsoldat] :0
+19-11-08 02:58:49 (2) nP [KillMe!] killed (1) Enigma with Grenade
+19-11-08 02:58:53 (1) Drsoldat killed (2) nP [KillMe!] with LAW
+19-11-08 02:58:54 (1) Shatelia killed (2) sT.- YnGwi3 with HK MP5
+19-11-08 02:58:55 (2) sk!T.Rattle killed (1) Shatelia with Ruger 77
+19-11-08 02:58:56 (RADIO)[sT.- YnGwi3] Enemy spotted middle!
+19-11-08 02:58:57 (1) Enigma killed (2) sk!T.Rattle with FN Minimi
+19-11-08 02:58:58 (RADIO)[Shatelia] INC LOW
+19-11-08 02:59:00 (1) Enigma killed (2) nP [KillMe!] with Grenade
+19-11-08 02:59:00 (2) nP [KillMe!] killed (1) Enigma with Steyr AUG
+19-11-08 02:59:02 (2) sT.- YnGwi3 killed (1) Shatelia with Grenade
+19-11-08 02:59:03 (2) sT.- YnGwi3 killed (1) Drsoldat with Grenade
+19-11-08 02:59:05 (TEAM)[Drsoldat] INC LOW KILL THEM!
+19-11-08 02:59:06 (2) sk!T.Rattle killed (1) Enigma with Ruger 77
+19-11-08 02:59:07 sT.- YnGwi3 captured the Red Flag
+19-11-08 02:59:07 (1) Shatelia killed (2) sT.- YnGwi3 with Ruger 77
+19-11-08 02:59:09 [sT.- YnGwi3] No!
+19-11-08 02:59:09 (2) nP [KillMe!] killed (1) Drsoldat with Grenade
+19-11-08 02:59:11 (1) Enigma killed (2) nP [KillMe!] with Combat Knife
+19-11-08 02:59:11 (2) sk!T.Rattle killed (1) Shatelia with Ruger 77
+19-11-08 02:59:12 (RADIO)[Shatelia] INC MID
+19-11-08 02:59:17 (1) Enigma killed (2) sk!T.Rattle with Steyr AUG
+19-11-08 02:59:18 [Enigma] Die!
+19-11-08 02:59:19 (TEAM)[Shatelia] |B A S E|
+19-11-08 02:59:19 (1) Drsoldat killed (2) nP [KillMe!] with Grenade
+19-11-08 02:59:20 (TEAM)[nP [KillMe!]] ^[BASE HOT]
+19-11-08 02:59:20 sT.- YnGwi3 captured the Red Flag
+19-11-08 02:59:22 Drsoldat captured the Blue Flag
+19-11-08 02:59:26 (1) Enigma killed (2) sT.- YnGwi3 with Steyr AUG
+19-11-08 02:59:28 Shatelia returned the Red Flag
+19-11-08 02:59:29 [Shatelia] Nuh Uh!
+19-11-08 02:59:30 Drsoldat captured the Blue Flag
+19-11-08 02:59:31 (2) nP [KillMe!] killed (1) Drsoldat with Steyr AUG
+19-11-08 02:59:33 nP [KillMe!] returned the Blue Flag
+19-11-08 02:59:34 [Drsoldat] You're one ugly mother fu**er!
+19-11-08 02:59:35 nP [KillMe!] captured the Red Flag
+19-11-08 02:59:36 Enigma returned the Red Flag
+19-11-08 02:59:37 Shatelia captured the Blue Flag
+19-11-08 02:59:37 (1) Drsoldat killed (2) nP [KillMe!] with FN Minimi
+19-11-08 02:59:37 (2) sT.- YnGwi3 killed (1) Shatelia with Spas-12
+19-11-08 02:59:38 (1) Drsoldat killed (2) sk!T.Rattle with FN Minimi
+19-11-08 02:59:38 [nP [KillMe!]] Hasta la vista Baby ;)
+19-11-08 02:59:42 (2) nP [KillMe!] killed (1) Enigma with Grenade
+19-11-08 02:59:42 (1) Enigma killed (2) nP [KillMe!] with Grenade
+19-11-08 02:59:43 (TEAM)[Shatelia] |B A S E|
+19-11-08 02:59:44 sT.- YnGwi3 captured the Red Flag
+19-11-08 02:59:44 sk!T.Rattle returned the Blue Flag
+19-11-08 02:59:46 (2) sk!T.Rattle killed (1) Drsoldat with Ruger 77
+19-11-08 02:59:48 (1) Enigma killed (2) sT.- YnGwi3 with HK MP5
+19-11-08 02:59:51 (2) sk!T.Rattle killed (1) Shatelia with LAW
+19-11-08 02:59:51 Enigma returned the Red Flag
+19-11-08 02:59:51 (2) nP [KillMe!] killed (1) Enigma with Steyr AUG
+19-11-08 02:59:52 (1) Drsoldat killed (2) nP [KillMe!] with FN Minimi
+19-11-08 02:59:57 (1) Enigma killed (2) sk!T.Rattle with Combat Knife
+19-11-08 02:59:58 (2) nP [KillMe!] killed (1) Drsoldat with Steyr AUG
+19-11-08 03:00:01 (1) Shatelia killed (2) sT.- YnGwi3 with Spas-12
+19-11-08 03:00:02 (RADIO)[sT.- YnGwi3] Enemy spotted middle!
+19-11-08 03:00:02 (2) nP [KillMe!] killed (1) Shatelia with Steyr AUG
+19-11-08 03:00:03 (2) nP [KillMe!] killed (1) Enigma with Grenade
+19-11-08 03:00:05 (1) Drsoldat killed (2) nP [KillMe!] with Spas-12
+19-11-08 03:00:09 (2) sT.- YnGwi3 killed (1) Shatelia with Grenade
+19-11-08 03:00:09 (2) sT.- YnGwi3 killed (1) Enigma with Spas-12
+19-11-08 03:00:10 (2) nP [KillMe!] killed (1) Drsoldat with Steyr AUG
+19-11-08 03:00:14 sT.- YnGwi3 captured the Red Flag
+19-11-08 03:00:14 (1) Enigma killed (2) sk!T.Rattle with Combat Knife
+19-11-08 03:00:14 (1) Shatelia killed (2) nP [KillMe!] with Combat Knife
+19-11-08 03:00:19 sT.- YnGwi3 scores for Bravo Team
+19-11-08 03:00:22 Shatelia captured the Blue Flag
+19-11-08 03:00:22 (2) sk!T.Rattle killed (1) Shatelia with Ruger 77
+19-11-08 03:00:23 (1) Enigma killed (2) sT.- YnGwi3 with Ruger 77
+19-11-08 03:00:24 (2) sk!T.Rattle killed (1) Enigma with Ruger 77
+19-11-08 03:00:25 [sT.- YnGwi3] No!
+19-11-08 03:00:26 [sT.- YnGwi3] Yes, Sir!
+19-11-08 03:00:26 [Enigma] ajaja 2 spask
+19-11-08 03:00:27 (1) Drsoldat killed (2) nP [KillMe!] with FN Minimi
+19-11-08 03:00:29 (1) Shatelia killed (2) sk!T.Rattle with Spas-12
+19-11-08 03:00:32 (1) Shatelia killed (2) sT.- YnGwi3 with Spas-12
+19-11-08 03:00:33 (RADIO)[sT.- YnGwi3] Enemy spotted up!
+19-11-08 03:00:36 (1) Enigma killed (2) sk!T.Rattle with Grenade
+19-11-08 03:00:37 (1) Enigma killed (2) nP [KillMe!] with Steyr AUG
+19-11-08 03:00:38 (TEAM)[nP [KillMe!]] ^[BASE HOT]
+19-11-08 03:00:39 (2) sT.- YnGwi3 killed (1) Shatelia with Spas-12
+19-11-08 03:00:39 (RADIO)[Shatelia] INC TOP
+19-11-08 03:00:40 (TEAM)[Shatelia] Help our flagger!
+19-11-08 03:00:41 Drsoldat captured the Blue Flag
+19-11-08 03:00:41 (TEAM)[Shatelia] Throw it!
+19-11-08 03:00:41 (2) sT.- YnGwi3 killed (1) Drsoldat with Spas-12
+19-11-08 03:00:42 sT.- YnGwi3 returned the Blue Flag
+19-11-08 03:00:43 [Drsoldat] ok
+19-11-08 03:00:44 (2) nP [KillMe!] killed (1) Enigma with Grenade
+19-11-08 03:00:44 (1) Enigma killed (2) nP [KillMe!] with Grenade
+19-11-08 03:00:45 (RADIO)[Enigma] Enemy spotted down!
+19-11-08 03:00:47 (TEAM)[Shatelia] |B A S E|
+19-11-08 03:00:48 (1) Shatelia killed (2) sk!T.Rattle with Grenade
+19-11-08 03:00:48 (1) Enigma killed (2) sT.- YnGwi3 with Combat Knife
+19-11-08 03:00:48 (2) nP [KillMe!] killed (1) Shatelia with Steyr AUG
+19-11-08 03:00:50 (RADIO)[Shatelia] INC MID
+19-11-08 03:00:50 (TEAM)[Shatelia] 1
+19-11-08 03:00:52 (1) Drsoldat killed (2) nP [KillMe!] with FN Minimi
+19-11-08 03:00:54 (TEAM)[nP [KillMe!]] ^Enemies Mid!
+19-11-08 03:00:54 (TEAM)[nP [KillMe!]] ^Enemies Low!
+19-11-08 03:00:55 (2) sT.- YnGwi3 killed (1) Enigma with Spas-12
+19-11-08 03:00:57 (1) Shatelia killed (2) sk!T.Rattle with Spas-12
+19-11-08 03:00:58 (2) nP [KillMe!] killed (1) Shatelia with Steyr AUG
+19-11-08 03:00:59 (RADIO)[Shatelia] INC MID
+19-11-08 03:01:00 (RADIO)[Shatelia] INC LOW
+19-11-08 03:01:00 (1) Drsoldat killed (2) sT.- YnGwi3 with FN Minimi
+19-11-08 03:01:00 (TEAM)[Shatelia] [%LOW HP]
+19-11-08 03:01:01 (RADIO)[sT.- YnGwi3] Enemy spotted down!
+19-11-08 03:01:03 Drsoldat captured the Blue Flag
+19-11-08 03:01:04 nP [KillMe!] captured the Red Flag
+19-11-08 03:01:05 (1) Drsoldat killed (2) sk!T.Rattle with FN Minimi
+19-11-08 03:01:06 (1) Shatelia killed (2) nP [KillMe!] with Combat Knife
+19-11-08 03:01:06 (1) Enigma killed (2) sT.- YnGwi3 with Combat Knife
+19-11-08 03:01:07 [sT.- YnGwi3] No!
+19-11-08 03:01:07 (TEAM)[Shatelia] CLEAR! ATTACK NOW!
+19-11-08 03:01:07 (RADIO)[sT.- YnGwi3] Enemy flagger down!
+19-11-08 03:01:07 Shatelia returned the Red Flag
+19-11-08 03:01:08 (RADIO)[sT.- YnGwi3] Enemy flagger middle!
+19-11-08 03:01:09 (TEAM)[Shatelia] CAP THAT SHIT CHABON! (>_<*)
+19-11-08 03:01:09 [Drsoldat] Return the flag!
+19-11-08 03:01:11 [Drsoldat] Yes, Sir!
+19-11-08 03:01:12 [Drsoldat] Son of a bitch!
+19-11-08 03:01:12 [Drsoldat] I am the law!
+19-11-08 03:01:12 Drsoldat scores for Alpha Team
+19-11-08 03:01:12 (2) nP [KillMe!] killed (1) Enigma with Steyr AUG
+19-11-08 03:01:13 (RADIO)[Enigma] Enemy spotted down!
+19-11-08 03:01:13 (RADIO)[Shatelia] INC MID
+19-11-08 03:01:15 (1) Shatelia killed (2) nP [KillMe!] with Spas-12
+19-11-08 03:01:16 (TEAM)[nP [KillMe!]] ^[BASE HOT]
+19-11-08 03:01:17 Shatelia captured the Blue Flag
+19-11-08 03:01:18 (1) Enigma killed (2) sT.- YnGwi3 with Grenade
+19-11-08 03:01:19 [Drsoldat] Yes, Sir!
+19-11-08 03:01:20 [Enigma] Yeah
+19-11-08 03:01:20 (2) sk!T.Rattle killed (1) Shatelia with Ruger 77
+19-11-08 03:01:22 (TEAM)[Shatelia] Help our flagger!
+19-11-08 03:01:25 (1) Enigma killed (2) nP [KillMe!] with HK MP5
+19-11-08 03:01:26 Drsoldat captured the Blue Flag
+19-11-08 03:01:28 sk!T.Rattle returned the Blue Flag
+19-11-08 03:01:30 (2) nP [KillMe!] killed (1) Drsoldat with Steyr AUG
+19-11-08 03:01:32 (2) sT.- YnGwi3 killed (1) Enigma with Spas-12
+19-11-08 03:01:32 sT.- YnGwi3 captured the Red Flag
+19-11-08 03:01:32 (2) nP [KillMe!] killed (1) Shatelia with Grenade
+19-11-08 03:01:33 (RADIO)[Enigma] Enemy spotted down!
+19-11-08 03:01:35 (2) nP [KillMe!] killed (1) Enigma with Combat Knife
+19-11-08 03:01:38 (2) sk!T.Rattle killed (1) Drsoldat with Ruger 77
+19-11-08 03:01:39 sT.- YnGwi3 scores for Bravo Team
+19-11-08 03:01:40 nP [KillMe!] captured the Red Flag
+19-11-08 03:01:42 (1) Shatelia killed (2) sk!T.Rattle with Spas-12
+19-11-08 03:01:43 (2) sT.- YnGwi3 killed (1) Shatelia with Spas-12
+19-11-08 03:01:44 (1) Drsoldat killed (2) nP [KillMe!] with FN Minimi
+19-11-08 03:01:44 Enigma returned the Red Flag
+19-11-08 03:01:47 (1) Drsoldat killed (2) sT.- YnGwi3 with FN Minimi
+19-11-08 03:01:48 (RADIO)[sT.- YnGwi3] Enemy spotted down!
+19-11-08 03:01:48 Enigma captured the Blue Flag
+19-11-08 03:01:50 (1) Enigma killed (2) nP [KillMe!] with FN Minimi
+19-11-08 03:01:50 (2) nP [KillMe!] killed (1) Enigma with Steyr AUG
+19-11-08 03:01:51 (2) sk!T.Rattle killed (1) Shatelia with Grenade
+19-11-08 03:01:51 (2) sT.- YnGwi3 killed (1) Drsoldat with Spas-12
+19-11-08 03:01:57 (2) sT.- YnGwi3 killed (1) Drsoldat with Grenade
+19-11-08 03:01:59 (2) nP [KillMe!] killed (1) Shatelia with Grenade
+19-11-08 03:01:59 (1) Drsoldat killed (2) nP [KillMe!] with Grenade
+19-11-08 03:02:01 (2) sT.- YnGwi3 killed (1) Enigma with Combat Knife
+19-11-08 03:02:03 (2) sk!T.Rattle killed (1) Shatelia with Grenade
+19-11-08 03:02:04 sT.- YnGwi3 captured the Red Flag
+19-11-08 03:02:05 (1) Drsoldat killed (2) sT.- YnGwi3 with FN Minimi
+19-11-08 03:02:06 Drsoldat returned the Red Flag
+19-11-08 03:02:07 sk!T.Rattle captured the Red Flag
+19-11-08 03:02:07 (1) Drsoldat killed (2) sk!T.Rattle with FN Minimi
+19-11-08 03:02:08 (2) sk!T.Rattle killed (1) Drsoldat with Grenade
+19-11-08 03:02:09 (2) nP [KillMe!] killed (1) Shatelia with Grenade
+19-11-08 03:02:09 (RADIO)[sT.- YnGwi3] Enemy spotted down!
+19-11-08 03:02:10 Enigma captured the Blue Flag
+19-11-08 03:02:12 nP [KillMe!] captured the Red Flag
+19-11-08 03:02:14 (2) sT.- YnGwi3 killed (1) Enigma with Spas-12
+19-11-08 03:02:14 sT.- YnGwi3 returned the Blue Flag
+19-11-08 03:02:15 (2) nP [KillMe!] killed (1) Shatelia with Grenade
+19-11-08 03:02:16 (2) sk!T.Rattle killed (1) Drsoldat with Grenade
+19-11-08 03:02:18 (2) sk!T.Rattle killed (1) Enigma with Combat Knife
+19-11-08 03:02:22 sT.- YnGwi3 captured the Red Flag
+19-11-08 03:02:22 [Shatelia] wtf
+19-11-08 03:02:24 (2) sk!T.Rattle killed (1) Enigma with Ruger 77
+19-11-08 03:02:24 sT.- YnGwi3 scores for Bravo Team
+19-11-08 03:02:24 (1) Drsoldat killed (2) nP [KillMe!] with FN Minimi
+19-11-08 03:02:26 sk!T.Rattle captured the Red Flag
+19-11-08 03:02:26 (TEAM)[Enigma] cover first
+19-11-08 03:02:26 (2) sT.- YnGwi3 killed (1) Drsoldat with Grenade
+19-11-08 03:02:27 (TEAM)[Enigma] pls
+19-11-08 03:02:32 (2) nP [KillMe!] killed (1) Enigma with Grenade
+19-11-08 03:02:32 sT.- YnGwi3 captured the Red Flag
+19-11-08 03:02:33 sT.- YnGwi3 scores for Bravo Team
+19-11-08 03:02:35 (2) nP [KillMe!] killed (1) Drsoldat with Steyr AUG
+19-11-08 03:02:37 (1) Enigma killed (2) sk!T.Rattle with Steyr AUG
+19-11-08 03:02:39 (1) Enigma killed (2) sT.- YnGwi3 with Steyr AUG
+19-11-08 03:02:39 (2) sT.- YnGwi3 killed (1) Enigma with Spas-12
+19-11-08 03:02:40 (2) nP [KillMe!] killed (1) Shatelia with Combat Knife
+19-11-08 03:02:41 [sT.- YnGwi3] Yes, Sir!
+19-11-08 03:02:46 (2) nP [KillMe!] killed (1) Enigma with Grenade
+19-11-08 03:02:46 (1) Enigma killed (2) nP [KillMe!] with Grenade
+19-11-08 03:02:54 (2) nP [KillMe!] killed (1) Shatelia with Grenade
+19-11-08 03:02:56 (1) Drsoldat killed (2) nP [KillMe!] with Grenade
+19-11-08 03:02:59 (2) sk!T.Rattle killed (1) Enigma with Ruger 77
+19-11-08 03:03:03 (2) nP [KillMe!] killed (1) Drsoldat with Steyr AUG
+19-11-08 03:03:06 (2) sk!T.Rattle killed (1) Shatelia with Ruger 77
+19-11-08 03:03:07 nP [KillMe!] captured the Red Flag
+19-11-08 03:03:08 (RADIO)[Shatelia] INC LOW
+19-11-08 03:03:11 (2) sk!T.Rattle killed (1) Enigma with Ruger 77
+19-11-08 03:03:12 (2) sk!T.Rattle killed (1) Shatelia with Combat Knife
+19-11-08 03:03:12 (1) Drsoldat killed (2) nP [KillMe!] with Ak-74
+19-11-08 03:03:13 sT.- YnGwi3 captured the Red Flag
+19-11-08 03:03:16 Drsoldat returned the Red Flag
+19-11-08 03:03:17 [sT.- YnGwi3] No!
+19-11-08 03:03:18 sk!T.Rattle captured the Red Flag
+19-11-08 03:03:18 (1) Drsoldat killed (2) nP [KillMe!] with Grenade
+19-11-08 03:03:19 (2) sk!T.Rattle killed (1) Enigma with Ruger 77
+19-11-08 03:03:19 (TEAM)[nP [KillMe!]] ^[BASE HOT]
+19-11-08 03:03:20 Drsoldat captured the Blue Flag
+19-11-08 03:03:20 (1) Shatelia killed (2) sT.- YnGwi3 with M79
+19-11-08 03:03:23 (1) Shatelia killed (2) sk!T.Rattle with Combat Knife
+19-11-08 03:03:25 Enigma returned the Red Flag
+19-11-08 03:03:27 (RADIO)[Shatelia] INC MID
+19-11-08 03:03:28 (1) Enigma killed (2) nP [KillMe!] with Steyr AUG
+19-11-08 03:03:30 sT.- YnGwi3 captured the Red Flag
+19-11-08 03:03:30 (2) sT.- YnGwi3 killed (1) Drsoldat with Spas-12
+19-11-08 03:03:30 (1) Drsoldat killed (2) sT.- YnGwi3 with Grenade
+19-11-08 03:03:31 [Drsoldat] Yes, Sir!
+19-11-08 03:03:33 Enigma returned the Red Flag
+19-11-08 03:03:34 Enigma captured the Blue Flag
+19-11-08 03:03:34 Enigma scores for Alpha Team
+19-11-08 03:03:34 (1) Shatelia killed (2) nP [KillMe!] with M79
+19-11-08 03:03:35 (TEAM)[nP [KillMe!]] ^[BASE HOT]
+19-11-08 03:03:37 Shatelia captured the Blue Flag
+19-11-08 03:03:39 (1) Enigma killed (2) sk!T.Rattle with Spas-12
+19-11-08 03:03:40 (1) Enigma killed (2) nP [KillMe!] with Spas-12
+19-11-08 03:03:40 Drsoldat captured the Blue Flag
+19-11-08 03:03:41 (1) Drsoldat killed (2) sT.- YnGwi3 with Hands
+19-11-08 03:03:41 (2) sT.- YnGwi3 killed (1) Drsoldat with Grenade
+19-11-08 03:03:41 (2) sT.- YnGwi3 killed (1) Enigma with Grenade
+19-11-08 03:03:43 [sT.- YnGwi3] Yes, Sir!
+19-11-08 03:03:43 (RADIO)[sT.- YnGwi3] Friendly flagger down!
+19-11-08 03:03:43 (RADIO)[sT.- YnGwi3] Friendly flagger down!
+19-11-08 03:03:44 (RADIO)[sT.- YnGwi3] Friendly flagger down!
+19-11-08 03:03:45 Time Left: 5 minutes
+19-11-08 03:03:46 (RADIO)[Shatelia] INC LOW
+19-11-08 03:03:47 sk!T.Rattle returned the Blue Flag
+19-11-08 03:03:48 Shatelia captured the Blue Flag
+19-11-08 03:03:48 (1) Enigma killed (2) sk!T.Rattle with Combat Knife
+19-11-08 03:03:52 (2) nP [KillMe!] killed (1) Shatelia with Steyr AUG
+19-11-08 03:03:53 (TEAM)[Shatelia] Help our flagger!
+19-11-08 03:03:53 (2) sT.- YnGwi3 killed (1) Enigma with HK MP5
+19-11-08 03:03:53 (1) Enigma killed (2) sT.- YnGwi3 with Grenade
+19-11-08 03:03:56 (2) nP [KillMe!] killed (1) Drsoldat with Steyr AUG
+19-11-08 03:03:57 [sT.- YnGwi3] Yes, Sir!
+19-11-08 03:03:57 (1) Shatelia killed (2) sk!T.Rattle with Combat Knife
+19-11-08 03:03:59 [sk!T.Rattle] CIBN
+19-11-08 03:03:59 (2) nP [KillMe!] killed (1) Shatelia with Grenade
+19-11-08 03:04:00 (1) Enigma killed (2) nP [KillMe!] with Steyr AUG
+19-11-08 03:04:02 (2) sT.- YnGwi3 killed (1) Enigma with Grenade
+19-11-08 03:04:04 (2) sT.- YnGwi3 killed (1) Drsoldat with Grenade
+19-11-08 03:04:04 (1) Drsoldat killed (2) sT.- YnGwi3 with Ak-74
+19-11-08 03:04:05 (TEAM)[Drsoldat] INC LOW KILL THEM!
+19-11-08 03:04:11 (1) Drsoldat killed (2) sT.- YnGwi3 with Ak-74
+19-11-08 03:04:11 (2) sT.- YnGwi3 killed (1) Shatelia with Grenade
+19-11-08 03:04:11 (2) sT.- YnGwi3 killed (1) Enigma with Grenade
+19-11-08 03:04:12 [sT.- YnGwi3] Yes, Sir!
+19-11-08 03:04:13 (1) Drsoldat killed (2) sk!T.Rattle with Ak-74
+19-11-08 03:04:14 (2) nP [KillMe!] killed (1) Drsoldat with Steyr AUG
+19-11-08 03:04:18 (1) Enigma killed (2) nP [KillMe!] with Combat Knife
+19-11-08 03:04:21 (2) sk!T.Rattle killed (1) Drsoldat with Grenade
+19-11-08 03:04:23 (2) sT.- YnGwi3 killed (1) Shatelia with Grenade
+19-11-08 03:04:24 (2) sT.- YnGwi3 killed (1) Enigma with Grenade
+19-11-08 03:04:25 (TEAM)[Shatelia] |B A S E|
+19-11-08 03:04:25 sk!T.Rattle captured the Red Flag
+19-11-08 03:04:27 (1) Drsoldat killed (2) sT.- YnGwi3 with Grenade
+19-11-08 03:04:27 (2) nP [KillMe!] killed (1) Drsoldat with Grenade
+19-11-08 03:04:29 (2) nP [KillMe!] killed (1) Shatelia with Steyr AUG
+19-11-08 03:04:30 (1) Enigma killed (2) nP [KillMe!] with Combat Knife
+19-11-08 03:04:33 sk!T.Rattle scores for Bravo Team
+19-11-08 03:04:35 (2) sT.- YnGwi3 killed (1) Shatelia with Grenade
+19-11-08 03:04:35 sk!T.Rattle returned the Blue Flag
+19-11-08 03:04:35 (2) sT.- YnGwi3 killed (1) Drsoldat with Spas-12
+19-11-08 03:04:36 (2) nP [KillMe!] killed (1) Enigma with Steyr AUG
+19-11-08 03:04:39 sT.- YnGwi3 captured the Red Flag
+19-11-08 03:04:42 (1) Drsoldat killed (2) sT.- YnGwi3 with Ak-74
+19-11-08 03:04:43 (2) nP [KillMe!] killed (1) Enigma with Steyr AUG
+19-11-08 03:04:45 (1) Shatelia killed (2) nP [KillMe!] with Combat Knife
+19-11-08 03:04:45 Time Left: 4 minutes
+19-11-08 03:04:45 (2) sk!T.Rattle killed (1) Shatelia with Ruger 77
+19-11-08 03:04:48 (2) sk!T.Rattle killed (1) Drsoldat with Ruger 77
+19-11-08 03:04:48 sT.- YnGwi3 captured the Red Flag
+19-11-08 03:04:50 sT.- YnGwi3 scores for Bravo Team
+19-11-08 03:04:51 (1) Enigma killed (2) sk!T.Rattle with Barrett M82A1
+19-11-08 03:04:53 [sk!T.Rattle] no po
+19-11-08 03:04:55 [sk!T.Rattle] conbarret no
+19-11-08 03:04:55 (2) nP [KillMe!] killed (1) Shatelia with Steyr AUG
+19-11-08 03:04:57 (1) Drsoldat killed (2) nP [KillMe!] with Ak-74
+19-11-08 03:04:58 (2) sT.- YnGwi3 killed (1) Drsoldat with Spas-12
+19-11-08 03:05:00 (1) Enigma killed (2) sT.- YnGwi3 with Combat Knife
+19-11-08 03:05:01 [sT.- YnGwi3] Yes, Sir!
+19-11-08 03:05:03 [Enigma] Die!
+19-11-08 03:05:03 [sT.- YnGwi3] wt
+19-11-08 03:05:04 [sT.- YnGwi3] xd
+19-11-08 03:05:05 (1) Enigma killed (2) sk!T.Rattle with Barrett M82A1
+19-11-08 03:05:07 [sk!T.Rattle] para
+19-11-08 03:05:09 (2) nP [KillMe!] killed (1) Enigma with Combat Knife
+19-11-08 03:05:10 (2) sT.- YnGwi3 killed (1) Shatelia with Spas-12
+19-11-08 03:05:13 (1) Drsoldat killed (2) nP [KillMe!] with Spas-12
+19-11-08 03:05:13 (2) sT.- YnGwi3 killed (1) Drsoldat with Spas-12
+19-11-08 03:05:18 (1) Drsoldat killed (2) sk!T.Rattle with FN Minimi
+19-11-08 03:05:20 sT.- YnGwi3 captured the Red Flag
+19-11-08 03:05:20 (RADIO)[Enigma] Enemy spotted down!
+19-11-08 03:05:21 (1) Shatelia killed (2) sT.- YnGwi3 with Combat Knife
+19-11-08 03:05:24 (2) nP [KillMe!] killed (1) Drsoldat with Steyr AUG
+19-11-08 03:05:25 (1) Enigma killed (2) nP [KillMe!] with Barrett M82A1
+19-11-08 03:05:25 (2) sk!T.Rattle killed (1) Shatelia with Ruger 77
+19-11-08 03:05:28 (2) sk!T.Rattle killed (1) Enigma with Ruger 77
+19-11-08 03:05:31 (2) sT.- YnGwi3 killed (1) Shatelia with Grenade
+19-11-08 03:05:31 sT.- YnGwi3 captured the Red Flag
+19-11-08 03:05:32 (TEAM)[Shatelia] |B A S E|
+19-11-08 03:05:32 (2) nP [KillMe!] killed (1) Drsoldat with Steyr AUG
+19-11-08 03:05:35 (2) sk!T.Rattle killed (1) Enigma with Ruger 77
+19-11-08 03:05:36 (1) Shatelia killed (2) sk!T.Rattle with Grenade
+19-11-08 03:05:38 (1) Shatelia killed (2) nP [KillMe!] with Steyr AUG
+19-11-08 03:05:38 sT.- YnGwi3 scores for Bravo Team
+19-11-08 03:05:40 (TEAM)[Shatelia] Help our flagger!
+19-11-08 03:05:42 (1) Enigma killed (2) sk!T.Rattle with Barrett M82A1
+19-11-08 03:05:42 (2) sT.- YnGwi3 killed (1) Enigma with Grenade
+19-11-08 03:05:44 [sk!T.Rattle] basta
+19-11-08 03:05:44 [Enigma] Die!
+19-11-08 03:05:44 (2) sT.- YnGwi3 killed (1) Shatelia with Spas-12
+19-11-08 03:05:45 Time Left: 3 minutes
+19-11-08 03:05:45 (TEAM)[Shatelia] Help our flagger!
+19-11-08 03:05:46 [Drsoldat] so is it nrmal to play vs 500% health
+19-11-08 03:05:48 sT.- YnGwi3 captured the Red Flag
+19-11-08 03:05:51 (2) sT.- YnGwi3 killed (1) Enigma with Spas-12
+19-11-08 03:05:51 (2) nP [KillMe!] killed (1) Drsoldat with Grenade
+19-11-08 03:05:52 (1) Shatelia killed (2) sT.- YnGwi3 with Steyr AUG
+19-11-08 03:05:53 [sT.- YnGwi3] xdd
+19-11-08 03:05:55 sk!T.Rattle captured the Red Flag
+19-11-08 03:05:55 (1) Shatelia killed (2) sk!T.Rattle with Steyr AUG
+19-11-08 03:05:58 Shatelia returned the Red Flag
+19-11-08 03:05:58 (2) sT.- YnGwi3 killed (1) Shatelia with Spas-12
+19-11-08 03:05:59 (2) sT.- YnGwi3 killed (1) Drsoldat with Spas-12
+19-11-08 03:05:59 (1) Drsoldat killed (2) sT.- YnGwi3 with M79
+19-11-08 03:06:00 [Drsoldat] Yes, Sir!
+19-11-08 03:06:01 (2) sk!T.Rattle killed (1) Enigma with Ruger 77
+19-11-08 03:06:04 (2) nP [KillMe!] killed (1) Drsoldat with Grenade
+19-11-08 03:06:09 (2) sk!T.Rattle killed (1) Shatelia with Ruger 77
+19-11-08 03:06:09 (2) nP [KillMe!] killed (1) Enigma with Steyr AUG
+19-11-08 03:06:11 (2) sT.- YnGwi3 killed (1) Drsoldat with Grenade
+19-11-08 03:06:11 sk!T.Rattle captured the Red Flag
+19-11-08 03:06:14 (1) Shatelia killed (2) sT.- YnGwi3 with Combat Knife
+19-11-08 03:06:14 (1) Enigma killed (2) nP [KillMe!] with Combat Knife
+19-11-08 03:06:15 (1) Enigma killed (2) sk!T.Rattle with FN Minimi
+19-11-08 03:06:16 Shatelia returned the Red Flag
+19-11-08 03:06:16 [nP [KillMe!]] Hasta la vista Baby ;)
+19-11-08 03:06:17 (RADIO)[sT.- YnGwi3] Enemy spotted down!
+19-11-08 03:06:19 Shatelia captured the Blue Flag
+19-11-08 03:06:21 (1) Drsoldat killed (2) sT.- YnGwi3 with FN Minimi
+19-11-08 03:06:22 (1) Enigma killed (2) nP [KillMe!] with FN Minimi
+19-11-08 03:06:22 (1) Drsoldat killed (2) sk!T.Rattle with Grenade
+19-11-08 03:06:22 (RADIO)[sT.- YnGwi3] Enemy spotted down!
+19-11-08 03:06:23 (TEAM)[nP [KillMe!]] ^[BASE HOT]
+19-11-08 03:06:28 (2) sk!T.Rattle killed (1) Drsoldat with Ruger 77
+19-11-08 03:06:28 Shatelia scores for Alpha Team
+19-11-08 03:06:28 67.175.229.95:23073| requesting game...
+19-11-08 03:06:29 (2) sT.- YnGwi3 killed (1) Enigma with Grenade
+19-11-08 03:06:29 (1) Enigma killed (2) nP [KillMe!] with FN Minimi
+19-11-08 03:06:30 ITS NOT ME ITS THE SERVR joining game (67.175.229.95:23073) HWID:2AEFAEB481E
+19-11-08 03:06:30 ITS NOT ME ITS THE SERVR has joined as spectator.
+19-11-08 03:06:32 (1) Enigma killed (2) sk!T.Rattle with Combat Knife
+19-11-08 03:06:34 [ITS NOT ME ITS THE SERVR] nice pick
+19-11-08 03:06:35 (2) nP [KillMe!] killed (1) Shatelia with Steyr AUG
+19-11-08 03:06:38 sT.- YnGwi3 captured the Red Flag
+19-11-08 03:06:38 (1) Drsoldat killed (2) sT.- YnGwi3 with LAW
+19-11-08 03:06:40 (1) Shatelia killed (2) nP [KillMe!] with Combat Knife
+19-11-08 03:06:40 (2) nP [KillMe!] killed (1) Shatelia with Grenade
+19-11-08 03:06:41 (TEAM)[Shatelia] CLEAR! ATTACK NOW!
+19-11-08 03:06:43 (2) sk!T.Rattle killed (1) Enigma with Ruger 77
+19-11-08 03:06:45 Time Left: 2 minutes
+19-11-08 03:06:45 (1) Drsoldat killed (2) sk!T.Rattle with FN Minimi
+19-11-08 03:06:46 (2) nP [KillMe!] killed (1) Drsoldat with Steyr AUG
+19-11-08 03:06:47 Shatelia returned the Red Flag
+19-11-08 03:06:49 (1) Shatelia killed (2) sT.- YnGwi3 with Grenade
+19-11-08 03:06:50 (RADIO)[sT.- YnGwi3] Enemy spotted up!
+19-11-08 03:06:52 (2) nP [KillMe!] killed (1) Shatelia with Grenade
+19-11-08 03:06:54 (1) Drsoldat killed (2) nP [KillMe!] with FN Minimi
+19-11-08 03:06:54 (1) Enigma killed (2) sk!T.Rattle with Combat Knife
+19-11-08 03:06:55 (2) sT.- YnGwi3 killed (1) Enigma with Spas-12
+19-11-08 03:06:59 [sT.- YnGwi3] Yes, Sir!
+19-11-08 03:07:00 (1) Drsoldat killed (2) nP [KillMe!] with LAW
+19-11-08 03:07:01 (TEAM)[nP [KillMe!]] ^[BASE HOT]
+19-11-08 03:07:01 (2) sk!T.Rattle killed (1) Drsoldat with Ruger 77
+19-11-08 03:07:02 (2) sk!T.Rattle killed (1) Enigma with Grenade
+19-11-08 03:07:03 (1) Shatelia killed (2) sk!T.Rattle with Steyr AUG
+19-11-08 03:07:06 (TEAM)[Drsoldat] push maybe
+19-11-08 03:07:08 (2) sT.- YnGwi3 killed (1) Drsoldat with Grenade
+19-11-08 03:07:10 (1) Enigma killed (2) sT.- YnGwi3 with Ak-74
+19-11-08 03:07:11 [sT.- YnGwi3] No!
+19-11-08 03:07:12 (1) Enigma killed (2) sk!T.Rattle with Chainsaw
+19-11-08 03:07:14 [sk!T.Rattle] Dmas
+19-11-08 03:07:16 (1) Enigma killed (2) sT.- YnGwi3 with Ak-74
+19-11-08 03:07:17 (2) sk!T.Rattle killed (1) Enigma with Combat Knife
+19-11-08 03:07:18 (1) Drsoldat killed (2) sk!T.Rattle with LAW
+19-11-08 03:07:18 Shatelia captured the Blue Flag
+19-11-08 03:07:19 (2) nP [KillMe!] killed (1) Shatelia with Steyr AUG
+19-11-08 03:07:20 (RADIO)[sk!T.Rattle] Enemy spotted middle!
+19-11-08 03:07:20 (TEAM)[Shatelia] Help our flagger!
+19-11-08 03:07:21 (1) Drsoldat killed (2) sT.- YnGwi3 with FN Minimi
+19-11-08 03:07:22 (2) nP [KillMe!] killed (1) Drsoldat with Steyr AUG
+19-11-08 03:07:26 (1) Shatelia killed (2) nP [KillMe!] with Steyr AUG
+19-11-08 03:07:27 (2) sk!T.Rattle killed (1) Enigma with Grenade
+19-11-08 03:07:27 (1) Enigma killed (2) sk!T.Rattle with Grenade
+19-11-08 03:07:28 (1) Shatelia killed (2) sT.- YnGwi3 with LAW
+19-11-08 03:07:28 [sT.- YnGwi3] No!
+19-11-08 03:07:30 (RADIO)[sT.- YnGwi3] Enemy spotted middle!
+19-11-08 03:07:30 [ITS NOT ME ITS THE SERVR] You're one ugly mother fu**er!
+19-11-08 03:07:32 (2) sk!T.Rattle killed (1) Shatelia with Combat Knife
+19-11-08 03:07:32 Drsoldat captured the Blue Flag
+19-11-08 03:07:34 (RADIO)[Shatelia] INC MID
+19-11-08 03:07:36 (2) sT.- YnGwi3 killed (1) Drsoldat with Spas-12
+19-11-08 03:07:36 Enigma captured the Blue Flag
+19-11-08 03:07:36 (1) Enigma killed (2) sT.- YnGwi3 with Chainsaw
+19-11-08 03:07:38 sk!T.Rattle captured the Red Flag
+19-11-08 03:07:39 (1) Enigma killed (2) nP [KillMe!] with Grenade
+19-11-08 03:07:40 [sT.- YnGwi3] Yes, Sir!
+19-11-08 03:07:40 (RADIO)[sT.- YnGwi3] Enemy flagger down!
+19-11-08 03:07:41 (TEAM)[nP [KillMe!]] ^Enemies Low!
+19-11-08 03:07:42 (1) Shatelia killed (2) sT.- YnGwi3 with LAW
+19-11-08 03:07:45 Time Left: 1 minutes
+19-11-08 03:07:46 (2) nP [KillMe!] killed (1) Shatelia with Steyr AUG
+19-11-08 03:07:47 (RADIO)[Shatelia] INC MID
+19-11-08 03:07:47 (1) Drsoldat killed (2) sk!T.Rattle with Grenade
+19-11-08 03:07:47 (TEAM)[Shatelia] [%LOW HP]
+19-11-08 03:07:50 (2) nP [KillMe!] killed (1) Drsoldat with Grenade
+19-11-08 03:07:51 (TEAM)[Drsoldat] EFC GOING LOW - KILL HIM!
+19-11-08 03:07:51 (1) Shatelia killed (2) nP [KillMe!] with HK MP5
+19-11-08 03:07:54 (2) sT.- YnGwi3 killed (1) Enigma with Spas-12
+19-11-08 03:07:54 Shatelia returned the Red Flag
+19-11-08 03:07:54 (TEAM)[Shatelia] Help our flagger!
+19-11-08 03:07:55 (2) sk!T.Rattle killed (1) Shatelia with Ruger 77
+19-11-08 03:07:55 sT.- YnGwi3 returned the Blue Flag
+19-11-08 03:07:56 [ITS NOT ME ITS THE SERVR] XD
+19-11-08 03:07:56 [ITS NOT ME ITS THE SERVR] XD
+19-11-08 03:07:56 sT.- YnGwi3 captured the Red Flag
+19-11-08 03:07:56 [ITS NOT ME ITS THE SERVR] XD
+19-11-08 03:07:58 (2) sk!T.Rattle killed (1) Drsoldat with Grenade
+19-11-08 03:07:59 (2) sk!T.Rattle killed (1) Enigma with Combat Knife
+19-11-08 03:08:01 (2) nP [KillMe!] killed (1) Shatelia with Grenade
+19-11-08 03:08:03 sT.- YnGwi3 scores for Bravo Team
+19-11-08 03:08:04 [ITS NOT ME ITS THE SERVR] nice eat sT.- YnGwi3
+19-11-08 03:08:04 sk!T.Rattle captured the Red Flag
+19-11-08 03:08:05 [sT.- YnGwi3] Yes, Sir!
+19-11-08 03:08:06 [sT.- YnGwi3] It's All About Lag!
+19-11-08 03:08:06 (2) sk!T.Rattle killed (1) Drsoldat with Ruger 77
+19-11-08 03:08:07 [sT.- YnGwi3] I'm The King of rebound!!
+19-11-08 03:08:07 [ITS NOT ME ITS THE SERVR] You're one ugly mother fu**er!
+19-11-08 03:08:09 (1) Shatelia killed (2) sT.- YnGwi3 with Grenade
+19-11-08 03:08:11 nP [KillMe!] captured the Red Flag
+19-11-08 03:08:11 (1) Shatelia killed (2) nP [KillMe!] with LAW
+19-11-08 03:08:14 (TEAM)[nP [KillMe!]] XD
+19-11-08 03:08:15 (2) sk!T.Rattle killed (1) Enigma with Ruger 77
+19-11-08 03:08:15 sk!T.Rattle captured the Red Flag
+19-11-08 03:08:16 Shatelia captured the Blue Flag
+19-11-08 03:08:17 [Drsoldat] wow
+19-11-08 03:08:18 [ITS NOT ME ITS THE SERVR] !ginfp
+19-11-08 03:08:19 (2) sT.- YnGwi3 killed (1) Shatelia with Combat Knife
+19-11-08 03:08:19 [sT.- YnGwi3] Yes, Sir!
+19-11-08 03:08:19 [ITS NOT ME ITS THE SERVR] !ginfo
+19-11-08 03:08:20 /say Gather.SA (elapsed time 0:12:52) (206.81.24.116)
+19-11-08 03:08:20 /say Alpha:  - DrSoldat - Shatelia (206.81.24.116)
+19-11-08 03:08:20 /say Bravo: YnGw3 - nP - Rattle (206.81.24.116)
+19-11-08 03:08:20 /say Tiebreaker: ctf_Rotten (206.81.24.116)
+19-11-08 03:08:20 (1) Drsoldat killed (2) sT.- YnGwi3 with LAW
+19-11-08 03:08:21 (2) sk!T.Rattle killed (1) Drsoldat with Ruger 77
+19-11-08 03:08:22 sk!T.Rattle returned the Blue Flag
+19-11-08 03:08:22 [sT.- YnGwi3] It's All About Lag!
+19-11-08 03:08:23 [sT.- YnGwi3] I'm The King of rebound!!
+19-11-08 03:08:23 sk!T.Rattle scores for Bravo Team
+19-11-08 03:08:24 [Drsoldat] hella cows
+19-11-08 03:08:24 [ITS NOT ME ITS THE SERVR] You're one ugly mother fu**er!
+19-11-08 03:08:27 (1) Enigma killed (2) sk!T.Rattle with Chainsaw
+19-11-08 03:08:29 (1) Drsoldat killed (2) sT.- YnGwi3 with M79
+19-11-08 03:08:31 (2) nP [KillMe!] killed (1) Enigma with Steyr AUG
+19-11-08 03:08:33 (1) Drsoldat killed (2) sk!T.Rattle with Grenade
+19-11-08 03:08:35 nP [KillMe!] returned the Blue Flag
+19-11-08 03:08:35 (1) Shatelia killed (2) nP [KillMe!] with HK MP5
+19-11-08 03:08:37 Shatelia captured the Blue Flag
+19-11-08 03:08:39 (2) sT.- YnGwi3 killed (1) Drsoldat with Combat Knife
+19-11-08 03:08:41 (2) sT.- YnGwi3 killed (1) Shatelia with Spas-12
+19-11-08 03:08:41 [Drsoldat] Yes, Sir!
+19-11-08 03:08:43 (1) Enigma killed (2) sk!T.Rattle with Barrett M82A1
+19-11-08 03:08:43 sT.- YnGwi3 returned the Blue Flag
+19-11-08 03:08:44 [sk!T.Rattle] gg
+19-11-08 03:08:45 Next map: Lobby
+19-11-08 03:08:45 [sT.- YnGwi3] Yes, Sir!
+19-11-08 03:08:46 [Enigma] gg
+19-11-08 03:08:46 [ITS NOT ME ITS THE SERVR] gg
+19-11-08 03:08:50 Lothic - Gothic Lobby Room
+19-11-08 03:08:50 [sT.- YnGwi3] and Im in SA xdddd
+19-11-08 03:08:50 [sk!T.Rattle] score positivo
+19-11-08 03:08:53 [ITS NOT ME ITS THE SERVR] wtf that was 1st map?
+19-11-08 03:09:00 [Drsoldat] !map x
+19-11-08 03:09:03 [Shatelia] Hell Yeah
+19-11-08 03:09:03 (TEAM)[sT.- YnGwi3] mapa
+19-11-08 03:09:04 [sk!T.Rattle] ese me gusta
+19-11-08 03:09:05 ctf_X version 2.0 by SuoW
+19-11-08 03:09:05 [ITS NOT ME ITS THE SERVR] xddddddddddddddddddddddddddddddddddddddd
+19-11-08 03:09:10 (1) Drsoldat killed (2) sT.- YnGwi3 with M79
+19-11-08 03:09:11 (1) Enigma killed (2) nP [KillMe!] with Chainsaw
+19-11-08 03:09:11 (1) Enigma killed (2) sk!T.Rattle with Chainsaw
+19-11-08 03:09:11 (TEAM)[sT.- YnGwi3] viet
+19-11-08 03:09:11 (TEAM)[sk!T.Rattle] vamos con nuubia
+19-11-08 03:09:13 (TEAM)[sT.- YnGwi3] ?
+19-11-08 03:09:13 Shatelia captured the Blue Flag
+19-11-08 03:09:13 (TEAM)[sk!T.Rattle] si viet
+19-11-08 03:09:15 (TEAM)[nP [KillMe!]] wooo viet
+19-11-08 03:09:16 (1) Drsoldat killed (2) sT.- YnGwi3 with M79
+19-11-08 03:09:16 [sT.- YnGwi3] !map Viet
+19-11-08 03:09:16 [sk!T.Rattle] !map ctf_Viet
+19-11-08 03:09:17 [Drsoldat] Yes, Sir!
+19-11-08 03:09:18 [ITS NOT ME ITS THE SERVR] xddddddddddddddddddddddddddddddddddddddd
+19-11-08 03:09:18 (TEAM)[nP [KillMe!]] old school
+19-11-08 03:09:19 [ITS NOT ME ITS THE SERVR] xddddddddddddddddddddddddddddddddddddddd
+19-11-08 03:09:19 [ITS NOT ME ITS THE SERVR] xddddddddddddddddddddddddddddddddddddddd
+19-11-08 03:09:20 (RADIO)[Enigma] Friendly flagger middle!
+19-11-08 03:09:20 (TEAM)[sT.- YnGwi3] yo salgo mid
+19-11-08 03:09:20 [ITS NOT ME ITS THE SERVR] xddddddddddddddddddddddddddddddddddddddd
+19-11-08 03:09:20 [Shatelia] wee
+19-11-08 03:09:21 Viet
+19-11-08 03:09:22 [Shatelia] Cagones
+19-11-08 03:09:24 [ITS NOT ME ITS THE SERVR] You're one ugly mother fu**er!
+19-11-08 03:09:33 (2) sT.- YnGwi3 killed (1) Drsoldat with Ak-74
+19-11-08 03:09:33 [ITS NOT ME ITS THE SERVR] nice secondary wep Enigma
+19-11-08 03:09:33 Enigma captured the Blue Flag
+19-11-08 03:09:35 nP [KillMe!] captured the Red Flag
+19-11-08 03:09:37 (RADIO)[Shatelia] INC MID
+19-11-08 03:09:37 (RADIO)[Shatelia] INC TOP
+19-11-08 03:09:39 (1) Enigma killed (2) sk!T.Rattle with Grenade
+19-11-08 03:09:39 (2) sT.- YnGwi3 killed (1) Shatelia with Grenade
+19-11-08 03:09:40 (2) nP [KillMe!] killed (1) Enigma with Steyr AUG
+19-11-08 03:09:42 (TEAM)[Enigma] TOP
+19-11-08 03:09:42 (1) Drsoldat killed (2) sT.- YnGwi3 with FN Minimi
+19-11-08 03:09:45 nP [KillMe!] returned the Blue Flag
+19-11-08 03:09:49 (1) Drsoldat killed (2) nP [KillMe!] with FN Minimi
+19-11-08 03:09:50 (2) sk!T.Rattle killed (1) Shatelia with Ruger 77
+19-11-08 03:09:51 (1) Enigma killed (2) sT.- YnGwi3 with Grenade
+19-11-08 03:09:52 [sT.- YnGwi3] No!
+19-11-08 03:09:53 (2) sk!T.Rattle killed (1) Drsoldat with Combat Knife
+19-11-08 03:09:54 Enigma returned the Red Flag
+19-11-08 03:09:54 (TEAM)[Drsoldat] INC LOW KILL THEM!
+19-11-08 03:09:54 (TEAM)[sT.- YnGwi3] que hiciste xd
+19-11-08 03:09:55 (1) Shatelia killed (2) sk!T.Rattle with Grenade
+19-11-08 03:09:56 [Enigma] Xdd
+19-11-08 03:09:57 (TEAM)[Shatelia] CLEAR! ATTACK NOW!
+19-11-08 03:10:00 (1) Shatelia killed (2) nP [KillMe!] with FN Minimi
+19-11-08 03:10:02 (2) sk!T.Rattle killed (1) Shatelia with Ruger 77
+19-11-08 03:10:03 (RADIO)[Shatelia] INC TOP
+19-11-08 03:10:05 (TEAM)[nP [KillMe!]] nadie la agarro lol
+19-11-08 03:10:08 (2) sk!T.Rattle killed (1) Drsoldat with Ruger 77
+19-11-08 03:10:08 (1) Drsoldat killed (2) sk!T.Rattle with Grenade
+19-11-08 03:10:11 (2) sT.- YnGwi3 killed (1) Enigma with Ak-74
+19-11-08 03:10:12 (2) nP [KillMe!] killed (1) Shatelia with Grenade
+19-11-08 03:10:13 (RADIO)[Shatelia] INC TOP
+19-11-08 03:10:15 (2) nP [KillMe!] killed (1) Drsoldat with Steyr AUG
+19-11-08 03:10:15 (1) Drsoldat killed (2) nP [KillMe!] with FN Minimi
+19-11-08 03:10:20 (1) Shatelia killed (2) sT.- YnGwi3 with FN Minimi
+19-11-08 03:10:21 (RADIO)[sT.- YnGwi3] Enemy spotted middle!
+19-11-08 03:10:23 (RADIO)[sT.- YnGwi3] Enemy spotted up!
+19-11-08 03:10:23 (2) sk!T.Rattle killed (1) Enigma with Combat Knife
+19-11-08 03:10:26 (2) nP [KillMe!] killed (1) Drsoldat with Steyr AUG
+19-11-08 03:10:28 (2) sT.- YnGwi3 killed (1) Shatelia with Ak-74
+19-11-08 03:10:29 (TEAM)[Drsoldat] INC HIGH KILL THEM!
+19-11-08 03:10:31 (1) Enigma killed (2) nP [KillMe!] with Chainsaw
+19-11-08 03:10:32 [ITS NOT ME ITS THE SERVR] xd
+19-11-08 03:10:33 (1) Shatelia killed (2) sk!T.Rattle with FN Minimi
+19-11-08 03:10:33 [Enigma] Xd
+19-11-08 03:10:37 [ITS NOT ME ITS THE SERVR] ugly ass xd
+19-11-08 03:10:39 (1) Drsoldat killed (2) sT.- YnGwi3 with FN Minimi
+19-11-08 03:10:40 (RADIO)[sT.- YnGwi3] Enemy spotted up!
+19-11-08 03:10:42 (2) nP [KillMe!] killed (1) Drsoldat with Grenade
+19-11-08 03:10:43 (1) Shatelia killed (2) nP [KillMe!] with FN Minimi
+19-11-08 03:10:45 (TEAM)[nP [KillMe!]] ^Enemies Top!
+19-11-08 03:10:47 Shatelia captured the Blue Flag
+19-11-08 03:10:47 (2) sT.- YnGwi3 killed (1) Enigma with Barrett M82A1
+19-11-08 03:10:48 (RADIO)[Enigma] Friendly flagger middle!
+19-11-08 03:10:48 (1) Shatelia killed (2) nP [KillMe!] with Combat Knife
+19-11-08 03:10:49 (RADIO)[Enigma] Enemy flagger down!
+19-11-08 03:10:49 sk!T.Rattle captured the Red Flag
+19-11-08 03:10:50 (TEAM)[nP [KillMe!]] ^INC ~ TOP
+19-11-08 03:10:51 (1) Drsoldat killed (2) sk!T.Rattle with FN Minimi
+19-11-08 03:10:52 Shatelia captured the Blue Flag
+19-11-08 03:10:55 (TEAM)[Shatelia] FF TOP
+19-11-08 03:10:58 (2) nP [KillMe!] killed (1) Drsoldat with Grenade
+19-11-08 03:10:58 (1) Enigma killed (2) sT.- YnGwi3 with Grenade
+19-11-08 03:10:58 Shatelia scores for Alpha Team
+19-11-08 03:10:59 [sT.- YnGwi3] No!
+19-11-08 03:10:59 (TEAM)[Drsoldat] INC HIGH KILL THEM!
+19-11-08 03:11:03 (1) Shatelia killed (2) nP [KillMe!] with Barrett M82A1
+19-11-08 03:11:04 (2) sk!T.Rattle killed (1) Enigma with Ruger 77
+19-11-08 03:11:07 (1) Drsoldat killed (2) sk!T.Rattle with FN Minimi
+19-11-08 03:11:12 (1) Enigma killed (2) sT.- YnGwi3 with Chainsaw
+19-11-08 03:11:12 (RADIO)[Shatelia] INC TOP
+19-11-08 03:11:13 [sT.- YnGwi3] Yes, Sir!
+19-11-08 03:11:17 (1) Shatelia killed (2) nP [KillMe!] with Barrett M82A1
+19-11-08 03:11:18 (TEAM)[Shatelia] CLEAR! ATTACK NOW!
+19-11-08 03:11:20 (2) sk!T.Rattle killed (1) Drsoldat with Ruger 77
+19-11-08 03:11:23 (1) Shatelia killed (2) sk!T.Rattle with Barrett M82A1
+19-11-08 03:11:23 Shatelia returned the Red Flag
+19-11-08 03:11:23 (TEAM)[Shatelia] CLEAR! ATTACK NOW!
+19-11-08 03:11:24 [Drsoldat] Yes, Sir!
+19-11-08 03:11:24 [sk!T.Rattle] ASOLKINdhaasd
+19-11-08 03:11:26 (1) Enigma killed (2) sT.- YnGwi3 with Barrett M82A1
+19-11-08 03:11:26 [sk!T.Rattle] ASOLKINdhaasd
+19-11-08 03:11:29 (2) nP [KillMe!] killed (1) Shatelia with Steyr AUG
+19-11-08 03:11:30 (RADIO)[Shatelia] INC TOP
+19-11-08 03:11:32 (1) Enigma killed (2) sk!T.Rattle with Grenade
+19-11-08 03:11:32 (1) Drsoldat killed (2) nP [KillMe!] with Grenade
+19-11-08 03:11:32 (2) sk!T.Rattle killed (1) Enigma with Grenade
+19-11-08 03:11:33 [Enigma] Xd
+19-11-08 03:11:34 [ITS NOT ME ITS THE SERVR] nice meds at red
+19-11-08 03:11:36 (2) sT.- YnGwi3 killed (1) Drsoldat with Ak-74
+19-11-08 03:11:38 [Drsoldat] Yes, Sir!
+19-11-08 03:11:41 (2) sT.- YnGwi3 killed (1) Shatelia with Ak-74
+19-11-08 03:11:41 (RADIO)[Shatelia] INC TOP
+19-11-08 03:11:41 (1) Enigma killed (2) nP [KillMe!] with Barrett M82A1
+19-11-08 03:11:42 (TEAM)[Shatelia] [%LOW HP]
+19-11-08 03:11:43 (1) Drsoldat killed (2) sT.- YnGwi3 with FN Minimi
+19-11-08 03:11:43 (2) sk!T.Rattle killed (1) Enigma with Ruger 77
+19-11-08 03:11:43 (TEAM)[Shatelia] 3
+19-11-08 03:11:48 (1) Drsoldat killed (2) sk!T.Rattle with FN Minimi
+19-11-08 03:11:49 (RADIO)[sk!T.Rattle] Enemy spotted up!
+19-11-08 03:11:50 (1) Drsoldat killed (2) sT.- YnGwi3 with LAW
+19-11-08 03:11:51 (RADIO)[sT.- YnGwi3] Enemy spotted up!
+19-11-08 03:11:52 (1) Shatelia killed (2) nP [KillMe!] with Combat Knife
+19-11-08 03:11:52 (2) nP [KillMe!] killed (1) Shatelia with Grenade
+19-11-08 03:11:53 (TEAM)[Shatelia] CLEAR! ATTACK NOW!
+19-11-08 03:11:53 (TEAM)[Shatelia] Help our flagger!
+19-11-08 03:11:54 (1) Enigma killed (2) sk!T.Rattle with Barrett M82A1
+19-11-08 03:11:55 Enigma captured the Blue Flag
+19-11-08 03:11:57 (2) sT.- YnGwi3 killed (1) Drsoldat with Ak-74
+19-11-08 03:11:58 [Drsoldat] Yes, Sir!
+19-11-08 03:12:03 (2) sT.- YnGwi3 killed (1) Shatelia with Grenade
+19-11-08 03:12:04 (RADIO)[Shatelia] INC TOP
+19-11-08 03:12:04 Enigma scores for Alpha Team
+19-11-08 03:12:07 (2) sk!T.Rattle killed (1) Enigma with M79
+19-11-08 03:12:07 (RADIO)[Enigma] Friendly flagger middle!
+19-11-08 03:12:13 (1) Enigma killed (2) nP [KillMe!] with Grenade
+19-11-08 03:12:16 (2) sT.- YnGwi3 killed (1) Shatelia with Ak-74
+19-11-08 03:12:16 (1) Shatelia killed (2) sT.- YnGwi3 with Grenade
+19-11-08 03:12:17 (RADIO)[Shatelia] INC TOP
+19-11-08 03:12:17 (TEAM)[Shatelia] CLEAR! ATTACK NOW!
+19-11-08 03:12:18 (RADIO)[Shatelia] INC MID
+19-11-08 03:12:19 (2) sk!T.Rattle killed (1) Drsoldat with Combat Knife
+19-11-08 03:12:21 (1) Shatelia killed (2) sk!T.Rattle with Combat Knife
+19-11-08 03:12:22 (TEAM)[Shatelia] CLEAR! ATTACK NOW!
+19-11-08 03:12:22 [Drsoldat] Yes, Sir!
+19-11-08 03:12:24 (RADIO)[sk!T.Rattle] Enemy spotted down!
+19-11-08 03:12:25 (2) sT.- YnGwi3 killed (1) Shatelia with Grenade
+19-11-08 03:12:25 (RADIO)[Shatelia] INC TOP
+19-11-08 03:12:26 (TEAM)[Shatelia] 2
+19-11-08 03:12:26 (TEAM)[Shatelia] [%LOW HP]
+19-11-08 03:12:27 (2) sT.- YnGwi3 killed (1) Drsoldat with Grenade
+19-11-08 03:12:28 (TEAM)[Drsoldat] INC HIGH KILL THEM!
+19-11-08 03:12:30 (1) Enigma killed (2) sT.- YnGwi3 with HK MP5
+19-11-08 03:12:31 [sT.- YnGwi3] No!
+19-11-08 03:12:31 [sT.- YnGwi3] Come'on!
+19-11-08 03:12:31 [sT.- YnGwi3] Return the flag!
+19-11-08 03:12:32 (1) Shatelia killed (2) nP [KillMe!] with FN Minimi
+19-11-08 03:12:33 [sT.- YnGwi3] Get the flag!
+19-11-08 03:12:37 [Enigma] XD
+19-11-08 03:12:38 (RADIO)[Shatelia] INC TOP
+19-11-08 03:12:39 (1) Drsoldat killed (2) sk!T.Rattle with Grenade
+19-11-08 03:12:39 (2) nP [KillMe!] killed (1) Shatelia with FN Minimi
+19-11-08 03:12:41 (TEAM)[Shatelia] [%LOW HP]
+19-11-08 03:12:41 [Drsoldat] Yes, Sir!
+19-11-08 03:12:43 (1) Drsoldat killed (2) sT.- YnGwi3 with LAW
+19-11-08 03:12:45 (1) Enigma killed (2) nP [KillMe!] with Barrett M82A1
+19-11-08 03:12:46 (2) nP [KillMe!] killed (1) Drsoldat with Grenade
+19-11-08 03:12:50 (2) sk!T.Rattle killed (1) Enigma with M79
+19-11-08 03:12:51 (RADIO)[Enigma] Friendly flagger middle!
+19-11-08 03:12:52 (RADIO)[Shatelia] INC TOP
+19-11-08 03:12:53 (2) nP [KillMe!] killed (1) Shatelia with FN Minimi
+19-11-08 03:12:54 (TEAM)[Shatelia] [%LOW HP]
+19-11-08 03:12:55 (TEAM)[Shatelia] 2
+19-11-08 03:12:55 (2) sT.- YnGwi3 killed (1) Drsoldat with Grenade
+19-11-08 03:12:56 (1) Enigma killed (2) sT.- YnGwi3 with Grenade
+19-11-08 03:12:59 (1) Shatelia killed (2) nP [KillMe!] with Combat Knife
+19-11-08 03:13:04 (RADIO)[Enigma] Enemy spotted down!
+19-11-08 03:13:05 (RADIO)[sT.- YnGwi3] Enemy spotted up!
+19-11-08 03:13:06 (2) sk!T.Rattle killed (1) Drsoldat with M79
+19-11-08 03:13:06 sk!T.Rattle captured the Red Flag
+19-11-08 03:13:07 (TEAM)[Drsoldat] EFC GOING HIGH - KILL HIM!
+19-11-08 03:13:08 sk!T.Rattle captured the Red Flag
+19-11-08 03:13:08 (1) Enigma killed (2) sk!T.Rattle with HK MP5
+19-11-08 03:13:08 (1) Enigma killed (2) sT.- YnGwi3 with Grenade
+19-11-08 03:13:09 [sT.- YnGwi3] No!
+19-11-08 03:13:09 (2) nP [KillMe!] killed (1) Shatelia with FN Minimi
+19-11-08 03:13:11 [Shatelia] taw
+19-11-08 03:13:11 [sk!T.Rattle] poeron como
+19-11-08 03:13:17 (2) sk!T.Rattle killed (1) Enigma with Ruger 77
+19-11-08 03:13:19 (1) Drsoldat killed (2) nP [KillMe!] with FN Minimi
+19-11-08 03:13:20 (1) Drsoldat killed (2) sk!T.Rattle with Grenade
+19-11-08 03:13:21 (TEAM)[nP [KillMe!]] ^Enemies Top!
+19-11-08 03:13:23 (2) sT.- YnGwi3 killed (1) Drsoldat with Grenade
+19-11-08 03:13:24 (TEAM)[Drsoldat] INC HIGH KILL THEM!
+19-11-08 03:13:26 (2) sT.- YnGwi3 killed (1) Enigma with Grenade
+19-11-08 03:13:27 (1) Enigma killed (2) sT.- YnGwi3 with Grenade
+19-11-08 03:13:27 (2) nP [KillMe!] killed (1) Shatelia with FN Minimi
+19-11-08 03:13:28 (RADIO)[Shatelia] INC TOP
+19-11-08 03:13:31 (TEAM)[Shatelia] 1 mid
+19-11-08 03:13:32 (TEAM)[nP [KillMe!]] ^Enemies Top!
+19-11-08 03:13:36 (2) sT.- YnGwi3 killed (1) Drsoldat with Ak-74
+19-11-08 03:13:37 (1) Enigma killed (2) sk!T.Rattle with Barrett M82A1
+19-11-08 03:13:37 [Drsoldat] Yes, Sir!
+19-11-08 03:13:40 [sk!T.Rattle] aguafiestas
+19-11-08 03:13:42 (RADIO)[Shatelia] INC TOP
+19-11-08 03:13:43 (TEAM)[Shatelia] [%LOW HP]
+19-11-08 03:13:43 (TEAM)[Shatelia] Flag lost!
+19-11-08 03:13:43 (1) Drsoldat killed (2) sT.- YnGwi3 with FN Minimi
+19-11-08 03:13:43 [Drsoldat] Yes, Sir!
+19-11-08 03:13:44 (2) nP [KillMe!] killed (1) Shatelia with FN Minimi
+19-11-08 03:13:53 (1) Shatelia killed (2) nP [KillMe!] with FN Minimi
+19-11-08 03:13:53 Drsoldat captured the Blue Flag
+19-11-08 03:13:54 (2) sk!T.Rattle killed (1) Shatelia with M79
+19-11-08 03:13:55 (RADIO)[Shatelia] INC TOP
+19-11-08 03:13:58 (1) Enigma killed (2) nP [KillMe!] with Barrett M82A1
+19-11-08 03:13:58 (1) Drsoldat killed (2) sT.- YnGwi3 with Grenade
+19-11-08 03:14:00 (1) Enigma killed (2) sk!T.Rattle with Chainsaw
+19-11-08 03:14:00 (RADIO)[sT.- YnGwi3] Enemy spotted up!
+19-11-08 03:14:01 Drsoldat captured the Blue Flag
+19-11-08 03:14:02 (TEAM)[sk!T.Rattle] Base 1
+19-11-08 03:14:07 (2) nP [KillMe!] killed (1) Enigma with Ak-74
+19-11-08 03:14:07 Drsoldat scores for Alpha Team
+19-11-08 03:14:09 (RADIO)[Enigma] Enemy spotted up!
+19-11-08 03:14:11 (2) nP [KillMe!] killed (1) Shatelia with Grenade
+19-11-08 03:14:12 (RADIO)[Shatelia] INC TOP
+19-11-08 03:14:13 (TEAM)[Shatelia] 3
+19-11-08 03:14:15 (TEAM)[Shatelia] |B A S E|
+19-11-08 03:14:15 (2) sk!T.Rattle killed (1) Drsoldat with Combat Knife
+19-11-08 03:14:15 sk!T.Rattle captured the Red Flag
+19-11-08 03:14:16 [Drsoldat] Yes, Sir!
+19-11-08 03:14:17 (1) Enigma killed (2) sT.- YnGwi3 with Grenade
+19-11-08 03:14:18 (2) nP [KillMe!] killed (1) Enigma with Combat Knife
+19-11-08 03:14:20 (1) Shatelia killed (2) sk!T.Rattle with FN Minimi
+19-11-08 03:14:21 (1) Drsoldat killed (2) nP [KillMe!] with Grenade
+19-11-08 03:14:21 Time Left: 5 minutes
+19-11-08 03:14:22 (TEAM)[Shatelia] CLEAR! ATTACK NOW!
+19-11-08 03:14:22 Shatelia returned the Red Flag
+19-11-08 03:14:24 (2) sT.- YnGwi3 killed (1) Shatelia with Grenade
+19-11-08 03:14:24 (RADIO)[Shatelia] INC TOP
+19-11-08 03:14:26 (1) Enigma killed (2) sT.- YnGwi3 with Chainsaw
+19-11-08 03:14:27 (TEAM)[Shatelia] CLEAR! ATTACK NOW!
+19-11-08 03:14:28 (2) sk!T.Rattle killed (1) Enigma with Grenade
+19-11-08 03:14:31 (TEAM)[Drsoldat] INC HIGH KILL THEM!
+19-11-08 03:14:33 (1) Shatelia killed (2) nP [KillMe!] with FN Minimi
+19-11-08 03:14:33 (2) sk!T.Rattle killed (1) Shatelia with Ruger 77
+19-11-08 03:14:34 (RADIO)[Shatelia] INC TOP
+19-11-08 03:14:35 (TEAM)[Shatelia] [%LOW HP]
+19-11-08 03:14:35 (1) Drsoldat killed (2) sk!T.Rattle with FN Minimi
+19-11-08 03:14:40 (1) Enigma killed (2) nP [KillMe!] with Chainsaw
+19-11-08 03:14:41 Enigma captured the Blue Flag
+19-11-08 03:14:42 (TEAM)[Shatelia] CLEAR! ATTACK NOW!
+19-11-08 03:14:42 (TEAM)[Shatelia] |B A S E|
+19-11-08 03:14:43 (2) sk!T.Rattle killed (1) Enigma with Ruger 77
+19-11-08 03:14:43 sT.- YnGwi3 captured the Red Flag
+19-11-08 03:14:44 (RADIO)[Enigma] Enemy spotted up!
+19-11-08 03:14:45 (2) sk!T.Rattle killed (1) Drsoldat with Ruger 77
+19-11-08 03:14:46 (TEAM)[Shatelia] EFC TOP
+19-11-08 03:14:49 nP [KillMe!] returned the Blue Flag
+19-11-08 03:14:50 (2) sk!T.Rattle killed (1) Shatelia with Ruger 77
+19-11-08 03:14:51 (1) Enigma killed (2) sk!T.Rattle with Ak-74
+19-11-08 03:14:53 sT.- YnGwi3 scores for Bravo Team
+19-11-08 03:14:56 (1) Drsoldat killed (2) nP [KillMe!] with FN Minimi
+19-11-08 03:14:58 (2) sT.- YnGwi3 killed (1) Drsoldat with Barrett M82A1
+19-11-08 03:14:59 (2) sk!T.Rattle killed (1) Enigma with Ruger 77
+19-11-08 03:15:01 (RADIO)[Enigma] Friendly flagger middle!
+19-11-08 03:15:04 (RADIO)[Enigma] Enemy flagger middle!
+19-11-08 03:15:05 (2) nP [KillMe!] killed (1) Shatelia with Ak-74
+19-11-08 03:15:05 (RADIO)[Shatelia] INC TOP
+19-11-08 03:15:07 (RADIO)[Shatelia] INC MID
+19-11-08 03:15:07 (1) Drsoldat killed (2) nP [KillMe!] with FN Minimi
+19-11-08 03:15:07 (2) nP [KillMe!] killed (1) Drsoldat with Ak-74
+19-11-08 03:15:09 (1) Enigma killed (2) sT.- YnGwi3 with Grenade
+19-11-08 03:15:13 (1) Drsoldat killed (2) sk!T.Rattle with LAW
+19-11-08 03:15:15 [Drsoldat] Yes, Sir!
+19-11-08 03:15:15 [Drsoldat] I am the law!
+19-11-08 03:15:15 [Drsoldat] Son of a bitch!
+19-11-08 03:15:17 (2) sT.- YnGwi3 killed (1) Enigma with Grenade
+19-11-08 03:15:18 [Enigma] Yeah
+19-11-08 03:15:19 [Shatelia] nice
+19-11-08 03:15:21 (RADIO)[Enigma] Friendly flagger middle!
+19-11-08 03:15:21 Time Left: 4 minutes
+19-11-08 03:15:22 nP [KillMe!] captured the Red Flag
+19-11-08 03:15:25 Drsoldat captured the Blue Flag
+19-11-08 03:15:26 (2) sT.- YnGwi3 killed (1) Shatelia with Grenade
+19-11-08 03:15:28 (1) Enigma killed (2) sT.- YnGwi3 with Barrett M82A1
+19-11-08 03:15:29 (RADIO)[sT.- YnGwi3] Enemy spotted up!
+19-11-08 03:15:30 (RADIO)[sk!T.Rattle] Enemy spotted down!
+19-11-08 03:15:32 (1) Enigma killed (2) nP [KillMe!] with Barrett M82A1
+19-11-08 03:15:32 (2) sk!T.Rattle killed (1) Enigma with Ruger 77
+19-11-08 03:15:34 sT.- YnGwi3 captured the Red Flag
+19-11-08 03:15:35 (1) Drsoldat killed (2) sT.- YnGwi3 with Grenade
+19-11-08 03:15:35 [sT.- YnGwi3] No!
+19-11-08 03:15:37 Drsoldat returned the Red Flag
+19-11-08 03:15:37 (2) nP [KillMe!] killed (1) Drsoldat with Grenade
+19-11-08 03:15:38 (RADIO)[Shatelia] INC MID
+19-11-08 03:15:38 [Drsoldat] Yes, Sir!
+19-11-08 03:15:41 (2) sT.- YnGwi3 killed (1) Shatelia with Grenade
+19-11-08 03:15:42 sk!T.Rattle returned the Blue Flag
+19-11-08 03:15:43 (RADIO)[Shatelia] INC TOP
+19-11-08 03:15:43 (2) nP [KillMe!] killed (1) Drsoldat with Combat Knife
+19-11-08 03:15:45 nP [KillMe!] captured the Red Flag
+19-11-08 03:15:45 (1) Enigma killed (2) nP [KillMe!] with FN Minimi
+19-11-08 03:15:49 Enigma returned the Red Flag
+19-11-08 03:15:51 (2) sT.- YnGwi3 killed (1) Drsoldat with Barrett M82A1
+19-11-08 03:15:53 (2) sT.- YnGwi3 killed (1) Enigma with Grenade
+19-11-08 03:15:59 (1) Enigma killed (2) sT.- YnGwi3 with Chainsaw
+19-11-08 03:16:00 (2) nP [KillMe!] killed (1) Drsoldat with Steyr AUG
+19-11-08 03:16:00 nP [KillMe!] captured the Red Flag
+19-11-08 03:16:07 (1) Drsoldat killed (2) sk!T.Rattle with FN Minimi
+19-11-08 03:16:08 (2) sT.- YnGwi3 killed (1) Shatelia with Barrett M82A1
+19-11-08 03:16:08 (RADIO)[sk!T.Rattle] Enemy spotted up!
+19-11-08 03:16:09 (1) Enigma killed (2) nP [KillMe!] with Barrett M82A1
+19-11-08 03:16:10 (RADIO)[Shatelia] INC TOP
+19-11-08 03:16:10 [ITS NOT ME ITS THE SERVR] xd
+19-11-08 03:16:10 Enigma returned the Red Flag
+19-11-08 03:16:11 [ITS NOT ME ITS THE SERVR] xd
+19-11-08 03:16:11 [ITS NOT ME ITS THE SERVR] xd
+19-11-08 03:16:12 (2) sT.- YnGwi3 killed (1) Enigma with Grenade
+19-11-08 03:16:14 (2) sk!T.Rattle killed (1) Drsoldat with Grenade
+19-11-08 03:16:16 [Drsoldat] Yes, Sir!
+19-11-08 03:16:19 [ITS NOT ME ITS THE SERVR] You're one ugly mother fu**er!
+19-11-08 03:16:20 (2) sT.- YnGwi3 killed (1) Enigma with Barrett M82A1
+19-11-08 03:16:20 (2) nP [KillMe!] killed (1) Shatelia with Steyr AUG
+19-11-08 03:16:21 (1) Drsoldat killed (2) sT.- YnGwi3 with FN Minimi
+19-11-08 03:16:21 (RADIO)[Enigma] Friendly flagger middle!
+19-11-08 03:16:21 (RADIO)[Shatelia] INC TOP
+19-11-08 03:16:21 Time Left: 3 minutes
+19-11-08 03:16:21 (TEAM)[Shatelia] [%LOW HP]
+19-11-08 03:16:22 (2) sk!T.Rattle killed (1) Drsoldat with Combat Knife
+19-11-08 03:16:24 (2) sk!T.Rattle killed (1) Enigma with Ruger 77
+19-11-08 03:16:25 sk!T.Rattle captured the Red Flag
+19-11-08 03:16:27 (1) Drsoldat killed (2) sk!T.Rattle with FN Minimi
+19-11-08 03:16:28 (1) Shatelia killed (2) nP [KillMe!] with FN Minimi
+19-11-08 03:16:30 (TEAM)[Shatelia] Help our flagger!
+19-11-08 03:16:31 (2) sT.- YnGwi3 killed (1) Drsoldat with Barrett M82A1
+19-11-08 03:16:32 Shatelia returned the Red Flag
+19-11-08 03:16:33 (2) sT.- YnGwi3 killed (1) Shatelia with Grenade
+19-11-08 03:16:33 (1) Shatelia killed (2) sT.- YnGwi3 with FN Minimi
+19-11-08 03:16:34 (TEAM)[Shatelia] CLEAR! ATTACK NOW!
+19-11-08 03:16:39 (2) sk!T.Rattle killed (1) Drsoldat with Combat Knife
+19-11-08 03:16:40 (1) Enigma killed (2) sT.- YnGwi3 with FN Minimi
+19-11-08 03:16:40 Enigma captured the Blue Flag
+19-11-08 03:16:41 (2) sk!T.Rattle killed (1) Shatelia with Grenade
+19-11-08 03:16:41 (TEAM)[Shatelia] |B A S E|
+19-11-08 03:16:43 (RADIO)[sT.- YnGwi3] Enemy flagger up!
+19-11-08 03:16:43 sk!T.Rattle captured the Red Flag
+19-11-08 03:16:45 (2) nP [KillMe!] killed (1) Drsoldat with Steyr AUG
+19-11-08 03:16:49 (1) Shatelia killed (2) nP [KillMe!] with FN Minimi
+19-11-08 03:16:50 (RADIO)[Enigma] Enemy spotted up!
+19-11-08 03:16:53 (2) sT.- YnGwi3 killed (1) Shatelia with Ak-74
+19-11-08 03:16:53 (RADIO)[Shatelia] INC TOP
+19-11-08 03:16:54 (TEAM)[Shatelia] [%LOW HP]
+19-11-08 03:16:55 (1) Drsoldat killed (2) sT.- YnGwi3 with LAW
+19-11-08 03:16:57 (2) sk!T.Rattle killed (1) Drsoldat with Ruger 77
+19-11-08 03:16:58 (TEAM)[Drsoldat] INC HIGH KILL THEM!
+19-11-08 03:17:00 (2) nP [KillMe!] killed (1) Shatelia with Steyr AUG
+19-11-08 03:17:00 (1) Shatelia killed (2) sk!T.Rattle with Grenade
+19-11-08 03:17:05 (1) Enigma killed (2) nP [KillMe!] with FN Minimi
+19-11-08 03:17:06 sk!T.Rattle captured the Red Flag
+19-11-08 03:17:07 (1) Shatelia killed (2) sT.- YnGwi3 with Grenade
+19-11-08 03:17:08 (2) sT.- YnGwi3 killed (1) Shatelia with Grenade
+19-11-08 03:17:08 Enigma captured the Blue Flag
+19-11-08 03:17:08 [sT.- YnGwi3] Die!
+19-11-08 03:17:10 [Shatelia] ese throw
+19-11-08 03:17:10 Drsoldat returned the Red Flag
+19-11-08 03:17:12 Shatelia captured the Blue Flag
+19-11-08 03:17:12 Shatelia scores for Alpha Team
+19-11-08 03:17:12 Drsoldat captured the Blue Flag
+19-11-08 03:17:12 (2) sk!T.Rattle killed (1) Enigma with Ruger 77
+19-11-08 03:17:13 (TEAM)[sT.- YnGwi3] perpo
+19-11-08 03:17:13 (RADIO)[Enigma] Enemy spotted up!
+19-11-08 03:17:13 [Drsoldat] Yes, Sir!
+19-11-08 03:17:15 (RADIO)[Shatelia] INC TOP
+19-11-08 03:17:16 (TEAM)[Shatelia] |B A S E|
+19-11-08 03:17:17 (2) nP [KillMe!] killed (1) Shatelia with Steyr AUG
+19-11-08 03:17:18 sk!T.Rattle captured the Red Flag
+19-11-08 03:17:18 (1) Enigma killed (2) sk!T.Rattle with Chainsaw
+19-11-08 03:17:19 (RADIO)[Shatelia] INC TOP
+19-11-08 03:17:20 (TEAM)[sk!T.Rattle] no loi vi po
+19-11-08 03:17:21 Time Left: 2 minutes
+19-11-08 03:17:22 (1) Enigma killed (2) nP [KillMe!] with Barrett M82A1
+19-11-08 03:17:23 (2) sT.- YnGwi3 killed (1) Enigma with LAW
+19-11-08 03:17:25 sk!T.Rattle returned the Blue Flag
+19-11-08 03:17:25 (1) Drsoldat killed (2) sT.- YnGwi3 with M79
+19-11-08 03:17:28 Enigma returned the Red Flag
+19-11-08 03:17:32 sk!T.Rattle captured the Red Flag
+19-11-08 03:17:35 (2) sk!T.Rattle killed (1) Drsoldat with Grenade
+19-11-08 03:17:36 (2) nP [KillMe!] killed (1) Enigma with M79
+19-11-08 03:17:37 (1) Shatelia killed (2) sT.- YnGwi3 with FN Minimi
+19-11-08 03:17:37 (RADIO)[Enigma] Friendly flagger middle!
+19-11-08 03:17:38 [sT.- YnGwi3] Die!
+19-11-08 03:17:38 Shatelia captured the Blue Flag
+19-11-08 03:17:40 nP [KillMe!] captured the Red Flag
+19-11-08 03:17:44 (2) sT.- YnGwi3 killed (1) Shatelia with Ak-74
+19-11-08 03:17:44 sT.- YnGwi3 returned the Blue Flag
+19-11-08 03:17:44 (1) Shatelia killed (2) sT.- YnGwi3 with Grenade
+19-11-08 03:17:45 [Shatelia] ke
+19-11-08 03:17:45 (2) nP [KillMe!] killed (1) Drsoldat with Grenade
+19-11-08 03:17:46 [Shatelia] 2 mades
+19-11-08 03:17:46 (RADIO)[sT.- YnGwi3] Friendly flagger middle!
+19-11-08 03:17:49 (1) Enigma killed (2) nP [KillMe!] with HK MP5
+19-11-08 03:17:51 Enigma captured the Blue Flag
+19-11-08 03:17:51 (2) sT.- YnGwi3 killed (1) Enigma with Ak-74
+19-11-08 03:17:52 sT.- YnGwi3 captured the Red Flag
+19-11-08 03:17:54 (1) Shatelia killed (2) nP [KillMe!] with Combat Knife
+19-11-08 03:17:54 (1) Drsoldat killed (2) sk!T.Rattle with M79
+19-11-08 03:17:54 Shatelia captured the Blue Flag
+19-11-08 03:17:54 (2) sT.- YnGwi3 killed (1) Shatelia with Ak-74
+19-11-08 03:17:56 sT.- YnGwi3 scores for Bravo Team
+19-11-08 03:17:58 (1) Drsoldat killed (2) sT.- YnGwi3 with M79
+19-11-08 03:17:58 Drsoldat captured the Blue Flag
+19-11-08 03:18:02 Enigma captured the Blue Flag
+19-11-08 03:18:03 (1) Enigma killed (2) nP [KillMe!] with FN Minimi
+19-11-08 03:18:03 (TEAM)[Shatelia] Help our flagger!
+19-11-08 03:18:04 (TEAM)[Shatelia] Throw it!
+19-11-08 03:18:04 (TEAM)[Shatelia] Help our flagger!
+19-11-08 03:18:04 (TEAM)[Shatelia] Throw it!
+19-11-08 03:18:05 (1) Drsoldat killed (2) sk!T.Rattle with LAW
+19-11-08 03:18:08 (1) Shatelia killed (2) sT.- YnGwi3 with Grenade
+19-11-08 03:18:09 Enigma scores for Alpha Team
+19-11-08 03:18:09 (TEAM)[Shatelia] CLEAR! ATTACK NOW!
+19-11-08 03:18:12 (1) Drsoldat killed (2) sk!T.Rattle with M79
+19-11-08 03:18:12 Drsoldat captured the Blue Flag
+19-11-08 03:18:13 (RADIO)[sT.- YnGwi3] Enemy flagger up!
+19-11-08 03:18:15 (TEAM)[sk!T.Rattle] :(
+19-11-08 03:18:18 (1) Enigma killed (2) sk!T.Rattle with Chainsaw
+19-11-08 03:18:19 200.97.219.42:23073|554851DFE2D requesting game...
+19-11-08 03:18:20 (1) Shatelia killed (2) nP [KillMe!] with FN Minimi
+19-11-08 03:18:20 (TEAM)[Shatelia] CLEAR! ATTACK NOW!
+19-11-08 03:18:21 SkiLLo joining game (200.97.219.42:23073) HWID:554851DFE2D
+19-11-08 03:18:21 SkiLLo has joined as spectator.
+19-11-08 03:18:21 Time Left: 1 minutes
+19-11-08 03:18:21 Drsoldat scores for Alpha Team
+19-11-08 03:18:22 Enigma captured the Blue Flag
+19-11-08 03:18:25 (1) Drsoldat killed (2) sT.- YnGwi3 with Grenade
+19-11-08 03:18:25 (TEAM)[Shatelia] CLEAR! ATTACK NOW!
+19-11-08 03:18:27 (1) Enigma killed (2) nP [KillMe!] with Grenade
+19-11-08 03:18:27 (2) sk!T.Rattle killed (1) Shatelia with Ruger 77
+19-11-08 03:18:28 (RADIO)[Shatelia] INC TOP
+19-11-08 03:18:30 (2) sk!T.Rattle killed (1) Enigma with Ruger 77
+19-11-08 03:18:32 (2) sk!T.Rattle killed (1) Drsoldat with Ruger 77
+19-11-08 03:18:32 Shatelia returned the Red Flag
+19-11-08 03:18:33 Shatelia captured the Blue Flag
+19-11-08 03:18:34 Shatelia scores for Alpha Team
+19-11-08 03:18:34 [Drsoldat] Yes, Sir!
+19-11-08 03:18:35 sk!T.Rattle captured the Red Flag
+19-11-08 03:18:35 (1) Enigma killed (2) sk!T.Rattle with Chainsaw
+19-11-08 03:18:37 (2) sT.- YnGwi3 killed (1) Shatelia with Ak-74
+19-11-08 03:18:38 (TEAM)[Shatelia] CLEAR! ATTACK NOW!
+19-11-08 03:18:39 (TEAM)[Shatelia] |B A S E|
+19-11-08 03:18:40 (1) Drsoldat killed (2) sT.- YnGwi3 with LAW
+19-11-08 03:18:43 Enigma returned the Red Flag
+19-11-08 03:18:44 nP [KillMe!] captured the Red Flag
+19-11-08 03:18:46 (1) Shatelia killed (2) nP [KillMe!] with FN Minimi
+19-11-08 03:18:49 (1) Enigma killed (2) sk!T.Rattle with Chainsaw
+19-11-08 03:18:53 sT.- YnGwi3 captured the Red Flag
+19-11-08 03:18:54 (2) sT.- YnGwi3 killed (1) Enigma with Ak-74
+19-11-08 03:18:59 (2) nP [KillMe!] killed (1) Drsoldat with Grenade
+19-11-08 03:19:00 [Drsoldat] Yes, Sir!
+19-11-08 03:19:02 sT.- YnGwi3 scores for Bravo Team
+19-11-08 03:19:03 (1) Drsoldat killed (2) nP [KillMe!] with Grenade
+19-11-08 03:19:03 (1) Enigma killed (2) sk!T.Rattle with Chainsaw
+19-11-08 03:19:07 (TEAM)[Shatelia] Help our flagger!
+19-11-08 03:19:12 (2) sk!T.Rattle killed (1) Shatelia with Ruger 77
+19-11-08 03:19:12 (RADIO)[Shatelia] INC TOP
+19-11-08 03:19:13 (TEAM)[Shatelia] 2
+19-11-08 03:19:14 (TEAM)[Shatelia] |B A S E|
+19-11-08 03:19:16 sT.- YnGwi3 captured the Red Flag
+19-11-08 03:19:17 (TEAM)[nP [KillMe!]] pickeamos mal xd
+19-11-08 03:19:18 Enigma captured the Blue Flag
+19-11-08 03:19:19 (1) Drsoldat killed (2) sT.- YnGwi3 with M79
+19-11-08 03:19:19 (2) sT.- YnGwi3 killed (1) Shatelia with Grenade
+19-11-08 03:19:19 (2) sk!T.Rattle killed (1) Drsoldat with Ruger 77
+19-11-08 03:19:20 sk!T.Rattle captured the Red Flag
+19-11-08 03:19:20 (TEAM)[Shatelia] |B A S E|
+19-11-08 03:19:21 (TEAM)[Shatelia] EFC TOP
+19-11-08 03:19:21 Next map: Lobby
+19-11-08 03:19:21 [Drsoldat] Yes, Sir!
+19-11-08 03:19:21 SkiLLo has left spectators
+19-11-08 03:19:23 [Enigma] GG
+19-11-08 03:19:23 [Shatelia] gg
+19-11-08 03:19:24 (TEAM)[nP [KillMe!]] muy desordenados XD
+19-11-08 03:19:26 [Enigma] !TB
+19-11-08 03:19:26 /map ctf_Rotten (206.81.24.116)
+19-11-08 03:19:28 [Drsoldat] Medic!
+19-11-08 03:19:29 (TEAM)[sT.- YnGwi3] mid
+19-11-08 03:19:30 (RADIO)[Enigma] Enemy spotted up!
+19-11-08 03:19:32 Rotten by Biggles
+19-11-08 03:19:36 (RADIO)[Shatelia] INC MID
+19-11-08 03:19:36 [sk!T.Rattle] !r
+19-11-08 03:19:36 Restarting...
+19-11-08 03:19:39 (TEAM)[sk!T.Rattle] voy abajo
+19-11-08 03:19:42 Rotten by Biggles
+19-11-08 03:19:46 (2) nP [KillMe!] killed (1) Enigma with Steyr AUG
+19-11-08 03:19:48 (RADIO)[Enigma] Friendly flagger middle!
+19-11-08 03:19:48 (2) sT.- YnGwi3 killed (1) Shatelia with Spas-12
+19-11-08 03:19:49 (RADIO)[sk!T.Rattle] Enemy spotted down!
+19-11-08 03:19:51 sT.- YnGwi3 captured the Red Flag
+19-11-08 03:19:52 Drsoldat captured the Blue Flag
+19-11-08 03:19:54 (2) sk!T.Rattle killed (1) Drsoldat with Ruger 77
+19-11-08 03:19:54 (1) Shatelia killed (2) nP [KillMe!] with Grenade
+19-11-08 03:19:54 (2) nP [KillMe!] killed (1) Enigma with Steyr AUG
+19-11-08 03:19:54 (1) Drsoldat killed (2) sk!T.Rattle with M79
+19-11-08 03:19:55 (TEAM)[Drsoldat] FFC MID - HELP AND CLEAR THE BASE!!
+19-11-08 03:19:55 (RADIO)[Enigma] Enemy spotted up!
+19-11-08 03:19:55 (TEAM)[sk!T.Rattle] mid
+19-11-08 03:19:59 sT.- YnGwi3 captured the Red Flag
+19-11-08 03:19:59 (2) sT.- YnGwi3 killed (1) Shatelia with Spas-12
+19-11-08 03:20:00 (TEAM)[Shatelia] FF MID
+19-11-08 03:20:02 sk!T.Rattle returned the Blue Flag
+19-11-08 03:20:03 (1) Enigma killed (2) sT.- YnGwi3 with Steyr AUG
+19-11-08 03:20:04 [sT.- YnGwi3] No!
+19-11-08 03:20:04 (1) Drsoldat killed (2) nP [KillMe!] with M79
+19-11-08 03:20:05 (TEAM)[nP [KillMe!]] ^Enemies Top!
+19-11-08 03:20:05 [sT.- YnGwi3] wtf
+19-11-08 03:20:08 Enigma captured the Blue Flag
+19-11-08 03:20:08 Enigma returned the Red Flag
+19-11-08 03:20:08 (1) Drsoldat killed (2) sk!T.Rattle with LAW
+19-11-08 03:20:09 (2) sT.- YnGwi3 killed (1) Enigma with Spas-12
+19-11-08 03:20:11 Drsoldat captured the Blue Flag
+19-11-08 03:20:14 (2) nP [KillMe!] killed (1) Drsoldat with Steyr AUG
+19-11-08 03:20:16 (TEAM)[Drsoldat] FFC LOW - HELP AND CLEAR THE BASE!!
+19-11-08 03:20:18 (2) sk!T.Rattle killed (1) Shatelia with Grenade
+19-11-08 03:20:18 sT.- YnGwi3 captured the Red Flag
+19-11-08 03:20:19 nP [KillMe!] returned the Blue Flag
+19-11-08 03:20:20 (2) sT.- YnGwi3 killed (1) Enigma with Spas-12
+19-11-08 03:20:22 (RADIO)[Enigma] Friendly flagger middle!
+19-11-08 03:20:24 sT.- YnGwi3 scores for Bravo Team
+19-11-08 03:20:24 (TEAM)[nP [KillMe!]] ^Enemies Low!
+19-11-08 03:20:28 (1) Enigma killed (2) sk!T.Rattle with HK MP5
+19-11-08 03:20:29 (RADIO)[sk!T.Rattle] Enemy spotted middle!
+19-11-08 03:20:30 (RADIO)[sk!T.Rattle] Enemy spotted up!
+19-11-08 03:20:31 (1) Shatelia killed (2) sT.- YnGwi3 with FN Minimi
+19-11-08 03:20:32 Shatelia captured the Blue Flag
+19-11-08 03:20:33 (2) sk!T.Rattle killed (1) Drsoldat with Combat Knife
+19-11-08 03:20:34 (1) Shatelia killed (2) nP [KillMe!] with FN Minimi
+19-11-08 03:20:34 (2) nP [KillMe!] killed (1) Shatelia with Steyr AUG
+19-11-08 03:20:35 (TEAM)[Shatelia] Help our flagger!
+19-11-08 03:20:36 Enigma captured the Blue Flag
+19-11-08 03:20:36 (TEAM)[Shatelia] FF TOP
+19-11-08 03:20:37 (TEAM)[Shatelia] Throw it!
+19-11-08 03:20:38 (1) Enigma killed (2) sk!T.Rattle with Grenade
+19-11-08 03:20:41 (2) sT.- YnGwi3 killed (1) Enigma with Spas-12
+19-11-08 03:20:41 sT.- YnGwi3 captured the Red Flag
+19-11-08 03:20:43 sT.- YnGwi3 returned the Blue Flag
+19-11-08 03:20:44 (2) nP [KillMe!] killed (1) Shatelia with Steyr AUG
+19-11-08 03:20:47 (2) sk!T.Rattle killed (1) Drsoldat with Grenade
+19-11-08 03:20:48 (2) sT.- YnGwi3 killed (1) Enigma with Spas-12
+19-11-08 03:20:49 nP [KillMe!] captured the Red Flag
+19-11-08 03:20:49 (1) Shatelia killed (2) sT.- YnGwi3 with FN Minimi
+19-11-08 03:20:49 (RADIO)[Enigma] Enemy spotted up!
+19-11-08 03:20:51 (1) Shatelia killed (2) nP [KillMe!] with FN Minimi
+19-11-08 03:20:53 Shatelia captured the Blue Flag
+19-11-08 03:20:54 (2) sT.- YnGwi3 killed (1) Shatelia with Grenade
+19-11-08 03:20:55 (TEAM)[Shatelia] FF MID
+19-11-08 03:20:56 (TEAM)[Shatelia] FF LOW
+19-11-08 03:20:56 (1) Drsoldat killed (2) sk!T.Rattle with M79
+19-11-08 03:20:57 (1) Enigma killed (2) sT.- YnGwi3 with Grenade
+19-11-08 03:20:57 (TEAM)[Shatelia] pit
+19-11-08 03:20:59 (2) nP [KillMe!] killed (1) Enigma with Grenade
+19-11-08 03:20:59 (1) Enigma killed (2) nP [KillMe!] with Grenade
+19-11-08 03:21:00 (RADIO)[sT.- YnGwi3] Friendly flagger down!
+19-11-08 03:21:00 (RADIO)[sT.- YnGwi3] Friendly flagger down!
+19-11-08 03:21:02 nP [KillMe!] captured the Red Flag
+19-11-08 03:21:04 (2) sT.- YnGwi3 killed (1) Drsoldat with Grenade
+19-11-08 03:21:05 (1) Shatelia killed (2) sT.- YnGwi3 with Grenade
+19-11-08 03:21:06 (2) sT.- YnGwi3 killed (1) Shatelia with Spas-12
+19-11-08 03:21:06 (RADIO)[sT.- YnGwi3] Friendly flagger down!
+19-11-08 03:21:06 (RADIO)[sT.- YnGwi3] Friendly flagger down!
+19-11-08 03:21:07 (RADIO)[sT.- YnGwi3] Friendly flagger down!
+19-11-08 03:21:08 (TEAM)[Shatelia] EFC TOP
+19-11-08 03:21:09 (TEAM)[sT.- YnGwi3] puente
+19-11-08 03:21:11 (TEAM)[Shatelia] |B A S E|
+19-11-08 03:21:12 Enigma captured the Blue Flag
+19-11-08 03:21:16 (2) sk!T.Rattle killed (1) Drsoldat with Grenade
+19-11-08 03:21:16 (2) sk!T.Rattle killed (1) Enigma with Grenade
+19-11-08 03:21:17 sT.- YnGwi3 returned the Blue Flag
+19-11-08 03:21:19 nP [KillMe!] scores for Bravo Team
+19-11-08 03:21:20 (2) nP [KillMe!] killed (1) Shatelia with Steyr AUG
+19-11-08 03:21:20 sk!T.Rattle captured the Red Flag
+19-11-08 03:21:21 (1) Enigma killed (2) sT.- YnGwi3 with Combat Knife
+19-11-08 03:21:26 (1) Drsoldat killed (2) sk!T.Rattle with M79
+19-11-08 03:21:26 sT.- YnGwi3 returned the Blue Flag
+19-11-08 03:21:28 (2) sT.- YnGwi3 killed (1) Enigma with Spas-12
+19-11-08 03:21:28 Drsoldat captured the Blue Flag
+19-11-08 03:21:28 Drsoldat returned the Red Flag
+19-11-08 03:21:29 [sT.- YnGwi3] Die!
+19-11-08 03:21:30 (2) sk!T.Rattle killed (1) Drsoldat with Ruger 77
+19-11-08 03:21:30 (1) Shatelia killed (2) nP [KillMe!] with HK MP5
+19-11-08 03:21:33 (TEAM)[Drsoldat] INC HIGH KILL THEM!
+19-11-08 03:21:33 Shatelia captured the Blue Flag
+19-11-08 03:21:36 (1) Enigma killed (2) sk!T.Rattle with FN Minimi
+19-11-08 03:21:36 (TEAM)[Shatelia] Help our flagger!
+19-11-08 03:21:38 sT.- YnGwi3 captured the Red Flag
+19-11-08 03:21:39 (TEAM)[Shatelia] EFC?
+19-11-08 03:21:40 nP [KillMe!] returned the Blue Flag
+19-11-08 03:21:40 (2) nP [KillMe!] killed (1) Drsoldat with Grenade
+19-11-08 03:21:40 Shatelia captured the Blue Flag
+19-11-08 03:21:40 Enigma returned the Red Flag
+19-11-08 03:21:41 (2) nP [KillMe!] killed (1) Enigma with Steyr AUG
+19-11-08 03:21:42 (2) sk!T.Rattle killed (1) Shatelia with Ruger 77
+19-11-08 03:21:43 sT.- YnGwi3 captured the Red Flag
+19-11-08 03:21:44 (TEAM)[Shatelia] FF LOW
+19-11-08 03:21:44 (RADIO)[Enigma] Enemy spotted middle!
+19-11-08 03:21:46 (1) Drsoldat killed (2) nP [KillMe!] with FN Minimi
+19-11-08 03:21:46 (2) sk!T.Rattle killed (1) Drsoldat with Ruger 77
+19-11-08 03:21:47 (TEAM)[Drsoldat] EFC GOING LOW - KILL HIM!
+19-11-08 03:21:51 (2) sT.- YnGwi3 killed (1) Shatelia with Grenade
+19-11-08 03:21:51 (1) Shatelia killed (2) sk!T.Rattle with HK MP5
+19-11-08 03:21:52 (1) Drsoldat killed (2) nP [KillMe!] with FN Minimi
+19-11-08 03:21:52 (2) nP [KillMe!] killed (1) Drsoldat with Grenade
+19-11-08 03:21:53 (TEAM)[Shatelia] Help our flagger!
+19-11-08 03:21:54 (TEAM)[nP [KillMe!]] ^Enemies Low!
+19-11-08 03:21:54 Enigma captured the Blue Flag
+19-11-08 03:21:54 (TEAM)[nP [KillMe!]] ^INC ~ LOW
+19-11-08 03:21:56 (RADIO)[Shatelia] INC TOP
+19-11-08 03:21:59 (2) nP [KillMe!] killed (1) Drsoldat with Steyr AUG
+19-11-08 03:22:01 (1) Enigma killed (2) sk!T.Rattle with Grenade
+19-11-08 03:22:03 (2) sT.- YnGwi3 killed (1) Shatelia with Spas-12
+19-11-08 03:22:03 (1) Enigma killed (2) nP [KillMe!] with HK MP5
+19-11-08 03:22:04 (TEAM)[Shatelia] EFC TOP
+19-11-08 03:22:07 (RADIO)[Shatelia] INC TOP
+19-11-08 03:22:13 (2) sk!T.Rattle killed (1) Enigma with Combat Knife
+19-11-08 03:22:14 [sT.- YnGwi3] No!
+19-11-08 03:22:14 sk!T.Rattle captured the Red Flag
+19-11-08 03:22:16 nP [KillMe!] returned the Blue Flag
+19-11-08 03:22:18 (2) sT.- YnGwi3 killed (1) Drsoldat with Spas-12
+19-11-08 03:22:18 Shatelia captured the Blue Flag
+19-11-08 03:22:18 (2) nP [KillMe!] killed (1) Enigma with Steyr AUG
+19-11-08 03:22:26 (TEAM)[Shatelia] Help our flagger!
+19-11-08 03:22:26 (2) nP [KillMe!] killed (1) Drsoldat with Steyr AUG
+19-11-08 03:22:27 (1) Enigma killed (2) sT.- YnGwi3 with Barrett M82A1
+19-11-08 03:22:27 Enigma captured the Blue Flag
+19-11-08 03:22:28 [sT.- YnGwi3] No!
+19-11-08 03:22:28 [sT.- YnGwi3] Come'on!
+19-11-08 03:22:28 (RADIO)[sT.- YnGwi3] Enemy flagger down!
+19-11-08 03:22:29 (1) Shatelia killed (2) sk!T.Rattle with M79
+19-11-08 03:22:30 (RADIO)[sT.- YnGwi3] Enemy flagger down!
+19-11-08 03:22:31 [sk!T.Rattle] no te creo
+19-11-08 03:22:32 (RADIO)[sT.- YnGwi3] Friendly flagger middle!
+19-11-08 03:22:32 sT.- YnGwi3 captured the Red Flag
+19-11-08 03:22:33 (1) Drsoldat killed (2) nP [KillMe!] with Grenade
+19-11-08 03:22:33 (2) sT.- YnGwi3 killed (1) Shatelia with Spas-12
+19-11-08 03:22:35 (TEAM)[nP [KillMe!]] mid csm
+19-11-08 03:22:36 (2) sk!T.Rattle killed (1) Drsoldat with Ruger 77
+19-11-08 03:22:37 (TEAM)[Drsoldat] INC LOW KILL THEM!
+19-11-08 03:22:37 [Shatelia] la magia
+19-11-08 03:22:41 Drsoldat captured the Blue Flag
+19-11-08 03:22:43 (2) nP [KillMe!] killed (1) Drsoldat with Grenade
+19-11-08 03:22:44 (2) nP [KillMe!] killed (1) Shatelia with Steyr AUG
+19-11-08 03:22:45 (2) nP [KillMe!] killed (1) Enigma with Steyr AUG
+19-11-08 03:22:46 (TEAM)[Drsoldat] INC HIGH KILL THEM!
+19-11-08 03:22:47 sk!T.Rattle returned the Blue Flag
+19-11-08 03:22:48 (1) Drsoldat killed (2) sk!T.Rattle with FN Minimi
+19-11-08 03:22:49 (2) sk!T.Rattle killed (1) Drsoldat with Grenade
+19-11-08 03:22:50 sT.- YnGwi3 scores for Bravo Team
+19-11-08 03:22:52 (2) sT.- YnGwi3 killed (1) Shatelia with Grenade
+19-11-08 03:22:52 (1) Enigma killed (2) nP [KillMe!] with Spas-12
+19-11-08 03:22:56 (1) Enigma killed (2) sT.- YnGwi3 with Combat Knife
+19-11-08 03:22:58 (RADIO)[sT.- YnGwi3] Enemy spotted up!
+19-11-08 03:23:01 (RADIO)[sT.- YnGwi3] Enemy spotted middle!
+19-11-08 03:23:02 (2) sk!T.Rattle killed (1) Shatelia with Grenade
+19-11-08 03:23:04 (2) nP [KillMe!] killed (1) Enigma with Steyr AUG
+19-11-08 03:23:05 (1) Drsoldat killed (2) sk!T.Rattle with FN Minimi
+19-11-08 03:23:06 (RADIO)[sk!T.Rattle] Enemy spotted down!
+19-11-08 03:23:09 (2) nP [KillMe!] killed (1) Drsoldat with Steyr AUG
+19-11-08 03:23:09 (RADIO)[Shatelia] INC MID
+19-11-08 03:23:10 sT.- YnGwi3 captured the Red Flag
+19-11-08 03:23:12 (1) Enigma killed (2) sT.- YnGwi3 with Combat Knife
+19-11-08 03:23:13 [sT.- YnGwi3] Die!
+19-11-08 03:23:14 Enigma returned the Red Flag
+19-11-08 03:23:16 (1) Shatelia killed (2) nP [KillMe!] with M79
+19-11-08 03:23:16 (TEAM)[nP [KillMe!]] ^Enemies Top!
+19-11-08 03:23:17 (1) Drsoldat killed (2) sk!T.Rattle with Spas-12
+19-11-08 03:23:19 (2) sT.- YnGwi3 killed (1) Shatelia with Grenade
+19-11-08 03:23:20 (RADIO)[sk!T.Rattle] Enemy spotted down!
+19-11-08 03:23:22 (1) Drsoldat killed (2) sT.- YnGwi3 with LAW
+19-11-08 03:23:23 (RADIO)[sT.- YnGwi3] Enemy spotted down!
+19-11-08 03:23:24 (2) sk!T.Rattle killed (1) Drsoldat with Steyr AUG
+19-11-08 03:23:29 (2) sT.- YnGwi3 killed (1) Enigma with Spas-12
+19-11-08 03:23:30 (1) Drsoldat killed (2) sk!T.Rattle with Spas-12
+19-11-08 03:23:31 (2) sT.- YnGwi3 killed (1) Shatelia with Hands
+19-11-08 03:23:32 (RADIO)[sk!T.Rattle] Enemy spotted up!
+19-11-08 03:23:35 (1) Drsoldat killed (2) nP [KillMe!] with Grenade
+19-11-08 03:23:38 (2) sT.- YnGwi3 killed (1) Shatelia with Spas-12
+19-11-08 03:23:39 (TEAM)[Shatelia] |B A S E|
+19-11-08 03:23:39 sT.- YnGwi3 captured the Red Flag
+19-11-08 03:23:40 (1) Drsoldat killed (2) sk!T.Rattle with Spas-12
+19-11-08 03:23:42 Drsoldat captured the Blue Flag
+19-11-08 03:23:42 (TEAM)[sk!T.Rattle] base 1
+19-11-08 03:23:43 (2) nP [KillMe!] killed (1) Drsoldat with Steyr AUG
+19-11-08 03:23:45 sk!T.Rattle returned the Blue Flag
+19-11-08 03:23:48 (1) Enigma killed (2) sk!T.Rattle with Spas-12
+19-11-08 03:23:48 sT.- YnGwi3 captured the Red Flag
+19-11-08 03:23:50 (1) Enigma killed (2) sT.- YnGwi3 with Spas-12
+19-11-08 03:23:51 [sT.- YnGwi3] No!
+19-11-08 03:23:52 Shatelia returned the Red Flag
+19-11-08 03:23:52 Shatelia captured the Blue Flag
+19-11-08 03:23:53 (2) nP [KillMe!] killed (1) Shatelia with Steyr AUG
+19-11-08 03:23:54 (TEAM)[Shatelia] Help our flagger!
+19-11-08 03:23:54 Enigma captured the Blue Flag
+19-11-08 03:23:54 (1) Drsoldat killed (2) sk!T.Rattle with Grenade
+19-11-08 03:23:55 (TEAM)[Shatelia] FF LOW
+19-11-08 03:23:56 (1) Drsoldat killed (2) nP [KillMe!] with Spas-12
+19-11-08 03:24:00 (1) Drsoldat killed (2) sk!T.Rattle with Spas-12
+19-11-08 03:24:00 Enigma scores for Alpha Team
+19-11-08 03:24:04 (2) sT.- YnGwi3 killed (1) Shatelia with Combat Knife
+19-11-08 03:24:06 (RADIO)[Shatelia] INC TOP
+19-11-08 03:24:07 (1) Enigma killed (2) sT.- YnGwi3 with Grenade
+19-11-08 03:24:09 (1) Drsoldat killed (2) nP [KillMe!] with LAW
+19-11-08 03:24:11 (2) sk!T.Rattle killed (1) Drsoldat with Grenade
+19-11-08 03:24:12 (TEAM)[Drsoldat] INC MID KILL THEM!
+19-11-08 03:24:14 (2) sT.- YnGwi3 killed (1) Shatelia with Spas-12
+19-11-08 03:24:15 (RADIO)[Shatelia] INC TOP
+19-11-08 03:24:16 (TEAM)[Shatelia] 2
+19-11-08 03:24:17 (RADIO)[sT.- YnGwi3] Enemy spotted down!
+19-11-08 03:24:19 (2) sk!T.Rattle killed (1) Enigma with Combat Knife
+19-11-08 03:24:20 sT.- YnGwi3 captured the Red Flag
+19-11-08 03:24:21 [Enigma] wtf
+19-11-08 03:24:21 (2) nP [KillMe!] killed (1) Shatelia with Steyr AUG
+19-11-08 03:24:21 (1) Shatelia killed (2) nP [KillMe!] with M79
+19-11-08 03:24:22 [Enigma] llager
+19-11-08 03:24:22 (RADIO)[Shatelia] INC TOP
+19-11-08 03:24:22 (TEAM)[Shatelia] EFC TOP
+19-11-08 03:24:23 Drsoldat captured the Blue Flag
+19-11-08 03:24:24 (TEAM)[Shatelia] Help our flagger!
+19-11-08 03:24:24 (TEAM)[Shatelia] EFC TOP
+19-11-08 03:24:26 (RADIO)[sT.- YnGwi3] Friendly flagger up!
+19-11-08 03:24:27 (1) Enigma killed (2) nP [KillMe!] with Spas-12
+19-11-08 03:24:28 (1) Enigma killed (2) sT.- YnGwi3 with Spas-12
+19-11-08 03:24:29 [sT.- YnGwi3] Die!
+19-11-08 03:24:29 [sT.- YnGwi3] No!
+19-11-08 03:24:30 (1) Shatelia killed (2) sk!T.Rattle with M79
+19-11-08 03:24:30 Enigma returned the Red Flag
+19-11-08 03:24:32 Drsoldat scores for Alpha Team
+19-11-08 03:24:34 (2) nP [KillMe!] killed (1) Shatelia with Steyr AUG
+19-11-08 03:24:34 Enigma captured the Blue Flag
+19-11-08 03:24:34 (2) nP [KillMe!] killed (1) Enigma with Grenade
+19-11-08 03:24:39 sT.- YnGwi3 captured the Red Flag
+19-11-08 03:24:40 (2) nP [KillMe!] killed (1) Drsoldat with Steyr AUG
+19-11-08 03:24:41 (1) Shatelia killed (2) nP [KillMe!] with Combat Knife
+19-11-08 03:24:42 Time Left: 5 minutes
+19-11-08 03:24:42 (TEAM)[Drsoldat] EFC GOING LOW - KILL HIM!
+19-11-08 03:24:42 (1) Enigma killed (2) sT.- YnGwi3 with Steyr AUG
+19-11-08 03:24:44 (2) sk!T.Rattle killed (1) Enigma with Ruger 77
+19-11-08 03:24:45 nP [KillMe!] returned the Blue Flag
+19-11-08 03:24:45 Shatelia captured the Blue Flag
+19-11-08 03:24:46 (1) Drsoldat killed (2) sk!T.Rattle with Spas-12
+19-11-08 03:24:48 (RADIO)[sk!T.Rattle] Enemy spotted up!
+19-11-08 03:24:48 (TEAM)[Shatelia] FF TOP
+19-11-08 03:24:48 (2) nP [KillMe!] killed (1) Shatelia with Steyr AUG
+19-11-08 03:24:49 (TEAM)[Shatelia] Help our flagger!
+19-11-08 03:24:50 Drsoldat captured the Blue Flag
+19-11-08 03:24:50 (2) nP [KillMe!] killed (1) Drsoldat with Grenade
+19-11-08 03:24:52 sT.- YnGwi3 captured the Red Flag
+19-11-08 03:24:54 nP [KillMe!] returned the Blue Flag
+19-11-08 03:24:54 (1) Enigma killed (2) nP [KillMe!] with FN Minimi
+19-11-08 03:24:54 [sT.- YnGwi3] Yes, Sir!
+19-11-08 03:24:56 (2) sk!T.Rattle killed (1) Enigma with Grenade
+19-11-08 03:24:56 sk!T.Rattle captured the Red Flag
+19-11-08 03:24:59 (RADIO)[Shatelia] INC TOP
+19-11-08 03:25:01 (1) Drsoldat killed (2) sk!T.Rattle with Spas-12
+19-11-08 03:25:02 (2) sT.- YnGwi3 killed (1) Drsoldat with Spas-12
+19-11-08 03:25:02 (2) nP [KillMe!] killed (1) Shatelia with Steyr AUG
+19-11-08 03:25:02 Enigma returned the Red Flag
+19-11-08 03:25:03 (1) Enigma killed (2) sT.- YnGwi3 with FN Minimi
+19-11-08 03:25:03 [sT.- YnGwi3] Die!
+19-11-08 03:25:04 (2) sT.- YnGwi3 killed (1) Enigma with Grenade
+19-11-08 03:25:05 [sT.- YnGwi3] Come'on!
+19-11-08 03:25:05 [sT.- YnGwi3] No!
+19-11-08 03:25:10 (2) nP [KillMe!] killed (1) Drsoldat with Combat Knife
+19-11-08 03:25:10 (RADIO)[Shatelia] INC MID
+19-11-08 03:25:11 (2) sT.- YnGwi3 killed (1) Shatelia with Spas-12
+19-11-08 03:25:13 sk!T.Rattle captured the Red Flag
+19-11-08 03:25:13 (1) Enigma killed (2) nP [KillMe!] with FN Minimi
+19-11-08 03:25:15 (2) sk!T.Rattle killed (1) Enigma with Ruger 77
+19-11-08 03:25:16 (RADIO)[Enigma] Friendly flagger middle!
+19-11-08 03:25:18 (1) Drsoldat killed (2) sk!T.Rattle with Grenade
+19-11-08 03:25:21 (1) Drsoldat killed (2) sT.- YnGwi3 with LAW
+19-11-08 03:25:21 [sT.- YnGwi3] Die!
+19-11-08 03:25:22 (2) nP [KillMe!] killed (1) Drsoldat with Steyr AUG
+19-11-08 03:25:23 (TEAM)[Drsoldat] INC MID KILL THEM!
+19-11-08 03:25:23 (1) Enigma killed (2) nP [KillMe!] with Combat Knife
+19-11-08 03:25:24 Enigma returned the Red Flag
+19-11-08 03:25:25 (RADIO)[sT.- YnGwi3] Enemy spotted up!
+19-11-08 03:25:26 Shatelia captured the Blue Flag
+19-11-08 03:25:27 (2) sT.- YnGwi3 killed (1) Shatelia with Spas-12
+19-11-08 03:25:27 (1) Drsoldat killed (2) sk!T.Rattle with Grenade
+19-11-08 03:25:28 (TEAM)[Shatelia] FF MID
+19-11-08 03:25:28 (2) sk!T.Rattle killed (1) Drsoldat with Grenade
+19-11-08 03:25:28 (TEAM)[Shatelia] Help our flagger!
+19-11-08 03:25:29 sT.- YnGwi3 returned the Blue Flag
+19-11-08 03:25:32 (1) Enigma killed (2) nP [KillMe!] with HK MP5
+19-11-08 03:25:33 sT.- YnGwi3 captured the Red Flag
+19-11-08 03:25:34 (2) sk!T.Rattle killed (1) Enigma with Ruger 77
+19-11-08 03:25:37 (1) Drsoldat killed (2) sT.- YnGwi3 with Spas-12
+19-11-08 03:25:38 (2) sk!T.Rattle killed (1) Drsoldat with Ruger 77
+19-11-08 03:25:38 [sT.- YnGwi3] No!
+19-11-08 03:25:39 (1) Enigma killed (2) sk!T.Rattle with Grenade
+19-11-08 03:25:40 Enigma returned the Red Flag
+19-11-08 03:25:41 (RADIO)[sk!T.Rattle] Enemy spotted middle!
+19-11-08 03:25:42 Time Left: 4 minutes
+19-11-08 03:25:44 (2) nP [KillMe!] killed (1) Shatelia with Steyr AUG
+19-11-08 03:25:47 (1) Enigma killed (2) sk!T.Rattle with HK MP5
+19-11-08 03:25:49 (RADIO)[sk!T.Rattle] Enemy spotted up!
+19-11-08 03:25:50 Drsoldat captured the Blue Flag
+19-11-08 03:25:51 sT.- YnGwi3 captured the Red Flag
+19-11-08 03:25:51 (1) Drsoldat killed (2) nP [KillMe!] with Spas-12
+19-11-08 03:25:51 (2) sT.- YnGwi3 killed (1) Shatelia with Spas-12
+19-11-08 03:25:52 (TEAM)[nP [KillMe!]] ^Enemies Low!
+19-11-08 03:25:52 (TEAM)[nP [KillMe!]] ^Enemies Mid!
+19-11-08 03:25:53 (TEAM)[Shatelia] EFC MID
+19-11-08 03:25:55 (2) sT.- YnGwi3 killed (1) Drsoldat with Spas-12
+19-11-08 03:25:57 (1) Enigma killed (2) sT.- YnGwi3 with Grenade
+19-11-08 03:25:57 (1) Shatelia killed (2) sk!T.Rattle with Grenade
+19-11-08 03:25:58 [sT.- YnGwi3] No!
+19-11-08 03:25:58 (RADIO)[sT.- YnGwi3] Friendly flagger middle!
+19-11-08 03:25:59 (RADIO)[sT.- YnGwi3] Friendly flagger middle!
+19-11-08 03:25:59 (TEAM)[Shatelia] Help our flagger!
+19-11-08 03:25:59 (2) nP [KillMe!] killed (1) Enigma with Steyr AUG
+19-11-08 03:26:01 Drsoldat captured the Blue Flag
+19-11-08 03:26:02 (2) nP [KillMe!] killed (1) Shatelia with Grenade
+19-11-08 03:26:03 (RADIO)[Shatelia] INC TOP
+19-11-08 03:26:03 Drsoldat returned the Red Flag
+19-11-08 03:26:05 Drsoldat scores for Alpha Team
+19-11-08 03:26:05 (2) nP [KillMe!] killed (1) Drsoldat with Combat Knife
+19-11-08 03:26:06 (1) Enigma killed (2) nP [KillMe!] with HK MP5
+19-11-08 03:26:08 (1) Enigma killed (2) sT.- YnGwi3 with HK MP5
+19-11-08 03:26:08 (2) sk!T.Rattle killed (1) Enigma with Ruger 77
+19-11-08 03:26:09 (2) sk!T.Rattle killed (1) Shatelia with Ruger 77
+19-11-08 03:26:10 sk!T.Rattle captured the Red Flag
+19-11-08 03:26:10 (TEAM)[nP [KillMe!]] limpien wn
+19-11-08 03:26:12 [Enigma] Die!
+19-11-08 03:26:12 [Shatelia] xD
+19-11-08 03:26:13 [sk!T.Rattle] pero la conchrtuematre
+19-11-08 03:26:15 (1) Drsoldat killed (2) nP [KillMe!] with Spas-12
+19-11-08 03:26:16 (TEAM)[nP [KillMe!]] ^Enemies Top!
+19-11-08 03:26:19 (2) sT.- YnGwi3 killed (1) Shatelia with Spas-12
+19-11-08 03:26:19 sT.- YnGwi3 captured the Red Flag
+19-11-08 03:26:19 Drsoldat captured the Blue Flag
+19-11-08 03:26:20 (2) sk!T.Rattle killed (1) Drsoldat with Grenade
+19-11-08 03:26:22 (1) Enigma killed (2) sT.- YnGwi3 with FN Minimi
+19-11-08 03:26:23 (TEAM)[Drsoldat] FFC MID - HELP AND CLEAR THE BASE!!
+19-11-08 03:26:26 Enigma returned the Red Flag
+19-11-08 03:26:27 sk!T.Rattle returned the Blue Flag
+19-11-08 03:26:27 (2) nP [KillMe!] killed (1) Shatelia with Steyr AUG
+19-11-08 03:26:28 (2) sT.- YnGwi3 killed (1) Drsoldat with Spas-12
+19-11-08 03:26:29 (1) Enigma killed (2) nP [KillMe!] with FN Minimi
+19-11-08 03:26:29 (2) nP [KillMe!] killed (1) Enigma with Combat Knife
+19-11-08 03:26:30 (TEAM)[Shatelia] |B A S E|
+19-11-08 03:26:30 (TEAM)[Drsoldat] INC LOW KILL THEM!
+19-11-08 03:26:31 sk!T.Rattle captured the Red Flag
+19-11-08 03:26:33 (1) Shatelia killed (2) sT.- YnGwi3 with HK MP5
+19-11-08 03:26:34 (RADIO)[sT.- YnGwi3] Enemy spotted down!
+19-11-08 03:26:34 (RADIO)[sT.- YnGwi3] Enemy spotted down!
+19-11-08 03:26:34 (2) nP [KillMe!] killed (1) Shatelia with Steyr AUG
+19-11-08 03:26:36 (2) nP [KillMe!] killed (1) Drsoldat with Steyr AUG
+19-11-08 03:26:37 (1) Enigma killed (2) sk!T.Rattle with FN Minimi
+19-11-08 03:26:38 [Drsoldat] Yes, Sir!
+19-11-08 03:26:40 sT.- YnGwi3 captured the Red Flag
+19-11-08 03:26:41 [sk!T.Rattle] por la espadl
+19-11-08 03:26:42 Time Left: 3 minutes
+19-11-08 03:26:42 (2) nP [KillMe!] killed (1) Enigma with Steyr AUG
+19-11-08 03:26:42 (2) sk!T.Rattle killed (1) Shatelia with Hands
+19-11-08 03:26:43 sT.- YnGwi3 scores for Bravo Team
+19-11-08 03:26:48 (1) Drsoldat killed (2) nP [KillMe!] with LAW
+19-11-08 03:26:49 (1) Shatelia killed (2) sk!T.Rattle with HK MP5
+19-11-08 03:26:50 (RADIO)[sk!T.Rattle] Enemy spotted up!
+19-11-08 03:26:51 (RADIO)[sT.- YnGwi3] Enemy spotted up!
+19-11-08 03:26:53 (1) Shatelia killed (2) sT.- YnGwi3 with Combat Knife
+19-11-08 03:26:55 (1) Shatelia killed (2) nP [KillMe!] with Grenade
+19-11-08 03:26:56 (1) Enigma killed (2) sk!T.Rattle with FN Minimi
+19-11-08 03:26:56 (2) sk!T.Rattle killed (1) Shatelia with Grenade
+19-11-08 03:26:56 (TEAM)[nP [KillMe!]] ^[BASE HOT]
+19-11-08 03:26:57 [Shatelia] Oki Doki!
+19-11-08 03:26:59 (1) Enigma killed (2) sT.- YnGwi3 with Grenade
+19-11-08 03:27:01 [sT.- YnGwi3] No!
+19-11-08 03:27:01 (2) nP [KillMe!] killed (1) Drsoldat with Steyr AUG
+19-11-08 03:27:03 [sT.- YnGwi3] Yes, Sir!
+19-11-08 03:27:04 (RADIO)[Enigma] Enemy spotted up!
+19-11-08 03:27:04 Shatelia captured the Blue Flag
+19-11-08 03:27:06 (1) Enigma killed (2) sk!T.Rattle with Grenade
+19-11-08 03:27:09 nP [KillMe!] returned the Blue Flag
+19-11-08 03:27:09 (RADIO)[sk!T.Rattle] Enemy spotted up!
+19-11-08 03:27:12 (2) sk!T.Rattle killed (1) Shatelia with Ruger 77
+19-11-08 03:27:12 (1) Enigma killed (2) nP [KillMe!] with FN Minimi
+19-11-08 03:27:13 (TEAM)[Shatelia] Help our flagger!
+19-11-08 03:27:13 (TEAM)[nP [KillMe!]] ^[BASE HOT]
+19-11-08 03:27:13 (1) Drsoldat killed (2) sk!T.Rattle with LAW
+19-11-08 03:27:16 (TEAM)[Shatelia] dale
+19-11-08 03:27:17 Drsoldat captured the Blue Flag
+19-11-08 03:27:18 (TEAM)[Shatelia] Help our flagger!
+19-11-08 03:27:21 (TEAM)[Shatelia] |B A S E|
+19-11-08 03:27:21 nP [KillMe!] returned the Blue Flag
+19-11-08 03:27:22 (2) sk!T.Rattle killed (1) Drsoldat with Ruger 77
+19-11-08 03:27:23 sT.- YnGwi3 captured the Red Flag
+19-11-08 03:27:24 (1) Enigma killed (2) sT.- YnGwi3 with FN Minimi
+19-11-08 03:27:27 (1) Enigma killed (2) nP [KillMe!] with FN Minimi
+19-11-08 03:27:28 (1) Drsoldat killed (2) sk!T.Rattle with LAW
+19-11-08 03:27:28 (TEAM)[nP [KillMe!]] ^Enemies Top!
+19-11-08 03:27:30 (2) sT.- YnGwi3 killed (1) Enigma with Spas-12
+19-11-08 03:27:32 (2) sT.- YnGwi3 killed (1) Shatelia with Grenade
+19-11-08 03:27:34 (1) Drsoldat killed (2) sT.- YnGwi3 with Grenade
+19-11-08 03:27:35 (1) Drsoldat killed (2) nP [KillMe!] with Spas-12
+19-11-08 03:27:36 (TEAM)[nP [KillMe!]] ^Enemies Top!
+19-11-08 03:27:37 (2) sT.- YnGwi3 killed (1) Drsoldat with Grenade
+19-11-08 03:27:39 sk!T.Rattle captured the Red Flag
+19-11-08 03:27:41 (RADIO)[sT.- YnGwi3] Friendly flagger middle!
+19-11-08 03:27:42 Time Left: 2 minutes
+19-11-08 03:27:42 (1) Shatelia killed (2) sk!T.Rattle with Grenade
+19-11-08 03:27:42 (RADIO)[sT.- YnGwi3] Friendly flagger middle!
+19-11-08 03:27:43 (TEAM)[Shatelia] CLEAR! ATTACK NOW!
+19-11-08 03:27:44 Shatelia returned the Red Flag
+19-11-08 03:27:44 (RADIO)[sT.- YnGwi3] Enemy spotted down!
+19-11-08 03:27:45 (RADIO)[sT.- YnGwi3] Enemy spotted down!
+19-11-08 03:27:46 Drsoldat captured the Blue Flag
+19-11-08 03:27:47 (1) Enigma killed (2) sT.- YnGwi3 with Grenade
+19-11-08 03:27:48 (2) sk!T.Rattle killed (1) Drsoldat with Grenade
+19-11-08 03:27:48 [sT.- YnGwi3] Die!
+19-11-08 03:27:48 (1) Shatelia killed (2) nP [KillMe!] with HK MP5
+19-11-08 03:27:48 (2) nP [KillMe!] killed (1) Shatelia with Steyr AUG
+19-11-08 03:27:50 (TEAM)[Drsoldat] FFC MID - HELP AND CLEAR THE BASE!!
+19-11-08 03:27:51 (TEAM)[Shatelia] FF MID
+19-11-08 03:27:53 sk!T.Rattle returned the Blue Flag
+19-11-08 03:27:57 (1) Drsoldat killed (2) sk!T.Rattle with Spas-12
+19-11-08 03:27:57 (2) nP [KillMe!] killed (1) Enigma with Steyr AUG
+19-11-08 03:27:58 (RADIO)[sk!T.Rattle] Enemy spotted up!
+19-11-08 03:27:59 (RADIO)[Enigma] Enemy spotted up!
+19-11-08 03:27:59 (RADIO)[sk!T.Rattle] Enemy spotted middle!
+19-11-08 03:28:00 Shatelia captured the Blue Flag
+19-11-08 03:28:00 (1) Drsoldat killed (2) nP [KillMe!] with Spas-12
+19-11-08 03:28:01 sT.- YnGwi3 captured the Red Flag
+19-11-08 03:28:02 (TEAM)[nP [KillMe!]] ^[BASE CLEAR]
+19-11-08 03:28:02 (TEAM)[nP [KillMe!]] ^Enemies Top!
+19-11-08 03:28:03 (1) Enigma killed (2) sT.- YnGwi3 with FN Minimi
+19-11-08 03:28:03 (RADIO)[sT.- YnGwi3] Friendly flagger middle!
+19-11-08 03:28:04 sk!T.Rattle returned the Blue Flag
+19-11-08 03:28:06 Drsoldat captured the Blue Flag
+19-11-08 03:28:06 (RADIO)[sT.- YnGwi3] Friendly flagger middle!
+19-11-08 03:28:07 (2) nP [KillMe!] killed (1) Drsoldat with Steyr AUG
+19-11-08 03:28:07 Enigma returned the Red Flag
+19-11-08 03:28:09 (2) nP [KillMe!] killed (1) Shatelia with Combat Knife
+19-11-08 03:28:09 nP [KillMe!] returned the Blue Flag
+19-11-08 03:28:11 sk!T.Rattle captured the Red Flag
+19-11-08 03:28:12 (1) Enigma killed (2) nP [KillMe!] with Combat Knife
+19-11-08 03:28:12 (TEAM)[Shatelia] EFC TOP
+19-11-08 03:28:13 (TEAM)[nP [KillMe!]] ^Enemies Top!
+19-11-08 03:28:13 (TEAM)[nP [KillMe!]] ^[BASE HOT]
+19-11-08 03:28:14 (RADIO)[sT.- YnGwi3] Enemy spotted down!
+19-11-08 03:28:16 sk!T.Rattle scores for Bravo Team
+19-11-08 03:28:16 (1) Drsoldat killed (2) sT.- YnGwi3 with Grenade
+19-11-08 03:28:17 Enigma captured the Blue Flag
+19-11-08 03:28:18 (1) Enigma killed (2) sk!T.Rattle with FN Minimi
+19-11-08 03:28:18 (RADIO)[sT.- YnGwi3] Enemy flagger middle!
+19-11-08 03:28:19 (1) Drsoldat killed (2) nP [KillMe!] with Spas-12
+19-11-08 03:28:21 (1) Drsoldat killed (2) sT.- YnGwi3 with LAW
+19-11-08 03:28:21 (2) sT.- YnGwi3 killed (1) Shatelia with Spas-12
+19-11-08 03:28:22 Enigma scores for Alpha Team
+19-11-08 03:28:23 (RADIO)[Shatelia] INC LOW
+19-11-08 03:28:24 (2) sk!T.Rattle killed (1) Drsoldat with Ruger 77
+19-11-08 03:28:24 (1) Drsoldat killed (2) sk!T.Rattle with Grenade
+19-11-08 03:28:25 [Drsoldat] You're one ugly mother fu**er!
+19-11-08 03:28:30 (RADIO)[sT.- YnGwi3] Enemy spotted up!
+19-11-08 03:28:30 (1) Shatelia killed (2) sT.- YnGwi3 with HK MP5
+19-11-08 03:28:32 (1) Shatelia killed (2) nP [KillMe!] with HK MP5
+19-11-08 03:28:32 Enigma captured the Blue Flag
+19-11-08 03:28:33 (TEAM)[nP [KillMe!]] ^Enemies Top!
+19-11-08 03:28:34 (TEAM)[nP [KillMe!]] ^[BASE CLEAR]
+19-11-08 03:28:34 (TEAM)[nP [KillMe!]] ^[BASE HOT]
+19-11-08 03:28:35 sk!T.Rattle captured the Red Flag
+19-11-08 03:28:36 (TEAM)[Shatelia] EFC TOP
+19-11-08 03:28:36 (2) sT.- YnGwi3 killed (1) Shatelia with Spas-12
+19-11-08 03:28:38 (1) Drsoldat killed (2) sk!T.Rattle with Spas-12
+19-11-08 03:28:39 (RADIO)[Shatelia] INC TOP
+19-11-08 03:28:39 (2) sT.- YnGwi3 killed (1) Drsoldat with Grenade
+19-11-08 03:28:40 [Drsoldat] Yes, Sir!
+19-11-08 03:28:41 Enigma returned the Red Flag
+19-11-08 03:28:41 (2) sT.- YnGwi3 killed (1) Enigma with Spas-12
+19-11-08 03:28:41 sT.- YnGwi3 captured the Red Flag
+19-11-08 03:28:42 Time Left: 1 minutes
+19-11-08 03:28:42 (1) Shatelia killed (2) nP [KillMe!] with HK MP5
+19-11-08 03:28:45 sT.- YnGwi3 returned the Blue Flag
+19-11-08 03:28:46 (1) Drsoldat killed (2) sT.- YnGwi3 with Spas-12
+19-11-08 03:28:48 (TEAM)[Shatelia] Help our flagger!
+19-11-08 03:28:49 Drsoldat returned the Red Flag
+19-11-08 03:28:49 (TEAM)[Shatelia] EFC?
+19-11-08 03:28:50 (1) Shatelia killed (2) sk!T.Rattle with HK MP5
+19-11-08 03:28:51 (RADIO)[sk!T.Rattle] Enemy spotted middle!
+19-11-08 03:28:53 (1) Enigma killed (2) nP [KillMe!] with Grenade
+19-11-08 03:28:54 Drsoldat captured the Blue Flag
+19-11-08 03:28:54 (TEAM)[nP [KillMe!]] ^[BASE HOT]
+19-11-08 03:28:56 (2) sT.- YnGwi3 killed (1) Drsoldat with Spas-12
+19-11-08 03:28:57 (1) Enigma killed (2) sT.- YnGwi3 with Steyr AUG
+19-11-08 03:28:57 Shatelia captured the Blue Flag
+19-11-08 03:28:58 (2) sk!T.Rattle killed (1) Shatelia with Ak-74
+19-11-08 03:28:59 (RADIO)[sT.- YnGwi3] Friendly flagger up!
+19-11-08 03:29:00 (1) Enigma killed (2) sk!T.Rattle with Steyr AUG
+19-11-08 03:29:00 (TEAM)[Shatelia] FF MID
+19-11-08 03:29:01 (RADIO)[sT.- YnGwi3] Friendly flagger middle!
+19-11-08 03:29:01 (2) nP [KillMe!] killed (1) Enigma with Steyr AUG
+19-11-08 03:29:01 (TEAM)[Shatelia] Help our flagger!
+19-11-08 03:29:01 (TEAM)[Shatelia] FF MID
+19-11-08 03:29:03 Drsoldat captured the Blue Flag
+19-11-08 03:29:04 (2) nP [KillMe!] killed (1) Drsoldat with Grenade
+19-11-08 03:29:05 [Drsoldat] Yes, Sir!
+19-11-08 03:29:06 (2) nP [KillMe!] killed (1) Shatelia with Combat Knife
+19-11-08 03:29:07 nP [KillMe!] returned the Blue Flag
+19-11-08 03:29:10 (2) sk!T.Rattle killed (1) Enigma with Ruger 77
+19-11-08 03:29:12 (2) sT.- YnGwi3 killed (1) Shatelia with Grenade
+19-11-08 03:29:12 sk!T.Rattle captured the Red Flag
+19-11-08 03:29:13 (1) Drsoldat killed (2) sT.- YnGwi3 with Grenade
+19-11-08 03:29:13 (TEAM)[Shatelia] Help our flagger!
+19-11-08 03:29:14 (2) sk!T.Rattle killed (1) Drsoldat with Ruger 77
+19-11-08 03:29:15 (RADIO)[sT.- YnGwi3] Friendly flagger middle!
+19-11-08 03:29:15 (TEAM)[Drsoldat] EFC GOING MID- KILL HIM!
+19-11-08 03:29:15 (TEAM)[Shatelia] EFC MID
+19-11-08 03:29:16 (RADIO)[sT.- YnGwi3] Enemy spotted down!
+19-11-08 03:29:17 (1) Enigma killed (2) sk!T.Rattle with M79
+19-11-08 03:29:19 (1) Enigma killed (2) sT.- YnGwi3 with Combat Knife
+19-11-08 03:29:19 (2) nP [KillMe!] killed (1) Enigma with Steyr AUG
+19-11-08 03:29:22 Shatelia captured the Blue Flag
+19-11-08 03:29:23 (1) Drsoldat killed (2) nP [KillMe!] with Spas-12
+19-11-08 03:29:26 sk!T.Rattle captured the Red Flag
+19-11-08 03:29:27 (1) Drsoldat killed (2) sT.- YnGwi3 with Spas-12
+19-11-08 03:29:28 (RADIO)[sT.- YnGwi3] Enemy flagger down!
+19-11-08 03:29:28 Drsoldat captured the Blue Flag
+19-11-08 03:29:30 (2) sk!T.Rattle killed (1) Shatelia with Ruger 77
+19-11-08 03:29:30 (2) nP [KillMe!] killed (1) Drsoldat with Steyr AUG
+19-11-08 03:29:32 [Drsoldat] You're one ugly mother fu**er!
+19-11-08 03:29:32 [Drsoldat] Hurraaaa!!!
+19-11-08 03:29:33 nP [KillMe!] returned the Blue Flag
+19-11-08 03:29:33 Enigma captured the Blue Flag
+19-11-08 03:29:34 (2) sT.- YnGwi3 killed (1) Enigma with Grenade
+19-11-08 03:29:34 (TEAM)[Shatelia] Throw it!
+19-11-08 03:29:39 (2) sT.- YnGwi3 killed (1) Shatelia with Spas-12
+19-11-08 03:29:39 sk!T.Rattle scores for Bravo Team
+19-11-08 03:29:41 [sk!T.Rattle] GEGE
+19-11-08 03:29:42 Next map: Lobby
+19-11-08 03:29:42 [Drsoldat] lag woin
+19-11-08 03:29:43 [sT.- YnGwi3] Yes, Sir!
+19-11-08 03:29:43 [Enigma] gg
+19-11-08 03:29:43 [Drsoldat] Yes, Sir!
+19-11-08 03:29:45 Shatelia has left alpha team.
+19-11-08 03:29:46 sk!T.Rattle has left bravo team.
+19-11-08 03:29:46 Enigma has left alpha team.
+19-11-08 03:29:46 Drsoldat has left alpha team.
+19-11-08 03:29:47 Lothic - Gothic Lobby Room
+19-11-08 03:29:47 nP [KillMe!] has left bravo team.
+19-11-08 03:29:48 sT.- YnGwi3 has left bravo team.
+19-11-08 03:31:54 Admin connected (81.242.38.106).
+19-11-08 03:31:54 /maxplayers (81.242.38.106)
+19-11-08 03:31:54 Max players is 16
+19-11-08 03:31:54 /maxrespawntime (81.242.38.106)
+19-11-08 03:31:54 Maximum Respawn time is 5 seconds
+19-11-08 03:31:54 /respawntime (81.242.38.106)
+19-11-08 03:31:54 Respawn time is 3 seconds
+19-11-08 03:31:54 /limit (81.242.38.106)
+19-11-08 03:31:54 Current kill/point/capture limit is 10
+19-11-08 03:31:54 /timelimit (81.242.38.106)
+19-11-08 03:31:54 Current time limit is 10 minutes
+19-11-08 03:31:54 /friendlyfire (81.242.38.106)
+19-11-08 03:31:54 Friendly Fire is 0
+19-11-08 03:31:54 /scripting (81.242.38.106)
+19-11-08 03:31:54 Scripting is currently Enabled (1)
+19-11-08 03:31:54 /balance (81.242.38.106)
+19-11-08 03:31:54 Bot Balance is off (0)
+19-11-08 03:31:54 /bonus (81.242.38.106)
+19-11-08 03:31:54 Current bonus frequency is 0
+19-11-08 03:31:54 /vote% (81.242.38.106)
+19-11-08 03:31:54 Voting percent is 60
+19-11-08 03:34:47 Time Left: 5 minutes
+19-11-08 03:35:47 Time Left: 4 minutes
+19-11-08 03:36:47 Time Left: 3 minutes
+19-11-08 03:37:47 Time Left: 2 minutes
+19-11-08 03:38:47 Time Left: 1 minutes
+19-11-08 03:39:47 Next map: Lobby
+19-11-08 03:39:52 Lothic - Gothic Lobby Room
+19-11-08 03:40:52 ITS NOT ME ITS THE SERVR has left spectators
+19-11-08 03:44:52 Time Left: 5 minutes
+19-11-08 03:45:52 Time Left: 4 minutes
+19-11-08 03:46:52 Time Left: 3 minutes
+19-11-08 03:47:52 Time Left: 2 minutes
+19-11-08 03:48:52 Time Left: 1 minutes
+19-11-08 03:49:52 Next map: Lobby
+19-11-08 03:49:58 Lothic - Gothic Lobby Room
+19-11-08 03:54:58 Time Left: 5 minutes
+19-11-08 03:55:58 Time Left: 4 minutes
+19-11-08 03:56:58 Time Left: 3 minutes
+19-11-08 03:57:58 Time Left: 2 minutes
+19-11-08 03:58:58 Time Left: 1 minutes
+19-11-08 03:59:58 Next map: Lobby
+19-11-08 04:00:03 Lothic - Gothic Lobby Room
+19-11-08 04:05:03 Time Left: 5 minutes
+19-11-08 04:06:03 Time Left: 4 minutes
+19-11-08 04:07:03 Time Left: 3 minutes
+19-11-08 04:08:03 Time Left: 2 minutes
+19-11-08 04:09:03 Time Left: 1 minutes
+19-11-08 04:10:03 Next map: Lobby
+19-11-08 04:10:08 Lothic - Gothic Lobby Room
+19-11-08 04:15:08 Time Left: 5 minutes
+19-11-08 04:16:08 Time Left: 4 minutes
+19-11-08 04:17:08 Time Left: 3 minutes
+19-11-08 04:18:08 Time Left: 2 minutes
+19-11-08 04:19:08 Time Left: 1 minutes
+19-11-08 04:20:08 Next map: Lobby
+19-11-08 04:20:13 Lothic - Gothic Lobby Room
+19-11-08 04:25:13 Time Left: 5 minutes
+19-11-08 04:26:13 Time Left: 4 minutes
+19-11-08 04:27:13 Time Left: 3 minutes
+19-11-08 04:28:13 Time Left: 2 minutes
+19-11-08 04:29:13 Time Left: 1 minutes
+19-11-08 04:30:13 Next map: Lobby
+19-11-08 04:30:19 Lothic - Gothic Lobby Room
+19-11-08 04:35:19 Time Left: 5 minutes
+19-11-08 04:36:19 Time Left: 4 minutes
+19-11-08 04:37:19 Time Left: 3 minutes
+19-11-08 04:38:19 Time Left: 2 minutes
+19-11-08 04:39:19 Time Left: 1 minutes
+19-11-08 04:40:19 Next map: Lobby
+19-11-08 04:40:24 Lothic - Gothic Lobby Room
+19-11-08 04:45:24 Time Left: 5 minutes
+19-11-08 04:46:24 Time Left: 4 minutes
+19-11-08 04:47:24 Time Left: 3 minutes
+19-11-08 04:48:24 Time Left: 2 minutes
+19-11-08 04:49:24 Time Left: 1 minutes
+19-11-08 04:50:24 Next map: Lobby
+19-11-08 04:50:29 Lothic - Gothic Lobby Room
+19-11-08 04:55:29 Time Left: 5 minutes
+19-11-08 04:56:29 Time Left: 4 minutes
+19-11-08 04:57:29 Time Left: 3 minutes
+19-11-08 04:58:29 Time Left: 2 minutes
+19-11-08 04:59:29 Time Left: 1 minutes
+19-11-08 05:00:29 Next map: Lobby
+19-11-08 05:00:35 Lothic - Gothic Lobby Room
+19-11-08 05:05:35 Time Left: 5 minutes
+19-11-08 05:06:35 Time Left: 4 minutes
+19-11-08 05:07:35 Time Left: 3 minutes
+19-11-08 05:08:35 Time Left: 2 minutes
+19-11-08 05:09:35 Time Left: 1 minutes
+19-11-08 05:10:35 Next map: Lobby
+19-11-08 05:10:40 Lothic - Gothic Lobby Room
+19-11-08 05:15:40 Time Left: 5 minutes
+19-11-08 05:16:40 Time Left: 4 minutes
+19-11-08 05:17:40 Time Left: 3 minutes
+19-11-08 05:18:40 Time Left: 2 minutes
+19-11-08 05:19:40 Time Left: 1 minutes
+19-11-08 05:20:40 Next map: Lobby
+19-11-08 05:20:45 Lothic - Gothic Lobby Room
+19-11-08 05:25:45 Time Left: 5 minutes
+19-11-08 05:26:45 Time Left: 4 minutes
+19-11-08 05:27:45 Time Left: 3 minutes
+19-11-08 05:28:45 Time Left: 2 minutes
+19-11-08 05:29:45 Time Left: 1 minutes
+19-11-08 05:30:45 Next map: Lobby
+19-11-08 05:30:51 Lothic - Gothic Lobby Room
+19-11-08 05:35:51 Time Left: 5 minutes
+19-11-08 05:36:51 Time Left: 4 minutes
+19-11-08 05:37:51 Time Left: 3 minutes
+19-11-08 05:38:51 Time Left: 2 minutes
+19-11-08 05:39:51 Time Left: 1 minutes
+19-11-08 05:40:51 Next map: Lobby
+19-11-08 05:40:56 Lothic - Gothic Lobby Room
+19-11-08 05:45:56 Time Left: 5 minutes
+19-11-08 05:46:56 Time Left: 4 minutes
+19-11-08 05:47:56 Time Left: 3 minutes
+19-11-08 05:48:56 Time Left: 2 minutes
+19-11-08 05:49:56 Time Left: 1 minutes
+19-11-08 05:50:56 Next map: Lobby
+19-11-08 05:51:01 Lothic - Gothic Lobby Room
+19-11-08 05:56:01 Time Left: 5 minutes
+19-11-08 05:57:01 Time Left: 4 minutes
+19-11-08 05:58:01 Time Left: 3 minutes
+19-11-08 05:59:01 Time Left: 2 minutes
+19-11-08 06:00:01 Time Left: 1 minutes
+19-11-08 06:01:01 Next map: Lobby
+19-11-08 06:01:07 Lothic - Gothic Lobby Room
+19-11-08 06:06:07 Time Left: 5 minutes
+19-11-08 06:07:07 Time Left: 4 minutes
+19-11-08 06:08:07 Time Left: 3 minutes
+19-11-08 06:09:07 Time Left: 2 minutes
+19-11-08 06:10:07 Time Left: 1 minutes
+19-11-08 06:11:07 Next map: Lobby
+19-11-08 06:11:12 Lothic - Gothic Lobby Room
+19-11-08 06:16:12 Time Left: 5 minutes
+19-11-08 06:17:12 Time Left: 4 minutes
+19-11-08 06:18:12 Time Left: 3 minutes
+19-11-08 06:19:12 Time Left: 2 minutes
+19-11-08 06:20:12 Time Left: 1 minutes
+19-11-08 06:21:12 Next map: Lobby
+19-11-08 06:21:17 Lothic - Gothic Lobby Room
+19-11-08 06:26:17 Time Left: 5 minutes
+19-11-08 06:27:17 Time Left: 4 minutes
+19-11-08 06:28:17 Time Left: 3 minutes
+19-11-08 06:29:17 Time Left: 2 minutes
+19-11-08 06:30:17 Time Left: 1 minutes
+19-11-08 06:31:17 Next map: Lobby
+19-11-08 06:31:23 Lothic - Gothic Lobby Room
+19-11-08 06:36:23 Time Left: 5 minutes
+19-11-08 06:37:23 Time Left: 4 minutes
+19-11-08 06:38:23 Time Left: 3 minutes
+19-11-08 06:39:23 Time Left: 2 minutes
+19-11-08 06:40:23 Time Left: 1 minutes
+19-11-08 06:41:23 Next map: Lobby
+19-11-08 06:41:28 Lothic - Gothic Lobby Room
+19-11-08 06:46:28 Time Left: 5 minutes
+19-11-08 06:47:28 Time Left: 4 minutes
+19-11-08 06:48:28 Time Left: 3 minutes
+19-11-08 06:49:28 Time Left: 2 minutes
+19-11-08 06:50:28 Time Left: 1 minutes
+19-11-08 06:51:28 Next map: Lobby
+19-11-08 06:51:33 Lothic - Gothic Lobby Room
+19-11-08 06:56:33 Time Left: 5 minutes
+19-11-08 06:57:33 Time Left: 4 minutes
+19-11-08 06:58:33 Time Left: 3 minutes
+19-11-08 06:59:33 Time Left: 2 minutes
+19-11-08 07:00:33 Time Left: 1 minutes
+19-11-08 07:01:33 Next map: Lobby
+19-11-08 07:01:39 Lothic - Gothic Lobby Room
+19-11-08 07:06:39 Time Left: 5 minutes
+19-11-08 07:07:39 Time Left: 4 minutes
+19-11-08 07:08:39 Time Left: 3 minutes
+19-11-08 07:09:39 Time Left: 2 minutes
+19-11-08 07:10:39 Time Left: 1 minutes
+19-11-08 07:11:39 Next map: Lobby
+19-11-08 07:11:44 Lothic - Gothic Lobby Room
+19-11-08 07:16:44 Time Left: 5 minutes
+19-11-08 07:17:44 Time Left: 4 minutes
+19-11-08 07:18:44 Time Left: 3 minutes
+19-11-08 07:19:44 Time Left: 2 minutes
+19-11-08 07:20:44 Time Left: 1 minutes
+19-11-08 07:21:44 Next map: Lobby
+19-11-08 07:21:49 Lothic - Gothic Lobby Room
+19-11-08 07:26:49 Time Left: 5 minutes
+19-11-08 07:27:49 Time Left: 4 minutes
+19-11-08 07:28:49 Time Left: 3 minutes
+19-11-08 07:29:49 Time Left: 2 minutes
+19-11-08 07:30:49 Time Left: 1 minutes
+19-11-08 07:31:49 Next map: Lobby
+19-11-08 07:31:55 Lothic - Gothic Lobby Room
+19-11-08 07:36:54 Time Left: 5 minutes
+19-11-08 07:37:54 Time Left: 4 minutes
+19-11-08 07:38:54 Time Left: 3 minutes
+19-11-08 07:39:54 Time Left: 2 minutes
+19-11-08 07:40:54 Time Left: 1 minutes
+19-11-08 07:41:54 Next map: Lobby
+19-11-08 07:42:00 Lothic - Gothic Lobby Room
+19-11-08 07:47:00 Time Left: 5 minutes
+19-11-08 07:48:00 Time Left: 4 minutes
+19-11-08 07:49:00 Time Left: 3 minutes
+19-11-08 07:50:00 Time Left: 2 minutes
+19-11-08 07:51:00 Time Left: 1 minutes
+19-11-08 07:52:00 Next map: Lobby
+19-11-08 07:52:05 Lothic - Gothic Lobby Room
+19-11-08 07:57:05 Time Left: 5 minutes
+19-11-08 07:58:05 Time Left: 4 minutes
+19-11-08 07:59:05 Time Left: 3 minutes
+19-11-08 08:00:05 Time Left: 2 minutes
+19-11-08 08:01:05 Time Left: 1 minutes
+19-11-08 08:02:05 Next map: Lobby
+19-11-08 08:02:10 Lothic - Gothic Lobby Room
+19-11-08 08:07:10 Time Left: 5 minutes
+19-11-08 08:08:10 Time Left: 4 minutes
+19-11-08 08:09:10 Time Left: 3 minutes
+19-11-08 08:10:10 Time Left: 2 minutes
+19-11-08 08:11:10 Time Left: 1 minutes
+19-11-08 08:12:10 Next map: Lobby
+19-11-08 08:12:16 Lothic - Gothic Lobby Room
+19-11-08 08:17:16 Time Left: 5 minutes
+19-11-08 08:18:16 Time Left: 4 minutes
+19-11-08 08:19:16 Time Left: 3 minutes
+19-11-08 08:20:16 Time Left: 2 minutes
+19-11-08 08:21:16 Time Left: 1 minutes
+19-11-08 08:22:16 Next map: Lobby
+19-11-08 08:22:21 Lothic - Gothic Lobby Room
+19-11-08 08:27:21 Time Left: 5 minutes
+19-11-08 08:28:21 Time Left: 4 minutes
+19-11-08 08:29:21 Time Left: 3 minutes
+19-11-08 08:30:21 Time Left: 2 minutes
+19-11-08 08:31:21 Time Left: 1 minutes
+19-11-08 08:32:21 Next map: Lobby
+19-11-08 08:32:26 Lothic - Gothic Lobby Room
+19-11-08 08:37:26 Time Left: 5 minutes
+19-11-08 08:38:26 Time Left: 4 minutes
+19-11-08 08:39:26 Time Left: 3 minutes
+19-11-08 08:40:26 Time Left: 2 minutes
+19-11-08 08:41:26 Time Left: 1 minutes
+19-11-08 08:42:26 Next map: Lobby
+19-11-08 08:42:32 Lothic - Gothic Lobby Room
+19-11-08 08:47:32 Time Left: 5 minutes
+19-11-08 08:48:32 Time Left: 4 minutes
+19-11-08 08:49:32 Time Left: 3 minutes
+19-11-08 08:50:32 Time Left: 2 minutes
+19-11-08 08:51:32 Time Left: 1 minutes
+19-11-08 08:52:32 Next map: Lobby
+19-11-08 08:52:37 Lothic - Gothic Lobby Room
+19-11-08 08:57:37 Time Left: 5 minutes
+19-11-08 08:58:37 Time Left: 4 minutes
+19-11-08 08:59:37 Time Left: 3 minutes
+19-11-08 09:00:37 Time Left: 2 minutes
+19-11-08 09:01:37 Time Left: 1 minutes
+19-11-08 09:02:37 Next map: Lobby
+19-11-08 09:02:42 Lothic - Gothic Lobby Room
+19-11-08 09:07:42 Time Left: 5 minutes
+19-11-08 09:08:42 Time Left: 4 minutes
+19-11-08 09:09:42 Time Left: 3 minutes
+19-11-08 09:10:42 Time Left: 2 minutes
+19-11-08 09:11:42 Time Left: 1 minutes
+19-11-08 09:12:42 Next map: Lobby
+19-11-08 09:12:48 Lothic - Gothic Lobby Room
+19-11-08 09:17:48 Time Left: 5 minutes
+19-11-08 09:18:48 Time Left: 4 minutes
+19-11-08 09:19:48 Time Left: 3 minutes
+19-11-08 09:20:48 Time Left: 2 minutes
+19-11-08 09:21:48 Time Left: 1 minutes
+19-11-08 09:22:48 Next map: Lobby
+19-11-08 09:22:53 Lothic - Gothic Lobby Room
+19-11-08 09:27:53 Time Left: 5 minutes
+19-11-08 09:28:53 Time Left: 4 minutes
+19-11-08 09:29:53 Time Left: 3 minutes
+19-11-08 09:30:53 Time Left: 2 minutes
+19-11-08 09:31:53 Time Left: 1 minutes
+19-11-08 09:32:53 Next map: Lobby
+19-11-08 09:32:58 Lothic - Gothic Lobby Room
+19-11-08 09:37:58 Time Left: 5 minutes
+19-11-08 09:38:58 Time Left: 4 minutes
+19-11-08 09:39:58 Time Left: 3 minutes
+19-11-08 09:40:58 Time Left: 2 minutes
+19-11-08 09:41:58 Time Left: 1 minutes
+19-11-08 09:42:58 Next map: Lobby
+19-11-08 09:43:04 Lothic - Gothic Lobby Room
+19-11-08 09:48:04 Time Left: 5 minutes
+19-11-08 09:49:04 Time Left: 4 minutes
+19-11-08 09:50:04 Time Left: 3 minutes
+19-11-08 09:51:04 Time Left: 2 minutes
+19-11-08 09:52:04 Time Left: 1 minutes
+19-11-08 09:53:04 Next map: Lobby
+19-11-08 09:53:09 Lothic - Gothic Lobby Room
+19-11-08 09:58:09 Time Left: 5 minutes
+19-11-08 09:59:09 Time Left: 4 minutes
+19-11-08 10:00:09 Time Left: 3 minutes
+19-11-08 10:01:09 Time Left: 2 minutes
+19-11-08 10:02:09 Time Left: 1 minutes
+19-11-08 10:03:09 Next map: Lobby
+19-11-08 10:03:14 Lothic - Gothic Lobby Room
+19-11-08 10:08:14 Time Left: 5 minutes
+19-11-08 10:09:14 Time Left: 4 minutes
+19-11-08 10:10:14 Time Left: 3 minutes
+19-11-08 10:11:14 Time Left: 2 minutes
+19-11-08 10:12:14 Time Left: 1 minutes
+19-11-08 10:13:14 Next map: Lobby
+19-11-08 10:13:20 Lothic - Gothic Lobby Room
+19-11-08 10:18:20 Time Left: 5 minutes
+19-11-08 10:19:20 Time Left: 4 minutes
+19-11-08 10:20:20 Time Left: 3 minutes
+19-11-08 10:21:20 Time Left: 2 minutes
+19-11-08 10:22:20 Time Left: 1 minutes
+19-11-08 10:23:20 Next map: Lobby
+19-11-08 10:23:25 Lothic - Gothic Lobby Room
+19-11-08 10:28:25 Time Left: 5 minutes
+19-11-08 10:29:25 Time Left: 4 minutes
+19-11-08 10:30:25 Time Left: 3 minutes
+19-11-08 10:31:25 Time Left: 2 minutes
+19-11-08 10:32:25 Time Left: 1 minutes
+19-11-08 10:33:25 Next map: Lobby
+19-11-08 10:33:30 Lothic - Gothic Lobby Room
+19-11-08 10:38:30 Time Left: 5 minutes
+19-11-08 10:39:30 Time Left: 4 minutes
+19-11-08 10:40:30 Time Left: 3 minutes
+19-11-08 10:41:30 Time Left: 2 minutes
+19-11-08 10:42:30 Time Left: 1 minutes
+19-11-08 10:43:30 Next map: Lobby
+19-11-08 10:43:36 Lothic - Gothic Lobby Room
+19-11-08 10:48:36 Time Left: 5 minutes
+19-11-08 10:49:36 Time Left: 4 minutes
+19-11-08 10:50:36 Time Left: 3 minutes
+19-11-08 10:51:36 Time Left: 2 minutes
+19-11-08 10:52:36 Time Left: 1 minutes
+19-11-08 10:53:35 Next map: Lobby
+19-11-08 10:53:41 Lothic - Gothic Lobby Room
+19-11-08 10:58:41 Time Left: 5 minutes
+19-11-08 10:59:41 Time Left: 4 minutes
+19-11-08 11:00:41 Time Left: 3 minutes
+19-11-08 11:01:41 Time Left: 2 minutes
+19-11-08 11:02:41 Time Left: 1 minutes
+19-11-08 11:03:41 Next map: Lobby
+19-11-08 11:03:46 Lothic - Gothic Lobby Room
+19-11-08 11:08:46 Time Left: 5 minutes
+19-11-08 11:09:46 Time Left: 4 minutes
+19-11-08 11:10:46 Time Left: 3 minutes
+19-11-08 11:11:46 Time Left: 2 minutes
+19-11-08 11:12:46 Time Left: 1 minutes
+19-11-08 11:13:46 Next map: Lobby
+19-11-08 11:13:51 Lothic - Gothic Lobby Room
+19-11-08 11:18:51 Time Left: 5 minutes
+19-11-08 11:19:51 Time Left: 4 minutes
+19-11-08 11:20:51 Time Left: 3 minutes
+19-11-08 11:21:51 Time Left: 2 minutes
+19-11-08 11:22:51 Time Left: 1 minutes
+19-11-08 11:23:51 Next map: Lobby
+19-11-08 11:23:57 Lothic - Gothic Lobby Room
+19-11-08 11:28:57 Time Left: 5 minutes
+19-11-08 11:29:57 Time Left: 4 minutes
+19-11-08 11:30:57 Time Left: 3 minutes
+19-11-08 11:31:57 Time Left: 2 minutes
+19-11-08 11:32:57 Time Left: 1 minutes
+19-11-08 11:33:57 Next map: Lobby
+19-11-08 11:34:02 Lothic - Gothic Lobby Room
+19-11-08 11:39:02 Time Left: 5 minutes
+19-11-08 11:40:02 Time Left: 4 minutes
+19-11-08 11:41:02 Time Left: 3 minutes
+19-11-08 11:42:02 Time Left: 2 minutes
+19-11-08 11:43:02 Time Left: 1 minutes
+19-11-08 11:44:02 Next map: Lobby
+19-11-08 11:44:07 Lothic - Gothic Lobby Room
+19-11-08 11:49:07 Time Left: 5 minutes
+19-11-08 11:50:07 Time Left: 4 minutes
+19-11-08 11:51:07 Time Left: 3 minutes
+19-11-08 11:52:07 Time Left: 2 minutes
+19-11-08 11:53:07 Time Left: 1 minutes
+19-11-08 11:54:07 Next map: Lobby
+19-11-08 11:54:13 Lothic - Gothic Lobby Room
+19-11-08 11:59:13 Time Left: 5 minutes
+19-11-08 12:00:13 Time Left: 4 minutes
+19-11-08 12:01:13 Time Left: 3 minutes
+19-11-08 12:02:13 Time Left: 2 minutes
+19-11-08 12:03:13 Time Left: 1 minutes
+19-11-08 12:04:13 Next map: Lobby
+19-11-08 12:04:18 Lothic - Gothic Lobby Room
+19-11-08 12:09:18 Time Left: 5 minutes
+19-11-08 12:10:18 Time Left: 4 minutes
+19-11-08 12:11:18 Time Left: 3 minutes
+19-11-08 12:12:18 Time Left: 2 minutes
+19-11-08 12:13:18 Time Left: 1 minutes
+19-11-08 12:14:18 Next map: Lobby
+19-11-08 12:14:23 Lothic - Gothic Lobby Room
+19-11-08 12:19:23 Time Left: 5 minutes
+19-11-08 12:20:23 Time Left: 4 minutes
+19-11-08 12:21:23 Time Left: 3 minutes
+19-11-08 12:22:23 Time Left: 2 minutes
+19-11-08 12:23:23 Time Left: 1 minutes
+19-11-08 12:24:23 Next map: Lobby
+19-11-08 12:24:29 Lothic - Gothic Lobby Room
+19-11-08 12:29:29 Time Left: 5 minutes
+19-11-08 12:30:29 Time Left: 4 minutes
+19-11-08 12:31:29 Time Left: 3 minutes
+19-11-08 12:32:29 Time Left: 2 minutes
+19-11-08 12:33:29 Time Left: 1 minutes
+19-11-08 12:34:29 Next map: Lobby
+19-11-08 12:34:34 Lothic - Gothic Lobby Room
+19-11-08 12:39:34 Time Left: 5 minutes
+19-11-08 12:40:34 Time Left: 4 minutes
+19-11-08 12:41:34 Time Left: 3 minutes
+19-11-08 12:42:34 Time Left: 2 minutes
+19-11-08 12:43:34 Time Left: 1 minutes
+19-11-08 12:44:34 Next map: Lobby
+19-11-08 12:44:39 Lothic - Gothic Lobby Room
+19-11-08 12:49:39 Time Left: 5 minutes
+19-11-08 12:50:39 Time Left: 4 minutes
+19-11-08 12:51:39 Time Left: 3 minutes
+19-11-08 12:52:39 Time Left: 2 minutes
+19-11-08 12:53:39 Time Left: 1 minutes
+19-11-08 12:54:39 Next map: Lobby
+19-11-08 12:54:45 Lothic - Gothic Lobby Room
+19-11-08 12:59:45 Time Left: 5 minutes
+19-11-08 13:00:45 Time Left: 4 minutes
+19-11-08 13:01:45 Time Left: 3 minutes
+19-11-08 13:02:45 Time Left: 2 minutes
+19-11-08 13:03:45 Time Left: 1 minutes
+19-11-08 13:04:45 Next map: Lobby
+19-11-08 13:04:50 Lothic - Gothic Lobby Room
+19-11-08 13:09:50 Time Left: 5 minutes
+19-11-08 13:10:50 Time Left: 4 minutes
+19-11-08 13:11:50 Time Left: 3 minutes
+19-11-08 13:12:50 Time Left: 2 minutes
+19-11-08 13:13:50 Time Left: 1 minutes
+19-11-08 13:14:50 Next map: Lobby
+19-11-08 13:14:55 Lothic - Gothic Lobby Room
+19-11-08 13:19:55 Time Left: 5 minutes
+19-11-08 13:20:55 Time Left: 4 minutes
+19-11-08 13:21:55 Time Left: 3 minutes
+19-11-08 13:22:55 Time Left: 2 minutes
+19-11-08 13:23:55 Time Left: 1 minutes
+19-11-08 13:24:55 Next map: Lobby
+19-11-08 13:25:01 Lothic - Gothic Lobby Room
+19-11-08 13:30:01 Time Left: 5 minutes
+19-11-08 13:31:01 Time Left: 4 minutes
+19-11-08 13:32:01 Time Left: 3 minutes
+19-11-08 13:33:01 Time Left: 2 minutes
+19-11-08 13:34:01 Time Left: 1 minutes
+19-11-08 13:35:01 Next map: Lobby
+19-11-08 13:35:06 Lothic - Gothic Lobby Room
+19-11-08 13:40:06 Time Left: 5 minutes
+19-11-08 13:41:06 Time Left: 4 minutes
+19-11-08 13:42:06 Time Left: 3 minutes
+19-11-08 13:43:06 Time Left: 2 minutes
+19-11-08 13:44:06 Time Left: 1 minutes
+19-11-08 13:45:06 Next map: Lobby
+19-11-08 13:45:11 Lothic - Gothic Lobby Room
+19-11-08 13:50:11 Time Left: 5 minutes
+19-11-08 13:51:11 Time Left: 4 minutes
+19-11-08 13:52:11 Time Left: 3 minutes
+19-11-08 13:53:11 Time Left: 2 minutes
+19-11-08 13:54:11 Time Left: 1 minutes
+19-11-08 13:55:11 Next map: Lobby
+19-11-08 13:55:17 Lothic - Gothic Lobby Room
+19-11-08 14:00:17 Time Left: 5 minutes
+19-11-08 14:01:17 Time Left: 4 minutes
+19-11-08 14:02:17 Time Left: 3 minutes
+19-11-08 14:03:17 Time Left: 2 minutes
+19-11-08 14:04:17 Time Left: 1 minutes
+19-11-08 14:05:17 Next map: Lobby
+19-11-08 14:05:22 Lothic - Gothic Lobby Room
+19-11-08 14:10:22 Time Left: 5 minutes
+19-11-08 14:11:22 Time Left: 4 minutes
+19-11-08 14:12:22 Time Left: 3 minutes
+19-11-08 14:13:22 Time Left: 2 minutes
+19-11-08 14:14:22 Time Left: 1 minutes
+19-11-08 14:15:22 Next map: Lobby
+19-11-08 14:15:27 Lothic - Gothic Lobby Room
+19-11-08 14:20:27 Time Left: 5 minutes
+19-11-08 14:21:27 Time Left: 4 minutes
+19-11-08 14:22:27 Time Left: 3 minutes
+19-11-08 14:23:27 Time Left: 2 minutes
+19-11-08 14:24:27 Time Left: 1 minutes
+19-11-08 14:25:27 Next map: Lobby
+19-11-08 14:25:32 Lothic - Gothic Lobby Room
+19-11-08 14:30:32 Time Left: 5 minutes
+19-11-08 14:31:32 Time Left: 4 minutes
+19-11-08 14:32:32 Time Left: 3 minutes
+19-11-08 14:33:32 Time Left: 2 minutes
+19-11-08 14:34:32 Time Left: 1 minutes
+19-11-08 14:35:32 Next map: Lobby
+19-11-08 14:35:38 Lothic - Gothic Lobby Room
+19-11-08 14:40:38 Time Left: 5 minutes
+19-11-08 14:41:38 Time Left: 4 minutes
+19-11-08 14:42:38 Time Left: 3 minutes
+19-11-08 14:43:38 Time Left: 2 minutes
+19-11-08 14:44:38 Time Left: 1 minutes
+19-11-08 14:45:38 Next map: Lobby
+19-11-08 14:45:43 Lothic - Gothic Lobby Room
+19-11-08 14:50:43 Time Left: 5 minutes
+19-11-08 14:51:43 Time Left: 4 minutes
+19-11-08 14:52:43 Time Left: 3 minutes
+19-11-08 14:53:43 Time Left: 2 minutes
+19-11-08 14:54:43 Time Left: 1 minutes
+19-11-08 14:55:43 Next map: Lobby
+19-11-08 14:55:48 Lothic - Gothic Lobby Room
+19-11-08 15:00:48 Time Left: 5 minutes
+19-11-08 15:01:48 Time Left: 4 minutes
+19-11-08 15:02:48 Time Left: 3 minutes
+19-11-08 15:03:48 Time Left: 2 minutes
+19-11-08 15:04:48 Time Left: 1 minutes
+19-11-08 15:05:48 Next map: Lobby
+19-11-08 15:05:54 Lothic - Gothic Lobby Room
+19-11-08 15:10:54 Time Left: 5 minutes
+19-11-08 15:11:54 Time Left: 4 minutes
+19-11-08 15:12:54 Time Left: 3 minutes
+19-11-08 15:13:54 Time Left: 2 minutes
+19-11-08 15:14:54 Time Left: 1 minutes
+19-11-08 15:15:54 Next map: Lobby
+19-11-08 15:15:59 Lothic - Gothic Lobby Room
+19-11-08 15:20:59 Time Left: 5 minutes
+19-11-08 15:21:59 Time Left: 4 minutes
+19-11-08 15:22:59 Time Left: 3 minutes
+19-11-08 15:23:59 Time Left: 2 minutes
+19-11-08 15:24:59 Time Left: 1 minutes
+19-11-08 15:25:59 Next map: Lobby
+19-11-08 15:26:04 Lothic - Gothic Lobby Room
+19-11-08 15:31:04 Time Left: 5 minutes
+19-11-08 15:32:04 Time Left: 4 minutes
+19-11-08 15:33:04 Time Left: 3 minutes
+19-11-08 15:34:04 Time Left: 2 minutes
+19-11-08 15:35:04 Time Left: 1 minutes
+19-11-08 15:36:04 Next map: Lobby
+19-11-08 15:36:10 Lothic - Gothic Lobby Room

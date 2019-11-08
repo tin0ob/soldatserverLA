@@ -1,0 +1,1357 @@
+19-06-08 06:39:49    Kill Log Started
+--- 19-06-12 04:04:17
+Nazaraza
+Major(1)
+Ak-74
+--- 19-06-12 04:04:36
+Major
+Major(1)
+Steyr AUG
+--- 19-06-12 04:04:48
+Major(1)
+Nazaraza
+Steyr AUG
+--- 19-06-12 04:04:56
+Nazaraza
+Major(1)
+Ak-74
+--- 19-06-12 04:05:03
+Major(1)
+Nazaraza
+Steyr AUG
+--- 19-06-12 04:05:15
+Nazaraza
+Major(1)
+Ak-74
+--- 19-06-12 04:05:40
+Mr. T
+Major(1)
+Barrett M82A1
+--- 19-06-12 04:05:43
+mocha
+Mr. T
+Steyr AUG
+--- 19-06-12 04:06:02
+mocha
+Nazaraza
+Grenade
+--- 19-06-12 04:06:07
+Mr. T
+mocha
+Desert Eagles
+--- 19-06-12 04:06:07
+Major(1)
+Mr. T
+Steyr AUG
+--- 19-06-12 04:06:15
+mocha
+Nazaraza
+Steyr AUG
+--- 19-06-12 04:06:19
+Mr. T
+mocha
+Desert Eagles
+--- 19-06-12 04:06:23
+Mr. T
+Major(1)
+Desert Eagles
+--- 19-06-12 04:06:27
+mocha
+Nazaraza
+Steyr AUG
+--- 19-06-12 04:06:32
+Mr. T
+mocha
+Desert Eagles
+--- 19-06-12 04:06:37
+Nazaraza
+Major(1)
+M79
+--- 19-06-12 04:06:40
+Mr. T
+mocha
+Desert Eagles
+--- 19-06-12 04:06:40
+mocha
+Mr. T
+Steyr AUG
+--- 19-06-12 04:06:47
+Nazaraza
+Major(1)
+M79
+--- 19-06-12 04:06:48
+mocha
+Mr. T
+Steyr AUG
+--- 19-06-12 04:06:54
+Mr. T
+mocha
+Grenade
+--- 19-06-12 04:06:57
+Major(1)
+Mr. T
+Spas-12
+--- 19-06-12 04:06:57
+Mr. T
+Major(1)
+Desert Eagles
+--- 19-06-12 04:07:07
+mocha
+Nazaraza
+Steyr AUG
+--- 19-06-12 04:07:16
+Nazaraza
+Major(1)
+M79
+--- 19-06-12 04:07:31
+Bob Lee Swagger
+mocha
+Grenade
+--- 19-06-12 04:07:34
+Bob Lee Swagger
+Major(1)
+Barrett M82A1
+--- 19-06-12 04:07:41
+mocha
+Nazaraza
+Grenade
+--- 19-06-12 04:07:47
+Bob Lee Swagger
+mocha
+Grenade
+--- 19-06-12 04:07:48
+Bob Lee Swagger
+Major(1)
+Barrett M82A1
+--- 19-06-12 04:07:53
+Bob Lee Swagger
+mocha
+Barrett M82A1
+--- 19-06-12 04:07:54
+Nazaraza
+Major(1)
+M79
+--- 19-06-12 04:08:07
+Nazaraza
+mocha
+Grenade
+--- 19-06-12 04:08:12
+Nazaraza
+Nazaraza
+Grenade
+--- 19-06-12 04:08:23
+Bob Lee Swagger
+mocha
+Chainsaw
+--- 19-06-12 04:08:25
+Major(1)
+Bob Lee Swagger
+HK MP5
+--- 19-06-12 04:08:27
+Nazaraza
+Major(1)
+M79
+--- 19-06-12 04:08:35
+Nazaraza
+Major(1)
+M79
+--- 19-06-12 04:08:43
+Bob Lee Swagger
+Major(1)
+Chainsaw
+--- 19-06-12 04:08:43
+Major(1)
+Bob Lee Swagger
+HK MP5
+--- 19-06-12 04:08:46
+Nazaraza
+mocha
+M79
+--- 19-06-12 04:08:51
+Bob Lee Swagger
+Major(1)
+Barrett M82A1
+--- 19-06-12 04:09:13
+mocha
+Nazaraza
+Steyr AUG
+--- 19-06-12 04:09:14
+Major(1)
+Bob Lee Swagger
+Ak-74
+--- 19-06-12 04:09:24
+Bob Lee Swagger
+mocha
+Barrett M82A1
+--- 19-06-12 04:09:28
+Bob Lee Swagger
+Major(1)
+Grenade
+--- 19-06-12 04:09:36
+Bob Lee Swagger
+mocha
+Barrett M82A1
+--- 19-06-12 04:09:42
+Major(1)
+Nazaraza
+Ak-74
+--- 19-06-12 04:09:54
+Bob Lee Swagger
+Major(1)
+Chainsaw
+--- 19-06-12 04:09:54
+Bob Lee Swagger
+mocha
+Chainsaw
+--- 19-06-12 04:10:03
+Bob Lee Swagger
+mocha
+Grenade
+--- 19-06-12 04:10:09
+Bob Lee Swagger
+Major(1)
+Barrett M82A1
+--- 19-06-12 04:10:15
+mocha
+Bob Lee Swagger
+Grenade
+--- 19-06-12 04:10:27
+Nazaraza
+mocha
+XM214 Minigun
+--- 19-06-12 04:10:27
+mocha
+Nazaraza
+Steyr AUG
+--- 19-06-12 04:10:27
+Bob Lee Swagger
+Major(1)
+Barrett M82A1
+--- 19-06-12 04:10:39
+Bob Lee Swagger
+Major(1)
+Barrett M82A1
+--- 19-06-12 04:10:45
+Bob Lee Swagger
+mocha
+Grenade
+--- 19-06-12 04:10:55
+Bob Lee Swagger
+mocha
+Barrett M82A1
+--- 19-06-12 04:10:56
+Nazaraza
+Major(1)
+XM214 Minigun
+--- 19-06-12 04:11:06
+mocha
+Nazaraza
+Steyr AUG
+--- 19-06-12 04:11:07
+Bob Lee Swagger
+mocha
+Barrett M82A1
+--- 19-06-12 04:11:11
+Bob Lee Swagger
+Major(1)
+Barrett M82A1
+--- 19-06-12 04:11:18
+Nazaraza
+mocha
+Barrett M82A1
+--- 19-06-12 04:11:22
+Bob Lee Swagger
+Major(1)
+Chainsaw
+--- 19-06-12 04:11:27
+Bob Lee Swagger
+mocha
+Barrett M82A1
+--- 19-06-12 04:11:35
+Nazaraza
+Major(1)
+Barrett M82A1
+--- 19-06-12 04:11:37
+Bob Lee Swagger
+mocha
+Barrett M82A1
+--- 19-06-12 04:11:43
+Nazaraza
+Major(1)
+Barrett M82A1
+--- 19-06-12 04:11:43
+Nazaraza
+mocha
+Barrett M82A1
+--- 19-06-12 04:11:47
+Bob Lee Swagger
+mocha
+Barrett M82A1
+--- 19-06-12 04:11:54
+Bob Lee Swagger
+Major(1)
+Barrett M82A1
+--- 19-06-12 04:11:59
+Bob Lee Swagger
+mocha
+Grenade
+--- 19-06-12 04:12:08
+Bob Lee Swagger
+mocha
+Grenade
+--- 19-06-12 04:12:10
+Bob Lee Swagger
+Major(1)
+Barrett M82A1
+--- 19-06-12 04:12:20
+mocha
+Bob Lee Swagger
+Hands
+--- 19-06-12 04:12:29
+Bob Lee Swagger
+mocha
+Chainsaw
+--- 19-06-12 04:12:35
+Bob Lee Swagger
+mocha
+Barrett M82A1
+--- 19-06-12 04:12:39
+Bob Lee Swagger
+Nazaraza
+Barrett M82A1
+--- 19-06-12 04:12:42
+Bob Lee Swagger
+Major(1)
+Chainsaw
+--- 19-06-12 04:12:45
+mocha
+Bob Lee Swagger
+Ak-74
+--- 19-06-12 04:12:52
+Bob Lee Swagger
+Nazaraza
+Barrett M82A1
+--- 19-06-12 04:12:56
+Bob Lee Swagger
+Major(1)
+Barrett M82A1
+--- 19-06-12 04:12:57
+Bob Lee Swagger
+Nazaraza
+Chainsaw
+--- 19-06-12 04:13:02
+mocha
+Bob Lee Swagger
+Grenade
+--- 19-06-12 04:13:12
+Nazaraza
+Bob Lee Swagger
+M79
+--- 19-06-12 04:13:25
+Bob Lee Swagger
+Nazaraza
+Barrett M82A1
+--- 19-06-12 04:13:25
+Bob Lee Swagger
+mocha
+Barrett M82A1
+--- 19-06-12 04:13:46
+SnowCrash
+Nazaraza
+M79
+--- 19-06-12 04:13:49
+SnowCrash
+mocha
+M79
+--- 19-06-12 04:13:55
+Bob Lee Swagger
+Nazaraza
+Barrett M82A1
+--- 19-06-12 04:14:01
+SnowCrash
+mocha
+M79
+--- 19-06-12 04:14:04
+SnowCrash
+Nazaraza
+M79
+--- 19-06-12 04:14:09
+Bob Lee Swagger
+mocha
+Barrett M82A1
+--- 19-06-12 04:14:12
+Bob Lee Swagger
+Nazaraza
+Grenade
+--- 19-06-12 04:14:18
+SnowCrash
+mocha
+M79
+--- 19-06-12 04:14:25
+Nazaraza
+SnowCrash
+M79
+--- 19-06-12 04:14:36
+mocha
+Bob Lee Swagger
+Ak-74
+--- 19-06-12 04:14:42
+mocha
+Bob Lee Swagger
+Grenade
+--- 19-06-12 04:14:44
+Bob Lee Swagger
+Nazaraza
+Grenade
+--- 19-06-12 04:14:53
+Bob Lee Swagger
+mocha
+Barrett M82A1
+--- 19-06-12 04:14:58
+SnowCrash
+Nazaraza
+M79
+--- 19-06-12 04:15:05
+Bob Lee Swagger
+Nazaraza
+Barrett M82A1
+--- 19-06-12 04:15:10
+SnowCrash
+mocha
+M79
+--- 19-06-12 04:15:23
+SnowCrash
+mocha
+M79
+--- 19-06-12 04:15:33
+Bob Lee Swagger
+Nazaraza
+Grenade
+--- 19-06-12 04:15:37
+Bob Lee Swagger
+mocha
+Barrett M82A1
+--- 19-06-12 04:15:52
+Bob Lee Swagger
+Nazaraza
+Chainsaw
+--- 19-06-12 04:15:53
+SnowCrash
+mocha
+Chainsaw
+--- 19-06-12 04:15:57
+Bob Lee Swagger
+Nazaraza
+Barrett M82A1
+--- 19-06-12 04:16:00
+mocha
+Bob Lee Swagger
+HK MP5
+--- 19-06-12 04:16:09
+SnowCrash
+Nazaraza
+M79
+--- 19-06-12 04:16:17
+Bob Lee Swagger
+Nazaraza
+Barrett M82A1
+--- 19-06-12 04:16:20
+SnowCrash
+mocha
+M79
+--- 19-06-12 04:16:27
+SnowCrash
+mocha
+M79
+--- 19-06-12 04:16:32
+Nazaraza
+Bob Lee Swagger
+Barrett M82A1
+--- 19-06-12 04:16:41
+Bob Lee Swagger
+Nazaraza
+Barrett M82A1
+--- 19-06-12 04:16:48
+Nazaraza
+SnowCrash
+Barrett M82A1
+--- 19-06-12 04:16:58
+Bob Lee Swagger
+Nazaraza
+Barrett M82A1
+--- 19-06-12 04:17:03
+Bob Lee Swagger
+mocha
+Barrett M82A1
+--- 19-06-12 04:17:06
+SnowCrash
+Nazaraza
+M79
+--- 19-06-12 04:17:14
+SnowCrash
+mocha
+M79
+--- 19-06-12 04:17:18
+Bob Lee Swagger
+Nazaraza
+Barrett M82A1
+--- 19-06-12 04:17:26
+Nazaraza
+SnowCrash
+Barrett M82A1
+--- 19-06-12 04:17:29
+Bob Lee Swagger
+mocha
+Barrett M82A1
+--- 19-06-12 04:17:31
+Nazaraza
+SnowCrash
+Barrett M82A1
+--- 19-06-12 04:17:33
+Bob Lee Swagger
+Nazaraza
+Barrett M82A1
+--- 19-06-12 04:17:42
+SnowCrash
+Nazaraza
+M79
+--- 19-06-12 04:17:45
+Bob Lee Swagger
+mocha
+Barrett M82A1
+--- 19-06-12 04:17:51
+Bob Lee Swagger
+Nazaraza
+Grenade
+--- 19-06-12 04:17:56
+Bob Lee Swagger
+Nazaraza
+Barrett M82A1
+--- 19-06-12 04:17:56
+SnowCrash
+mocha
+M79
+--- 19-06-12 04:18:02
+Bob Lee Swagger
+Nazaraza
+Chainsaw
+--- 19-06-12 04:18:10
+mocha
+mocha
+Grenade
+--- 19-06-12 04:18:10
+mocha
+Bob Lee Swagger
+Grenade
+--- 19-06-12 04:18:11
+Nazaraza
+SnowCrash
+Barrett M82A1
+--- 19-06-12 04:18:33
+mocha
+Bob Lee Swagger
+Steyr AUG
+--- 19-06-12 04:18:35
+Mr. T
+Nazaraza
+M79
+--- 19-06-12 04:18:36
+SnowCrash
+mocha
+Chainsaw
+--- 19-06-12 04:18:42
+SnowCrash
+mocha
+M79
+--- 19-06-12 04:18:48
+mocha
+Mr. T
+Grenade
+--- 19-06-12 04:18:48
+Mr. T
+mocha
+M79
+--- 19-06-12 04:18:52
+SnowCrash
+Nazaraza
+M79
+--- 19-06-12 04:19:00
+mocha
+SnowCrash
+Steyr AUG
+--- 19-06-12 04:19:01
+Mr. T
+mocha
+M79
+--- 19-06-12 04:19:36
+Mr. T
+Bob Lee Swagger
+Barrett M82A1
+--- 19-06-12 04:19:56
+Mr. T
+Bob Lee Swagger
+Barrett M82A1
+--- 19-06-12 04:20:30
+Bob Lee Swagger
+Mr. T
+Barrett M82A1
+--- 19-06-12 04:20:45
+sharp
+Mr. T
+Ruger 77
+--- 19-06-12 04:20:51
+sharp
+Mr. T
+Combat Knife
+--- 19-06-12 04:20:59
+Mr. T
+Bob Lee Swagger
+Barrett M82A1
+--- 19-06-12 04:21:06
+Bob Lee Swagger
+Mr. T
+Barrett M82A1
+--- 19-06-12 04:21:14
+Mr. T
+Bob Lee Swagger
+Barrett M82A1
+--- 19-06-12 04:21:19
+Mr. T
+sharp
+Barrett M82A1
+--- 19-06-12 04:21:24
+Bob Lee Swagger
+Mr. T
+Barrett M82A1
+--- 19-06-12 04:21:34
+sharp
+Mr. T
+Barrett M82A1
+--- 19-06-12 04:22:17
+Mr. T
+Bob Lee Swagger
+Barrett M82A1
+--- 19-06-12 04:22:30
+skT.!Bahaal
+Bob Lee Swagger
+Barrett M82A1
+--- 19-06-12 04:22:40
+Mr. T
+Bob Lee Swagger
+Barrett M82A1
+--- 19-06-12 04:22:49
+Bob Lee Swagger
+Mr. T
+Barrett M82A1
+--- 19-06-12 04:22:57
+skT.!Bahaal
+Mr. T
+Barrett M82A1
+--- 19-06-12 04:23:06
+Mr. T
+Bob Lee Swagger
+Barrett M82A1
+--- 19-06-12 04:23:16
+Bob Lee Swagger
+Mr. T
+Barrett M82A1
+--- 19-06-12 04:23:23
+Bob Lee Swagger
+Mr. T
+Barrett M82A1
+--- 19-06-12 04:23:30
+Bob Lee Swagger
+Mr. T
+Barrett M82A1
+--- 19-06-12 04:23:36
+Bob Lee Swagger
+skT.!Bahaal
+Barrett M82A1
+--- 19-06-12 04:23:41
+Bob Lee Swagger
+Mr. T
+Barrett M82A1
+--- 19-06-12 04:23:41
+Mr. T
+Bob Lee Swagger
+Barrett M82A1
+--- 19-06-12 04:23:44
+skT.!Bahaal
+Roksa
+Barrett M82A1
+--- 19-06-12 04:23:49
+Bob Lee Swagger
+Mr. T
+Barrett M82A1
+--- 19-06-12 04:23:49
+Mr. T
+Bob Lee Swagger
+Barrett M82A1
+--- 19-06-12 04:23:54
+skT.!Bahaal
+Roksa
+Barrett M82A1
+--- 19-06-12 04:24:02
+Bob Lee Swagger
+Roksa
+Chainsaw
+--- 19-06-12 04:24:07
+skT.!Bahaal
+Mr. T
+Barrett M82A1
+--- 19-06-12 04:24:09
+Roksa
+Bob Lee Swagger
+Grenade
+--- 19-06-12 04:24:14
+Mr. T
+Bob Lee Swagger
+Barrett M82A1
+--- 19-06-12 04:24:21
+skT.!Bahaal
+Roksa
+Barrett M82A1
+--- 19-06-12 04:24:25
+Mr. T
+skT.!Bahaal
+Barrett M82A1
+--- 19-06-12 04:24:35
+skT.!Bahaal
+Mr. T
+LAW
+--- 19-06-12 04:24:40
+skT.!Bahaal
+Roksa
+Barrett M82A1
+--- 19-06-12 04:24:43
+Mr. T
+Bob Lee Swagger
+Barrett M82A1
+--- 19-06-12 04:24:48
+Roksa
+skT.!Bahaal
+Steyr AUG
+--- 19-06-12 04:24:48
+Mr. T
+Bob Lee Swagger
+Barrett M82A1
+--- 19-06-12 04:24:57
+Mr. T
+skT.!Bahaal
+Barrett M82A1
+--- 19-06-12 04:25:04
+Bob Lee Swagger
+Roksa
+Chainsaw
+--- 19-06-12 04:25:10
+Bob Lee Swagger
+Roksa
+Chainsaw
+--- 19-06-12 04:25:14
+Bob Lee Swagger
+Mr. T
+Chainsaw
+--- 19-06-12 04:25:22
+Bob Lee Swagger
+Roksa
+Barrett M82A1
+--- 19-06-12 04:25:22
+Roksa
+Bob Lee Swagger
+Steyr AUG
+--- 19-06-12 04:25:26
+Mr. T
+skT.!Bahaal
+Barrett M82A1
+--- 19-06-12 04:25:32
+Mr. T
+skT.!Bahaal
+Barrett M82A1
+--- 19-06-12 04:25:37
+Bob Lee Swagger
+Roksa
+Chainsaw
+--- 19-06-12 04:25:37
+Bob Lee Swagger
+Mr. T
+Chainsaw
+--- 19-06-12 04:25:38
+Mr. T
+Bob Lee Swagger
+Barrett M82A1
+--- 19-06-12 04:25:43
+skT.!Bahaal
+Roksa
+Barrett M82A1
+--- 19-06-12 04:25:57
+Roksa
+Bob Lee Swagger
+Ruger 77
+--- 19-06-12 04:26:00
+skT.!Bahaal
+Roksa
+Barrett M82A1
+--- 19-06-12 04:26:12
+Roksa
+skT.!Bahaal
+Ruger 77
+--- 19-06-12 04:26:12
+skT.!Bahaal
+Roksa
+Barrett M82A1
+--- 19-06-12 04:26:25
+Bob Lee Swagger
+Roksa
+Chainsaw
+--- 19-06-12 04:26:25
+NeftePanDa
+Bob Lee Swagger
+M79
+--- 19-06-12 04:26:32
+NeftePanDa
+Bob Lee Swagger
+M79
+--- 19-06-12 04:26:37
+skT.!Bahaal
+NeftePanDa
+Barrett M82A1
+--- 19-06-12 04:26:43
+Bob Lee Swagger
+NeftePanDa
+Chainsaw
+--- 19-06-12 04:26:49
+Roksa
+Bob Lee Swagger
+M79
+--- 19-06-12 04:26:57
+Bob Lee Swagger
+NeftePanDa
+Barrett M82A1
+--- 19-06-12 04:27:10
+NeftePanDa
+Bob Lee Swagger
+Combat Knife
+--- 19-06-12 04:27:19
+Roksa
+skT.!Bahaal
+M79
+--- 19-06-12 04:27:19
+skT.!Bahaal
+Roksa
+Grenade
+--- 19-06-12 04:27:33
+skT.!Bahaal
+Roksa
+Barrett M82A1
+--- 19-06-12 04:27:34
+Roksa
+Bob Lee Swagger
+Combat Knife
+--- 19-06-12 04:27:42
+Roksa
+Bob Lee Swagger
+M79
+--- 19-06-12 04:27:50
+skT.!Bahaal
+Roksa
+Barrett M82A1
+--- 19-06-12 04:27:54
+skT.!Bahaal
+Roksa
+Barrett M82A1
+--- 19-06-12 04:28:04
+Bob Lee Swagger
+Roksa
+Grenade
+--- 19-06-12 04:28:04
+Roksa
+Bob Lee Swagger
+Desert Eagles
+--- 19-06-12 04:28:14
+Bob Lee Swagger
+Roksa
+Barrett M82A1
+--- 19-06-12 04:28:28
+Bob Lee Swagger
+Roksa
+Chainsaw
+--- 19-06-12 04:28:33
+Roksa
+Bob Lee Swagger
+Combat Knife
+--- 19-06-12 04:28:34
+skT.!Bahaal
+Roksa
+Barrett M82A1
+--- 19-06-12 04:28:58
+skT.!Bahaal
+Roksa
+Grenade
+--- 19-06-12 04:29:04
+Roksa
+skT.!Bahaal
+Barrett M82A1
+--- 19-06-12 04:29:19
+Roksa
+Bob Lee Swagger
+Steyr AUG
+--- 19-06-12 04:29:24
+Roksa
+skT.!Bahaal
+Steyr AUG
+--- 19-06-12 04:29:31
+Bob Lee Swagger
+Roksa
+Barrett M82A1
+--- 19-06-12 04:29:44
+Bob Lee Swagger
+Roksa
+Chainsaw
+--- 19-06-12 04:30:26
+Bob Lee Swagger
+skT.!Bahaal
+Barrett M82A1
+--- 19-06-12 04:30:35
+Bob Lee Swagger
+skT.!Bahaal
+Barrett M82A1
+--- 19-06-12 04:31:00
+skT.!Bahaal
+Bob Lee Swagger
+M79
+--- 19-06-12 04:31:07
+Bob Lee Swagger
+skT.!Bahaal
+Barrett M82A1
+--- 19-06-12 04:31:23
+Bob Lee Swagger
+skT.!Bahaal
+Barrett M82A1
+--- 19-06-12 04:31:31
+Bob Lee Swagger
+skT.!Bahaal
+Chainsaw
+--- 19-06-12 04:31:47
+Bob Lee Swagger
+skT.!Bahaal
+Chainsaw
+--- 19-06-12 04:32:01
+skT.!Bahaal
+Bob Lee Swagger
+Chainsaw
+--- 19-06-12 04:32:12
+Bob Lee Swagger
+skT.!Bahaal
+Barrett M82A1
+--- 19-06-12 04:32:20
+skT.!Bahaal
+Bob Lee Swagger
+Barrett M82A1
+--- 19-06-12 04:32:32
+skT.!Bahaal
+Bob Lee Swagger
+Barrett M82A1
+--- 19-06-12 04:32:38
+skT.!Bahaal
+Bob Lee Swagger
+Barrett M82A1
+--- 19-06-12 04:32:44
+Bob Lee Swagger
+skT.!Bahaal
+Barrett M82A1
+--- 19-06-12 04:32:50
+Bob Lee Swagger
+skT.!Bahaal
+Barrett M82A1
+--- 19-06-12 04:33:18
+skT.!Bahaal
+Bob Lee Swagger
+Barrett M82A1
+--- 19-06-12 04:33:24
+Mr. T
+a|grape of wrath[FoD]
+Barrett M82A1
+--- 19-06-12 04:33:28
+Bob Lee Swagger
+skT.!Bahaal
+Barrett M82A1
+--- 19-06-12 04:33:33
+a|grape of wrath[FoD]
+Bob Lee Swagger
+Barrett M82A1
+--- 19-06-12 04:33:36
+skT.!Bahaal
+Mr. T
+Barrett M82A1
+--- 19-06-12 04:33:40
+Bob Lee Swagger
+a|grape of wrath[FoD]
+Barrett M82A1
+--- 19-06-12 04:33:45
+Bob Lee Swagger
+skT.!Bahaal
+Barrett M82A1
+--- 19-06-12 04:33:48
+a|grape of wrath[FoD]
+Mr. T
+Barrett M82A1
+--- 19-06-12 04:33:56
+Mr. T
+skT.!Bahaal
+Barrett M82A1
+--- 19-06-12 04:34:02
+Mr. T
+a|grape of wrath[FoD]
+Grenade
+--- 19-06-12 04:34:12
+Bob Lee Swagger
+a|grape of wrath[FoD]
+Barrett M82A1
+--- 19-06-12 04:34:14
+skT.!Bahaal
+Mr. T
+Chainsaw
+--- 19-06-12 04:34:25
+a|grape of wrath[FoD]
+Mr. T
+Combat Knife
+--- 19-06-12 04:34:25
+skT.!Bahaal
+Bob Lee Swagger
+Barrett M82A1
+--- 19-06-12 04:34:32
+skT.!Bahaal
+Mr. T
+Barrett M82A1
+--- 19-06-12 04:34:32
+Mr. T
+skT.!Bahaal
+Barrett M82A1
+--- 19-06-12 04:34:47
+NeftePanDa
+a|grape of wrath[FoD]
+Grenade
+--- 19-06-12 04:35:03
+skT.!Bahaal
+NeftePanDa
+Barrett M82A1
+--- 19-06-12 04:35:04
+Bob Lee Swagger
+a|grape of wrath[FoD]
+Barrett M82A1
+--- 19-06-12 04:35:04
+a|grape of wrath[FoD]
+Bob Lee Swagger
+Combat Knife
+--- 19-06-12 04:35:09
+Mr. T
+skT.!Bahaal
+Barrett M82A1
+--- 19-06-12 04:35:18
+Mr. T
+skT.!Bahaal
+Barrett M82A1
+--- 19-06-12 04:35:19
+a|grape of wrath[FoD]
+NeftePanDa
+Barrett M82A1
+--- 19-06-12 04:35:20
+Bob Lee Swagger
+a|grape of wrath[FoD]
+Barrett M82A1
+--- 19-06-12 04:35:24
+Mr. T
+skT.!Bahaal
+Barrett M82A1
+--- 19-06-12 04:35:33
+skT.!Bahaal
+Bob Lee Swagger
+Chainsaw
+--- 19-06-12 04:35:36
+Mr. T
+a|grape of wrath[FoD]
+Barrett M82A1
+--- 19-06-12 04:35:41
+Mr. T
+a|grape of wrath[FoD]
+Barrett M82A1
+--- 19-06-12 04:35:48
+Bob Lee Swagger
+skT.!Bahaal
+Barrett M82A1
+--- 19-06-12 04:36:10
+Bob Lee Swagger
+Mr. T
+Barrett M82A1
+--- 19-06-12 04:36:16
+NeftePanDa
+a|grape of wrath[FoD]
+Ruger 77
+--- 19-06-12 04:36:22
+Bob Lee Swagger
+a|grape of wrath[FoD]
+Barrett M82A1
+--- 19-06-12 04:36:23
+Mr. T
+NeftePanDa
+Barrett M82A1
+--- 19-06-12 04:36:28
+Mr. T
+Bob Lee Swagger
+Barrett M82A1
+--- 19-06-12 04:36:32
+NeftePanDa
+a|grape of wrath[FoD]
+Ruger 77
+--- 19-06-12 04:36:35
+Mr. T
+NeftePanDa
+Barrett M82A1
+--- 19-06-12 04:36:36
+NeftePanDa
+Mr. T
+Grenade
+--- 19-06-12 04:36:49
+Mr. T
+Mr. T
+Grenade
+--- 19-06-12 04:36:56
+NeftePanDa
+Mr. T
+Combat Knife
+--- 19-06-12 04:37:06
+Bob Lee Swagger
+Mr. T
+Barrett M82A1
+--- 19-06-12 04:37:25
+Bob Lee Swagger
+Mr. T
+Barrett M82A1
+--- 19-06-12 04:37:33
+Bob Lee Swagger
+Mr. T
+Barrett M82A1
+--- 19-06-12 04:37:38
+Bob Lee Swagger
+a|grape of wrath[FoD]
+Barrett M82A1
+--- 19-06-12 04:37:38
+a|grape of wrath[FoD]
+Bob Lee Swagger
+M79
+--- 19-06-12 04:37:45
+Mr. T
+Bob Lee Swagger
+Barrett M82A1
+--- 19-06-12 04:38:01
+Bob Lee Swagger
+Mr. T
+Barrett M82A1
+--- 19-06-12 04:38:21
+Bob Lee Swagger
+Mr. T
+Barrett M82A1
+--- 19-06-12 04:38:27
+Bob Lee Swagger
+Mr. T
+Barrett M82A1
+--- 19-06-12 04:38:34
+Mr. T
+Bob Lee Swagger
+Barrett M82A1
+--- 19-06-12 04:38:40
+Bob Lee Swagger
+Mr. T
+Barrett M82A1
+--- 19-06-12 04:38:45
+Mr. T
+Bob Lee Swagger
+Combat Knife
+--- 19-06-12 04:38:52
+Mr. T
+Bob Lee Swagger
+Barrett M82A1
+--- 19-06-12 04:38:52
+Bob Lee Swagger
+Mr. T
+Barrett M82A1
+--- 19-06-12 04:39:07
+Mr. T
+Bob Lee Swagger
+Barrett M82A1
+--- 19-06-12 04:39:19
+Bob Lee Swagger
+Mr. T
+Chainsaw
+--- 19-06-12 04:39:19
+Mr. T
+Bob Lee Swagger
+Grenade
+--- 19-06-12 04:39:26
+Mr. T
+Bob Lee Swagger
+Barrett M82A1
+--- 19-06-12 04:39:35
+Mr. T
+Bob Lee Swagger
+Barrett M82A1
+--- 19-06-12 04:39:42
+Mr. T
+Bob Lee Swagger
+Barrett M82A1
+--- 19-06-12 04:40:08
+Mr. T
+Bob Lee Swagger
+Barrett M82A1
+--- 19-06-12 04:40:24
+Mr. T
+Bob Lee Swagger
+Grenade
+--- 19-06-12 04:40:32
+Mr. T
+Bob Lee Swagger
+Barrett M82A1
+--- 19-06-12 04:40:39
+Mr. T
+Bob Lee Swagger
+Grenade
+--- 19-06-12 04:40:43
+Mr. T
+Bob Lee Swagger
+Barrett M82A1
+--- 19-06-12 04:40:53
+Bob Lee Swagger
+Mr. T
+Barrett M82A1
+--- 19-06-12 04:41:09
+Mr. T
+Bob Lee Swagger
+Barrett M82A1
+--- 19-06-12 04:41:14
+Mr. T
+Bob Lee Swagger
+Barrett M82A1
+--- 19-06-12 04:41:40
+Bob Lee Swagger
+Mr. T
+Chainsaw
+--- 19-06-12 04:41:55
+Bob Lee Swagger
+Mr. T
+Barrett M82A1
+--- 19-06-12 04:42:00
+Mr. T
+Mr. T
+Grenade
+--- 19-06-12 04:42:13
+Mr. T
+Bob Lee Swagger
+Barrett M82A1
+--- 19-06-12 04:42:21
+Bob Lee Swagger
+Mr. T
+Barrett M82A1
+--- 19-06-12 04:42:40
+Mr. T
+Bob Lee Swagger
+Grenade
+--- 19-06-12 04:42:50
+Mr. T
+Bob Lee Swagger
+Combat Knife
+--- 19-06-12 04:43:30
+Bob Lee Swagger
+Mr. T
+Barrett M82A1
+--- 19-06-12 04:43:34
+Bob Lee Swagger
+Mr. T
+Chainsaw
+--- 19-06-12 04:44:06
+Bob Lee Swagger
+Mr. T
+Chainsaw
+--- 19-06-12 04:44:18
+Mr. T
+Bob Lee Swagger
+Barrett M82A1
+--- 19-06-12 04:44:58
+Mr. T
+Bob Lee Swagger
+Barrett M82A1
+--- 19-06-12 04:45:13
+Bob Lee Swagger
+Mr. T
+Barrett M82A1
+--- 19-06-12 04:45:23
+Bob Lee Swagger
+Mr. T
+Chainsaw
+--- 19-06-12 04:45:33
+Bob Lee Swagger
+Mr. T
+Barrett M82A1
+--- 19-06-12 04:45:41
+Mr. T
+Bob Lee Swagger
+Barrett M82A1
+--- 19-06-12 04:45:52
+Mr. T
+Bob Lee Swagger
+Barrett M82A1
+--- 19-06-12 04:45:52
+Bob Lee Swagger
+Mr. T
+Barrett M82A1
+--- 19-06-12 04:46:29
+Bob Lee Swagger
+Mr. T
+Barrett M82A1
+--- 19-06-12 04:46:40
+Bob Lee Swagger
+Mr. T
+Grenade
+--- 19-06-12 04:46:46
+Mr. T
+Bob Lee Swagger
+Combat Knife
+--- 19-06-12 04:46:59
+Bob Lee Swagger
+Mr. T
+Grenade
+--- 19-06-12 04:47:19
+Bob Lee Swagger
+Mr. T
+Barrett M82A1
+--- 19-06-12 04:47:52
+Mr. T
+a|grape of wrath[FoD]
+Barrett M82A1
+--- 19-06-12 04:47:52
+a|grape of wrath[FoD]
+Mr. T
+Grenade
+--- 19-06-12 04:48:02
+Mr. T
+a|grape of wrath[FoD]
+Barrett M82A1
+--- 19-06-12 04:48:17
+a|grape of wrath[FoD]
+a|grape of wrath[FoD]
+Grenade
+--- 19-06-12 04:48:24
+Mr. T
+a|grape of wrath[FoD]
+Barrett M82A1
+--- 19-06-12 04:48:36
+Mr. T
+Mr. T
+Grenade
+--- 19-06-12 04:48:49
+Mr. T
+a|grape of wrath[FoD]
+Barrett M82A1
+--- 19-06-12 04:48:58
+Mr. T
+a|grape of wrath[FoD]
+Barrett M82A1

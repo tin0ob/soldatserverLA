@@ -1,0 +1,13409 @@
+19-01-15 20:00:10    Kill Log Started
+--- 19-01-15 20:00:18
+Factory
+ErreAPe_
+HK MP5
+--- 19-01-15 20:00:20
+CrasheR
+Absent4|Diegoxxx
+Barrett M82A1
+--- 19-01-15 20:00:21
+Factory
+rdz
+LAW
+--- 19-01-15 20:00:26
+Absent4|Diegoxxx
+Factory
+Grenade
+--- 19-01-15 20:00:28
+CrasheR
+Absent4|Diegoxxx
+Barrett M82A1
+--- 19-01-15 20:00:29
+CrasheR
+ErreAPe_
+Combat Knife
+--- 19-01-15 20:00:38
+CrasheR
+Absent4|Diegoxxx
+Barrett M82A1
+--- 19-01-15 20:00:38
+Absent4|Diegoxxx
+CrasheR
+M79
+--- 19-01-15 20:00:38
+rdz
+Mach
+Barrett M82A1
+--- 19-01-15 20:00:43
+Absent4|Diegoxxx
+Factory
+Spas-12
+--- 19-01-15 20:00:51
+ErreAPe_
+CrasheR
+Steyr AUG
+--- 19-01-15 20:00:51
+Absent4|Diegoxxx
+Factory
+Combat Knife
+--- 19-01-15 20:00:54
+Mach
+ErreAPe_
+HK MP5
+--- 19-01-15 20:00:57
+rdz
+Mach
+Barrett M82A1
+--- 19-01-15 20:01:01
+ErreAPe_
+Factory
+Grenade
+--- 19-01-15 20:01:03
+ErreAPe_
+CrasheR
+LAW
+--- 19-01-15 20:01:09
+rdz
+Factory
+Barrett M82A1
+--- 19-01-15 20:01:10
+Absent4|Diegoxxx
+CrasheR
+Spas-12
+--- 19-01-15 20:01:15
+Mach
+ErreAPe_
+HK MP5
+--- 19-01-15 20:01:16
+rdz
+CrasheR
+Barrett M82A1
+--- 19-01-15 20:01:17
+Absent4|Diegoxxx
+Mach
+Spas-12
+--- 19-01-15 20:01:22
+rdz
+CrasheR
+Barrett M82A1
+--- 19-01-15 20:01:28
+rdz
+Factory
+Barrett M82A1
+--- 19-01-15 20:01:30
+Mach
+rdz
+HK MP5
+--- 19-01-15 20:01:30
+Mach
+Absent4|Diegoxxx
+HK MP5
+--- 19-01-15 20:01:31
+CrasheR
+ErreAPe_
+Grenade
+--- 19-01-15 20:01:31
+ErreAPe_
+Mach
+Grenade
+--- 19-01-15 20:01:41
+Absent4|Diegoxxx
+CrasheR
+Grenade
+--- 19-01-15 20:01:42
+Factory
+Factory
+Grenade
+--- 19-01-15 20:01:42
+Factory
+rdz
+HK MP5
+--- 19-01-15 20:01:43
+Mach
+Absent4|Diegoxxx
+HK MP5
+--- 19-01-15 20:01:48
+ErreAPe_
+Mach
+Steyr AUG
+--- 19-01-15 20:01:51
+CrasheR
+ErreAPe_
+Ak-74
+--- 19-01-15 20:01:52
+Absent4|Diegoxxx
+Factory
+Grenade
+--- 19-01-15 20:01:54
+rdz
+CrasheR
+Barrett M82A1
+--- 19-01-15 20:01:55
+Mach
+Absent4|Diegoxxx
+HK MP5
+--- 19-01-15 20:02:00
+Mach
+rdz
+HK MP5
+--- 19-01-15 20:02:01
+rdz
+Factory
+Combat Knife
+--- 19-01-15 20:02:01
+ErreAPe_
+CrasheR
+Steyr AUG
+--- 19-01-15 20:02:02
+Mach
+Absent4|Diegoxxx
+Combat Knife
+--- 19-01-15 20:02:11
+ErreAPe_
+Mach
+Steyr AUG
+--- 19-01-15 20:02:16
+Factory
+ErreAPe_
+LAW
+--- 19-01-15 20:02:17
+Mach
+rdz
+Grenade
+--- 19-01-15 20:02:21
+Factory
+Absent4|Diegoxxx
+HK MP5
+--- 19-01-15 20:02:27
+rdz
+Mach
+Barrett M82A1
+--- 19-01-15 20:02:28
+CrasheR
+rdz
+Ak-74
+--- 19-01-15 20:02:30
+Absent4|Diegoxxx
+Factory
+Grenade
+--- 19-01-15 20:02:35
+CrasheR
+Absent4|Diegoxxx
+Ak-74
+--- 19-01-15 20:02:37
+rdz
+Mach
+Barrett M82A1
+--- 19-01-15 20:02:39
+CrasheR
+ErreAPe_
+Ak-74
+--- 19-01-15 20:02:41
+Factory
+rdz
+LAW
+--- 19-01-15 20:02:47
+ErreAPe_
+ErreAPe_
+Grenade
+--- 19-01-15 20:02:52
+Factory
+Absent4|Diegoxxx
+HK MP5
+--- 19-01-15 20:03:00
+ErreAPe_
+CrasheR
+Steyr AUG
+--- 19-01-15 20:03:02
+Absent4|Diegoxxx
+Mach
+Grenade
+--- 19-01-15 20:03:04
+rdz
+Factory
+Barrett M82A1
+--- 19-01-15 20:03:10
+rdz
+CrasheR
+Barrett M82A1
+--- 19-01-15 20:03:16
+CrasheR
+Absent4|Diegoxxx
+Combat Knife
+--- 19-01-15 20:03:16
+Mach
+rdz
+Grenade
+--- 19-01-15 20:03:19
+CrasheR
+ErreAPe_
+Ak-74
+--- 19-01-15 20:03:21
+ErreAPe_
+Factory
+Grenade
+--- 19-01-15 20:03:26
+ErreAPe_
+CrasheR
+Grenade
+--- 19-01-15 20:03:26
+ErreAPe_
+ErreAPe_
+Grenade
+--- 19-01-15 20:03:29
+Factory
+Absent4|Diegoxxx
+Grenade
+--- 19-01-15 20:03:30
+Mach
+rdz
+HK MP5
+--- 19-01-15 20:03:37
+ErreAPe_
+CrasheR
+LAW
+--- 19-01-15 20:03:37
+ErreAPe_
+ErreAPe_
+LAW
+--- 19-01-15 20:03:37
+Absent4|Diegoxxx
+Factory
+Spas-12
+--- 19-01-15 20:03:40
+Mach
+Absent4|Diegoxxx
+HK MP5
+--- 19-01-15 20:03:46
+Factory
+rdz
+HK MP5
+--- 19-01-15 20:03:49
+CrasheR
+ErreAPe_
+Ak-74
+--- 19-01-15 20:39:11
+OXiD|Kaimelar.hu
+Absent4|Diegoxxx
+Barrett M82A1
+--- 19-01-15 20:39:19
+Absent4|Diegoxxx
+OXiD|Kaimelar.hu
+Steyr AUG
+--- 19-01-15 20:39:27
+sk!T.Rattle
+takeiteasy
+Grenade
+--- 19-01-15 20:39:31
+Absent4|Diegoxxx
+sk!T.chub0
+Steyr AUG
+--- 19-01-15 20:39:38
+Absent4|Diegoxxx
+sk!T.chub0
+Steyr AUG
+--- 19-01-15 20:39:50
+sk!T.Rattle
+Absent4|Diegoxxx
+Grenade
+--- 19-01-15 20:40:05
+OXiD|Kaimelar.hu
+takeiteasy
+Ruger 77
+--- 19-01-15 20:40:06
+Absent4|Diegoxxx
+sk!T.Rattle
+Steyr AUG
+--- 19-01-15 20:40:17
+sT.- Enigma
+sT.- Enigma
+Grenade
+--- 19-01-15 20:40:24
+OXiD|Kaimelar.hu
+Absent4|Diegoxxx
+Ruger 77
+--- 19-01-15 20:40:26
+sk!T.chub0
+takeiteasy
+Spas-12
+--- 19-01-15 20:40:28
+sk!T.chub0
+sT.- Enigma
+Spas-12
+--- 19-01-15 20:40:29
+sk!T.chub0
+sk!T.chub0
+Grenade
+--- 19-01-15 20:40:33
+sk!T.Rattle
+Absent4|Diegoxxx
+Ruger 77
+--- 19-01-15 20:40:33
+sk!T.Rattle
+takeiteasy
+Ruger 77
+--- 19-01-15 20:40:42
+OXiD|Kaimelar.hu
+Absent4|Diegoxxx
+Ruger 77
+--- 19-01-15 20:40:44
+OXiD|Kaimelar.hu
+takeiteasy
+Ruger 77
+--- 19-01-15 20:40:58
+Absent4|Diegoxxx
+sk!T.Rattle
+Grenade
+--- 19-01-15 20:41:00
+OXiD|Kaimelar.hu
+Absent4|Diegoxxx
+Ruger 77
+--- 19-01-15 20:41:05
+sk!T.Rattle
+sT.- Enigma
+Ruger 77
+--- 19-01-15 20:41:06
+sk!T.Rattle
+takeiteasy
+Ruger 77
+--- 19-01-15 20:41:07
+sk!T.chub0
+Absent4|Diegoxxx
+Spas-12
+--- 19-01-15 20:41:11
+sT.- Enigma
+sk!T.chub0
+HK MP5
+--- 19-01-15 20:41:12
+OXiD|Kaimelar.hu
+sT.- Enigma
+Combat Knife
+--- 19-01-15 20:41:13
+OXiD|Kaimelar.hu
+Absent4|Diegoxxx
+Grenade
+--- 19-01-15 20:41:13
+Absent4|Diegoxxx
+sk!T.Rattle
+Steyr AUG
+--- 19-01-15 20:41:15
+OXiD|Kaimelar.hu
+takeiteasy
+Ruger 77
+--- 19-01-15 20:41:19
+sT.- Enigma
+OXiD|Kaimelar.hu
+Steyr AUG
+--- 19-01-15 20:41:19
+OXiD|Kaimelar.hu
+sT.- Enigma
+Ruger 77
+--- 19-01-15 20:41:22
+sk!T.Rattle
+Absent4|Diegoxxx
+Ruger 77
+--- 19-01-15 20:41:26
+takeiteasy
+sk!T.chub0
+Steyr AUG
+--- 19-01-15 20:41:26
+Absent4|Diegoxxx
+sk!T.Rattle
+Steyr AUG
+--- 19-01-15 20:41:32
+Absent4|Diegoxxx
+OXiD|Kaimelar.hu
+Grenade
+--- 19-01-15 20:41:33
+sk!T.chub0
+Absent4|Diegoxxx
+Spas-12
+--- 19-01-15 20:42:07
+sk!T.Rattle
+sT.- Enigma
+Ruger 77
+--- 19-01-15 20:42:11
+sk!T.Rattle
+Absent4|Diegoxxx
+Ruger 77
+--- 19-01-15 20:42:12
+takeiteasy
+sk!T.Rattle
+Steyr AUG
+--- 19-01-15 20:42:14
+takeiteasy
+OXiD|Kaimelar.hu
+Grenade
+--- 19-01-15 20:42:16
+sk!T.chub0
+sT.- Enigma
+Grenade
+--- 19-01-15 20:42:20
+sk!T.Rattle
+takeiteasy
+Ruger 77
+--- 19-01-15 20:42:27
+OXiD|Kaimelar.hu
+sT.- Enigma
+Ruger 77
+--- 19-01-15 20:42:27
+Absent4|Diegoxxx
+sk!T.Rattle
+Steyr AUG
+--- 19-01-15 20:42:31
+takeiteasy
+OXiD|Kaimelar.hu
+Grenade
+--- 19-01-15 20:42:32
+sk!T.Rattle
+takeiteasy
+Ruger 77
+--- 19-01-15 20:42:33
+Absent4|Diegoxxx
+sk!T.chub0
+Steyr AUG
+--- 19-01-15 20:42:35
+OXiD|Kaimelar.hu
+Absent4|Diegoxxx
+Ruger 77
+--- 19-01-15 20:42:37
+sT.- Enigma
+sk!T.Rattle
+Ak-74
+--- 19-01-15 20:42:40
+sT.- Enigma
+OXiD|Kaimelar.hu
+Ak-74
+--- 19-01-15 20:42:44
+sk!T.chub0
+Absent4|Diegoxxx
+Grenade
+--- 19-01-15 20:42:45
+takeiteasy
+sk!T.Rattle
+Grenade
+--- 19-01-15 20:42:46
+takeiteasy
+OXiD|Kaimelar.hu
+Steyr AUG
+--- 19-01-15 20:42:46
+OXiD|Kaimelar.hu
+sT.- Enigma
+Ruger 77
+--- 19-01-15 20:42:54
+Absent4|Diegoxxx
+sk!T.chub0
+Steyr AUG
+--- 19-01-15 20:42:55
+OXiD|Kaimelar.hu
+Absent4|Diegoxxx
+Grenade
+--- 19-01-15 20:43:00
+sT.- Enigma
+sk!T.Rattle
+Grenade
+--- 19-01-15 20:43:04
+takeiteasy
+OXiD|Kaimelar.hu
+Steyr AUG
+--- 19-01-15 20:43:05
+sk!T.Rattle
+sT.- Enigma
+Grenade
+--- 19-01-15 20:43:06
+Absent4|Diegoxxx
+sk!T.chub0
+Grenade
+--- 19-01-15 20:43:09
+sk!T.Rattle
+takeiteasy
+Combat Knife
+--- 19-01-15 20:43:11
+OXiD|Kaimelar.hu
+Absent4|Diegoxxx
+Combat Knife
+--- 19-01-15 20:43:15
+sT.- Enigma
+sk!T.Rattle
+Ak-74
+--- 19-01-15 20:43:18
+takeiteasy
+OXiD|Kaimelar.hu
+Combat Knife
+--- 19-01-15 20:43:20
+takeiteasy
+sk!T.chub0
+Steyr AUG
+--- 19-01-15 20:43:24
+sT.- Enigma
+OXiD|Kaimelar.hu
+Grenade
+--- 19-01-15 20:43:26
+sk!T.Rattle
+takeiteasy
+Combat Knife
+--- 19-01-15 20:43:27
+sT.- Enigma
+sk!T.chub0
+Grenade
+--- 19-01-15 20:43:29
+sk!T.chub0
+sT.- Enigma
+Grenade
+--- 19-01-15 20:43:30
+Absent4|Diegoxxx
+OXiD|Kaimelar.hu
+Grenade
+--- 19-01-15 20:43:31
+OXiD|Kaimelar.hu
+Absent4|Diegoxxx
+Ruger 77
+--- 19-01-15 20:43:37
+sk!T.chub0
+Absent4|Diegoxxx
+Spas-12
+--- 19-01-15 20:43:37
+OXiD|Kaimelar.hu
+takeiteasy
+Ruger 77
+--- 19-01-15 20:43:37
+takeiteasy
+OXiD|Kaimelar.hu
+Steyr AUG
+--- 19-01-15 20:43:40
+sT.- Enigma
+sk!T.Rattle
+Ak-74
+--- 19-01-15 20:43:46
+sk!T.chub0
+sT.- Enigma
+Spas-12
+--- 19-01-15 20:43:47
+OXiD|Kaimelar.hu
+Absent4|Diegoxxx
+Ruger 77
+--- 19-01-15 20:43:48
+takeiteasy
+sk!T.chub0
+Steyr AUG
+--- 19-01-15 20:43:49
+takeiteasy
+sk!T.Rattle
+Steyr AUG
+--- 19-01-15 20:43:53
+OXiD|Kaimelar.hu
+takeiteasy
+Ruger 77
+--- 19-01-15 20:43:57
+Absent4|Diegoxxx
+OXiD|Kaimelar.hu
+Steyr AUG
+--- 19-01-15 20:44:00
+sk!T.Rattle
+sT.- Enigma
+Ruger 77
+--- 19-01-15 20:44:01
+Absent4|Diegoxxx
+sk!T.Rattle
+Steyr AUG
+--- 19-01-15 20:44:03
+Absent4|Diegoxxx
+OXiD|Kaimelar.hu
+Combat Knife
+--- 19-01-15 20:44:08
+takeiteasy
+OXiD|Kaimelar.hu
+Grenade
+--- 19-01-15 20:44:10
+sT.- Enigma
+sk!T.chub0
+Ak-74
+--- 19-01-15 20:44:12
+takeiteasy
+sk!T.Rattle
+Grenade
+--- 19-01-15 20:44:17
+OXiD|Kaimelar.hu
+sT.- Enigma
+Ruger 77
+--- 19-01-15 20:44:19
+sk!T.Rattle
+Absent4|Diegoxxx
+Ruger 77
+--- 19-01-15 20:44:21
+takeiteasy
+OXiD|Kaimelar.hu
+Grenade
+--- 19-01-15 20:44:23
+sT.- Enigma
+sk!T.chub0
+Ak-74
+--- 19-01-15 20:44:23
+sk!T.Rattle
+takeiteasy
+Ruger 77
+--- 19-01-15 20:44:24
+sT.- Enigma
+sk!T.Rattle
+Grenade
+--- 19-01-15 20:44:27
+Absent4|Diegoxxx
+OXiD|Kaimelar.hu
+Grenade
+--- 19-01-15 20:44:29
+Absent4|Diegoxxx
+sk!T.chub0
+Combat Knife
+--- 19-01-15 20:44:34
+Absent4|Diegoxxx
+OXiD|Kaimelar.hu
+Steyr AUG
+--- 19-01-15 20:44:35
+sk!T.Rattle
+sT.- Enigma
+Grenade
+--- 19-01-15 20:44:37
+Absent4|Diegoxxx
+sk!T.Rattle
+Steyr AUG
+--- 19-01-15 20:44:40
+sT.- Enigma
+sk!T.chub0
+Combat Knife
+--- 19-01-15 20:44:44
+takeiteasy
+sk!T.Rattle
+Combat Knife
+--- 19-01-15 20:44:45
+Absent4|Diegoxxx
+OXiD|Kaimelar.hu
+Steyr AUG
+--- 19-01-15 22:53:33
+ShutercL
+|BhooD|Diegoxxx
+Spas-12
+--- 19-01-15 22:55:07
+ShutercL
+sT.- SenzacL*
+Combat Knife
+--- 19-01-15 22:55:30
+sT.- Mand3s
+sT.- Enigma
+Steyr AUG
+--- 19-01-15 22:55:30
+sT.- SenzacL*
+sT.- Mand3s
+Barrett M82A1
+--- 19-01-15 22:55:35
+sT.- SenzacL*
+CrasheR
+Barrett M82A1
+--- 19-01-15 22:55:37
+sT.- Enigma
+ShutercL
+HK MP5
+--- 19-01-15 22:55:41
+sT.- Mand3s
+|BhooD|Diegoxxx
+Steyr AUG
+--- 19-01-15 22:55:43
+sT.- Mand3s
+sT.- Enigma
+Steyr AUG
+--- 19-01-15 22:55:45
+sT.- SenzacL*
+sT.- Mand3s
+Grenade
+--- 19-01-15 22:55:47
+CrasheR
+CrasheR
+Grenade
+--- 19-01-15 22:55:47
+ShutercL
+|BhooD|Diegoxxx
+LAW
+--- 19-01-15 22:55:57
+|BhooD|Diegoxxx
+CrasheR
+Grenade
+--- 19-01-15 22:55:58
+sT.- SenzacL*
+ShutercL
+M79
+--- 19-01-15 22:56:00
+sT.- Mand3s
+sT.- Enigma
+Steyr AUG
+--- 19-01-15 22:56:00
+|BhooD|Diegoxxx
+sT.- Mand3s
+Steyr AUG
+--- 19-01-15 22:56:07
+CrasheR
+sT.- Enigma
+Ak-74
+--- 19-01-15 22:56:08
+ShutercL
+|BhooD|Diegoxxx
+Spas-12
+--- 19-01-15 22:56:10
+sT.- SenzacL*
+sT.- Mand3s
+Chainsaw
+--- 19-01-15 22:56:15
+ShutercL
+ShutercL
+Grenade
+--- 19-01-15 22:56:18
+sT.- Mand3s
+sT.- Enigma
+Grenade
+--- 19-01-15 22:56:21
+sT.- SenzacL*
+CrasheR
+M79
+--- 19-01-15 22:56:22
+sT.- SenzacL*
+ShutercL
+Chainsaw
+--- 19-01-15 22:56:23
+sT.- Mand3s
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-15 22:56:27
+CrasheR
+sT.- Enigma
+Ak-74
+--- 19-01-15 22:56:27
+|BhooD|Diegoxxx
+sT.- Mand3s
+Steyr AUG
+--- 19-01-15 22:56:28
+CrasheR
+|BhooD|Diegoxxx
+Ak-74
+--- 19-01-15 22:56:32
+sT.- SenzacL*
+ShutercL
+Chainsaw
+--- 19-01-15 22:56:33
+CrasheR
+sT.- SenzacL*
+Combat Knife
+--- 19-01-15 22:56:35
+sT.- Mand3s
+sT.- Enigma
+Grenade
+--- 19-01-15 22:56:37
+|BhooD|Diegoxxx
+CrasheR
+Grenade
+--- 19-01-15 22:56:37
+sT.- Mand3s
+|BhooD|Diegoxxx
+Combat Knife
+--- 19-01-15 22:56:40
+sT.- SenzacL*
+ShutercL
+M79
+--- 19-01-15 22:56:45
+CrasheR
+|BhooD|Diegoxxx
+Ak-74
+--- 19-01-15 22:56:48
+sT.- SenzacL*
+sT.- Mand3s
+M79
+--- 19-01-15 22:56:49
+sT.- SenzacL*
+ShutercL
+Chainsaw
+--- 19-01-15 22:56:50
+ShutercL
+sT.- SenzacL*
+Grenade
+--- 19-01-15 22:56:53
+CrasheR
+sT.- Enigma
+Ak-74
+--- 19-01-15 22:56:55
+|BhooD|Diegoxxx
+sT.- Mand3s
+Steyr AUG
+--- 19-01-15 22:56:57
+sT.- SenzacL*
+CrasheR
+M79
+--- 19-01-15 22:56:58
+ShutercL
+|BhooD|Diegoxxx
+Steyr AUG
+--- 19-01-15 22:57:00
+sT.- Enigma
+ShutercL
+HK MP5
+--- 19-01-15 22:57:02
+sT.- Mand3s
+sT.- Enigma
+Steyr AUG
+--- 19-01-15 22:57:03
+sT.- SenzacL*
+sT.- Mand3s
+M79
+--- 19-01-15 22:57:04
+CrasheR
+sT.- SenzacL*
+Ak-74
+--- 19-01-15 22:57:09
+CrasheR
+|BhooD|Diegoxxx
+Combat Knife
+--- 19-01-15 22:57:10
+sT.- SenzacL*
+ShutercL
+Chainsaw
+--- 19-01-15 22:57:10
+ShutercL
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-15 22:57:10
+sT.- Enigma
+CrasheR
+Grenade
+--- 19-01-15 22:57:15
+sT.- Mand3s
+sT.- Enigma
+Steyr AUG
+--- 19-01-15 22:57:18
+sT.- SenzacL*
+ShutercL
+M79
+--- 19-01-15 22:57:19
+|BhooD|Diegoxxx
+sT.- Mand3s
+Grenade
+--- 19-01-15 22:57:20
+CrasheR
+|BhooD|Diegoxxx
+Ak-74
+--- 19-01-15 22:57:22
+sT.- SenzacL*
+CrasheR
+M79
+--- 19-01-15 22:57:24
+ShutercL
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-15 22:57:27
+|BhooD|Diegoxxx
+sT.- Mand3s
+Steyr AUG
+--- 19-01-15 22:57:30
+|BhooD|Diegoxxx
+CrasheR
+Grenade
+--- 19-01-15 22:57:35
+|BhooD|Diegoxxx
+ShutercL
+Steyr AUG
+--- 19-01-15 22:57:36
+sT.- Mand3s
+|BhooD|Diegoxxx
+Steyr AUG
+--- 19-01-15 22:57:40
+CrasheR
+sT.- Enigma
+Ak-74
+--- 19-01-15 22:57:42
+ShutercL
+sT.- SenzacL*
+LAW
+--- 19-01-15 22:57:47
+sT.- Mand3s
+sT.- Enigma
+Steyr AUG
+--- 19-01-15 22:57:48
+ShutercL
+|BhooD|Diegoxxx
+Steyr AUG
+--- 19-01-15 22:57:50
+sT.- SenzacL*
+CrasheR
+Grenade
+--- 19-01-15 22:57:57
+ShutercL
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-15 22:57:58
+|BhooD|Diegoxxx
+CrasheR
+Steyr AUG
+--- 19-01-15 22:57:59
+|BhooD|Diegoxxx
+ShutercL
+Grenade
+--- 19-01-15 22:57:59
+|BhooD|Diegoxxx
+|BhooD|Diegoxxx
+Grenade
+--- 19-01-15 22:58:03
+sT.- SenzacL*
+sT.- Mand3s
+Grenade
+--- 19-01-15 22:58:07
+sT.- SenzacL*
+ShutercL
+Chainsaw
+--- 19-01-15 22:58:09
+sT.- Mand3s
+|BhooD|Diegoxxx
+Steyr AUG
+--- 19-01-15 22:58:10
+sT.- SenzacL*
+sT.- Mand3s
+Chainsaw
+--- 19-01-15 22:58:11
+CrasheR
+sT.- Enigma
+Combat Knife
+--- 19-01-15 22:58:16
+sT.- Enigma
+ShutercL
+Combat Knife
+--- 19-01-15 22:58:16
+ShutercL
+|BhooD|Diegoxxx
+Steyr AUG
+--- 19-01-15 22:58:19
+sT.- Enigma
+CrasheR
+HK MP5
+--- 19-01-15 22:58:24
+sT.- Enigma
+sT.- Mand3s
+Grenade
+--- 19-01-15 22:58:26
+|BhooD|Diegoxxx
+CrasheR
+Steyr AUG
+--- 19-01-15 22:58:27
+ShutercL
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-15 22:58:31
+sT.- Mand3s
+|BhooD|Diegoxxx
+Steyr AUG
+--- 19-01-15 22:58:32
+sT.- Enigma
+ShutercL
+HK MP5
+--- 19-01-15 22:58:34
+sT.- SenzacL*
+sT.- Mand3s
+M79
+--- 19-01-15 22:58:35
+CrasheR
+sT.- Enigma
+Ak-74
+--- 19-01-15 22:58:39
+sT.- SenzacL*
+ShutercL
+M79
+--- 19-01-15 22:58:39
+CrasheR
+|BhooD|Diegoxxx
+Ak-74
+--- 19-01-15 22:58:39
+|BhooD|Diegoxxx
+CrasheR
+Steyr AUG
+--- 19-01-15 22:58:42
+sT.- Mand3s
+sT.- Enigma
+Steyr AUG
+--- 19-01-15 22:58:42
+sT.- Enigma
+sT.- Mand3s
+Combat Knife
+--- 19-01-15 22:58:46
+sT.- SenzacL*
+ShutercL
+Chainsaw
+--- 19-01-15 22:58:48
+ShutercL
+sT.- SenzacL*
+Grenade
+--- 19-01-15 22:58:49
+CrasheR
+|BhooD|Diegoxxx
+Ak-74
+--- 19-01-15 22:58:49
+|BhooD|Diegoxxx
+CrasheR
+Steyr AUG
+--- 19-01-15 22:58:52
+sT.- Mand3s
+sT.- Enigma
+Steyr AUG
+--- 19-01-15 22:58:54
+ShutercL
+sT.- SenzacL*
+Grenade
+--- 19-01-15 22:58:57
+ShutercL
+|BhooD|Diegoxxx
+LAW
+--- 19-01-15 22:59:00
+CrasheR
+sT.- Enigma
+Ak-74
+--- 19-01-15 22:59:04
+sT.- Mand3s
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-15 22:59:06
+|BhooD|Diegoxxx
+CrasheR
+Grenade
+--- 19-01-15 22:59:09
+|BhooD|Diegoxxx
+ShutercL
+Combat Knife
+--- 19-01-15 22:59:11
+sT.- Mand3s
+|BhooD|Diegoxxx
+Steyr AUG
+--- 19-01-15 22:59:12
+sT.- Enigma
+CrasheR
+Combat Knife
+--- 19-01-15 22:59:13
+ShutercL
+sT.- SenzacL*
+LAW
+--- 19-01-15 22:59:17
+ShutercL
+sT.- Enigma
+Grenade
+--- 19-01-15 22:59:18
+|BhooD|Diegoxxx
+sT.- Mand3s
+Steyr AUG
+--- 19-01-15 22:59:19
+|BhooD|Diegoxxx
+ShutercL
+Steyr AUG
+--- 19-01-15 22:59:25
+sT.- Mand3s
+|BhooD|Diegoxxx
+Grenade
+--- 19-01-15 22:59:25
+CrasheR
+sT.- Enigma
+Ak-74
+--- 19-01-15 22:59:28
+sT.- SenzacL*
+sT.- Mand3s
+M79
+--- 19-01-15 22:59:28
+ShutercL
+sT.- SenzacL*
+LAW
+--- 19-01-15 22:59:31
+ShutercL
+|BhooD|Diegoxxx
+Grenade
+--- 19-01-15 22:59:34
+sT.- Enigma
+CrasheR
+Steyr AUG
+--- 19-01-15 22:59:35
+sT.- Mand3s
+sT.- Enigma
+Steyr AUG
+--- 19-01-15 22:59:40
+|BhooD|Diegoxxx
+ShutercL
+Steyr AUG
+--- 19-01-15 22:59:41
+sT.- SenzacL*
+sT.- Mand3s
+Chainsaw
+--- 19-01-15 22:59:42
+CrasheR
+sT.- SenzacL*
+Grenade
+--- 19-01-15 22:59:43
+CrasheR
+|BhooD|Diegoxxx
+Ak-74
+--- 19-01-15 22:59:43
+sT.- Enigma
+CrasheR
+Grenade
+--- 19-01-15 22:59:49
+ShutercL
+sT.- Enigma
+Grenade
+--- 19-01-15 22:59:53
+CrasheR
+CrasheR
+Grenade
+--- 19-01-15 22:59:54
+ShutercL
+|BhooD|Diegoxxx
+LAW
+--- 19-01-15 22:59:57
+sT.- Enigma
+sT.- Mand3s
+HK MP5
+--- 19-01-15 22:59:59
+ShutercL
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-15 23:00:01
+CrasheR
+sT.- Enigma
+Ak-74
+--- 19-01-15 23:00:03
+|BhooD|Diegoxxx
+CrasheR
+Steyr AUG
+--- 19-01-15 23:00:05
+ShutercL
+|BhooD|Diegoxxx
+Steyr AUG
+--- 19-01-15 23:00:07
+sT.- Mand3s
+sT.- Enigma
+Steyr AUG
+--- 19-01-15 23:00:08
+sT.- SenzacL*
+ShutercL
+M79
+--- 19-01-15 23:00:11
+sT.- Mand3s
+|BhooD|Diegoxxx
+Steyr AUG
+--- 19-01-15 23:00:11
+sT.- SenzacL*
+sT.- Mand3s
+M79
+--- 19-01-15 23:00:17
+ShutercL
+sT.- SenzacL*
+Grenade
+--- 19-01-15 23:00:18
+ShutercL
+sT.- Enigma
+Steyr AUG
+--- 19-01-15 23:00:20
+sT.- Mand3s
+|BhooD|Diegoxxx
+Steyr AUG
+--- 19-01-15 23:00:23
+sT.- Enigma
+ShutercL
+HK MP5
+--- 19-01-15 23:00:24
+sT.- Mand3s
+sT.- SenzacL*
+Combat Knife
+--- 19-01-15 23:00:25
+sT.- Enigma
+CrasheR
+HK MP5
+--- 19-01-15 23:00:26
+sT.- Enigma
+sT.- Mand3s
+Grenade
+--- 19-01-15 23:00:29
+ShutercL
+|BhooD|Diegoxxx
+Grenade
+--- 19-01-15 23:00:30
+ShutercL
+sT.- Enigma
+Steyr AUG
+--- 19-01-15 23:00:33
+sT.- SenzacL*
+sT.- Mand3s
+M79
+--- 19-01-15 23:00:37
+|BhooD|Diegoxxx
+sT.- Mand3s
+Grenade
+--- 19-01-15 23:00:39
+CrasheR
+sT.- Enigma
+Combat Knife
+--- 19-01-15 23:00:41
+ShutercL
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-15 23:00:43
+|BhooD|Diegoxxx
+CrasheR
+Steyr AUG
+--- 19-01-15 23:00:46
+ShutercL
+|BhooD|Diegoxxx
+Steyr AUG
+--- 19-01-15 23:00:48
+sT.- SenzacL*
+sT.- Mand3s
+M79
+--- 19-01-15 23:00:50
+CrasheR
+sT.- SenzacL*
+Grenade
+--- 19-01-15 23:00:52
+CrasheR
+sT.- Enigma
+Combat Knife
+--- 19-01-15 23:00:55
+|BhooD|Diegoxxx
+CrasheR
+Steyr AUG
+--- 19-01-15 23:00:57
+sT.- Mand3s
+|BhooD|Diegoxxx
+Steyr AUG
+--- 19-01-15 23:00:59
+sT.- SenzacL*
+ShutercL
+Grenade
+--- 19-01-15 23:01:04
+sT.- Enigma
+sT.- Mand3s
+Grenade
+--- 19-01-15 23:01:05
+ShutercL
+|BhooD|Diegoxxx
+Steyr AUG
+--- 19-01-15 23:01:09
+ShutercL
+sT.- Enigma
+Steyr AUG
+--- 19-01-15 23:01:09
+sT.- SenzacL*
+CrasheR
+Chainsaw
+--- 19-01-15 23:01:13
+ShutercL
+sT.- SenzacL*
+Grenade
+--- 19-01-15 23:01:17
+ShutercL
+sT.- Enigma
+Steyr AUG
+--- 19-01-15 23:01:19
+CrasheR
+|BhooD|Diegoxxx
+Ak-74
+--- 19-01-15 23:01:23
+sT.- Enigma
+sT.- Mand3s
+HK MP5
+--- 19-01-15 23:01:28
+|BhooD|Diegoxxx
+CrasheR
+Steyr AUG
+--- 19-01-15 23:01:30
+ShutercL
+sT.- Enigma
+Steyr AUG
+--- 19-01-15 23:01:31
+sT.- Mand3s
+|BhooD|Diegoxxx
+Steyr AUG
+--- 19-01-15 23:01:35
+CrasheR
+sT.- SenzacL*
+Ak-74
+--- 19-01-15 23:01:35
+sT.- Enigma
+sT.- Mand3s
+HK MP5
+--- 19-01-15 23:01:37
+CrasheR
+sT.- Enigma
+Ak-74
+--- 19-01-15 23:01:38
+|BhooD|Diegoxxx
+CrasheR
+Steyr AUG
+--- 19-01-15 23:01:43
+ShutercL
+|BhooD|Diegoxxx
+Steyr AUG
+--- 19-01-15 23:01:44
+sT.- Mand3s
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-15 23:01:47
+sT.- Enigma
+sT.- Mand3s
+HK MP5
+--- 19-01-15 23:01:49
+CrasheR
+sT.- Enigma
+Combat Knife
+--- 19-01-15 23:01:50
+|BhooD|Diegoxxx
+CrasheR
+Steyr AUG
+--- 19-01-15 23:01:55
+ShutercL
+|BhooD|Diegoxxx
+Hands
+--- 19-01-15 23:01:59
+sT.- SenzacL*
+sT.- Mand3s
+M79
+--- 19-01-15 23:02:00
+CrasheR
+sT.- Enigma
+Ak-74
+--- 19-01-15 23:02:06
+sT.- Mand3s
+|BhooD|Diegoxxx
+Steyr AUG
+--- 19-01-15 23:02:09
+sT.- Mand3s
+sT.- Enigma
+Combat Knife
+--- 19-01-15 23:02:09
+sT.- SenzacL*
+sT.- Mand3s
+M79
+--- 19-01-15 23:02:14
+sT.- Enigma
+CrasheR
+HK MP5
+--- 19-01-15 23:02:15
+|BhooD|Diegoxxx
+ShutercL
+Steyr AUG
+--- 19-01-15 23:02:18
+sT.- Enigma
+sT.- Enigma
+Grenade
+--- 19-01-15 23:02:18
+|BhooD|Diegoxxx
+sT.- Mand3s
+Steyr AUG
+--- 19-01-15 23:02:20
+CrasheR
+|BhooD|Diegoxxx
+Grenade
+--- 19-01-15 23:02:20
+|BhooD|Diegoxxx
+ShutercL
+Grenade
+--- 19-01-15 23:02:28
+|BhooD|Diegoxxx
+sT.- Mand3s
+Steyr AUG
+--- 19-01-15 23:02:35
+ShutercL
+sT.- Enigma
+Steyr AUG
+--- 19-01-15 23:02:41
+sT.- Enigma
+sT.- Mand3s
+HK MP5
+--- 19-01-15 23:02:42
+CrasheR
+sT.- SenzacL*
+Ak-74
+--- 19-01-15 23:02:43
+|BhooD|Diegoxxx
+ShutercL
+Steyr AUG
+--- 19-01-15 23:02:45
+|BhooD|Diegoxxx
+CrasheR
+Steyr AUG
+--- 19-01-15 23:02:47
+sT.- Mand3s
+|BhooD|Diegoxxx
+FN Minimi
+--- 19-01-15 23:02:54
+sT.- Mand3s
+|BhooD|Diegoxxx
+FN Minimi
+--- 19-01-15 23:02:55
+sT.- Enigma
+ShutercL
+HK MP5
+--- 19-01-15 23:02:55
+CrasheR
+sT.- Enigma
+Ak-74
+--- 19-01-15 23:02:58
+CrasheR
+sT.- SenzacL*
+Combat Knife
+--- 19-01-15 23:02:59
+sT.- Mand3s
+|BhooD|Diegoxxx
+Combat Knife
+--- 19-01-15 23:03:04
+ShutercL
+sT.- Enigma
+LAW
+--- 19-01-15 23:03:08
+|BhooD|Diegoxxx
+sT.- Mand3s
+Steyr AUG
+--- 19-01-15 23:03:10
+CrasheR
+sT.- SenzacL*
+Ak-74
+--- 19-01-15 23:03:13
+CrasheR
+|BhooD|Diegoxxx
+Ak-74
+--- 19-01-15 23:03:13
+sT.- Enigma
+CrasheR
+Grenade
+--- 19-01-15 23:03:16
+sT.- Mand3s
+sT.- Enigma
+FN Minimi
+--- 19-01-15 23:03:21
+sT.- SenzacL*
+ShutercL
+Grenade
+--- 19-01-15 23:03:22
+|BhooD|Diegoxxx
+sT.- Mand3s
+Steyr AUG
+--- 19-01-15 23:03:22
+sT.- Mand3s
+|BhooD|Diegoxxx
+FN Minimi
+--- 19-01-15 23:03:26
+CrasheR
+sT.- Enigma
+Ak-74
+--- 19-01-15 23:03:30
+ShutercL
+|BhooD|Diegoxxx
+Steyr AUG
+--- 19-01-15 23:03:32
+sT.- SenzacL*
+CrasheR
+M79
+--- 19-01-15 23:03:32
+ShutercL
+sT.- Enigma
+LAW
+--- 19-01-15 23:03:33
+sT.- Mand3s
+sT.- SenzacL*
+FN Minimi
+--- 19-01-15 23:03:37
+|BhooD|Diegoxxx
+ShutercL
+Combat Knife
+--- 19-01-15 23:03:41
+|BhooD|Diegoxxx
+CrasheR
+Steyr AUG
+--- 19-01-15 23:03:44
+ShutercL
+sT.- Enigma
+Grenade
+--- 19-01-15 23:03:46
+|BhooD|Diegoxxx
+sT.- Mand3s
+Steyr AUG
+--- 19-01-15 23:03:48
+ShutercL
+|BhooD|Diegoxxx
+LAW
+--- 19-01-15 23:03:50
+ShutercL
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-15 23:03:50
+sT.- Enigma
+ShutercL
+Steyr AUG
+--- 19-01-15 23:03:53
+sT.- Enigma
+CrasheR
+Steyr AUG
+--- 19-01-15 23:03:56
+sT.- Mand3s
+sT.- Enigma
+FN Minimi
+--- 19-01-15 23:03:59
+sT.- Mand3s
+|BhooD|Diegoxxx
+FN Minimi
+--- 19-01-15 23:04:01
+|BhooD|Diegoxxx
+sT.- Mand3s
+Grenade
+--- 19-01-15 23:04:02
+CrasheR
+sT.- Enigma
+Grenade
+--- 19-01-15 23:04:05
+sT.- SenzacL*
+CrasheR
+M79
+--- 19-01-15 23:04:09
+sT.- Enigma
+ShutercL
+Grenade
+--- 19-01-15 23:04:10
+sT.- SenzacL*
+sT.- Mand3s
+M79
+--- 19-01-15 23:04:14
+CrasheR
+sT.- SenzacL*
+Grenade
+--- 19-01-15 23:04:14
+|BhooD|Diegoxxx
+CrasheR
+Steyr AUG
+--- 19-01-15 23:04:17
+sT.- Mand3s
+sT.- Enigma
+FN Minimi
+--- 19-01-15 23:04:20
+ShutercL
+|BhooD|Diegoxxx
+Grenade
+--- 19-01-15 23:04:24
+ShutercL
+sT.- Enigma
+LAW
+--- 19-01-15 23:04:27
+sT.- SenzacL*
+sT.- Mand3s
+M79
+--- 19-01-15 23:04:28
+|BhooD|Diegoxxx
+CrasheR
+Steyr AUG
+--- 19-01-15 23:04:28
+sT.- SenzacL*
+ShutercL
+Chainsaw
+--- 19-01-15 23:04:35
+sT.- Mand3s
+sT.- SenzacL*
+FN Minimi
+--- 19-01-15 23:04:36
+CrasheR
+|BhooD|Diegoxxx
+Ak-74
+--- 19-01-15 23:04:37
+ShutercL
+sT.- Enigma
+Steyr AUG
+--- 19-01-15 23:04:37
+sT.- Enigma
+sT.- Mand3s
+HK MP5
+--- 19-01-15 23:04:45
+sT.- Mand3s
+|BhooD|Diegoxxx
+Grenade
+--- 19-01-15 23:04:46
+sT.- SenzacL*
+CrasheR
+Grenade
+--- 19-01-15 23:04:47
+sT.- SenzacL*
+ShutercL
+M79
+--- 19-01-15 23:04:47
+sT.- Mand3s
+sT.- SenzacL*
+FN Minimi
+--- 19-01-15 23:04:52
+sT.- Mand3s
+sT.- Enigma
+FN Minimi
+--- 19-01-15 23:04:55
+CrasheR
+sT.- SenzacL*
+Ak-74
+--- 19-01-15 23:04:56
+|BhooD|Diegoxxx
+ShutercL
+Steyr AUG
+--- 19-01-15 23:05:00
+|BhooD|Diegoxxx
+CrasheR
+Combat Knife
+--- 19-01-15 23:05:00
+CrasheR
+|BhooD|Diegoxxx
+Combat Knife
+--- 19-01-15 23:05:03
+sT.- Enigma
+sT.- Mand3s
+HK MP5
+--- 19-01-15 23:05:04
+CrasheR
+sT.- Enigma
+Ak-74
+--- 19-01-15 23:05:05
+CrasheR
+CrasheR
+Grenade
+--- 19-01-15 23:05:09
+sT.- SenzacL*
+sT.- Mand3s
+M79
+--- 19-01-15 23:05:12
+sT.- Enigma
+ShutercL
+HK MP5
+--- 19-01-15 23:05:13
+sT.- Enigma
+CrasheR
+Grenade
+--- 19-01-15 23:05:20
+sT.- Mand3s
+sT.- Enigma
+FN Minimi
+--- 19-01-15 23:05:22
+ShutercL
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-15 23:05:24
+CrasheR
+|BhooD|Diegoxxx
+Ak-74
+--- 19-01-15 23:05:27
+sT.- Mand3s
+sT.- Enigma
+FN Minimi
+--- 19-01-15 23:05:29
+sT.- SenzacL*
+sT.- Mand3s
+Chainsaw
+--- 19-01-15 23:05:31
+|BhooD|Diegoxxx
+CrasheR
+Steyr AUG
+--- 19-01-15 23:05:34
+|BhooD|Diegoxxx
+ShutercL
+Steyr AUG
+--- 19-01-15 23:05:36
+sT.- Enigma
+sT.- Mand3s
+M79
+--- 19-01-15 23:05:38
+CrasheR
+|BhooD|Diegoxxx
+Ak-74
+--- 19-01-15 23:06:29
+ShutercL
+|BhooD|Diegoxxx
+Grenade
+--- 19-01-15 23:06:30
+sT.- Enigma
+ShutercL
+Combat Knife
+--- 19-01-15 23:06:33
+sT.- Enigma
+sT.- Mand3s
+Ak-74
+--- 19-01-15 23:06:33
+sT.- Mand3s
+sT.- Enigma
+Barrett M82A1
+--- 19-01-15 23:06:34
+ShutercL
+sT.- SenzacL*
+Combat Knife
+--- 19-01-15 23:06:38
+sT.- Mand3s
+sT.- Mand3s
+Grenade
+--- 19-01-15 23:06:44
+sT.- SenzacL*
+sT.- Mand3s
+Barrett M82A1
+--- 19-01-15 23:06:46
+|BhooD|Diegoxxx
+ShutercL
+FN Minimi
+--- 19-01-15 23:06:50
+sT.- SenzacL*
+sT.- Mand3s
+Grenade
+--- 19-01-15 23:06:55
+ShutercL
+sT.- Enigma
+FN Minimi
+--- 19-01-15 23:06:55
+|BhooD|Diegoxxx
+sT.- Mand3s
+Barrett M82A1
+--- 19-01-15 23:06:57
+sT.- SenzacL*
+ShutercL
+Barrett M82A1
+--- 19-01-15 23:07:05
+sT.- Enigma
+sT.- Mand3s
+Barrett M82A1
+--- 19-01-15 23:07:08
+ShutercL
+sT.- SenzacL*
+FN Minimi
+--- 19-01-15 23:07:14
+ShutercL
+sT.- SenzacL*
+Grenade
+--- 19-01-15 23:07:15
+sT.- Mand3s
+sT.- Enigma
+Desert Eagles
+--- 19-01-15 23:07:21
+|BhooD|Diegoxxx
+ShutercL
+Steyr AUG
+--- 19-01-15 23:07:30
+sT.- Enigma
+sT.- Mand3s
+Combat Knife
+--- 19-01-15 23:07:33
+|BhooD|Diegoxxx
+ShutercL
+Steyr AUG
+--- 19-01-15 23:07:44
+sT.- Mand3s
+sT.- SenzacL*
+Grenade
+--- 19-01-15 23:07:44
+sT.- Mand3s
+sT.- Mand3s
+Grenade
+--- 19-01-15 23:07:49
+|BhooD|Diegoxxx
+sT.- Mand3s
+Grenade
+--- 19-01-15 23:07:52
+sT.- Enigma
+ShutercL
+Grenade
+--- 19-01-15 23:07:59
+sT.- SenzacL*
+sT.- SenzacL*
+Grenade
+--- 19-01-15 23:08:11
+sT.- Mand3s
+sT.- Enigma
+Desert Eagles
+--- 19-01-15 23:08:15
+|BhooD|Diegoxxx
+sT.- Mand3s
+Steyr AUG
+--- 19-01-15 23:08:16
+sT.- SenzacL*
+ShutercL
+Barrett M82A1
+--- 19-01-15 23:08:26
+|BhooD|Diegoxxx
+ShutercL
+Steyr AUG
+--- 19-01-15 23:08:28
+sT.- SenzacL*
+sT.- Mand3s
+Barrett M82A1
+--- 19-01-15 23:08:28
+sT.- Mand3s
+sT.- SenzacL*
+Desert Eagles
+--- 19-01-15 23:08:30
+sT.- Enigma
+CrasheR
+Barrett M82A1
+--- 19-01-15 23:08:43
+|BhooD|Diegoxxx
+ShutercL
+Steyr AUG
+--- 19-01-15 23:08:44
+sT.- Enigma
+CrasheR
+Barrett M82A1
+--- 19-01-15 23:08:49
+ShutercL
+sT.- SenzacL*
+Combat Knife
+--- 19-01-15 23:08:50
+CrasheR
+sT.- Enigma
+Grenade
+--- 19-01-15 23:08:52
+|BhooD|Diegoxxx
+ShutercL
+Steyr AUG
+--- 19-01-15 23:08:56
+sT.- Mand3s
+|BhooD|Diegoxxx
+Barrett M82A1
+--- 19-01-15 23:09:03
+ShutercL
+sT.- SenzacL*
+Grenade
+--- 19-01-15 23:09:07
+ShutercL
+sT.- Enigma
+Combat Knife
+--- 19-01-15 23:09:11
+ShutercL
+sT.- SenzacL*
+FN Minimi
+--- 19-01-15 23:09:11
+|BhooD|Diegoxxx
+ShutercL
+Steyr AUG
+--- 19-01-15 23:09:12
+CrasheR
+|BhooD|Diegoxxx
+Grenade
+--- 19-01-15 23:09:18
+sT.- Enigma
+CrasheR
+Barrett M82A1
+--- 19-01-15 23:09:20
+sT.- Mand3s
+sT.- Enigma
+Barrett M82A1
+--- 19-01-15 23:09:27
+ShutercL
+|BhooD|Diegoxxx
+Grenade
+--- 19-01-15 23:09:30
+CrasheR
+sT.- Enigma
+Barrett M82A1
+--- 19-01-15 23:09:33
+sT.- SenzacL*
+ShutercL
+M79
+--- 19-01-15 23:09:34
+|BhooD|Diegoxxx
+sT.- Mand3s
+Steyr AUG
+--- 19-01-15 23:09:35
+CrasheR
+sT.- Enigma
+Barrett M82A1
+--- 19-01-15 23:09:37
+|BhooD|Diegoxxx
+CrasheR
+Steyr AUG
+--- 19-01-15 23:09:43
+ShutercL
+sT.- SenzacL*
+FN Minimi
+--- 19-01-15 23:09:43
+sT.- Enigma
+CrasheR
+Barrett M82A1
+--- 19-01-15 23:09:49
+sT.- Mand3s
+sT.- SenzacL*
+Barrett M82A1
+--- 19-01-15 23:09:50
+sT.- Enigma
+ShutercL
+Barrett M82A1
+--- 19-01-15 23:09:54
+|BhooD|Diegoxxx
+CrasheR
+Steyr AUG
+--- 19-01-15 23:09:57
+ShutercL
+sT.- Enigma
+Grenade
+--- 19-01-15 23:09:59
+sT.- SenzacL*
+ShutercL
+M79
+--- 19-01-15 23:10:03
+sT.- Enigma
+CrasheR
+Barrett M82A1
+--- 19-01-15 23:10:05
+sT.- Enigma
+ShutercL
+Grenade
+--- 19-01-15 23:10:09
+sT.- Enigma
+sT.- Mand3s
+Barrett M82A1
+--- 19-01-15 23:10:10
+ShutercL
+sT.- Enigma
+FN Minimi
+--- 19-01-15 23:10:13
+sT.- Mand3s
+sT.- SenzacL*
+Grenade
+--- 19-01-15 23:10:17
+|BhooD|Diegoxxx
+sT.- Mand3s
+Grenade
+--- 19-01-15 23:10:18
+sT.- Enigma
+CrasheR
+Barrett M82A1
+--- 19-01-15 23:10:22
+sT.- SenzacL*
+sT.- Mand3s
+M79
+--- 19-01-15 23:10:25
+ShutercL
+sT.- Enigma
+FN Minimi
+--- 19-01-15 23:10:28
+ShutercL
+sT.- SenzacL*
+FN Minimi
+--- 19-01-15 23:10:28
+CrasheR
+CrasheR
+Grenade
+--- 19-01-15 23:10:32
+|BhooD|Diegoxxx
+ShutercL
+Steyr AUG
+--- 19-01-15 23:10:34
+|BhooD|Diegoxxx
+sT.- Mand3s
+Steyr AUG
+--- 19-01-15 23:10:38
+ShutercL
+sT.- Enigma
+FN Minimi
+--- 19-01-15 23:10:42
+sT.- Mand3s
+sT.- SenzacL*
+USSOCOM
+--- 19-01-15 23:10:45
+|BhooD|Diegoxxx
+CrasheR
+Barrett M82A1
+--- 19-01-15 23:10:46
+sT.- Mand3s
+sT.- Enigma
+USSOCOM
+--- 19-01-15 23:10:48
+sT.- SenzacL*
+sT.- Mand3s
+M79
+--- 19-01-15 23:10:55
+sT.- Mand3s
+sT.- SenzacL*
+Barrett M82A1
+--- 19-01-15 23:10:58
+sT.- Enigma
+ShutercL
+Ak-74
+--- 19-01-15 23:11:01
+CrasheR
+sT.- SenzacL*
+Barrett M82A1
+--- 19-01-15 23:11:04
+|BhooD|Diegoxxx
+sT.- Mand3s
+Grenade
+--- 19-01-15 23:11:05
+|BhooD|Diegoxxx
+CrasheR
+Grenade
+--- 19-01-15 23:11:12
+CrasheR
+sT.- Enigma
+Barrett M82A1
+--- 19-01-15 23:11:19
+|BhooD|Diegoxxx
+CrasheR
+Steyr AUG
+--- 19-01-15 23:11:20
+ShutercL
+|BhooD|Diegoxxx
+FN Minimi
+--- 19-01-15 23:11:22
+sT.- Enigma
+ShutercL
+Barrett M82A1
+--- 19-01-15 23:11:25
+CrasheR
+sT.- SenzacL*
+Combat Knife
+--- 19-01-15 23:11:28
+sT.- Enigma
+ShutercL
+Barrett M82A1
+--- 19-01-15 23:11:37
+|BhooD|Diegoxxx
+CrasheR
+Steyr AUG
+--- 19-01-15 23:11:40
+sT.- Enigma
+sT.- Enigma
+Grenade
+--- 19-01-15 23:11:46
+|BhooD|Diegoxxx
+CrasheR
+Barrett M82A1
+--- 19-01-15 23:11:46
+CrasheR
+|BhooD|Diegoxxx
+Barrett M82A1
+--- 19-01-15 23:11:51
+sT.- Enigma
+sT.- Mand3s
+Barrett M82A1
+--- 19-01-15 23:11:51
+sT.- SenzacL*
+ShutercL
+Grenade
+--- 19-01-15 23:11:56
+|BhooD|Diegoxxx
+sT.- Mand3s
+Steyr AUG
+--- 19-01-15 23:11:57
+sT.- Enigma
+CrasheR
+Combat Knife
+--- 19-01-15 23:11:57
+CrasheR
+sT.- Enigma
+Combat Knife
+--- 19-01-15 23:11:58
+|BhooD|Diegoxxx
+ShutercL
+Combat Knife
+--- 19-01-15 23:12:04
+CrasheR
+sT.- SenzacL*
+Barrett M82A1
+--- 19-01-15 23:12:05
+ShutercL
+|BhooD|Diegoxxx
+Grenade
+--- 19-01-15 23:12:07
+CrasheR
+sT.- Enigma
+Combat Knife
+--- 19-01-15 23:12:14
+CrasheR
+|BhooD|Diegoxxx
+Barrett M82A1
+--- 19-01-15 23:12:16
+ShutercL
+sT.- SenzacL*
+Grenade
+--- 19-01-15 23:12:17
+sT.- Enigma
+sT.- Mand3s
+Barrett M82A1
+--- 19-01-15 23:12:22
+CrasheR
+sT.- Enigma
+Combat Knife
+--- 19-01-15 23:12:24
+ShutercL
+ShutercL
+Grenade
+--- 19-01-15 23:12:25
+sT.- Mand3s
+|BhooD|Diegoxxx
+USSOCOM
+--- 19-01-15 23:12:27
+CrasheR
+sT.- SenzacL*
+Barrett M82A1
+--- 19-01-15 23:12:32
+sT.- Mand3s
+sT.- Enigma
+Barrett M82A1
+--- 19-01-15 23:12:36
+|BhooD|Diegoxxx
+CrasheR
+Grenade
+--- 19-01-15 23:12:36
+sT.- Mand3s
+sT.- SenzacL*
+Barrett M82A1
+--- 19-01-15 23:12:36
+sT.- SenzacL*
+sT.- Mand3s
+M79
+--- 19-01-15 23:12:38
+ShutercL
+sT.- Enigma
+Combat Knife
+--- 19-01-15 23:12:42
+sT.- SenzacL*
+ShutercL
+Grenade
+--- 19-01-15 23:12:44
+ShutercL
+sT.- SenzacL*
+Grenade
+--- 19-01-15 23:12:48
+sT.- Enigma
+sT.- Mand3s
+Barrett M82A1
+--- 19-01-15 23:12:52
+ShutercL
+sT.- Enigma
+FN Minimi
+--- 19-01-15 23:12:53
+sT.- Mand3s
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-15 23:12:58
+CrasheR
+sT.- Enigma
+Barrett M82A1
+--- 19-01-15 23:12:58
+|BhooD|Diegoxxx
+ShutercL
+Steyr AUG
+--- 19-01-15 23:13:06
+sT.- Mand3s
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-15 23:13:07
+ShutercL
+|BhooD|Diegoxxx
+Steyr AUG
+--- 19-01-15 23:13:10
+sT.- Enigma
+CrasheR
+Ak-74
+--- 19-01-15 23:13:16
+ShutercL
+sT.- Enigma
+Steyr AUG
+--- 19-01-15 23:13:20
+sT.- SenzacL*
+CrasheR
+Barrett M82A1
+--- 19-01-15 23:13:20
+|BhooD|Diegoxxx
+ShutercL
+Steyr AUG
+--- 19-01-15 23:13:29
+sT.- Mand3s
+|BhooD|Diegoxxx
+Barrett M82A1
+--- 19-01-15 23:13:29
+ShutercL
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-15 23:13:32
+sT.- Enigma
+sT.- Mand3s
+Barrett M82A1
+--- 19-01-15 23:13:35
+sT.- SenzacL*
+ShutercL
+Grenade
+--- 19-01-15 23:13:37
+CrasheR
+sT.- SenzacL*
+Barrett M82A1
+--- 19-01-15 23:13:39
+sT.- Mand3s
+sT.- Enigma
+Steyr AUG
+--- 19-01-15 23:13:45
+ShutercL
+|BhooD|Diegoxxx
+Steyr AUG
+--- 19-01-15 23:13:47
+sT.- SenzacL*
+ShutercL
+Barrett M82A1
+--- 19-01-15 23:13:48
+sT.- SenzacL*
+sT.- SenzacL*
+Grenade
+--- 19-01-15 23:13:50
+sT.- Enigma
+sT.- Enigma
+Grenade
+--- 19-01-15 23:13:52
+|BhooD|Diegoxxx
+sT.- Mand3s
+Steyr AUG
+--- 19-01-15 23:13:53
+ShutercL
+|BhooD|Diegoxxx
+Grenade
+--- 19-01-15 23:13:57
+sT.- Enigma
+CrasheR
+Steyr AUG
+--- 19-01-15 23:14:00
+sT.- Enigma
+ShutercL
+Steyr AUG
+--- 19-01-15 23:14:01
+sT.- Mand3s
+sT.- Enigma
+Steyr AUG
+--- 19-01-15 23:14:03
+sT.- Mand3s
+sT.- SenzacL*
+Grenade
+--- 19-01-15 23:14:04
+|BhooD|Diegoxxx
+sT.- Mand3s
+Steyr AUG
+--- 19-01-15 23:14:04
+sT.- Mand3s
+|BhooD|Diegoxxx
+LAW
+--- 19-01-15 23:14:12
+ShutercL
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-15 23:14:14
+ShutercL
+sT.- Enigma
+Steyr AUG
+--- 19-01-15 23:14:16
+|BhooD|Diegoxxx
+ShutercL
+Grenade
+--- 19-01-15 23:14:21
+CrasheR
+|BhooD|Diegoxxx
+Barrett M82A1
+--- 19-01-15 23:14:29
+|BhooD|Diegoxxx
+sT.- Mand3s
+Steyr AUG
+--- 19-01-15 23:14:30
+|BhooD|Diegoxxx
+CrasheR
+Steyr AUG
+--- 19-01-15 23:14:34
+sT.- Mand3s
+sT.- SenzacL*
+Grenade
+--- 19-01-15 23:14:36
+ShutercL
+sT.- Enigma
+Combat Knife
+--- 19-01-15 23:14:40
+sT.- Mand3s
+sT.- Enigma
+Steyr AUG
+--- 19-01-15 23:14:40
+sT.- SenzacL*
+sT.- Mand3s
+Grenade
+--- 19-01-15 23:14:41
+|BhooD|Diegoxxx
+ShutercL
+Steyr AUG
+--- 19-01-15 23:14:42
+CrasheR
+|BhooD|Diegoxxx
+USSOCOM
+--- 19-01-15 23:14:47
+sT.- Mand3s
+sT.- SenzacL*
+Grenade
+--- 19-01-15 23:14:47
+|BhooD|Diegoxxx
+CrasheR
+Grenade
+--- 19-01-15 23:14:52
+ShutercL
+sT.- Enigma
+Steyr AUG
+--- 19-01-15 23:14:54
+CrasheR
+sT.- SenzacL*
+Grenade
+--- 19-01-15 23:14:57
+|BhooD|Diegoxxx
+sT.- Mand3s
+Steyr AUG
+--- 19-01-15 23:14:58
+CrasheR
+|BhooD|Diegoxxx
+USSOCOM
+--- 19-01-15 23:15:01
+sT.- Enigma
+sT.- Mand3s
+LAW
+--- 19-01-15 23:15:05
+sT.- Enigma
+ShutercL
+Steyr AUG
+--- 19-01-15 23:15:08
+CrasheR
+sT.- Enigma
+Grenade
+--- 19-01-15 23:15:09
+CrasheR
+sT.- SenzacL*
+Barrett M82A1
+--- 19-01-15 23:15:09
+|BhooD|Diegoxxx
+sT.- Mand3s
+Steyr AUG
+--- 19-01-15 23:15:10
+|BhooD|Diegoxxx
+CrasheR
+Combat Knife
+--- 19-01-15 23:15:15
+sT.- Mand3s
+sT.- Enigma
+Steyr AUG
+--- 19-01-15 23:15:18
+CrasheR
+|BhooD|Diegoxxx
+Barrett M82A1
+--- 19-01-15 23:15:19
+sT.- SenzacL*
+ShutercL
+Spas-12
+--- 19-01-15 23:15:26
+sT.- Mand3s
+sT.- Enigma
+Steyr AUG
+--- 19-01-15 23:15:26
+ShutercL
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-15 23:15:33
+|BhooD|Diegoxxx
+sT.- Mand3s
+Steyr AUG
+--- 19-01-15 23:15:35
+sT.- SenzacL*
+CrasheR
+Spas-12
+--- 19-01-15 23:15:37
+sT.- Mand3s
+sT.- Enigma
+Grenade
+--- 19-01-15 23:15:39
+sT.- SenzacL*
+ShutercL
+Grenade
+--- 19-01-15 23:15:39
+sT.- Mand3s
+|BhooD|Diegoxxx
+Grenade
+--- 19-01-15 23:15:44
+CrasheR
+sT.- Enigma
+Barrett M82A1
+--- 19-01-15 23:15:48
+sT.- Mand3s
+|BhooD|Diegoxxx
+LAW
+--- 19-01-15 23:15:48
+CrasheR
+sT.- SenzacL*
+USSOCOM
+--- 19-01-15 23:15:49
+sT.- Enigma
+sT.- Mand3s
+Combat Knife
+--- 19-01-15 23:15:52
+sT.- Enigma
+CrasheR
+Grenade
+--- 19-01-15 23:15:56
+sT.- SenzacL*
+sT.- SenzacL*
+Grenade
+--- 19-01-15 23:15:56
+sT.- SenzacL*
+sT.- Mand3s
+Spas-12
+--- 19-01-15 23:15:56
+sT.- Enigma
+ShutercL
+Barrett M82A1
+--- 19-01-15 23:16:06
+sT.- Mand3s
+sT.- Enigma
+Grenade
+--- 19-01-15 23:16:06
+sT.- Enigma
+sT.- Mand3s
+Grenade
+--- 19-01-15 23:16:07
+sT.- SenzacL*
+ShutercL
+Spas-12
+--- 19-01-15 23:16:09
+sT.- SenzacL*
+CrasheR
+Spas-12
+--- 19-01-15 23:16:13
+sT.- Enigma
+sT.- Mand3s
+Barrett M82A1
+--- 19-01-15 23:16:18
+CrasheR
+sT.- SenzacL*
+Ak-74
+--- 19-01-15 23:16:19
+sT.- Mand3s
+sT.- Enigma
+Steyr AUG
+--- 19-01-15 23:16:22
+ShutercL
+sT.- SenzacL*
+Combat Knife
+--- 19-01-15 23:16:25
+sT.- Enigma
+ShutercL
+Ak-74
+--- 19-01-15 23:16:27
+sT.- Enigma
+CrasheR
+Ak-74
+--- 19-01-15 23:16:33
+CrasheR
+|BhooD|Diegoxxx
+Ak-74
+--- 19-01-15 23:16:40
+ShutercL
+sT.- SenzacL*
+Grenade
+--- 19-01-15 23:16:41
+sT.- Mand3s
+sT.- Enigma
+Barrett M82A1
+--- 19-01-15 23:16:46
+sT.- SenzacL*
+CrasheR
+Spas-12
+--- 19-01-15 23:16:47
+ShutercL
+|BhooD|Diegoxxx
+Grenade
+--- 19-01-15 23:16:49
+sT.- Enigma
+ShutercL
+Steyr AUG
+--- 19-01-15 23:16:52
+sT.- SenzacL*
+sT.- Mand3s
+Spas-12
+--- 19-01-15 23:16:55
+|BhooD|Diegoxxx
+|BhooD|Diegoxxx
+Grenade
+--- 19-01-15 23:16:56
+ShutercL
+sT.- Enigma
+Steyr AUG
+--- 19-01-15 23:16:58
+ShutercL
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-15 23:17:03
+CrasheR
+sT.- Enigma
+Combat Knife
+--- 19-01-15 23:17:05
+CrasheR
+|BhooD|Diegoxxx
+Ak-74
+--- 19-01-15 23:17:14
+|BhooD|Diegoxxx
+CrasheR
+Steyr AUG
+--- 19-01-15 23:17:15
+sT.- Mand3s
+|BhooD|Diegoxxx
+Steyr AUG
+--- 19-01-15 23:17:15
+|BhooD|Diegoxxx
+sT.- Mand3s
+Grenade
+--- 19-01-15 23:17:25
+sT.- SenzacL*
+sT.- Mand3s
+Spas-12
+--- 19-01-15 23:17:27
+CrasheR
+|BhooD|Diegoxxx
+Ak-74
+--- 19-01-15 23:17:27
+ShutercL
+sT.- Enigma
+Steyr AUG
+--- 19-01-15 23:17:35
+CrasheR
+sT.- Enigma
+Grenade
+--- 19-01-15 23:17:37
+sT.- Mand3s
+sT.- SenzacL*
+Grenade
+--- 19-01-15 23:17:38
+sT.- Mand3s
+|BhooD|Diegoxxx
+Steyr AUG
+--- 19-01-15 23:17:41
+sT.- Mand3s
+sT.- Enigma
+Grenade
+--- 19-01-15 23:17:44
+CrasheR
+|BhooD|Diegoxxx
+Ak-74
+--- 19-01-15 23:17:50
+sT.- Enigma
+CrasheR
+Steyr AUG
+--- 19-01-15 23:17:50
+sT.- SenzacL*
+sT.- Mand3s
+Spas-12
+--- 19-01-15 23:17:57
+sT.- Mand3s
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-15 23:18:04
+CrasheR
+sT.- Enigma
+Ak-74
+--- 19-01-15 23:18:04
+sT.- SenzacL*
+sT.- Mand3s
+Grenade
+--- 19-01-15 23:18:04
+|BhooD|Diegoxxx
+ShutercL
+FN Minimi
+--- 19-01-15 23:18:10
+sT.- Mand3s
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-15 23:18:11
+|BhooD|Diegoxxx
+CrasheR
+FN Minimi
+--- 19-01-15 23:18:12
+|BhooD|Diegoxxx
+sT.- Mand3s
+Grenade
+--- 19-01-15 23:18:14
+ShutercL
+|BhooD|Diegoxxx
+Steyr AUG
+--- 19-01-15 23:18:18
+sT.- Mand3s
+sT.- Enigma
+Steyr AUG
+--- 19-01-15 23:18:19
+sT.- SenzacL*
+ShutercL
+Spas-12
+--- 19-01-15 23:18:23
+sT.- Mand3s
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-15 23:18:24
+|BhooD|Diegoxxx
+CrasheR
+FN Minimi
+--- 19-01-15 23:18:27
+|BhooD|Diegoxxx
+sT.- Mand3s
+FN Minimi
+--- 19-01-15 23:18:27
+sT.- Mand3s
+|BhooD|Diegoxxx
+Steyr AUG
+--- 19-01-15 23:18:31
+sT.- SenzacL*
+sT.- Mand3s
+Grenade
+--- 19-01-15 23:18:36
+ShutercL
+sT.- SenzacL*
+Grenade
+--- 19-01-15 23:18:36
+sT.- SenzacL*
+ShutercL
+Grenade
+--- 19-01-15 23:18:58
+CrasheR
+sT.- SenzacL*
+Barrett M82A1
+--- 19-01-15 23:18:59
+sT.- Enigma
+sT.- Mand3s
+Ak-74
+--- 19-01-15 23:19:02
+|BhooD|Diegoxxx
+CrasheR
+Grenade
+--- 19-01-15 23:19:07
+sT.- Mand3s
+sT.- Enigma
+HK MP5
+--- 19-01-15 23:19:08
+sT.- SenzacL*
+CrasheR
+Barrett M82A1
+--- 19-01-15 23:19:14
+ShutercL
+sT.- Enigma
+Grenade
+--- 19-01-15 23:19:14
+|BhooD|Diegoxxx
+ShutercL
+Grenade
+--- 19-01-15 23:19:14
+|BhooD|Diegoxxx
+sT.- Mand3s
+Grenade
+--- 19-01-15 23:19:20
+sT.- Enigma
+CrasheR
+HK MP5
+--- 19-01-15 23:19:23
+sT.- SenzacL*
+sT.- Mand3s
+Barrett M82A1
+--- 19-01-15 23:19:27
+ShutercL
+sT.- Enigma
+Steyr AUG
+--- 19-01-15 23:19:30
+CrasheR
+sT.- SenzacL*
+Barrett M82A1
+--- 19-01-15 23:19:31
+|BhooD|Diegoxxx
+ShutercL
+FN Minimi
+--- 19-01-15 23:19:32
+|BhooD|Diegoxxx
+CrasheR
+Grenade
+--- 19-01-15 23:19:34
+sT.- Mand3s
+sT.- Mand3s
+Grenade
+--- 19-01-15 23:19:34
+sT.- Mand3s
+|BhooD|Diegoxxx
+Grenade
+--- 19-01-15 23:19:42
+sT.- Mand3s
+sT.- Enigma
+HK MP5
+--- 19-01-15 23:19:42
+sT.- Enigma
+sT.- Mand3s
+Grenade
+--- 19-01-15 23:19:45
+ShutercL
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-15 23:19:49
+|BhooD|Diegoxxx
+sT.- Mand3s
+FN Minimi
+--- 19-01-15 23:19:51
+CrasheR
+sT.- Enigma
+Barrett M82A1
+--- 19-01-15 23:19:53
+sT.- SenzacL*
+CrasheR
+Barrett M82A1
+--- 19-01-15 23:19:58
+sT.- Mand3s
+sT.- SenzacL*
+HK MP5
+--- 19-01-15 23:20:00
+CrasheR
+sT.- Enigma
+Barrett M82A1
+--- 19-01-15 23:20:00
+sT.- Enigma
+CrasheR
+Grenade
+--- 19-01-15 23:20:01
+ShutercL
+|BhooD|Diegoxxx
+Steyr AUG
+--- 19-01-15 23:20:07
+sT.- SenzacL*
+CrasheR
+Barrett M82A1
+--- 19-01-15 23:20:10
+sT.- Enigma
+ShutercL
+HK MP5
+--- 19-01-15 23:20:11
+sT.- SenzacL*
+sT.- Mand3s
+Grenade
+--- 19-01-15 23:20:17
+ShutercL
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-15 23:20:20
+CrasheR
+|BhooD|Diegoxxx
+Combat Knife
+--- 19-01-15 23:20:24
+sT.- Mand3s
+sT.- SenzacL*
+HK MP5
+--- 19-01-15 23:20:25
+|BhooD|Diegoxxx
+sT.- Mand3s
+Steyr AUG
+--- 19-01-15 23:20:26
+sT.- Enigma
+CrasheR
+HK MP5
+--- 19-01-15 23:20:32
+sT.- SenzacL*
+CrasheR
+Barrett M82A1
+--- 19-01-15 23:20:33
+ShutercL
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-15 23:20:33
+sT.- Mand3s
+|BhooD|Diegoxxx
+Grenade
+--- 19-01-15 23:20:41
+ShutercL
+|BhooD|Diegoxxx
+LAW
+--- 19-01-15 23:20:41
+sT.- Mand3s
+sT.- SenzacL*
+Grenade
+--- 19-01-15 23:20:46
+sT.- Enigma
+ShutercL
+Grenade
+--- 19-01-15 23:20:46
+sT.- Mand3s
+sT.- Enigma
+HK MP5
+--- 19-01-15 23:20:46
+sT.- Mand3s
+sT.- SenzacL*
+Grenade
+--- 19-01-15 23:20:48
+|BhooD|Diegoxxx
+sT.- Mand3s
+Steyr AUG
+--- 19-01-15 23:20:55
+sT.- SenzacL*
+ShutercL
+Barrett M82A1
+--- 19-01-15 23:20:57
+|BhooD|Diegoxxx
+sT.- Mand3s
+Grenade
+--- 19-01-15 23:20:57
+CrasheR
+sT.- SenzacL*
+Barrett M82A1
+--- 19-01-15 23:20:58
+sT.- Enigma
+CrasheR
+Grenade
+--- 19-01-15 23:21:01
+sT.- Enigma
+ShutercL
+Grenade
+--- 19-01-15 23:21:04
+CrasheR
+sT.- Enigma
+Combat Knife
+--- 19-01-15 23:21:07
+sT.- SenzacL*
+CrasheR
+Barrett M82A1
+--- 19-01-15 23:21:08
+sT.- Mand3s
+|BhooD|Diegoxxx
+HK MP5
+--- 19-01-15 23:21:11
+sT.- SenzacL*
+sT.- SenzacL*
+Grenade
+--- 19-01-15 23:21:12
+sT.- Enigma
+sT.- Mand3s
+HK MP5
+--- 19-01-15 23:21:18
+sT.- Enigma
+CrasheR
+HK MP5
+--- 19-01-15 23:21:19
+sT.- Mand3s
+sT.- SenzacL*
+Grenade
+--- 19-01-15 23:21:22
+ShutercL
+|BhooD|Diegoxxx
+Steyr AUG
+--- 19-01-15 23:21:23
+sT.- Mand3s
+sT.- Enigma
+HK MP5
+--- 19-01-15 23:21:25
+sT.- SenzacL*
+sT.- Mand3s
+Chainsaw
+--- 19-01-15 23:21:31
+sT.- Enigma
+ShutercL
+HK MP5
+--- 19-01-15 23:21:32
+CrasheR
+sT.- SenzacL*
+Barrett M82A1
+--- 19-01-15 23:21:37
+sT.- Enigma
+sT.- Enigma
+Grenade
+--- 19-01-15 23:21:37
+CrasheR
+|BhooD|Diegoxxx
+Barrett M82A1
+--- 19-01-15 23:21:41
+sT.- Mand3s
+sT.- SenzacL*
+Combat Knife
+--- 19-01-15 23:21:44
+|BhooD|Diegoxxx
+sT.- Mand3s
+Grenade
+--- 19-01-15 23:21:46
+|BhooD|Diegoxxx
+CrasheR
+Steyr AUG
+--- 19-01-15 23:21:51
+ShutercL
+sT.- Enigma
+M79
+--- 19-01-15 23:21:53
+sT.- Mand3s
+sT.- SenzacL*
+HK MP5
+--- 19-01-15 23:21:53
+sT.- SenzacL*
+CrasheR
+Grenade
+--- 19-01-15 23:21:58
+sT.- Mand3s
+|BhooD|Diegoxxx
+HK MP5
+--- 19-01-15 23:22:02
+sT.- SenzacL*
+CrasheR
+Barrett M82A1
+--- 19-01-15 23:22:04
+sT.- Mand3s
+sT.- Enigma
+HK MP5
+--- 19-01-15 23:22:08
+|BhooD|Diegoxxx
+sT.- Mand3s
+Steyr AUG
+--- 19-01-15 23:22:10
+CrasheR
+sT.- SenzacL*
+Barrett M82A1
+--- 19-01-15 23:22:13
+|BhooD|Diegoxxx
+ShutercL
+Grenade
+--- 19-01-15 23:22:15
+sT.- Enigma
+CrasheR
+HK MP5
+--- 19-01-15 23:22:17
+sT.- Enigma
+sT.- Enigma
+Grenade
+--- 19-01-15 23:22:21
+CrasheR
+sT.- SenzacL*
+Barrett M82A1
+--- 19-01-15 23:22:25
+|BhooD|Diegoxxx
+sT.- Mand3s
+Grenade
+--- 19-01-15 23:22:25
+sT.- Mand3s
+|BhooD|Diegoxxx
+Grenade
+--- 19-01-15 23:22:26
+CrasheR
+sT.- Enigma
+Barrett M82A1
+--- 19-01-15 23:22:26
+CrasheR
+sT.- SenzacL*
+Barrett M82A1
+--- 19-01-15 23:22:31
+ShutercL
+|BhooD|Diegoxxx
+Combat Knife
+--- 19-01-15 23:22:31
+sT.- Enigma
+ShutercL
+Combat Knife
+--- 19-01-15 23:22:34
+sT.- Mand3s
+sT.- SenzacL*
+FN Minimi
+--- 19-01-15 23:22:36
+sT.- Mand3s
+sT.- Enigma
+Grenade
+--- 19-01-15 23:22:42
+sT.- Mand3s
+|BhooD|Diegoxxx
+FN Minimi
+--- 19-01-15 23:22:44
+sT.- SenzacL*
+CrasheR
+Barrett M82A1
+--- 19-01-15 23:22:45
+sT.- Mand3s
+sT.- Enigma
+FN Minimi
+--- 19-01-15 23:22:47
+ShutercL
+sT.- SenzacL*
+Combat Knife
+--- 19-01-15 23:22:53
+sT.- Enigma
+sT.- Mand3s
+HK MP5
+--- 19-01-15 23:22:58
+sT.- SenzacL*
+sT.- Mand3s
+Barrett M82A1
+--- 19-01-15 23:23:06
+sT.- Enigma
+ShutercL
+HK MP5
+--- 19-01-15 23:23:07
+sT.- Mand3s
+sT.- SenzacL*
+FN Minimi
+--- 19-01-15 23:23:10
+sT.- Enigma
+sT.- Enigma
+Grenade
+--- 19-01-15 23:23:14
+sT.- Mand3s
+|BhooD|Diegoxxx
+FN Minimi
+--- 19-01-15 23:23:22
+sT.- Enigma
+ShutercL
+HK MP5
+--- 19-01-15 23:23:22
+sT.- Mand3s
+sT.- Enigma
+FN Minimi
+--- 19-01-15 23:23:23
+sT.- Enigma
+sT.- Mand3s
+HK MP5
+--- 19-01-15 23:23:23
+sT.- Mand3s
+sT.- SenzacL*
+Grenade
+--- 19-01-15 23:23:33
+sT.- Enigma
+sT.- Mand3s
+Grenade
+--- 19-01-15 23:23:33
+sT.- Mand3s
+sT.- Enigma
+Grenade
+--- 19-01-15 23:23:33
+CrasheR
+|BhooD|Diegoxxx
+Barrett M82A1
+--- 19-01-15 23:23:38
+sT.- Enigma
+ShutercL
+HK MP5
+--- 19-01-15 23:23:42
+sT.- Mand3s
+sT.- Enigma
+Hands
+--- 19-01-15 23:23:43
+|BhooD|Diegoxxx
+sT.- Mand3s
+Steyr AUG
+--- 19-01-15 23:23:43
+sT.- Mand3s
+|BhooD|Diegoxxx
+Grenade
+--- 19-01-15 23:23:49
+sT.- Enigma
+ShutercL
+HK MP5
+--- 19-01-15 23:23:49
+CrasheR
+|BhooD|Diegoxxx
+Barrett M82A1
+--- 19-01-15 23:23:54
+CrasheR
+sT.- SenzacL*
+Barrett M82A1
+--- 19-01-15 23:23:55
+|BhooD|Diegoxxx
+CrasheR
+Steyr AUG
+--- 19-01-15 23:23:56
+sT.- Mand3s
+|BhooD|Diegoxxx
+FN Minimi
+--- 19-01-15 23:23:58
+ShutercL
+sT.- Enigma
+Ruger 77
+--- 19-01-15 23:23:58
+sT.- Enigma
+ShutercL
+Combat Knife
+--- 19-01-15 23:24:05
+sT.- SenzacL*
+CrasheR
+Barrett M82A1
+--- 19-01-15 23:24:05
+ShutercL
+sT.- SenzacL*
+Ruger 77
+--- 19-01-15 23:24:07
+sT.- Enigma
+sT.- Mand3s
+HK MP5
+--- 19-01-15 23:24:10
+CrasheR
+sT.- Enigma
+Grenade
+--- 19-01-15 23:24:16
+CrasheR
+sT.- Enigma
+Barrett M82A1
+--- 19-01-15 23:24:17
+sT.- SenzacL*
+sT.- Mand3s
+Chainsaw
+--- 19-01-15 23:24:20
+|BhooD|Diegoxxx
+ShutercL
+Steyr AUG
+--- 19-01-15 23:24:25
+sT.- Mand3s
+sT.- Enigma
+Hands
+--- 19-01-15 23:24:30
+CrasheR
+sT.- SenzacL*
+Barrett M82A1
+--- 19-01-15 23:24:31
+sT.- Enigma
+ShutercL
+Grenade
+--- 19-01-15 23:24:36
+sT.- Mand3s
+sT.- Mand3s
+Grenade
+--- 19-01-15 23:24:36
+sT.- Mand3s
+|BhooD|Diegoxxx
+Grenade
+--- 19-01-15 23:24:38
+sT.- SenzacL*
+ShutercL
+Barrett M82A1
+--- 19-01-15 23:24:39
+CrasheR
+sT.- SenzacL*
+Barrett M82A1
+--- 19-01-15 23:24:46
+|BhooD|Diegoxxx
+ShutercL
+Steyr AUG
+--- 19-01-15 23:24:48
+CrasheR
+|BhooD|Diegoxxx
+Combat Knife
+--- 19-01-15 23:24:48
+|BhooD|Diegoxxx
+CrasheR
+Combat Knife
+--- 19-01-15 23:24:54
+|BhooD|Diegoxxx
+sT.- Mand3s
+Steyr AUG
+--- 19-01-15 23:24:57
+CrasheR
+sT.- Enigma
+Barrett M82A1
+--- 19-01-15 23:24:59
+ShutercL
+|BhooD|Diegoxxx
+Grenade
+--- 19-01-15 23:25:02
+sT.- SenzacL*
+CrasheR
+Chainsaw
+--- 19-01-15 23:25:04
+sT.- Enigma
+ShutercL
+Combat Knife
+--- 19-01-15 23:25:04
+sT.- Mand3s
+sT.- SenzacL*
+FN Minimi
+--- 19-01-15 23:25:05
+sT.- Enigma
+sT.- Mand3s
+Hands
+--- 19-01-15 23:25:11
+sT.- SenzacL*
+CrasheR
+Grenade
+--- 19-01-15 23:25:13
+|BhooD|Diegoxxx
+ShutercL
+Grenade
+--- 19-01-15 23:25:17
+sT.- Mand3s
+sT.- Enigma
+FN Minimi
+--- 19-01-15 23:25:19
+CrasheR
+CrasheR
+Grenade
+--- 19-01-15 23:25:20
+sT.- SenzacL*
+ShutercL
+Barrett M82A1
+--- 19-01-15 23:25:20
+|BhooD|Diegoxxx
+sT.- Mand3s
+Steyr AUG
+--- 19-01-15 23:25:30
+sT.- SenzacL*
+ShutercL
+Barrett M82A1
+--- 19-01-15 23:25:31
+ShutercL
+sT.- SenzacL*
+Grenade
+--- 19-01-15 23:25:31
+sT.- Enigma
+CrasheR
+Grenade
+--- 19-01-15 23:25:36
+sT.- Mand3s
+sT.- Enigma
+FN Minimi
+--- 19-01-15 23:25:37
+sT.- Mand3s
+sT.- SenzacL*
+Combat Knife
+--- 19-01-15 23:25:38
+|BhooD|Diegoxxx
+sT.- Mand3s
+Combat Knife
+--- 19-01-15 23:25:41
+|BhooD|Diegoxxx
+ShutercL
+Steyr AUG
+--- 19-01-15 23:25:44
+CrasheR
+sT.- Enigma
+Combat Knife
+--- 19-01-15 23:25:44
+sT.- Enigma
+CrasheR
+Steyr AUG
+--- 19-01-15 23:25:47
+|BhooD|Diegoxxx
+sT.- Mand3s
+Grenade
+--- 19-01-15 23:25:49
+sT.- SenzacL*
+CrasheR
+Barrett M82A1
+--- 19-01-15 23:25:51
+sT.- Enigma
+ShutercL
+Steyr AUG
+--- 19-01-15 23:25:56
+sT.- Enigma
+sT.- Mand3s
+Grenade
+--- 19-01-15 23:25:59
+sT.- Enigma
+CrasheR
+Grenade
+--- 19-01-15 23:26:00
+ShutercL
+|BhooD|Diegoxxx
+Combat Knife
+--- 19-01-15 23:26:02
+sT.- SenzacL*
+ShutercL
+Barrett M82A1
+--- 19-01-15 23:26:02
+sT.- Mand3s
+sT.- Enigma
+FN Minimi
+--- 19-01-15 23:26:09
+sT.- Enigma
+sT.- Mand3s
+Steyr AUG
+--- 19-01-15 23:26:10
+sT.- Enigma
+ShutercL
+Grenade
+--- 19-01-15 23:26:11
+CrasheR
+|BhooD|Diegoxxx
+Combat Knife
+--- 19-01-15 23:26:11
+ShutercL
+sT.- SenzacL*
+Grenade
+--- 19-01-15 23:26:18
+sT.- Mand3s
+sT.- Enigma
+FN Minimi
+--- 19-01-15 23:26:21
+CrasheR
+|BhooD|Diegoxxx
+Ak-74
+--- 19-01-15 23:26:23
+sT.- Enigma
+CrasheR
+HK MP5
+--- 19-01-15 23:26:23
+sT.- Mand3s
+sT.- Enigma
+Grenade
+--- 19-01-15 23:26:27
+sT.- SenzacL*
+sT.- Mand3s
+Barrett M82A1
+--- 19-01-15 23:26:32
+sT.- Enigma
+ShutercL
+HK MP5
+--- 19-01-15 23:26:33
+CrasheR
+sT.- SenzacL*
+HK MP5
+--- 19-01-15 23:26:34
+|BhooD|Diegoxxx
+CrasheR
+Steyr AUG
+--- 19-01-15 23:26:39
+|BhooD|Diegoxxx
+sT.- Mand3s
+Steyr AUG
+--- 19-01-15 23:26:43
+ShutercL
+sT.- Enigma
+FN Minimi
+--- 19-01-15 23:26:43
+CrasheR
+sT.- SenzacL*
+Grenade
+--- 19-01-15 23:26:50
+sT.- Enigma
+CrasheR
+HK MP5
+--- 19-01-15 23:26:52
+sT.- Mand3s
+sT.- Enigma
+FN Minimi
+--- 19-01-15 23:26:55
+sT.- SenzacL*
+ShutercL
+Barrett M82A1
+--- 19-01-15 23:26:59
+sT.- SenzacL*
+CrasheR
+Barrett M82A1
+--- 19-01-15 23:27:00
+ShutercL
+sT.- SenzacL*
+Combat Knife
+--- 19-01-15 23:27:02
+sT.- Enigma
+sT.- Mand3s
+HK MP5
+--- 19-01-15 23:27:08
+ShutercL
+|BhooD|Diegoxxx
+FN Minimi
+--- 19-01-15 23:27:08
+sT.- Enigma
+ShutercL
+HK MP5
+--- 19-01-15 23:27:12
+sT.- Enigma
+sT.- Mand3s
+Grenade
+--- 19-01-15 23:27:12
+sT.- Enigma
+sT.- Enigma
+Grenade
+--- 19-01-15 23:27:13
+ShutercL
+sT.- SenzacL*
+Combat Knife
+--- 19-01-15 23:27:19
+sT.- Mand3s
+|BhooD|Diegoxxx
+Combat Knife
+--- 19-01-15 23:27:23
+ShutercL
+sT.- SenzacL*
+FN Minimi
+--- 19-01-15 23:27:24
+sT.- Enigma
+CrasheR
+HK MP5
+--- 19-01-15 23:27:25
+ShutercL
+sT.- Enigma
+FN Minimi
+--- 19-01-15 23:27:25
+sT.- Enigma
+ShutercL
+Grenade
+--- 19-01-15 23:28:33
+sT.- Mand3s
+|BhooD|Diegoxxx
+FN Minimi
+--- 19-01-15 23:28:34
+sT.- Enigma
+sT.- Mand3s
+Grenade
+--- 19-01-15 23:28:35
+sT.- SenzacL*
+CrasheR
+Chainsaw
+--- 19-01-15 23:28:41
+sT.- Enigma
+CrasheR
+Grenade
+--- 19-01-15 23:28:52
+ShutercL
+sT.- Enigma
+FN Minimi
+--- 19-01-15 23:28:57
+CrasheR
+|BhooD|Diegoxxx
+Ak-74
+--- 19-01-15 23:29:02
+|BhooD|Diegoxxx
+CrasheR
+Steyr AUG
+--- 19-01-15 23:29:02
+sT.- Mand3s
+sT.- Enigma
+FN Minimi
+--- 19-01-15 23:29:03
+|BhooD|Diegoxxx
+sT.- Mand3s
+Steyr AUG
+--- 19-01-15 23:29:06
+|BhooD|Diegoxxx
+ShutercL
+Steyr AUG
+--- 19-01-15 23:29:10
+|BhooD|Diegoxxx
+sT.- Mand3s
+Grenade
+--- 19-01-15 23:29:11
+ShutercL
+|BhooD|Diegoxxx
+FN Minimi
+--- 19-01-15 23:29:12
+CrasheR
+sT.- Enigma
+Combat Knife
+--- 19-01-15 23:29:13
+sT.- SenzacL*
+CrasheR
+Barrett M82A1
+--- 19-01-15 23:29:18
+ShutercL
+sT.- SenzacL*
+Grenade
+--- 19-01-15 23:29:21
+|BhooD|Diegoxxx
+ShutercL
+Grenade
+--- 19-01-15 23:29:22
+sT.- Enigma
+sT.- Mand3s
+Grenade
+--- 19-01-15 23:29:25
+CrasheR
+sT.- Enigma
+Barrett M82A1
+--- 19-01-15 23:29:26
+CrasheR
+|BhooD|Diegoxxx
+Combat Knife
+--- 19-01-15 23:29:31
+|BhooD|Diegoxxx
+CrasheR
+Combat Knife
+--- 19-01-15 23:29:32
+sT.- SenzacL*
+ShutercL
+Barrett M82A1
+--- 19-01-15 23:29:36
+sT.- Enigma
+sT.- Mand3s
+Steyr AUG
+--- 19-01-15 23:29:41
+sT.- Mand3s
+|BhooD|Diegoxxx
+FN Minimi
+--- 19-01-15 23:29:41
+sT.- SenzacL*
+ShutercL
+Barrett M82A1
+--- 19-01-15 23:29:43
+sT.- Enigma
+CrasheR
+Combat Knife
+--- 19-01-15 23:29:49
+|BhooD|Diegoxxx
+sT.- Mand3s
+Steyr AUG
+--- 19-01-15 23:29:50
+ShutercL
+|BhooD|Diegoxxx
+Barrett M82A1
+--- 19-01-16 01:23:10
+CrasheR
+UnD @ Mago
+Ak-74
+--- 19-01-16 01:23:15
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 01:23:18
+CrasheR
+/\
+Ak-74
+--- 19-01-16 01:23:23
+CrasheR
+/\
+Combat Knife
+--- 19-01-16 01:23:25
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 01:23:30
+ErreAPe_
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 01:23:34
+ErreAPe_
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 01:23:40
+sk!T.WildR4P`
+/\
+Combat Knife
+--- 19-01-16 01:23:42
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 01:23:43
+sk!T.WildR4P`
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 01:23:48
+sk!T.Rattle
+ErreAPe_
+Grenade
+--- 19-01-16 01:23:53
+sk!T.Rattle
+ErreAPe_
+Combat Knife
+--- 19-01-16 01:23:58
+/\
+sk!T.Rattle
+M79
+--- 19-01-16 01:24:04
+sk!T.Rattle
+ErreAPe_
+Grenade
+--- 19-01-16 01:24:11
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 01:24:15
+sk!T.Rattle
+UnD @ Mago
+Combat Knife
+--- 19-01-16 01:24:18
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 01:24:21
+ErreAPe_
+sk!T.Rattle
+LAW
+--- 19-01-16 01:24:29
+sk!T.WildR4P`
+UnD @ Mago
+Steyr AUG
+--- 19-01-16 01:24:43
+sk!T.Rattle
+sk!T.Rattle
+Grenade
+--- 19-01-16 01:24:43
+sk!T.Rattle
+/\
+Ruger 77
+--- 19-01-16 01:24:56
+UnD @ Mago
+CrasheR
+Barrett M82A1
+--- 19-01-16 01:24:57
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 01:25:00
+UnD @ Mago
+sk!T.WildR4P`
+Barrett M82A1
+--- 19-01-16 01:25:05
+sk!T.Rattle
+/\
+Ruger 77
+--- 19-01-16 01:25:05
+CrasheR
+UnD @ Mago
+Steyr AUG
+--- 19-01-16 01:25:09
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 01:25:09
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 01:25:14
+sk!T.WildR4P`
+UnD @ Mago
+Grenade
+--- 19-01-16 01:25:15
+ErreAPe_
+CrasheR
+Ak-74
+--- 19-01-16 01:25:19
+sk!T.WildR4P`
+/\
+Grenade
+--- 19-01-16 01:25:20
+UnD @ Mago
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 01:25:21
+sk!T.Rattle
+ErreAPe_
+Grenade
+--- 19-01-16 01:25:23
+sk!T.Rattle
+/\
+Grenade
+--- 19-01-16 01:25:29
+CrasheR
+ErreAPe_
+Grenade
+--- 19-01-16 01:25:29
+UnD @ Mago
+sk!T.Rattle
+Grenade
+--- 19-01-16 01:25:31
+sk!T.WildR4P`
+UnD @ Mago
+Steyr AUG
+--- 19-01-16 01:25:36
+ErreAPe_
+CrasheR
+Steyr AUG
+--- 19-01-16 01:25:42
+ErreAPe_
+sk!T.Rattle
+Grenade
+--- 19-01-16 01:25:42
+CrasheR
+/\
+Steyr AUG
+--- 19-01-16 01:25:42
+/\
+CrasheR
+Combat Knife
+--- 19-01-16 01:25:44
+UnD @ Mago
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 01:25:44
+sk!T.WildR4P`
+UnD @ Mago
+Grenade
+--- 19-01-16 01:25:48
+ErreAPe_
+CrasheR
+LAW
+--- 19-01-16 01:25:51
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 01:25:55
+CrasheR
+/\
+Steyr AUG
+--- 19-01-16 01:26:01
+CrasheR
+ErreAPe_
+Steyr AUG
+--- 19-01-16 01:26:04
+sk!T.Rattle
+UnD @ Mago
+Ruger 77
+--- 19-01-16 01:26:05
+/\
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 01:26:07
+/\
+CrasheR
+Grenade
+--- 19-01-16 01:26:12
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 01:26:17
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 01:26:20
+CrasheR
+ErreAPe_
+Steyr AUG
+--- 19-01-16 01:26:21
+/\
+CrasheR
+M79
+--- 19-01-16 01:26:22
+/\
+sk!T.WildR4P`
+Combat Knife
+--- 19-01-16 01:26:27
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 01:26:28
+/\
+sk!T.Rattle
+Combat Knife
+--- 19-01-16 01:26:31
+CrasheR
+UnD @ Mago
+Grenade
+--- 19-01-16 01:26:32
+CrasheR
+ErreAPe_
+Combat Knife
+--- 19-01-16 01:26:34
+sk!T.WildR4P`
+/\
+Steyr AUG
+--- 19-01-16 01:26:42
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 01:26:46
+sk!T.WildR4P`
+ErreAPe_
+Grenade
+--- 19-01-16 01:26:48
+sk!T.Rattle
+sk!T.Rattle
+Grenade
+--- 19-01-16 01:26:48
+sk!T.Rattle
+/\
+Ruger 77
+--- 19-01-16 01:26:48
+sk!T.WildR4P`
+UnD @ Mago
+Grenade
+--- 19-01-16 01:26:54
+CrasheR
+ErreAPe_
+Steyr AUG
+--- 19-01-16 01:26:56
+/\
+sk!T.Rattle
+M79
+--- 19-01-16 01:26:57
+UnD @ Mago
+CrasheR
+Steyr AUG
+--- 19-01-16 01:27:01
+UnD @ Mago
+sk!T.WildR4P`
+Combat Knife
+--- 19-01-16 01:27:02
+CrasheR
+/\
+Steyr AUG
+--- 19-01-16 01:27:02
+/\
+CrasheR
+M79
+--- 19-01-16 01:27:09
+ErreAPe_
+sk!T.WildR4P`
+LAW
+--- 19-01-16 01:27:13
+/\
+sk!T.Rattle
+Grenade
+--- 19-01-16 01:27:14
+/\
+CrasheR
+M79
+--- 19-01-16 01:27:15
+ErreAPe_
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 01:27:23
+sk!T.Rattle
+UnD @ Mago
+Ruger 77
+--- 19-01-16 01:27:24
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 01:27:25
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 01:27:28
+CrasheR
+/\
+Steyr AUG
+--- 19-01-16 01:27:29
+ErreAPe_
+CrasheR
+Steyr AUG
+--- 19-01-16 01:27:35
+CrasheR
+UnD @ Mago
+Steyr AUG
+--- 19-01-16 01:27:38
+ErreAPe_
+CrasheR
+LAW
+--- 19-01-16 01:27:38
+/\
+sk!T.Rattle
+M79
+--- 19-01-16 01:27:38
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 01:27:46
+UnD @ Mago
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 01:27:48
+ErreAPe_
+sk!T.Rattle
+LAW
+--- 19-01-16 01:27:50
+/\
+CrasheR
+M79
+--- 19-01-16 01:27:53
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 01:27:59
+/\
+CrasheR
+Grenade
+--- 19-01-16 01:28:04
+ErreAPe_
+sk!T.Rattle
+LAW
+--- 19-01-16 01:28:04
+/\
+/\
+M79
+--- 19-01-16 01:28:04
+/\
+sk!T.WildR4P`
+M79
+--- 19-01-16 01:28:06
+CrasheR
+UnD @ Mago
+Steyr AUG
+--- 19-01-16 01:28:14
+CrasheR
+ErreAPe_
+Steyr AUG
+--- 19-01-16 01:28:17
+sk!T.WildR4P`
+UnD @ Mago
+Grenade
+--- 19-01-16 01:28:19
+/\
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 01:28:20
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 01:28:25
+/\
+sk!T.WildR4P`
+Combat Knife
+--- 19-01-16 01:28:28
+ErreAPe_
+CrasheR
+Steyr AUG
+--- 19-01-16 01:28:34
+sk!T.WildR4P`
+UnD @ Mago
+Steyr AUG
+--- 19-01-16 01:28:38
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 01:28:44
+/\
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 01:28:46
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 01:28:48
+CrasheR
+UnD @ Mago
+Steyr AUG
+--- 19-01-16 01:28:50
+ErreAPe_
+sk!T.Rattle
+LAW
+--- 19-01-16 01:28:52
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 01:28:55
+/\
+CrasheR
+M79
+--- 19-01-16 01:28:58
+/\
+sk!T.Rattle
+Grenade
+--- 19-01-16 01:28:58
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 01:29:07
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 01:29:09
+/\
+CrasheR
+M79
+--- 19-01-16 01:29:15
+sk!T.Rattle
+ErreAPe_
+Combat Knife
+--- 19-01-16 01:29:17
+sk!T.WildR4P`
+UnD @ Mago
+Grenade
+--- 19-01-16 01:29:18
+sk!T.WildR4P`
+/\
+Steyr AUG
+--- 19-01-16 01:29:19
+CrasheR
+ErreAPe_
+Combat Knife
+--- 19-01-16 01:29:23
+UnD @ Mago
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 01:29:29
+UnD @ Mago
+sk!T.WildR4P`
+Combat Knife
+--- 19-01-16 01:29:30
+sk!T.Rattle
+UnD @ Mago
+Steyr AUG
+--- 19-01-16 01:29:32
+/\
+sk!T.Rattle
+M79
+--- 19-01-16 01:29:33
+CrasheR
+ErreAPe_
+M79
+--- 19-01-16 01:29:37
+/\
+CrasheR
+M79
+--- 19-01-16 01:29:41
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 01:29:46
+/\
+sk!T.Rattle
+M79
+--- 19-01-16 01:29:49
+CrasheR
+ErreAPe_
+Steyr AUG
+--- 19-01-16 01:29:49
+UnD @ Mago
+CrasheR
+Grenade
+--- 19-01-16 01:29:57
+sk!T.Rattle
+UnD @ Mago
+Grenade
+--- 19-01-16 01:29:57
+sk!T.Rattle
+sk!T.Rattle
+Grenade
+--- 19-01-16 01:30:01
+/\
+CrasheR
+M79
+--- 19-01-16 01:30:01
+sk!T.WildR4P`
+/\
+Grenade
+--- 19-01-16 01:30:08
+ErreAPe_
+CrasheR
+Grenade
+--- 19-01-16 01:30:11
+sk!T.WildR4P`
+ErreAPe_
+Grenade
+--- 19-01-16 01:30:11
+sk!T.Rattle
+UnD @ Mago
+Ruger 77
+--- 19-01-16 01:30:19
+CrasheR
+UnD @ Mago
+Grenade
+--- 19-01-16 01:30:22
+/\
+sk!T.Rattle
+M79
+--- 19-01-16 01:30:22
+CrasheR
+ErreAPe_
+Steyr AUG
+--- 19-01-16 01:30:22
+CrasheR
+/\
+Steyr AUG
+--- 19-01-16 01:30:26
+UnD @ Mago
+CrasheR
+Grenade
+--- 19-01-16 01:30:30
+ErreAPe_
+sk!T.WildR4P`
+LAW
+--- 19-01-16 01:30:31
+sk!T.WildR4P`
+ErreAPe_
+Grenade
+--- 19-01-16 01:30:32
+sk!T.Rattle
+/\
+Ruger 77
+--- 19-01-16 01:30:35
+CrasheR
+UnD @ Mago
+Steyr AUG
+--- 19-01-16 01:30:40
+sk!T.WildR4P`
+ErreAPe_
+Grenade
+--- 19-01-16 01:30:47
+UnD @ Mago
+sk!T.WildR4P`
+Barrett M82A1
+--- 19-01-16 01:30:50
+ErreAPe_
+CrasheR
+Steyr AUG
+--- 19-01-16 01:30:50
+CrasheR
+ErreAPe_
+Steyr AUG
+--- 19-01-16 01:30:56
+/\
+sk!T.Rattle
+M79
+--- 19-01-16 01:31:02
+/\
+sk!T.WildR4P`
+M79
+--- 19-01-16 01:31:05
+ErreAPe_
+CrasheR
+LAW
+--- 19-01-16 01:31:08
+/\
+sk!T.Rattle
+Grenade
+--- 19-01-16 01:31:10
+UnD @ Mago
+sk!T.WildR4P`
+Barrett M82A1
+--- 19-01-16 01:31:13
+CrasheR
+UnD @ Mago
+Steyr AUG
+--- 19-01-16 01:31:13
+UnD @ Mago
+CrasheR
+Grenade
+--- 19-01-16 01:31:17
+sk!T.Rattle
+ErreAPe_
+Grenade
+--- 19-01-16 01:31:20
+sk!T.WildR4P`
+/\
+Steyr AUG
+--- 19-01-16 01:31:20
+/\
+sk!T.WildR4P`
+M79
+--- 19-01-16 01:31:24
+sk!T.Rattle
+ErreAPe_
+Combat Knife
+--- 19-01-16 01:31:29
+CrasheR
+UnD @ Mago
+Steyr AUG
+--- 19-01-16 01:31:31
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 01:31:32
+ErreAPe_
+ErreAPe_
+Grenade
+--- 19-01-16 01:31:38
+sk!T.Rattle
+/\
+Ruger 77
+--- 19-01-16 01:31:41
+sk!T.WildR4P`
+UnD @ Mago
+Steyr AUG
+--- 19-01-16 01:31:44
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 01:31:44
+ErreAPe_
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 01:31:50
+CrasheR
+ErreAPe_
+Steyr AUG
+--- 19-01-16 01:31:51
+sk!T.Rattle
+/\
+Ruger 77
+--- 19-01-16 01:31:55
+CrasheR
+UnD @ Mago
+Steyr AUG
+--- 19-01-16 01:31:58
+CrasheR
+ErreAPe_
+Grenade
+--- 19-01-16 01:32:00
+/\
+sk!T.Rattle
+M79
+--- 19-01-16 01:32:04
+sk!T.WildR4P`
+UnD @ Mago
+Grenade
+--- 19-01-16 01:32:05
+ErreAPe_
+CrasheR
+Grenade
+--- 19-01-16 01:32:12
+CrasheR
+ErreAPe_
+Steyr AUG
+--- 19-01-16 01:32:14
+sk!T.Rattle
+/\
+Ruger 77
+--- 19-01-16 01:32:15
+sk!T.Rattle
+UnD @ Mago
+Ruger 77
+--- 19-01-16 01:32:18
+sk!T.WildR4P`
+ErreAPe_
+Grenade
+--- 19-01-16 01:32:21
+CrasheR
+UnD @ Mago
+Grenade
+--- 19-01-16 01:32:22
+sk!T.WildR4P`
+/\
+Steyr AUG
+--- 19-01-16 01:32:23
+ErreAPe_
+CrasheR
+Steyr AUG
+--- 19-01-16 01:32:28
+UnD @ Mago
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 01:32:29
+sk!T.Rattle
+ErreAPe_
+Combat Knife
+--- 19-01-16 01:32:32
+CrasheR
+UnD @ Mago
+Grenade
+--- 19-01-16 01:32:34
+/\
+CrasheR
+M79
+--- 19-01-16 01:32:35
+sk!T.Rattle
+/\
+Grenade
+--- 19-01-16 01:32:39
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 01:32:41
+ErreAPe_
+CrasheR
+LAW
+--- 19-01-16 01:32:46
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 01:32:46
+UnD @ Mago
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 01:32:48
+CrasheR
+UnD @ Mago
+Steyr AUG
+--- 19-01-16 01:32:50
+/\
+CrasheR
+M79
+--- 19-01-16 01:32:55
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 01:32:59
+sk!T.Rattle
+ErreAPe_
+Grenade
+--- 19-01-16 01:33:00
+/\
+sk!T.Rattle
+M79
+--- 19-01-16 01:33:00
+sk!T.Rattle
+/\
+Combat Knife
+--- 19-01-16 01:33:10
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 01:33:14
+CrasheR
+UnD @ Mago
+Steyr AUG
+--- 19-01-16 01:33:20
+sk!T.WildR4P`
+/\
+Grenade
+--- 19-01-16 01:33:20
+/\
+sk!T.WildR4P`
+M79
+--- 19-01-16 01:33:23
+CrasheR
+ErreAPe_
+Grenade
+--- 19-01-16 01:33:26
+sk!T.WildR4P`
+UnD @ Mago
+Steyr AUG
+--- 19-01-16 01:33:32
+CrasheR
+/\
+Steyr AUG
+--- 19-01-16 01:33:33
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 01:33:34
+UnD @ Mago
+sk!T.Rattle
+Grenade
+--- 19-01-16 01:33:35
+CrasheR
+ErreAPe_
+Steyr AUG
+--- 19-01-16 01:33:42
+CrasheR
+UnD @ Mago
+Steyr AUG
+--- 19-01-16 01:33:45
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 01:33:46
+sk!T.Rattle
+/\
+Ruger 77
+--- 19-01-16 01:33:46
+sk!T.Rattle
+sk!T.Rattle
+Grenade
+--- 19-01-16 01:33:51
+sk!T.WildR4P`
+UnD @ Mago
+Grenade
+--- 19-01-16 01:33:51
+UnD @ Mago
+CrasheR
+Steyr AUG
+--- 19-01-16 01:33:51
+sk!T.WildR4P`
+ErreAPe_
+Grenade
+--- 19-01-16 01:33:56
+CrasheR
+/\
+Grenade
+--- 19-01-16 01:33:56
+sk!T.WildR4P`
+UnD @ Mago
+Combat Knife
+--- 19-01-16 01:33:59
+sk!T.Rattle
+ErreAPe_
+Combat Knife
+--- 19-01-16 01:34:28
+/\
+/\
+M79
+--- 19-01-16 01:35:02
+CrasheR
+UnD @ Mago
+Ak-74
+--- 19-01-16 01:35:14
+sk!T.WildR4P`
+/\
+Steyr AUG
+--- 19-01-16 01:35:15
+UnD @ Mago
+CrasheR
+Steyr AUG
+--- 19-01-16 01:35:15
+sk!T.WildR4P`
+UnD @ Mago
+Steyr AUG
+--- 19-01-16 01:35:16
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 01:35:20
+sk!T.WildR4P`
+UnD @ Mago
+Grenade
+--- 19-01-16 01:35:25
+CrasheR
+ErreAPe_
+Grenade
+--- 19-01-16 01:35:26
+/\
+sk!T.Rattle
+M79
+--- 19-01-16 01:35:28
+/\
+sk!T.WildR4P`
+Combat Knife
+--- 19-01-16 01:35:31
+ErreAPe_
+CrasheR
+Steyr AUG
+--- 19-01-16 01:35:36
+ErreAPe_
+ErreAPe_
+LAW
+--- 19-01-16 01:35:37
+/\
+/\
+M79
+--- 19-01-16 01:35:37
+/\
+sk!T.WildR4P`
+M79
+--- 19-01-16 01:35:40
+UnD @ Mago
+CrasheR
+Grenade
+--- 19-01-16 01:35:44
+/\
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 01:35:46
+UnD @ Mago
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 01:35:47
+CrasheR
+/\
+Ak-74
+--- 19-01-16 01:35:51
+UnD @ Mago
+CrasheR
+Steyr AUG
+--- 19-01-16 01:35:53
+sk!T.Rattle
+UnD @ Mago
+Ruger 77
+--- 19-01-16 01:35:57
+/\
+CrasheR
+M79
+--- 19-01-16 01:35:57
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 01:35:59
+/\
+sk!T.WildR4P`
+Combat Knife
+--- 19-01-16 01:36:04
+UnD @ Mago
+CrasheR
+Grenade
+--- 19-01-16 01:36:05
+ErreAPe_
+sk!T.Rattle
+LAW
+--- 19-01-16 01:36:09
+CrasheR
+ErreAPe_
+Ak-74
+--- 19-01-16 01:36:14
+sk!T.WildR4P`
+ErreAPe_
+Combat Knife
+--- 19-01-16 01:36:15
+CrasheR
+UnD @ Mago
+Ak-74
+--- 19-01-16 01:36:22
+sk!T.Rattle
+/\
+Ruger 77
+--- 19-01-16 01:36:22
+/\
+sk!T.Rattle
+Grenade
+--- 19-01-16 01:36:26
+sk!T.WildR4P`
+UnD @ Mago
+Grenade
+--- 19-01-16 01:36:28
+ErreAPe_
+sk!T.WildR4P`
+LAW
+--- 19-01-16 01:36:30
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 01:36:30
+ErreAPe_
+sk!T.Rattle
+Grenade
+--- 19-01-16 01:36:35
+ErreAPe_
+CrasheR
+Grenade
+--- 19-01-16 01:36:37
+/\
+/\
+Grenade
+--- 19-01-16 01:36:38
+sk!T.Rattle
+UnD @ Mago
+Grenade
+--- 19-01-16 01:36:42
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 01:36:48
+sk!T.WildR4P`
+UnD @ Mago
+Steyr AUG
+--- 19-01-16 01:36:49
+CrasheR
+ErreAPe_
+Grenade
+--- 19-01-16 01:36:49
+ErreAPe_
+CrasheR
+Steyr AUG
+--- 19-01-16 01:36:56
+ErreAPe_
+ErreAPe_
+Grenade
+--- 19-01-16 01:36:57
+/\
+sk!T.Rattle
+M79
+--- 19-01-16 01:36:57
+sk!T.Rattle
+/\
+Ruger 77
+--- 19-01-16 01:37:01
+UnD @ Mago
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 01:37:03
+sk!T.Rattle
+UnD @ Mago
+Ruger 77
+--- 19-01-16 01:37:04
+/\
+sk!T.Rattle
+M79
+--- 19-01-16 01:37:07
+CrasheR
+CrasheR
+Grenade
+--- 19-01-16 01:37:09
+sk!T.WildR4P`
+/\
+Grenade
+--- 19-01-16 01:37:10
+sk!T.WildR4P`
+ErreAPe_
+Grenade
+--- 19-01-16 01:37:14
+/\
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 01:37:16
+CrasheR
+UnD @ Mago
+Grenade
+--- 19-01-16 01:37:17
+/\
+sk!T.Rattle
+M79
+--- 19-01-16 01:37:23
+CrasheR
+ErreAPe_
+Ak-74
+--- 19-01-16 01:37:26
+/\
+CrasheR
+Grenade
+--- 19-01-16 01:37:30
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 01:37:30
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 01:37:34
+UnD @ Mago
+UnD @ Mago
+Grenade
+--- 19-01-16 01:37:35
+CrasheR
+/\
+M79
+--- 19-01-16 01:37:35
+/\
+CrasheR
+Combat Knife
+--- 19-01-16 01:37:43
+sk!T.WildR4P`
+UnD @ Mago
+Steyr AUG
+--- 19-01-16 01:37:43
+CrasheR
+ErreAPe_
+M79
+--- 19-01-16 01:37:46
+/\
+sk!T.WildR4P`
+M79
+--- 19-01-16 01:37:48
+CrasheR
+/\
+Grenade
+--- 19-01-16 01:37:48
+CrasheR
+UnD @ Mago
+M79
+--- 19-01-16 01:37:52
+ErreAPe_
+CrasheR
+Steyr AUG
+--- 19-01-16 01:37:55
+/\
+sk!T.WildR4P`
+M79
+--- 19-01-16 01:37:59
+sk!T.Rattle
+/\
+Ruger 77
+--- 19-01-16 01:38:01
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 01:38:01
+CrasheR
+UnD @ Mago
+M79
+--- 19-01-16 01:38:04
+ErreAPe_
+CrasheR
+Grenade
+--- 19-01-16 01:38:04
+CrasheR
+ErreAPe_
+Combat Knife
+--- 19-01-16 01:38:11
+CrasheR
+/\
+Combat Knife
+--- 19-01-16 01:38:11
+UnD @ Mago
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 01:38:14
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 01:38:19
+sk!T.WildR4P`
+UnD @ Mago
+Steyr AUG
+--- 19-01-16 01:38:21
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 01:38:22
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 01:38:23
+CrasheR
+/\
+Combat Knife
+--- 19-01-16 01:38:29
+ErreAPe_
+sk!T.WildR4P`
+LAW
+--- 19-01-16 01:38:31
+ErreAPe_
+CrasheR
+Steyr AUG
+--- 19-01-16 01:38:36
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 01:38:36
+ErreAPe_
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 01:38:38
+/\
+sk!T.Rattle
+M79
+--- 19-01-16 01:38:42
+CrasheR
+/\
+M79
+--- 19-01-16 01:38:45
+CrasheR
+UnD @ Mago
+Grenade
+--- 19-01-16 01:38:49
+ErreAPe_
+sk!T.WildR4P`
+LAW
+--- 19-01-16 01:38:50
+UnD @ Mago
+CrasheR
+Grenade
+--- 19-01-16 01:38:55
+UnD @ Mago
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 01:38:58
+CrasheR
+ErreAPe_
+M79
+--- 19-01-16 01:39:02
+CrasheR
+UnD @ Mago
+Grenade
+--- 19-01-16 01:39:02
+UnD @ Mago
+CrasheR
+Steyr AUG
+--- 19-01-16 01:39:06
+sk!T.Rattle
+/\
+Ruger 77
+--- 19-01-16 01:39:06
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 01:39:06
+ErreAPe_
+ErreAPe_
+Grenade
+--- 19-01-16 01:39:10
+CrasheR
+UnD @ Mago
+Grenade
+--- 19-01-16 01:39:17
+UnD @ Mago
+UnD @ Mago
+Grenade
+--- 19-01-16 01:39:17
+UnD @ Mago
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 01:39:17
+CrasheR
+ErreAPe_
+M79
+--- 19-01-16 01:39:23
+/\
+CrasheR
+Grenade
+--- 19-01-16 01:39:23
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 01:39:26
+sk!T.WildR4P`
+ErreAPe_
+Grenade
+--- 19-01-16 01:39:27
+sk!T.WildR4P`
+/\
+Steyr AUG
+--- 19-01-16 01:39:34
+sk!T.WildR4P`
+UnD @ Mago
+Grenade
+--- 19-01-16 01:39:34
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 01:39:35
+ErreAPe_
+CrasheR
+Grenade
+--- 19-01-16 01:39:35
+/\
+sk!T.Rattle
+M79
+--- 19-01-16 01:39:35
+sk!T.Rattle
+ErreAPe_
+Grenade
+--- 19-01-16 01:39:41
+/\
+sk!T.WildR4P`
+M79
+--- 19-01-16 01:39:41
+sk!T.Rattle
+/\
+Combat Knife
+--- 19-01-16 01:39:45
+CrasheR
+ErreAPe_
+Combat Knife
+--- 19-01-16 01:39:45
+ErreAPe_
+CrasheR
+Grenade
+--- 19-01-16 01:39:49
+/\
+sk!T.WildR4P`
+M79
+--- 19-01-16 01:39:50
+/\
+sk!T.Rattle
+Grenade
+--- 19-01-16 01:39:51
+/\
+CrasheR
+Grenade
+--- 19-01-16 01:39:56
+/\
+sk!T.WildR4P`
+M79
+--- 19-01-16 01:39:57
+ErreAPe_
+sk!T.Rattle
+Grenade
+--- 19-01-16 01:40:00
+/\
+CrasheR
+M79
+--- 19-01-16 01:40:02
+sk!T.Rattle
+ErreAPe_
+Combat Knife
+--- 19-01-16 01:40:05
+CrasheR
+/\
+Grenade
+--- 19-01-16 01:40:07
+UnD @ Mago
+UnD @ Mago
+Grenade
+--- 19-01-16 01:40:09
+ErreAPe_
+CrasheR
+Steyr AUG
+--- 19-01-16 01:40:11
+ErreAPe_
+sk!T.WildR4P`
+LAW
+--- 19-01-16 01:40:14
+/\
+sk!T.Rattle
+M79
+--- 19-01-16 01:40:18
+CrasheR
+UnD @ Mago
+Grenade
+--- 19-01-16 01:40:20
+/\
+sk!T.Rattle
+M79
+--- 19-01-16 01:40:21
+ErreAPe_
+CrasheR
+Grenade
+--- 19-01-16 01:40:22
+sk!T.Rattle
+ErreAPe_
+Grenade
+--- 19-01-16 01:40:24
+sk!T.WildR4P`
+UnD @ Mago
+Steyr AUG
+--- 19-01-16 01:40:31
+sk!T.Rattle
+sk!T.Rattle
+Grenade
+--- 19-01-16 01:40:33
+ErreAPe_
+CrasheR
+Steyr AUG
+--- 19-01-16 01:40:36
+sk!T.WildR4P`
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 01:40:40
+ErreAPe_
+CrasheR
+Grenade
+--- 19-01-16 01:40:40
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 01:40:43
+sk!T.Rattle
+UnD @ Mago
+Ruger 77
+--- 19-01-16 01:40:47
+/\
+sk!T.WildR4P`
+M79
+--- 19-01-16 01:40:49
+CrasheR
+UnD @ Mago
+M79
+--- 19-01-16 01:40:54
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 01:40:56
+/\
+sk!T.Rattle
+M79
+--- 19-01-16 01:40:57
+UnD @ Mago
+CrasheR
+Steyr AUG
+--- 19-01-16 01:40:57
+CrasheR
+UnD @ Mago
+M79
+--- 19-01-16 01:41:00
+sk!T.WildR4P`
+/\
+Steyr AUG
+--- 19-01-16 01:41:05
+sk!T.WildR4P`
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 01:41:06
+CrasheR
+UnD @ Mago
+Grenade
+--- 19-01-16 01:41:08
+CrasheR
+ErreAPe_
+Grenade
+--- 19-01-16 01:41:11
+/\
+CrasheR
+Grenade
+--- 19-01-16 01:41:16
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 01:41:16
+CrasheR
+/\
+Combat Knife
+--- 19-01-16 01:41:18
+sk!T.WildR4P`
+UnD @ Mago
+Combat Knife
+--- 19-01-16 01:41:24
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 01:41:24
+UnD @ Mago
+CrasheR
+Grenade
+--- 19-01-16 01:41:28
+sk!T.Rattle
+UnD @ Mago
+Grenade
+--- 19-01-16 01:41:29
+ErreAPe_
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 01:41:32
+ErreAPe_
+sk!T.Rattle
+Grenade
+--- 19-01-16 01:41:39
+sk!T.WildR4P`
+/\
+Steyr AUG
+--- 19-01-16 01:41:41
+sk!T.Rattle
+ErreAPe_
+Grenade
+--- 19-01-16 01:41:45
+sk!T.WildR4P`
+/\
+Grenade
+--- 19-01-16 01:41:45
+UnD @ Mago
+CrasheR
+Steyr AUG
+--- 19-01-16 01:41:48
+sk!T.WildR4P`
+ErreAPe_
+Grenade
+--- 19-01-16 01:41:48
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 01:41:50
+/\
+sk!T.Rattle
+Grenade
+--- 19-01-16 01:41:58
+sk!T.WildR4P`
+/\
+Grenade
+--- 19-01-16 01:41:59
+sk!T.Rattle
+ErreAPe_
+Grenade
+--- 19-01-16 01:42:03
+CrasheR
+UnD @ Mago
+Grenade
+--- 19-01-16 01:42:06
+/\
+sk!T.Rattle
+Grenade
+--- 19-01-16 01:42:07
+sk!T.WildR4P`
+/\
+Steyr AUG
+--- 19-01-16 01:42:13
+ErreAPe_
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 01:42:13
+ErreAPe_
+ErreAPe_
+Grenade
+--- 19-01-16 01:42:15
+/\
+CrasheR
+Ak-74
+--- 19-01-16 01:42:15
+sk!T.Rattle
+UnD @ Mago
+Grenade
+--- 19-01-16 01:42:21
+/\
+sk!T.Rattle
+Ak-74
+--- 19-01-16 01:42:26
+CrasheR
+/\
+M79
+--- 19-01-16 01:42:29
+ErreAPe_
+ErreAPe_
+Grenade
+--- 19-01-16 01:42:31
+CrasheR
+UnD @ Mago
+Grenade
+--- 19-01-16 01:42:36
+CrasheR
+ErreAPe_
+Grenade
+--- 19-01-16 01:42:38
+CrasheR
+UnD @ Mago
+Grenade
+--- 19-01-16 01:42:40
+sk!T.WildR4P`
+/\
+Steyr AUG
+--- 19-01-16 01:42:41
+ErreAPe_
+sk!T.Rattle
+Grenade
+--- 19-01-16 01:42:44
+CrasheR
+ErreAPe_
+M79
+--- 19-01-16 01:42:45
+UnD @ Mago
+CrasheR
+Grenade
+--- 19-01-16 01:42:50
+ErreAPe_
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 01:42:51
+sk!T.Rattle
+sk!T.Rattle
+Grenade
+--- 19-01-16 01:42:52
+/\
+CrasheR
+M79
+--- 19-01-16 01:42:56
+/\
+sk!T.WildR4P`
+M79
+--- 19-01-16 01:42:58
+CrasheR
+UnD @ Mago
+M79
+--- 19-01-16 01:43:00
+sk!T.Rattle
+ErreAPe_
+Spas-12
+--- 19-01-16 01:43:01
+/\
+CrasheR
+M79
+--- 19-01-16 01:43:05
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 01:43:12
+CrasheR
+ErreAPe_
+M79
+--- 19-01-16 01:43:12
+/\
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 01:43:15
+sk!T.Rattle
+UnD @ Mago
+Ruger 77
+--- 19-01-16 01:43:17
+CrasheR
+ErreAPe_
+M79
+--- 19-01-16 01:43:21
+/\
+CrasheR
+Combat Knife
+--- 19-01-16 01:43:21
+sk!T.WildR4P`
+/\
+Steyr AUG
+--- 19-01-16 01:43:23
+sk!T.WildR4P`
+UnD @ Mago
+Steyr AUG
+--- 19-01-16 01:43:28
+CrasheR
+ErreAPe_
+M79
+--- 19-01-16 01:43:31
+/\
+CrasheR
+Combat Knife
+--- 19-01-16 01:43:32
+sk!T.WildR4P`
+/\
+Steyr AUG
+--- 19-01-16 01:43:32
+sk!T.Rattle
+UnD @ Mago
+Ruger 77
+--- 19-01-16 01:43:38
+ErreAPe_
+sk!T.Rattle
+Hands
+--- 19-01-16 01:43:39
+UnD @ Mago
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 01:43:41
+CrasheR
+ErreAPe_
+M79
+--- 19-01-16 01:43:48
+sk!T.WildR4P`
+UnD @ Mago
+Hands
+--- 19-01-16 01:43:50
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 01:43:54
+CrasheR
+/\
+M79
+--- 19-01-16 01:43:54
+ErreAPe_
+CrasheR
+LAW
+--- 19-01-16 01:43:58
+UnD @ Mago
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 01:43:58
+sk!T.WildR4P`
+UnD @ Mago
+Steyr AUG
+--- 19-01-16 01:44:01
+/\
+CrasheR
+M79
+--- 19-01-16 01:44:02
+/\
+sk!T.Rattle
+Grenade
+--- 19-01-16 01:44:02
+sk!T.Rattle
+/\
+Combat Knife
+--- 19-01-16 01:44:03
+sk!T.WildR4P`
+ErreAPe_
+Grenade
+--- 19-01-16 01:44:08
+sk!T.Rattle
+UnD @ Mago
+Ruger 77
+--- 19-01-16 01:44:11
+CrasheR
+CrasheR
+M79
+--- 19-01-16 01:44:13
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 01:44:18
+UnD @ Mago
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 01:44:19
+/\
+CrasheR
+M79
+--- 19-01-16 01:44:21
+sk!T.WildR4P`
+/\
+Steyr AUG
+--- 19-01-16 01:44:22
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 01:44:26
+sk!T.Rattle
+UnD @ Mago
+Ruger 77
+--- 19-01-16 01:44:28
+/\
+CrasheR
+M79
+--- 19-01-16 01:44:29
+sk!T.Rattle
+ErreAPe_
+Combat Knife
+--- 19-01-16 01:44:32
+/\
+sk!T.Rattle
+M79
+--- 19-01-16 01:44:34
+sk!T.WildR4P`
+/\
+Steyr AUG
+--- 19-01-16 01:44:36
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 01:44:37
+ErreAPe_
+CrasheR
+Steyr AUG
+--- 19-01-16 01:44:44
+sk!T.WildR4P`
+UnD @ Mago
+Steyr AUG
+--- 19-01-16 01:44:44
+sk!T.Rattle
+/\
+Combat Knife
+--- 19-01-16 01:44:47
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 01:44:52
+/\
+/\
+Grenade
+--- 19-01-16 01:44:54
+ErreAPe_
+ErreAPe_
+Grenade
+--- 19-01-16 01:44:55
+sk!T.WildR4P`
+UnD @ Mago
+Steyr AUG
+--- 19-01-16 01:45:00
+sk!T.Rattle
+/\
+Grenade
+--- 19-01-16 01:45:02
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 01:45:08
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 01:45:08
+UnD @ Mago
+sk!T.WildR4P`
+Barrett M82A1
+--- 19-01-16 01:45:50
+sk!T.WildR4P`
+UnD @ Mago
+M79
+--- 19-01-16 01:45:52
+/\
+CrasheR
+M79
+--- 19-01-16 01:45:52
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 01:45:57
+sk!T.Rattle
+/\
+Combat Knife
+--- 19-01-16 01:46:00
+sk!T.WildR4P`
+ErreAPe_
+Grenade
+--- 19-01-16 01:46:06
+/\
+CrasheR
+Combat Knife
+--- 19-01-16 01:46:08
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 01:46:10
+ErreAPe_
+ErreAPe_
+Grenade
+--- 19-01-16 01:46:11
+CrasheR
+UnD @ Mago
+Spas-12
+--- 19-01-16 01:46:14
+sk!T.Rattle
+/\
+Grenade
+--- 19-01-16 01:46:17
+sk!T.WildR4P`
+ErreAPe_
+M79
+--- 19-01-16 01:46:20
+sk!T.WildR4P`
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 01:46:21
+sk!T.Rattle
+UnD @ Mago
+Ruger 77
+--- 19-01-16 01:46:22
+/\
+sk!T.Rattle
+M79
+--- 19-01-16 01:46:24
+CrasheR
+ErreAPe_
+Combat Knife
+--- 19-01-16 01:46:29
+ErreAPe_
+CrasheR
+Steyr AUG
+--- 19-01-16 01:46:31
+sk!T.WildR4P`
+/\
+M79
+--- 19-01-16 01:46:34
+sk!T.WildR4P`
+ErreAPe_
+Grenade
+--- 19-01-16 01:46:34
+sk!T.Rattle
+UnD @ Mago
+Grenade
+--- 19-01-16 01:46:38
+CrasheR
+/\
+Spas-12
+--- 19-01-16 01:46:43
+sk!T.WildR4P`
+ErreAPe_
+Grenade
+--- 19-01-16 01:46:44
+/\
+sk!T.Rattle
+Grenade
+--- 19-01-16 01:46:45
+sk!T.WildR4P`
+UnD @ Mago
+M79
+--- 19-01-16 01:46:46
+/\
+CrasheR
+M79
+--- 19-01-16 01:46:50
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 01:46:56
+/\
+sk!T.Rattle
+Grenade
+--- 19-01-16 01:46:57
+CrasheR
+ErreAPe_
+Spas-12
+--- 19-01-16 01:47:02
+UnD @ Mago
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 01:47:03
+sk!T.Rattle
+/\
+Ruger 77
+--- 19-01-16 01:47:03
+ErreAPe_
+CrasheR
+Steyr AUG
+--- 19-01-16 01:47:12
+sk!T.WildR4P`
+ErreAPe_
+M79
+--- 19-01-16 01:47:14
+/\
+sk!T.Rattle
+Grenade
+--- 19-01-16 01:47:16
+sk!T.WildR4P`
+sk!T.WildR4P`
+M79
+--- 19-01-16 01:47:18
+ErreAPe_
+CrasheR
+Steyr AUG
+--- 19-01-16 01:47:23
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 01:47:25
+ErreAPe_
+CrasheR
+LAW
+--- 19-01-16 01:47:26
+sk!T.Rattle
+ErreAPe_
+Grenade
+--- 19-01-16 01:47:26
+sk!T.WildR4P`
+/\
+M79
+--- 19-01-16 01:47:35
+sk!T.WildR4P`
+UnD @ Mago
+M79
+--- 19-01-16 01:47:35
+CrasheR
+ErreAPe_
+M79
+--- 19-01-16 01:47:36
+/\
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 01:47:40
+CrasheR
+/\
+M79
+--- 19-01-16 01:47:41
+CrasheR
+UnD @ Mago
+Combat Knife
+--- 19-01-16 01:47:41
+UnD @ Mago
+CrasheR
+Grenade
+--- 19-01-16 01:47:44
+/\
+sk!T.Rattle
+Grenade
+--- 19-01-16 01:47:47
+sk!T.WildR4P`
+/\
+Combat Knife
+--- 19-01-16 01:47:52
+sk!T.Rattle
+UnD @ Mago
+Grenade
+--- 19-01-16 01:47:57
+sk!T.WildR4P`
+ErreAPe_
+M79
+--- 19-01-16 01:48:02
+/\
+sk!T.Rattle
+M79
+--- 19-01-16 01:48:02
+UnD @ Mago
+CrasheR
+Steyr AUG
+--- 19-01-16 01:48:02
+sk!T.WildR4P`
+ErreAPe_
+Grenade
+--- 19-01-16 01:48:04
+sk!T.WildR4P`
+/\
+Grenade
+--- 19-01-16 01:48:13
+sk!T.WildR4P`
+/\
+M79
+--- 19-01-16 01:48:16
+ErreAPe_
+sk!T.Rattle
+LAW
+--- 19-01-16 01:48:19
+sk!T.WildR4P`
+UnD @ Mago
+M79
+--- 19-01-16 01:48:22
+/\
+sk!T.WildR4P`
+M79
+--- 19-01-16 01:48:22
+CrasheR
+ErreAPe_
+M79
+--- 19-01-16 01:48:29
+CrasheR
+/\
+M79
+--- 19-01-16 01:48:32
+sk!T.WildR4P`
+ErreAPe_
+M79
+--- 19-01-16 01:48:35
+CrasheR
+UnD @ Mago
+M79
+--- 19-01-16 01:48:36
+/\
+CrasheR
+Grenade
+--- 19-01-16 01:48:37
+/\
+sk!T.WildR4P`
+M79
+--- 19-01-16 01:48:37
+ErreAPe_
+sk!T.Rattle
+Grenade
+--- 19-01-16 01:48:44
+/\
+CrasheR
+M79
+--- 19-01-16 01:48:45
+sk!T.Rattle
+/\
+Ruger 77
+--- 19-01-16 01:48:46
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 01:48:50
+CrasheR
+ErreAPe_
+Grenade
+--- 19-01-16 01:48:52
+sk!T.Rattle
+/\
+Combat Knife
+--- 19-01-16 01:48:54
+/\
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 01:48:56
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 01:48:57
+sk!T.Rattle
+ErreAPe_
+Grenade
+--- 19-01-16 01:48:59
+CrasheR
+/\
+M79
+--- 19-01-16 01:49:04
+sk!T.WildR4P`
+UnD @ Mago
+Grenade
+--- 19-01-16 01:49:04
+ErreAPe_
+CrasheR
+Steyr AUG
+--- 19-01-16 01:49:07
+ErreAPe_
+sk!T.Rattle
+Grenade
+--- 19-01-16 01:49:09
+sk!T.WildR4P`
+ErreAPe_
+Grenade
+--- 19-01-16 01:49:09
+/\
+sk!T.WildR4P`
+M79
+--- 19-01-16 01:49:11
+/\
+CrasheR
+Combat Knife
+--- 19-01-16 01:49:14
+sk!T.Rattle
+/\
+Combat Knife
+--- 19-01-16 01:49:18
+UnD @ Mago
+sk!T.Rattle
+LAW
+--- 19-01-16 01:49:18
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 01:49:18
+sk!T.WildR4P`
+ErreAPe_
+Combat Knife
+--- 19-01-16 01:49:22
+UnD @ Mago
+CrasheR
+M79
+--- 19-01-16 01:49:23
+sk!T.Rattle
+UnD @ Mago
+Ruger 77
+--- 19-01-16 01:49:26
+sk!T.WildR4P`
+/\
+M79
+--- 19-01-16 01:49:32
+sk!T.WildR4P`
+ErreAPe_
+M79
+--- 19-01-16 01:49:39
+sk!T.WildR4P`
+/\
+M79
+--- 19-01-16 01:49:41
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 01:49:43
+sk!T.WildR4P`
+ErreAPe_
+M79
+--- 19-01-16 01:49:46
+/\
+sk!T.WildR4P`
+M79
+--- 19-01-16 01:49:51
+CrasheR
+/\
+M79
+--- 19-01-16 01:49:51
+sk!T.WildR4P`
+UnD @ Mago
+M79
+--- 19-01-16 01:49:53
+ErreAPe_
+CrasheR
+Steyr AUG
+--- 19-01-16 01:49:57
+sk!T.WildR4P`
+/\
+M79
+--- 19-01-16 01:49:57
+/\
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 01:50:01
+UnD @ Mago
+CrasheR
+Barrett M82A1
+--- 19-01-16 01:50:03
+ErreAPe_
+ErreAPe_
+Grenade
+--- 19-01-16 01:50:13
+ErreAPe_
+CrasheR
+Grenade
+--- 19-01-16 01:50:14
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 01:50:15
+/\
+sk!T.WildR4P`
+M79
+--- 19-01-16 01:50:17
+CrasheR
+ErreAPe_
+Grenade
+--- 19-01-16 01:50:20
+CrasheR
+UnD @ Mago
+Combat Knife
+--- 19-01-16 01:50:23
+sk!T.Rattle
+/\
+Combat Knife
+--- 19-01-16 01:50:28
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 01:50:33
+UnD @ Mago
+sk!T.WildR4P`
+Barrett M82A1
+--- 19-01-16 01:50:33
+CrasheR
+ErreAPe_
+Hands
+--- 19-01-16 01:50:46
+/\
+sk!T.Rattle
+M79
+--- 19-01-16 01:50:52
+CrasheR
+UnD @ Mago
+M79
+--- 19-01-16 01:50:52
+/\
+sk!T.WildR4P`
+M79
+--- 19-01-16 01:50:57
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 01:51:00
+CrasheR
+/\
+Grenade
+--- 19-01-16 01:51:01
+CrasheR
+UnD @ Mago
+M79
+--- 19-01-16 01:51:07
+sk!T.Rattle
+/\
+Ruger 77
+--- 19-01-16 01:51:07
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 01:51:09
+UnD @ Mago
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 01:51:11
+CrasheR
+UnD @ Mago
+M79
+--- 19-01-16 01:51:13
+CrasheR
+/\
+Grenade
+--- 19-01-16 01:51:21
+UnD @ Mago
+CrasheR
+Steyr AUG
+--- 19-01-16 01:51:21
+sk!T.Rattle
+UnD @ Mago
+Combat Knife
+--- 19-01-16 01:51:26
+sk!T.WildR4P`
+ErreAPe_
+M79
+--- 19-01-16 01:51:26
+sk!T.Rattle
+/\
+Ruger 77
+--- 19-01-16 01:51:31
+CrasheR
+UnD @ Mago
+Combat Knife
+--- 19-01-16 01:51:33
+ErreAPe_
+CrasheR
+Steyr AUG
+--- 19-01-16 01:51:33
+/\
+/\
+Grenade
+--- 19-01-16 01:51:37
+ErreAPe_
+sk!T.WildR4P`
+LAW
+--- 19-01-16 01:51:40
+/\
+/\
+M79
+--- 19-01-16 01:51:40
+/\
+sk!T.Rattle
+M79
+--- 19-01-16 01:51:43
+CrasheR
+UnD @ Mago
+Combat Knife
+--- 19-01-16 01:51:46
+CrasheR
+ErreAPe_
+Combat Knife
+--- 19-01-16 01:51:48
+sk!T.WildR4P`
+/\
+M79
+--- 19-01-16 01:51:49
+CrasheR
+UnD @ Mago
+Combat Knife
+--- 19-01-16 01:51:51
+ErreAPe_
+CrasheR
+Steyr AUG
+--- 19-01-16 01:51:51
+ErreAPe_
+sk!T.Rattle
+Grenade
+--- 19-01-16 01:51:52
+sk!T.WildR4P`
+ErreAPe_
+Grenade
+--- 19-01-16 01:51:53
+sk!T.WildR4P`
+/\
+M79
+--- 19-01-16 01:51:57
+sk!T.WildR4P`
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 01:52:01
+ErreAPe_
+CrasheR
+LAW
+--- 19-01-16 01:52:04
+sk!T.WildR4P`
+UnD @ Mago
+M79
+--- 19-01-16 01:52:07
+/\
+sk!T.WildR4P`
+Combat Knife
+--- 19-01-16 01:52:07
+CrasheR
+/\
+Combat Knife
+--- 19-01-16 01:52:08
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 01:52:13
+CrasheR
+ErreAPe_
+Grenade
+--- 19-01-16 01:52:18
+UnD @ Mago
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 01:52:21
+sk!T.Rattle
+/\
+Grenade
+--- 19-01-16 01:52:22
+CrasheR
+UnD @ Mago
+M79
+--- 19-01-16 01:52:25
+ErreAPe_
+CrasheR
+Steyr AUG
+--- 19-01-16 01:52:26
+CrasheR
+ErreAPe_
+Grenade
+--- 19-01-16 01:52:31
+UnD @ Mago
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 01:52:31
+ErreAPe_
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 01:52:36
+CrasheR
+UnD @ Mago
+M79
+--- 19-01-16 01:52:37
+/\
+CrasheR
+M79
+--- 19-01-16 01:52:38
+ErreAPe_
+sk!T.Rattle
+LAW
+--- 19-01-16 01:52:39
+/\
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 01:52:43
+CrasheR
+ErreAPe_
+Combat Knife
+--- 19-01-16 01:52:48
+CrasheR
+/\
+M79
+--- 19-01-16 01:52:50
+sk!T.Rattle
+UnD @ Mago
+Grenade
+--- 19-01-16 01:52:56
+ErreAPe_
+ErreAPe_
+Grenade
+--- 19-01-16 01:52:57
+/\
+sk!T.Rattle
+M79
+--- 19-01-16 01:53:01
+CrasheR
+/\
+Grenade
+--- 19-01-16 01:53:06
+ErreAPe_
+sk!T.Rattle
+Grenade
+--- 19-01-16 01:53:09
+CrasheR
+UnD @ Mago
+Grenade
+--- 19-01-16 01:53:11
+CrasheR
+/\
+M79
+--- 19-01-16 01:53:13
+ErreAPe_
+CrasheR
+Steyr AUG
+--- 19-01-16 01:53:13
+CrasheR
+ErreAPe_
+Combat Knife
+--- 19-01-16 01:53:14
+ErreAPe_
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 01:53:19
+/\
+sk!T.Rattle
+M79
+--- 19-01-16 01:53:23
+/\
+sk!T.WildR4P`
+M79
+--- 19-01-16 01:53:27
+UnD @ Mago
+CrasheR
+Steyr AUG
+--- 19-01-16 01:53:28
+sk!T.Rattle
+/\
+Ruger 77
+--- 19-01-16 01:53:34
+sk!T.Rattle
+ErreAPe_
+Grenade
+--- 19-01-16 01:53:35
+CrasheR
+UnD @ Mago
+M79
+--- 19-01-16 01:53:40
+ErreAPe_
+CrasheR
+Steyr AUG
+--- 19-01-16 01:53:44
+UnD @ Mago
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 01:53:47
+sk!T.Rattle
+UnD @ Mago
+Grenade
+--- 19-01-16 01:53:47
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 01:53:52
+/\
+CrasheR
+M79
+--- 19-01-16 01:53:52
+sk!T.WildR4P`
+ErreAPe_
+Grenade
+--- 19-01-16 01:53:57
+sk!T.WildR4P`
+/\
+M79
+--- 19-01-16 01:53:57
+/\
+CrasheR
+M79
+--- 19-01-16 01:53:59
+UnD @ Mago
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 01:54:03
+ErreAPe_
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 01:54:03
+sk!T.WildR4P`
+ErreAPe_
+Combat Knife
+--- 19-01-16 01:54:08
+sk!T.WildR4P`
+UnD @ Mago
+Grenade
+--- 19-01-16 01:54:10
+/\
+/\
+Grenade
+--- 19-01-16 01:54:10
+ErreAPe_
+CrasheR
+LAW
+--- 19-01-16 01:54:16
+CrasheR
+ErreAPe_
+Combat Knife
+--- 19-01-16 01:54:21
+sk!T.Rattle
+/\
+Grenade
+--- 19-01-16 01:54:24
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 01:54:25
+sk!T.Rattle
+sk!T.Rattle
+Grenade
+--- 19-01-16 01:54:29
+/\
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 01:54:30
+CrasheR
+ErreAPe_
+M79
+--- 19-01-16 01:54:31
+sk!T.Rattle
+/\
+Ruger 77
+--- 19-01-16 01:54:38
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 01:54:40
+/\
+CrasheR
+M79
+--- 19-01-16 01:54:41
+sk!T.WildR4P`
+UnD @ Mago
+Barrett M82A1
+--- 19-01-16 01:54:46
+sk!T.Rattle
+/\
+Ruger 77
+--- 19-01-16 01:54:47
+CrasheR
+ErreAPe_
+Combat Knife
+--- 19-01-16 01:54:52
+sk!T.WildR4P`
+/\
+Barrett M82A1
+--- 19-01-16 01:54:53
+CrasheR
+UnD @ Mago
+M79
+--- 19-01-16 01:54:53
+sk!T.WildR4P`
+ErreAPe_
+Combat Knife
+--- 19-01-16 01:54:57
+/\
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 01:54:57
+sk!T.WildR4P`
+/\
+Barrett M82A1
+--- 19-01-16 01:55:00
+ErreAPe_
+CrasheR
+Steyr AUG
+--- 19-01-16 01:55:03
+sk!T.Rattle
+sk!T.Rattle
+Grenade
+--- 19-01-16 01:55:07
+CrasheR
+/\
+M79
+--- 19-01-16 01:55:08
+sk!T.WildR4P`
+UnD @ Mago
+Combat Knife
+--- 19-01-16 01:55:10
+ErreAPe_
+CrasheR
+Steyr AUG
+--- 19-01-16 01:55:12
+sk!T.WildR4P`
+ErreAPe_
+Barrett M82A1
+--- 19-01-16 01:55:20
+/\
+CrasheR
+M79
+--- 19-01-16 01:55:23
+UnD @ Mago
+sk!T.WildR4P`
+M79
+--- 19-01-16 01:55:28
+CrasheR
+/\
+Combat Knife
+--- 19-01-16 01:55:28
+/\
+CrasheR
+Combat Knife
+--- 19-01-16 01:55:30
+CrasheR
+UnD @ Mago
+Grenade
+--- 19-01-16 01:55:32
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 01:55:36
+sk!T.WildR4P`
+/\
+Barrett M82A1
+--- 19-01-16 01:55:38
+sk!T.Rattle
+UnD @ Mago
+Ruger 77
+--- 19-01-16 01:55:39
+ErreAPe_
+ErreAPe_
+Grenade
+--- 19-01-16 01:55:48
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 01:55:51
+sk!T.Rattle
+UnD @ Mago
+Grenade
+--- 19-01-16 19:14:11
+sT.- SenzacL*
+sT.- SenzacL*
+Selfkill
+--- 19-01-16 19:14:14
+sT.- DJ Maaxis
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 19:14:45
+sk!T.chub0
+sT.- Enigma
+Ak-74
+--- 19-01-16 19:14:46
+sT.- SenzacL*
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 19:14:46
+sT.- DJ Maaxis
+sk!T.chub0
+Ruger 77
+--- 19-01-16 19:14:52
+sT.- SenzacL*
+sk!T.HartCheat].cL
+Grenade
+--- 19-01-16 19:14:53
+sT.- SenzacL*
+sT.- SenzacL*
+Grenade
+--- 19-01-16 19:14:55
+sT.- Enigma
+sk!T.Rattle
+Ak-74
+--- 19-01-16 19:14:56
+sk!T.chub0
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 19:14:59
+sT.- Enigma
+sk!T.HartCheat].cL
+Combat Knife
+--- 19-01-16 19:15:01
+sk!T.chub0
+sT.- Enigma
+Ak-74
+--- 19-01-16 19:15:06
+sT.- DJ Maaxis
+sk!T.HartCheat].cL
+Ruger 77
+--- 19-01-16 19:15:08
+sk!T.chub0
+sT.- SenzacL*
+Ak-74
+--- 19-01-16 19:15:10
+sk!T.Rattle
+sT.- Enigma
+Grenade
+--- 19-01-16 19:15:11
+sk!T.Rattle
+sk!T.Rattle
+Grenade
+--- 19-01-16 19:15:19
+sT.- DJ Maaxis
+sk!T.chub0
+Grenade
+--- 19-01-16 19:15:20
+sT.- SenzacL*
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 19:15:20
+sk!T.Rattle
+sT.- SenzacL*
+Grenade
+--- 19-01-16 19:15:37
+sk!T.chub0
+sT.- Enigma
+LAW
+--- 19-01-16 19:15:40
+sT.- DJ Maaxis
+sk!T.Rattle
+Ruger 77
+--- 19-01-16 19:15:44
+sT.- DJ Maaxis
+sk!T.HartCheat].cL
+Ruger 77
+--- 19-01-16 19:15:45
+sT.- Enigma
+sk!T.chub0
+Grenade
+--- 19-01-16 19:15:50
+sk!T.chub0
+sT.- Enigma
+Ak-74
+--- 19-01-16 19:15:50
+sT.- Enigma
+sk!T.chub0
+Combat Knife
+--- 19-01-16 19:15:53
+sT.- SenzacL*
+sk!T.HartCheat].cL
+Barrett M82A1
+--- 19-01-16 19:15:56
+sk!T.chub0
+sT.- DJ Maaxis
+Ak-74
+--- 19-01-16 19:15:59
+sT.- SenzacL*
+sk!T.HartCheat].cL
+Chainsaw
+--- 19-01-16 19:16:01
+sT.- Enigma
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 19:16:06
+sT.- DJ Maaxis
+sk!T.chub0
+Grenade
+--- 19-01-16 19:16:11
+sT.- SenzacL*
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 19:16:31
+sk!T.HartCheat].cL
+sT.- Enigma
+Grenade
+--- 19-01-16 19:16:37
+sk!T.chub0
+sT.- DJ Maaxis
+Ak-74
+--- 19-01-16 19:16:39
+sT.- SenzacL*
+sk!T.Rattle
+Grenade
+--- 19-01-16 19:16:41
+sk!T.HartCheat].cL
+sT.- Enigma
+Grenade
+--- 19-01-16 19:16:41
+sT.- Enigma
+sk!T.HartCheat].cL
+Combat Knife
+--- 19-01-16 19:16:44
+sT.- DJ Maaxis
+sk!T.chub0
+Combat Knife
+--- 19-01-16 19:16:48
+sT.- Enigma
+sk!T.Rattle
+Grenade
+--- 19-01-16 19:16:52
+sk!T.chub0
+sT.- DJ Maaxis
+LAW
+--- 19-01-16 19:16:53
+sT.- Enigma
+sk!T.HartCheat].cL
+Combat Knife
+--- 19-01-16 19:16:53
+sk!T.HartCheat].cL
+sT.- Enigma
+Desert Eagles
+--- 19-01-16 19:16:57
+sT.- DJ Maaxis
+sk!T.chub0
+Grenade
+--- 19-01-16 19:16:59
+sk!T.HartCheat].cL
+sT.- SenzacL*
+Desert Eagles
+--- 19-01-16 19:17:02
+sT.- Enigma
+sk!T.HartCheat].cL
+Grenade
+--- 19-01-16 19:17:04
+sk!T.chub0
+sT.- DJ Maaxis
+LAW
+--- 19-01-16 19:17:06
+sk!T.Rattle
+sT.- Enigma
+Ruger 77
+--- 19-01-16 19:17:15
+sT.- DJ Maaxis
+sk!T.chub0
+Grenade
+--- 19-01-16 19:17:16
+sk!T.HartCheat].cL
+sT.- Enigma
+LAW
+--- 19-01-16 19:17:18
+sT.- DJ Maaxis
+sk!T.HartCheat].cL
+Barrett M82A1
+--- 19-01-16 19:17:25
+sT.- DJ Maaxis
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 19:17:26
+sT.- Enigma
+sk!T.chub0
+Grenade
+--- 19-01-16 19:17:29
+sT.- Enigma
+sk!T.HartCheat].cL
+Combat Knife
+--- 19-01-16 19:17:37
+sk!T.Rattle
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 19:17:38
+sT.- Enigma
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 19:17:39
+sk!T.HartCheat].cL
+sT.- Enigma
+LAW
+--- 19-01-16 19:17:42
+sT.- DJ Maaxis
+sk!T.HartCheat].cL
+Grenade
+--- 19-01-16 19:17:42
+sk!T.chub0
+sT.- DJ Maaxis
+Ak-74
+--- 19-01-16 19:17:46
+sk!T.chub0
+sT.- Enigma
+Ak-74
+--- 19-01-16 19:17:50
+sk!T.Rattle
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 19:17:56
+sk!T.HartCheat].cL
+sT.- Enigma
+Grenade
+--- 19-01-16 19:17:58
+sk!T.chub0
+sT.- DJ Maaxis
+Ak-74
+--- 19-01-16 19:18:04
+sk!T.HartCheat].cL
+sT.- Enigma
+Grenade
+--- 19-01-16 19:18:10
+sT.- DJ Maaxis
+sk!T.HartCheat].cL
+Combat Knife
+--- 19-01-16 19:18:10
+sk!T.chub0
+sT.- DJ Maaxis
+Ak-74
+--- 19-01-16 19:18:12
+sT.- Enigma
+sT.- Enigma
+Grenade
+--- 19-01-16 19:18:12
+sT.- Enigma
+sk!T.chub0
+Grenade
+--- 19-01-16 19:18:18
+sT.- SenzacL*
+sk!T.HartCheat].cL
+M79
+--- 19-01-16 19:18:22
+sk!T.chub0
+sT.- DJ Maaxis
+LAW
+--- 19-01-16 19:18:22
+sT.- SenzacL*
+sk!T.Rattle
+M79
+--- 19-01-16 19:18:27
+sk!T.HartCheat].cL
+sT.- Enigma
+Grenade
+--- 19-01-16 19:18:30
+sk!T.HartCheat].cL
+sT.- SenzacL*
+Desert Eagles
+--- 19-01-16 19:18:35
+sk!T.HartCheat].cL
+sT.- SenzacL*
+Grenade
+--- 19-01-16 19:18:35
+sk!T.HartCheat].cL
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 19:18:37
+sT.- Enigma
+sk!T.chub0
+Steyr AUG
+--- 19-01-16 19:18:40
+sT.- Enigma
+sk!T.HartCheat].cL
+Grenade
+--- 19-01-16 19:18:42
+sk!T.Rattle
+sT.- Enigma
+Ruger 77
+--- 19-01-16 19:18:48
+sT.- Enigma
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 19:18:49
+sT.- DJ Maaxis
+sk!T.chub0
+Barrett M82A1
+--- 19-01-16 19:18:55
+sT.- SenzacL*
+sk!T.HartCheat].cL
+M79
+--- 19-01-16 19:18:55
+sk!T.Rattle
+sT.- Enigma
+Ruger 77
+--- 19-01-16 19:18:57
+sT.- DJ Maaxis
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 19:19:04
+sk!T.chub0
+sT.- DJ Maaxis
+LAW
+--- 19-01-16 19:19:04
+sT.- SenzacL*
+sk!T.HartCheat].cL
+Grenade
+--- 19-01-16 19:19:07
+sT.- SenzacL*
+sT.- SenzacL*
+Grenade
+--- 19-01-16 19:19:12
+sk!T.HartCheat].cL
+sT.- Enigma
+Grenade
+--- 19-01-16 19:19:14
+sT.- SenzacL*
+sT.- SenzacL*
+Grenade
+--- 19-01-16 19:19:14
+sT.- SenzacL*
+sk!T.Rattle
+Grenade
+--- 19-01-16 19:19:14
+sT.- DJ Maaxis
+sk!T.HartCheat].cL
+Barrett M82A1
+--- 19-01-16 19:19:18
+sk!T.chub0
+sT.- DJ Maaxis
+Ak-74
+--- 19-01-16 19:19:21
+sT.- SenzacL*
+sT.- SenzacL*
+M79
+--- 19-01-16 19:19:21
+sT.- SenzacL*
+sk!T.HartCheat].cL
+M79
+--- 19-01-16 19:19:23
+sk!T.Rattle
+sT.- Enigma
+Ruger 77
+--- 19-01-16 19:19:25
+sT.- DJ Maaxis
+sk!T.chub0
+Barrett M82A1
+--- 19-01-16 19:19:27
+sT.- DJ Maaxis
+sk!T.Rattle
+Combat Knife
+--- 19-01-16 19:19:27
+sT.- SenzacL*
+sk!T.HartCheat].cL
+M79
+--- 19-01-16 19:19:27
+sT.- DJ Maaxis
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 19:19:33
+sk!T.Rattle
+sT.- SenzacL*
+Grenade
+--- 19-01-16 19:19:52
+sk!T.chub0
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 19:19:54
+sk!T.WildR4P`
+sT.- Enigma
+Steyr AUG
+--- 19-01-16 19:19:59
+sk!T.chub0
+sT.- DJ Maaxis
+LAW
+--- 19-01-16 19:19:59
+sk!T.WildR4P`
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 19:20:01
+sk!T.chub0
+sT.- Enigma
+Ak-74
+--- 19-01-16 19:20:02
+sk!T.Rattle
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 19:20:06
+sT.- DJ Maaxis
+sk!T.chub0
+Grenade
+--- 19-01-16 19:20:07
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 19:20:12
+sk!T.Rattle
+sT.- Enigma
+Grenade
+--- 19-01-16 19:20:15
+sT.- DJ Maaxis
+sk!T.Rattle
+Grenade
+--- 19-01-16 19:20:17
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Barrett M82A1
+--- 19-01-16 19:20:19
+sT.- SenzacL*
+sk!T.Rattle
+M79
+--- 19-01-16 19:20:22
+sk!T.WildR4P`
+sT.- Enigma
+Combat Knife
+--- 19-01-16 19:20:23
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Barrett M82A1
+--- 19-01-16 19:20:25
+sT.- SenzacL*
+sk!T.chub0
+M79
+--- 19-01-16 19:20:30
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 19:20:30
+sT.- SenzacL*
+sk!T.Rattle
+M79
+--- 19-01-16 19:20:34
+sT.- DJ Maaxis
+sk!T.chub0
+Barrett M82A1
+--- 19-01-16 19:20:35
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Combat Knife
+--- 19-01-16 19:20:36
+sk!T.WildR4P`
+sT.- Enigma
+Steyr AUG
+--- 19-01-16 19:20:41
+sk!T.Rattle
+sT.- SenzacL*
+Combat Knife
+--- 19-01-16 19:20:49
+sT.- Enigma
+sk!T.Rattle
+HK MP5
+--- 19-01-16 19:20:52
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 19:20:57
+sT.- DJ Maaxis
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 19:21:01
+sk!T.chub0
+sT.- Enigma
+Ak-74
+--- 19-01-16 19:21:01
+sT.- Enigma
+sk!T.chub0
+HK MP5
+--- 19-01-16 19:21:08
+sk!T.WildR4P`
+sT.- Enigma
+Combat Knife
+--- 19-01-16 19:21:09
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 19:21:15
+sk!T.WildR4P`
+sT.- Enigma
+Steyr AUG
+--- 19-01-16 19:21:18
+sT.- SenzacL*
+sk!T.Rattle
+Grenade
+--- 19-01-16 19:21:25
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 19:21:29
+sT.- Enigma
+sk!T.WildR4P`
+HK MP5
+--- 19-01-16 19:21:34
+sT.- DJ Maaxis
+sk!T.chub0
+Barrett M82A1
+--- 19-01-16 19:21:35
+sk!T.WildR4P`
+sT.- Enigma
+Steyr AUG
+--- 19-01-16 19:21:35
+sT.- Enigma
+sk!T.Rattle
+HK MP5
+--- 19-01-16 19:21:37
+sT.- SenzacL*
+sk!T.WildR4P`
+M79
+--- 19-01-16 19:21:47
+sT.- Enigma
+sk!T.Rattle
+HK MP5
+--- 19-01-16 19:21:47
+sk!T.WildR4P`
+sT.- Enigma
+Steyr AUG
+--- 19-01-16 19:21:50
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Steyr AUG
+--- 19-01-16 19:21:56
+sk!T.WildR4P`
+sT.- Enigma
+Steyr AUG
+--- 19-01-16 19:21:58
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Combat Knife
+--- 19-01-16 19:22:01
+sT.- Enigma
+sk!T.WildR4P`
+Combat Knife
+--- 19-01-16 19:22:07
+sk!T.chub0
+sT.- DJ Maaxis
+LAW
+--- 19-01-16 19:22:11
+sk!T.WildR4P`
+sT.- SenzacL*
+Grenade
+--- 19-01-16 19:22:15
+sT.- DJ Maaxis
+sk!T.chub0
+Grenade
+--- 19-01-16 19:22:18
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 19:22:23
+sT.- Enigma
+sk!T.chub0
+Grenade
+--- 19-01-16 19:22:26
+sk!T.WildR4P`
+sT.- Enigma
+Steyr AUG
+--- 19-01-16 19:22:26
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Barrett M82A1
+--- 19-01-16 19:22:28
+sk!T.chub0
+sT.- DJ Maaxis
+Combat Knife
+--- 19-01-16 19:22:33
+sT.- Enigma
+sk!T.Rattle
+HK MP5
+--- 19-01-16 19:22:34
+sk!T.chub0
+sT.- SenzacL*
+Barrett M82A1
+--- 19-01-16 19:24:27
+sT.- SenzacL*
+sk!T.chub0
+Barrett M82A1
+--- 19-01-16 19:24:33
+sT.- DJ Maaxis
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 19:24:36
+sT.- Enigma
+sT.- Enigma
+Grenade
+--- 19-01-16 19:24:36
+sT.- SenzacL*
+sk!T.WildR4P`
+Barrett M82A1
+--- 19-01-16 19:24:39
+sT.- DJ Maaxis
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 19:24:43
+sk!T.chub0
+sT.- SenzacL*
+Barrett M82A1
+--- 19-01-16 19:24:45
+sk!T.chub0
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 19:24:47
+sT.- Enigma
+sk!T.chub0
+Grenade
+--- 19-01-16 19:24:47
+sk!T.chub0
+sT.- Enigma
+Grenade
+--- 19-01-16 19:24:51
+sk!T.WildR4P`
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-16 19:24:52
+sT.- DJ Maaxis
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 19:24:53
+sT.- Enigma
+sk!T.WildR4P`
+HK MP5
+--- 19-01-16 19:24:56
+sT.- Enigma
+sk!T.chub0
+Grenade
+--- 19-01-16 19:25:00
+sk!T.Rattle
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 19:25:04
+sT.- SenzacL*
+sk!T.Rattle
+Grenade
+--- 19-01-16 19:25:06
+sT.- SenzacL*
+sk!T.chub0
+M79
+--- 19-01-16 19:25:07
+sk!T.WildR4P`
+sT.- Enigma
+Steyr AUG
+--- 19-01-16 19:25:11
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Steyr AUG
+--- 19-01-16 19:25:18
+sk!T.Rattle
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 19:25:20
+sk!T.chub0
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 19:25:23
+sT.- Enigma
+sk!T.WildR4P`
+HK MP5
+--- 19-01-16 19:25:23
+sk!T.WildR4P`
+sT.- Enigma
+Combat Knife
+--- 19-01-16 19:25:25
+sk!T.Rattle
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 19:25:32
+sk!T.WildR4P`
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-16 19:25:33
+sT.- Enigma
+sk!T.Rattle
+HK MP5
+--- 19-01-16 19:25:35
+sT.- DJ Maaxis
+sk!T.chub0
+Grenade
+--- 19-01-16 19:25:35
+sk!T.chub0
+sT.- Enigma
+Grenade
+--- 19-01-16 19:25:39
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 19:25:43
+sT.- SenzacL*
+sk!T.WildR4P`
+Chainsaw
+--- 19-01-16 19:25:44
+sT.- DJ Maaxis
+sk!T.chub0
+Combat Knife
+--- 19-01-16 19:25:44
+sk!T.chub0
+sT.- SenzacL*
+LAW
+--- 19-01-16 19:25:47
+sT.- DJ Maaxis
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 19:25:56
+sk!T.WildR4P`
+sT.- Enigma
+Steyr AUG
+--- 19-01-16 19:25:58
+sk!T.chub0
+sT.- DJ Maaxis
+Ak-74
+--- 19-01-16 19:25:59
+sk!T.Rattle
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 19:26:02
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 19:26:03
+sT.- Enigma
+sk!T.Rattle
+HK MP5
+--- 19-01-16 19:26:05
+sT.- Enigma
+sk!T.WildR4P`
+Combat Knife
+--- 19-01-16 19:26:10
+sk!T.Rattle
+sT.- Enigma
+Ruger 77
+--- 19-01-16 19:26:11
+sT.- SenzacL*
+sk!T.chub0
+M79
+--- 19-01-16 19:26:11
+sk!T.WildR4P`
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-16 19:26:17
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 19:26:22
+sk!T.chub0
+sT.- Enigma
+Ak-74
+--- 19-01-16 19:26:25
+sT.- DJ Maaxis
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 19:26:30
+sT.- Enigma
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 19:26:31
+sk!T.Rattle
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 19:26:32
+sT.- SenzacL*
+sk!T.Rattle
+M79
+--- 19-01-16 19:26:35
+sk!T.WildR4P`
+sT.- SenzacL*
+Grenade
+--- 19-01-16 19:26:36
+sT.- Enigma
+sk!T.chub0
+HK MP5
+--- 19-01-16 19:26:38
+sk!T.WildR4P`
+sT.- Enigma
+Steyr AUG
+--- 19-01-16 19:26:42
+sk!T.chub0
+sT.- SenzacL*
+Grenade
+--- 19-01-16 19:26:46
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 19:26:47
+sT.- Enigma
+sk!T.Rattle
+Grenade
+--- 19-01-16 19:26:48
+sT.- SenzacL*
+sk!T.chub0
+M79
+--- 19-01-16 19:26:53
+sT.- Enigma
+sk!T.WildR4P`
+HK MP5
+--- 19-01-16 19:26:58
+sk!T.WildR4P`
+sT.- SenzacL*
+Combat Knife
+--- 19-01-16 19:26:59
+sk!T.chub0
+sT.- Enigma
+Ak-74
+--- 19-01-16 19:27:06
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Barrett M82A1
+--- 19-01-16 19:27:06
+sT.- DJ Maaxis
+sk!T.chub0
+Barrett M82A1
+--- 19-01-16 19:27:11
+sT.- Enigma
+sk!T.Rattle
+Grenade
+--- 19-01-16 19:27:12
+sT.- SenzacL*
+sk!T.WildR4P`
+M79
+--- 19-01-16 19:27:16
+sk!T.Rattle
+sT.- Enigma
+Combat Knife
+--- 19-01-16 19:27:19
+sT.- DJ Maaxis
+sk!T.Rattle
+Grenade
+--- 19-01-16 19:27:21
+sk!T.WildR4P`
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-16 19:27:26
+sT.- DJ Maaxis
+sk!T.chub0
+Barrett M82A1
+--- 19-01-16 19:27:31
+sT.- SenzacL*
+sk!T.WildR4P`
+M79
+--- 19-01-16 19:27:32
+sk!T.Rattle
+sT.- Enigma
+Grenade
+--- 19-01-16 19:27:33
+sT.- SenzacL*
+sk!T.Rattle
+Grenade
+--- 19-01-16 19:27:33
+sk!T.Rattle
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 19:27:37
+sT.- SenzacL*
+sk!T.chub0
+M79
+--- 19-01-16 19:27:40
+sk!T.Rattle
+sT.- Enigma
+Ruger 77
+--- 19-01-16 19:27:42
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Barrett M82A1
+--- 19-01-16 19:27:43
+sT.- SenzacL*
+sk!T.Rattle
+M79
+--- 19-01-16 19:27:50
+sk!T.chub0
+sT.- Enigma
+LAW
+--- 19-01-16 19:27:50
+sk!T.Rattle
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 19:27:51
+sT.- DJ Maaxis
+sk!T.chub0
+Barrett M82A1
+--- 19-01-16 19:27:57
+sk!T.WildR4P`
+sT.- Enigma
+Steyr AUG
+--- 19-01-16 19:27:58
+sT.- SenzacL*
+sk!T.WildR4P`
+M79
+--- 19-01-16 19:27:58
+sT.- DJ Maaxis
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 19:28:04
+sk!T.Rattle
+sk!T.Rattle
+Grenade
+--- 19-01-16 19:28:04
+sk!T.chub0
+sT.- Enigma
+Ak-74
+--- 19-01-16 19:28:06
+sk!T.WildR4P`
+sT.- SenzacL*
+Combat Knife
+--- 19-01-16 19:28:14
+sk!T.WildR4P`
+sT.- Enigma
+Steyr AUG
+--- 19-01-16 19:28:19
+sT.- SenzacL*
+sk!T.WildR4P`
+Chainsaw
+--- 19-01-16 19:28:21
+sT.- DJ Maaxis
+sk!T.chub0
+Barrett M82A1
+--- 19-01-16 19:28:21
+sk!T.WildR4P`
+sT.- Enigma
+Grenade
+--- 19-01-16 19:28:24
+sk!T.Rattle
+sT.- SenzacL*
+Grenade
+--- 19-01-16 19:30:20
+sk!T.chub0
+sT.- DJ Maaxis
+LAW
+--- 19-01-16 19:30:36
+sT.- SenzacL*
+sk!T.chub0
+M79
+--- 19-01-16 19:30:39
+sT.- SenzacL*
+sk!T.Rattle
+Grenade
+--- 19-01-16 19:30:53
+sT.- SenzacL*
+sk!T.chub0
+Chainsaw
+--- 19-01-16 19:31:04
+sk!T.chub0
+sT.- Enigma
+Combat Knife
+--- 19-01-16 19:31:06
+sk!T.chub0
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 19:31:14
+sT.- Enigma
+sk!T.chub0
+Barrett M82A1
+--- 19-01-16 19:31:24
+sT.- Enigma
+sk!T.chub0
+Grenade
+--- 19-01-16 19:31:33
+sk!T.chub0
+sT.- DJ Maaxis
+Ak-74
+--- 19-01-16 19:31:39
+sk!T.chub0
+sT.- Enigma
+LAW
+--- 19-01-16 19:31:40
+sT.- Enigma
+sk!T.chub0
+Grenade
+--- 19-01-16 19:31:45
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 19:31:51
+sT.- Enigma
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 19:31:54
+sT.- SenzacL*
+sk!T.WildR4P`
+M79
+--- 19-01-16 19:31:56
+sT.- DJ Maaxis
+sk!T.chub0
+Ruger 77
+--- 19-01-16 19:31:57
+sk!T.Rattle
+sT.- SenzacL*
+Grenade
+--- 19-01-16 19:32:01
+sT.- DJ Maaxis
+sk!T.Rattle
+Ruger 77
+--- 19-01-16 19:32:06
+sT.- SenzacL*
+sk!T.chub0
+M79
+--- 19-01-16 19:32:07
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Ruger 77
+--- 19-01-16 19:32:11
+sk!T.Rattle
+sT.- Enigma
+Ruger 77
+--- 19-01-16 19:32:25
+sT.- Enigma
+sk!T.chub0
+Ak-74
+--- 19-01-16 19:32:30
+sT.- Enigma
+sk!T.Rattle
+Ak-74
+--- 19-01-16 19:32:33
+sk!T.chub0
+sT.- SenzacL*
+Spas-12
+--- 19-01-16 19:32:39
+sk!T.WildR4P`
+sT.- Enigma
+Steyr AUG
+--- 19-01-16 19:32:42
+sT.- DJ Maaxis
+sk!T.Rattle
+Ruger 77
+--- 19-01-16 19:32:48
+sk!T.Rattle
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 19:32:48
+sT.- Enigma
+sk!T.chub0
+Steyr AUG
+--- 19-01-16 19:32:52
+sT.- Enigma
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 19:32:53
+sk!T.chub0
+sT.- Enigma
+Spas-12
+--- 19-01-16 19:32:55
+sT.- DJ Maaxis
+sk!T.chub0
+Ruger 77
+--- 19-01-16 19:33:01
+sT.- SenzacL*
+sT.- SenzacL*
+Grenade
+--- 19-01-16 19:33:02
+sk!T.chub0
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 19:33:05
+sT.- Enigma
+sk!T.chub0
+Grenade
+--- 19-01-16 19:33:05
+sT.- Enigma
+sk!T.Rattle
+Grenade
+--- 19-01-16 19:33:05
+sk!T.chub0
+sT.- Enigma
+Spas-12
+--- 19-01-16 19:33:13
+sk!T.Rattle
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 19:33:14
+sT.- DJ Maaxis
+sk!T.Rattle
+Grenade
+--- 19-01-16 19:33:17
+sk!T.WildR4P`
+sT.- Enigma
+Steyr AUG
+--- 19-01-16 19:33:21
+sT.- SenzacL*
+sk!T.chub0
+Grenade
+--- 19-01-16 19:33:28
+sT.- Enigma
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 19:33:29
+sk!T.Rattle
+sT.- Enigma
+Ruger 77
+--- 19-01-16 19:33:31
+sT.- DJ Maaxis
+sk!T.chub0
+Ruger 77
+--- 19-01-16 19:33:32
+sT.- SenzacL*
+sk!T.Rattle
+M79
+--- 19-01-16 19:33:33
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Steyr AUG
+--- 19-01-16 19:33:40
+sT.- Enigma
+sk!T.chub0
+Grenade
+--- 19-01-16 19:33:41
+sT.- SenzacL*
+sk!T.WildR4P`
+M79
+--- 19-01-16 19:33:43
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 19:33:48
+sT.- Enigma
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 19:33:48
+sT.- Enigma
+sT.- Enigma
+Grenade
+--- 19-01-16 19:33:53
+sk!T.chub0
+sT.- DJ Maaxis
+LAW
+--- 19-01-16 19:33:53
+sT.- DJ Maaxis
+sk!T.chub0
+Ruger 77
+--- 19-01-16 19:33:59
+sk!T.WildR4P`
+sT.- Enigma
+Steyr AUG
+--- 19-01-16 19:34:00
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Ruger 77
+--- 19-01-16 19:34:03
+sT.- DJ Maaxis
+sk!T.chub0
+Grenade
+--- 19-01-16 19:34:11
+sT.- DJ Maaxis
+sk!T.Rattle
+Ruger 77
+--- 19-01-16 19:34:11
+sk!T.chub0
+sT.- DJ Maaxis
+LAW
+--- 19-01-16 19:34:15
+sT.- SenzacL*
+sk!T.WildR4P`
+Chainsaw
+--- 19-01-16 19:34:24
+sk!T.Rattle
+sT.- SenzacL*
+Grenade
+--- 19-01-16 19:34:25
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Ruger 77
+--- 19-01-16 19:34:25
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Steyr AUG
+--- 19-01-16 19:34:27
+sT.- Enigma
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 19:34:29
+sk!T.chub0
+sk!T.chub0
+M79
+--- 19-01-16 19:34:33
+sT.- SenzacL*
+sk!T.WildR4P`
+M79
+--- 19-01-16 19:34:37
+sT.- SenzacL*
+sk!T.Rattle
+M79
+--- 19-01-16 19:34:40
+sT.- SenzacL*
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 19:34:41
+sk!T.chub0
+sT.- Enigma
+M79
+--- 19-01-16 19:34:44
+sT.- SenzacL*
+sk!T.Rattle
+M79
+--- 19-01-16 19:34:47
+sT.- DJ Maaxis
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 19:34:47
+sk!T.WildR4P`
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 19:34:53
+sk!T.chub0
+sT.- SenzacL*
+Grenade
+--- 19-01-16 19:34:56
+sT.- Enigma
+sk!T.Rattle
+Grenade
+--- 19-01-16 19:34:56
+sk!T.Rattle
+sT.- Enigma
+Combat Knife
+--- 19-01-16 19:34:59
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 19:35:04
+sT.- Enigma
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 19:35:08
+sk!T.chub0
+sT.- DJ Maaxis
+M79
+--- 19-01-16 19:35:08
+sT.- DJ Maaxis
+sk!T.chub0
+Grenade
+--- 19-01-16 19:35:10
+sT.- Enigma
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 19:35:12
+sk!T.WildR4P`
+sT.- Enigma
+Steyr AUG
+--- 19-01-16 19:35:22
+sT.- DJ Maaxis
+sk!T.chub0
+Grenade
+--- 19-01-16 19:35:27
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Steyr AUG
+--- 19-01-16 19:35:29
+sk!T.WildR4P`
+sT.- SenzacL*
+Grenade
+--- 19-01-16 19:35:34
+sT.- DJ Maaxis
+sk!T.chub0
+Ruger 77
+--- 19-01-16 19:35:34
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 19:35:34
+sk!T.chub0
+sT.- DJ Maaxis
+Combat Knife
+--- 19-01-16 19:35:45
+sT.- DJ Maaxis
+sk!T.chub0
+Ruger 77
+--- 19-01-16 19:35:49
+sT.- SenzacL*
+sk!T.Rattle
+M79
+--- 19-01-16 19:35:50
+sT.- SenzacL*
+sk!T.chub0
+Chainsaw
+--- 19-01-16 19:35:52
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Ruger 77
+--- 19-01-16 19:35:58
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 19:35:58
+sk!T.chub0
+sT.- Enigma
+Barrett M82A1
+--- 19-01-16 19:35:58
+sT.- DJ Maaxis
+sk!T.chub0
+Ruger 77
+--- 19-01-16 19:35:59
+sT.- DJ Maaxis
+sk!T.Rattle
+Ruger 77
+--- 19-01-16 19:36:07
+sT.- DJ Maaxis
+sk!T.Rattle
+Ruger 77
+--- 19-01-16 19:36:09
+sT.- Enigma
+sk!T.chub0
+Grenade
+--- 19-01-16 19:36:13
+sT.- SenzacL*
+sk!T.WildR4P`
+M79
+--- 19-01-16 19:36:13
+sT.- SenzacL*
+sT.- SenzacL*
+Grenade
+--- 19-01-16 19:36:16
+sk!T.Rattle
+sT.- Enigma
+Ruger 77
+--- 19-01-16 19:36:22
+sT.- DJ Maaxis
+sk!T.Rattle
+Grenade
+--- 19-01-16 19:36:23
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 19:36:26
+sT.- SenzacL*
+sk!T.WildR4P`
+M79
+--- 19-01-16 19:36:29
+sk!T.Rattle
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 19:36:32
+sT.- Enigma
+sk!T.chub0
+Steyr AUG
+--- 19-01-16 19:36:33
+sT.- DJ Maaxis
+sk!T.Rattle
+Grenade
+--- 19-01-16 19:36:38
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Steyr AUG
+--- 19-01-16 19:36:40
+sk!T.chub0
+sT.- Enigma
+M79
+--- 19-01-16 19:36:42
+sk!T.WildR4P`
+sT.- SenzacL*
+Grenade
+--- 19-01-16 19:36:45
+sk!T.chub0
+sT.- DJ Maaxis
+M79
+--- 19-01-16 19:36:48
+sk!T.chub0
+sT.- SenzacL*
+Grenade
+--- 19-01-16 19:36:49
+sT.- Enigma
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 19:36:49
+sk!T.WildR4P`
+sT.- Enigma
+Steyr AUG
+--- 19-01-16 19:36:51
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Combat Knife
+--- 19-01-16 19:36:55
+sT.- SenzacL*
+sk!T.WildR4P`
+M79
+--- 19-01-16 19:36:59
+sk!T.Rattle
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 19:37:04
+sT.- Enigma
+sk!T.Rattle
+Ruger 77
+--- 19-01-16 19:37:07
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Steyr AUG
+--- 19-01-16 19:37:08
+sT.- Enigma
+sk!T.WildR4P`
+Ruger 77
+--- 19-01-16 19:37:15
+sk!T.WildR4P`
+sT.- Enigma
+Steyr AUG
+--- 19-01-16 19:37:17
+sk!T.chub0
+sT.- SenzacL*
+M79
+--- 19-01-16 19:37:18
+sT.- SenzacL*
+sk!T.chub0
+Grenade
+--- 19-01-16 19:37:18
+sk!T.Rattle
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 19:37:21
+sk!T.Rattle
+sT.- Enigma
+Combat Knife
+--- 19-01-16 19:37:23
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 19:37:26
+sk!T.WildR4P`
+sT.- SenzacL*
+Grenade
+--- 19-01-16 19:37:27
+sk!T.WildR4P`
+sT.- Enigma
+Grenade
+--- 19-01-16 19:37:30
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 19:37:30
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Ruger 77
+--- 19-01-16 19:37:38
+sk!T.chub0
+sT.- SenzacL*
+M79
+--- 19-01-16 19:37:39
+sk!T.WildR4P`
+sT.- Enigma
+Steyr AUG
+--- 19-01-16 19:37:44
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Steyr AUG
+--- 19-01-16 19:37:44
+sT.- Enigma
+sk!T.chub0
+HK MP5
+--- 19-01-16 19:37:49
+sk!T.WildR4P`
+sT.- Enigma
+Grenade
+--- 19-01-16 19:37:50
+sT.- DJ Maaxis
+sk!T.Rattle
+Ruger 77
+--- 19-01-16 19:37:55
+sT.- SenzacL*
+sk!T.chub0
+M79
+--- 19-01-16 19:37:56
+sk!T.WildR4P`
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-16 19:38:08
+sT.- Enigma
+sk!T.Rattle
+HK MP5
+--- 19-01-16 19:38:09
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 19:38:14
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Steyr AUG
+--- 19-01-16 19:38:17
+sT.- SenzacL*
+sk!T.chub0
+Chainsaw
+--- 19-01-16 19:38:17
+sk!T.chub0
+sT.- SenzacL*
+M79
+--- 19-01-16 19:38:20
+sk!T.Rattle
+sT.- Enigma
+Grenade
+--- 19-01-16 19:38:22
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 19:38:25
+sT.- SenzacL*
+sk!T.Rattle
+M79
+--- 19-01-16 19:38:26
+sT.- Enigma
+sk!T.WildR4P`
+HK MP5
+--- 19-01-16 19:38:29
+sk!T.chub0
+sT.- Enigma
+LAW
+--- 19-01-16 19:38:37
+sT.- SenzacL*
+sT.- SenzacL*
+Grenade
+--- 19-01-16 19:38:39
+sk!T.Rattle
+sT.- Enigma
+Ruger 77
+--- 19-01-16 19:38:40
+sT.- DJ Maaxis
+sk!T.Rattle
+Ruger 77
+--- 19-01-16 19:38:41
+sk!T.chub0
+sT.- DJ Maaxis
+M79
+--- 19-01-16 19:38:45
+sT.- SenzacL*
+sT.- SenzacL*
+M79
+--- 19-01-16 19:38:45
+sT.- Enigma
+sk!T.WildR4P`
+HK MP5
+--- 19-01-16 19:38:47
+sT.- DJ Maaxis
+sk!T.chub0
+Ruger 77
+--- 19-01-16 19:38:52
+sk!T.WildR4P`
+sT.- Enigma
+Steyr AUG
+--- 19-01-16 19:38:55
+sk!T.chub0
+sT.- SenzacL*
+M79
+--- 19-01-16 19:38:59
+sT.- DJ Maaxis
+sk!T.Rattle
+Combat Knife
+--- 19-01-16 19:39:00
+sk!T.chub0
+sT.- SenzacL*
+LAW
+--- 19-01-16 19:39:01
+sT.- Enigma
+sk!T.chub0
+Steyr AUG
+--- 19-01-16 19:39:04
+sk!T.WildR4P`
+sT.- Enigma
+Grenade
+--- 19-01-16 19:39:04
+sT.- Enigma
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 19:39:11
+sT.- DJ Maaxis
+sk!T.Rattle
+Grenade
+--- 19-01-16 19:39:14
+sk!T.WildR4P`
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-16 19:39:15
+sk!T.chub0
+sT.- Enigma
+M79
+--- 19-01-16 19:39:17
+sk!T.chub0
+sk!T.chub0
+Grenade
+--- 19-01-16 19:39:23
+sT.- Enigma
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 19:39:28
+sT.- SenzacL*
+sk!T.Rattle
+M79
+--- 19-01-16 19:39:30
+sk!T.WildR4P`
+sT.- Enigma
+Steyr AUG
+--- 19-01-16 19:39:33
+sk!T.chub0
+sT.- DJ Maaxis
+M79
+--- 19-01-16 19:39:42
+sT.- DJ Maaxis
+sk!T.chub0
+Ruger 77
+--- 19-01-16 19:39:42
+sk!T.WildR4P`
+sT.- Enigma
+Steyr AUG
+--- 19-01-16 19:39:43
+sk!T.Rattle
+sk!T.Rattle
+Grenade
+--- 19-01-16 19:39:45
+sk!T.WildR4P`
+sT.- SenzacL*
+Grenade
+--- 19-01-16 19:39:52
+sT.- Enigma
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 19:39:52
+sk!T.chub0
+sT.- Enigma
+M79
+--- 19-01-16 19:39:56
+sT.- DJ Maaxis
+sk!T.chub0
+Combat Knife
+--- 19-01-16 19:39:59
+sk!T.Rattle
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 19:39:59
+sT.- Enigma
+sk!T.Rattle
+Grenade
+--- 19-01-16 19:40:06
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Ruger 77
+--- 19-01-16 19:40:07
+sT.- Enigma
+sT.- Enigma
+Grenade
+--- 19-01-16 19:40:08
+sT.- DJ Maaxis
+sk!T.chub0
+Ruger 77
+--- 19-01-16 19:40:12
+sT.- Enigma
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 19:40:16
+sk!T.chub0
+sT.- Enigma
+M79
+--- 19-01-16 19:40:20
+sk!T.Rattle
+sT.- SenzacL*
+Grenade
+--- 19-01-16 19:40:20
+sT.- Enigma
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 19:40:22
+sk!T.chub0
+sT.- DJ Maaxis
+USSOCOM
+--- 19-01-16 19:40:23
+sT.- Enigma
+sk!T.chub0
+Steyr AUG
+--- 19-01-16 19:40:28
+sk!T.Rattle
+sT.- Enigma
+Combat Knife
+--- 19-01-16 19:40:29
+sT.- DJ Maaxis
+sk!T.Rattle
+Ruger 77
+--- 19-01-16 19:40:33
+sT.- Enigma
+sk!T.WildR4P`
+Combat Knife
+--- 19-01-16 19:40:35
+sT.- Enigma
+sk!T.chub0
+Grenade
+--- 19-01-16 19:40:35
+sT.- SenzacL*
+sk!T.Rattle
+M79
+--- 19-01-16 19:40:42
+sk!T.WildR4P`
+sT.- Enigma
+Steyr AUG
+--- 19-01-16 19:40:42
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Ruger 77
+--- 19-01-16 19:40:42
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Steyr AUG
+--- 19-01-16 19:40:47
+sT.- SenzacL*
+sk!T.chub0
+M79
+--- 19-01-16 19:40:49
+sk!T.Rattle
+sT.- Enigma
+Ruger 77
+--- 19-01-16 19:40:51
+sk!T.Rattle
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 19:40:51
+sT.- SenzacL*
+sk!T.Rattle
+M79
+--- 19-01-16 19:40:55
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Steyr AUG
+--- 19-01-16 19:40:56
+sk!T.WildR4P`
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-16 19:40:58
+sT.- Enigma
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 19:41:00
+sk!T.chub0
+sT.- Enigma
+Ruger 77
+--- 19-01-16 19:41:04
+sk!T.chub0
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 19:41:04
+sT.- DJ Maaxis
+sk!T.chub0
+Grenade
+--- 19-01-16 19:41:05
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 19:41:05
+sT.- Enigma
+sk!T.Rattle
+Combat Knife
+--- 19-01-16 19:41:11
+sk!T.WildR4P`
+sT.- Enigma
+Steyr AUG
+--- 19-01-16 19:41:16
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Ruger 77
+--- 19-01-16 19:41:18
+sT.- DJ Maaxis
+sk!T.chub0
+Combat Knife
+--- 19-01-16 19:41:18
+sk!T.chub0
+sT.- DJ Maaxis
+Spas-12
+--- 19-01-16 19:41:23
+sT.- DJ Maaxis
+sk!T.Rattle
+Ruger 77
+--- 19-01-16 19:41:30
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Ruger 77
+--- 19-01-16 19:41:30
+sk!T.chub0
+sT.- DJ Maaxis
+M79
+--- 19-01-16 19:41:32
+sk!T.chub0
+sT.- Enigma
+LAW
+--- 19-01-16 19:41:34
+sk!T.Rattle
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 19:41:35
+sT.- DJ Maaxis
+sk!T.chub0
+Combat Knife
+--- 19-01-16 19:41:37
+sk!T.Rattle
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 19:41:39
+sT.- Enigma
+sk!T.Rattle
+Combat Knife
+--- 19-01-16 19:41:43
+sT.- Enigma
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 19:41:45
+sk!T.chub0
+sT.- SenzacL*
+M79
+--- 19-01-16 19:41:47
+sk!T.Rattle
+sT.- Enigma
+Ruger 77
+--- 19-01-16 19:41:51
+sk!T.chub0
+sT.- SenzacL*
+M79
+--- 19-01-16 19:41:52
+sk!T.Rattle
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 19:41:57
+sT.- Enigma
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 19:42:02
+sT.- SenzacL*
+sk!T.chub0
+Grenade
+--- 19-01-16 19:42:03
+sk!T.WildR4P`
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-16 19:42:04
+sk!T.WildR4P`
+sT.- Enigma
+Grenade
+--- 19-01-16 19:42:06
+sT.- DJ Maaxis
+sk!T.Rattle
+Grenade
+--- 19-01-16 19:42:08
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Ruger 77
+--- 19-01-16 19:42:09
+sk!T.chub0
+sT.- DJ Maaxis
+M79
+--- 19-01-16 19:42:13
+sT.- SenzacL*
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 19:42:14
+sT.- DJ Maaxis
+sk!T.chub0
+Ruger 77
+--- 19-01-16 19:42:16
+sk!T.WildR4P`
+sT.- SenzacL*
+Grenade
+--- 19-01-16 19:42:39
+sk!T.chub0
+sT.- Enigma
+M79
+--- 19-01-16 19:43:00
+sk!T.chub0
+sT.- SenzacL*
+M79
+--- 19-01-16 19:43:03
+sk!T.chub0
+sT.- DJ Maaxis
+M79
+--- 19-01-16 19:43:21
+sT.- DJ Maaxis
+sk!T.chub0
+Combat Knife
+--- 19-01-16 19:43:33
+sk!T.chub0
+sT.- SenzacL*
+M79
+--- 19-01-16 19:44:36
+sT.- Mand3s
+sk!T.Rattle
+Grenade
+--- 19-01-16 19:44:39
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Combat Knife
+--- 19-01-16 19:44:40
+sT.- SenzacL*
+sk!T.Rattle
+Chainsaw
+--- 19-01-16 19:44:45
+sk!T.chub0
+sT.- Mand3s
+M79
+--- 19-01-16 19:44:46
+sk!T.chub0
+sk!T.chub0
+Grenade
+--- 19-01-16 19:44:49
+sT.- DJ Maaxis
+sk!T.Rattle
+M79
+--- 19-01-16 19:44:50
+sk!T.WildR4P`
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-16 19:44:54
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Hands
+--- 19-01-16 19:44:58
+sk!T.Rattle
+sT.- Mand3s
+Ruger 77
+--- 19-01-16 19:45:03
+sT.- DJ Maaxis
+sk!T.Rattle
+Chainsaw
+--- 19-01-16 19:45:04
+sk!T.chub0
+sT.- Mand3s
+Barrett M82A1
+--- 19-01-16 19:45:07
+sk!T.chub0
+sT.- DJ Maaxis
+Combat Knife
+--- 19-01-16 19:45:07
+sk!T.WildR4P`
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-16 19:45:15
+sT.- SenzacL*
+sk!T.Rattle
+M79
+--- 19-01-16 19:45:16
+sk!T.WildR4P`
+sT.- Mand3s
+Steyr AUG
+--- 19-01-16 19:45:20
+sk!T.chub0
+sT.- DJ Maaxis
+Spas-12
+--- 19-01-16 19:45:24
+sk!T.WildR4P`
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-16 19:45:25
+sk!T.chub0
+sT.- Mand3s
+Spas-12
+--- 19-01-16 19:45:28
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 19:45:28
+sT.- DJ Maaxis
+sk!T.Rattle
+Grenade
+--- 19-01-16 19:45:29
+sk!T.WildR4P`
+sT.- SenzacL*
+Grenade
+--- 19-01-16 19:45:34
+sT.- Mand3s
+sk!T.chub0
+Spas-12
+--- 19-01-16 19:45:35
+sk!T.WildR4P`
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 19:45:35
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 19:45:38
+sk!T.chub0
+sT.- SenzacL*
+Grenade
+--- 19-01-16 19:45:38
+sk!T.Rattle
+sT.- Mand3s
+Ruger 77
+--- 19-01-16 19:45:47
+sT.- SenzacL*
+sk!T.WildR4P`
+M79
+--- 19-01-16 19:45:47
+sT.- Mand3s
+sk!T.chub0
+Spas-12
+--- 19-01-16 19:45:52
+sT.- DJ Maaxis
+sk!T.chub0
+M79
+--- 19-01-16 19:46:00
+sT.- Mand3s
+sk!T.WildR4P`
+Spas-12
+--- 19-01-16 19:46:00
+sk!T.WildR4P`
+sT.- Mand3s
+Grenade
+--- 19-01-16 19:46:06
+sk!T.chub0
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 19:46:08
+sk!T.WildR4P`
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-16 19:46:11
+sT.- DJ Maaxis
+sk!T.Rattle
+Grenade
+--- 19-01-16 19:46:12
+sT.- Mand3s
+sk!T.chub0
+Spas-12
+--- 19-01-16 19:46:15
+sk!T.WildR4P`
+sT.- Mand3s
+Steyr AUG
+--- 19-01-16 19:46:19
+sT.- Mand3s
+sk!T.WildR4P`
+Chainsaw
+--- 19-01-16 19:46:26
+sT.- Mand3s
+sk!T.Rattle
+Spas-12
+--- 19-01-16 19:46:27
+sk!T.WildR4P`
+sT.- Mand3s
+Grenade
+--- 19-01-16 19:46:29
+sk!T.WildR4P`
+sT.- SenzacL*
+Grenade
+--- 19-01-16 19:46:29
+sk!T.chub0
+sT.- DJ Maaxis
+Barrett M82A1
+--- 19-01-16 19:46:34
+sT.- Mand3s
+sk!T.chub0
+Spas-12
+--- 19-01-16 19:46:36
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 19:46:37
+sT.- SenzacL*
+sk!T.Rattle
+M79
+--- 19-01-16 19:46:42
+sT.- SenzacL*
+sk!T.WildR4P`
+M79
+--- 19-01-16 19:46:44
+sk!T.Rattle
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 19:46:48
+sk!T.WildR4P`
+sT.- Mand3s
+Steyr AUG
+--- 19-01-16 19:46:49
+sT.- DJ Maaxis
+sk!T.chub0
+M79
+--- 19-01-16 19:46:53
+sT.- DJ Maaxis
+sk!T.WildR4P`
+M79
+--- 19-01-16 19:46:58
+sT.- DJ Maaxis
+sk!T.Rattle
+Grenade
+--- 19-01-16 19:47:00
+sT.- Mand3s
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 19:47:04
+sk!T.chub0
+sT.- SenzacL*
+Barrett M82A1
+--- 19-01-16 19:47:05
+sk!T.chub0
+sT.- Mand3s
+Grenade
+--- 19-01-16 19:47:08
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 19:47:08
+sT.- DJ Maaxis
+sk!T.chub0
+Chainsaw
+--- 19-01-16 19:47:13
+sT.- DJ Maaxis
+sk!T.Rattle
+M79
+--- 19-01-16 19:47:16
+sk!T.Rattle
+sT.- Mand3s
+Combat Knife
+--- 19-01-16 19:47:19
+sT.- DJ Maaxis
+sk!T.chub0
+M79
+--- 19-01-16 19:47:19
+sT.- SenzacL*
+sk!T.WildR4P`
+M79
+--- 19-01-16 19:47:25
+sT.- DJ Maaxis
+sk!T.WildR4P`
+M79
+--- 19-01-16 19:47:28
+sT.- SenzacL*
+sT.- SenzacL*
+M79
+--- 19-01-16 19:47:29
+sT.- Mand3s
+sk!T.Rattle
+Spas-12
+--- 19-01-16 19:47:39
+sk!T.WildR4P`
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-16 19:47:42
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Steyr AUG
+--- 19-01-16 19:47:45
+sk!T.chub0
+sT.- SenzacL*
+Barrett M82A1
+--- 19-01-16 19:47:49
+sk!T.chub0
+sT.- Mand3s
+Combat Knife
+--- 19-01-16 19:47:52
+sk!T.Rattle
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 19:47:58
+sT.- DJ Maaxis
+sk!T.chub0
+Chainsaw
+--- 19-01-16 19:48:02
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Steyr AUG
+--- 19-01-16 19:48:02
+sT.- SenzacL*
+sk!T.chub0
+M79
+--- 19-01-16 19:48:03
+sk!T.WildR4P`
+sT.- Mand3s
+Grenade
+--- 19-01-16 19:48:03
+sT.- Mand3s
+sk!T.WildR4P`
+Spas-12
+--- 19-01-16 19:48:10
+sT.- Mand3s
+sk!T.Rattle
+Spas-12
+--- 19-01-16 19:48:11
+sk!T.WildR4P`
+sT.- SenzacL*
+Grenade
+--- 19-01-16 19:48:17
+sT.- Mand3s
+sT.- Mand3s
+Grenade
+--- 19-01-16 19:48:23
+sk!T.Rattle
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 19:48:23
+sT.- DJ Maaxis
+sk!T.Rattle
+M79
+--- 19-01-16 19:48:27
+sT.- Mand3s
+sk!T.WildR4P`
+Spas-12
+--- 19-01-16 19:48:28
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 19:48:31
+sk!T.Rattle
+sT.- Mand3s
+Ruger 77
+--- 19-01-16 19:48:36
+sT.- DJ Maaxis
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 19:48:39
+sT.- Mand3s
+sk!T.Rattle
+Spas-12
+--- 19-01-16 19:48:42
+sT.- DJ Maaxis
+sk!T.chub0
+Grenade
+--- 19-01-16 19:48:43
+sk!T.WildR4P`
+sT.- Mand3s
+Steyr AUG
+--- 19-01-16 19:48:51
+sT.- DJ Maaxis
+sk!T.Rattle
+M79
+--- 19-01-16 19:48:53
+sk!T.WildR4P`
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-16 19:57:35
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 19:57:38
+sT.- SenzacL*
+chubipoto
+Grenade
+--- 19-01-16 19:57:41
+sT.- DJ Maaxis
+sk!T.Rattle
+Grenade
+--- 19-01-16 19:57:44
+chubipoto
+sT.- SenzacL*
+Grenade
+--- 19-01-16 19:57:46
+chubipoto
+sT.- DJ Maaxis
+Steyr AUG
+--- 19-01-16 19:57:48
+chubipoto
+ErreAPe_
+Steyr AUG
+--- 19-01-16 19:57:50
+sT.- SenzacL*
+sk!T.Rattle
+Chainsaw
+--- 19-01-16 19:57:53
+sT.- DJ Maaxis
+chubipoto
+Steyr AUG
+--- 19-01-16 19:57:53
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 19:57:54
+ErreAPe_
+ErreAPe_
+Grenade
+--- 19-01-16 19:57:57
+sT.- SenzacL*
+sk!T.Rattle
+M79
+--- 19-01-16 19:58:02
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 19:58:04
+sT.- DJ Maaxis
+chubipoto
+Steyr AUG
+--- 19-01-16 19:58:09
+sT.- SenzacL*
+sk!T.Rattle
+M79
+--- 19-01-16 19:58:11
+sk!T.WildR4P`
+ErreAPe_
+Grenade
+--- 19-01-16 19:58:12
+chubipoto
+sT.- DJ Maaxis
+Steyr AUG
+--- 19-01-16 19:58:15
+sk!T.WildR4P`
+sT.- SenzacL*
+Grenade
+--- 19-01-16 19:58:17
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 19:58:17
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 19:58:18
+chubipoto
+ErreAPe_
+Combat Knife
+--- 19-01-16 19:58:21
+sk!T.Rattle
+sT.- SenzacL*
+Grenade
+--- 19-01-16 19:58:24
+sk!T.Rattle
+ErreAPe_
+Grenade
+--- 19-01-16 19:58:25
+sk!T.Rattle
+sk!T.Rattle
+Grenade
+--- 19-01-16 19:58:28
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Steyr AUG
+--- 19-01-16 19:58:31
+sk!T.WildR4P`
+ErreAPe_
+Combat Knife
+--- 19-01-16 19:58:34
+sT.- DJ Maaxis
+chubipoto
+Steyr AUG
+--- 19-01-16 19:58:36
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 19:58:37
+sT.- SenzacL*
+sk!T.WildR4P`
+M79
+--- 19-01-16 19:58:37
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 19:58:41
+ErreAPe_
+chubipoto
+Grenade
+--- 19-01-16 19:58:41
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 19:58:45
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 19:58:52
+ErreAPe_
+ErreAPe_
+Grenade
+--- 19-01-16 19:58:52
+sT.- DJ Maaxis
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 19:58:55
+sk!T.WildR4P`
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-16 19:58:57
+ErreAPe_
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 19:58:58
+sk!T.WildR4P`
+ErreAPe_
+Combat Knife
+--- 19-01-16 19:59:03
+sk!T.Rattle
+sT.- SenzacL*
+Grenade
+--- 19-01-16 19:59:06
+sT.- DJ Maaxis
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 19:59:09
+ErreAPe_
+chubipoto
+LAW
+--- 19-01-16 19:59:11
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 19:59:11
+ErreAPe_
+ErreAPe_
+Grenade
+--- 19-01-16 19:59:17
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 19:59:18
+chubipoto
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 19:59:19
+chubipoto
+ErreAPe_
+Grenade
+--- 19-01-16 19:59:22
+sk!T.WildR4P`
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-16 19:59:27
+chubipoto
+ErreAPe_
+Combat Knife
+--- 19-01-16 19:59:29
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Steyr AUG
+--- 19-01-16 19:59:33
+sk!T.Rattle
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 19:59:33
+sT.- SenzacL*
+sk!T.Rattle
+M79
+--- 19-01-16 19:59:38
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 19:59:41
+sT.- SenzacL*
+sk!T.WildR4P`
+M79
+--- 19-01-16 19:59:43
+chubipoto
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-16 19:59:47
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 19:59:48
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Steyr AUG
+--- 19-01-16 19:59:51
+ErreAPe_
+chubipoto
+Steyr AUG
+--- 19-01-16 19:59:53
+sk!T.WildR4P`
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-16 19:59:53
+sT.- SenzacL*
+sk!T.Rattle
+M79
+--- 19-01-16 19:59:53
+ErreAPe_
+ErreAPe_
+Grenade
+--- 19-01-16 19:59:57
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 19:59:57
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 20:00:02
+sT.- SenzacL*
+sk!T.Rattle
+M79
+--- 19-01-16 20:00:04
+sT.- DJ Maaxis
+chubipoto
+Steyr AUG
+--- 19-01-16 20:00:10
+sT.- SenzacL*
+sk!T.WildR4P`
+M79
+--- 19-01-16 20:00:12
+ErreAPe_
+chubipoto
+LAW
+--- 19-01-16 20:00:15
+sT.- DJ Maaxis
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:00:18
+sk!T.WildR4P`
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-16 20:00:19
+ErreAPe_
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 20:00:22
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:00:24
+chubipoto
+sT.- DJ Maaxis
+Steyr AUG
+--- 19-01-16 20:00:29
+chubipoto
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-16 20:00:34
+sk!T.Rattle
+ErreAPe_
+Combat Knife
+--- 19-01-16 20:00:34
+sT.- DJ Maaxis
+chubipoto
+Combat Knife
+--- 19-01-16 20:00:35
+sk!T.WildR4P`
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:00:41
+ErreAPe_
+sk!T.Rattle
+Grenade
+--- 19-01-16 20:00:41
+ErreAPe_
+ErreAPe_
+Grenade
+--- 19-01-16 20:00:49
+sT.- DJ Maaxis
+chubipoto
+Grenade
+--- 19-01-16 20:00:50
+sk!T.Rattle
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 20:00:57
+sk!T.Rattle
+sT.- DJ Maaxis
+Combat Knife
+--- 19-01-16 20:00:59
+sT.- SenzacL*
+sk!T.WildR4P`
+M79
+--- 19-01-16 20:00:59
+chubipoto
+ErreAPe_
+Steyr AUG
+--- 19-01-16 20:01:02
+chubipoto
+sT.- DJ Maaxis
+Combat Knife
+--- 19-01-16 20:01:02
+sT.- DJ Maaxis
+chubipoto
+Steyr AUG
+--- 19-01-16 20:01:09
+sk!T.WildR4P`
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-16 20:01:09
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 20:01:12
+sT.- DJ Maaxis
+sk!T.Rattle
+Grenade
+--- 19-01-16 20:01:17
+sk!T.Rattle
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:01:17
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 20:01:18
+chubipoto
+sT.- DJ Maaxis
+Steyr AUG
+--- 19-01-16 20:01:18
+sT.- DJ Maaxis
+chubipoto
+Grenade
+--- 19-01-16 20:01:25
+sT.- DJ Maaxis
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:01:27
+ErreAPe_
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 20:01:27
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Steyr AUG
+--- 19-01-16 20:01:28
+chubipoto
+ErreAPe_
+Steyr AUG
+--- 19-01-16 20:01:32
+chubipoto
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-16 20:01:33
+sT.- DJ Maaxis
+chubipoto
+Steyr AUG
+--- 19-01-16 20:01:36
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Combat Knife
+--- 19-01-16 20:01:37
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:01:39
+sT.- SenzacL*
+sk!T.Rattle
+Chainsaw
+--- 19-01-16 20:01:42
+sT.- DJ Maaxis
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 20:01:45
+ErreAPe_
+chubipoto
+Steyr AUG
+--- 19-01-16 20:01:46
+chubipoto
+ErreAPe_
+Grenade
+--- 19-01-16 20:01:47
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 20:01:48
+sk!T.Rattle
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 20:01:49
+sT.- DJ Maaxis
+sk!T.Rattle
+Grenade
+--- 19-01-16 20:01:55
+sT.- SenzacL*
+chubipoto
+M79
+--- 19-01-16 20:01:56
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 20:02:00
+sT.- DJ Maaxis
+sk!T.Rattle
+Grenade
+--- 19-01-16 20:02:02
+chubipoto
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-16 20:02:03
+ErreAPe_
+chubipoto
+LAW
+--- 19-01-16 20:02:03
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 20:02:06
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 20:02:11
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 20:02:11
+sk!T.WildR4P`
+ErreAPe_
+Grenade
+--- 19-01-16 20:02:13
+chubipoto
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 20:02:18
+chubipoto
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-16 20:02:20
+sT.- DJ Maaxis
+chubipoto
+Grenade
+--- 19-01-16 20:02:20
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 20:02:22
+sT.- DJ Maaxis
+sk!T.Rattle
+Combat Knife
+--- 19-01-16 20:02:26
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Steyr AUG
+--- 19-01-16 20:02:27
+sT.- SenzacL*
+chubipoto
+M79
+--- 19-01-16 20:02:31
+sT.- SenzacL*
+sk!T.Rattle
+M79
+--- 19-01-16 20:02:32
+ErreAPe_
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 20:02:36
+chubipoto
+ErreAPe_
+Grenade
+--- 19-01-16 20:02:37
+sT.- SenzacL*
+sk!T.Rattle
+M79
+--- 19-01-16 20:02:38
+sT.- DJ Maaxis
+chubipoto
+Grenade
+--- 19-01-16 20:02:38
+chubipoto
+sT.- DJ Maaxis
+Combat Knife
+--- 19-01-16 20:02:41
+sk!T.WildR4P`
+ErreAPe_
+Grenade
+--- 19-01-16 20:02:47
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 20:02:50
+sk!T.Rattle
+sT.- DJ Maaxis
+Combat Knife
+--- 19-01-16 20:02:50
+sT.- DJ Maaxis
+sk!T.Rattle
+Combat Knife
+--- 19-01-16 20:02:51
+chubipoto
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:02:57
+chubipoto
+ErreAPe_
+Steyr AUG
+--- 19-01-16 20:02:58
+sT.- SenzacL*
+sk!T.Rattle
+M79
+--- 19-01-16 20:02:58
+sk!T.Rattle
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 20:03:00
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 20:03:54
+chubipoto
+ErreAPe_
+Grenade
+--- 19-01-16 20:03:54
+sT.- DJ Maaxis
+chubipoto
+Grenade
+--- 19-01-16 20:03:58
+sT.- DJ Maaxis
+sk!T.WildR4P`
+M79
+--- 19-01-16 20:04:00
+sk!T.Rattle
+sT.- DJ Maaxis
+Combat Knife
+--- 19-01-16 20:04:01
+sT.- SenzacL*
+sk!T.Rattle
+M79
+--- 19-01-16 20:04:05
+sT.- SenzacL*
+chubipoto
+M79
+--- 19-01-16 20:04:05
+chubipoto
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:04:09
+sT.- DJ Maaxis
+sk!T.WildR4P`
+M79
+--- 19-01-16 20:04:15
+chubipoto
+ErreAPe_
+Steyr AUG
+--- 19-01-16 20:04:17
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Steyr AUG
+--- 19-01-16 20:04:17
+chubipoto
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-16 20:04:18
+sT.- SenzacL*
+sk!T.Rattle
+Grenade
+--- 19-01-16 20:04:35
+chubipoto
+sT.- SenzacL*
+FN Minimi
+--- 19-01-16 20:04:35
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 20:04:37
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 20:04:40
+sk!T.WildR4P`
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:04:43
+chubipoto
+sT.- DJ Maaxis
+FN Minimi
+--- 19-01-16 20:04:49
+sT.- SenzacL*
+sk!T.WildR4P`
+M79
+--- 19-01-16 20:05:02
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 20:05:02
+sT.- SenzacL*
+sk!T.Rattle
+M79
+--- 19-01-16 20:05:05
+sT.- DJ Maaxis
+chubipoto
+Grenade
+--- 19-01-16 20:05:08
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 20:05:08
+sT.- DJ Maaxis
+sk!T.Rattle
+Combat Knife
+--- 19-01-16 20:05:09
+ErreAPe_
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 20:05:12
+chubipoto
+sT.- SenzacL*
+FN Minimi
+--- 19-01-16 20:05:13
+ErreAPe_
+chubipoto
+Steyr AUG
+--- 19-01-16 20:05:15
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 20:05:17
+sk!T.WildR4P`
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-16 20:05:21
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 20:05:22
+sT.- DJ Maaxis
+sk!T.Rattle
+FN Minimi
+--- 19-01-16 20:05:22
+chubipoto
+sT.- DJ Maaxis
+FN Minimi
+--- 19-01-16 20:05:22
+chubipoto
+ErreAPe_
+FN Minimi
+--- 19-01-16 20:05:28
+sT.- SenzacL*
+sk!T.Rattle
+M79
+--- 19-01-16 20:05:30
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 20:05:35
+sT.- SenzacL*
+chubipoto
+M79
+--- 19-01-16 20:05:35
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 20:05:38
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:05:40
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 20:05:40
+sT.- DJ Maaxis
+sk!T.Rattle
+FN Minimi
+--- 19-01-16 20:05:44
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 20:05:45
+chubipoto
+sT.- SenzacL*
+FN Minimi
+--- 19-01-16 20:05:50
+sT.- DJ Maaxis
+sk!T.Rattle
+FN Minimi
+--- 19-01-16 20:05:51
+sT.- DJ Maaxis
+chubipoto
+Grenade
+--- 19-01-16 20:05:52
+chubipoto
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 20:05:53
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 20:05:59
+sT.- DJ Maaxis
+sk!T.Rattle
+FN Minimi
+--- 19-01-16 20:05:59
+chubipoto
+ErreAPe_
+FN Minimi
+--- 19-01-16 20:06:00
+sT.- SenzacL*
+sk!T.WildR4P`
+M79
+--- 19-01-16 20:06:00
+sT.- DJ Maaxis
+chubipoto
+Grenade
+--- 19-01-16 20:06:07
+sk!T.Rattle
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 20:06:07
+sT.- SenzacL*
+sk!T.Rattle
+M79
+--- 19-01-16 20:06:08
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 20:06:11
+sT.- DJ Maaxis
+sk!T.WildR4P`
+FN Minimi
+--- 19-01-16 20:06:12
+sT.- SenzacL*
+chubipoto
+M79
+--- 19-01-16 20:06:16
+sk!T.Rattle
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 20:06:17
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:06:20
+sT.- DJ Maaxis
+chubipoto
+FN Minimi
+--- 19-01-16 20:06:23
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 20:06:24
+sT.- SenzacL*
+sk!T.WildR4P`
+M79
+--- 19-01-16 20:06:25
+sk!T.Rattle
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 20:06:28
+sk!T.Rattle
+ErreAPe_
+Combat Knife
+--- 19-01-16 20:06:31
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Steyr AUG
+--- 19-01-16 20:06:32
+ErreAPe_
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 20:06:33
+chubipoto
+ErreAPe_
+FN Minimi
+--- 19-01-16 20:06:39
+sk!T.WildR4P`
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:06:40
+chubipoto
+ErreAPe_
+FN Minimi
+--- 19-01-16 20:06:45
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Steyr AUG
+--- 19-01-16 20:06:47
+chubipoto
+sT.- SenzacL*
+FN Minimi
+--- 19-01-16 20:06:49
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:06:51
+sT.- DJ Maaxis
+sk!T.WildR4P`
+FN Minimi
+--- 19-01-16 20:06:54
+sT.- DJ Maaxis
+sk!T.Rattle
+Grenade
+--- 19-01-16 20:06:55
+sT.- SenzacL*
+chubipoto
+Grenade
+--- 19-01-16 20:06:59
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Steyr AUG
+--- 19-01-16 20:07:02
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 20:07:04
+ErreAPe_
+chubipoto
+LAW
+--- 19-01-16 20:07:05
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:07:07
+sT.- DJ Maaxis
+sk!T.Rattle
+FN Minimi
+--- 19-01-16 20:07:10
+sT.- SenzacL*
+sk!T.WildR4P`
+M79
+--- 19-01-16 20:07:12
+chubipoto
+ErreAPe_
+FN Minimi
+--- 19-01-16 20:07:13
+chubipoto
+chubipoto
+Grenade
+--- 19-01-16 20:07:18
+ErreAPe_
+sk!T.Rattle
+Hands
+--- 19-01-16 20:07:19
+sk!T.WildR4P`
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:07:20
+chubipoto
+ErreAPe_
+FN Minimi
+--- 19-01-16 20:07:23
+chubipoto
+sT.- DJ Maaxis
+FN Minimi
+--- 19-01-16 20:07:26
+sk!T.WildR4P`
+ErreAPe_
+LAW
+--- 19-01-16 20:07:28
+sT.- SenzacL*
+chubipoto
+Grenade
+--- 19-01-16 20:07:33
+sk!T.Rattle
+ErreAPe_
+Combat Knife
+--- 19-01-16 20:07:34
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 20:07:37
+sk!T.Rattle
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 20:07:37
+sT.- SenzacL*
+sk!T.WildR4P`
+M79
+--- 19-01-16 20:07:38
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:07:46
+sT.- SenzacL*
+sk!T.WildR4P`
+M79
+--- 19-01-16 20:07:46
+chubipoto
+ErreAPe_
+FN Minimi
+--- 19-01-16 20:07:48
+sT.- DJ Maaxis
+chubipoto
+FN Minimi
+--- 19-01-16 20:07:50
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Steyr AUG
+--- 19-01-16 20:07:54
+sk!T.WildR4P`
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:07:55
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:07:56
+chubipoto
+ErreAPe_
+FN Minimi
+--- 19-01-16 20:07:59
+sT.- DJ Maaxis
+chubipoto
+FN Minimi
+--- 19-01-16 20:08:02
+sk!T.WildR4P`
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-16 20:08:06
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 20:08:08
+sT.- DJ Maaxis
+sk!T.Rattle
+FN Minimi
+--- 19-01-16 20:08:08
+chubipoto
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:08:09
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 20:08:13
+chubipoto
+chubipoto
+Grenade
+--- 19-01-16 20:08:16
+sT.- SenzacL*
+sk!T.WildR4P`
+M79
+--- 19-01-16 20:08:17
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:08:24
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 20:08:25
+chubipoto
+sT.- DJ Maaxis
+FN Minimi
+--- 19-01-16 20:08:27
+sk!T.Rattle
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 20:08:29
+sk!T.WildR4P`
+ErreAPe_
+LAW
+--- 19-01-16 20:08:32
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 20:08:32
+sT.- DJ Maaxis
+chubipoto
+FN Minimi
+--- 19-01-16 20:08:34
+sT.- SenzacL*
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:08:39
+chubipoto
+ErreAPe_
+FN Minimi
+--- 19-01-16 20:08:41
+sT.- DJ Maaxis
+chubipoto
+FN Minimi
+--- 19-01-16 20:08:43
+sT.- SenzacL*
+sk!T.Rattle
+M79
+--- 19-01-16 20:08:48
+sk!T.Rattle
+ErreAPe_
+Grenade
+--- 19-01-16 20:08:48
+chubipoto
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 20:08:52
+sT.- SenzacL*
+sk!T.WildR4P`
+M79
+--- 19-01-16 20:08:54
+chubipoto
+sT.- SenzacL*
+FN Minimi
+--- 19-01-16 20:08:57
+sT.- DJ Maaxis
+chubipoto
+Grenade
+--- 19-01-16 20:09:26
+sk!T.WildR4P`
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-16 20:09:27
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:09:29
+sk!T.WildR4P`
+ErreAPe_
+Grenade
+--- 19-01-16 20:09:30
+chubipoto
+sT.- DJ Maaxis
+FN Minimi
+--- 19-01-16 20:09:33
+sT.- SenzacL*
+sk!T.Rattle
+M79
+--- 19-01-16 20:09:35
+ErreAPe_
+chubipoto
+Steyr AUG
+--- 19-01-16 20:09:35
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 20:09:38
+sT.- DJ Maaxis
+sk!T.WildR4P`
+FN Minimi
+--- 19-01-16 20:09:40
+sk!T.Rattle
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 20:09:42
+chubipoto
+sT.- DJ Maaxis
+FN Minimi
+--- 19-01-16 20:09:43
+chubipoto
+ErreAPe_
+FN Minimi
+--- 19-01-16 20:09:47
+sk!T.WildR4P`
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-16 20:09:50
+sk!T.WildR4P`
+sk!T.WildR4P`
+LAW
+--- 19-01-16 20:09:50
+sk!T.WildR4P`
+sT.- DJ Maaxis
+LAW
+--- 19-01-16 20:09:53
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:09:57
+sT.- DJ Maaxis
+chubipoto
+Grenade
+--- 19-01-16 20:09:59
+sk!T.WildR4P`
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:10:03
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 20:10:03
+sT.- DJ Maaxis
+sk!T.Rattle
+FN Minimi
+--- 19-01-16 20:10:04
+chubipoto
+sT.- DJ Maaxis
+FN Minimi
+--- 19-01-16 20:10:06
+chubipoto
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:10:08
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 20:10:12
+sk!T.WildR4P`
+sT.- SenzacL*
+Hands
+--- 19-01-16 20:10:14
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:10:17
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 20:10:27
+sk!T.WildR4P`
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-16 20:10:28
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 20:10:33
+chubipoto
+ErreAPe_
+FN Minimi
+--- 19-01-16 20:10:34
+sT.- SenzacL*
+chubipoto
+M79
+--- 19-01-16 20:10:37
+sk!T.WildR4P`
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:10:39
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:10:41
+sk!T.WildR4P`
+sk!T.WildR4P`
+LAW
+--- 19-01-16 20:10:41
+sk!T.WildR4P`
+sT.- DJ Maaxis
+LAW
+--- 19-01-16 20:10:47
+sT.- SenzacL*
+chubipoto
+Grenade
+--- 19-01-16 20:10:48
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 20:10:48
+ErreAPe_
+sk!T.WildR4P`
+LAW
+--- 19-01-16 20:10:55
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:10:55
+chubipoto
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 20:10:55
+sT.- DJ Maaxis
+chubipoto
+FN Minimi
+--- 19-01-16 20:11:03
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 20:11:06
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 20:11:09
+sT.- SenzacL*
+chubipoto
+M79
+--- 19-01-16 20:11:10
+ErreAPe_
+sk!T.WildR4P`
+LAW
+--- 19-01-16 20:11:10
+ErreAPe_
+ErreAPe_
+LAW
+--- 19-01-16 20:11:11
+sT.- DJ Maaxis
+sk!T.Rattle
+FN Minimi
+--- 19-01-16 20:11:15
+sT.- DJ Maaxis
+chubipoto
+Grenade
+--- 19-01-16 20:11:19
+ErreAPe_
+sk!T.Rattle
+Grenade
+--- 19-01-16 20:11:19
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Steyr AUG
+--- 19-01-16 20:11:21
+sk!T.WildR4P`
+ErreAPe_
+LAW
+--- 19-01-16 20:11:28
+sk!T.WildR4P`
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-16 20:11:31
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 20:11:33
+sk!T.Rattle
+ErreAPe_
+Combat Knife
+--- 19-01-16 20:11:35
+sT.- DJ Maaxis
+chubipoto
+FN Minimi
+--- 19-01-16 20:11:37
+sk!T.Rattle
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:11:38
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Steyr AUG
+--- 19-01-16 20:11:45
+sk!T.WildR4P`
+sT.- SenzacL*
+LAW
+--- 19-01-16 20:11:45
+chubipoto
+ErreAPe_
+FN Minimi
+--- 19-01-16 20:11:46
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 20:11:47
+chubipoto
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 20:11:52
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:11:53
+chubipoto
+sT.- SenzacL*
+FN Minimi
+--- 19-01-16 20:11:54
+sT.- DJ Maaxis
+chubipoto
+FN Minimi
+--- 19-01-16 20:11:56
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 20:11:58
+sT.- DJ Maaxis
+sk!T.Rattle
+Grenade
+--- 19-01-16 20:12:01
+sT.- DJ Maaxis
+chubipoto
+FN Minimi
+--- 19-01-16 20:12:01
+sk!T.WildR4P`
+sT.- SenzacL*
+LAW
+--- 19-01-16 20:12:05
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Steyr AUG
+--- 19-01-16 20:12:05
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Combat Knife
+--- 19-01-16 20:12:06
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:12:11
+chubipoto
+ErreAPe_
+FN Minimi
+--- 19-01-16 20:12:12
+sT.- DJ Maaxis
+chubipoto
+FN Minimi
+--- 19-01-16 20:12:14
+sT.- DJ Maaxis
+sk!T.WildR4P`
+FN Minimi
+--- 19-01-16 20:12:18
+sT.- DJ Maaxis
+chubipoto
+FN Minimi
+--- 19-01-16 20:12:20
+sT.- DJ Maaxis
+sk!T.Rattle
+FN Minimi
+--- 19-01-16 20:12:21
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Combat Knife
+--- 19-01-16 20:12:34
+ErreAPe_
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 20:12:36
+chubipoto
+ErreAPe_
+FN Minimi
+--- 19-01-16 20:12:37
+sT.- DJ Maaxis
+chubipoto
+FN Minimi
+--- 19-01-16 20:12:39
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 20:12:41
+sk!T.WildR4P`
+ErreAPe_
+Grenade
+--- 19-01-16 20:12:41
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 20:12:43
+sk!T.Rattle
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 20:12:46
+sT.- DJ Maaxis
+sk!T.Rattle
+Grenade
+--- 19-01-16 20:12:47
+chubipoto
+ErreAPe_
+Grenade
+--- 19-01-16 20:12:53
+sT.- SenzacL*
+chubipoto
+Chainsaw
+--- 19-01-16 20:12:53
+sT.- SenzacL*
+sk!T.Rattle
+M79
+--- 19-01-16 20:12:58
+ErreAPe_
+sk!T.Rattle
+LAW
+--- 19-01-16 20:13:00
+sT.- SenzacL*
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 20:13:00
+sk!T.WildR4P`
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:13:01
+chubipoto
+ErreAPe_
+FN Minimi
+--- 19-01-16 20:13:03
+sT.- DJ Maaxis
+chubipoto
+FN Minimi
+--- 19-01-16 20:13:05
+sT.- DJ Maaxis
+sk!T.Rattle
+Combat Knife
+--- 19-01-16 20:13:09
+sT.- SenzacL*
+chubipoto
+M79
+--- 19-01-16 20:13:09
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 20:13:10
+sT.- SenzacL*
+sk!T.Rattle
+Chainsaw
+--- 19-01-16 20:13:15
+chubipoto
+sT.- SenzacL*
+FN Minimi
+--- 19-01-16 20:13:15
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 20:13:17
+ErreAPe_
+chubipoto
+LAW
+--- 19-01-16 20:13:17
+chubipoto
+ErreAPe_
+Grenade
+--- 19-01-16 20:13:20
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 20:13:23
+sk!T.WildR4P`
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-16 20:13:24
+sk!T.WildR4P`
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 20:13:24
+chubipoto
+ErreAPe_
+FN Minimi
+--- 19-01-16 20:13:29
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 20:13:30
+ErreAPe_
+chubipoto
+Steyr AUG
+--- 19-01-16 20:13:32
+sT.- SenzacL*
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:13:34
+ErreAPe_
+sk!T.WildR4P`
+LAW
+--- 19-01-16 20:13:37
+chubipoto
+ErreAPe_
+FN Minimi
+--- 19-01-16 20:13:37
+ErreAPe_
+chubipoto
+Grenade
+--- 19-01-16 20:13:38
+sT.- SenzacL*
+sk!T.Rattle
+Ruger 77
+--- 19-01-16 20:13:41
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 20:13:45
+chubipoto
+sT.- SenzacL*
+FN Minimi
+--- 19-01-16 20:13:48
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 20:13:49
+chubipoto
+sT.- DJ Maaxis
+FN Minimi
+--- 19-01-16 20:13:54
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:13:55
+sk!T.WildR4P`
+ErreAPe_
+LAW
+--- 19-01-16 20:13:56
+sT.- DJ Maaxis
+chubipoto
+Grenade
+--- 19-01-16 20:13:59
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 20:13:59
+sT.- DJ Maaxis
+sk!T.WildR4P`
+FN Minimi
+--- 19-01-16 20:14:01
+sT.- SenzacL*
+sk!T.Rattle
+Grenade
+--- 19-01-16 20:14:07
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 20:14:07
+sT.- SenzacL*
+sk!T.WildR4P`
+Ruger 77
+--- 19-01-16 20:14:08
+sT.- DJ Maaxis
+chubipoto
+FN Minimi
+--- 19-01-16 20:14:11
+sT.- DJ Maaxis
+sk!T.Rattle
+Grenade
+--- 19-01-16 20:14:11
+sT.- DJ Maaxis
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 20:14:16
+ErreAPe_
+chubipoto
+Grenade
+--- 19-01-16 20:14:17
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 20:14:18
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 20:14:20
+sk!T.Rattle
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 20:14:25
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 20:14:26
+sT.- SenzacL*
+chubipoto
+Ruger 77
+--- 19-01-16 20:14:26
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:14:32
+sT.- SenzacL*
+sk!T.WildR4P`
+Chainsaw
+--- 19-01-16 20:14:33
+chubipoto
+sT.- SenzacL*
+FN Minimi
+--- 19-01-16 20:14:33
+sT.- SenzacL*
+chubipoto
+Chainsaw
+--- 19-01-16 20:14:34
+ErreAPe_
+sk!T.Rattle
+Grenade
+--- 19-01-16 20:14:39
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:14:41
+sk!T.WildR4P`
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:14:43
+sT.- DJ Maaxis
+chubipoto
+Grenade
+--- 19-01-16 20:14:43
+chubipoto
+sT.- DJ Maaxis
+FN Minimi
+--- 19-01-16 20:14:45
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:14:46
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 20:14:52
+chubipoto
+ErreAPe_
+FN Minimi
+--- 19-01-16 20:14:53
+sT.- DJ Maaxis
+chubipoto
+FN Minimi
+--- 19-01-16 20:14:56
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 20:15:02
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:15:02
+sT.- DJ Maaxis
+chubipoto
+FN Minimi
+--- 19-01-16 20:15:04
+sT.- DJ Maaxis
+sk!T.WildR4P`
+FN Minimi
+--- 19-01-16 20:15:09
+sk!T.Rattle
+sT.- DJ Maaxis
+Combat Knife
+--- 19-01-16 20:15:11
+chubipoto
+ErreAPe_
+FN Minimi
+--- 19-01-16 20:15:11
+ErreAPe_
+sk!T.Rattle
+LAW
+--- 19-01-16 20:15:16
+sT.- DJ Maaxis
+chubipoto
+FN Minimi
+--- 19-01-16 20:15:17
+sk!T.WildR4P`
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-16 20:15:19
+sT.- DJ Maaxis
+sk!T.Rattle
+FN Minimi
+--- 19-01-16 20:15:20
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 20:16:09
+sT.- SenzacL*
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 20:16:20
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Barrett M82A1
+--- 19-01-16 20:16:26
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Barrett M82A1
+--- 19-01-16 20:16:29
+sT.- DJ Maaxis
+sk!T.chub0
+Grenade
+--- 19-01-16 20:16:36
+sT.- DJ Maaxis
+sk!T.chub0
+Barrett M82A1
+--- 19-01-16 20:16:38
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Steyr AUG
+--- 19-01-16 20:16:39
+sT.- SenzacL*
+sk!T.WildR4P`
+Barrett M82A1
+--- 19-01-16 20:16:45
+sk!T.chub0
+sT.- SenzacL*
+Spas-12
+--- 19-01-16 20:16:49
+sk!T.chub0
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 20:16:52
+sT.- SenzacL*
+sk!T.chub0
+Barrett M82A1
+--- 19-01-16 20:16:53
+sk!T.WildR4P`
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-16 20:16:59
+sT.- DJ Maaxis
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 20:17:00
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:17:01
+ErreAPe_
+sk!T.Rattle
+Grenade
+--- 19-01-16 20:17:08
+sk!T.chub0
+sT.- DJ Maaxis
+Spas-12
+--- 19-01-16 20:17:15
+sk!T.chub0
+ErreAPe_
+Spas-12
+--- 19-01-16 20:17:16
+sT.- DJ Maaxis
+sk!T.chub0
+Barrett M82A1
+--- 19-01-16 20:17:20
+sT.- SenzacL*
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 20:17:22
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Barrett M82A1
+--- 19-01-16 20:17:37
+ErreAPe_
+sk!T.chub0
+Steyr AUG
+--- 19-01-16 20:17:39
+ErreAPe_
+sk!T.Rattle
+LAW
+--- 19-01-16 20:17:39
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Barrett M82A1
+--- 19-01-16 20:17:43
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 20:17:45
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:17:45
+ErreAPe_
+sk!T.Rattle
+Grenade
+--- 19-01-16 20:17:47
+sT.- SenzacL*
+sk!T.WildR4P`
+Barrett M82A1
+--- 19-01-16 20:18:04
+ErreAPe_
+sk!T.chub0
+Steyr AUG
+--- 19-01-16 20:18:06
+sT.- DJ Maaxis
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 20:18:07
+sk!T.Rattle
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:18:11
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 20:18:13
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:18:15
+sk!T.WildR4P`
+sk!T.WildR4P`
+Selfkill
+--- 19-01-16 20:18:19
+sk!T.chub0
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:18:19
+sT.- SenzacL*
+sk!T.chub0
+Grenade
+--- 19-01-16 20:18:20
+sT.- DJ Maaxis
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 20:18:26
+sk!T.WildR4P`
+sk!T.WildR4P`
+Selfkill
+--- 19-01-16 20:18:28
+sk!T.Rattle
+ErreAPe_
+Grenade
+--- 19-01-16 20:18:29
+sT.- DJ Maaxis
+sT.- DJ Maaxis
+Selfkill
+--- 19-01-16 20:18:35
+sT.- SenzacL*
+sk!T.Rattle
+Grenade
+--- 19-01-16 20:18:36
+sk!T.chub0
+ErreAPe_
+LAW
+--- 19-01-16 20:18:43
+sk!T.WildR4P`
+ErreAPe_
+Grenade
+--- 19-01-16 20:18:50
+sk!T.chub0
+ErreAPe_
+Ak-74
+--- 19-01-16 20:18:52
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Steyr AUG
+--- 19-01-16 20:18:53
+sT.- SenzacL*
+sk!T.Rattle
+Chainsaw
+--- 19-01-16 20:18:53
+sk!T.chub0
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:18:58
+ErreAPe_
+ErreAPe_
+Grenade
+--- 19-01-16 20:18:59
+sT.- DJ Maaxis
+sk!T.chub0
+Barrett M82A1
+--- 19-01-16 20:19:06
+sk!T.WildR4P`
+ErreAPe_
+LAW
+--- 19-01-16 20:19:11
+sk!T.chub0
+sT.- DJ Maaxis
+LAW
+--- 19-01-16 20:19:13
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:19:19
+ErreAPe_
+sk!T.chub0
+Steyr AUG
+--- 19-01-16 20:19:20
+sT.- SenzacL*
+sk!T.WildR4P`
+Barrett M82A1
+--- 19-01-16 20:19:21
+sk!T.Rattle
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 20:19:24
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 20:19:26
+sk!T.Rattle
+ErreAPe_
+Grenade
+--- 19-01-16 20:19:35
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Barrett M82A1
+--- 19-01-16 20:19:36
+ErreAPe_
+ErreAPe_
+Grenade
+--- 19-01-16 20:19:37
+sk!T.chub0
+sT.- SenzacL*
+Ak-74
+--- 19-01-16 20:19:43
+sk!T.WildR4P`
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 20:19:50
+sk!T.chub0
+sT.- SenzacL*
+Ak-74
+--- 19-01-16 20:19:55
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:19:55
+sT.- DJ Maaxis
+sk!T.chub0
+Barrett M82A1
+--- 19-01-16 20:20:01
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Barrett M82A1
+--- 19-01-16 20:20:06
+sk!T.chub0
+ErreAPe_
+Ak-74
+--- 19-01-16 20:20:06
+sT.- SenzacL*
+sk!T.chub0
+Barrett M82A1
+--- 19-01-16 20:20:09
+sT.- DJ Maaxis
+sk!T.Rattle
+Grenade
+--- 19-01-16 20:20:15
+ErreAPe_
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 20:20:17
+sk!T.chub0
+ErreAPe_
+Ak-74
+--- 19-01-16 20:20:19
+sT.- DJ Maaxis
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 20:20:21
+sT.- SenzacL*
+sk!T.chub0
+Chainsaw
+--- 19-01-16 20:20:21
+sk!T.chub0
+sT.- SenzacL*
+Ak-74
+--- 19-01-16 20:20:28
+sk!T.chub0
+sT.- DJ Maaxis
+Ak-74
+--- 19-01-16 20:20:31
+ErreAPe_
+sk!T.Rattle
+Grenade
+--- 19-01-16 20:20:31
+sk!T.Rattle
+ErreAPe_
+Grenade
+--- 19-01-16 20:20:36
+sT.- SenzacL*
+sk!T.chub0
+Barrett M82A1
+--- 19-01-16 20:20:40
+sT.- SenzacL*
+sk!T.Rattle
+Grenade
+--- 19-01-16 20:20:43
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Barrett M82A1
+--- 19-01-16 20:20:44
+ErreAPe_
+sk!T.chub0
+Steyr AUG
+--- 19-01-16 20:20:49
+sk!T.Rattle
+ErreAPe_
+Grenade
+--- 19-01-16 20:20:49
+sT.- DJ Maaxis
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 20:20:50
+sk!T.chub0
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 20:20:59
+sT.- SenzacL*
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:20:59
+sT.- DJ Maaxis
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 20:21:02
+sk!T.chub0
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:21:05
+sk!T.chub0
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:21:07
+sk!T.chub0
+ErreAPe_
+Grenade
+--- 19-01-16 20:21:08
+ErreAPe_
+sk!T.chub0
+Steyr AUG
+--- 19-01-16 20:21:11
+sk!T.Rattle
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:21:15
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:21:19
+sk!T.WildR4P`
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:21:23
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 20:21:26
+ErreAPe_
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 20:21:32
+sT.- SenzacL*
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 20:21:36
+sT.- SenzacL*
+sk!T.WildR4P`
+Barrett M82A1
+--- 19-01-16 20:21:36
+sk!T.WildR4P`
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:21:39
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:21:40
+sk!T.Rattle
+sk!T.Rattle
+Grenade
+--- 19-01-16 20:21:46
+sk!T.chub0
+sT.- SenzacL*
+LAW
+--- 19-01-16 20:21:48
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Barrett M82A1
+--- 19-01-16 20:21:51
+sk!T.chub0
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:21:53
+sk!T.Rattle
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 20:21:55
+sT.- SenzacL*
+sk!T.chub0
+Barrett M82A1
+--- 19-01-16 20:22:04
+sk!T.chub0
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:22:04
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 20:22:05
+sT.- SenzacL*
+sk!T.chub0
+Barrett M82A1
+--- 19-01-16 20:22:05
+sk!T.chub0
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 20:22:17
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:22:22
+sT.- DJ Maaxis
+sk!T.chub0
+Grenade
+--- 19-01-16 20:22:25
+sT.- SenzacL*
+sk!T.WildR4P`
+Barrett M82A1
+--- 19-01-16 20:22:27
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 20:22:29
+ErreAPe_
+sk!T.Rattle
+Grenade
+--- 19-01-16 20:22:31
+ErreAPe_
+ErreAPe_
+Grenade
+--- 19-01-16 20:22:38
+sk!T.chub0
+sT.- DJ Maaxis
+LAW
+--- 19-01-16 20:22:45
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:22:45
+sT.- SenzacL*
+sk!T.chub0
+Barrett M82A1
+--- 19-01-16 20:22:46
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 20:22:50
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:22:56
+sT.- DJ Maaxis
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 20:23:05
+sk!T.WildR4P`
+ErreAPe_
+Grenade
+--- 19-01-16 20:23:08
+sT.- DJ Maaxis
+sk!T.chub0
+Barrett M82A1
+--- 19-01-16 20:23:12
+sT.- DJ Maaxis
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 20:23:19
+sT.- SenzacL*
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 20:23:19
+ErreAPe_
+sk!T.chub0
+Steyr AUG
+--- 19-01-16 20:23:27
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:23:28
+sk!T.chub0
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:23:36
+sT.- DJ Maaxis
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 20:23:38
+sk!T.chub0
+sk!T.chub0
+Grenade
+--- 19-01-16 20:23:41
+sT.- DJ Maaxis
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 20:23:43
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Combat Knife
+--- 19-01-16 20:23:45
+sk!T.chub0
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 20:23:47
+sk!T.chub0
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:23:52
+sT.- SenzacL*
+sk!T.chub0
+Barrett M82A1
+--- 19-01-16 20:23:55
+sk!T.WildR4P`
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-16 20:23:56
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Barrett M82A1
+--- 19-01-16 20:24:03
+sk!T.chub0
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:24:04
+sT.- DJ Maaxis
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 20:24:04
+sT.- DJ Maaxis
+sk!T.chub0
+Barrett M82A1
+--- 19-01-16 20:24:07
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Steyr AUG
+--- 19-01-16 20:24:08
+sT.- SenzacL*
+sk!T.WildR4P`
+Barrett M82A1
+--- 19-01-16 20:24:12
+sT.- SenzacL*
+sk!T.chub0
+Barrett M82A1
+--- 19-01-16 20:24:18
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:24:18
+sk!T.WildR4P`
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-16 20:24:23
+ErreAPe_
+sk!T.chub0
+Hands
+--- 19-01-16 20:24:26
+ErreAPe_
+sk!T.Rattle
+Grenade
+--- 19-01-16 20:24:29
+sk!T.chub0
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:24:37
+sT.- DJ Maaxis
+sk!T.chub0
+Grenade
+--- 19-01-16 20:24:39
+sk!T.WildR4P`
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-16 20:24:43
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:24:45
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 20:24:46
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Barrett M82A1
+--- 19-01-16 20:24:49
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 20:24:49
+sT.- DJ Maaxis
+sk!T.Rattle
+Combat Knife
+--- 19-01-16 20:24:53
+sk!T.chub0
+sT.- SenzacL*
+Combat Knife
+--- 19-01-16 20:24:58
+sk!T.chub0
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:25:01
+sT.- DJ Maaxis
+sk!T.chub0
+Barrett M82A1
+--- 19-01-16 20:25:02
+sT.- SenzacL*
+sk!T.WildR4P`
+Barrett M82A1
+--- 19-01-16 20:25:04
+sk!T.Rattle
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:25:08
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:25:12
+sT.- DJ Maaxis
+sk!T.chub0
+Barrett M82A1
+--- 19-01-16 20:25:12
+sk!T.chub0
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 20:25:19
+sk!T.chub0
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:25:23
+sT.- DJ Maaxis
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 20:25:25
+sT.- DJ Maaxis
+sk!T.chub0
+Combat Knife
+--- 19-01-16 20:25:27
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 20:25:30
+sT.- SenzacL*
+sk!T.Rattle
+Grenade
+--- 19-01-16 20:25:35
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Steyr AUG
+--- 19-01-16 20:25:40
+sk!T.WildR4P`
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-16 20:25:41
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:25:42
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:25:49
+sk!T.chub0
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 20:25:55
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:25:59
+sk!T.chub0
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 20:26:00
+sT.- SenzacL*
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 20:26:06
+sk!T.chub0
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 20:26:09
+sk!T.chub0
+ErreAPe_
+Grenade
+--- 19-01-16 20:26:13
+sT.- DJ Maaxis
+sk!T.Rattle
+Grenade
+--- 19-01-16 20:26:13
+sT.- SenzacL*
+sk!T.WildR4P`
+Barrett M82A1
+--- 19-01-16 20:26:18
+sk!T.chub0
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 20:26:18
+sT.- SenzacL*
+sk!T.chub0
+Barrett M82A1
+--- 19-01-16 20:26:19
+sk!T.Rattle
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 20:26:22
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:26:30
+sT.- SenzacL*
+sk!T.chub0
+Barrett M82A1
+--- 19-01-16 20:26:31
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:26:36
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Steyr AUG
+--- 19-01-16 20:26:36
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Barrett M82A1
+--- 19-01-16 20:26:36
+sk!T.chub0
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 20:26:39
+sk!T.chub0
+ErreAPe_
+Combat Knife
+--- 19-01-16 20:26:48
+sk!T.WildR4P`
+ErreAPe_
+Grenade
+--- 19-01-16 20:26:53
+sk!T.WildR4P`
+ErreAPe_
+LAW
+--- 19-01-16 20:26:53
+sT.- DJ Maaxis
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 20:27:01
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Steyr AUG
+--- 19-01-16 20:27:03
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 20:27:04
+sT.- SenzacL*
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:27:05
+sk!T.Rattle
+sk!T.Rattle
+Grenade
+--- 19-01-16 20:27:10
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 20:27:13
+sT.- DJ Maaxis
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 20:27:17
+sT.- SenzacL*
+sk!T.Rattle
+Grenade
+--- 19-01-16 20:27:21
+sk!T.chub0
+ErreAPe_
+Grenade
+--- 19-01-16 20:27:21
+ErreAPe_
+sk!T.chub0
+Steyr AUG
+--- 19-01-16 20:27:22
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 20:27:22
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 20:28:14
+sT.- SenzacL*
+sk!T.chub0
+M79
+--- 19-01-16 20:28:14
+sk!T.chub0
+sT.- SenzacL*
+M79
+--- 19-01-16 20:28:18
+sT.- DJ Maaxis
+sk!T.Rattle
+Spas-12
+--- 19-01-16 20:28:21
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 20:28:22
+sT.- SenzacL*
+sk!T.chub0
+M79
+--- 19-01-16 20:28:33
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 20:28:35
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 20:28:57
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 20:28:59
+ErreAPe_
+sk!T.Rattle
+LAW
+--- 19-01-16 20:29:01
+sT.- SenzacL*
+sk!T.chub0
+Barrett M82A1
+--- 19-01-16 20:29:01
+sk!T.chub0
+sT.- SenzacL*
+Spas-12
+--- 19-01-16 20:29:03
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 20:29:05
+sT.- DJ Maaxis
+sk!T.Rattle
+Spas-12
+--- 19-01-16 20:29:08
+sk!T.chub0
+sT.- DJ Maaxis
+Spas-12
+--- 19-01-16 20:29:32
+sk!T.WildR4P`
+ErreAPe_
+LAW
+--- 19-01-16 20:29:36
+sT.- SenzacL*
+sk!T.chub0
+M79
+--- 19-01-16 20:29:38
+ErreAPe_
+sk!T.Rattle
+Grenade
+--- 19-01-16 20:29:39
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 20:29:44
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:29:45
+ErreAPe_
+sk!T.Rattle
+LAW
+--- 19-01-16 20:29:47
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Steyr AUG
+--- 19-01-16 20:29:57
+sT.- DJ Maaxis
+sk!T.Rattle
+Grenade
+--- 19-01-16 20:29:57
+sk!T.Rattle
+sT.- DJ Maaxis
+Combat Knife
+--- 19-01-16 20:29:58
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 20:30:03
+sT.- SenzacL*
+sk!T.chub0
+Chainsaw
+--- 19-01-16 20:30:03
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Spas-12
+--- 19-01-16 20:30:09
+sT.- SenzacL*
+sk!T.Rattle
+M79
+--- 19-01-16 20:30:09
+sT.- SenzacL*
+sk!T.chub0
+M79
+--- 19-01-16 20:30:09
+sk!T.chub0
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:30:10
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 20:30:10
+sT.- DJ Maaxis
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 20:30:16
+sT.- SenzacL*
+sk!T.Rattle
+M79
+--- 19-01-16 20:30:21
+sT.- SenzacL*
+sk!T.chub0
+M79
+--- 19-01-16 20:30:24
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 20:30:24
+sk!T.Rattle
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:30:26
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Spas-12
+--- 19-01-16 20:30:31
+ErreAPe_
+sk!T.chub0
+Steyr AUG
+--- 19-01-16 20:30:32
+sT.- SenzacL*
+sk!T.Rattle
+Grenade
+--- 19-01-16 20:30:34
+sk!T.WildR4P`
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:30:34
+sT.- SenzacL*
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 20:30:42
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 20:30:43
+sT.- DJ Maaxis
+sk!T.chub0
+Spas-12
+--- 19-01-16 20:30:46
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Spas-12
+--- 19-01-16 20:30:46
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 20:30:52
+sk!T.chub0
+sT.- SenzacL*
+M79
+--- 19-01-16 20:30:56
+sT.- DJ Maaxis
+sk!T.Rattle
+Grenade
+--- 19-01-16 20:30:58
+ErreAPe_
+sk!T.chub0
+Steyr AUG
+--- 19-01-16 20:30:59
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Steyr AUG
+--- 19-01-16 20:31:01
+sT.- SenzacL*
+sk!T.WildR4P`
+M79
+--- 19-01-16 20:31:03
+sk!T.Rattle
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 20:31:07
+ErreAPe_
+sk!T.Rattle
+Grenade
+--- 19-01-16 20:31:09
+ErreAPe_
+sk!T.chub0
+LAW
+--- 19-01-16 20:31:10
+sk!T.chub0
+ErreAPe_
+Grenade
+--- 19-01-16 20:31:11
+sT.- SenzacL*
+sk!T.WildR4P`
+M79
+--- 19-01-16 20:31:15
+sk!T.chub0
+sT.- DJ Maaxis
+Ak-74
+--- 19-01-16 20:31:16
+sk!T.chub0
+sk!T.chub0
+Grenade
+--- 19-01-16 20:31:17
+sk!T.WildR4P`
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-16 20:31:21
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:31:22
+sT.- DJ Maaxis
+sk!T.Rattle
+Spas-12
+--- 19-01-16 20:31:25
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 20:31:26
+sk!T.WildR4P`
+ErreAPe_
+Combat Knife
+--- 19-01-16 20:31:28
+sk!T.chub0
+sT.- SenzacL*
+Barrett M82A1
+--- 19-01-16 20:31:33
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:31:33
+sT.- DJ Maaxis
+sk!T.Rattle
+Spas-12
+--- 19-01-16 20:31:34
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Spas-12
+--- 19-01-16 20:31:34
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Steyr AUG
+--- 19-01-16 20:31:40
+ErreAPe_
+sk!T.Rattle
+Grenade
+--- 19-01-16 20:31:40
+sk!T.chub0
+sT.- SenzacL*
+Barrett M82A1
+--- 19-01-16 20:31:40
+sT.- SenzacL*
+sk!T.chub0
+M79
+--- 19-01-16 20:31:42
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 20:31:44
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 20:31:44
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 20:31:49
+sT.- SenzacL*
+sk!T.chub0
+Barrett M82A1
+--- 19-01-16 20:31:51
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 20:31:51
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:31:53
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Steyr AUG
+--- 19-01-16 20:31:54
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Spas-12
+--- 19-01-16 20:32:00
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:32:02
+ErreAPe_
+sk!T.WildR4P`
+LAW
+--- 19-01-16 20:32:05
+ErreAPe_
+ErreAPe_
+Grenade
+--- 19-01-16 20:32:05
+ErreAPe_
+sk!T.chub0
+Grenade
+--- 19-01-16 20:32:09
+sk!T.Rattle
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:32:11
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:32:13
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Steyr AUG
+--- 19-01-16 20:32:19
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 20:32:19
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:32:24
+sT.- SenzacL*
+sk!T.chub0
+Barrett M82A1
+--- 19-01-16 20:32:24
+sT.- DJ Maaxis
+sk!T.Rattle
+Spas-12
+--- 19-01-16 20:32:28
+sT.- SenzacL*
+sk!T.WildR4P`
+Barrett M82A1
+--- 19-01-16 20:32:31
+sT.- DJ Maaxis
+sk!T.Rattle
+Grenade
+--- 19-01-16 20:32:33
+sk!T.Rattle
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 20:32:37
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 20:32:37
+ErreAPe_
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 20:32:47
+ErreAPe_
+sk!T.WildR4P`
+LAW
+--- 19-01-16 20:32:47
+sk!T.WildR4P`
+ErreAPe_
+Grenade
+--- 19-01-16 20:32:48
+sT.- DJ Maaxis
+sk!T.Rattle
+Spas-12
+--- 19-01-16 20:32:49
+sT.- DJ Maaxis
+sk!T.chub0
+Spas-12
+--- 19-01-16 20:32:55
+sk!T.WildR4P`
+ErreAPe_
+Grenade
+--- 19-01-16 20:32:56
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 20:32:59
+sT.- SenzacL*
+sk!T.Rattle
+Chainsaw
+--- 19-01-16 20:33:01
+sk!T.WildR4P`
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-16 20:33:03
+sT.- DJ Maaxis
+sk!T.chub0
+Spas-12
+--- 19-01-16 20:33:04
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 20:33:06
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:33:06
+ErreAPe_
+sk!T.Rattle
+LAW
+--- 19-01-16 20:33:12
+sT.- SenzacL*
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 20:33:14
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Steyr AUG
+--- 19-01-16 20:33:16
+sk!T.WildR4P`
+ErreAPe_
+Grenade
+--- 19-01-16 20:33:16
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 20:33:16
+sT.- SenzacL*
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 20:35:01
+sT.- SenzacL*
+sk!T.WildR4P`
+Barrett M82A1
+--- 19-01-16 20:35:02
+sT.- DJ Maaxis
+sk!T.chub0
+Grenade
+--- 19-01-16 20:35:05
+sk!T.Rattle
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 20:35:12
+sT.- DJ Maaxis
+sk!T.Rattle
+Grenade
+--- 19-01-16 20:35:13
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 20:35:14
+sk!T.chub0(1)
+sT.- DJ Maaxis
+Spas-12
+--- 19-01-16 20:35:14
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 20:35:15
+sT.- SenzacL*
+sk!T.chub0(1)
+Grenade
+--- 19-01-16 20:35:20
+sk!T.Rattle
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 20:35:22
+sk!T.Rattle
+ErreAPe_
+Grenade
+--- 19-01-16 20:35:25
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 20:35:29
+ErreAPe_
+sk!T.chub0(1)
+Steyr AUG
+--- 19-01-16 20:35:30
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Spas-12
+--- 19-01-16 20:35:30
+sk!T.WildR4P`
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-16 20:35:33
+ErreAPe_
+sk!T.Rattle
+LAW
+--- 19-01-16 20:35:37
+sT.- DJ Maaxis
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 20:35:42
+ErreAPe_
+ErreAPe_
+Grenade
+--- 19-01-16 20:35:42
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:35:42
+sT.- SenzacL*
+sk!T.chub0(1)
+Chainsaw
+--- 19-01-16 20:35:46
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Spas-12
+--- 19-01-16 20:35:50
+sk!T.chub0(1)
+sT.- SenzacL*
+LAW
+--- 19-01-16 20:35:50
+sT.- DJ Maaxis
+sk!T.Rattle
+Spas-12
+--- 19-01-16 20:35:54
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Steyr AUG
+--- 19-01-16 20:35:55
+sk!T.chub0(1)
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:35:55
+sk!T.WildR4P`
+ErreAPe_
+Steyr AUG
+--- 19-01-16 20:36:03
+ErreAPe_
+sk!T.Rattle
+Grenade
+--- 19-01-16 20:36:03
+sk!T.WildR4P`
+sT.- SenzacL*
+Combat Knife
+--- 19-01-16 20:36:04
+sk!T.chub0(1)
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:36:07
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Steyr AUG
+--- 19-01-16 20:36:10
+sk!T.chub0(1)
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:36:14
+sT.- DJ Maaxis
+sk!T.Rattle
+Grenade
+--- 19-01-16 20:36:14
+sT.- DJ Maaxis
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 20:36:14
+sT.- SenzacL*
+sk!T.WildR4P`
+Chainsaw
+--- 19-01-16 20:36:16
+ErreAPe_
+sk!T.chub0(1)
+Steyr AUG
+--- 19-01-16 20:36:23
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 20:36:23
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:36:25
+sk!T.chub0(1)
+sT.- SenzacL*
+LAW
+--- 19-01-16 20:36:30
+sT.- DJ Maaxis
+sk!T.chub0(1)
+Spas-12
+--- 19-01-16 20:36:32
+sT.- DJ Maaxis
+sk!T.Rattle
+Spas-12
+--- 19-01-16 20:36:35
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Steyr AUG
+--- 19-01-16 20:36:40
+sk!T.Rattle
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 20:36:41
+ErreAPe_
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 20:36:45
+sT.- DJ Maaxis
+sk!T.Rattle
+Spas-12
+--- 19-01-16 20:36:46
+sT.- SenzacL*
+sk!T.chub0(1)
+Chainsaw
+--- 19-01-16 20:36:49
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Spas-12
+--- 19-01-16 20:36:49
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 20:36:52
+sT.- SenzacL*
+sk!T.Rattle
+M79
+--- 19-01-16 20:36:55
+sk!T.WildR4P`
+ErreAPe_
+Combat Knife
+--- 19-01-16 20:36:56
+sT.- SenzacL*
+sk!T.chub0(1)
+M79
+--- 19-01-16 20:36:56
+sk!T.chub0(1)
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:37:01
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 20:37:04
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 20:37:07
+sk!T.chub0(1)
+sT.- SenzacL*
+Combat Knife
+--- 19-01-16 20:37:27
+ErreAPe_
+sk!T.chub0(1)
+Steyr AUG
+--- 19-01-16 20:37:27
+sk!T.chub0(1)
+ErreAPe_
+Combat Knife
+--- 19-01-16 20:37:28
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 20:37:45
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:37:45
+sT.- DJ Maaxis
+sk!T.chub0(1)
+Barrett M82A1
+--- 19-01-16 20:37:45
+sk!T.chub0(1)
+sT.- DJ Maaxis
+Barrett M82A1
+--- 19-01-16 20:37:46
+sk!T.WildR4P`
+sT.- SenzacL*
+HK MP5
+--- 19-01-16 20:37:51
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:37:54
+sT.- SenzacL*
+sk!T.chub0(1)
+Barrett M82A1
+--- 19-01-16 20:37:59
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:38:04
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Barrett M82A1
+--- 19-01-16 20:38:05
+sT.- SenzacL*
+sk!T.chub0(1)
+Grenade
+--- 19-01-16 20:38:06
+sk!T.WildR4P`
+ErreAPe_
+Grenade
+--- 19-01-16 20:38:08
+sT.- DJ Maaxis
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 20:38:11
+sT.- SenzacL*
+sk!T.chub0(1)
+Barrett M82A1
+--- 19-01-16 20:38:13
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Steyr AUG
+--- 19-01-16 20:38:16
+sT.- SenzacL*
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 20:38:16
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 20:38:20
+sT.- SenzacL*
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:38:21
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:38:21
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:38:29
+sT.- DJ Maaxis
+sk!T.Rattle
+Spas-12
+--- 19-01-16 20:38:29
+sk!T.chub0(1)
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:38:29
+sk!T.WildR4P`
+sT.- DJ Maaxis
+HK MP5
+--- 19-01-16 20:38:31
+sk!T.WildR4P`
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 20:38:35
+sk!T.chub0(1)
+sT.- SenzacL*
+Barrett M82A1
+--- 19-01-16 20:38:36
+sT.- DJ Maaxis
+sk!T.chub0(1)
+Grenade
+--- 19-01-16 20:38:38
+sk!T.WildR4P`
+ErreAPe_
+HK MP5
+--- 19-01-16 20:38:43
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 20:38:45
+sk!T.chub0(1)
+sT.- SenzacL*
+Barrett M82A1
+--- 19-01-16 20:38:47
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:38:48
+sk!T.WildR4P`
+ErreAPe_
+HK MP5
+--- 19-01-16 20:38:48
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 20:38:54
+sk!T.chub0(1)
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:38:59
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 20:39:00
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:39:02
+sT.- SenzacL*
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 20:39:05
+ErreAPe_
+sk!T.chub0(1)
+Steyr AUG
+--- 19-01-16 20:39:07
+sk!T.Rattle
+sT.- SenzacL*
+Combat Knife
+--- 19-01-16 20:39:13
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:39:13
+sk!T.WildR4P`
+sT.- DJ Maaxis
+HK MP5
+--- 19-01-16 20:39:19
+sk!T.chub0(1)
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-16 20:39:22
+sT.- DJ Maaxis
+sk!T.Rattle
+Grenade
+--- 19-01-16 20:39:23
+sk!T.WildR4P`
+ErreAPe_
+HK MP5
+--- 19-01-16 20:39:23
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Spas-12
+--- 19-01-16 20:39:31
+sk!T.chub0(1)
+sT.- SenzacL*
+Combat Knife
+--- 19-01-16 20:39:32
+sT.- DJ Maaxis
+sk!T.Rattle
+Spas-12
+--- 19-01-16 20:39:35
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 20:39:35
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 20:39:39
+sT.- SenzacL*
+sk!T.chub0(1)
+HK MP5
+--- 19-01-16 20:39:39
+sk!T.chub0(1)
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:39:44
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:39:45
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Combat Knife
+--- 19-01-16 20:39:51
+sk!T.WildR4P`
+ErreAPe_
+Grenade
+--- 19-01-16 20:39:55
+ErreAPe_
+sk!T.chub0(1)
+Steyr AUG
+--- 19-01-16 20:39:59
+sk!T.WildR4P`
+ErreAPe_
+HK MP5
+--- 19-01-16 20:40:01
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Spas-12
+--- 19-01-16 20:40:03
+sk!T.chub0(1)
+sT.- SenzacL*
+M79
+--- 19-01-16 20:40:08
+sT.- DJ Maaxis
+sk!T.chub0(1)
+Spas-12
+--- 19-01-16 20:40:12
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:40:13
+sk!T.chub0(1)
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 20:40:16
+sk!T.chub0(1)
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:40:17
+ErreAPe_
+sk!T.Rattle
+Grenade
+--- 19-01-16 20:40:25
+sT.- SenzacL*
+sk!T.chub0(1)
+Barrett M82A1
+--- 19-01-16 20:40:26
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 20:40:29
+sk!T.Rattle
+ErreAPe_
+Combat Knife
+--- 19-01-16 20:40:32
+sk!T.chub0(1)
+sT.- SenzacL*
+HK MP5
+--- 19-01-16 20:40:35
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:40:35
+sk!T.WildR4P`
+sT.- DJ Maaxis
+HK MP5
+--- 19-01-16 20:40:36
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 20:40:41
+ErreAPe_
+sk!T.Rattle
+LAW
+--- 19-01-16 20:40:42
+sk!T.WildR4P`
+ErreAPe_
+HK MP5
+--- 19-01-16 20:40:42
+sT.- SenzacL*
+sk!T.chub0(1)
+HK MP5
+--- 19-01-16 20:40:47
+sT.- SenzacL*
+sk!T.chub0(1)
+Grenade
+--- 19-01-16 20:40:47
+sk!T.chub0(1)
+sT.- SenzacL*
+Combat Knife
+--- 19-01-16 20:40:47
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Spas-12
+--- 19-01-16 20:40:49
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 20:40:51
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:40:54
+sk!T.WildR4P`
+ErreAPe_
+HK MP5
+--- 19-01-16 20:40:57
+sk!T.chub0(1)
+sT.- SenzacL*
+M79
+--- 19-01-16 20:41:00
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Spas-12
+--- 19-01-16 20:41:01
+ErreAPe_
+sk!T.chub0(1)
+Steyr AUG
+--- 19-01-16 20:41:08
+sk!T.Rattle
+ErreAPe_
+Combat Knife
+--- 19-01-16 20:41:09
+sT.- DJ Maaxis
+sk!T.Rattle
+Spas-12
+--- 19-01-16 20:41:14
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 20:41:16
+sk!T.chub0(1)
+sT.- SenzacL*
+M79
+--- 19-01-16 20:41:19
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:41:20
+sk!T.WildR4P`
+ErreAPe_
+HK MP5
+--- 19-01-16 20:41:21
+sk!T.chub0(1)
+sT.- DJ Maaxis
+M79
+--- 19-01-16 20:41:21
+sT.- DJ Maaxis
+sk!T.chub0(1)
+Combat Knife
+--- 19-01-16 20:41:27
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 20:41:30
+sT.- SenzacL*
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:41:30
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:41:32
+sT.- DJ Maaxis
+sk!T.chub0(1)
+Spas-12
+--- 19-01-16 20:41:35
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:41:40
+sT.- SenzacL*
+sk!T.WildR4P`
+Barrett M82A1
+--- 19-01-16 20:41:44
+sT.- SenzacL*
+sk!T.chub0(1)
+Barrett M82A1
+--- 19-01-16 20:41:44
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 20:41:48
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:41:54
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:41:57
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Spas-12
+--- 19-01-16 20:42:00
+sT.- SenzacL*
+sk!T.chub0(1)
+Chainsaw
+--- 19-01-16 20:42:01
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:42:04
+sT.- DJ Maaxis
+sk!T.Rattle
+Spas-12
+--- 19-01-16 20:42:04
+sk!T.chub0(1)
+sT.- SenzacL*
+Combat Knife
+--- 19-01-16 20:42:10
+sk!T.WildR4P`
+sT.- DJ Maaxis
+HK MP5
+--- 19-01-16 20:42:11
+sk!T.chub0(1)
+sT.- SenzacL*
+M79
+--- 19-01-16 20:42:13
+sT.- DJ Maaxis
+sk!T.chub0(1)
+Grenade
+--- 19-01-16 20:42:14
+ErreAPe_
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 20:42:18
+sk!T.Rattle
+ErreAPe_
+Grenade
+--- 19-01-16 20:42:20
+sk!T.Rattle
+sT.- DJ Maaxis
+Combat Knife
+--- 19-01-16 20:42:20
+sT.- DJ Maaxis
+sk!T.Rattle
+Grenade
+--- 19-01-16 20:42:22
+sT.- SenzacL*
+sk!T.WildR4P`
+Barrett M82A1
+--- 19-01-16 20:42:25
+sk!T.chub0(1)
+sT.- SenzacL*
+Combat Knife
+--- 19-01-16 20:42:28
+ErreAPe_
+sk!T.chub0(1)
+LAW
+--- 19-01-16 20:42:29
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:42:33
+sT.- DJ Maaxis
+sk!T.Rattle
+Spas-12
+--- 19-01-16 20:42:36
+sT.- SenzacL*
+sk!T.WildR4P`
+Barrett M82A1
+--- 19-01-16 20:42:39
+sT.- SenzacL*
+sk!T.chub0(1)
+Barrett M82A1
+--- 19-01-16 20:42:41
+sk!T.Rattle
+ErreAPe_
+Grenade
+--- 19-01-16 20:42:42
+sT.- DJ Maaxis
+sk!T.Rattle
+Hands
+--- 19-01-16 20:42:44
+sk!T.chub0(1)
+sT.- SenzacL*
+Combat Knife
+--- 19-01-16 20:42:46
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 20:42:49
+ErreAPe_
+sk!T.WildR4P`
+LAW
+--- 19-01-16 20:42:51
+ErreAPe_
+sk!T.Rattle
+Grenade
+--- 19-01-16 20:42:53
+sk!T.chub0(1)
+sT.- SenzacL*
+Steyr AUG
+--- 19-01-16 20:42:56
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:42:58
+sT.- DJ Maaxis
+sk!T.chub0(1)
+Spas-12
+--- 19-01-16 20:43:00
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 20:43:04
+ErreAPe_
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 20:43:06
+ErreAPe_
+sk!T.Rattle
+LAW
+--- 19-01-16 20:43:07
+sk!T.chub0(1)
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:43:07
+sk!T.chub0(1)
+sk!T.chub0(1)
+Grenade
+--- 19-01-16 20:43:11
+sk!T.WildR4P`
+ErreAPe_
+HK MP5
+--- 19-01-16 20:43:14
+sk!T.WildR4P`
+sT.- DJ Maaxis
+HK MP5
+--- 19-01-16 20:43:18
+sT.- SenzacL*
+sk!T.chub0(1)
+M79
+--- 19-01-16 20:43:18
+sk!T.chub0(1)
+sT.- SenzacL*
+M79
+--- 19-01-16 20:43:19
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:43:22
+sk!T.WildR4P`
+ErreAPe_
+HK MP5
+--- 19-01-16 20:43:23
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Spas-12
+--- 19-01-16 20:43:28
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 20:43:30
+sT.- SenzacL*
+sk!T.chub0(1)
+Grenade
+--- 19-01-16 20:43:32
+sT.- SenzacL*
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 20:43:36
+sk!T.WildR4P`
+ErreAPe_
+HK MP5
+--- 19-01-16 20:43:37
+sT.- SenzacL*
+sk!T.chub0(1)
+Barrett M82A1
+--- 19-01-16 20:43:39
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 20:43:41
+sk!T.WildR4P`
+sT.- SenzacL*
+Combat Knife
+--- 19-01-16 20:43:44
+sT.- DJ Maaxis
+sk!T.Rattle
+Spas-12
+--- 19-01-16 20:43:49
+sT.- SenzacL*
+sk!T.chub0(1)
+Barrett M82A1
+--- 19-01-16 20:43:49
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 20:43:53
+ErreAPe_
+ErreAPe_
+Grenade
+--- 19-01-16 20:43:54
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 20:44:00
+sT.- SenzacL*
+sk!T.chub0(1)
+Barrett M82A1
+--- 19-01-16 20:44:02
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 20:44:03
+sT.- DJ Maaxis
+sk!T.Rattle
+Spas-12
+--- 19-01-16 20:44:08
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 20:44:10
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:44:12
+sk!T.WildR4P`
+ErreAPe_
+HK MP5
+--- 19-01-16 20:44:13
+sT.- DJ Maaxis
+sk!T.chub0(1)
+Combat Knife
+--- 19-01-16 20:44:17
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Spas-12
+--- 19-01-16 20:44:25
+sT.- SenzacL*
+sk!T.chub0(1)
+Barrett M82A1
+--- 19-01-16 20:44:27
+sk!T.WildR4P`
+ErreAPe_
+HK MP5
+--- 19-01-16 20:44:29
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 20:44:34
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:44:35
+sT.- SenzacL*
+sk!T.chub0(1)
+Barrett M82A1
+--- 19-01-16 20:44:35
+sk!T.WildR4P`
+ErreAPe_
+HK MP5
+--- 19-01-16 20:44:36
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Spas-12
+--- 19-01-16 20:44:41
+sk!T.chub0(1)
+sT.- SenzacL*
+Combat Knife
+--- 19-01-16 20:44:46
+sT.- DJ Maaxis
+sk!T.Rattle
+Spas-12
+--- 19-01-16 20:44:49
+sk!T.WildR4P`
+sT.- DJ Maaxis
+HK MP5
+--- 19-01-16 20:44:49
+sk!T.chub0(1)
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:44:53
+ErreAPe_
+sk!T.Rattle
+LAW
+--- 19-01-16 20:44:55
+sk!T.WildR4P`
+ErreAPe_
+HK MP5
+--- 19-01-16 20:44:56
+sT.- DJ Maaxis
+sk!T.chub0(1)
+Spas-12
+--- 19-01-16 20:45:02
+sT.- SenzacL*
+sk!T.chub0(1)
+Barrett M82A1
+--- 19-01-16 20:45:05
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:45:05
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Spas-12
+--- 19-01-16 20:45:05
+sk!T.WildR4P`
+sT.- DJ Maaxis
+HK MP5
+--- 19-01-16 20:45:07
+sk!T.chub0(1)
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 20:45:08
+sk!T.chub0(1)
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:45:14
+sT.- DJ Maaxis
+sk!T.Rattle
+Spas-12
+--- 19-01-16 20:45:18
+sT.- DJ Maaxis
+sk!T.chub0(1)
+Spas-12
+--- 19-01-16 20:45:20
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 20:45:22
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:45:24
+sk!T.chub0(1)
+ErreAPe_
+HK MP5
+--- 19-01-16 20:45:27
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Spas-12
+--- 19-01-16 20:45:30
+sk!T.chub0(1)
+ErreAPe_
+Grenade
+--- 19-01-16 20:45:31
+sT.- SenzacL*
+sk!T.Rattle
+Grenade
+--- 19-01-16 20:45:33
+sk!T.WildR4P`
+sT.- SenzacL*
+HK MP5
+--- 19-01-16 20:45:35
+ErreAPe_
+sk!T.chub0(1)
+Steyr AUG
+--- 19-01-16 20:45:39
+ErreAPe_
+sk!T.Rattle
+Grenade
+--- 19-01-16 20:45:43
+sk!T.WildR4P`
+ErreAPe_
+HK MP5
+--- 19-01-16 20:45:44
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 20:45:45
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 20:45:49
+sT.- SenzacL*
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 20:45:49
+sk!T.chub0(1)
+sT.- DJ Maaxis
+M79
+--- 19-01-16 20:45:49
+sk!T.Rattle
+sT.- SenzacL*
+Combat Knife
+--- 19-01-16 20:45:50
+ErreAPe_
+sk!T.chub0(1)
+Steyr AUG
+--- 19-01-16 20:45:55
+ErreAPe_
+sk!T.WildR4P`
+LAW
+--- 19-01-16 20:45:58
+sk!T.chub0(1)
+ErreAPe_
+Grenade
+--- 19-01-16 20:46:03
+sT.- SenzacL*
+sk!T.chub0(1)
+Barrett M82A1
+--- 19-01-16 20:46:04
+sk!T.WildR4P`
+sT.- DJ Maaxis
+HK MP5
+--- 19-01-16 20:46:06
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:46:09
+sk!T.chub0(1)
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:46:12
+sk!T.WildR4P`
+ErreAPe_
+HK MP5
+--- 19-01-16 20:46:14
+sk!T.WildR4P`
+sT.- DJ Maaxis
+HK MP5
+--- 19-01-16 20:46:14
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 20:46:16
+sk!T.chub0(1)
+sT.- SenzacL*
+Barrett M82A1
+--- 19-01-16 20:46:19
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:46:19
+sk!T.Rattle
+ErreAPe_
+Combat Knife
+--- 19-01-16 20:46:20
+sk!T.chub0(1)
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 20:46:25
+sT.- SenzacL*
+sk!T.chub0(1)
+Barrett M82A1
+--- 19-01-16 20:46:33
+ErreAPe_
+sk!T.chub0(1)
+Grenade
+--- 19-01-16 20:46:39
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Spas-12
+--- 19-01-16 20:46:39
+sk!T.chub0(1)
+ErreAPe_
+HK MP5
+--- 19-01-16 20:46:39
+sk!T.WildR4P`
+sT.- DJ Maaxis
+HK MP5
+--- 19-01-16 20:46:39
+ErreAPe_
+sk!T.chub0(1)
+Grenade
+--- 19-01-16 20:46:40
+sT.- SenzacL*
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 20:46:47
+sT.- SenzacL*
+sk!T.chub0(1)
+Barrett M82A1
+--- 19-01-16 20:46:51
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 20:46:51
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:46:53
+sk!T.WildR4P`
+ErreAPe_
+HK MP5
+--- 19-01-16 20:46:54
+sk!T.chub0(1)
+sT.- SenzacL*
+M79
+--- 19-01-16 20:46:59
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 20:47:05
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:47:07
+sk!T.WildR4P`
+ErreAPe_
+HK MP5
+--- 19-01-16 20:47:08
+sT.- SenzacL*
+sk!T.chub0(1)
+Barrett M82A1
+--- 19-01-16 20:47:12
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 20:47:15
+sT.- SenzacL*
+sk!T.chub0(1)
+Barrett M82A1
+--- 19-01-16 20:47:17
+sT.- DJ Maaxis
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:47:19
+sT.- SenzacL*
+sk!T.WildR4P`
+Barrett M82A1
+--- 19-01-16 20:47:20
+sk!T.chub0(1)
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 20:47:26
+sk!T.WildR4P`
+ErreAPe_
+HK MP5
+--- 19-01-16 20:47:26
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 20:47:31
+sT.- SenzacL*
+sk!T.chub0(1)
+Barrett M82A1
+--- 19-01-16 20:47:36
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:48:27
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Combat Knife
+--- 19-01-16 20:48:29
+sk!T.chub0(1)
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:48:41
+sT.- SenzacL*
+sk!T.chub0(1)
+Grenade
+--- 19-01-16 20:48:42
+sk!T.Rattle
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 20:48:43
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Barrett M82A1
+--- 19-01-16 20:48:44
+sk!T.Rattle
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 20:48:49
+sT.- SenzacL*
+sk!T.chub0(1)
+Barrett M82A1
+--- 19-01-16 20:48:50
+sk!T.Rattle
+sT.- DJ Maaxis
+Combat Knife
+--- 19-01-16 20:48:53
+sT.- SenzacL*
+sk!T.WildR4P`
+Barrett M82A1
+--- 19-01-16 20:48:56
+sk!T.chub0(1)
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 20:49:00
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 20:49:03
+sk!T.chub0(1)
+sT.- SenzacL*
+LAW
+--- 19-01-16 20:49:05
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Barrett M82A1
+--- 19-01-16 20:49:09
+sk!T.chub0(1)
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 20:49:14
+sk!T.chub0(1)
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 20:49:16
+sT.- SenzacL*
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 20:49:17
+sk!T.WildR4P`
+sT.- SenzacL*
+Barrett M82A1
+--- 19-01-16 20:49:21
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Barrett M82A1
+--- 19-01-16 20:49:27
+sT.- SenzacL*
+sk!T.WildR4P`
+Barrett M82A1
+--- 19-01-16 20:49:27
+sk!T.WildR4P`
+sT.- SenzacL*
+Barrett M82A1
+--- 19-01-16 20:49:32
+sT.- SenzacL*
+sk!T.Rattle
+Chainsaw
+--- 19-01-16 20:49:33
+sk!T.chub0(1)
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 20:49:35
+sT.- DJ Maaxis
+sk!T.chub0(1)
+Barrett M82A1
+--- 19-01-16 20:49:38
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Barrett M82A1
+--- 19-01-16 20:49:55
+sk!T.WildR4P`
+sT.- SenzacL*
+Barrett M82A1
+--- 19-01-16 20:49:57
+sT.- DJ Maaxis
+sk!T.chub0(1)
+M79
+--- 19-01-16 20:49:57
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:49:58
+ErreAPe_
+ErreAPe_
+Grenade
+--- 19-01-16 20:50:06
+sT.- DJ Maaxis
+sk!T.chub0(1)
+M79
+--- 19-01-16 20:50:11
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 20:50:14
+sk!T.chub0(1)
+sT.- SenzacL*
+M79
+--- 19-01-16 20:50:21
+sT.- DJ Maaxis
+sk!T.Rattle
+Grenade
+--- 19-01-16 20:50:21
+sT.- DJ Maaxis
+sT.- DJ Maaxis
+M79
+--- 19-01-16 20:50:22
+ErreAPe_
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 20:50:29
+ErreAPe_
+sk!T.chub0(1)
+Steyr AUG
+--- 19-01-16 20:50:31
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:50:35
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:50:36
+sk!T.chub0(1)
+sT.- SenzacL*
+LAW
+--- 19-01-16 20:50:40
+sk!T.WildR4P`
+ErreAPe_
+Grenade
+--- 19-01-16 20:50:42
+sT.- DJ Maaxis
+sk!T.WildR4P`
+M79
+--- 19-01-16 20:50:47
+ErreAPe_
+ErreAPe_
+Grenade
+--- 19-01-16 20:50:47
+sT.- DJ Maaxis
+sk!T.Rattle
+M79
+--- 19-01-16 20:50:47
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 20:50:57
+ErreAPe_
+sk!T.WildR4P`
+LAW
+--- 19-01-16 20:50:58
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:51:00
+sk!T.Rattle
+sT.- DJ Maaxis
+Combat Knife
+--- 19-01-16 20:51:00
+sT.- SenzacL*
+sk!T.chub0(1)
+Barrett M82A1
+--- 19-01-16 20:51:08
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 20:51:10
+ErreAPe_
+sk!T.chub0(1)
+Grenade
+--- 19-01-16 20:51:12
+sT.- SenzacL*
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 20:51:16
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 20:51:16
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 20:51:17
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:51:22
+sT.- DJ Maaxis
+sk!T.chub0(1)
+M79
+--- 19-01-16 20:51:23
+sk!T.WildR4P`
+sT.- SenzacL*
+Barrett M82A1
+--- 19-01-16 20:51:25
+sk!T.Rattle
+ErreAPe_
+Combat Knife
+--- 19-01-16 20:51:31
+sT.- SenzacL*
+sk!T.WildR4P`
+Barrett M82A1
+--- 19-01-16 20:51:37
+ErreAPe_
+sk!T.chub0(1)
+LAW
+--- 19-01-16 20:51:39
+sT.- SenzacL*
+sk!T.Rattle
+Chainsaw
+--- 19-01-16 20:51:46
+sT.- SenzacL*
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 20:51:47
+sT.- DJ Maaxis
+sk!T.WildR4P`
+M79
+--- 19-01-16 20:51:50
+sk!T.chub0(1)
+ErreAPe_
+M79
+--- 19-01-16 20:51:53
+sk!T.Rattle
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:51:57
+sk!T.chub0(1)
+sT.- DJ Maaxis
+M79
+--- 19-01-16 20:51:59
+sk!T.WildR4P`
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:52:01
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:52:06
+sT.- DJ Maaxis
+sk!T.WildR4P`
+M79
+--- 19-01-16 20:52:08
+sk!T.Rattle
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 20:52:10
+sk!T.Rattle
+ErreAPe_
+Combat Knife
+--- 19-01-16 20:52:14
+sk!T.chub0(1)
+sT.- DJ Maaxis
+M79
+--- 19-01-16 20:52:18
+sk!T.WildR4P`
+ErreAPe_
+M79
+--- 19-01-16 20:52:19
+sk!T.Rattle
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 20:52:24
+sk!T.chub0(1)
+sk!T.chub0(1)
+M79
+--- 19-01-16 20:52:24
+sk!T.WildR4P`
+ErreAPe_
+M79
+--- 19-01-16 20:52:24
+ErreAPe_
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 20:52:30
+sk!T.Rattle
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 20:52:31
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:52:33
+sk!T.chub0(1)
+sT.- DJ Maaxis
+M79
+--- 19-01-16 20:52:34
+sk!T.chub0(1)
+ErreAPe_
+Combat Knife
+--- 19-01-16 20:52:39
+sT.- SenzacL*
+sk!T.WildR4P`
+Barrett M82A1
+--- 19-01-16 20:52:39
+sk!T.WildR4P`
+sT.- SenzacL*
+M79
+--- 19-01-16 20:52:40
+sT.- DJ Maaxis
+sk!T.chub0(1)
+M79
+--- 19-01-16 20:52:43
+sk!T.Rattle
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 20:52:46
+sk!T.WildR4P`
+sT.- DJ Maaxis
+M79
+--- 19-01-16 20:52:47
+sk!T.Rattle
+ErreAPe_
+Combat Knife
+--- 19-01-16 20:52:54
+sT.- DJ Maaxis
+sk!T.WildR4P`
+M79
+--- 19-01-16 20:52:54
+sk!T.chub0(1)
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:52:56
+sT.- DJ Maaxis
+sk!T.chub0(1)
+Combat Knife
+--- 19-01-16 20:53:01
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:53:01
+ErreAPe_
+ErreAPe_
+Grenade
+--- 19-01-16 20:53:02
+sT.- SenzacL*
+sk!T.WildR4P`
+Barrett M82A1
+--- 19-01-16 20:53:08
+sT.- SenzacL*
+sk!T.WildR4P`
+Chainsaw
+--- 19-01-16 20:53:08
+sk!T.Rattle
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:53:09
+sT.- DJ Maaxis
+sk!T.chub0(1)
+Grenade
+--- 19-01-16 20:53:16
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:53:22
+ErreAPe_
+ErreAPe_
+Grenade
+--- 19-01-16 20:53:22
+sT.- DJ Maaxis
+sk!T.chub0(1)
+M79
+--- 19-01-16 20:53:28
+sT.- SenzacL*
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 20:53:29
+sT.- SenzacL*
+sk!T.WildR4P`
+Chainsaw
+--- 19-01-16 20:53:31
+sk!T.chub0(1)
+sT.- DJ Maaxis
+M79
+--- 19-01-16 20:53:31
+sT.- DJ Maaxis
+sk!T.chub0(1)
+M79
+--- 19-01-16 20:53:38
+sk!T.Rattle
+ErreAPe_
+Grenade
+--- 19-01-16 20:53:43
+sk!T.chub0(1)
+sT.- DJ Maaxis
+M79
+--- 19-01-16 20:53:44
+sk!T.chub0(1)
+ErreAPe_
+Grenade
+--- 19-01-16 20:53:44
+sk!T.Rattle
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 20:53:50
+sk!T.Rattle
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 20:53:52
+sk!T.WildR4P`
+sT.- DJ Maaxis
+HK MP5
+--- 19-01-16 20:53:52
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 20:53:56
+sk!T.Rattle
+sT.- SenzacL*
+Barrett M82A1
+--- 19-01-16 20:53:58
+sT.- DJ Maaxis
+sk!T.Rattle
+Combat Knife
+--- 19-01-16 20:54:03
+sk!T.WildR4P`
+ErreAPe_
+HK MP5
+--- 19-01-16 20:54:09
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 20:54:09
+sk!T.WildR4P`
+sT.- SenzacL*
+HK MP5
+--- 19-01-16 20:54:13
+sk!T.WildR4P`
+ErreAPe_
+HK MP5
+--- 19-01-16 20:54:17
+sT.- DJ Maaxis
+sk!T.Rattle
+M79
+--- 19-01-16 20:54:19
+sk!T.WildR4P`
+sT.- SenzacL*
+HK MP5
+--- 19-01-16 20:54:21
+ErreAPe_
+sk!T.chub0(1)
+Grenade
+--- 19-01-16 20:54:24
+sk!T.WildR4P`
+ErreAPe_
+HK MP5
+--- 19-01-16 20:54:25
+sT.- DJ Maaxis
+sk!T.WildR4P`
+M79
+--- 19-01-16 20:54:30
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:54:30
+sk!T.Rattle
+ErreAPe_
+Combat Knife
+--- 19-01-16 20:54:36
+sk!T.chub0(1)
+ErreAPe_
+Combat Knife
+--- 19-01-16 20:54:36
+ErreAPe_
+sk!T.chub0(1)
+Grenade
+--- 19-01-16 20:54:37
+sT.- SenzacL*
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 20:54:41
+sk!T.WildR4P`
+ErreAPe_
+Combat Knife
+--- 19-01-16 20:54:42
+sk!T.Rattle
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 20:54:46
+sk!T.WildR4P`
+sT.- DJ Maaxis
+HK MP5
+--- 19-01-16 20:54:50
+sk!T.chub0(1)
+sT.- SenzacL*
+M79
+--- 19-01-16 20:54:52
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:54:53
+sk!T.chub0(1)
+ErreAPe_
+M79
+--- 19-01-16 20:54:57
+sk!T.WildR4P`
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 20:54:57
+sT.- DJ Maaxis
+sk!T.WildR4P`
+M79
+--- 19-01-16 20:55:02
+ErreAPe_
+sk!T.chub0(1)
+Steyr AUG
+--- 19-01-16 20:55:08
+sk!T.WildR4P`
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:55:12
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 20:55:14
+sk!T.chub0(1)
+ErreAPe_
+Combat Knife
+--- 19-01-16 20:55:17
+sk!T.chub0(1)
+sT.- DJ Maaxis
+M79
+--- 19-01-16 20:55:21
+ErreAPe_
+sk!T.Rattle
+Grenade
+--- 19-01-16 20:55:21
+ErreAPe_
+ErreAPe_
+Grenade
+--- 19-01-16 20:55:22
+sk!T.WildR4P`
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:55:27
+sk!T.chub0(1)
+sT.- DJ Maaxis
+M79
+--- 19-01-16 20:55:27
+sT.- DJ Maaxis
+sk!T.chub0(1)
+M79
+--- 19-01-16 20:55:30
+ErreAPe_
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 20:55:33
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:55:38
+sk!T.Rattle
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 20:55:39
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:55:44
+sT.- SenzacL*
+sk!T.chub0(1)
+Chainsaw
+--- 19-01-16 20:55:47
+sT.- DJ Maaxis
+sk!T.WildR4P`
+M79
+--- 19-01-16 20:55:47
+sk!T.WildR4P`
+ErreAPe_
+Grenade
+--- 19-01-16 20:55:51
+sk!T.chub0(1)
+sT.- SenzacL*
+M79
+--- 19-01-16 20:55:53
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 20:55:53
+sT.- DJ Maaxis
+sk!T.Rattle
+Grenade
+--- 19-01-16 20:55:58
+sT.- SenzacL*
+sk!T.WildR4P`
+Barrett M82A1
+--- 19-01-16 20:56:01
+sk!T.chub0(1)
+ErreAPe_
+Combat Knife
+--- 19-01-16 20:56:03
+sk!T.WildR4P`
+sT.- SenzacL*
+HK MP5
+--- 19-01-16 20:56:11
+sT.- SenzacL*
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 20:56:12
+sk!T.chub0(1)
+sT.- DJ Maaxis
+Steyr AUG
+--- 19-01-16 20:56:15
+sT.- SenzacL*
+sk!T.chub0(1)
+Barrett M82A1
+--- 19-01-16 20:56:17
+sk!T.WildR4P`
+ErreAPe_
+Grenade
+--- 19-01-16 20:56:20
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Combat Knife
+--- 19-01-16 20:56:21
+sT.- SenzacL*
+sk!T.chub0(1)
+Chainsaw
+--- 19-01-16 20:56:26
+sT.- DJ Maaxis
+sk!T.WildR4P`
+M79
+--- 19-01-16 20:56:27
+sk!T.Rattle
+ErreAPe_
+Grenade
+--- 19-01-16 20:56:28
+sT.- DJ Maaxis
+sk!T.chub0(1)
+Grenade
+--- 19-01-16 20:56:28
+sk!T.chub0(1)
+sT.- DJ Maaxis
+Grenade
+--- 19-01-16 20:56:30
+sT.- SenzacL*
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 20:56:34
+sk!T.WildR4P`
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 20:56:34
+sk!T.WildR4P`
+ErreAPe_
+Grenade
+--- 19-01-16 20:56:42
+sk!T.chub0(1)
+ErreAPe_
+Combat Knife
+--- 19-01-16 20:56:47
+sk!T.chub0(1)
+sk!T.chub0(1)
+Grenade
+--- 19-01-16 20:56:48
+sT.- SenzacL*
+sk!T.WildR4P`
+Barrett M82A1
+--- 19-01-16 20:56:49
+ErreAPe_
+sk!T.Rattle
+LAW
+--- 19-01-16 20:56:54
+sk!T.chub0(1)
+sT.- DJ Maaxis
+Combat Knife
+--- 19-01-16 20:56:56
+ErreAPe_
+sk!T.chub0(1)
+LAW
+--- 19-01-16 20:56:56
+sk!T.chub0(1)
+ErreAPe_
+M79
+--- 19-01-16 20:57:02
+sT.- SenzacL*
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 20:57:03
+sT.- DJ Maaxis
+sk!T.WildR4P`
+M79
+--- 19-01-16 20:57:03
+sk!T.Rattle
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:57:10
+sT.- DJ Maaxis
+sk!T.chub0(1)
+M79
+--- 19-01-16 20:57:11
+ErreAPe_
+sk!T.WildR4P`
+LAW
+--- 19-01-16 20:57:14
+sT.- DJ Maaxis
+sk!T.Rattle
+M79
+--- 19-01-16 20:57:18
+sT.- DJ Maaxis
+sk!T.WildR4P`
+M79
+--- 19-01-16 20:57:20
+sk!T.chub0(1)
+sT.- SenzacL*
+Combat Knife
+--- 19-01-16 20:57:20
+sT.- SenzacL*
+sk!T.chub0(1)
+Chainsaw
+--- 19-01-16 20:57:23
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 20:57:25
+sT.- DJ Maaxis
+sk!T.chub0(1)
+M79
+--- 19-01-16 20:57:29
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:57:30
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:57:36
+ErreAPe_
+sk!T.WildR4P`
+Grenade
+--- 19-01-16 20:57:36
+ErreAPe_
+ErreAPe_
+Grenade
+--- 19-01-16 20:57:41
+sT.- DJ Maaxis
+sk!T.WildR4P`
+M79
+--- 19-01-16 20:57:42
+sT.- SenzacL*
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 20:57:46
+sk!T.chub0(1)
+sT.- DJ Maaxis
+Combat Knife
+--- 19-01-16 20:57:48
+ErreAPe_
+sk!T.chub0(1)
+LAW
+--- 19-01-16 20:57:49
+sk!T.WildR4P`
+ErreAPe_
+HK MP5
+--- 19-01-16 20:57:53
+sT.- SenzacL*
+sk!T.WildR4P`
+Barrett M82A1
+--- 19-01-16 20:57:56
+sT.- DJ Maaxis
+sk!T.Rattle
+Grenade
+--- 19-01-16 20:58:04
+sT.- SenzacL*
+sk!T.WildR4P`
+Barrett M82A1
+--- 19-01-16 20:58:04
+sk!T.WildR4P`
+sT.- SenzacL*
+Grenade
+--- 19-01-16 20:58:08
+sk!T.Rattle
+ErreAPe_
+Grenade
+--- 19-01-16 20:58:16
+ErreAPe_
+sk!T.chub0(1)
+Steyr AUG
+--- 19-01-16 20:58:19
+sT.- DJ Maaxis
+sk!T.chub0(1)
+M79
+--- 19-01-16 20:58:21
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:58:23
+sk!T.WildR4P`
+sT.- DJ Maaxis
+HK MP5
+--- 19-01-16 20:58:28
+sT.- SenzacL*
+sk!T.chub0(1)
+Barrett M82A1
+--- 19-01-16 20:58:28
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:58:31
+sk!T.WildR4P`
+sT.- SenzacL*
+HK MP5
+--- 19-01-16 20:58:37
+sk!T.WildR4P`
+ErreAPe_
+HK MP5
+--- 19-01-16 20:58:40
+sT.- SenzacL*
+sk!T.chub0(1)
+Barrett M82A1
+--- 19-01-16 20:58:40
+sk!T.chub0(1)
+sT.- SenzacL*
+M79
+--- 19-01-16 20:58:44
+sT.- DJ Maaxis
+sk!T.WildR4P`
+Combat Knife
+--- 19-01-16 20:58:48
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:58:50
+sT.- DJ Maaxis
+sk!T.chub0(1)
+M79
+--- 19-01-16 20:58:54
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:59:01
+sk!T.chub0(1)
+sT.- DJ Maaxis
+Combat Knife
+--- 19-01-16 20:59:01
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 20:59:04
+sk!T.Rattle
+ErreAPe_
+Grenade
+--- 19-01-16 20:59:06
+sk!T.Rattle
+sT.- SenzacL*
+Combat Knife
+--- 19-01-16 20:59:08
+sk!T.chub0(1)
+sT.- DJ Maaxis
+M79
+--- 19-01-16 20:59:11
+ErreAPe_
+sk!T.chub0(1)
+Grenade
+--- 19-01-16 20:59:11
+sk!T.chub0(1)
+ErreAPe_
+M79
+--- 19-01-16 20:59:13
+sT.- SenzacL*
+sk!T.WildR4P`
+Barrett M82A1
+--- 19-01-16 20:59:15
+sk!T.Rattle
+sT.- SenzacL*
+Ruger 77
+--- 19-01-16 20:59:19
+ErreAPe_
+sk!T.Rattle
+Steyr AUG
+--- 19-01-16 20:59:26
+sk!T.WildR4P`
+sT.- SenzacL*
+HK MP5
+--- 19-01-16 20:59:26
+sT.- DJ Maaxis
+sk!T.chub0(1)
+M79
+--- 19-01-16 20:59:29
+sk!T.WildR4P`
+sT.- DJ Maaxis
+HK MP5
+--- 19-01-16 20:59:32
+ErreAPe_
+sk!T.WildR4P`
+Steyr AUG
+--- 19-01-16 20:59:34
+sk!T.Rattle
+ErreAPe_
+Ruger 77
+--- 19-01-16 20:59:35
+sk!T.Rattle
+sT.- DJ Maaxis
+Ruger 77
+--- 19-01-16 20:59:43
+sT.- DJ Maaxis
+sk!T.WildR4P`
+M79
+--- 19-01-16 20:59:43
+sT.- SenzacL*
+sk!T.Rattle
+Barrett M82A1
+--- 19-01-16 20:59:45
+sT.- SenzacL*
+sk!T.chub0(1)
+Grenade

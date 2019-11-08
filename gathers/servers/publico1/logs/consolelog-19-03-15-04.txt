@@ -1,0 +1,48 @@
+19-03-15 16:30:44    Console Log Started
+19-03-15 16:30:44 Welcome to Soldat 1.7.1
+19-03-15 16:30:44  [*] Preparing scripts to be launched
+19-03-15 16:30:44  [*] Compiling AT -> antitele.pas...
+19-03-15 16:30:44  [*] AT compiled
+19-03-15 16:30:44  [*] Compiling Pinwilandia -> ScriptHechoPorPinwino.pas...
+19-03-15 16:30:44  [*] Pinwilandia compiled
+19-03-15 16:30:44  [*] Compiling SV -> ServerVisits.pas...
+19-03-15 16:30:44  [*] SV -> [Error] (30:16): Invalid number of parameters
+19-03-15 16:30:44  [*] Disabling SV
+19-03-15 16:30:44  [*] Compiling SWR -> core.pas...
+19-03-15 16:30:44  [*] SWR -> [Error] (56:15): Invalid number of parameters
+19-03-15 16:30:44  [*] Disabling SWR
+19-03-15 16:30:44  [*] Compiling W -> welcome.pas...
+19-03-15 16:30:44  [*] W -> [Hint] (21:10): Variable 'Result' never used
+19-03-15 16:30:44  [*] W compiled
+19-03-15 16:30:44  [*] Done
+19-03-15 16:30:44 Welcome Message Activated
+19-03-15 16:30:44 Lothic - Gothic Lobby Room
+19-03-15 16:30:44 Loaded weapons mod "Default mod v1.8"
+19-03-15 16:30:44  Connection for file server started. Port: 23023
+19-03-15 16:30:44 Registering server @ 88.99.234.252
+19-03-15 16:31:07 191.85.132.186:23073|3A1F929ECBB requesting game...
+19-03-15 16:31:08 sk!T.Rattle joining game (191.85.132.186:23073) HWID:3A1F929ECBB
+19-03-15 16:31:08 sk!T.Rattle has joined alpha team.
+19-03-15 16:31:11 [sk!T.Rattle] !dp
+19-03-15 16:31:11 Currently there is no server password
+19-03-15 16:31:14 [sk!T.Rattle] !sp
+19-03-15 16:31:14 Server password changed to 250
+19-03-15 16:31:15 sk!T.Rattle has left alpha team.
+19-03-15 16:31:15 Currently there is no server password
+19-03-15 16:31:16 191.85.132.186:23073|3A1F929ECBB requesting game...
+19-03-15 16:31:17 sk!T.Rattle joining game (191.85.132.186:23073) HWID:3A1F929ECBB
+19-03-15 16:31:17 sk!T.Rattle has joined alpha team.
+19-03-15 16:31:18 sk!T.Rattle has left alpha team.
+19-03-15 16:31:18 Currently there is no server password
+19-03-15 16:31:20 191.85.132.186:23073|3A1F929ECBB requesting game...
+19-03-15 16:31:20 sk!T.Rattle joining game (191.85.132.186:23073) HWID:3A1F929ECBB
+19-03-15 16:31:20 sk!T.Rattle has joined alpha team.
+19-03-15 16:31:44 sk!T.Rattle has left alpha team.
+19-03-15 16:31:44 Currently there is no server password
+19-03-15 16:35:44 Time Left: 5 minutes
+19-03-15 16:36:44 Time Left: 4 minutes
+19-03-15 16:37:44 Time Left: 3 minutes
+19-03-15 16:38:36 Signal received, shutting down
+19-03-15 16:38:36 Shutting down server...
+19-03-15 16:38:36 Shutting down FileServer...
+19-03-15 16:38:36 Shutting down admin server...

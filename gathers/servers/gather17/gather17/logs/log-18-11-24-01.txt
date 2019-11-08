@@ -1,0 +1,310 @@
+18-11-24 03:53:56    Log Started
+18-11-24 03:53:56 Opened /home/tinolski/gathers/servers/gather17/soldat.ini
+18-11-24 04:07:06 TCP/IP File Server started
+18-11-24 04:37:06 TCP/IP File Server started
+18-11-24 05:07:06 TCP/IP File Server started
+18-11-24 05:37:06 TCP/IP File Server started
+18-11-24 06:07:06 TCP/IP File Server started
+18-11-24 06:37:06 TCP/IP File Server started
+18-11-24 07:07:06 TCP/IP File Server started
+18-11-24 07:37:06 TCP/IP File Server started
+18-11-24 08:07:06 TCP/IP File Server started
+18-11-24 08:37:06 TCP/IP File Server started
+18-11-24 09:07:06 TCP/IP File Server started
+18-11-24 09:37:06 TCP/IP File Server started
+18-11-24 10:07:06 TCP/IP File Server started
+18-11-24 10:37:06 TCP/IP File Server started
+18-11-24 11:07:06 TCP/IP File Server started
+18-11-24 11:37:06 TCP/IP File Server started
+18-11-24 12:07:06 TCP/IP File Server started
+18-11-24 12:37:06 TCP/IP File Server started
+18-11-24 13:07:06 TCP/IP File Server started
+18-11-24 13:37:06 TCP/IP File Server started
+18-11-24 14:07:06 TCP/IP File Server started
+18-11-24 14:37:06 TCP/IP File Server started
+18-11-24 15:07:06 TCP/IP File Server started
+18-11-24 15:35:03  Net - /waives/nosejj connected 24-11-18 15:35:03
+18-11-24 15:35:29  Net - /waives/nosejj disconnected 24-11-18 15:35:29
+18-11-24 15:37:06 TCP/IP File Server started
+18-11-24 16:07:06 TCP/IP File Server started
+18-11-24 16:37:06 TCP/IP File Server started
+18-11-24 17:07:06 TCP/IP File Server started
+18-11-24 17:37:06 TCP/IP File Server started
+18-11-24 18:07:06 TCP/IP File Server started
+18-11-24 18:37:07 TCP/IP File Server started
+18-11-24 19:07:06 TCP/IP File Server started
+18-11-24 19:37:06 TCP/IP File Server started
+18-11-24 20:07:06 TCP/IP File Server started
+18-11-24 20:37:07 TCP/IP File Server started
+18-11-24 21:07:07 TCP/IP File Server started
+18-11-24 21:37:06 TCP/IP File Server started
+18-11-24 22:07:06 TCP/IP File Server started
+18-11-24 22:37:06 TCP/IP File Server started
+18-11-24 23:07:06 TCP/IP File Server started
+18-11-24 23:37:06 TCP/IP File Server started
+18-11-25 00:07:06 TCP/IP File Server started
+18-11-25 00:37:06 TCP/IP File Server started
+18-11-25 01:07:06 TCP/IP File Server started
+18-11-25 01:37:06 TCP/IP File Server started
+18-11-25 02:07:06 TCP/IP File Server started
+18-11-25 02:37:06 TCP/IP File Server started
+18-11-25 03:07:06 TCP/IP File Server started
+18-11-25 03:37:06 TCP/IP File Server started
+18-11-25 04:07:07 TCP/IP File Server started
+18-11-25 04:37:06 TCP/IP File Server started
+18-11-25 05:07:06 TCP/IP File Server started
+18-11-25 05:37:06 TCP/IP File Server started
+18-11-25 06:07:06 TCP/IP File Server started
+18-11-25 06:37:06 TCP/IP File Server started
+18-11-25 07:07:06 TCP/IP File Server started
+18-11-25 07:37:06 TCP/IP File Server started
+18-11-25 08:07:06 TCP/IP File Server started
+18-11-25 08:37:06 TCP/IP File Server started
+18-11-25 09:07:06 TCP/IP File Server started
+18-11-25 09:37:06 TCP/IP File Server started
+18-11-25 10:07:06 TCP/IP File Server started
+18-11-25 10:37:06 TCP/IP File Server started
+18-11-25 11:07:06 TCP/IP File Server started
+18-11-25 11:37:06 TCP/IP File Server started
+18-11-25 12:07:06 TCP/IP File Server started
+18-11-25 12:37:06 TCP/IP File Server started
+18-11-25 13:07:06 TCP/IP File Server started
+18-11-25 13:37:06 TCP/IP File Server started
+18-11-25 14:07:06 TCP/IP File Server started
+18-11-25 14:37:06 TCP/IP File Server started
+18-11-25 15:07:06 TCP/IP File Server started
+18-11-25 15:37:06 TCP/IP File Server started
+18-11-25 16:07:06 TCP/IP File Server started
+18-11-25 16:37:06 TCP/IP File Server started
+18-11-25 17:07:06 TCP/IP File Server started
+18-11-25 17:37:06 TCP/IP File Server started
+18-11-25 18:07:06 TCP/IP File Server started
+18-11-25 18:37:06 TCP/IP File Server started
+18-11-25 19:07:06 TCP/IP File Server started
+18-11-25 19:37:06 TCP/IP File Server started
+18-11-25 20:07:06 TCP/IP File Server started
+18-11-25 20:37:06 TCP/IP File Server started
+18-11-25 21:07:06 TCP/IP File Server started
+18-11-25 21:37:06 TCP/IP File Server started
+18-11-25 22:07:06 TCP/IP File Server started
+18-11-25 22:37:06 TCP/IP File Server started
+18-11-25 23:07:06 TCP/IP File Server started
+18-11-25 23:37:06 TCP/IP File Server started
+18-11-26 00:07:06 TCP/IP File Server started
+18-11-26 00:37:06 TCP/IP File Server started
+18-11-26 01:07:06 TCP/IP File Server started
+18-11-26 01:37:06 TCP/IP File Server started
+18-11-26 02:07:06 TCP/IP File Server started
+18-11-26 02:28:49 Loading Map.
+18-11-26 02:28:49 Creating Weapons.
+18-11-26 02:28:49 Starting Game Server.
+18-11-26 02:28:49 TCP/IP File Server started
+18-11-26 02:30:22  Net - sT.- S E N Z A C L connected 26-11-18 02:30:22
+18-11-26 02:30:32  Net - cB.DrK connected 26-11-18 02:30:32
+18-11-26 02:30:47  Net - sT.- S E N Z A C L disconnected 26-11-18 02:30:47
+18-11-26 02:30:47  Net - CrasheR connected 26-11-18 02:30:47
+18-11-26 02:30:49  Net - extrakt09- connected 26-11-18 02:30:49
+18-11-26 02:30:52  Net - sT.- S E N Z A C L connected 26-11-18 02:30:52
+18-11-26 02:30:54  Net - extrakt09- disconnected 26-11-18 02:30:54
+18-11-26 02:30:56  Net - extrakt09- connected 26-11-18 02:30:56
+18-11-26 02:31:06  Net - Cobra connected 26-11-18 02:31:06
+18-11-26 02:31:37  Net - sT.- YnGwi3 connected 26-11-18 02:31:37
+18-11-26 02:33:35  Net - extrakt09- disconnected 26-11-18 02:33:35
+18-11-26 02:33:40  Net - extrakt09- connected 26-11-18 02:33:40
+18-11-26 02:37:06 TCP/IP File Server started
+18-11-26 02:40:58  Net - shioneD][chb0jA connected 26-11-18 02:40:58
+18-11-26 02:55:43  Net - extrakt09- disconnected 26-11-18 02:55:43
+18-11-26 02:55:43  Net - shioneD][chb0jA disconnected 26-11-18 02:55:43
+18-11-26 02:55:44  Net - CrasheR disconnected 26-11-18 02:55:44
+18-11-26 02:55:44  Net - sT.- YnGwi3 disconnected 26-11-18 02:55:44
+18-11-26 02:55:44  Net - cB.DrK disconnected 26-11-18 02:55:44
+18-11-26 02:55:45  Net - sT.- S E N Z A C L disconnected 26-11-18 02:55:45
+18-11-26 02:55:45  Net - Cobra disconnected 26-11-18 02:55:45
+18-11-26 03:07:07 TCP/IP File Server started
+18-11-26 03:37:06 TCP/IP File Server started
+18-11-26 04:07:06 TCP/IP File Server started
+18-11-26 04:37:06 TCP/IP File Server started
+18-11-26 05:07:06 TCP/IP File Server started
+18-11-26 05:37:06 TCP/IP File Server started
+18-11-26 06:07:06 TCP/IP File Server started
+18-11-26 06:37:06 TCP/IP File Server started
+18-11-26 07:07:06 TCP/IP File Server started
+18-11-26 07:37:06 TCP/IP File Server started
+18-11-26 08:07:06 TCP/IP File Server started
+18-11-26 08:37:06 TCP/IP File Server started
+18-11-26 09:07:06 TCP/IP File Server started
+18-11-26 09:37:06 TCP/IP File Server started
+18-11-26 10:07:06 TCP/IP File Server started
+18-11-26 10:37:06 TCP/IP File Server started
+18-11-26 11:07:06 TCP/IP File Server started
+18-11-26 11:37:06 TCP/IP File Server started
+18-11-26 12:07:06 TCP/IP File Server started
+18-11-26 12:37:06 TCP/IP File Server started
+18-11-26 13:07:06 TCP/IP File Server started
+18-11-26 13:37:06 TCP/IP File Server started
+18-11-26 14:07:06 TCP/IP File Server started
+18-11-26 14:37:07 TCP/IP File Server started
+18-11-26 15:07:06 TCP/IP File Server started
+18-11-26 15:37:06 TCP/IP File Server started
+18-11-26 16:07:06 TCP/IP File Server started
+18-11-26 16:37:06 TCP/IP File Server started
+18-11-26 17:07:06 TCP/IP File Server started
+18-11-26 17:37:06 TCP/IP File Server started
+18-11-26 18:07:06 TCP/IP File Server started
+18-11-26 18:37:06 TCP/IP File Server started
+18-11-26 19:01:04 Loading Map.
+18-11-26 19:01:04 Creating Weapons.
+18-11-26 19:01:04 Starting Game Server.
+18-11-26 19:01:04 TCP/IP File Server started
+18-11-26 19:01:40  Net - sk!T.Rattle connected 26-11-18 19:01:40
+18-11-26 19:01:46  Net - sk!T.Rattle connected 26-11-18 19:01:46
+18-11-26 19:01:56  Net - sT.- YnGwi3 connected 26-11-18 19:01:56
+18-11-26 19:03:04  Net - hakai WildR4P` connected 26-11-18 19:03:04
+18-11-26 19:03:25  Net - extrakt09- connected 26-11-18 19:03:25
+18-11-26 19:03:43  Net - sT.- Enigma connected 26-11-18 19:03:43
+18-11-26 19:03:57  Net - //\// Elwy connected 26-11-18 19:03:57
+18-11-26 19:07:06 TCP/IP File Server started
+18-11-26 19:08:09  Net - {TT} ShioN connected 26-11-18 19:08:09
+18-11-26 19:18:35  Net - hakai WildR4P` disconnected 26-11-18 19:18:35
+18-11-26 19:18:58  Net - hakai WildR4P` connected 26-11-18 19:18:58
+18-11-26 19:37:06 TCP/IP File Server started
+18-11-26 19:40:03  Net - hakai WildR4P` disconnected 26-11-18 19:40:03
+18-11-26 19:40:03  Net - sT.- YnGwi3 disconnected 26-11-18 19:40:03
+18-11-26 19:40:04  Net - {TT} ShioN disconnected 26-11-18 19:40:04
+18-11-26 19:40:10  Net - //\// Elwy disconnected 26-11-18 19:40:10
+18-11-26 19:40:13  Net - sk!T.Rattle disconnected 26-11-18 19:40:13
+18-11-26 19:40:15  Net - extrakt09- disconnected 26-11-18 19:40:15
+18-11-26 19:40:15  Net - sT.- Enigma disconnected 26-11-18 19:40:15
+18-11-26 20:07:06 TCP/IP File Server started
+18-11-26 20:37:06 TCP/IP File Server started
+18-11-26 21:07:06 TCP/IP File Server started
+18-11-26 21:37:06 TCP/IP File Server started
+18-11-26 22:07:06 TCP/IP File Server started
+18-11-26 22:37:06 TCP/IP File Server started
+18-11-26 23:07:06 TCP/IP File Server started
+18-11-26 23:37:06 TCP/IP File Server started
+18-11-27 00:07:06 TCP/IP File Server started
+18-11-27 00:25:07 Loading Map.
+18-11-27 00:25:07 Creating Weapons.
+18-11-27 00:25:07 Starting Game Server.
+18-11-27 00:25:07 TCP/IP File Server started
+18-11-27 00:25:41  Net - jh connected 27-11-18 00:25:41
+18-11-27 00:25:45  Net - jh connected 27-11-18 00:25:45
+18-11-27 00:26:16  Net - cB.Fame connected 27-11-18 00:26:16
+18-11-27 00:26:24  Net - hakai.WildR4P` connected 27-11-18 00:26:24
+18-11-27 00:26:29  Net - hakai.WildR4P` connected 27-11-18 00:26:29
+18-11-27 00:26:30  Net - sT.- YnGwi3 connected 27-11-18 00:26:30
+18-11-27 00:26:32  Net - sT.- YnGwi3 disconnected 27-11-18 00:26:32
+18-11-27 00:26:53  Net - sT.- YnGwi3 connected 27-11-18 00:26:53
+18-11-27 00:26:54  Net - sT.- YnGwi3 disconnected 27-11-18 00:26:54
+18-11-27 00:26:58  Net - OXiD|r0x connected 27-11-18 00:26:58
+18-11-27 00:27:03  Net - OXiD|r0x connected 27-11-18 00:27:03
+18-11-27 00:27:08  Net - sT.- YnGwi3 connected 27-11-18 00:27:08
+18-11-27 00:30:45  Net - sk!T.Rattle connected 27-11-18 00:30:45
+18-11-27 00:37:06 TCP/IP File Server started
+18-11-27 00:52:58  Net - kyuu I DID MY TIME connected 27-11-18 00:52:58
+18-11-27 00:54:23  Net - kyuu I DID MY TIME disconnected 27-11-18 00:54:23
+18-11-27 01:02:51  Net - kyuu I DID MY TIME connected 27-11-18 01:02:51
+18-11-27 01:03:11  Net - cB.Fame disconnected 27-11-18 01:03:11
+18-11-27 01:03:11  Net - sk!T.Rattle disconnected 27-11-18 01:03:11
+18-11-27 01:03:11  Net - hakai.WildR4P` disconnected 27-11-18 01:03:11
+18-11-27 01:03:12  Net - jh disconnected 27-11-18 01:03:12
+18-11-27 01:03:12  Net - kyuu I DID MY TIME disconnected 27-11-18 01:03:12
+18-11-27 01:03:14  Net - sT.- YnGwi3 disconnected 27-11-18 01:03:14
+18-11-27 01:03:15  Net - OXiD|r0x disconnected 27-11-18 01:03:15
+18-11-27 01:07:06 TCP/IP File Server started
+18-11-27 01:37:06 TCP/IP File Server started
+18-11-27 02:07:07 TCP/IP File Server started
+18-11-27 02:11:45 Loading Map.
+18-11-27 02:11:45 Creating Weapons.
+18-11-27 02:11:45 Starting Game Server.
+18-11-27 02:11:45 TCP/IP File Server started
+18-11-27 02:12:00  Net - hakai.WildR4P` connected 27-11-18 02:12:00
+18-11-27 02:12:00  Net - sk!T.Rattle connected 27-11-18 02:12:00
+18-11-27 02:12:00  Net - sT.- S E N Z A C L connected 27-11-18 02:12:00
+18-11-27 02:12:17  Net - hakai.WildR4P` connected 27-11-18 02:12:17
+18-11-27 02:12:22  Net - extrakt09- connected 27-11-18 02:12:22
+18-11-27 02:12:28  Net - Cobra connected 27-11-18 02:12:28
+18-11-27 02:12:30  Net - CrasheR connected 27-11-18 02:12:30
+18-11-27 02:12:38  Net - sk!T.Rattle disconnected 27-11-18 02:12:38
+18-11-27 02:12:47  Net - sk!T.Rattle connected 27-11-18 02:12:47
+18-11-27 02:22:31  Net - CrasheR disconnected 27-11-18 02:22:31
+18-11-27 02:22:40  Net - CrasheR connected 27-11-18 02:22:40
+18-11-27 02:26:16  Net - extrakt09- disconnected 27-11-18 02:26:16
+18-11-27 02:26:19  Net - extrakt09- connected 27-11-18 02:26:19
+18-11-27 02:37:06 TCP/IP File Server started
+18-11-27 02:50:00  Net - extrakt09- disconnected 27-11-18 02:50:00
+18-11-27 02:50:01  Net - hakai.WildR4P` disconnected 27-11-18 02:50:01
+18-11-27 02:50:01  Net - CrasheR disconnected 27-11-18 02:50:01
+18-11-27 02:50:01  Net - sk!T.Rattle disconnected 27-11-18 02:50:01
+18-11-27 02:50:02  Net - Cobra disconnected 27-11-18 02:50:02
+18-11-27 02:50:02  Net - sT.- S E N Z A C L disconnected 27-11-18 02:50:02
+18-11-27 03:07:06 TCP/IP File Server started
+18-11-27 03:37:06 TCP/IP File Server started
+18-11-27 04:07:06 TCP/IP File Server started
+18-11-27 04:37:06 TCP/IP File Server started
+18-11-27 05:07:06 TCP/IP File Server started
+18-11-27 05:37:06 TCP/IP File Server started
+18-11-27 06:07:06 TCP/IP File Server started
+18-11-27 06:37:06 TCP/IP File Server started
+18-11-27 07:07:06 TCP/IP File Server started
+18-11-27 07:37:06 TCP/IP File Server started
+18-11-27 08:07:06 TCP/IP File Server started
+18-11-27 08:37:06 TCP/IP File Server started
+18-11-27 09:07:06 TCP/IP File Server started
+18-11-27 09:37:06 TCP/IP File Server started
+18-11-27 10:07:06 TCP/IP File Server started
+18-11-27 10:37:06 TCP/IP File Server started
+18-11-27 11:07:06 TCP/IP File Server started
+18-11-27 11:37:06 TCP/IP File Server started
+18-11-27 12:07:06 TCP/IP File Server started
+18-11-27 12:37:06 TCP/IP File Server started
+18-11-27 13:07:06 TCP/IP File Server started
+18-11-27 13:37:06 TCP/IP File Server started
+18-11-27 14:07:06 TCP/IP File Server started
+18-11-27 14:37:06 TCP/IP File Server started
+18-11-27 15:07:06 TCP/IP File Server started
+18-11-27 15:37:06 TCP/IP File Server started
+18-11-27 16:07:06 TCP/IP File Server started
+18-11-27 16:37:06 TCP/IP File Server started
+18-11-27 17:07:06 TCP/IP File Server started
+18-11-27 17:37:06 TCP/IP File Server started
+18-11-27 18:07:06 TCP/IP File Server started
+18-11-27 18:37:06 TCP/IP File Server started
+18-11-27 19:07:06 TCP/IP File Server started
+18-11-27 19:37:06 TCP/IP File Server started
+18-11-27 20:07:06 TCP/IP File Server started
+18-11-27 20:37:06 TCP/IP File Server started
+18-11-27 21:07:06 TCP/IP File Server started
+18-11-27 21:37:06 TCP/IP File Server started
+18-11-27 22:07:06 TCP/IP File Server started
+18-11-27 22:37:06 TCP/IP File Server started
+18-11-27 23:07:06 TCP/IP File Server started
+18-11-27 23:37:06 TCP/IP File Server started
+18-11-28 00:07:06 TCP/IP File Server started
+18-11-28 00:37:06 TCP/IP File Server started
+18-11-28 01:07:06 TCP/IP File Server started
+18-11-28 01:37:06 TCP/IP File Server started
+18-11-28 02:07:07 TCP/IP File Server started
+18-11-28 02:36:24 Loading Map.
+18-11-28 02:36:24 Creating Weapons.
+18-11-28 02:36:24 Starting Game Server.
+18-11-28 02:36:24 TCP/IP File Server started
+18-11-28 02:36:43  Net - CrasheR connected 28-11-18 02:36:43
+18-11-28 02:36:49  Net - CrasheR disconnected 28-11-18 02:36:49
+18-11-28 02:36:53  Net - sT.- S E N Z A C L connected 28-11-18 02:36:53
+18-11-28 02:36:56  Net - CrasheR connected 28-11-18 02:36:56
+18-11-28 02:36:56  Net - sT.- Enigma connected 28-11-18 02:36:56
+18-11-28 02:36:59  Net - sT.- S E N Z A C L connected 28-11-18 02:36:59
+18-11-28 02:37:05  Net - cB.DrK connected 28-11-18 02:37:05
+18-11-28 02:37:06 TCP/IP File Server started
+18-11-28 02:37:15  Net - sT.- YnGwi3 connected 28-11-18 02:37:15
+18-11-28 02:37:21  Net - N9nety N9ne connected 28-11-18 02:37:21
+18-11-28 02:38:04  Net - cB.DrK disconnected 28-11-18 02:38:04
+18-11-28 02:38:19  Net - sT.- Enigma connected 28-11-18 02:38:19
+18-11-28 02:38:22  Net - CrasheR connected 28-11-18 02:38:22
+18-11-28 02:38:44  Net - cB.DrK connected 28-11-18 02:38:44
+18-11-28 02:38:54  Net - sT.- Enigma disconnected 28-11-18 02:38:54
+18-11-28 02:39:09  Net - sT.- Enigma connected 28-11-18 02:39:09
+18-11-28 02:40:12  Net - cB.DrK disconnected 28-11-18 02:40:12
+18-11-28 02:40:14  Net - cB.DrK connected 28-11-18 02:40:14
